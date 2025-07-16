@@ -1,0 +1,8 @@
+we demonstrate a second major use: detailed diagnostics of
+model performance, speciﬁc to the photochemical modules
+operating within the global chemistry-climate and chemistry-
+transport models. Six such models are evaluated here, and
+their differences and similarities in simulating the chem-
+istry are clearly identiﬁed. The protocol speciﬁes the detailed
+chemical composition of a constrained set of air parcels in-
+cluding temperature and water vapor, embeds these parcels

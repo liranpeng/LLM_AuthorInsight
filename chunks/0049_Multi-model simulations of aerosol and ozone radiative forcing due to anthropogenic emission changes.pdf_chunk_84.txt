@@ -1,0 +1,9 @@
+6058, 1998.
+Haywood, J. M. and Shine, K. P.: Multi-spectral calculations of the
+direct radiative forcing of tropospheric sulphate and soot aerosols
+using a column model, Q. J. Roy. Meteorol. Soc., 123, 1907–
+1930, 1997.
+Hodnebrog, Ø., Myhre, G., and Samset, B. H.: How shorter black
+carbon lifetime alters its climate effect, Nat. Commun., 5, 5065,
+doi:10.1038/ncomms6065, 2014.
+Hoesly, R. M., Smith, S., Feng, L., Klimont, Z., Janssens-Maenhout,

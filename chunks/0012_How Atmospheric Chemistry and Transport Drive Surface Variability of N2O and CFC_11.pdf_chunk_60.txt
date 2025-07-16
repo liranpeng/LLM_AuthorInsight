@@ -1,0 +1,4 @@
+frequency is based on NOAA's tropospheric burden rescaled to 320 ppb. (b) Modeled loss (%/yr) of N2OX (solid lines; 
+left y-axis) and F11X (dashed lines; right y-axis). Results are shown for GMI (green, blue) and UCI (red, gold). Note: 
+F11X loss y-axis scale is twice that of N2OX loss. GMI, Global Modeling Initiative; LMDz, Laboratoire de Météorologie 
+Dynamique; MLS, Microwave Limb Sounder; N2O, Nitrous oxide; NOAA, National Oceanic and Atmospheric

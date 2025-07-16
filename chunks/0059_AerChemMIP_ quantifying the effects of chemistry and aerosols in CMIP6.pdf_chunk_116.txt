@@ -1,0 +1,9 @@
+the SSP3-7.0 scenario.
+are calculated by comparing the change in net TOA ra-
+diation ﬂuxes between two runs with the same prescribed
+SSTs, but with NTCF emissions or WMGHG (methane,
+nitrous oxide, halocarbon) concentrations perturbed from
+their pre-industrial to present-day values. Internal variabil-
+ity (mainly clouds) generates considerable interannual vari-
+ability in ERFs; therefore, at least 30 years of simulation
+are needed to characterise the present-day ERF from some

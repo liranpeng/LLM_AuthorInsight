@@ -1,0 +1,4 @@
+https://doi.org/10.5194/gmd-11-321-2018
+Shonk, J. K. P., & Hogan, R. J. (2008). Tripleclouds: An efficient method for representing horizontal cloud inhomogeneity in 1D radiation 
+schemes by using three regions at each height. Journal of Climate, 21, 2352–2370.
+Shonk, J. K. P., & Hogan, R. J. (2010). Effect of improving representation of horizontal and vertical cloud structure on the Earth's global ra-

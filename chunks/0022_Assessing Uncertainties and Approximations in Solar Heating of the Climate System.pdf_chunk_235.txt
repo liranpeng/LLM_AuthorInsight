@@ -1,0 +1,3 @@
+Meador, W. E., & W. R. Weaver (1980) Two-stream approximations to radiative transfer in planetary atmospheres: A unified description of 
+existing methods and a new improvement, Journal of the Atmospheric Sciences 37(3), 630–643.
+Mishchenko, M. I., Videen, G., Babenko, V. A., Khlebtsov, N. G., & Wriedt, T. (2004). T-matrix theory of electromagnetic scattering by

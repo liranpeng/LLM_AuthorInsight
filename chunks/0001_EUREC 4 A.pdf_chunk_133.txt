@@ -1,0 +1,8 @@
+of water stable isotopologues (as presented in Sect. 2.3.2).
+At the BCO, aboard the R/V Meteor and on the R/V MS-
+Merian, advanced Raman lidars provided continuous proﬁl-
+ing of water vapor, clouds, temperature, and aerosols. The
+nadir-staring WALES lidar on HALO likewise proﬁled wa-
+ter vapor, clouds, and aerosols. As an example of this capa-
+bility, Fig. 13 presents relative humidity data (deduced from
+temperature and absolute humidity retrievals) from the BCO

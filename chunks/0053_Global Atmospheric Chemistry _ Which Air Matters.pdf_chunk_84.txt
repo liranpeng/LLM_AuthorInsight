@@ -1,0 +1,8 @@
+show similar patterns of agreement and disagreement among
+models but emphasize the dominant role of the middle tropo-
+sphere (500–800 hPa) for O3 loss. P-O3 has distinct patterns,
+demonstrating the importance of larger NOx values in the
+upper (200–500 hPa) and lower troposphere (800–1000 hPa),
+presumably from lightning NOx. Only GMI-CTM lacks
+lower troposphere sources of O3 at about 180◦E. Overall
+the models show modest, similar amplitudes (but not always

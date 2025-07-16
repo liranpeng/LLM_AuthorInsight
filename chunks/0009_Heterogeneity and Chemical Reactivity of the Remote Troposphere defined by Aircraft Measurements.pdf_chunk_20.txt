@@ -1,0 +1,9 @@
+simulated an aircraft-like data set of 14 880 air parcels along
+the International Date Line from a separate high-resolution
+Atmos. Chem. Phys., 21, 13729–13746, 2021
+https://doi.org/10.5194/acp-21-13729-2021
+H. Guo et al.: Heterogeneity and chemical reactivity of the remote troposphere
+13731
+(0.5◦) model. Each parcel is deﬁned by the following core
+species: H2O, O3, NOx, HNO3, HNO4, PAN (peroxyacetyl
+nitrate), CH3NO3, HOOH, CH3OOH, HCHO, CH3CHO (ac-

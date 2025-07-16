@@ -1,0 +1,23 @@
+2.4
+Asia
+26 (31)
+7.9
+Eurasia2
+3.0 (3.3)
+Africa
+24 (27)
+South America
+13 (16)
+17
+11 (12)
+Other3
+2.9 (3.2)
+Global
+50 (60)
+34
+43 (48)
+1Emissions are in units of terragram (Tg). Values in parentheses include the
+20 and 11 % scaling factors for fossil fuels and biomass burning,
+respectively, to account for CO production from VOC oxidation. 2The
+Eurasian tagged tracer for BB CO includes emissions from Europe and
+northern Asia but excludes southern Asia. 3Other fossil fuel emissions

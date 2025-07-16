@@ -1,0 +1,5 @@
+2%–4%. To reach equivalent accuracy for a single time step using random selection would require about 50 
+ICAs each with full wavelength calculation (not as in McICA) versus an average of 2.8 QCAs (many grid 
+cells have less than 4 QCAs).
+The binary cloudy-or-clear within a grid cell fails to account for varying cloud thickness, and J. K. P. Shonk 
+and Hogan (2008) invented the Tripleclouds algorithm to represent in-cloud heterogeneity with a thick

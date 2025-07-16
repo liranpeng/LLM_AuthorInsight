@@ -1,0 +1,4 @@
+cloud (CF = 100%) at about 900 hPa.  The natural log of the ratio (rlnJ) is calculated for a cloud optical depth 
+(COD) ranging from 0.1 to 100.  The calculation uses Cloud-J (Prather, 2015), which does not scale COD, uses the 
+truncated (order 8) phase function, and applies a constant lower boundary albedo = 0.05.  The incident SZA ranges 
+from 0º (black) to 60º (red) in 10º intervals (blue).  The rlnJ's in this paper are restricted to 0º – 40º.  A 5 %

@@ -1,0 +1,10 @@
+X., Neale, R. B., Pinheiro, M., Qian, Y., Ullrich, P. A., Xie,
+S., Yang, Y., Zhang, Y., Zhang, K., and Zhou, T.: The DOE
+E3SM Coupled Model Version 1: Description and Results at
+High Resolution, J. Adv. Model. Earth Sy., 11, 4095–4146,
+https://doi.org/10.1029/2019MS001870, 2019.
+Cariolle, D., Lasserre-Bigorry, A., Royer, J.-F., and Geleyn, J.-F.: A
+general circulation model simulation of the springtime Antarctic
+ozone decrease and its impact on mid-latitudes, J. Geophys. Res.,
+95,
+1883–1898,

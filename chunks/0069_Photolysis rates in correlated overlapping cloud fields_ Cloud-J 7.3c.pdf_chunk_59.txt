@@ -1,0 +1,7 @@
+cloud methods (dashed lines) do not use any cloud-overlap model,
+and three approximations for the ICAs (solid lines) use the G6/.33
+model described here. The MdQCA ICA approximation was devel-
+oped in Neu et al. (2007); the AvQCA and AvDir approximations
+are developed in this paper. The J-O1D refers to the photolysis rate
+of O3 + hν →O2 + O(1D), with average values of 4 (z = 0 km) to
+9 (z = 16 km) × 10−5 s−1; and J-NO3, to all channels of the rate

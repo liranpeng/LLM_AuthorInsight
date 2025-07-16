@@ -1,0 +1,10 @@
+N2O/N2OX. 
+ 
+ 
+ 
+5 
+ 
+Figure S5. This figure complements Figure 4 and shows the annual cycle of N2O/N2OX/F11X at all 
+latitudes in each dataset. N2OX simulations are in the two top panels and middle left, while the NOAA 
+ESRL observations are in the middle right, and F11X simulations are shown in the bottom two panels. 
+Just as in supplementary Figures S3 and S4, all datasets, including F11X, are rescaled to N2OX at 320

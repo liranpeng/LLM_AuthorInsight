@@ -1,0 +1,11 @@
+IPCC-TAR (Ramaswamy et al., 2001).
+3.1.2
+The effect of changes in chemistry and climate com-
+bined
+Global mean net radiative forcing values for the difference
+“2 minus 1” (or “2 minus 1d”) are listed in Table 6. Glob-
+ally and annually averaged, the radiative forcing ranges from
+0.27 Wm−2 to 0.46 Wm−2.
+If only the three CCMs with
+detailed tropospheric and stratospheric chemistry are taken
+into account the range is rather narrow, between 0.27 and

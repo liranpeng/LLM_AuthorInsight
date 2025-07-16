@@ -1,0 +1,15 @@
+training step using an exponential moving average (EMA), which led to moderate (up to 15%)
+improvements in the time-mean RMSE metric.
+C
+Metrics
+Suppose we have an arbitrary predicted field ˆx(t, ϕ, λ) which depends on time t, latitude ϕ and
+longitude λ and its corresponding target/ground truth x(t, ϕ, λ). Let A(ϕ, λ) be a normalized weight
+Table 4: Optimization hyperparameters.
+Name
+Value
+Optimizer
+Adam
+Initial learning rate
+1 × 10−4
+Learning rate schedule
+Cosine annealing (single cycle)

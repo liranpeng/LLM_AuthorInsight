@@ -1,0 +1,8 @@
+the non-linear aspects of O3 chemistry are generated almost
+entirely during NOx loss and O3 production, and that adding
+O3 alone does not signiﬁcantly change the O3 lifetime.
+Model grid resolution is known to inﬂuence climatically
+important chemical ﬂuxes, such as O3 production (Wild and
+Prather, 2006), so we test whether resolution affects RF from
+ship NOx. Doubling the GEOS-Chem grid size to 4◦× 5◦re-
+duces the CH4 lifetime and O3 burden compared to 2◦× 2.5◦

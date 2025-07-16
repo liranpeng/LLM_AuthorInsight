@@ -1,0 +1,4 @@
+based on atmospheric observations. Nature, 569(7757), 546–550. https://doi.org/10.1038/s41586-019-1193-4
+Serva, F., Cagnazzo, C., Christiansen, B., & Yang, S. (2020). The influence of ENSO events on the stratospheric QBO in a multi-model 
+ensemble. Climate Dynamics, 54(3–4), 2561–2575. https://doi.org/10.1007/s00382-020-05131-7
+Stauffer, R. M., Thompson, A. M., Oman, L. D., & Strahan, S. E. (2019). The Effects of a 1998 Observing System Change on MERRA-2-Based

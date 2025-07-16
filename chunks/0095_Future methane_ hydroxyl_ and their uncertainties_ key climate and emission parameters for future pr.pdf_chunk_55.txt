@@ -1,0 +1,10 @@
+2 %) to test CTM interannual variability.
+3.2
+Methane lifetime sensitivity to chemistry-climate
+factors
+Having identiﬁed consistent variations in τCH4×OH across
+multiple CTMs, we examine their causes with explicit per-
+turbation tests. In these tests, we perturb a single climate or
+emission variable, simulate 3 or more years, discard the ﬁrst
+year as spinup, and analyze the difference from the unper-
+turbed simulation in the remaining years. Perturbations are

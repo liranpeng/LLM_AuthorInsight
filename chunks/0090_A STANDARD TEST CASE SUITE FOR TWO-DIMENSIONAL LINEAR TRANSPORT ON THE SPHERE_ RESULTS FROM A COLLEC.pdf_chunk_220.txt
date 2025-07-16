@@ -1,0 +1,12 @@
+(see Sect. 3.2) from high value of 1λm (left) to low value of
+1λm (right). The numerical value of ℓi is normalized with
+ℓi for CSLAM with CN5.5 (ℓ(un)
+i
+(CSLAM)) at resolution
+1λ ≈1.5. The reason for a graphical representation of “nor-
+malized” data, ℓi/ℓ(un)
+i
+(CSLAM), rather than ℓi is to give the
+reader a reference for the amount of mixing. The mixing di-
+agnostic is relatively new, and numerical values of ℓi may
+be less meaningful to the reader than normalized data. The

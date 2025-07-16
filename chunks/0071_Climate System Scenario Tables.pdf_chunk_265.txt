@@ -1,0 +1,5 @@
+using the CMIP5/ACCMIP archive. Due to the very large systematic spread across models, the statistics were calculated for the log values, but Figure 11.23 shows statistics for direct PM2.5 values. 
+Owing to the large spatial variations no global average is given. Model mean and standard deviation are shown for year 2000; differences in log10[PM2.5] are shown for 2030, 2050 and 2100. See 
+notes for Table AII.7.3 and Figure 11.23 for regions; see also Chapter 11, ES.
+1444
+Annex II

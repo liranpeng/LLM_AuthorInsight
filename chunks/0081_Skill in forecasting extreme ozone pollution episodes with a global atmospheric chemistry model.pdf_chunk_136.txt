@@ -1,0 +1,3 @@
+(( ¯S)yr for the 10-events-per-year case) is computed from Eq. (6) after the clustering algorithm that couples nearest neighbors and successive
+days, with units of 104 km squared days (km2d), where 104 km2 is about a 1◦× 1◦grid cell. Average summertime (JJA) MDA8 O3 (ppb)
+from the grid-interpolated data (grid) is area weighted, but the station average (station) is raw with all stations equally weighted. The mean

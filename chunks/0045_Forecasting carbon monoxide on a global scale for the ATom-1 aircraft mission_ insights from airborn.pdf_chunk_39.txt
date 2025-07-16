@@ -1,0 +1,8 @@
+with the QCLS observations overplotted in circles. The ob-
+servations show higher values of CO in the ﬁrst half of the
+Anchorage–Kona ﬂight compared to the other portions of the
+Paciﬁc, and this feature is reproduced in GEOS-5 as well.
+GEOS-5 agrees well with the observed mean value for CO
+on this ﬂight (Table 2). Tagged tracers (Fig. 1 bottom pan-
+els) show that non-BB sources, especially from Asia, are the
+dominant contributor to CO levels throughout the Paciﬁc,

@@ -1,0 +1,5 @@
+Geosci. Model Dev., 14, 1219–1236, 2021
+1226
+Q. Tang et al.: Interactive stratospheric ozone (O3v2) in E3SM
+Figure 5. (a, d) Time series of zonal mean SCO by latitude (unit: DU) showing the Antarctic ozone hole over the years 1995–2014 and
+(b, e) daily evolution of the ozone hole from 1 July to 31 December as measured by area (106 km2) and (c, f) minimum total column

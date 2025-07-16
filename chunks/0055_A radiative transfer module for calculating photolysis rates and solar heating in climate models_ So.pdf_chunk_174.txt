@@ -1,0 +1,16 @@
+Geosci. Model Dev., 10, 2525–2545, 2017
+www.geosci-model-dev.net/10/2525/2017/
+J. Hsu et al.: A radiative transfer module
+2543
+Biermann, U. M., Luo, B. P., and Peter, T.: Absorption Spec-
+tra and Optical Constants of Binary and Ternary Solutions
+of H2SO4, HNO3, and H2O in the Mid Infrared at At-
+mospheric Temperatures, J. Phys. Chem. A, 104, 783–793,
+https://doi.org/10.1021/jp992349i, 2000.
+Boers, R., Jensen, J. B., and Krummel, P. B.: Microphys-
+ical
+and
+short-wave
+radiative
+structure
+of

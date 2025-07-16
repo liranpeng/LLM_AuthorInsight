@@ -1,0 +1,8 @@
+tercomparison of 3-D chemistry transport models (OxComp
+in Prather et al., 2001; Gauss et al., 2003) provided informa-
+tion on the geographical distribution of ozone forcing for the
+IPCC Third Assessment Report (Ramaswamy et al., 2001).
+The IPCC Fourth Assessment report (AR4) (Forster et al.,
+2007) again used a multi-model framework (Atmospheric
+Composition Change European Network – ACCENT) to cal-
+culate maps of ozone radiative forcing (Gauss et al., 2006).

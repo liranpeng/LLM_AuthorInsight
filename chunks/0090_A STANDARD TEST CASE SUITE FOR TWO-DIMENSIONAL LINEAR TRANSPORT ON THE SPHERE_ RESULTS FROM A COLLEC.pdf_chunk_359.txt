@@ -1,0 +1,9 @@
+mate Dynamical Core: Semi-Implicit Eulerian Formulation, J.
+Sci. Comput., 25, 307–322, 2005.
+Thuburn, J. and Mclntyre, M.: Numerical advection schemes, cross-
+isentropic random walks, and correlations between chemical
+species, J. Geophys. Res., 102, 6775–6797, 1997.
+Tolstykh, M. A. and Shashkin, V. V.: Vorticity-divergence mass-
+conserving semi-Lagrangian shallow-water model using the re-
+duced grid on the sphere, J. Comput. Phys., 231, 4205–4233,
+doi:10.1016/j.jcp.2012.02.016, 2012.

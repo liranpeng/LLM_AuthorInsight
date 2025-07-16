@@ -1,0 +1,9 @@
+provisional given that our chosen validation sample of 205
+independent calendar times imperfectly samples especially low
+likelihood/high-impact extremes.
+While encouraging, CorrDiff’s emulation of radar statistics is also
+imperfect; generated radar variance is somewhat under-estimated
+on length scales greater than 100 km and over-estimated for the 10–
+50 km length scales (Fig. 1c), associated with an overall
+overdispersive PDF (Fig. 1f).
+Model calibration

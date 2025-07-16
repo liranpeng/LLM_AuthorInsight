@@ -1,0 +1,8 @@
+uses fully two-dimensional polynomial-based reconstruction
+functions of degree two for air density ρ(x,y) and tracer
+mixing ratio φ(x,y). Shape preservation is obtained with
+fully two-dimensional slope-limiting (Barth and Jespersen,
+1989). Integration over overlap areas on the cubed-sphere is
+performed via line integrals in gnomonic cubed-sphere co-
+ordinates. In Lauritzen et al. (2010) line integrals along co-
+ordinate lines were computed using exact line-integral for-

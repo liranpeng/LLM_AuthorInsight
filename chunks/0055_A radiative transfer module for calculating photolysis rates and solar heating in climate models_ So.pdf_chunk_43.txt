@@ -1,0 +1,8 @@
+(220–250–280 K) and weight-percent sulfuric acid (50–70–
+90 %) with 220 K and 70 % being typical for the stratosphere
+(McGouldrick et al., 2011). The refractive indices and size
+distributions of tropospheric aerosols are not as well charac-
+terized. Cloud-J has a collection of aerosol optical properties
+for wavelengths 300–800 nm based on community contribu-
+tions (e.g., Liousse et al., 1996; Martin et al., 2003), and this
+has been propagated for testing in Solar-J. However, if heat-

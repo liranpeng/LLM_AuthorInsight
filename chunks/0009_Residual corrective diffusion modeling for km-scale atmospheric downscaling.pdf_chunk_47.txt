@@ -1,0 +1,8 @@
+axisymmetric windspeed maximum increases from 22 ms−1 in
+ERA5 to 33 ms−1, compared with 45 in WRF – both favorable
+improvements. Ultimately, CorrDiff is able to synthesis consistent
+radar reflectivity (see top row of Fig. 3).
+For further discussion of typhoon downscaling, we refer the
+interested reader to Supplementary Section 7.2, where we explore
+additional date- times for Haikui (2023), investigate an additional
+typhoon Chanthu (2021), and analyze generated wind statistics

@@ -1,0 +1,18 @@
+https://doi.org/10.5194/gmd-14-1219-2021
+Geosci. Model Dev., 14, 1219–1236, 2021
+1236
+Q. Tang et al.: Interactive stratospheric ozone (O3v2) in E3SM
+Wargan,
+K.,
+Labow,
+G.,
+Frith,
+S.,
+Pawson,
+S.,
+Livesey,
+N., and Partyka, G.: Evaluation of the Ozone Fields in
+NASA’s MERRA-2 Reanalysis, J. Climate, 30, 2961–2988,
+https://doi.org/10.1175/JCLI-D-16-0699.1, 2017.
+Xie, S., Lin, W., Rasch, P. J., Ma, P.-L., Neale, R., Larson, V.
+E., Qian, Y., Bogenschutz, P. A., Caldwell, P., Cameron-Smith,

@@ -1,0 +1,8 @@
+Revised: 19 November 2013 – Accepted: 4 December 2013 – Published: 14 January 2014
+Abstract. Recently, a standard test case suite for 2-D lin-
+ear transport on the sphere was proposed to assess im-
+portant aspects of accuracy in geophysical ﬂuid dynam-
+ics with a “minimal” set of idealized model conﬁgura-
+tions/runs/diagnostics. Here we present results from 19 state-
+of-the-art transport scheme formulations based on ﬁnite-
+difference/ﬁnite-volume methods as well as emerging (in

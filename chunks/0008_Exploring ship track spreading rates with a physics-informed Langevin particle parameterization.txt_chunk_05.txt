@@ -1,0 +1,1 @@
+layer. The resulting spreading rate from the reduced-order stochastic model is then compared to the spreading rate in the LES. The stochastic particle velocity representation is shown to reasonably reproduce spreading rates in sheared, precipitating, and non-precipitating cases using domain-averaged turbulent statistics from the LES.

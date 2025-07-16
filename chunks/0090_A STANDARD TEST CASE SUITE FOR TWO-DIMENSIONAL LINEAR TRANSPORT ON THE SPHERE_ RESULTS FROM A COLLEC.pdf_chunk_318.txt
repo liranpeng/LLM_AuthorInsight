@@ -1,0 +1,8 @@
+(Figs. 1–2) is actually the convergence with time step, as the
+errors at differing spatial resolution runs at the same time step
+(i.e., differing CN) are similar.
+UCISOM can be run with a range of shape-preserving
+options (limiters L), and these range from no action (L =
+0, allows for transport of negative tracer in some circum-
+stances), positive deﬁnite (L = 1, tracer moments adjusted
+before transport to ensure no negative tracer anywhere within

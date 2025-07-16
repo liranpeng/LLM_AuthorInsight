@@ -1,0 +1,5 @@
+procedure leads to unphysical sharp gradients in the high latitudes for some fields. Therefore as
+part of the regridding process, we also perform a round-trip with the spherical harmonic transform
+which has the effect of filtering out these unrealistic artifacts. For the 2x coarser FV3GFS baseline,
+regridding to the 100km latitude-longitude grid upsampled the dataset from its native resolution
+and produced more profound artifacts, and so when performing the spherical harmonic transform

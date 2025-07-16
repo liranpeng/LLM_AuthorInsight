@@ -1,0 +1,8 @@
+tributions show the effect of deep convection in the trop-
+ics and synoptic and convective lifting over mid-latitudes.
+There is a strong seasonality in the CO-tracer distributions,
+which is driven by both the seasonality of CO source emis-
+sions (Fig. 1) and seasonal changes in transport. In the trop-
+ics, the largest CO-tracer mixing ratios occur during boreal
+winter (DJF), hereinafter winter (Fig. 2), compared to boreal
+summer (JJA), hereinafter summer (Fig. 3). In the northern

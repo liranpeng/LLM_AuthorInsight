@@ -1,0 +1,8 @@
+hospital databases or recorded as missing data.
+Count data were summarised as absolute numbers and 
+proportions, continuous data as means and standard devia-
+tions. Patient characteristics grouped by time to surgery were 
+compared using Analysis of Variance for the continuous 
+variables and Pearson chi-squared test for the categorical 
+variables. The threshold for statistical significance was set at 
+p = 0.05. Multivariate binary logistic regression analysis was

@@ -1,0 +1,8 @@
+emissions have changed with technology change.
+Historic stratospheric aerosol data (Table A10, annual ver-
+sion), an update of Sato et al. (1993), include moderate
+21st century aerosol amounts (Bourassa et al., 2012). Fu-
+ture aerosols, for realistic variability, include three volcanic
+eruptions in the rest of this century with properties of the
+historic Agung, El Chichón and Pinatubo eruptions, plus
+a background stratospheric aerosol forcing of −0.1 W m−2.

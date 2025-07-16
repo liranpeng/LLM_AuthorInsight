@@ -1,0 +1,9 @@
+computation, and the methods for approximating the average
+of J values over all ICAs (Sect. 3) use at most four Fast-J
+calculations no matter how many ICAs.
+Two other cloud-overlap models tested here are the MAX-
+RAN groupings G0 and G3 (Feng et al., 2004; Neu et
+al., 2007). Model G0 assumes that all vertically adjacent
+cloudy layers are a MAX group (maximally overlapped), and
+all such groups separated by a clear layer are RAN over-
+lapped. This model seems logical but has difﬁculty ﬁnding

@@ -1,0 +1,8 @@
+tests of the ability of atmospheric chemistry models to sim-
+ulate pollution episodes over the time- and space scales pos-
+sible in a global model. In this study, we develop such diag-
+nostics, speciﬁcally a grid-average climatology of daily sur-
+face ozone concentrations, with a focus on CTMs that should
+be able to simulate past events (hindcasts) using a meteo-
+rology representative of the time of the observations (e.g.,
+ERA-Interim or GEOS MERRA). The goal is to characterize

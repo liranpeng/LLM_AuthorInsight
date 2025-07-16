@@ -1,0 +1,8 @@
+and prior estimates of MCF emissions. When integrating atmo-
+spheric chemistry over this period with 3D models that spatially
+and chemically resolve the atmosphere and incorporate our best
+knowledge of weather, climate, and human activity (e.g., refs. 13,
+23, 26, and 27), these models predict much less decadal-scale OH
+variability and no clear peak in the mid-2000s. So we might con-
+clude that an important process, some chemistry–climate feedback,
+is missing from the 3D models.

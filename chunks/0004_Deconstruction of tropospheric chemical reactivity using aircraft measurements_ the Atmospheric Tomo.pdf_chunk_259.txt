@@ -1,0 +1,8 @@
+Ullmann, K., Veres, P. R., Wagner, N. L., Watt, A., Weber, R.,
+Weinzierl, B. B., Wennberg, P. O., Williamson, C. J., Wilson,
+J. C., Wolfe, G. M., Woods, C. T., Zeng, L. H., and Vieznor,
+N.: ATom: Merged Atmospheric Chemistry, Trace Gases, and
+Aerosols, Version 2. ORNL DAAC [data set], Oak Ridge, Ten-
+nessee, USA, https://doi.org/10.3334/ORNLDAAC/1925, 2021.
+Wolfe, G. M., Nicely, J. M., Clair, J. M. S., Hanisco, T. F., Liao,
+J., Oman, L. D., Brune, W. B., Miller, D., Thames, A., Abad, G.

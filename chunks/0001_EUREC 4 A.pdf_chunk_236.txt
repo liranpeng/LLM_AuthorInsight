@@ -1,0 +1,10 @@
+riod of overlap before recovering the old mooring provides
+intercomparison data and allows consecutive data records to
+be merged. Meteorological variables suitable for estimation
+of air–sea ﬂuxes from bulk formulas, as well as upper-ocean
+variables and deep ocean temperature and salinity, are mea-
+sured. Data are available from the Upper Ocean Processes
+Group at the Woods Hole Oceanographic Institution.
+B3
+ATR
+The French ATR-42 aircraft, operated by SAFIRE (Service

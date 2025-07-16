@@ -1,0 +1,6 @@
+waters that were obtained from ref. 36, ref. 35 and ref. 51. Because the data 
+(rivers, reservoirs, and estuaries) provided in ref. 35 and ref. 51 are for the 
+year 2000, we assume that these values are constant during 1980–2016. 
+Ref. 36 provided annual riverine N2O emissions using the DLEM model 
+during the same period. Here, we averaged estimates from ref. 36 with 
+those from ref. 35. In addition, we estimated N2O emissions from global

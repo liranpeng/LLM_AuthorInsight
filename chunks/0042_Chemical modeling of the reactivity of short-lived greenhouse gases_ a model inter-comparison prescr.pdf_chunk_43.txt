@@ -1,0 +1,8 @@
+tropics, gray); tropics upper (20◦S–20◦N, p < 600 hPa, cyan)
+and lower (p > 600 hPa, blue). Percentiles (10th, 50th, 90th)
+in each dimension are plotted as red dash-dot lines, and thus
+most points in the well correlated L-CH4 vs. L-O3 lie along
+the 3 quasi-diagonal intersections of red lines. The right-
+angle separation of high P -O3 and high L-O3 in the trop-
+ics reﬂects the high NOx (P -O3) in this data stream is in the
+upper troposphere and the largest L-O3 is from wet environ-

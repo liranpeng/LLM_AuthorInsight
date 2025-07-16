@@ -1,0 +1,2 @@
+best value, the TC e90-tropopause ﬂux. Tropospheric column (TC) methods calculate the O3 ﬂux across a surface at every time step in the model and resolve them geographically and tempo-
+rally at the model resolution. We have chosen three surfaces (e90-tropopause and O3 surfaces at 120 ppb and 250 ppb) at which to evaluate this ﬂux. Lowermost stratosphere (LS) methods are

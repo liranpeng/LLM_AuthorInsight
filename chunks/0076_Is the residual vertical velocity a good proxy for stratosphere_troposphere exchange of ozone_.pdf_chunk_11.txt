@@ -1,0 +1,5 @@
+100 hPa or 380 K to separate it from the middle world). The LS method is ﬁrst devised by Appenzeller et al.
+[1996] to derive STE ﬂuxes of air mass. (3) Our Brewer-Dobson method (BD method hereafter [Holton, 1990])
+calculates the monthly mean vertical residual velocity (w
+∗) from the transformed Eulerian mean equations
+[Andrews et al., 1987] and combines with the coincident average ozone (O3) to calculate a ﬂux (w∗O3). The

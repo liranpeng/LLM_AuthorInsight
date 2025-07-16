@@ -1,0 +1,6 @@
+SEVIRI, which serves as an independent dataset. The colours from white to red represent AOD from low to high values.
+Figure 3. Hourly time series of aerosol optical depth at 550 nm
+of SEVIRI data (black), the direct model (blue) and the assimila-
+tion model run (red) over the western Mediterranean (0–10◦E, 35–
+45◦N) for the period of the TRAQA campaign from 25 June until
+13 July 2012. The considered region is also marked in Fig. 5 by the

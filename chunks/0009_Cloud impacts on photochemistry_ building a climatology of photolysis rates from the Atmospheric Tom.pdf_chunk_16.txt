@@ -1,0 +1,9 @@
+time of CH4 and the cycling of tropospheric O3.
+So what makes this model vs. measurement comparison
+different? The atmospheric chemistry community has a his-
+tory of such comparisons, including photolysis rates, dat-
+ing to the early ozone depletion assessments (Nack and
+Green, 1974; M&M, 1993) and continuing to recent multi-
+model projects (Olson et al., 1997; Crawford et al., 2003;
+PhotoComp, 2010). These comparisons have been limited
+mostly to simplistic atmospheric conditions and measure-

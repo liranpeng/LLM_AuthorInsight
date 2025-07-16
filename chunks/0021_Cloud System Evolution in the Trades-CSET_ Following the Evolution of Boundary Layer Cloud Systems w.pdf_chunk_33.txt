@@ -1,0 +1,7 @@
+entire transition. By resampling the same boundary-layer air masses on the return flights as 
+the outbound flights, the measurements can naturally be compared with the Lagrangian LES 
+and SCM simulations that have proved to be valuable for constructing and analyzing better 
+models of MBL cloud and its sensitivity to environmental conditions.
+Based on this background, the following scientific goals were set for CSET:
+•
+Define the evolution of the cloud, precipitation and aerosol fields in

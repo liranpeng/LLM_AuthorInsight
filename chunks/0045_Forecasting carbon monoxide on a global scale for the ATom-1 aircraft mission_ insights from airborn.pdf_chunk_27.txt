@@ -1,0 +1,8 @@
+regions and sources, which helps track the transport of pol-
+lution outﬂow. Tagged tracers are available for BB glob-
+ally as well as biomass burning from Eurasia, North Amer-
+ica, Africa, and Central and South America, and for non-BB
+sources globally and from Europe, Asia, and North America.
+Non-BB sources include fossil fuels, biofuels, CO from oxi-
+dation of biogenic volatile organic compounds (VOCs), and
+CO from methane oxidation, as described in Ott et al. (2010).

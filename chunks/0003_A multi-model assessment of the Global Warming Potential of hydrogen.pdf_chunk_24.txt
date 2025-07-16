@@ -1,0 +1,8 @@
+the hydrogen ﬂux in the perturbed simulations (the emissions
+needed to sustain the concentration perturbation and hence include
+chemical feedbacks) and the contribution to ERF via methane
+changes added (see Method and Supplementary Table 3).
+Increased hydrogen in the atmosphere leads to higher methane
+levels. This gives an ERF from methane (green bars) of
+0.46 mW m−2 (0.39–0.51 mW m−2 model range) per ﬂux
+hydrogen (Tg yr−1). The methane increase changes both ozone

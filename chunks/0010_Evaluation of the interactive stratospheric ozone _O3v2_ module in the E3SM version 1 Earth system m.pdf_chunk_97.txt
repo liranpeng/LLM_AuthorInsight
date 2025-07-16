@@ -1,0 +1,8 @@
+SST increased uniformly by 4 K. Table 3 lists the λ numbers
+calculated from the Cess experiments from the present study
+and from Caldwell et al. (2019). The high-resolution (0.25◦)
+and low-resolution with high-resolution parameters conﬁg-
+urations are denoted as HR and LRtunedHR, respectively.
+With more physical representation of ozone interactions near
+the tropopause, the O3v2 leads to a slightly greater (in the
+magnitude) λ than the O3v1. The O3v1–O3v2 sensitivity

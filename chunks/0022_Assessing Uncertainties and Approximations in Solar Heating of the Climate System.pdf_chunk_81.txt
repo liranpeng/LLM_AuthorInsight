@@ -1,0 +1,4 @@
+angles (streams) in upward and downward directions and average over the azimuth angle. Solar-J uses eight 
+streams (four up, four down) to resolve multiple scattering and this RT solution is implemented in many 
+global chemistry models (M. J. Prather, 2015). RRTM (Mlawer et al., 1997) uses 16-stream scattering but is 
+not implemented in global models; instead, RRTMG (Clough et al., 2005) with 2-stream scattering is used

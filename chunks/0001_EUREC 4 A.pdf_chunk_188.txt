@@ -1,0 +1,7 @@
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+https://doi.org/10.5194/essd-13-4067-2021
+B. Stevens et al.: EUREC4A
+4089
+Figure 19. Global 2.5 km mesh simulations performed by ICON as part of DYAMOND-Winter for the EUREC4A period. The snapshot, with
+a magniﬁcation over the study region to show the degree of detail in the simulations, was taken from 2 February of a simulation initialized
+on 20 January and allowed to freely evolve thereafter.

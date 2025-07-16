@@ -1,0 +1,9 @@
+few methods to constrain modeled Js under cloudy condi-
+tions.
+The impact of clouds on Js is large, simply by looking
+at the proﬁle of mean Js (Figs. 1, 2, and 3), and it greatly
+complicates the comparison of J values across models. The
+modeled mean clear-sky proﬁles, including the CAFS TUV
+model (Fig. 2), tend to agree within ±10 % with the excep-
+tion of MOCA, GISS, and sometimes IFS. However, the all-
+sky (cloudy) proﬁles (Fig. 1) have a much wider spread, ex-

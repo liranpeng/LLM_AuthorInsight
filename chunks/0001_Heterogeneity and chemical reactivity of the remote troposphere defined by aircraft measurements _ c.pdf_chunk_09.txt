@@ -1,0 +1,4 @@
+scale (100 km) differ only slightly from the 2 km ATom 10 s data, indicating that much of the heterogeneity in
+tropospheric chemistry can be captured with current global chemistry models. Comparing the ATom reactivities
+over the tropical oceans with climatological statistics from six global chemistry models, we ﬁnd generally good
+agreement with the reactivity rates for O3 and CH4. Models distinctly underestimate O3 production below 2 km

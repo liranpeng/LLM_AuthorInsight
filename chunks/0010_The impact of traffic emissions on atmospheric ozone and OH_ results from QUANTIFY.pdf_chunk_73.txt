@@ -1,0 +1,8 @@
+of the chosen meteorology (year 2003) is tested by compar-
+ing to the interannual variability using the standard devia-
+tion of the transport signal derived from the transient E39/C
+simulation, which includes natural variability of the tropo-
+sphere and the stratosphere due to variations of ozone in-
+ﬂux, transport patterns (e.g. induced by El Nino), and others
+(Grewe, 2007). The inter-model standard deviations (one-σ)
+are shown in Fig. 3c–f. Overall the models calculate very

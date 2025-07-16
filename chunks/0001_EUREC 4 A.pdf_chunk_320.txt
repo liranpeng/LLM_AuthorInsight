@@ -1,0 +1,9 @@
+well as barometric sea level pressure and wind. Five SC40
+SVP-BRST drifters (from EUMETSAT grant TRUSTED to
+Météo-France/CLS) manufactured by NKE were deployed
+for three short periods of time from the R/V Atalante be-
+fore being ﬁnally released at sea between 10 and 14 Febru-
+ary 2020. Each drifter provided high-precision measure-
+ments of temperature at 20 cm depth and of barometric sea
+level pressure. Two SC40 SVP-BSC drifters (from Météo-
+France/LOCEAN with CNES/SMOS support) manufactured

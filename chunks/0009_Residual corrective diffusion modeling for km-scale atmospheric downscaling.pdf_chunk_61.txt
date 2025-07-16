@@ -1,0 +1,9 @@
+scenarios and assessing whether the generated weather
+envelope appropriately reflects climate sensitivity,
+particularly concerning extreme events.
+4. 4.
+Synthesizing sub-km sensor observations: To achieve effective
+resolutions beyond what is possible to simulate today, and
+sidestep issues of numerical simulation, it would be
+interesting to test whether variants of CorrDiff can be trained
+to generate raw senor observations where dense networks

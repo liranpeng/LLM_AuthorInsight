@@ -1,0 +1,22 @@
+See text.
+the complement.
+wL1(#1) = f L1
+(1)
+wL1(#2) = 1 −f L1
+(2)
+The likelihood of the cloudy layer in L2 above is
+wL2(#1) = wL2(#2) = f L2.
+(3)
+The total weight W for each ICA #1 and #2 is then the prod-
+uct of wL1 and wL2.
+W L1-L2(#1) = wL1(#1)wL2(#1) = f L1f L2
+= 0.15 × 0.20 = 3% (see Fig. 1)
+(4)
+W L1-L2(#2) = wL1(#2)wL2(#2) = (1 −f L1)f L2
+= 0.85 × 0.20 = 17%
+(5)
+Similar rules apply to ICAs #3 and #4,
+wL1(#3) = f L1 and wL2(#3) = 1 −f L2,
+(6)
+wL1(#4) = 1 −f L1 and wL2(#4) = 1 −f L2,
+(7)

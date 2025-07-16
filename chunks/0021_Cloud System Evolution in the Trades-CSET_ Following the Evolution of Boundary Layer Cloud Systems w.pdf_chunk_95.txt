@@ -1,0 +1,5 @@
+with downstream and upstream differences of 4- 8 °C and the mean near-surface winds 
+decreasing in speed and the cloudiness decreases (roughly 80-90% to 40-50 %; Fig. 6).
+Sampling areas at the beginning and the ends of individual trajectories for the 14 flights are 
+overlain over the mean cloudiness from the GOES analyses shown in Fig. 6. Most of the 
+initial sampling (blue) areas are in high cloudiness areas relative to the areas at the end

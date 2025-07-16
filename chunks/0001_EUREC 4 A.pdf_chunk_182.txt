@@ -1,0 +1,8 @@
+to track the Lagrangian evolution of the ﬂow, and simula-
+tions with open boundaries matched either to meteorologi-
+cal/oceanographic analyses or the free-running global simu-
+lations. Few if any ﬁeld studies have beneﬁted from such a
+rich complement of modeling activities.
+Some of the challenges to evaluating these simulations are
+illustrated with the help of preliminary, but idealized, large-
+eddy simulations with the forcing speciﬁed based on pre-

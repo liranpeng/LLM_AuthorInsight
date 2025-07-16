@@ -1,0 +1,4 @@
+of STE of air mass or O3 [Appenzeller et al., 1996; Tie and Hess, 1997; Olsen et al., 2004] while its importance for
+interannual variability of STE is not known. For example, the mass tendency was not considered in the study
+of Olsen et al. [2013] because of the poor vertical coverage in Aura Microwave Limb Sounder satellite O3 data
+in the LMS. Ozone chemistry in the LMS is often neglected [Olsen et al., 2004, 2013] on the basis of being

@@ -1,0 +1,4 @@
+due to stratospheric change is shown only for the models that calculate stratospheric chemistry explicitly. Model numbering as in Table 1.
+For “2 minus 1” only coupled CCMs are shown. The radiative forcing calculations are made by the UiO-RTM, and the tropopause level is
+based on the NCEP year 2000 reanalysis.
+Table 7. Annually and globally averaged adjusted radiative forcing calculated by the ULAQ radiative transfer model (Wm−2) taking into

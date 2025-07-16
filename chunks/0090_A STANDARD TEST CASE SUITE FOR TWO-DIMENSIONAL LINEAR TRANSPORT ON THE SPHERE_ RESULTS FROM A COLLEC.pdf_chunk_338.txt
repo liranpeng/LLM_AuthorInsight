@@ -1,0 +1,9 @@
+Comput. Phys., 14, 227–253, 1974.
+Hundsdorfer, W., Koren, B., Loon, M. V., and Verwer, J. G.: A Posi-
+tive Finite-Difference Advection Scheme, J. Comput. Phys., 117,
+35–46, 1995.
+Ju, L., Ringler, T., and Gunzburger, M.: Numerical Techniques for
+Global Atmospheric Models, chap. Voronoi Tessellations and
+Their Application to Climate and Global Modeling, 313–342,
+Springer, 1st Edn., 2011.
+Kaas, E., Sørensen, B., Lauritzen, P. H., and Hansen, A. B.: A hy-

@@ -1,0 +1,8 @@
+nality and simple data structure. It also trivially lends itself
+to operations such as zonal/meridional averaging routinely
+Published by Copernicus Publications on behalf of the European Geosciences Union.
+106
+P. H. Lauritzen et al.: Results from standard test case suite
+applied in global data analysis. Primarily triggered by re-
+quirements for efﬁcient domain decomposition and minimal
+data movement between decomposition patches in massive

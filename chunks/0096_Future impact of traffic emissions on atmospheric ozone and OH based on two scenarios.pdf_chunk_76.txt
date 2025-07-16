@@ -1,0 +1,9 @@
+largest O3 RF, and this forcing term will more than double
+between 2025 and 2050, if the emissions evolve according to
+the A1B scenario. The O3 RF from SHIP will also increase
+over the same period, while ROAD will evolve from being
+the transport sector with the largest O3 radiative forcing in
+year 2000 (Myhre et al., 2011) to only represent 6 % of the
+total transport-induced O3 RF in 2050 A1B. Further discus-
+sion of short-term O3 RF and comparisons with other studies
+are given in Sect. 4.

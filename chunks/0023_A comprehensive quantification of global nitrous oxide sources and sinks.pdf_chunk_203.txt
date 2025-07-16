@@ -1,0 +1,9 @@
+upwelling50.
+Article
+Extended Data Fig. 3 | Comparison of annual total N2O emissions at global 
+and regional scales estimated by bottom-up and top-down approaches. 
+The blue lines represent the mean N2O emission from bottom-up methods and 
+the shaded areas show minimum and maximum estimates; the gold lines 
+represent the mean N2O emission from top-down methods and the shaded 
+areas show minimum and maximum estimates.
+Extended Data Fig. 4 | Global agricultural N2O emissions. a, Direct emission

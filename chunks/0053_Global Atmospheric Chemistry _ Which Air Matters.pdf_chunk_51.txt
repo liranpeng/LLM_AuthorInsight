@@ -1,0 +1,8 @@
+all of which are simulated in CTM–CCMs.
+What key constituents are needed for modeling reactivity?
+Models simulate many tens to hundreds of chemical species.
+While many are important for calculating the instantaneous
+reaction rates, e.g., O(1D), they are not the key species.
+Key is deﬁned here as a constituent whose initial value sig-
+niﬁcantly affects the 24 h reactivity, whereas other species
+can be initialized to any reasonable value and not affect it.

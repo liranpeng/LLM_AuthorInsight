@@ -1,0 +1,8 @@
+ﬁx greatly reduced O3 production (P-O3) in the lower tro-
+posphere. A second NOx problem involved the propagation
+of polluted proﬁles from the Los Angeles basin to gap-ﬁlling
+over the tropical eastern Paciﬁc. This correction resulted in
+the update of the modeling data stream to version 2b. These
+NOx errors cause noticeable changes in reactivities, espe-
+cially P-O3. Other decision errors led us to decrease the
+southern latitude extent of the Atlantic and Paciﬁc transects

@@ -1,0 +1,10 @@
+ther comparisons of the AirBase and EMEP networks and the
+AQS and CASTNET networks could use a smaller mask with
+higher-quality score and focus on exact-day matches (con-
+current sampling) as we do with the CTM hindcasts below.
+3
+UCI CTM simulation of years 2005–2006
+We use the gridded daily O3 observations described above
+to evaluate the UCI CTM. This model is a tropospheric
+CTM driven by meteorology from the European Centre
+for Medium-Range Weather Forecasts (ECMWF) Integrated

@@ -1,0 +1,9 @@
+Sect. 10.8.4 of IPCC (2013), i.e., TCRE = TCR × CAF/C0,
+where C0 = preindustrial atmospheric CO2 mass = 590 PgC
+and CAF = Catm/Csum, Catm = atmospheric CO2 mass mi-
+nus C0 and Csum = cumulative CO2 emissions (all evaluated
+at year 2100).
+We ﬁnd TCRE = 1.54 ◦C per 1000 PgC at 2100 with
+constant emissions (which yields cumulative emissions of
+1180 PgC at 2100, which is near the midpoint of the range
+assessed by IPCC, i.e., 0.8 to 2.5 ◦C per 1000 PgC (IPCC,

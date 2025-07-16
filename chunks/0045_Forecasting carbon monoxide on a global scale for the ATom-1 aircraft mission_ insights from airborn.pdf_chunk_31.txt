@@ -1,0 +1,10 @@
+CO is lost by reaction with OH using ﬁxed monthly OH ﬁelds
+archived from the GMI CTM. Figure S2 shows the methane
+and OH ﬁelds included in the FP system.
+3
+GEOS-5 chemical forecasting for ATom
+During the ATom mission, the GEOS-5 model was engaged
+to provide chemical forecasts for each ﬂight that include the
+major chemical species and, for CO, tagged tracers for differ-
+ent sources. The chemical forecasts were used together with
+meteorological forecasts for day-to-day ﬂight planning, al-

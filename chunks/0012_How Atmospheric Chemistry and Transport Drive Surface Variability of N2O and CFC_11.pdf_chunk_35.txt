@@ -1,0 +1,6 @@
+variability clearly shows a QBO signal and is nearly identical across the three records, except when the 
+640 GHz channel fails in the 2nd half of 2012. In the tropical lower-stratosphere, the downward propagating 
+zonal winds of the QBO alternate direction every ∼28 months. The shear produced by descending winds 
+can enhance or suppress transport of N2O to the middle stratosphere where it is destroyed (∼10 hPa), and 
+thus generate a QBO signal in the loss of N2O.
+RUIZ ET AL.

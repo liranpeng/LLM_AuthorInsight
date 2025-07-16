@@ -1,0 +1,8 @@
+similation shift in satellite systems (Wargan et al., 2017), as
+this has been documented for the MERRA-2 meteorological
+ﬁelds (Douglass et al., 2017; Stauffer et al., 2019).
+We present a Taylor diagram for the mean annual SCO
+cycle [1] and the SD/SCO [2] in Fig. 3a. What is being eval-
+uated in [1] is the model simulation of the 2D area-weighted
+pattern in Fig. 1, and in [2] the 1D (area-weighted) line plots
+in Fig. 2 are evaluated (but for 1995–2014 of the EAM ver-

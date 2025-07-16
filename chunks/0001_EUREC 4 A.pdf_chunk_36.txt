@@ -1,0 +1,9 @@
+of scales.
+Initially EUREC4A was proposed as a way to test hypoth-
+esized cloud-feedback mechanisms thought to explain large
+differences in model estimates of climate sensitivity, as well
+as to provide benchmark measurements for a new genera-
+tion of models and satellite observations (Bony et al., 2017).
+To meet these objectives required quantifying different mea-
+sures of clouds in the trade winds as a function of their
+large-scale environment. In the past, efforts to use measure-

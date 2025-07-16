@@ -1,0 +1,8 @@
+of occurrence of chemical species in air parcels for the six
+models here. These diagnostics are readily suited to high-
+frequency in situ observations from an extensive aircraft mis-
+sion such as ATom, for example see Köppe et al. (2009). This
+paper then takes a novel approach by focusing on the chem-
+ical budgets for tropospheric ozone and methane. In addi-
+tion to weighting a parcel according to its occurrence or par-
+cel mass, we include a factor that accounts for the model-

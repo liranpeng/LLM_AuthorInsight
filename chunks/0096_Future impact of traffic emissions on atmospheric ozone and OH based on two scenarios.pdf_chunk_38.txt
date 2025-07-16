@@ -1,0 +1,4 @@
+12215
+Fig. 2. Mean perturbations of ozone (ppbv) during July for the 2050 A1B scenario due to a 5 % perturbation of aircraft emissions (top), ship
+emissions (middle), and road trafﬁc emissions (bottom). The left column shows ozone perturbations in the upper troposphere (300–200 hPa)
+for aircraft and in the lower troposphere (> 800 hPa) for ship and road trafﬁc, while the right column shows zonal mean perturbations for

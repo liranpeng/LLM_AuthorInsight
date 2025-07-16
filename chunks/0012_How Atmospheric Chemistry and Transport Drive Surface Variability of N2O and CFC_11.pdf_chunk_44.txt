@@ -1,0 +1,7 @@
+ERA, ECMF Re-Analysis; GMI, Global Modeling Initiative; GSFC, Goddard Space Flight Center; IFS, Integrated 
+Forecast System; LMDz, Laboratoire de Météorologie Dynamique; MERRA-2, Modern-Era Retrospective analysis for 
+Research and Applications-2.
+Table 1 
+Participating Models
+Journal of Geophysical Research: Atmospheres
+tracer, the loss frequency (%/yr) values are calculated directly from the model loss divided by the model

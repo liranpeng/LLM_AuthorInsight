@@ -1,0 +1,8 @@
+emissions. For the US, a clear pattern of decreasing episode
+sizes for successive years in the decade can be seen, con-
+sistent with reductions in precursor emissions. For EU, this
+pattern is less apparent; however the standout features are the
+CCDFs for 2003 and 2006, which have much larger episodes
+than other years. The annual number of AQX events and ( ¯S)
+values support this conclusion, as seen in Table 3.
+The sensitivity of these diagnostics to grid resolution

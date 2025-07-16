@@ -1,0 +1,8 @@
+global anthropogenic and biomass burning CO sources with
+a ﬁrst-order decay lifetime of 50 days (Shindell et al., 2008;
+Fang et al., 2011; Doherty et al., 2013). This idealised tracer
+is relatively long lived such that it can undergo interhemi-
+spheric transport and be used to diagnose how changes in
+transport from source regions affect the distributions of trace
+gas species with similar lifetimes (such as CO and O3).
+Monthly CO-tracer ﬁelds were generated for two 10-year

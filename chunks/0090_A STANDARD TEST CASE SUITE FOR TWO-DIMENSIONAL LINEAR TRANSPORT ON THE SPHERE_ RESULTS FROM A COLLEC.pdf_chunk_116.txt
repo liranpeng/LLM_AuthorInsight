@@ -1,0 +1,8 @@
+The distributions are placed into the western and eastern
+hemisphere, respectively, so that model developers can inves-
+tigate the symmetry of the computed solutions. A series of di-
+agnostics are used to assess various aspects of accuracy. For
+speciﬁc details on the test suite setup, we refer to LSPT2012.
+Not all models provided a complete data set and/or ran
+the suite exactly complying with the test case speciﬁcations.
+When data are missing or non-existent in histograms, the

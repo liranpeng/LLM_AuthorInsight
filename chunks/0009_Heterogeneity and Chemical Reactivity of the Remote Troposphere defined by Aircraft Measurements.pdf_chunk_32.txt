@@ -1,0 +1,8 @@
+as nitrogen oxides (NOx = NO + NO2) and hydrogen per-
+oxide (HOOH) (step 1) and then calculate the CH4 and O3
+reactivities from these species (step 2). There is no single
+average measurement that can test the verisimilitude of the
+models. Stratospheric studies such as Douglass et al. (1999)
+have provided a quantitative basis for testing chemistry and
+transport and deﬁning model errors, but few of these studies
+have tackled the problem of modeling the heterogeneity of

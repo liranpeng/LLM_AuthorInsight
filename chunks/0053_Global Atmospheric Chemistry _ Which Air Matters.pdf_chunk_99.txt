@@ -1,0 +1,8 @@
+greatly along longitude transects in the mid-Paciﬁc. The
+point-to-point variance in 3-D will be very large, but, if we
+average over regional domains, can we achieve a represen-
+tative mean value for reactivity? Based on the proﬁles of
+reactivity (Fig. 3), we take three pressure domains (bound-
+aries at the surface, 850, 500, and 200 hPa, but with strato-
+spheric values screened out by model-designated discrimi-
+nators) and three latitude domains (60–20◦S, 20◦S–20◦N,

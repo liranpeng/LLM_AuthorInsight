@@ -1,0 +1,8 @@
+ple cell (with 76 m path length), with detection using a
+liquid-nitrogen-cooled HgCdTe detector. A separate laser
+and detector are used to measure methane and nitrous
+oxide in the same cell. In-ﬂight calibrations were conducted
+with gases traceable to the NOAA WMO (X2014) scale,
+with calibration of tanks before ATom-1 and after ATom-2
+(February 2017) showing no signiﬁcant change in the
+CO concentration in the gas standards. The inlet for the

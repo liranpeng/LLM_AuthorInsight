@@ -1,0 +1,9 @@
+returned to their initial position without altering their initial
+value. In the test cases presented here, the trajectories are not
+exact, and the error norms are therefore non-zero. Note that
+this is not the case for HEL since the mixing/diffusion is ir-
+reversible.
+The scheme uses the same coupling between ﬂuid density
+and tracer mass as the CSLAM scheme, although the nudg-
+ing of Eulerian cell averages is done separately for density
+and mass, but constrained by monotonicity in tracer mixing

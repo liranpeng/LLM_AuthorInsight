@@ -1,0 +1,4 @@
+rates and O(1D) densities from the MLS profiles, providing the loss of N2O throughout the column. Solar cy-
+cle variability in photolysis rates is not included in these calculations, but an estimate of photolysis changes 
+is discussed in Section 2.4. N2O loss is calculated for each monthly profile and latitude bin from August 2004 
+through December 2018. The seasonal pattern of N2O loss is matched very well by the CTMs (see P2015).

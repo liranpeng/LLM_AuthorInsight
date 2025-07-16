@@ -1,0 +1,8 @@
+be included with little impact on the computational cost of
+climate simulations. Linoz v2 calculates the ﬁrst-order Tay-
+lor expansion terms for the stratospheric ozone production
+and loss based on local temperature, local ozone abundance,
+and the overhead ozone column and is tabulated for differ-
+ent levels of ozone-depleting substances. Linoz has been ap-
+plied in various chemistry transport models (CTMs), includ-
+ing the University of California, Irvine (UCI) CTM, and pro-

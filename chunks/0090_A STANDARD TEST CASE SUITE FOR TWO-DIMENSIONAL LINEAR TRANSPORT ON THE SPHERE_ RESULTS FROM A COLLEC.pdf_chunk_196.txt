@@ -1,0 +1,9 @@
+www.geosci-model-dev.net/7/105/2014/
+P. H. Lauritzen et al.: Results from standard test case suite
+125
+Fig. 9. Same as Figs. 7 and 8 but for regular latitude–longitude grid-based models.
+two different air masses) will move toward each other along
+straight lines in the scatterplot. These lines are called mix-
+ing lines. The area spanned by all possible mixing lines is
+referred to as the “convex hull” and is the bow-shaped area
+on the scatterplots. If the scatter point moves into any area

@@ -1,0 +1,8 @@
+ical ATom reactivities is shown in comparisons with proba-
+bility densities below (Fig. 5).
+How important is it for the models to represent the ex-
+tremes of reactivity? While the sorted reactivity curves
+(Fig. 1, Tables 2 and S8) continue to steepen from the 90th
+to 97th percentile, the slope does not change that much. Thus
+we can estimate the 99th + percentile contributes < 5 % of
+the total reactivity. Thus, if our model misses the top 1 % of

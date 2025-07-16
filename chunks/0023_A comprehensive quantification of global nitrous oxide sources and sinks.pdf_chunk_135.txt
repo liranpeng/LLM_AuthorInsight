@@ -1,0 +1,7 @@
+waters’ consist of emissions from rivers, reservoirs, lakes, estuaries and 
+coastal zone, and is the ensemble mean of an average of three invento-
+ries (EDGAR v4.3.2, FAOSTAT, GAINS), and the mean of process-based 
+models. The anthropogenic emission estimated in ref. 36 considered 
+annual nitrogen inputs and other environmental factors (that is, cli-
+mate, increased CO2 and land cover change). For long-term average 
+in rivers, reservoirs, estuaries and lakes, we applied a mean of 56%

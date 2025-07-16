@@ -1,0 +1,13 @@
+0.0005–0.003
+0.003–0.1
+0.1–0.3
+0.3–1
+1–2.5
+2.5–10
+diffusion is implemented following Louis (1979), and con-
+vection is implemented following Bechtold et al. (2001). The
+dynamics within the CTM are forced by meteorological anal-
+ysis ﬁelds (pressure, winds, temperature, speciﬁc humidity)
+from ARPEGE, the operational numerical weather predic-
+tion model of Météo-France. MOCAGE has 47 vertical hy-
+brid sigma-pressure levels from the surface up to 5 hPa. The

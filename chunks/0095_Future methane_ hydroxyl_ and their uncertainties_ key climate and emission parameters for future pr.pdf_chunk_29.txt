@@ -1,0 +1,10 @@
+species and 236 chemical reactions that simulate aerosols
+in addition to the HOx-NOx-VOC-ozone system. Photol-
+ysis rates are calculated with the Fast-JX method, using
+aerosol optical depths that are simulated internally, and
+ozone columns from the TOMS and SBUV satellites (until
+2008) or GEOS-5 assimilation of satellite data (after 2008).
+For purposes of stratosphere-troposphere exchange, strato-
+spheric ozone is simulated with Linoz.
+2.4
+Emissions

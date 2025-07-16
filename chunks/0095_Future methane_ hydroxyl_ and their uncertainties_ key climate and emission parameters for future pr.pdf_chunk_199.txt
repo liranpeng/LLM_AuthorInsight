@@ -1,0 +1,8 @@
+41–57, doi:10.1039/b417412g, 2005.
+Stolarski, R. S. and Frith, S. M.: Search for evidence of trend slow-
+down in the long-term TOMS/SBUV total ozone data record: the
+importance of instrument drift uncertainty, Atmos. Chem. Phys.,
+6, 4057–4065, doi:10.5194/acp-6-4057-2006, 2006.
+Søvde, O. A., Prather, M. J., Isaksen, I. S. A., Berntsen, T. K.,
+Stordal, F., Zhu, X., Holmes, C. D., and Hsu, J.: The chemical
+transport model Oslo CTM3, Geosci. Model Dev., 5, 1441–1469,

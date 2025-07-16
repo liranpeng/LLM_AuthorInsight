@@ -1,0 +1,7 @@
+stochastically downscaling multiple variables simultaneously while
+also transferring input information to predict a new field (i.e.,
+channel synthesis). If successful, this paves the way towards ML
+downscaling systems that produce regional high-resolution weather
+as a postprocessing of coarser global predictions. As a proof of
+concept we will demonstrate such a ML model trained on high-
+resolution data from the Weather Research and Forecasting (WRF)

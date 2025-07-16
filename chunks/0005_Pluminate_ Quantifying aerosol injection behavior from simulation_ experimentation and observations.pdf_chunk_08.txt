@@ -1,0 +1,10 @@
+@techreport{osti_2430132, author = {Patel, Lekha
+and Zenker, Jake Paul and Pattyn, Christian
+Alexander and Warburton, Pierce David and Shuler,
+Kurtis Woodfin and McMichael, Lucas and Schmidt,
+Michael John and Blossey, Peter and Roesler, Erika
+Louise and Mondragon, Kathryn and others}, title =
+{Pluminate: Quantifying aerosol injection behavior
+from simulation, experimentation and
+observations}, institution = {Sandia National Lab.
+(SNL-NM), Albuquerque, NM (United States)}, annote

@@ -1,0 +1,7 @@
+that evolution.
+1) Introduction and Motivation
+Boundary-layer clouds in the form of stratocumulus and small marine cumulus are the most 
+frequently observed cloud types over the Earth’s oceans, are the most abundant types 
+globally (Norris, 1998) and have an important impact on the Earth’s radiation budget 
+(Hartmann and Short 1980). The energy and moisture fluxes associated with these clouds are 
+critical in maintaining the thermodynamic structure of the lower troposphere. Thus, both the

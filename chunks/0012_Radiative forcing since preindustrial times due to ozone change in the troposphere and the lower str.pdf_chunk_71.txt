@@ -1,0 +1,8 @@
+simulate present-day atmospheric composition and are used
+in other publications of the respective model groups in the
+scientiﬁc literature. Year 2000 concentrations of N2O, CH4,
+and CO2 were chosen by the modelers. For the 1850 simu-
+lations, all anthropogenic emissions of NOx, CH4, CO, and
+NMHCs were switched off. Biomass burning emissions were
+reduced by 90%, a common assumption also used in ear-
+lier experiments (Mickley et al., 1999; Shindell et al., 2003;

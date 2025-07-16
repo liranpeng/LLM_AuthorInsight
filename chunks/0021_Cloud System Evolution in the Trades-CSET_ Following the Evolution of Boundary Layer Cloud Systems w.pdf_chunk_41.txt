@@ -1,0 +1,5 @@
+precipitation, and turbulence properties. The instrumentation is listed in Table 1 and 
+described in detail on the EOL website (http://www.eol.ucar.edu/raf/instruments/doc/). The 
+GV was well-instrumented for making in situ characterizations of the mean and turbulent 
+wind and thermodynamic structures below, in and above the cloud layer. Further, aerosol, 
+cloud and precipitation observations were made from the G-V using several probes. The GV

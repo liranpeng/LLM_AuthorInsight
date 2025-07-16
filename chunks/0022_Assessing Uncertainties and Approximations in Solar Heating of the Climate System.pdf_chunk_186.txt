@@ -1,0 +1,5 @@
+minor costs in that about 56% of the Earth, rather than 50%, will require radiation calls every time step.
+2.	 Geometrical, expanding atmosphere, level 1. Shifting from geopotential to geometric coordinates 
+is a conceptual change and will need more thought on how to account for the extra mass in the upper 
+layers as well as the extra solar heating (P2019) (T1/R25).
+3.	 Stratospheric heating, level 1. Differences in stratospheric heating rates between RRTMG-SW and

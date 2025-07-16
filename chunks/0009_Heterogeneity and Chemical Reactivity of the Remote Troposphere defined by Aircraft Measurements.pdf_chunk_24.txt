@@ -1,0 +1,8 @@
+H2018). All models agreed that a small fraction of chemi-
+cally hot air parcels in the synthetic data set controlled most
+of the total reactivity. Some models had difﬁculty in imple-
+menting the A runs because they overwrote the speciﬁed wa-
+ter vapor with the modeled value, but this problem is ﬁxed
+here. In both P2017 and P2018, the GISS-E2 model stood
+out with the most unusual chemistry patterns and sometimes
+illogical correlations. Efforts by a co-author to clarify the

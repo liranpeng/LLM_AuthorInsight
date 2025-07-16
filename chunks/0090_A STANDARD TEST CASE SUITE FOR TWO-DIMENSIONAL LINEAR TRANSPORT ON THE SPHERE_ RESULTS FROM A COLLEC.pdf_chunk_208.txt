@@ -1,0 +1,19 @@
+SBC-CN1.0
+FARSIGHT-CN10.4
+CSLAM-CN5.5
+CCSRG-5.7
+UCISOM-CN0.8
+UCISOM-CN1.0
+HEL-CN5.5
+HOMME-p6-CN0.13
+HEL-CN1.0
+HEL-ND-CN1.0
+HEL-ND-CN5.5
+SBC-CN5.2
+LPM-CN
+li/li
+(un)(CSLAM-CN5.5, ∆λ ≈ ∆λm ≈ 1.5°)
+ 
+Mixing diagnostics at resolution ∆λm
+Fig. 15. A histogram of mixing diagnostics (stacked) at resolutions 1λ ≈1.5◦(upper), 1λ ≈0.75◦(middle), and 1λ ≈1λm (lower). The
+ordering is according to minimal resolution 1λm for the respective unlimited schemes (see Fig. 3 ﬁrst row). Above each scheme acronym

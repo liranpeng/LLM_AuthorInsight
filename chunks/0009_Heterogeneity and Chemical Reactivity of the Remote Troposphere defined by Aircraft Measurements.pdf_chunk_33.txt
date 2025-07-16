@@ -1,0 +1,10 @@
+tropospheric chemistry. The major model differences lie in
+the ﬁrst step because when we specify the mix of key chemi-
+cal species, most models agree on the CH4 and O3 chemical
+budgets (P2018). The intent of ATom was to collect an at-
+mospheric sampling of all the key species and the statistics
+deﬁning their spatial variability and thus that of the reactivi-
+ties of CH4 and O3.
+https://doi.org/10.5194/acp-21-13729-2021
+Atmos. Chem. Phys., 21, 13729–13746, 2021
+13732

@@ -1,0 +1,10 @@
+models without interactive chemistry, RFMIP speciﬁes that
+piClim-aerO3 uses the present-day tropospheric and strato-
+spheric ozone climatology, whereas AerChemMIP speciﬁes
+that piClim-NTCF uses the control (pre-industrial) ozone cli-
+matology.
+5.2
+Detection and Attribution MIP (DAMIP)
+There is some overlap between the AerChemMIP coupled
+model experiments and those requested in DAMIP. For ex-
+ample, AerChemMIP requires the extra historical runs from

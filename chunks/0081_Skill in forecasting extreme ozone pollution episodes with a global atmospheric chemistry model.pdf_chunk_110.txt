@@ -1,0 +1,9 @@
+effectively a measure of their areal extent (km2) and dura-
+tion (days), the robustness of the clustering algorithm, partic-
+ularly the linkage across days, needs to be examined. Most
+episodes showed a progression of area vs. time that resem-
+bled a normal distribution. Occasionally episodes resemble
+www.atmos-chem-phys.net/14/7721/2014/
+Atmos. Chem. Phys., 14, 7721–7739, 2014
+7732
+J. L. Schnell et al.: Skill in forecasting extreme ozone pollution episodes

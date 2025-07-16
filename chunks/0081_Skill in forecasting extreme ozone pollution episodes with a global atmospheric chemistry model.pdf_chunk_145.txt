@@ -1,0 +1,8 @@
+on row one of Table 3) by comparing the individual years to
+one another. The AD test shows that, in EU, year 2006 (a rel-
+atively bad year) was statistically different from several years
+(2000, 2001, 2002, 2004, 2005) at the 95 % conﬁdence level
+and 2009 at the 90 % level. For the US, the year 2009 (good)
+was found to be statistically different (p < 0.05) from the year
+2005 (bad); at the 90% level, the year 2005 was also found to
+be different from years 2000 and 2003. The tests can also be

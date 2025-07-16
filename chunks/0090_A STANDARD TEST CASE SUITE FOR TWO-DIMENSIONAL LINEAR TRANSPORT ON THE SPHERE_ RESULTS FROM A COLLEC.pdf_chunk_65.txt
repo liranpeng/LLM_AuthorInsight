@@ -1,0 +1,10 @@
+is used (e.g., Nair et al., 2005). For details on the SLFV
+schemes, see Appendix A14.
+2.1.3
+Wave-propagation algorithm
+Related to the “swept area” approaches described above, in
+the sense that this algorithm has some conceptual similar-
+ities, is the wave-propagation algorithm of LeVeque (2002).
+The speciﬁc version of this algorithm is referred to as CLAW
+as it is implemented in the general Clawpack package (LeV-
+eque, 2006). The wave-propagation algorithm can be viewed

@@ -1,0 +1,8 @@
+heating rates but very large root mean square (rms) errors:
+e.g., ±105 W m−2 in surface heating with an SZA of 45◦;
+±3 K day−1 in layers with partly cloudy atmospheres (Pincus
+et al., 2003). It is cost efﬁcient in that each wavelength bin re-
+quires only one ICA calculation. Solar-J uses cloud quadra-
+ture, introduced by Neu et al. (2007), selecting up to four
+cloud proﬁles (QCAs) based on total optical depth to rep-
+resent four types of atmospheres: mostly clear, typical cir-

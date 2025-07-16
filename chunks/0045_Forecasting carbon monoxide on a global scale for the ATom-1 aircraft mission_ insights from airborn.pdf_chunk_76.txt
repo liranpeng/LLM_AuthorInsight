@@ -1,0 +1,37 @@
+and the rest of the world (gray). Solid bars represent BB CO from N. America (purple), S. America (pink), Africa (cyan), Eurasia (green),
+and the rest of the world (gray).
+(a) Atlantic upper and middle troposphere
+-60 -40 -20
+0
+20
+40
+60
+80
+Latitude
+0
+50
+100
+150
+CO (ppb)
+(b) Atlantic lower troposphere
+-60 -40 -20
+0
+20
+40
+60
+80
+Latitude
+0
+50
+100
+150
+CO (ppb)
+bbOther
+bbEuras
+bbAfrica
+bbSAm
+bbNAm
+nbOther
+nbEuro
+nbNAm
+nbAsia

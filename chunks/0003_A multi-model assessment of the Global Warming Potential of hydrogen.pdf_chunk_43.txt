@@ -1,0 +1,9 @@
+own.
+Following the same method as for hydrogen, we can calculate
+GWP100 for methane. Our model ensemble has a methane
+GWP100 of 26.6 (23–33 model range) (Supplementary Fig. 3),
+comparable to the IPCC AR6 values GWP100 of 27.0 ± 11 (90%
+conﬁdence interval)33. The model mean methane perturbation
+lifetime is 10.4 years (Supplementary Table 2) which is lower than
+the IPCC AR6 assessed value of 11.8 years33 but within the
+uncertainty of 1.8 years. A higher perturbation lifetime will

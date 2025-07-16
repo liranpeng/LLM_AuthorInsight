@@ -1,0 +1,8 @@
+the second-order moments scheme (Prather, 1986; Prather et
+al., 2008) and convection follows Tiedtke (1989).
+The Oslo CTM3 chemical mechanism includes a full
+stratospheric chemical mechanism in addition to tropo-
+spheric reactions. The tropospheric module contains 105 re-
+actions and 51 gas-phase species, including sulfate, nitrate,
+and sea-salt aerosols. Nitrate aerosols inﬂuence gas-phase
+chemistry through HNO3 uptake, which is a sink for reac-

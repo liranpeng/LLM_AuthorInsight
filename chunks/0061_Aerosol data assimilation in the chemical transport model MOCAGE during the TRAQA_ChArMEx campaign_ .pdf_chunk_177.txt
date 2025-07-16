@@ -1,0 +1,8 @@
+L2 Aerosol Product – Collection 051. NASA MODIS Adaptive
+Processing System, Goddard Space Flight Center, available at:
+http://ladsweb.nascom.nasa.gov (last access: November 2016),
+2008.
+Jaeglé, L., Quinn, P. K., Bates, T. S., Alexander, B., and Lin, J.-T.:
+Global distribution of sea salt aerosols: new constraints from in
+situ and remote sensing observations, Atmos. Chem. Phys., 11,
+3137–3157, doi:10.5194/acp-11-3137-2011, 2011.

@@ -1,0 +1,6 @@
+(ocean, sea-ice, land) of the climate system is necessary. Tackling these challenges is an exciting
+opportunity for the growing field of machine learning based climate modeling.
+Acknowledgments and Disclosure of Funding
+We acknowledge NOAA’s Geophysical Fluid Dynamics Laboratory for providing the computing
+resources used to perform the reference FV3GFS simulations. This research used resources of
+NERSC, a U.S. Department of Energy Office of Science User Facility located at Lawrence Berkeley

@@ -1,0 +1,8 @@
+chasing plumes, provides a unique opportunity to validate the
+overall performance of the GEOS-5 model on a global scale.
+One of the goals of ATom is to provide an observation-
+based climatology of important atmospheric constituents and
+their reactivity in the remote atmosphere. Consequently, it
+is important to examine whether the ATom observations are
+temporally and spatially representative of the broader remote
+atmosphere. Prather et al. (2017) examined the ability of ob-

@@ -1,0 +1,9 @@
+et al. (2012). The hourly measurements from EMEP and Air-
+Base are reported as µg m−3 and are converted to parts per
+billion (ppb = 10−9 mol mol−1 = nmol mol−1) using a tem-
+perature of 20 ◦C; essentially mass concentrations are multi-
+plied by 0.5 ppb ug−1 m3.
+From these data sets we calculate the maximum daily 8 h
+average O3 concentration (MDA8), which is the primary air
+quality standard for the US (www.epa.gov/air/criteria.html)
+and is commonly used in human and agricultural health stud-

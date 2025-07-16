@@ -1,0 +1,4 @@
+tween CALIOP and MODIS using infrared retrievals. Atmospheric Chemistry and Physics, 16, 5075–5090. https://doi.org/10.5194/
+acp-16-5075-2016
+Hsu, J., Prather, M. J., Cameron-Smith, P., Veidenbaum, A., & Nicolau, A. (2017). A radiative transfer module for calculating photolysis 
+rates and solar heating in climate models: Solar-J v7.5. Geoscientific Model Development, 10(7), 2525–2545.

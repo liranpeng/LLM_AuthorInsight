@@ -1,0 +1,8 @@
+D stands out in reversing or exaggerating these typical Pa-
+ciﬁc vs. globe differences, indicating very different locations
+for the reactivity. We use these models to demonstrate the
+methodology and the ability to discriminate among them
+with ATom-like measurements. Model versions used here
+should be considered snapshots in the development cycle. No
+model tuning or development occurred as part of this work,
+except to correct where quantities were missed or misdiag-

@@ -1,0 +1,9 @@
+exists concerning the magnitude and the exact location. For
+instance, the ULAQ model yields maximum Antarctic ozone
+depletion at higher altitudes than the other models, while
+the DLR E39C and UIO CTM2 models seem to underes-
+timate ozone depletion in the Antarctic lower stratosphere
+compared to what has been observed.
+The calculated change of ozone precursors (not shown)
+explains in part the differences in modeled ozone change.
+For example, the maximum annually averaged zonal-mean

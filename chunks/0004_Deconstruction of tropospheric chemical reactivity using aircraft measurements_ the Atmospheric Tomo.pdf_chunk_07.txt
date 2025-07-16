@@ -1,0 +1,5 @@
+basis and average over the basins, providing an observational basis for these previously model-only diagnostics.
+We had found that most model differences in the ozone and methane budgets are caused by the models calcu-
+lating different climatologies for the key species such as O3, CO, H2O, NOx, CH4, and T , and thus these ATom
+measurements make a substantial contribution to the understanding of model differences and even identifying
+model errors in global tropospheric chemistry.

@@ -1,0 +1,6 @@
+evolution of clouds along the trajectories sampled.
+The environments sampled during some of the CSET cases showed substantial variability in 
+the aerosols and associated cloud characteristics. An example of this variability in the 
+extreme is shown for the RF02 (7 July 2015) and RF03(9 July 2015) cases when fires in 
+Canada produced smoke plumes that were advected into the CSET sampling area and 
+impacted clouds in Fig. 10. The effective cloud radius estimates from the GOES satellite

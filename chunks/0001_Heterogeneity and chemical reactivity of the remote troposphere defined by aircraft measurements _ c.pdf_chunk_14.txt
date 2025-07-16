@@ -1,0 +1,9 @@
+from 54 to 53◦S to avoid spurious parcels being included.
+Also, cosine of latitude weighting was applied to data for all
+ﬁgures and tables. The UCI model now includes all higher
+alkanes and alkenes in the ATom data as C3H8 and C2H4, re-
+spectively. These last three decision errors had detectable but
+small impacts.
+The most worrisome error was the evolution of the ATom
+version of the UCI Chemistry Transport Model (CTM) from
+its use in the MDS-0 (modeling data stream version 0) re-

@@ -1,0 +1,12 @@
+lations (Sects. 3.3–3.4) have been scaled to 100 % by multi-
+plying the effect of the 5 % perturbation by 20. For simplicity,
+we will only refer to scaled values in the text. Further details
+about the models and the simulation setups can be found in
+H2011.
+3
+Results and discussion – A1B scenario
+3.1
+Ozone
+The multi-model mean impact of trafﬁc emissions on ozone
+for the 2050 A1B scenario is shown in Fig. 2 for the North-
+ern Hemisphere (NH) summer. Many features are similar to

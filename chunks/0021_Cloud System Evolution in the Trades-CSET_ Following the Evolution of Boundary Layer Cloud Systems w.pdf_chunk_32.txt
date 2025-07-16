@@ -1,0 +1,5 @@
+particular, we lack adequate observations of the coupled evolution of aerosol, cloud droplet 
+number concentration and precipitation during such transitions. The MAGIC AMF 
+deployment provided a ship-based perspective on this problem (McGibbon and Bretherton, 
+2017; Zhou et al., 2015), but the long range of the GV allows in situ measurements of 
+aerosols and cloud microphysics, including interactions with the free troposphere, across the

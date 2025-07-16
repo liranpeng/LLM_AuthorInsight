@@ -1,0 +1,8 @@
+plications for high-resolution modeling, Geosci. Model Dev., 12,
+2679–2706, https://doi.org/10.5194/gmd-12-2679-2019, 2019.
+Tang, Q., Prather, M. J., Hsu, J., Ruiz, D. J., Cameron-Smith, P.
+J., Xie, S., and Golaz, J.-C.: Evaluation of the interactive strato-
+spheric ozone (O3v2) module in the E3SM version 1 Earth
+system model, Data archive for the E3SM O3v2 evaluation
+paper, available at: https://portal.nersc.gov/project/e3sm/tang30/
+E3SMv1_O3v2/, last access: 18 February 2021.

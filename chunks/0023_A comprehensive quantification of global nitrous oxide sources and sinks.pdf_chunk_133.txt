@@ -1,0 +1,7 @@
+‘Nitrogen deposition on land’ was the ensemble mean of an average 
+of three inventories: FAOSTAT/EDGAR v4.3.2, GAINS/EDGAR v4.3.2 
+and NMIP. FAOSTAT and GAINS documented the sector ‘Indirect agri-
+cultural N2O emissions’ by separating estimates from nitrogen leach-
+ing or nitrogen deposition, whereas EDGAR v4.3.2 did not. Here, we 
+treated ‘Indirect agricultural N2O emissions’ from EDGAR v4.3.2 as 
+‘Inland and coastal waters’ emissions for data synthesis. Only EDGAR

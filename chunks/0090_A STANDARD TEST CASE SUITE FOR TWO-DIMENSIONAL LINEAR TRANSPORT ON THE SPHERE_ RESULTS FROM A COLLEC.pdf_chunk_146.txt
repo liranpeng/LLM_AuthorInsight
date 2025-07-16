@@ -1,0 +1,9 @@
+(1992) where both the advection test and shallow water to-
+pography (test 5) use C1 functions for mass distribution and
+surface height, respectively.
+Basically, the modelers repeated the numerical conver-
+gence test (Sect. 3.1) with cosine bell initial conditions. The
+“minimum” resolution is deﬁned as the resolution (speci-
+ﬁed in terms of average grid spacing at the Equator) for
+which the normalized ℓ2 error norm is approximately 0.033.
+This threshold was chosen based on CSLAM experiments for

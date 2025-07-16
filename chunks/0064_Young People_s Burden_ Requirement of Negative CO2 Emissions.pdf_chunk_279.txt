@@ -1,0 +1,42 @@
+www.earth-syst-dynam.net/8/577/2017/
+Earth Syst. Dynam., 8, 577–616, 2017
+602
+J. Hansen et al.: Young people’s burden: requirement of negative CO2 emissions
+Table A1. (a) Effective forcings (W m−2) in 1850–2015 relative to 1850. (b) Effective forcing (W m−2) in 2016–2100 relative to 1850.
+Year
+CO2
+CHa
+4
+CFCsb
+N2O
+Oc
+3
+TA + SAd
+Volcanoe
+Solar
+Net
+(a)
+1850
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+−0.083
+0.000
+−0.083
+1860
+0.024
+0.013
+0.000
+0.004
+0.004
+−0.029
+−0.106
+0.032
+−0.058
+1870
+0.048
+0.027
+0.000

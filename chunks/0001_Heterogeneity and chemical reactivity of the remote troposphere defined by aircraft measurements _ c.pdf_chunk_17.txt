@@ -1,0 +1,10 @@
+∂2lnR/∂lnX∂lnY) calculated for a subsequent paper are now
+closer to theoretical expectations for a quasi-linear system.
+The UCIZ* model results, calculated with the UCIZ CTM
+and the RDS* protocol, shown here are our best, revised es-
+timate of the ATom reactivities.
+1
+Prologue
+This paper is based on the methods and results of papers that
+established an approach for analyzing aircraft measurements,
+speciﬁcally the NASA Atmospheric Tomography Mission

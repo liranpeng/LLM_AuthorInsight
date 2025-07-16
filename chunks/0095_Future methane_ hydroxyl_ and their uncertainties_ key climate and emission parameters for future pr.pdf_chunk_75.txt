@@ -1,0 +1,9 @@
+emission ratio from the GFED3 inventory are also shown. Peak
+emissions and peak CO/NO ratio occur during El Ni˜no events, due
+to tropical peat ﬁres.
+degree of consistency among models. These adopted values
+are used in the parametric model described below.
+For biomass burning, the CTMs show moderate agreement
+in the mean sensitivity when ﬁres are assumed to emit into
+the boundary layer (α = 0.013 to 0.021). The τCH4×OH re-
+sponse to biomass burning depends strongly on the emission

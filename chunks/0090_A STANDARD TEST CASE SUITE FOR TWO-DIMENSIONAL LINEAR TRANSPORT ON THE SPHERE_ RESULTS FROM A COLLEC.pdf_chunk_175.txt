@@ -1,0 +1,6 @@
+(thick lines) and shape-preserving (thin lines) versions of the schemes. Note that TTS-I, LPM, HEL, and HEL-ND are inherently shape-
+preserving and therefore only have “unlimited” data displayed. The LPM scheme was not run with ﬁxed CN. The CN for 1.5◦and 0.75◦is
+1.08 and 2.0, respectively.
+the solution to Eq. (12) is not multivalued for the data con-
+sidered here. For example, if τm = 0.6, then 80 % of the area
+associated with mixing ratios larger than 0.6 is preserved. In

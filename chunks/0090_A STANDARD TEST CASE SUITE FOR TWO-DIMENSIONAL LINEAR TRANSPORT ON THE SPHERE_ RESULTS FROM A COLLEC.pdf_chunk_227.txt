@@ -1,0 +1,8 @@
+mixing diagnostics are much smaller than for schemes with
+similar “minimal” resolutions.
+In the last row of Fig. 15, the normalized mixing diagnos-
+tics at the “minimal” resolution for the respective schemes
+are shown. Had 1λm been a proxy for mixing, all histograms
+would have had the same height. Here the outliers described
+above are very apparent. This shows that the amount of nu-
+merical mixing varies signiﬁcantly even though the ℓ2 error

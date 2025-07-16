@@ -1,0 +1,8 @@
+out with the most unusual chemistry patterns and sometimes
+illogical correlations. Efforts by a co-author to clarify the
+GISS results or identify errors in the implementation have not
+been successful. GISS results are included here for complete-
+ness in the set of three papers but are not reconciled. Overall,
+three models showed remarkable inter-model agreement in
+the three Rs with less than half of the RMSD (root-mean-
+square difference) as compared with the other models. UCI

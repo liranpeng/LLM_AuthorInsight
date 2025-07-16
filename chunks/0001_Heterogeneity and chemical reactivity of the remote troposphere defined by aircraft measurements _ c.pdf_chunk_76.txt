@@ -1,0 +1,9 @@
+of the GMI model, we also record the initial and 24 h abun-
+dances of all the ATom species to check that nothing unusual
+altered the species abundance in each cell over the 24 h.
+3.3
+Inter-model differences
+Variations in reactivities due to clouds are an irreducible
+source of uncertainty: predicting the cloud-driven photoly-
+sis rates that a shearing air parcel will experience over 24 h
+is not possible here. The protocol uses 5 separated 24 h days

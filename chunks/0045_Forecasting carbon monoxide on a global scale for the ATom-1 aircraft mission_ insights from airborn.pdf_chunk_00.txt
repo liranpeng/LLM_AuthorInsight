@@ -1,0 +1,9 @@
+Atmos. Chem. Phys., 18, 10955–10971, 2018
+https://doi.org/10.5194/acp-18-10955-2018
+© Author(s) 2018. This work is distributed under
+the Creative Commons Attribution 4.0 License.
+Forecasting carbon monoxide on a global scale for the ATom-1
+aircraft mission: insights from airborne and satellite
+observations and modeling
+Sarah A. Strode1,2, Junhua Liu1,2, Leslie Lait2,3, Róisín Commane4,a, Bruce Daube4, Steven Wofsy4, Austin Conaty2,5,
+Paul Newman2, and Michael Prather6

@@ -1,0 +1,8 @@
+channel individually, we train separate RFs for each output channel.
+Skill
+When comparing the Continuous Ranked Probability Score (CRPS)
+of CorrDiff with the Mean Absolute Error (MAE) of the UNet and
+the other baselines, CorrDiff exhibits the most skill, followed by the
+UNet, the random forest (RF) and the interpolation of ERA5
+(Table 1). The slight degradation in MAE of CorrDiff compared to
+that of the UNet is expected, as the diffusion model optimizes the

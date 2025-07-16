@@ -1,0 +1,8 @@
+triangular grid. Indeed the cell-averaged value of a function
+is a second-order accurate approximation of its point-wise
+value taken at the cell centroid. This motivates one to employ
+some grid adjustment or grid optimization to design higher
+order ﬁnite volume schemes. Instead of using any sophisti-
+cated optimization (for instance spring dynamics or Lloyd’s
+algorithm), we use centroids of the grid cells as our compu-
+tational points and adjust the triangular mesh accordingly. In

@@ -1,0 +1,10 @@
+The
+University of Oslo and University of Reading radiative trans-
+fer models use their respective model meteorologies for all
+calculations, so that differences within a set of RF results
+from the same radiative transfer model are entirely due to
+differences in the modeled ozone changes.
+3.1
+Radiative forcing due to tropospheric ozone change
+The University of Oslo radiative transfer model (“UiO-
+RTM”) is the same as was used in Berntsen et al. (1997),

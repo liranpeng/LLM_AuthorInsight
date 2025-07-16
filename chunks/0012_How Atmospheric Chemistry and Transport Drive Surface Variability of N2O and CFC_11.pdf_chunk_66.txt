@@ -1,0 +1,5 @@
+This O3 increase shields N2O loss, increasing the lifetime, and it is natu-
+rally included in the loss rate derived from MLS observations. Given an effective optical depth of about 1 
+for the O3 column above 30 km, we might expect N2O photolysis to respond with similar percentage reduc-
+tions. The MLS loss in Figure 2 shows much larger variability (10%) but is consistent with a 1%–2% drop 
+(∼0.2 TgN/yr) in loss rate. The LMDz5 and UCI models used parameterized N2O loss not including chlorine

@@ -1,0 +1,43 @@
+2010 met
+Included for semi-
+Sulfate, nitrate,
+Simpson et al.
+L20
+direct effect of BC
+BC, POA, SOA
+(2012)
+(CESM-CAM4)
+GISS
+2.0◦× 2.5◦
+2000
+Yes
+Sulfate, BC,
+Schmidt et al.
+L40
+climatological
+POA, SOA,
+(2014a); Shindell
+monthly
+nitrate (dust also
+et al. (2013b)
+varying ﬁxed
+inﬂuenced by
+SSTs and sea
+other
+ice
+anthropogenic
+aerosols)
+NorESM1
+1.9◦× 2.5◦
+Climatological
+No
+Sulfate, BC,
+Bentsen et al.
+L26
+monthly varying
+POA (SOA
+(2013); Iversen et
+ﬁxed SSTs and
+included in
+al. (2013);
+sea ice extent

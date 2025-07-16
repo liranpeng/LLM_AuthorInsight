@@ -1,0 +1,8 @@
+K. D.: ESMValTool (v1.0) – a community diagnostic and perfor-
+mance metrics tool for routine evaluation of Earth system models
+in CMIP, Geosci. Model Dev., 9, 1747–1802, doi:10.5194/gmd-
+9-1747-2016, 2016b.
+Eyring, V., Gleckler, P. J., Heinze, C., Stouffer, R. J., Taylor, K.
+E., Balaji, V., Guilyardi, E., Joussaume, S., Kindermann, S.,
+Lawrence, B. N., Meehl, G. A., Righi, M., and Williams, D. N.:
+Towards improved and more routine Earth system model evalua-

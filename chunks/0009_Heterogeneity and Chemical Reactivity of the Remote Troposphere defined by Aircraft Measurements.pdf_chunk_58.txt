@@ -1,0 +1,10 @@
+protocol (UCI2∗) is shown in Tables 2 and S8 next to the
+standard protocol (UCI2). The reactivities drop slightly (3 %
+for P-O3, 2 % for L-O3 and 0 % for L-CH4) as expected with
+less NOx, but the sensitivity of the reactivities to these com-
+pounds (∂lnR/∂lnX) drops by a factor of 2 or more. We use
+the UCI2∗results as our best estimate of the ATom reactivi-
+ties for the ﬁgures in this paper.
+3.3
+Inter-model differences
+Variations in reactivities due to clouds are an irreducible

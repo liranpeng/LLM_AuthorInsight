@@ -1,0 +1,12 @@
+riorating the simulation.
+4.2.2
+Climate sensitivity
+Besides simulating the mean climate state, quantifying the
+climate sensitivities to various forcings is another funda-
+mental goal of climate models, providing valuable insights
+into climate change and especially future climate projec-
+tions. Nowack et al. (2015) shows a strong negative cli-
+Geosci. Model Dev., 14, 1219–1236, 2021
+https://doi.org/10.5194/gmd-14-1219-2021
+Q. Tang et al.: Interactive stratospheric ozone (O3v2) in E3SM
+1229

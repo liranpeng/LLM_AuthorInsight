@@ -1,0 +1,8 @@
+denoising process, the model iteratively refines the samples,
+bringing them closer to the target data distribution. The denoising
+neural network plays a critical role in this convergence, providing
+the necessary guidance to steer the samples towards accurate
+representations of the original data.
+The development of CorrDiff was motivated by the limitations
+observed when using conditional diffusion models to directly learn
+p(x∣y). This approach showed slow convergence and resulted in

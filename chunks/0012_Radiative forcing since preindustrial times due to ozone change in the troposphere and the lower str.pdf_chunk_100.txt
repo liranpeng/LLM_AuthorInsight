@@ -1,0 +1,9 @@
+It is based
+on NCEP reanalysis data and is also applied in the radiative
+forcing calculations to be discussed in Sect. 3.
+Figure 3 shows the increase in the global annual-mean
+ozone column calculated for the troposphere and the lower
+stratosphere separately, based on the values given in Ta-
+ble 4. When taking into account chemical change only and
+regarding tropospheric ozone column increase (blue bars in
+Fig. 3a) the ten models agree rather well with a mean in-

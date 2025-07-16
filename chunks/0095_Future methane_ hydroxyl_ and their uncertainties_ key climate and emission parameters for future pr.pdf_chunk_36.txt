@@ -1,0 +1,8 @@
+ogy (Price and Rind, 1994) and scaled to match satellite-
+observed lightning ﬂash rates (Christian et al., 2003). In the
+UCI CTM and Oslo CTM3, 2 scale factors are calculated to
+match observed multi-year mean ﬂash rates over land and
+ocean. In GEOS-Chem scale factors are calculated for ev-
+ery grid column and month (Sauvage et al., 2007). Within
+the convective column, lightning NOx is distributed verti-
+cally based on NOx observations near thunderstorms (Ott

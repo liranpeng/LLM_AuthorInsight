@@ -1,0 +1,8 @@
+N., Smith, S. J., and Rose, S. K.: The representative con-
+centration pathways: an overview, Clim. Change, 109, 5–31,
+doi:10.1007/s10584-011-0148-z, 2011.
+Vinken, G. C. M., Boersma, K. F., Jacob, D. J., and Meijer, E. W.:
+Accounting for non-linear chemistry of ship plumes in the
+GEOS-Chem global chemistry transport model, Atmos. Chem.
+Phys., 11, 11707–11722, doi:10.5194/acp-11-11707-2011, 2011.
+Volk, C., Elkins, J., Fahey, D., Dutton, G., Gilligan, J., Loewen-

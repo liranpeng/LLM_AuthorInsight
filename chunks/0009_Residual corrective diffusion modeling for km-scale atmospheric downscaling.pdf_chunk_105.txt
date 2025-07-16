@@ -1,0 +1,7 @@
+project, proposed the idea with A.V., managed experiments,
+prepared the diffusion codebase. N.B. prepared the dataloader and
+evaluation code, preprocessed data, and worked on revisions. Y.C.
+analyzed results, generated figures, and led the revision. J.P.
+assisted with dataset preparation and scientific implementation.
+C.C. and C.L. provided the dataset, assisted with preprocessing, and
+facilitated connections with CWA. A.V. co-proposed the idea with

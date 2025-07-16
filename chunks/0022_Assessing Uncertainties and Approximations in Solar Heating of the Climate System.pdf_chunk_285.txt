@@ -1,0 +1,52 @@
+163.65 
+ 
+RR0 
+4 
+AER4.0 
+clear sky 
+351.38 
+    51.22 
+70.24 
+229.92 
+RR1 
+20 
+AER4.0 
+averaged clouds 
+351.38 
+130.82 
+75.82 
+144.74 
+RR2 
+14-16 
+AER4.0 
+averaged clouds, liquid only   
+351.38 
+126.17 
+77.35 
+147.86 
+RR3 
+21 
+AER4.0 
+McICA 
+351.38 
+108.14 
+74.45 
+168.79 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+ 
+ 
+ 
+Table S3.  Cross sections for ozone absorption and Rayleigh scattering in the 3 visible bands 
+with different weighting functions 
+ 
+weighting 
+320-345 nm 
+345-485 nm 
+485-778 nm 
+σRayleigh (cm2)

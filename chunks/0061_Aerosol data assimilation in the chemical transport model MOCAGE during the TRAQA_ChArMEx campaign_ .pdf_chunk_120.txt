@@ -1,0 +1,10 @@
+in previous cycles.
+6.6
+The proﬁle evolution
+The proﬁle evolution in the continuous multi-day assimila-
+tion run is further explored in Fig. 10. We follow the desert
+dust plume over the course of 1 week from 25 June to 2 July
+2012 from its sources in Africa to its weakening and dis-
+solution in the Mediterranean Sea (Fig. 10c). The aerosols
+at the different layers are carried by the winds at different
+velocities and directions, and, as particles, they undergo dif-

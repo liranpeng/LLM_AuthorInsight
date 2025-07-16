@@ -1,0 +1,8 @@
+daily weather forecasts, which helped to coordinate the mea-
+surements for the following days. The European Centre for
+Medium-Range Weather Forecasts and national weather ser-
+vices in France, Germany, the Netherlands, the UK, and the
+USA supported these activities by providing access to output
+from global models at 10 km resolution and regional fore-
+casts made specially for the region on kilometer-scale grids.
+The daily weather discussions provided an opportunity for

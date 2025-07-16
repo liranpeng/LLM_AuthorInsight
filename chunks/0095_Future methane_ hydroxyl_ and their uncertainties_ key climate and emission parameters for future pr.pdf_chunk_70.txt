@@ -1,0 +1,8 @@
+variables are global averages, except ozone columns, which are averaged over 40◦S–40◦N. Colors show which inputs are used by each
+CTM.
+These 5 climate and emission variables that we identify as
+important inﬂuences on τCH4×OH have been recognized pre-
+viously, but their sensitivities have typically not been quan-
+tiﬁed in a comparable way (e.g. Spivakovsky et al., 2000;
+Dentener et al., 2003; Labrador et al., 2004; Stevenson et al.,
+2005; Fiore et al., 2006; Hess and Mahowald, 2009).

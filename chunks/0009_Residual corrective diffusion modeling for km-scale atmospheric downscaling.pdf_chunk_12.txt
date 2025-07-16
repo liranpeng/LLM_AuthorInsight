@@ -1,0 +1,7 @@
+including mode collapse, training instabilities, and difficulties in
+capturing long tails of distributions27,28,29.
+Alternatively, diffusion models offer training stability30,31 alongside
+demonstrable skill in probabilistically generating km-scales.32 used
+a diffusion model for predicting rain density in the UK from
+vorticity as an input, thus demonstrating potential for channel
+synthesis.33 used a diffusion model for downscaling solar irradiance

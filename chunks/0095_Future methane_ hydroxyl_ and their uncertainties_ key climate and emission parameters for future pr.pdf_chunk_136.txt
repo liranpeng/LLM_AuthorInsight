@@ -1,0 +1,9 @@
+from a single model, the stratospheric chemistry mechanism
+in Oslo CTM3 is able to reproduce recent stratospheric ozone
+variability (Isaksen et al., 2012).
+Ozone generally has greater radiative forcing efﬁciency
+in the troposphere than in the stratosphere (Forster and
+Shine, 1997), so tropospheric ozone changes tend to domi-
+nate the ozone RF components. In our 3 models, the methane
+RF through tropospheric ozone is 30–50 % of the direct
+methane RF. After including stratospheric changes, ozone

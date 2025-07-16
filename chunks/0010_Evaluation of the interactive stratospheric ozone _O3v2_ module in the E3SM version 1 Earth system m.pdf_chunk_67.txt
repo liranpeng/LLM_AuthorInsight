@@ -1,0 +1,8 @@
+SCO for O3v1 (Fig. 5a) clearly shows the regular occurrence
+of the ozone hole with suitable variability, e.g., the minimal
+ozone hole in 2003. The parallel difference plot of O3v2
+minus O3v1 (Fig. 5d) shows the O3v1 errors in the lower-
+most stratosphere as large wintertime biases of excess ozone
+column. In O3v2 there is more interannual variability in the
+ozone hole with more frequent occurrence of extreme ozone
+values, as shown in years 1995 and 2001. The UCI CTM did

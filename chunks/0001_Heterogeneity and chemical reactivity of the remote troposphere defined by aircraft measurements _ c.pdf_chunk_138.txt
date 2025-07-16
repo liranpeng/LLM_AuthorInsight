@@ -1,0 +1,9 @@
+5.2
+Opportunities and lessons learned
+As a quick look at the opportunities provided by the ATom
+data, we present an example based on the Wolfe et al. (2019)
+study, which used the F0AM model and semi-analytical argu-
+ments to show that troposphere HCHO columns (measurable
+by satellite and ATom) are related to OH columns (measured
+by ATom) and thus to CH4 loss. Figure 6 extends the Wolfe et
+al. (2019) study using the individual air parcels and plotting

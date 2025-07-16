@@ -1,0 +1,10 @@
+schemes permitting long time steps, Mon. Weather Rev., 135,
+2658–2673, 2007.
+Lauritzen, P. H. and Thuburn, J.: Evaluating advection/transport
+schemes using interrelated tracers, scatter plots and numeri-
+cal mixing diagnostics, Q. J. Roy. Meteor. Soc., 138, 906–918,
+doi:10.1002/qj.986, 2012.
+Lauritzen, P. H., Kaas, E., and Machenhauer, B.: A mass-
+conservative semi-implicit semi-Lagrangian limited area shallow
+water model on the sphere, Mon. Weather Rev., 134, 1205–1221,
+2006.

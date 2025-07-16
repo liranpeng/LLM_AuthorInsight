@@ -1,0 +1,65 @@
+60
+ 80
+ 100
+ 120
+ 140
+ 
+0.2
+ 
+0.4
+0.6
+0.8
+1.0
+lf
+τ
+0.75°, unlimited and shape-preserving
+Cubed-sphere (1/2)
+CAM-SE-CN0.27
+CLAW-CN0.95
+CSLAM-CN1.0
+CSLAM-CN5.5
+HEL-CN1.0
+HEL-CN5.5
+SFF-CSLAM3-CN0.8
+SFF-CSLAM4-CN0.8
+ 0
+ 20
+ 40
+ 60
+ 80
+ 100
+ 120
+ 140
+ 
+0.2
+ 
+0.4
+0.6
+0.8
+1.0
+lf
+τ
+1.5°, unlimited and shape-preserving
+ 0
+ 20
+ 40
+ 60
+ 80
+ 100
+ 120
+ 140
+ 
+0.2
+ 
+0.4
+0.6
+0.8
+1.0
+lf
+τ
+0.75°, unlimited and shape-preserving
+Cubed-sphere (2/2)
+HEL-ND-CN1.0
+HEL-ND-CN5.5
+HOMME-p3-CN0.26
+HOMME-p6-CN0.13

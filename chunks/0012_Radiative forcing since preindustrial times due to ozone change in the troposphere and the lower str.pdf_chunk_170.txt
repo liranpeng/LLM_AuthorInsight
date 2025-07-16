@@ -1,0 +1,8 @@
+cal ﬁelds. In this coarse-grid model, the tropopause is deﬁned
+as the boundary between the model layers 7 and 8 (about
+150 hPa). Results for the two calculations are shown in Ta-
+ble 9. The adjusted forcing for tropospheric ozone added
+to the atmosphere since preindustrial times is 0.38 Wm−2 in
+the case of the “standard” simulation. This value agrees well
+with the calculations presented in Sect. 3.1. A considerably
+larger total ozone change in the “tuned” model version leads

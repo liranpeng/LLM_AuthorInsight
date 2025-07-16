@@ -1,0 +1,6 @@
+available, 1λm for the shape-preserving scheme is used for the purpose of ordering (schemes concerned are CAM-FV, HEL, HEL-ND,
+UCISOM, UCISOM-CS), and a placeholder value of −1 is used in all histograms. Note that the LPM scheme was run with ﬁxed time step
+and not with a ﬁxed Courant number; therefore no CN value is appended to the LPM label.
+focusing on resolutions for which the spatial distributions of
+tracers are well-resolved.
+Shape-preserving ﬁlters (with the exception of CLAW,

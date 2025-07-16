@@ -1,0 +1,10 @@
+directly translates to the effectiveness and
+ability of aerosol injections in impacting cloud
+radiative forcing, it is crucial to understand the
+spatial and temporal extent of injected-aerosol
+effects following direct injection into marine
+environments. The ubiquity of ship-injected
+aerosol tracks from satellite imagery renders
+observational validation of new parameterizations
+possible in 2D, however, 3D compatible data is
+more scarce, and necessary for the development of

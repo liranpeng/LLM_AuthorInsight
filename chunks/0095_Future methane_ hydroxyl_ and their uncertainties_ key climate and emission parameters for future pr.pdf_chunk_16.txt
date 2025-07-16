@@ -1,0 +1,9 @@
+University of Oslo CTM3, University of California, Irvine
+(UCI) CTM, and GEOS-Chem. All of these models are
+driven by assimilated meteorological data and conﬁgured to
+use the same emissions from anthropogenic, biogenic and
+biomass burning sources. We use year-speciﬁc meteorol-
+ogy spanning 1997–2009 for each model, except GEOS-
+Chem simulations with GEOS-5 meteorology, which are
+only 2004–2009. Sections 2.1–2.3 and Table S1 summarize
+features of each model and Sect. 2.4 describes the emissions.

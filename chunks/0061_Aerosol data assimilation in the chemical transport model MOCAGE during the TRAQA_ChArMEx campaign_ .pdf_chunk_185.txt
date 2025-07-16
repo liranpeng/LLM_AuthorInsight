@@ -1,0 +1,8 @@
+ing mineral dust emissions from Chinese and Mongolian deserts,
+Global Planet. Change, 52, 121–141, 2006.
+Lee, L. A., Carslaw, K. S., Pringle, K. J., Mann, G. W., and
+Spracklen, D. V.: Emulation of a complex global aerosol model
+to quantify sensitivity to uncertain parameters, Atmos. Chem.
+Phys., 11, 12253–12273, doi:10.5194/acp-11-12253-2011, 2011.
+Liu, D. C. and Nocedal, J.: On the limited memory BFGS method
+for large scale optimization, Math. Program., 45, 503–528, 1989.

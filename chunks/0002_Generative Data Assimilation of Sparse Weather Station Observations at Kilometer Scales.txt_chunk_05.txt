@@ -1,0 +1,1 @@
+overall an encouraging proof of concept, and the first at km-scale. It is a ripe time to explore extensions that combine increasingly ambitious regional state generators with an increasing set of in situ, ground-based, and satellite remote sensing data streams.

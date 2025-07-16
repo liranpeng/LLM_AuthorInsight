@@ -1,0 +1,4 @@
+Froidevaux, L., Kinnison, D. E., Wang, R., Anderson, J., & Fuller, R. A. (2019). Evaluation of CESM1 (WACCM) free-running and specified 
+dynamics atmospheric composition simulations using global multispecies satellite data records. Atmospheric Chemistry and Physics, 
+19(7), 4783–4821. https://doi.org/10.5194/acp-19-4783-2019
+Fu, Q., Solomon, S., Pahlavan, H. A., & Lin, P. (2019). Observed changes in Brewer – Dobson circulation.

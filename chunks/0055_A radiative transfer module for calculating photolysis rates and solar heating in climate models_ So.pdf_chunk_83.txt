@@ -1,0 +1,26 @@
+The solar constant is set at 1360.8 W m−2. For easy comparison, some Solar-J bins are combined to best match RRTMG’s band of similar
+range and vice versa. Note that the atmospheric absorption is further split into the stratospheric and tropospheric components (see numbers
+in italics).
+(a) Clear-sky solar radiation budget comparison (W m−2)
+Solar-J S-bins
+S1–S4
+S5–S9
+S10–S16
+S17
+S18
+λ (nm)
+177–200
+200–275
+275–345
+345–412
+412–778
+TOA (down)
+0.06
+5.14
+44.31
+77.17
+608.68
+TOA (up)
+0.00
+0.01
+7.52

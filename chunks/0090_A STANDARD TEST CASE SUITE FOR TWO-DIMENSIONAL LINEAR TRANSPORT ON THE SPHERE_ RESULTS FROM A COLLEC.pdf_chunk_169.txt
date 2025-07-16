@@ -1,0 +1,9 @@
+domain in which the mixing ratio is larger than the thresh-
+old value τ. If the ℓf(τ) curve is smooth and monotonically
+decreasing as a function of τ, the schemes diffusive char-
+acteristics are smooth and continuous. Schemes that tend to
+steepen gradients will spuriously force ℓf(τ) > 100 for rel-
+atively large τ values. Schemes that make use of “ad hoc”
+ﬁxers (that also alter gradients) may produce an oscillatory
+ℓf(τ) curve.
+Figure 5 shows the ﬁlament preservation diagnostic ℓf (at

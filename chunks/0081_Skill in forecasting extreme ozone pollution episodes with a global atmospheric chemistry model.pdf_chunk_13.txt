@@ -1,0 +1,8 @@
+we generate an objective measure, the quality of prediction
+(QP), for the mapping of each cell (i.e., how many indepen-
+dent points were used and how far away they are). This grid-
+cell product has the added advantage of allowing direct and
+commensurate comparison of independent sets of overlap-
+ping but not collocated observing sites, and we examine the
+biases between the two European ozone networks (European
+Monitoring and Evaluation Programme (EMEP) and Air-

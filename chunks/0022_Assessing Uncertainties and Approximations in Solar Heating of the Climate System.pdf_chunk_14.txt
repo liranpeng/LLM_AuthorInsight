@@ -1,0 +1,4 @@
+tic framework (i.e., January average of hourly global calculations at horizontal resolution of 1.1° including 
+water vapor and ice-/liquid-water clouds) for an extensive set of case studies. In addition, we embed the 
+AER RRTMG-SW version 4.0 (Clough et al., 2005; Mlawer et al., 1997) directly in the CTM, providing a plat-
+form for parallel comparison of the two codes in a realistic climate. Combining solar heating and photolysis

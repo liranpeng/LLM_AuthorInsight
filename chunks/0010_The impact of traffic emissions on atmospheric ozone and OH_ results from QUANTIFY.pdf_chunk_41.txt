@@ -1,0 +1,14 @@
+It clearly shows that depending on the region where the emis-
+sions occur the effects are very different and can even have
+opposite signs.
+The non-linearity with respect to aircraft emissions is
+mostly positive throughout the northern upper troposphere
+(i.e. the scaled small NOx reduction leads to a stronger
+www.atmos-chem-phys.net/9/3113/2009/
+Atmos. Chem. Phys., 9, 3113–3136, 2009
+3118
+P. Hoor et al.: Trafﬁc emissions: impact on ozone and OH
+Table 4. Participating models.
+Model
+TM4
+p-TOMCAT

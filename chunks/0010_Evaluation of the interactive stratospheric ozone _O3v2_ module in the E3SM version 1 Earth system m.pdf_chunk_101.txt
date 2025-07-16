@@ -1,0 +1,8 @@
+ozone abundances in the lowermost stratosphere. We cor-
+rected this with a new ozone module, O3v2, and document
+the results here. We also built some performance metrics for
+stratospheric ozone that will become a standard part of E3SM
+diagnostics. The UCI model, which uses the same O3 chem-
+istry as O3v2 but is driven by ECMWF forecast ﬁelds, pro-
+duced only slightly better results, indicating the stratospheric
+transport in E3SMv1 is reasonably represented. This is some-

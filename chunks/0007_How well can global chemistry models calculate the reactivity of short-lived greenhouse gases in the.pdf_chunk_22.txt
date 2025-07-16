@@ -1,0 +1,9 @@
+as those in P2017: Geophysical Fluid Dynamics Labora-
+tory (GFDL), Goddard Institute for Space Studies (GISS),
+Goddard Space Flight Center (GSFC), GEOS-Chem (GC),
+National Center for Atmospheric Research (NCAR), and UC
+Irvine (UCI). For model versions and updates, see Tables 1
+and S1a, b in the Supplement.
+A model-simulated data stream of air parcels was pre-
+pared from an older version of the UCI model (v72a) with
+higher than usual resolution (T319L60, ∼0.55◦) and sam-

@@ -1,0 +1,8 @@
+on the ﬂight and applies a diurnal scaling. We can initialize
+with the core species and let the radicals (OH, HO2, RO2)
+come into photochemical balance. The 24 h integration is not
+overly sensitive to the start time of the integration, and thus
+models do not have to synchronize with the local time of ob-
+servation (see P2018’s Fig. S8 and Table S8).
+The initial RDS came from MDS-0 and six of the models
+in Table 1. This paper was nearly complete when we iden-

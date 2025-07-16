@@ -1,0 +1,8 @@
+is then integrated over 24 h without transport or mixing, with-
+out scavenging, and without emissions. Each global model
+uses its own varying cloud ﬁelds for the period to calculate
+photolysis rates, but the F0AM box model simply takes the
+instant J values as measured on the ﬂight and applies a di-
+urnal scaling. We initialize with the core species and let the
+radicals (OH, HO2, and RO2) come quickly into photochemi-
+cal balance. The 24 h integration is not overly sensitive to the

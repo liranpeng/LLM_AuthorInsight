@@ -1,0 +1,3 @@
+thick vertical gray bars. The timing of moderate to extreme El Niños (red stars) and La Niñas (blue stars) is also shown. (e) CO2 annual
+amplitude (ppm, max–min) derived from the variance across 12-monthly values. Each monthly point (centered on the beginning of each
+month) is the standard deviation of the surrounding ±6-monthly means, scaled by 2 × 2.5 to give the max–min amplitude as if it were a sine

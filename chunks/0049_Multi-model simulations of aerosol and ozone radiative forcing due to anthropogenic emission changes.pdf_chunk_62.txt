@@ -1,0 +1,8 @@
+tion Pathways 4.5 (RCP4.5) scenario, which has a weaker in-
+crease in the forcing than the RCP8.5 scenario. The stronger
+ozone forcing in this work compared to IPCC AR5 is likely
+to be mainly caused by an increase in NOx over the 1990–
+2010 period that is more than twice that in the emission data
+used in IPCC AR5; see Fig. 1. Changes in CO and VOCs
+are relatively small in the ECLIPSE data and those used for
+IPCC AR5. The smaller ozone trend from the EMEP model

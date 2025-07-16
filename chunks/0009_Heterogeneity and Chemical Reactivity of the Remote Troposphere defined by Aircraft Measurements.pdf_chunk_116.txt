@@ -1,0 +1,8 @@
+open circles). The mean reactivities (ppb/d) from the models
+and ATom are given in the legend; note that these values dis-
+agree with some table data that are not cosine-weighted. The
+PD binning is shown by the open circles, and occurrences of
+off-scale reactivities are included in the last point.
+The obvious discrepancy is with P-O3 in both Paciﬁc and
+Atlantic basins. ATom data have very low occurrence of P-
+O3 < 1 ppb/d and a broad, almost uniform frequency (∼0.1)

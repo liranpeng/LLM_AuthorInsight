@@ -1,0 +1,9 @@
+region are listed in Table S2 for each model. The NOx
+emissions show much less variation between models than
+those of CO or NMVOC. Global methane levels were fixed at
+1760 ppb in all simulations, as this value is representative of
+the early 2000s [Stevenson et al., 2006].
+[8] All models used meteorology for 2001, and with two
+exceptions used either NCEP reanalyses, ECMWF analyses,
+NASA GEOS meteorological fields, or internally generated
+meteorology relaxed toward a reanalysis. Two models used

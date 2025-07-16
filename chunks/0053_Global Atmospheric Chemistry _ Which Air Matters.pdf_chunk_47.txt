@@ -1,0 +1,13 @@
+(R3a)
+O3 + HO2 →HO + O2 + O2,
+(R3b)
+O(1D) + H2O →OH + OH,
+(R3c)
+where O3 + hν →O(1D) + O2.
+(R3d)
+In the troposphere, Reaction (2d) is important only in the
+tropics above 12 km (Prather, 2009). The true P minus L of
+O3 includes a large number of other reactions, particularly
+involving oxides of nitrogen and hydrocarbons; but through-
+out the remote troposphere (i.e., away from fresh pollution
+sources), Reactions (2) minus Reactions (3) accurately ap-

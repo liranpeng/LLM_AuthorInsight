@@ -1,0 +1,10 @@
+Geosci. Model Dev., 7, 105–145, 2014
+130
+P. H. Lauritzen et al.: Results from standard test case suite
+Fig. 14. Same as Fig. 11 for models deﬁned on an icosahedral/Voronoi mesh.
+and contrary to the ﬁlament diagnostic, which relied on the
+wind ﬁeld being non-divergent, the mixing diagnostics can
+be applied in any ﬂow setting and is hence more generally
+applicable. For a three-dimensional extension of this test
+case, see Kent et al. (2013).
+The values for the mixing diagnostics for each scheme

@@ -1,0 +1,8 @@
+derson, D., Sun-Mack, S., Flittner, D., Huang, J., Wielicki, B.,
+Minnis, P., Weimer, C., Trepte, C., and Kuehn, R.: Global statis-
+tics of liquid water content and effective number concentration
+of water clouds over ocean derived from combined CALIPSO
+and MODIS measurements, Atmos. Chem. Phys., 7, 3353–3359,
+https://doi.org/10.5194/acp-7-3353-2007, 2007.
+Hu, Y. X. and Stamnes, K.: An Accurate Parameterization of the Ra-
+diative Properties of Water Clouds Suitable for Use in Climate

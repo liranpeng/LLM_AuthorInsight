@@ -1,0 +1,8 @@
+culate is the total change of heating over the in-cloud layers.
+As seen in Fig. 6, there is substantial clear-sky absorption by
+atmospheric water vapor in the cloudy layers (∼100 W m−2)
+at high sun. Thus, the small perturbation caused by the cloud
+(< 10 %, third row) results from in-cloud heating of ice par-
+ticles (proportional to τabs) countered by reduced heating of
+the water vapor in the region because of the increased upward
+scattered light (top row). The extreme case of the SZA of 84◦

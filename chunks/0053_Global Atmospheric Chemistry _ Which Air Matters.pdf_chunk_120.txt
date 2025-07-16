@@ -1,0 +1,88 @@
+50
+60
+70
+80
+90 100
+200
+CO (ppb)
+1
+2
+3
+4
+0
+1
+2
+3
+4
+0
+1
+2
+3
+4
+0
+2
+4
+6
+8
+0
+B
+C
+D
+A
+E
+F
+A = CAM4-Chem
+B = GEOS-Chem
+C = GFDL-AM3
+D = GISS-E2
+E = GMI-CTM
+F = UCI-CTM
+L-O3 (Mmol d-1 bin-1)
+(c)  AIR (petamol bin
+)
+-1
+L-CH4 (Mmol d-1 bin-1)
+10
+25
+50
+100
+250
+500
+1000
+HCHO (ppt)
+0.2
+0.4
+0.6
+0.8
+0
+0.2
+0.4
+0.6
+0.8
+0
+0.2
+0.4
+0.6
+0.8
+0
+1.0
+2.0
+3.0
+0
+P-O3 (Mmol d-1 bin-1)
+B
+C
+D
+A
+E
+F
+A = CAM4-Chem
+B = GEOS-Chem
+C = GFDL-AM3
+D = GISS-E2
+E = GMI-CTM
+F = UCI-CTM
+P-O3 (Mmol d-1 bin-1)
+(d) Air (petamol bin
+)
+-1

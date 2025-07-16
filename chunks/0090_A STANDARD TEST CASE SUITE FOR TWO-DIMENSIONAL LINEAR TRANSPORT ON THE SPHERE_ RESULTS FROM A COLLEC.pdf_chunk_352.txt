@@ -1,0 +1,8 @@
+Purser, R. J. and Leslie, L. M.: An Efﬁcient Interpolation Proce-
+dure for High-Order Three-Dimensional Semi-Lagrangian Mod-
+els, Mon. Weather Rev., 119, 2492–2498, 1991.
+Putman, W. M. and Lin, S.-J.: Finite-volume transport on various
+cubed-sphere grids, J. Comput. Phys., 227, 55–78, 2007.
+Ringler, T. D., Ju, L., and Gunzburger, M.: A Multiresolution
+Method for Climate System Modeling: Application of Spherical
+Centroidal Voronoi Tessellations, Ocean Dynam., 58, 475–498,

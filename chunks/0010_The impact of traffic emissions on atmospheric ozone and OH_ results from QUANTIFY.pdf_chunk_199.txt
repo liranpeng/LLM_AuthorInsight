@@ -1,0 +1,10 @@
+2006.
+Tiedtke, M.: A Comprehensive Mass Flux Scheme for Cumulus Pa-
+rameterisation on Large Scale Models, Mon. Weather Rev., 117,
+1779–1800, 1989.
+Tost, H., J¨ockel, P., Kerkweg, A., Sander, R., and Lelieveld, J.:
+Technical Note: A new comprehensive SCAVenging submodel
+for global atmospheric chemistry modelling, Atmos. Chem.
+Phys., 6, 565–574, 2006,
+http://www.atmos-chem-phys.net/6/565/2006/.
+Tost, H., J¨ockel, P., and Lelieveld, J.: Lightning and convection

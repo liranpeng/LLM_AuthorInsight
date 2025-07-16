@@ -1,0 +1,6 @@
+doi:10.1029/2021ms002794.
+[5] Kang Chen, Tao Han, Junchao Gong, Lei Bai, Fenghua Ling, Jing-Jia Luo, Xi Chen, Leiming
+Ma, Tianning Zhang, Rui Su, Yuanzheng Ci, Bin Li, Xiaokang Yang, and Wanli Ouyang.
+Fengwu: Pushing the skillful global medium-range weather forecast beyond 10 days lead. arXiv,
+2023. doi:10.48550/ARXIV.2304.02948.
+[6] Spencer K. Clark, Noah D. Brenowitz, Brian Henn, Anna Kwa, Jeremy McGibbon, W. Andre

@@ -1,0 +1,8 @@
+Island–Azores ﬂight. GEOS-5 shows a strong plume around
+800 hPa for the ﬁrst hour of the ﬂight, which agrees well with
+observations (Fig. 2b, d). The observations show additional
+strong plumes in the next hour between 600 and 700 hPa.
+These plumes are present but underestimated in GEOS-5,
+possibly due to errors in the magnitude of the emissions or
+the placement or extent of the plumes. The placement and
+strength of simulated plumes is sensitive to the injection

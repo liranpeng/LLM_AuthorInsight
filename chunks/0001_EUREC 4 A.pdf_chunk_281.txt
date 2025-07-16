@@ -1,0 +1,11 @@
+Rain spectrometer
+SPEC HVPS-3 measuring precipitation particles sizes from 150 µm to 19.2 mm
+Core instrument
+The aircraft and in situ data system (aircraft state, temperature, humidity, and pressure)
+80 and 1000 m above sea level centered at a distance of
+roughly 50 km upwind of the Barbados Cloud Observatory
+(see Fig. 2).
+B12
+CU-RAAVEN
+The RAAVEN was operated from Morgan Lewis Beach, Bar-
+bados, by the University of Colorado Boulder, under support

@@ -1,0 +1,8 @@
+centrations compared to surface observations from the late
+1800s. Results from a “tuned” version of the model, in which
+lightning NOx emissions have been reduced and biogenic
+hydrocarbon emissions have been increased, better matches
+the surface ozone observations available from the end of the
+19th century. For more details see Mickley et al. (1999) and
+Mickley et al. (2001). The Harvard-GISS radiative transfer
+model employs the correlated k-distribution method to de-

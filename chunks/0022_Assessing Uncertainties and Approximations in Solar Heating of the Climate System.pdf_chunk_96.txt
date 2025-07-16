@@ -1,0 +1,7 @@
+HSU AND PRATHER
+10.1029/2020MS002131
+10 of 24
+Journal of Advances in Modeling Earth Systems
+For clouds, the δ-scaling errors are modest in terms of global mean, within ±0.4 W m−2 for any of the three 
+primary components (T1/R10-11–12). The pattern is interesting in that all three methods show a similar 
+−0.3 W m−2 error in reflected flux, but the surface absorption error shifts from +0.07 to +0.23 to +0.44 W

@@ -1,0 +1,9 @@
+dict surface O3 concentrations that are higher than observa-
+tions (Dawson et al., 2008; Nolte et al., 2008; Zanis et al.,
+2011; Appel et al., 2012; Lamarque et al., 2012; Rasmussen
+et al., 2012). The CTM grid-cell O3 averaged over years
+2005–2006 is larger than observed everywhere for both US
+and EU, in both summer and winter (see Fig. 6; Table S2 in
+www.atmos-chem-phys.net/14/7721/2014/
+Atmos. Chem. Phys., 14, 7721–7739, 2014
+7728

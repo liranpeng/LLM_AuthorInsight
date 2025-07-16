@@ -1,0 +1,3 @@
+during ATom-1. The columns correspond to the two geographic blocks (tropical Paciﬁc, 20◦S–20◦N × 160–240◦E, and North Paciﬁc,
+20–50◦N × 170–225◦E). The rows are the three pressure layers (100–300, 300–900, 900–surface hPa). All histograms sum to 1, but for
+many models the peak values about rlnJ = 0, corresponding to cloud-free skies, are truncated. Where a signiﬁcant fraction of events does

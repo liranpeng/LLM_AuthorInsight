@@ -1,0 +1,9 @@
+the pre-industrial conditions (e.g. in histSST-piNTCF); there-
+fore AerChemMIP speciﬁes a time-evolving monthly SST
+and sea ice distribution taken from a coupled historical ex-
+periment. The impacts of different approaches for specifying
+SSTs and sea ice on the total ERF over the satellite era have
+been estimated to be small in one climate model (Forster et
+al., 2016).
+For models with interactive chemistry, piClim-NTCF and
+piClim-aerO3 are identical and only need to be run once. For

@@ -1,0 +1,4 @@
+during the spring. In terms of the hemispherically integrated STE ﬂuxes, similar values are obtained across
+all chosen isosurfaces with the TC and LS methods. In terms of seasonality, the Northern Hemisphere (NH)
+(not Southern Hemisphere (SH)) residual ﬂuxes from the BD method do capture the phase of the seasonal
+cycle but with a magnitude that is about twice as large. Section 3.2 examines interannual variability. For

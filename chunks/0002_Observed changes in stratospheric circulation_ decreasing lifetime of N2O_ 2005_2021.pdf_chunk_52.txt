@@ -1,0 +1,12 @@
+Schwartz
+et
+al.,
+2021a;
+https:
+//disc.gsfc.nasa.gov/datasets/ML3MBO3_005/summary, Schwartz
+et al., 2021b). The time series calculated here and shown in the
+ﬁgures are included in Tables S1–S5 and S8 in the Supplement.
+Supplement. The supplement related to this article is available
+online at: https://doi.org/10.5194/acp-23-843-2023-supplement.
+Author contributions. MJP designed the research and performed
+the data analysis. LF and NJL analyzed the accuracy of the datasets.

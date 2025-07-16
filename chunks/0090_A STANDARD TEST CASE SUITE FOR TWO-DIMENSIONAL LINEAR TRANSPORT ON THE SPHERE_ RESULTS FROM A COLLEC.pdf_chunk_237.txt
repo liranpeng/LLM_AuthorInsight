@@ -1,0 +1,21 @@
+are presented and analyzed. It is the purpose of this paper to
+provide a catalog of results for an ensemble of state-of-the-
+art transport schemes for global atmosphere/ocean modeling
+as well as to investigate what aspects of accuracy different
+www.geosci-model-dev.net/7/105/2014/
+Geosci. Model Dev., 7, 105–145, 2014
+134
+P. H. Lauritzen et al.: Results from standard test case suite
+ 0
+ 0.05
+ 0.1
+ 0.15
+ 0.2
+ 0.25
+ 0.3
+ 0.35
+FARSIGHT-CN1.0
+CLAW-CN0.95
+SLFV-ML-CN0.8
+SLFV-SL-CN0.8
+TTS-CN2.0

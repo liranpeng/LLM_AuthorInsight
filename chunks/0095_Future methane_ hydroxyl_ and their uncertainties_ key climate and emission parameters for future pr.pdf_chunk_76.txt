@@ -1,0 +1,8 @@
+altitude, however, since the net sensitivity results from off-
+setting CO and NOx effects and the NOx lifetime depends
+strongly on altitude. When using the RETRO vertical distri-
+bution for wildﬁre emissions in Oslo CTM3, in which 35–
+45% of emissions enter the free troposphere, the τCH4×OH
+sensitivity is 4 times smaller (α = 0.003). This vertical distri-
+bution explains why Oslo CTM3 exhibits t he least τCH4×OH
+variability in the 1997–2009 simulations (Fig. 1). Sensitiv-

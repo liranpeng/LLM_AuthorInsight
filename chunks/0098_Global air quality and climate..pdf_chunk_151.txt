@@ -1,0 +1,8 @@
+aerosol cloud interactions. However, large variability between
+models87,130 highlights the need for detailed evaluation of aerosol
+microphysical schemes before uncertainty in aerosol forcing can
+be reduced. Synthesis of ﬁeld observations to develop datasets
+with global coverage to evaluate models will be important. New
+approaches are also required to understand the microphysical
+processes that are most responsible for model diversity helping to
+prioritize future research directions.336

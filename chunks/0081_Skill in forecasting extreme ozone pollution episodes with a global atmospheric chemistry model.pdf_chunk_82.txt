@@ -1,0 +1,8 @@
+vations and the CTM hindcast. The probability distribution
+functions (PDFs) for winter (DJF) and summer (JJA) months
+are shown in Fig. 7. The observations, sorted into percentile
+bins (0–5 %, 5–10 %, etc.) calculated separately for each grid
+cell and plotted relative to the median, are shown in red;
+the CTM values, sorted independently of the observations,
+are in blue; and the CTM values sorted according the ob-
+served percentiles (concurrent sampling) are in green. For

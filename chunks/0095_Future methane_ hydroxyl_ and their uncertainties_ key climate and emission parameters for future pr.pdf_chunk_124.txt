@@ -1,0 +1,9 @@
+(GEOS-Chem/MERRA) has little impact on present-day
+τCH4×OH variability (Sect. 3.3).
+The parametric model predicts τCH4×OH will increase
++12.9 ± 10.8 % by 2100 (Fig. 7). MAGICC gives similar
+results (+12.6 %), but the IPCC TAR formula yields a larger
+result (+29.7 %), consistent with their respective historical
+performances in Sect. 4. The ACCMIP model ensemble pre-
+dicts +8.5 ± 10.4 % for RCP 8.5 (Voulgarakis et al., 2012).
+Lightning NOx emissions likely explain the τCH4×OH differ-

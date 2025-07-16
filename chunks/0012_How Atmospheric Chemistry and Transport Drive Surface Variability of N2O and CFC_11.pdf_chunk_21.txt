@@ -1,0 +1,4 @@
+pendent CTMs driven with meteorology of the same period. In spite of some biases in absolute magnitude, 
+the models are able to capture most of the observed variability of stratospheric N2O loss throughout the 
+period. In Section 3, we follow the stratospheric loss of N2O and CFC-11 down to the surface, focusing on 
+the long-term annually smoothed statistics that separate surface variability tied to the QBO from seasonal

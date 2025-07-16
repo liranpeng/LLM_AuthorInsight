@@ -1,0 +1,5 @@
+8.  Findings and Recommendations
+Our goal here is to provide an extensive analysis of the many uncertainties or known errors in our climate 
+model calculations of solar heating rates, and to do this in a consistent framework with climate-relevant 
+diagnostics. We wanted to review as many of the uncertainties/errors as we could, from the mundane (Ray-
+leigh scattering) to the formidable (cloud overlap), so that we could assess priorities for improving the accu-

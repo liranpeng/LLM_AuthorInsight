@@ -1,0 +1,9 @@
+ozone (O3) and changes in stratospheric O3, (3) an increased stra-
+tospheric water vapor (H2O) production, and (4) changes in the
+production of certain aerosols. The most important reaction driving
+these impacts is the destruction of hydrogen by OH:
+H2 þ OH ! H2O þ H
+ð1Þ
+OH is the most important and powerful oxidant in the
+atmosphere8,9. Oxidation by OH is the major sink of hydrogen,
+methane, and other compounds in the atmosphere. The levels of

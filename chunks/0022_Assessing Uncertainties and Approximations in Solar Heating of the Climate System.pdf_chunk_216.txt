@@ -1,0 +1,5 @@
+nal of the Atmospheric Sciences, 32(2), 409–418.
+Di Giuseppe, F., & Tompkins, A. M. (2015). Generalizing cloud overlap treatment to include the effect of wind Shear. Journal of the Atmos-
+pheric Sciences, 72(8), 2865–2876.
+Edwards, J. M., & Slingo, A. (1996). Studies with a flexible new radiation code. I: Choosing a configuration for a large-scale model. Quar-
+terly Journal of the Royal Meteorological Society, 122, 689–719. https://doi.org/10.1002/qj.49712253107

@@ -1,0 +1,8 @@
+tween the models (e.g. different model resolution and chem-
+istry scheme) and this is illustrated in H2011 Figs. B1–B2,
+which show zonal mean O3 impacts from AIR and SHIP for
+each of the six models in 2050 B1. Similar inter-model dif-
+ferences apply for the A1B scenario presented here. The O3
+impact from SHIP differs less between the scenarios, but is
+still larger in A1B with a peak value over the North Atlantic
+Ocean of 6 ppbv (Fig. 2) compared to 4 ppbv in B1 (H2011).

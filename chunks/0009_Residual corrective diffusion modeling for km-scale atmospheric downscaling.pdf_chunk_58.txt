@@ -1,0 +1,8 @@
+dynamical and statistical downscaling is limited (see Supplementary
+Section 7.3 for details). This paper focused on generation quality,
+and not on optimal inference speed, for which gains could be easily
+anticipated. Our CorrDiff prototype is using a dozen iterations
+thanks to the initial regression step. Refinement of the technique
+could reduce the number of iterations to only a few by using
+distillation methods27,42,43 and pursuing other performance
+optimization techniques44,45.

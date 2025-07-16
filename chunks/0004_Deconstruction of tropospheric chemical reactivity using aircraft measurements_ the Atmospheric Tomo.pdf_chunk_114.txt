@@ -1,0 +1,8 @@
+shows the deviations from linearity (SXY ) for each of the
+15 XY pair combinations, listing the Paciﬁc basin in the
+upper triangular part of the matrix and the Atlantic basin
+in the lower triangular part. The diagonals simply give the
+mean ﬁrst-order SX values for the Paciﬁc plus the Atlantic.
+These off-diagonal SXY terms are clearly second order in
+importance for the chemistry: e.g., the importance of the
+SXY term in d2ln(L-CO)/dln(O3) dln(Q) for the Paciﬁc is

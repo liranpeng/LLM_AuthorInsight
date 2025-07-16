@@ -1,0 +1,14 @@
+of the variable v, which after the minimization is converted
+back to model space:
+δx = B
+1
+2 v.
+(6)
+More details on the assimilation algorithm are provided by
+Pannekoucke and Massart (2008) and Massart et al. (2012).
+3.2
+The control variable
+For aerosols, the modelled prognostic variables (i.e. the 3-
+D concentration of aerosols of different composition) and
+the observations (i.e. the column optical depth summed over
+all aerosols at visible wavelengths such as 550 nm AOD) are

@@ -1,0 +1,8 @@
+lated in the ULAQ GCM. The tropopause level is set at the
+150 ppbv ozone level from a reference (year 2000) calcu-
+lation. The ULAQ-RTM is directly coupled to the ULAQ
+model that did the ozone change calculations discussed in
+Sect. 2. Results based on this ozone change are shown in Ta-
+ble 7. The net tropospheric forcing amounts to 0.34 Wm−2
+and 0.39 Wm−2 for the differences “2 minus 1c” and “2 mi-
+nus 1”, respectively, while the net stratospheric forcing is

@@ -1,0 +1,8 @@
+hanced J values above and within the tops of clouds. For
+ideal clouds – uniform layers from horizon to horizon –
+the models have developed a variety of methods to approx-
+imate the 1-D radiative transfer and calculate the J values
+relative to a “clear sky” (Logan et al., 1981; Chang et al.,
+1987; Madronich, 1987; Wild et al., 2000; Lefer et al., 2003;
+Williams et al., 2006; Palancar et al., 2011; Ryu et al., 2017).
+More realistic treatment of clouds is important in global

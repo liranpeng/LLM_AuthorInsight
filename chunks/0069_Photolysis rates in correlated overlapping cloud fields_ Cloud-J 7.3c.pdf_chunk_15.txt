@@ -1,0 +1,14 @@
+overlap (RAN). In this case the likelihood (fractional weight,
+w) of having the cloud in layer L1 fall below the cloud in
+layer L2 is random and hence equals f L1. This particular
+pairing – cloud below cloud – becomes ICA #1. Superscripts
+in the equations below refer to atmospheric layers. The like-
+lihood for the clear layer under the cloudy layer is by default
+f L2 =
+ 
+20% cloudy     
+              1 -
+= 80% clear
+f
+= 15% cloudy                   1 - f
+= 85% clear

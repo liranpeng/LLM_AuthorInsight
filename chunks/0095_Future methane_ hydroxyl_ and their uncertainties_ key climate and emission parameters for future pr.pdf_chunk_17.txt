@@ -1,0 +1,8 @@
+Monthly chemistry diagnostics from each model enable
+us to calculate τCH4×OH, deﬁned as the total atmospheric
+CH4 burden divided by its loss through reactions with tro-
+pospheric OH. All 3 models use ﬁxed methane abundances
+(1760 ppb for UCI CTM and Oslo CTM3, 1775 ppb for
+GEOS-Chem), so variations in τCH4×OH are due solely to
+changes in the OH sink. Different tropopause deﬁnitions in
+the models have minimal effect on τCH4×OH since CH4 oxi-

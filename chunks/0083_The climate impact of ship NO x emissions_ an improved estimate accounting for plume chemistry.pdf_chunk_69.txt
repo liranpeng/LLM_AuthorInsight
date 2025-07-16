@@ -1,0 +1,8 @@
+on OH. The radiative efﬁciency in the ﬁxed OPE model is
+likely smaller than assumed here (see Sects. 2.3 and 3.1), but
+we have not recalculated it because the ﬁxed OPE model is
+not used to derive our best estimate.
+Global aerosol impacts of ship NOx have been identiﬁed
+as a knowledge gap that we brieﬂy estimate (Eyring et al.,
+2010). Ship NOx increases oxidative production of nitrate
+and sulfate in our simulations by 9 % and 0.4 %, respectively,

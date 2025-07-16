@@ -1,0 +1,6 @@
+www.atmos-meas-tech.net/11/2653/2018/
+Atmos. Meas. Tech., 11, 2653–2668, 2018
+2666
+M. J. Prather et al.: Reactivity of short-lived greenhouse gases
+Figure 9. Scatter plot of reactivities of the 14 880 air parcels showing the effect of the GFDL (a) and NCAR (b) models using T and q from
+their climate models, instead of from the speciﬁed data stream. The UCI model for a single day (16 August 2016) calculated reactivities

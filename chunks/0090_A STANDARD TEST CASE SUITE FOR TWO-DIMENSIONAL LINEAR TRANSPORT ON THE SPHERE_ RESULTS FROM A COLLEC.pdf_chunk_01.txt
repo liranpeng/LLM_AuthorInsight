@@ -1,0 +1,6 @@
+S. Dubey6, O. Guba7, A. B. Hansen14, E. Kaas8, J. Kent2, J.-F. Lamarque1, M. J. Prather9, D. Reinert10,
+V. V. Shashkin12,13, W. C. Skamarock1, B. Sørensen9, M. A. Taylor7, and M. A. Tolstykh12,13
+1National Center for Atmospheric Research, Boulder, Colorado, USA
+2University of Michigan, Department of Atmospheric, Oceanic and Space Sciences, Ann Arbor, Michigan, USA
+3Boise State University, Boise, Idaho, USA
+4Disaster Prevention Research Institute, Kyoto University, Uji, Kyoto, Japan

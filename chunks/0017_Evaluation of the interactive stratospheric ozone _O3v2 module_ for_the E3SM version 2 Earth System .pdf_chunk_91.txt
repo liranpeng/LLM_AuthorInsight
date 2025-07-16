@@ -1,0 +1,8 @@
+ocean zonal wind stress for December–May. At different lev-
+els, the 200 and 850 hPa zonal wind and 500 hPa geopotential
+height show small changes in both directions.
+Since the O3v2 conﬁguration changes the PSC ozone loss
+T threshold, it is expected to have larger impact over the SH
+high latitudes. We further analyze the climate impact at 50–
+90◦S (Fig. 11). While other TOA radiation ﬁelds are alike,
+the longwave cloud radiative effect becomes worse during

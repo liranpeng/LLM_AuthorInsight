@@ -1,0 +1,27 @@
+Gaussian latitude–longitude
+2
+SFF-CSLAM
+Simpliﬁed Flux-Form CSLAM scheme
+Ullrich et al. (2013)
+Gnomonic cubed-sphere
+3 and 4
+SLFV-SL
+Semi-Lagrangian type Slope Limited
+Miura (2007)
+Icosahedral-hexagonal
+2
+SLFV-ML
+Slope Limited Finite Volume scheme
+N/A (see Appendix A14)
+Icosahedral-hexagonal
+2
+with method of lines
+TTS-I
+Trajectory-Tracking Scheme – Interfaces
+Dong and Wang (2013)
+Spherical centroidal
+1
+Voronoi tessellation
+UCISOM
+UC Irvine Second-Order Moments scheme
+Prather (1986)

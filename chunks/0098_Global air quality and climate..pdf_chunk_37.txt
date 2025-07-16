@@ -1,0 +1,8 @@
+VOC (e.g., methanol, ethanol, acetaldehyde, and methylbutenol).
+These emissions contribute approximately two-thirds of the
+non-methane VOC budget at the regional and global scale48
+and the terpenoid compounds (isoprene and monoterpenes)
+are typically more reactive than many anthropogenic VOC.49
+BVOC oxidation can contribute to O3 formation when NOx is
+present.50,51 BVOC also alter global oxidant levels and thereby
+impact CH4 abundances.52 The magnitude and sign of the

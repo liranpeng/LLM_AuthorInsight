@@ -1,0 +1,6 @@
+hydrogen. The difference in the ﬂux between PERT_CH4 and CTRL is the ﬂux
+needed to sustain the 10% increase in methane, and this ﬂux includes the feedback
+factor. Both the methane and hydrogen feedback factor can be calculated as the
+perturbation lifetime divided by the total lifetime. The increased concentration of
+methane in PERT_H2 that would have occurred (at equilibrium) if it had not been
+held ﬁxed (e.g.43,) is then calculated by combining the change in surface con-

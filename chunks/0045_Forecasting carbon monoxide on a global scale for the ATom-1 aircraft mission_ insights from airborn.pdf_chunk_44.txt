@@ -1,0 +1,10 @@
+with GEOS-5 underestimating the observed gradient. Both
+the model and measurements show tropospheric CO less
+than 90 ppbv along the ﬂight route with slightly elevated CO
+above 600 hPa around 22:00 and 00:00. For this ﬂight and the
+subsequent ﬂight to Punta Arenas, all observations are in the
+Southern Hemisphere and the mean values for both ATom-
+1 and GEOS-5 agree within the range 54–57 ppb (Table 2,
+Fig. S5).
+Atmos. Chem. Phys., 18, 10955–10971, 2018
+www.atmos-chem-phys.net/18/10955/2018/

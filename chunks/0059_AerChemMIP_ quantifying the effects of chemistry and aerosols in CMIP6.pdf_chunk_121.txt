@@ -1,0 +1,16 @@
+1850
+1850
+3
+piClim-NH3
+AGCM-AER
+1850
+1850
+1850 (non-NH3) 2014 (NH3)
+1850
+1850
+3
+∗piClim-control is identical to that in RFMIP; piClim-NTCF is identical to piClim-aerO3 (in RFMIP) for models with interactive tropospheric and stratospheric chemistry.
+pre-industrial SSTs and maintain the same emissions (or con-
+centrations) for 30 years. They therefore give a more accurate
+representation of the pre-industrial to present-day ERF than
+would be obtained from using portions of the transient his-

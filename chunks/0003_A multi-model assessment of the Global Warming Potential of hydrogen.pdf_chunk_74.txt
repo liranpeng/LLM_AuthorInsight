@@ -1,0 +1,24 @@
+radiative forcing due to hydrogen, Supplementary Table 4 and Supplementary
+Table 2 The model set-up.
+Short name
+Long name
+Resolution
+Experiments
+Meteorology
+Simulation length
+(average period)
+GFDL
+GFDL-AM4.1
+~100 kms with 49
+vertical levels
+i) present-day control run with ﬁxed
+H2 surface concentrations
+ii) 25% increase in H2 surface
+concentrations
+iii) same as ii) but with 40% increase
+iv) 10% increase in CH4 surface
+concentrations
+Winds nudged to NCEP
+6 hr wind speeds
+20 years (last 10
+years)

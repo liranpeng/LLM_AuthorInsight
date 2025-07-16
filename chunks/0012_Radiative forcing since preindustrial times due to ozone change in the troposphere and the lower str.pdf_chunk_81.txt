@@ -1,0 +1,12 @@
+climate and ozone precursor emissions, but does not consider
+changes in halogen loading.
+Some of the models were able to perform only subsets
+of the deﬁned scenarios.
+In particular, the CTMs could
+not perform scenario 1 since they do not account for cou-
+plings between chemistry and climate.
+Six out of the
+seven CCMs models did a pre-industrial climate simula-
+tion; ﬁve among them scenario 1 and one (UM CAM) sce-
+nario 1d, as this model calculates changes in tropospheric
+chemistry only.

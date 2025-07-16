@@ -1,0 +1,47 @@
+to 1951–1980 comparing results obtained using ERSST.v3b (left column panels), ERSST.v4 (center column panels), and their difference
+(right column panels).
+0
+20
+40
+60
+80
+100
+   
+   
+   
+   
+1000
+0
+1
+2
+3
+4
+Land (SAT)
+Ocean (SST)
+(a)  Doubled CO2: GISS modelE−R (CMIP5)
+Year of experiment
+Temperature change (°C)
+200
+500
+0
+20
+40
+60
+80
+100
+   
+   
+   
+   
+1000
+0
+1
+2
+3
+4
+Land (SAT)
+Ocean (SST)
+(b)  Doubled CO2: GISS modelE−R (ice melt paper)
+Year of experiment
+200
+500

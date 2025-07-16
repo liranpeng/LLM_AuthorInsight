@@ -1,0 +1,4 @@
+Atmospheric System Research (ASR), an Office of Science, Office of Biological and Environmental Research 
+(BER) program, under contract DE-AC02-06CH11357 awarded to Argonne National Laboratory. We gratefully 
+acknowledge the computing resources provided on Blues, a high-performance computing cluster operated by the 
+Laboratory Computing Resource Center at Argonne National Laboratory. The National Center for Atmospheric

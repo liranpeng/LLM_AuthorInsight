@@ -1,0 +1,10 @@
+T and q, we are unable to determine if its photochemical
+module is similar to another model. Moreover, with climate-
+varying T and q’s the modeled reactivities from an observed
+data stream will also be too noisy for an analysis of the top-
+10 % parcels, i.e., which air matters.
+4
+Summary discussion
+We develop a new protocol for merging in situ measurements
+with 3-D model simulations of atmospheric chemistry as cal-
+culated by chemistry-transport models through to Earth sys-

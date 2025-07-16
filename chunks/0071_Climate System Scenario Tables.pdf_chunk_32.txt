@@ -1,0 +1,7 @@
+Cionni, I., V. Eyring, J. Lamarque, W. Randel, D. Stevenson, F. Wu, G. Bodeker, T. 
+Shepherd, D. Shindell, and D. Waugh, 2011: Ozone database in support of CMIP5 
+simulations: Results and corresponding radiative forcing. Atmos. Chem. Phys., 
+11, 11267–11292.
+Cofala, J., M. Amann, Z. Klimont, K. Kupiainen, and L. Hoglund-Isaksson, 2007: 
+Scenarios of global anthropogenic emissions of air pollutants and methane until 
+2030. Atmos. Environ., 41, 8486–8499.

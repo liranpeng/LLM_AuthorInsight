@@ -1,0 +1,11 @@
+the statistical parameters.
+6.4
+In situ aircraft concentration measurements
+To further assess the performance of the assimilation model
+run we evaluate the impact of the AOD assimilation on
+aerosol properties other than AOD. To do this, we compare
+the modelled aerosol number concentrations with the aerosol
+concentrations measured in situ during the TRAQA period
+by the PCASP instrument. During the campaign, ﬂights with
+www.atmos-meas-tech.net/9/5535/2016/
+Atmos. Meas. Tech., 9, 5535–5554, 2016

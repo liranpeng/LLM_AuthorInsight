@@ -1,0 +1,8 @@
+J., Eskes, H. J., Fiore, A. M., Gauss, M., Hauglustaine, D. A.,
+Horowitz, L. W., Isaksen, I. S. A., Krol, M. C., Lamarque, J. F.,
+Lawrence, M. G., Montanaro, V., Muller, J. F., Pitari, G., Prather,
+M. J., Pyle, J. A., Rast, S., Rodriguez, J. M., Sanderson, M. G.,
+Savage, N. H., Shindell, D. T., Strahan, S. E., Sudo, K., and
+Szopa, S.: Multimodel ensemble simulations of present-day and
+near-future tropospheric ozone, J. Geophys. Res.-Atmos., 111,
+D08301, doi:10.1029/2005JD006338, 2006.

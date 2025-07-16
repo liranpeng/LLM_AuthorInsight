@@ -1,0 +1,9 @@
+Article  CAS  Google Scholar 
+25. Gong, A. et al. Enhancing spatial variability representation of
+radar nowcasting with generative adversarial networks.
+Remote Sensing 15, 3306 (2023).
+Article  Google Scholar 
+26. Vosper, E. et al. Deep learning for downscaling tropical
+cyclone rainfall to hazard-relevant spatial scales. Journal of
+Geophysical Research: Atmospheres e2022JD038163 (2023).
+27. Xiao, Z., Kreis, K. & Vahdat, A. Tackling the generative

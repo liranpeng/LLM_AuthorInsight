@@ -1,0 +1,8 @@
+Winner, D., Woo, J., Wu, S., and Wuebbles, D.: A preliminary
+synthesis of modeled climate change impacts on US regional
+ozone concentrations, B. Am. Meteorol. Soc., 90, 1843–1863,
+doi:10.1175/2009BAMS2568.1, 2009.
+Wild, O. and Prather, M. J.: Global tropospheric ozone modeling:
+Quantifying errors due to grid resolution, J. Geophys. Res., 111,
+D11305, doi:10.1029/2005jd006605, 2006.
+Wild, O., Fiore, A. M., Shindell, D. T., Doherty, R. M., Collins,

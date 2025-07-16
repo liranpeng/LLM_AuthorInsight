@@ -1,0 +1,38 @@
+the eastern seaboard have the greatest differences in the US
+(> 40 ppb), while in EU the greatest differences are concen-
+trated in central countries (e.g., France, Germany, northern
+Italy).
+a)      µ = 62 ± 6 ppb
+ 
+ 
+b)     µ = 56 ± 7 ppb
+45
+50
+55
+60
+65
+70
+75
+c)      µ = 32 ± 5 ppb
+ 
+ 
+d)     µ = 28 ± 4 ppb
+15
+20
+25
+30
+35
+40
+45
+e)      µ = 30 ± 6 ppb
+ 
+ 
+f)     µ = 28 ± 8 ppb
+15
+20
+25
+30
+35
+40
+45
+Figure 4. Gridded surface MDA8 O3 (ppb) corresponding to the (a,

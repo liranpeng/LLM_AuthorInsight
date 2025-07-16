@@ -1,0 +1,8 @@
+pected given the difference in resolution between the obser-
+vations and model. The strong performance of GEOS-5 with
+regards to the overall CO distribution and the timing of the
+enhancements gives us conﬁdence in using tagged tracers to
+identify the sources affecting the air sampled in ATom-1.
+We ﬁnd that for most ﬂights the dominant contribution
+to total CO is from non-biomass-burning sources, which in-
+clude both fossil fuels and biofuels and oxidation of hydro-

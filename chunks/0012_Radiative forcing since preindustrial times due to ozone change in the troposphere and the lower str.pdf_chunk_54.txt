@@ -1,0 +1,25 @@
+simulated within ±40% by all models except UIO CTM2
+Atmos. Chem. Phys., 6, 575–599, 2006
+www.atmos-chem-phys.net/6/575/2006/
+M. Gauss et al.: Radiative forcing due to ozone changes between 1850 and 2000
+581
+Table 1. Continued.
+Number/Name/Type
+Advection Scheme
+Convection Scheme
+Tropospheric Chemistry
+Stratospheric Chemistry
+1
+ULAQ
+CCM
+Eulerian explicit
+(Pitari et al., 1997)
+Pitari et al. (2002)
+following M¨uller and
+Brasseur (1995)
+NMHC, PAN, S chemistry,
+tropospheric
+aerosols
+and
+ozone
+Ozone

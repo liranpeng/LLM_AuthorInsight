@@ -1,0 +1,42 @@
+2000. Overall, the parametric model simulates a decrease in
+τCH4×OH since 1980, which has also been found in numer-
+ous CTM and GCM studies (Duncan et al., 2000; Karlsdottir
+www.atmos-chem-phys.net/13/285/2013/
+Atmos. Chem. Phys., 13, 285–302, 2013
+294
+C. D. Holmes et al.: Future methane, hydroxyl, and their uncertainties
+1980
+1985
+1990
+1995
+2000
+2005
+−4
+−2
+0
+2
+4
+6
+τCH4 × OH , %
+ 
+ 
+this work
+MAGICC
+IPCC TAR
+Δ
+−4
+−2
+0
+2
+4
+Δ τCH4  × OH, %
+ 
+1980
+1985
+1990
+1995
+2000
+2005
+−6
+CH4
+Temperature

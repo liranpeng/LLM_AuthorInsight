@@ -1,0 +1,7 @@
+Berntsen, T. K., Bian, H., Chin, M., Diehl, T., Easter, R., Ghan,
+S. J., Iversen, T., Kirkevåg, A., Lamarque, J.-F., Lin, G., Liu, X.,
+Luo, G., Myhre, G., van Noije, T., Penner, J. E., Schulz, M., Se-
+land, Ø., Skeie, R. B., Stier, P., Takemura, T., Tsigaridis, K., Yu,
+F., Zhang, K., and Zhang, H.: Aerosols at the Poles: An AeroCom
+Phase II multi-model evaluation, Atmos. Chem. Phys. Discuss.,
+doi:10.5194/acp-2016-1120, in review, 2017.

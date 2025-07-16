@@ -1,0 +1,11 @@
+tions (Wild et al., 2003), while in the stratosphere, it employs
+the stratospheric linear ozone scheme (Linoz) and conducts
+linear calculations of (P-L) (Hsu, 2004). Photolysis rates are
+calculated by the Fast-JX package (Bian and Prather, 2002).
+Transport scheme uses the second order moments (Prather,
+1986). Lightning is parameterized with the method of Price
+and Rind (1992).
+Convection is simulated, following the
+ECMWF Tiedtke convection diagnostics.
+3.6
+E39/C

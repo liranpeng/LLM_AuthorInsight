@@ -1,0 +1,7 @@
+v4.3.2 provided an estimate of indirect emission from non-agricultural 
+sectors, whereas both FAOSTAT and GAINS—following the IPCC 
+guidelines—provided NHx/NOy volatilization from agricultural sec-
+tors. Here, we sum FAOSTAT or GAINS data with EDGAR v4.3.2 data 
+(that is, FAOSTAT/EDGAR v4.3.2 or GAINS/EDGAR v4.3.2) to represent 
+nitrogen-deposition-induced soil emissions from both agricultural and 
+non-agricultural sectors. The N2O emissions from ‘Inland and coastal

@@ -1,0 +1,9 @@
+(R2 ≈0.75).
+The atmospheric chemistry of tropospheric OH and
+methane involves nonlinear chemistry that could, in princi-
+ple, undermine the additivity of terms in Eq. (3). We test the
+linearity of the system with a ﬁnal perturbation test in the
+UCI CTM in which all 5 factors are perturbed simultane-
+ously. The resulting change in τCH4×OH differs by about 1
+part in 10 from the linear addition of factors.
+The CTM simulations in this work make several assump-

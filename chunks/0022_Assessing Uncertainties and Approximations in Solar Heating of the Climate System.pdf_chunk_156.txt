@@ -1,0 +1,4 @@
+solve them all, and most codes do not even count them all (Räisänen et al., 2004). RRTMG randomly selects 
+an ICA for each wavelength bin in the RT solution, a method designated Monte Carlo ICA (McICA, Pincus 
+et al., 2003). McICA has errors at each time step by mixing ICAs across wavelengths and by not accurately 
+sampling the average of ICAs (e.g., average cloud optical depth) in that time step. McICA is intended to de-

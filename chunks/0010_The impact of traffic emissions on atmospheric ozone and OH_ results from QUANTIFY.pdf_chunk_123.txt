@@ -1,0 +1,46 @@
+Table 7. Methane lifetime in years for the BASE case and relative changes due to a decrease of trafﬁc emissions of 5%. Scaled mean values
+are given in italics. Top boundary for the integration was 50 hPa. Note that no feedback factor is included.
+TM4
+OSLO
+LMDz
+UCI
+TOMCAT
+mean
+σ
+scaled
+σ
+BASE (yr)
+7.23
+8.49
+10.23
+7.45
+11.43
+8.97
+1.63
+8.97
+1.63
+ROAD (%)
+0.093
+0.068
+0.096
+0.064
+0.081
+0.805
+0.013
+1.61
+0.25
+SHIP (%)
+0.162
+0.185
+0.206
+0.176
+0.320
+0.206
+0.05
+4.12
+1.02
+AIR (%)
+0.041
+0.032
+0.053
+0.047

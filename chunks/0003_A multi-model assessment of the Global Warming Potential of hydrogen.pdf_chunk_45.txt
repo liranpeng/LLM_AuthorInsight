@@ -1,0 +1,37 @@
+Methods.
+Table 1 Uncertainties in the GWP100 calculation.
+Component
+Percentage uncertainty in the GWP100 best estimate due to:
+Absolute
+uncertainty
+1σ
+Absolute
+uncertainty
+90% conﬁdence
+Percent contribution to
+GWP uncertainty
+Source for underlying
+spread
+Total
+± 2:8
+± 4:7
+24
+AGWPCO2 (σAGWPCO2 )
+Wyr
+m2kg
+± 1:4  1014
+± 2:3  1014
+16
+48
+H2 burden change (σ4BurdenH2 )
+Tg
+yr
+± 0:17
+± 0:29
+0.9
+Model ensemble
+H2 feedback factor ðσffH2 Þ
+± 6:3  103
+± 1:0  102
+0.6
+Model ensemble

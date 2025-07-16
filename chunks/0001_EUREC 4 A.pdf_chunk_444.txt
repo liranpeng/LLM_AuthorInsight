@@ -1,0 +1,9 @@
+of Directional Wave Spectra and Wind Stress from a Wave Glider
+Autonomous Surface Vehicle, J. Atmos. Ocean. Tech., 35, 347–
+363, https://doi.org/10.1175/JTECH-D-17-0091.1, 2018.
+Thomson, J., Moulton, M., de Klerk, A., Talbert, J., Guerra, M.,
+Kastner, S., Smith, M., Schwendeman, M., Zippel, S., and Ny-
+lund, S.: A new version of the SWIFT platform for waves, cur-
+rents, and turbulence in the ocean surface layer, in: IEEE/OES
+Workshop on Currents, Waves, and Turbulence Measurements,
+2019.

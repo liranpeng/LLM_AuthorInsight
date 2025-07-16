@@ -1,0 +1,8 @@
+tion in column O3 gives only a 33 % increase. Such differ-
+ences will drive a large part of the model differences seen in
+Fig. 3. For example, the large J-O3 for GISS, and hence large
+production of OH, can explain in part why GISS has very
+large L-O3 and P-O3, but not why the L-CH4 (also depen-
+dent on OH) matches the other models. Surprisingly GEOS-
+Chem has an even larger J-O3 but its reactivities are within
+the range of the other four models. A comparison between

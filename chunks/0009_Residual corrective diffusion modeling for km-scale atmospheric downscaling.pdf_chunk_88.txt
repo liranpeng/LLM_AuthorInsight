@@ -1,0 +1,9 @@
+International conference on artificial intelligence and statistics,
+10555–10571 (PMLR, 2022).
+23. Harris, L., McRae, A. T., Chantry, M., Dueben, P. D. & Palmer,
+T. N. A generative deep learning approach to stochastic
+downscaling of precipitation forecasts. Journal of Advances in
+Modeling Earth Systems 14, e2022MS003120 (2022).
+Article  Google Scholar 
+24. Ravuri, S. et al. Skilful precipitation nowcasting using deep
+generative models of radar. Nature 597, 672–677 (2021).

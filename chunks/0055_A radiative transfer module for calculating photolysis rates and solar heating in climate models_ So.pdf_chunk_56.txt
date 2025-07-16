@@ -1,0 +1,8 @@
+the cloud as a direct solar beam rather than as scattered light.
+In RRTMG-SW (except for the Fu96 ice-cloud approxima-
+tion), the HG phase function (Henyey and Greenstein, 1941)
+is further used to approximate the scattering of aerosols and
+clouds because of its simple power series formulation. The
+HG phase function does not represent realistic scattering be-
+cause it does not have the backward-scattering peak of real
+aerosols and clouds. As might be expected, errors in two-

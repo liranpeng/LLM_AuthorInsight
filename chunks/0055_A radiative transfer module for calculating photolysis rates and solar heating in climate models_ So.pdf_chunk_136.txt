@@ -1,0 +1,12 @@
+www.geosci-model-dev.net/10/2525/2017/
+Geosci. Model Dev., 10, 2525–2545, 2017
+2540
+J. Hsu et al.: A radiative transfer module
+has all models calculating 20–35 % reductions in heating be-
+cause of the reduced sunlight.
+4
+Computational costs
+The major computational costs of Solar-J and similar codes
+within a chemistry–climate model centers on three key com-
+ponents: matrix operations required for multi-stream scat-
+tering, wavelength bins representing the spectrum of optical

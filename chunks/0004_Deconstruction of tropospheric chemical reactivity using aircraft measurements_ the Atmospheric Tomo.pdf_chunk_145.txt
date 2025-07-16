@@ -1,0 +1,34 @@
+https://doi.org/10.5194/essd-15-3299-2023
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+3330
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements
+Table 3. Second-order cross-term sensitivities SXY calculated as S(+dX+dY) −S(+dX) −S(+dY) for the Paciﬁc (upper-triangular) and
+Atlantic (lower-triangular) basins in ATom-1.
+P-O3
+dO3
+dNOx
+dCO
+dCH4
+dQ
+dT
+dO3
+−0.36
+0.000
+−0.001
+0.004
+0.004
+0.003
+dNOx
+−0.005
+0.73
+0.004
+0.001
+−0.003
+−0.016
+dCO
+−0.005
+0.003
+0.04
+−0.005
+0.000
+0.002

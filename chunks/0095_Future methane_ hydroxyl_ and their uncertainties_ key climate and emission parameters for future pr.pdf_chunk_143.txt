@@ -1,0 +1,8 @@
+in methane lifetime during 1997–2009. For projections over
+many decades, the parametric model also includes 5 factors
+for anthropogenic emissions and one for methane feedback.
+The ensemble of 3 models provides a measure of uncertainty
+in each parametric factor, which we use to project past and
+future methane and its lifetime, with uncertainties. While this
+approach lacks the full complexity of atmospheric chemistry
+that can be included through multi-decadal simulations of

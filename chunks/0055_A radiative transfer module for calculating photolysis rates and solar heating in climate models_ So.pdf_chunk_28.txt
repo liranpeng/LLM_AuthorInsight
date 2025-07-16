@@ -1,0 +1,8 @@
+age. At very large air masses (solar zenith angles of 89–95◦)
+the atmospheric path (vertical optical path ×1/cos(SZA)) in
+the Chappuis band approaches 1 and modest errors appear.
+If highly accurate calculation of the photolysis and heat-
+ing rates due in the Chappuis band is required, then fur-
+ther analysis of bin 18 is warranted, but otherwise this treat-
+ment is sufﬁciently accurate to follow these rates as the sun
+sets. Another possible source of error is that these cross sec-

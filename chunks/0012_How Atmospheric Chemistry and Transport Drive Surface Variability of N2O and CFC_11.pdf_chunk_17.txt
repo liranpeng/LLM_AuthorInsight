@@ -1,0 +1,4 @@
+(QBO) pattern seen in the measurements appears to be uniquely stratospheric (see IPCC AR5, WG1, Chap-
+ter 6, Figure 6.19; Ciais et al., 2013). The QBO alternates phase about every 28 months (Baldwin et al., 2001) 
+and increases (decreases) the N2O sink by enhancing (suppressing) tropical upwelling of N2O-rich air to 
+the loss region in the tropical middle stratosphere (Strahan et al., 2015). The QBO can also modulate the

@@ -1,0 +1,5 @@
+stations: Malaga (ESP), Tabernas (ESP), Avignon (FRA), Ersa (FRA), Frioul (FRA), Lampedusa (ITA), Limassol (CYP), Palma de Mallorca
+(ESP). The location of a particular station is marked at the top of each panel. Correlation, bias and root mean square error for both the direct
+model and the assimilation model run as compared to the AERONET data are given in Table 3.
+the ATR-42 were conducted during 9 different days, carry-
+ing the PCASP instrument on board. The ﬂights passed over

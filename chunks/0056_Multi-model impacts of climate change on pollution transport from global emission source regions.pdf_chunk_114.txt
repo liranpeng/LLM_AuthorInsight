@@ -1,0 +1,6 @@
+14233
+Figure 11. CO-tracer (COt) mixing ratio annual-average proﬁles (ppb) averaged over various latitude bands (40◦N, 0, 40◦S) for the 2000s
+(present day) and 2090–2099 (RCP 8.5) for (a) UM-CAM, (b) STOC-HadAM3, (c) CMAM, and (d) GISS-E2-R plotted against altitude in
+pressure units (hPa) (green) and with distance from the tropopause for the respective time period (blue).
+Convective mass ﬂuxes consistently decrease throughout
+most of the troposphere in the future in all four CCMs in both

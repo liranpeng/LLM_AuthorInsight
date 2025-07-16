@@ -1,0 +1,10 @@
+here would produce a very sharp clear-sky peak in rlnJ that
+is not seen in CAFS. The CAFS rlnJ distribution is widened
+in part by TUV albedo biases, but also because it is effec-
+www.atmos-chem-phys.net/18/16809/2018/
+Atmos. Chem. Phys., 18, 16809–16828, 2018
+16822
+S. R. Hall et al.: Cloud impacts on photochemistry
+tively a weighted average of cloud conditions over tens of
+kilometers or more and thus has lower frequency of clear
+sky than the 1-D ICAs do. The Group 1 models with large

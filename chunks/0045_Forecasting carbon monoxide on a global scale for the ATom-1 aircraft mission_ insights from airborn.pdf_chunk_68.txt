@@ -1,0 +1,8 @@
+ical sources such as methane oxidation.
+Figure 5 shows the contribution of each tagged tracer over
+the Paciﬁc Ocean from 120◦E to 110◦W, averaged over 5◦
+latitude bins. Non-biomass-burning sources dominate at all
+latitudes, due in part to the inclusion of CO from methane
+oxidation in addition to fossil fuel sources in these tracers.
+The oxidation of methane over the remote oceans contributes
+to the large magnitude of “other non-BB” sources over the

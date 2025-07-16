@@ -1,0 +1,8 @@
+for the period of the TRAQA campaign, ChArMEx database,
+available at: http://mistrals.sedoo.fr/ChArMEx/ (registration re-
+quired, last access: November 2016), doi:10.14768/MISTRALS-
+CHARMEX.1449, 2016.
+Elbern, H., Schmidt, H., and Ebel, A.: Variational data assimilation
+for tropospheric chemistry modeling, J. Geophys. Res.-Atmos.,
+102, 15967–15985, doi:10.1029/97JD01213, 1997.
+Fisher, M. and Andersson, E.: Developments in 4D-Var and Kalman

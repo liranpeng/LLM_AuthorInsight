@@ -1,0 +1,9 @@
+Data Availability Statement
+Dataset, Solar-J source code, and scripts for generating figures and tables are concurrently available to DRY-
+AD University of California, Irvine with DOI https://doi.org/10.7280/D1PQ3W.
+HSU AND PRATHER
+10.1029/2020MS002131
+21 of 24
+Journal of Advances in Modeling Earth Systems
+References
+Baek, S., & Bae, S. Y. (2018). New optical properties of ice crystals for multiclass cloud microphysics. Journal of Advances in Modeling Earth

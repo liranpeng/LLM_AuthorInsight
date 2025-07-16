@@ -1,0 +1,8 @@
+vations are taken at their exact times to the nearest minute;
+i.e. every measurement is compared with the background at
+the time of measurement, as in 4-D-Var. The optimal analysis
+is estimated only for a speciﬁed moment in the assimilation
+cycle, as in 3-D-Var, and not for the whole trajectory, as in
+4-D-Var. Thus, compared to 4-D-VAR, during the assimila-
+tion the information given by observations is not propagated
+in time, and consequently we do not need the linearized op-

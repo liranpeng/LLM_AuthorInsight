@@ -1,0 +1,8 @@
+from the ATom measurements. The key model-dependent
+quantities that control the reactivities are the photolysis rates,
+which depend on clouds and the overhead column ozone.
+Figure 4 compares the J values and reactivities for the
+ATom-1 parcels calculated for day numbers 213 (1 August)
+and 223 (11 August). The J values have the largest scatter,
+and this drives a reduced level of scatter in reactivities. The
+J-NO2 value is not much affected by the overhead ozone col-

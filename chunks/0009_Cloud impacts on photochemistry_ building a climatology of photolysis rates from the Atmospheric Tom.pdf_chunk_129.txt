@@ -1,0 +1,9 @@
+these cloudy–clear J-value statistics over land will be more
+difﬁcult due to the higher inherent variability in albedo and
+aerosol proﬁles.
+More effort is needed from the modeling community to
+characterize the key factors driving these model differences
+in photolysis rates under realistic, cloudy conditions. This
+might include sensitivity runs that address aerosol and sur-
+face albedo impacts for each model. We would also need
+a better characterization of the cloud distributions used in

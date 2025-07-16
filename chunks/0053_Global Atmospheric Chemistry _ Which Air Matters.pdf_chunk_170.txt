@@ -1,0 +1,8 @@
+ler, J. G.: The impact of resolution on ship plume simula-
+tions with NOx chemistry, Atmos. Chem. Phys., 9, 7505–7518,
+https://doi.org/10.5194/acp-9-7505-2009, 2009.
+Ciais, P., Sabine, C., Bala, G., Bopp, L., Brovkin, V., Canadell, J.,
+Chhabra, A., DeFries, R., Galloway, J., Heimann, M., Jones, C.,
+Le Quéré, C., Myneni, R. B., Piao, S., and Thornton, P.: Carbon
+and Other Biogeochemical Cycles, in: Climate Change 2013:
+The Physical Science Basis, IPCC WGI Contribution to the Fifth

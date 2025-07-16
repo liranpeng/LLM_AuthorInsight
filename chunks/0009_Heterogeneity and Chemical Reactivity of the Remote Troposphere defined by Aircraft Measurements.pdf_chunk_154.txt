@@ -1,0 +1,8 @@
+https://doi.org/10.5194/acp-17-9081-2017, 2017.
+Prather, M. J., Flynn, C. M., Zhu, X., Steenrod, S. D., Strode, S.
+A., Fiore, A. M., Correa, G., Murray, L. T., and Lamarque, J.-F.:
+How well can global chemistry models calculate the reactivity of
+short-lived greenhouse gases in the remote troposphere, knowing
+the chemical composition, Atmos. Meas. Tech., 11, 2653–2668,
+https://doi.org/10.5194/amt-11-2653-2018, 2018.
+Rastigejev, Y., Park, R., Brenner, M. P., and Jacob, D. J.: Resolv-

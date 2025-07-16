@@ -1,0 +1,15 @@
+www.geosci-model-dev.net/10/2525/2017/
+J. Hsu et al.: A radiative transfer module
+2535
+Table 5. Radiation budget comparison (W m−2) between Solar-J and RRTMG-SW for top of atmosphere (TOA), atmosphere, and surface
+across four SZAs. Also shown is the cloud radiative effect (CRE) of a typical marine stratus cloud, for which the atmospheric absorption is
+split into above cloud, in cloud, and below cloud, and the values are shown in italics.
+SZA
+0◦
+21.2◦
+62.2◦
+84.0◦
+Flux (W m−2)
+1360.8
+1268.4
+634.2

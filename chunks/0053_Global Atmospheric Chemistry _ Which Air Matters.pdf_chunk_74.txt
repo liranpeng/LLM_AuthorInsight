@@ -1,0 +1,8 @@
+(NOx) and scavenging (HNO3, HOOH). For HNO3 the con-
+tent increases overall by 9 %, with the high-end (> 100 ppt)
+distribution not changing, but the low-end (< 20 ppt) air gains
+HNO3, increasing the middle section (20–100 ppt). This is
+logical because the low-HNO3 regions have the most scav-
+enging. This change in distribution over the 24 h integration
+of the A-runs is unlikely to change the reactivities as the
+release of NOx from HNO3 will be more important in the

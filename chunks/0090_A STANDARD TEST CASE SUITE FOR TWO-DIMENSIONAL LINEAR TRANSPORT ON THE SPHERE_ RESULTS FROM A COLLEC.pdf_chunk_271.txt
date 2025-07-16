@@ -1,0 +1,14 @@
+research/NCAR_workshop/).
+A5
+CSLAM
+CSLAM is implemented on an equiangular cubed-sphere
+grid. The average resolution at the Equator is given by
+1λ = 90◦
+Nc
+,
+(A5)
+where Nc × Nc is the number of control volumes on each
+face/panel of the cube. Semi-analytical trajectories are used
+(Nair and Lauritzen, 2010). The diagnostics do not change
+signiﬁcantly when using non-analytic trajectories (C. Erath,
+personal communication, 2013). For the 1.5◦and 0.75◦reso-

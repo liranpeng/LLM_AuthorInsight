@@ -1,0 +1,8 @@
+setup is manifested by scatter points shifting beyond the up-
+per left corner of the convex hull into the overshooting area.
+If a scheme is shape-preserving, no scatter points will be
+shifted into the overshooting unmixing area. In other words,
+the scheme is guaranteed not to expand the range of the ini-
+tial condition mixing ratios. Note that non-zero background
+values have been chosen for χ so that a positivity-preserving
+limiter (positive deﬁnite) will not prevent undershooting.

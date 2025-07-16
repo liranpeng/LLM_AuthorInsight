@@ -1,0 +1,9 @@
+115
+and permanently on Dryad|UCI (https://doi.org/10.7280/D1B12H;
+Prather, 2022). This publication marks the public release of
+the reactivity calculations for ATom 2, 3, and 4, but we have
+not yet analyzed these data, and thus users should be aware
+and report any anomalous features to the lead authors via
+haog2@uci.edu and mprather@uci.edu. Details of the ATom mis-
+sion and data sets are found on the NASA mission website
+(https://espo.nasa.gov/atom/content/ATom) and in the ﬁnal archive

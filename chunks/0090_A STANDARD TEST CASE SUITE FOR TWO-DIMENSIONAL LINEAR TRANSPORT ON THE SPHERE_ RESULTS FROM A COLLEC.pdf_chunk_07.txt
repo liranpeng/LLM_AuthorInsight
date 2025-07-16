@@ -1,0 +1,10 @@
+of global atmospheric/ocean modeling. A library of bench-
+mark results is provided to facilitate scheme intercomparison
+and model development. Simple software and data sets are
+made available to facilitate the process of model evaluation
+and scheme intercomparison.
+1
+Introduction
+Historically, the regular latitude–longitude grid has been the
+preferred discretization grid in global atmosphere models
+primarily due to desirable properties such as grid orthogo-

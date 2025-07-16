@@ -1,0 +1,8 @@
+posphere: analysis based on observations from PEM-Tropics-A,
+Atmos. Environ., 34, 635–644, https://doi.org/10.1016/S1352-
+2310(99)00380-5, 2000.
+Sinha, V., Williams, J., Crowley, J. N., and Lelieveld, J.: The Com-
+parative Reactivity Method – a new tool to measure total OH
+Reactivity in ambient air, Atmos. Chem. Phys., 8, 2213–2227,
+https://doi.org/10.5194/acp-8-2213-2008, 2008.
+Sovde, O. A., Prather, M. J., Isaksen, I. S. A., Berntsen, T. K.,

@@ -1,0 +1,11 @@
+Table AII.5.6: OC aerosol atmospheric burden (Tg)
+Table AII.5.7: BC aerosol atmospheric burden (Tg)
+Table AII.5.8: CH4 atmospheric lifetime (yr) against loss by tropo­
+spheric OH
+Table AII.5.9: N2O atmospheric lifetime (yr)
+AII.6: Effective Radiative Forcing
+Table AII.6.1: ERF from CO2 (W m–2)
+Table AII.6.2: ERF from CH4 (W m–2)
+Table AII.6.3: ERF from N2O (W m–2)
+Table AII.6.4: ERF from all HFCs (W m–2)
+Table AII.6.5: ERF from all PFCs and SF6 (W m–2)

@@ -1,0 +1,8 @@
+2003) method selects both ICAs and spectral intervals ran-
+domly in each grid square. Every spectral interval is sampled
+only once, and each may have a different ICA selected ac-
+cording to its fractional area (frequency of occurrence). With
+100+ bin–ICA combinations, the ICAs are well sampled,
+but there may be instances in which a few key large-energy
+bins are not sampled accurately. The McICA approach, when
+suitably averaged over time, has no mean bias in average

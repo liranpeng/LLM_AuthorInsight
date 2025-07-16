@@ -1,0 +1,9 @@
+a clear layer when the FCA has been averaged over several
+hours or taken from a parameterized cloud-resolving model.
+It our tests, using meteorological data with NL = 36, the
+maximum number of G0 ICAs was 375. Model G3 has at
+most three MAX-RAN groups demarcated by atmospheric
+regimes: a ﬁxed altitude (1.5 km, stratus top) and tempera-
+ture (the liquid-to-ice cloud transition). The maximum pos-
+sible number of ICAs per FCA for G3 is 103, and in our tests
+we found 288.

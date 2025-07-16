@@ -1,0 +1,8 @@
+decay rate as atmospheric MCF over 15 y. If emissions decayed
+more slowly, then they would produce a very large negative
+signal at the end of the record (and this may explain the 2012–
+2015 record); if more quickly, then they would have little influ-
+ence on the decay rate after 2000. The proposal that the residual
+emissions from the phased-out industrial production of MCF
+would follow the chemically driven decay rate over 3 e-folds
+to an accuracy of ±4% may be correct, but it is certainly in

@@ -1,0 +1,1 @@
+Title: Application of the AI2 Climate Emulator to E3SMv2's Global Atmosphere Model, With a Focus on Precipitation Fidelity

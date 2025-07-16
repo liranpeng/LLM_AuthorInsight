@@ -1,0 +1,8 @@
+E3SM O3v1 (1995–2014), E3SM O3v2 (1995–2014), and UCI CTM (2005–2017) (top to bottom).
+on a more uniform set of background conditions than those
+occurring in the stratosphere, and this is to be expected. The
+20 % O3 differences between O3v2 and O3v1 in the low-
+ermost stratosphere have little impact on this metric, as ex-
+pected. If all models used Linoz chemistry, this metric would
+not be useful, but since many have their own independent
+chemistry modules, we expect this to be a useful check.

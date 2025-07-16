@@ -1,0 +1,19 @@
+0.8
+0.9
+1
+liquid cloud single scattering albedo
+Liquid-water cloud   Reff = 12 microns
+#18
+#19
+#20 #21
+#22
+#23
+#24
+#25
+#26
+#27
+SJ bin
+Journal of Advances in Modeling Earth Systems
+spectral correlation of gas and cloud absorption and make the case for including ice clouds in a three-pa-
+rameter correlated k-distribution as the path forward.
+We extend the LZL work with SJ/66b by evaluating the RRTM-band cloud errors in a climate-relevant

@@ -1,0 +1,6 @@
+model is run with two different conﬁgurations. In GFDL-emi the model is run with
+repeating hydrogen emissions over 50 years using 2010 conditions as described in
+Paulot et al.17. In the perturbation experiment the hydrogen anthropogenic
+emissions are increased by 200 Tg yr−1 and surface methane concentrations are
+increased from 1808 ppbv to 2005 ppbv. In GFDL, the model is run with prescribed
+hydrogen and methane as the other models, with horizontal winds nudged to 6hr-

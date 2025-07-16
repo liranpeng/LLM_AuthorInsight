@@ -1,0 +1,8 @@
+ulated mole fractions in the same way as the observations.
+As noted above, the MDA8 most often occurs during the af-
+ternoon, which coincides with periods of a deep convective
+boundary layer and avoids problems with the poorly modeled
+nighttime boundary layer (Lin et al., 2008b; Lin and McEl-
+roy, 2010). The present model conﬁguration was designed for
+studies of stratosphere–troposphere exchange, rather than for
+surface air quality analysis. As a result, emissions are speci-

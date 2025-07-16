@@ -1,0 +1,10 @@
+3937, 2009.
+Barth, T. and Jespersen, D.: The design and application of upwind
+schemes on unstructured meshes., Proc. AIAA 27th Aerospace
+Sciences Meeting, Reno, 1989.
+Bermejo, R. and Staniforth, A.: The Conversion of Semi-
+Lagrangian Advection Schemes to Quasi-Monotone Schemes,
+Mon. Weather Rev., 120, 2622–2632, 1992.
+Bosler, P.: Particle methods for geophysical ﬂows on the sphere,
+Ph.D. thesis, The University of Michigan, 2013.
+Calhoun, D. A., Helzel, C., and LeVeque, R. J.: Logically rectan-

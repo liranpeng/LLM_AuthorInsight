@@ -1,0 +1,6 @@
+has impressively small precipitation biases, with a global RMSE about 42% smaller than the baseline.
+The time-mean biases and RMSEs are shown for all output channels in Appendix E. 41 out of 44
+output variables have a lower time-mean RMSE for ACE compared to the baseline (Figure 7).
+Physical consistency
+Many aspects of physical consistency are important for interpretability in
+climate model simulations. Here we discuss one example, the conservation of water expressed in

@@ -1,0 +1,7 @@
+RUIZ ET AL.
+10.1029/2020JD033979
+8 of 16
+Figure 3.  Surface N2O change (ppb/yr) composites centered on the QBO phase transition at 40 hPa based on a rescaled 
+tropospheric abundance of 320 ppb. Composites show the mean QBO surface impact throughout the overlap period 
+(years 2001–2016*; six standard QBO cycles) for each respective data set. Simulations (top panel and bottom left) are 
+of N2OX (zero emissions), while the NOAA ESRL observations (bottom right) are of surface N2O (with emissions).

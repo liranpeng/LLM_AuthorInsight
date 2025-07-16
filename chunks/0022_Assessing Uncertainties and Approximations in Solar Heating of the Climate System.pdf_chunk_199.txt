@@ -1,0 +1,5 @@
+have been restricted to RRTMG-like codes and thus resorted to polynomial fits for a 2-stream code. It is 
+clear that we need a good database for typical ice clouds that includes the basic physics, like the phase 
+function needed for 4-stream and higher codes.
+10.	Cloud overlap, level 2. The representation of sub-grid unresolved cloud overlap is critical in solar heat-
+ing. The simplistic averaging of clouds over the grid cell produced huge errors (+20 W m−2 in reflected

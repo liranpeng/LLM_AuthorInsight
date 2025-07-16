@@ -1,0 +1,5 @@
+et al., 2019). The rate of change over a 12-month period is calculated to remove seasonal trends and produce 
+zonally averaged annual growth rates of N2O (ppb/yr) for each month.
+For this QBO analysis, we calculate the modeled interannual (year-to-year) rate of change for each month 
+(e.g., the %/yr change in January 1991 = N2OXJan1991/N2OXJan 1990−1), while the observed change is based 
+on the annual growth rate of N2O. As expected, the long-term mean interannual rate of change for modeled

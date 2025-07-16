@@ -1,0 +1,13 @@
+taken from TAR Appendix II. RCPn.n& values are inferred from ESMs used in CMIP5. The model mean and standard deviation is shown. ESM fossil emissions are taken from 14 models as described 
+in Jones et al. (2013) although not every model has performed every scenario. See Chapter 6, Sections 6.4.3, and 6.4.3.3, and Figure 6.25.
+Table AII.2.1b |  Anthropogenic CO2 emissions from agriculture, forestry, land use (AFOLU) (PgC yr–1)
+Year
+RCP2.6
+RCP4.5
+RCP6.0
+RCP8.5
+SRES-A2
+SRES-B1
+IS92a
+2000d
+1.21

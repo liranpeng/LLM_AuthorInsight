@@ -1,0 +1,8 @@
+metric for global chemistry models.
+In P2017, we established a method for running the chem-
+istry modules in the CTMs and CCMs with an imposed
+chemical composition from aircraft data: the ATom run, or
+“A run”. In the A run, the chemistry of each grid cell does not
+interact with its neighbors or with externally imposed emis-
+sion sources. Effectively the CTM/CCM is initialized and run
+for 24 h without transport, scavenging or emissions. Aerosol

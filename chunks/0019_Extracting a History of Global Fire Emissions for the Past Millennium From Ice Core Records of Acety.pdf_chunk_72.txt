@@ -1,0 +1,36 @@
+Scenario
+Ethane emissions
+Change in total
+burning (%)
+MP
+LIA
+Non‐boreal
+Boreal
+Non‐boreal
+Boreal
+noGEO‐noCl
+3.18 ± 0.22
+1.90 ± 0.14
+2.09 ± 0.16
+1.89 ± 0.14
+−22
+noGEO‐highCl
+5.78 ± 0.35
+2.48 ± 0.18
+3.95 ± 0.25
+2.46 ± 0.17
+−22
+lowGEO‐noCl
+2.01 ± 0.22
+1.20 ± 0.14
+0.91 ± 0.15
+1.19 ± 0.13
+−35
+lowGEO‐highCl
+4.57 ± 0.36
+1.77 ± 0.18
+2.75 ± 0.25
+1.75 ± 0.17
+−29
+Note. All emissions are in Tg ethane per year. The reported percent changes are calculated as (MP −LIA)/MP.
+10.1029/2020JD032932

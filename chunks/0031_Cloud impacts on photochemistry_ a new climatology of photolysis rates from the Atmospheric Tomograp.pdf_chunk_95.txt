@@ -1,0 +1,8 @@
+the Tropics and decline with altitude. There is clear evidence
+of mid-level (400–800 hPa) clouds, but only small COD (to-
+tal < 0.25) at cruise altitudes (100–300 hPa). The North Pa-
+ciﬁc block has 2–4 times larger low-altitude COD. The plot-
+ted CF is the COD-weighted average over 24 h and all grid
+cells in the block. Note that for COD the cloud is spread over
+each model layer, and hence the in-cloud optical depth is
+estimated by COD/CF. CF is high, 5–15 % below 850 hPa,

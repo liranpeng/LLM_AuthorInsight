@@ -1,0 +1,8 @@
+erage out. Errors in heating rates do not always have symmet-
+ric responses in terms of climate (e.g., Hsu et al., 2013). Al-
+though Pincus et al. (2003) tested climate forecasting with an
+early version of McICA, it is not clear how forecast skill with
+modern, high-resolution models is impacted by the biases in
+RRTMG-SW. Alternatively, RRTMG-SW could adopt cloud
+quadrature with 2.8 times greater cost and eliminate most of
+their rms errors in heating.

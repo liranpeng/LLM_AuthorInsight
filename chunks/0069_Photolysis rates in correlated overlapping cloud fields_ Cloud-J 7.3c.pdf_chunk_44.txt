@@ -1,0 +1,66 @@
+1
++14 %
++10 %
+24 %
+20 %
+14 %
+23 %
+AvCld
+average fractional cloud across
+layer
+1
+−5 %
++1 %
+11 %
+11 %
+8 %
+15 %
+CF3/2
+increase CF to CF3/2 and average
+over layer
+1
++7 %
++11 %
+10 %
+15 %
+5 %
+8 %
+ICA approximations
+J calls
+AvDir
+average direct beam from all ICAs
+1
++5 %
++11 %
+6 %
+13 %
+3 %
+7 %
+MdQCA
+quadrature
+column
+atmospheres
+uses mid-point in each QCA
+2.8
++1 %
+0 %
+4 %
+4 %
+4 %
+5 %
+AvQCA
+QCAs, uses average in each QCAb
+2.8
+−1 %
+0 %
+3 %
+2 %
+2 %
+4 %
+Ran-3
+Select 3 ICAs at random
+3
++2 %
++1 %
+12 %
+12 %

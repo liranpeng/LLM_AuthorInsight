@@ -1,0 +1,8 @@
+ship is not signiﬁcant for the MOPITT 700 hPa level.
+The time series of August MOPITT CO columns for both
+the North Atlantic and Alaska, regions that show high vari-
+ability, show a small but signiﬁcant temporal correlation
+with summertime Siberian biomass burning (r = 0.52 for the
+North Atlantic and r = 0.59 for Alaska). Slightly lower val-
+ues are seen for the 700 hPa MOPITT level. The time se-
+ries of August MOPITT 700 hPa CO shows an increase in

@@ -1,0 +1,10 @@
+12219
+NRFs for each trafﬁc sector and for each of the six models
+based on the results from Myhre et al. (2011) (year 2000) and
+H2011 (years 2025/2050 and scenarios B1/B1 ACARE), the
+estimated O3 RF for the A1B scenario were in most cases
+less than 5 % different from the results of the detailed RF
+calculations.
+The resulting global average transport-induced O3 RF is
+presented in Table 4 (see Table A2 for individual model re-
+sults). In the future, AIR will be the transport sector with the

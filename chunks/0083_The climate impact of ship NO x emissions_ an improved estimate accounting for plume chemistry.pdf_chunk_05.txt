@@ -1,0 +1,9 @@
+ship NOx emissions, such as the increase since preindus-
+trial times, is about 20 % larger than this RF value for small
+marginal emission changes. Using sensitivity tests in one
+CTM, we quantify sources of uncertainty in the RF com-
+ponents and causes of the ±30 % spread in past model re-
+sults; the main source of uncertainty is the composition of
+the background atmosphere in the CTM, which is driven by
+model formulation (±10 to 20 %) and the plausible range of
+anthropogenic emissions (±10 %).

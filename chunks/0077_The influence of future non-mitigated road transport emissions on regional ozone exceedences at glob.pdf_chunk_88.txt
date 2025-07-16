@@ -1,0 +1,7 @@
+dations for testing 3-D models and development of a gridded climatology for
+tropospheric ozone. Journal of Geophysical Research 104, 16115e16149. http://
+dx.doi.org/10.1029/1998jd100096.
+Nakicenovic, N., Davidson, O., Davis, G., Grübler, A., Kram, T., La Rovere, E.L., Metz, B.,
+Morita, T., Pepper, W., Pitcher, H., Sankovski, A., Shukla, P., Swart, R., Watson, R.,
+Dadi, Z., 2000. Special Report on Emissions Scenarios. Cambridge University
+Press, Cambridge, p. 599.

@@ -1,0 +1,8 @@
+cur predominantly in clustered, multiday episodes with spa-
+tial extents of more than 1000 km. Such scales are amenable
+to forecasting with current global atmospheric chemistry
+models. We develop an objective mapping algorithm that
+uses the heterogeneous observations of the individual sur-
+face sites to calculate surface ozone averaged over 1◦by
+1◦grid cells, matching the resolution of a global model.
+Air quality extreme (AQX) events are identiﬁed locally as

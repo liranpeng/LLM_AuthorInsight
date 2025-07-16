@@ -1,0 +1,9 @@
+wind (arrows are along-front component of the wind vector) and
+across front wind (arrows are across-front component of the wind
+vector). At the right column, the cross sections of the target (WRF,
+black line), ERA5 (red line) and the UNet (blue line) are compared
+with the mean of a 32 member ensemble predictions from CorrDiff
+(orange line) where the shading shows ± one standard deviation.
+Full size image
+Tropical cyclone case study
+Downscaling typhoons (i.e., tropical cyclones) is especially

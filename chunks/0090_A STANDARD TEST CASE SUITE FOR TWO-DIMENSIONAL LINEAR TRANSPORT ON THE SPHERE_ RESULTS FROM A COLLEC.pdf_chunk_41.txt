@@ -1,0 +1,9 @@
+spect to air mass ﬂux.
+It is worth noting that Eq. (6) with m = 1 constitutes a
+form of linearization of the ﬂux where non-linear coupling
+between tracer mixing ratio and air mass is neglected. For ex-
+ample, assume that tracer mixing ratio φ(x,y) is represented
+through a higher order polynomial of degree K and similarly
+for air density ρ(x,y), where x and y denote the longitu-
+dinal and latitudinal directions, respectively. Then the ﬂux
+through the cell wall involves ⟨φ(x,y) · ρ(x,y)⟩(Dukowicz

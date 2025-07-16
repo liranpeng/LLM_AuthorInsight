@@ -1,0 +1,8 @@
+denser than kerosene and produces more CO2 per kilogram.
+We adopt a conversion of 3.15 kg of CO2 for every kilogram
+of diesel and a density of 0.85 kg L−1. Based on this we es-
+timated that the R/V Meteor burned 21 420 kg d−1. The re-
+ported fuel use for the R/V Ron Brown was 79 922 gallons
+or 363 333 L, which included the ferry to and from a home
+port. This fuel burn corresponds to 972 823 kg of CO2. As-
+suming 35 d of operations, this corresponds to a burn rate

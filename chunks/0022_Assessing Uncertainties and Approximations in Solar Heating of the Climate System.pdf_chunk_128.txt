@@ -1,0 +1,4 @@
+search area (Baum et al., 2005; Heymsfield et al., 2017; Holz et al., 2016; Platnick et al., 2017). The accurate 
+treatment of ice clouds in climate models remains a fundamental uncertainty because—like the case with 
+aerosol size and chemical composition affecting RT—we can observe, but not accurately characterize the 
+full mix of size and crystal habits within ice clouds (Bailey & Hallett, 2009).

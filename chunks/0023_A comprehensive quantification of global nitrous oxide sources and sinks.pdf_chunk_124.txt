@@ -1,0 +1,7 @@
+NMIP/DLEM). The ‘Manure left on pasture’ and ‘Manure management’ 
+emissions are the ensemble mean of the values from the EDGAR v4.3.2, 
+FAOSTAT and GAINS databases. Global nitrogen flows (that is, fish feed 
+intake, fish harvest and waste) in freshwater and marine aquaculture 
+were obtained from ref. 30 and refs. 60,61 based on a nutrient budget 
+model for the period 1980–2016. We then calculated global aquacul-
+ture N2O emissions through considering 1.8% loss of nitrogen waste

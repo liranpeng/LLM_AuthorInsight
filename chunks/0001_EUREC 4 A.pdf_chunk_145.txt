@@ -1,0 +1,8 @@
+and surface imprint (Chelton et al., 2001), the sparsity of di-
+rect observations limits our ability to test understanding of
+such structures, in particular subsurface eddies. Understand-
+ing of the role of these types of structures is further limited by
+their short lifespans (hours to days) and small spatial scales
+(0.1 to 10 km), which make them difﬁcult to observe. These
+facts motivated ocean observations during EUREC4A, as did
+recent work suggesting that such coherent structures, in par-

@@ -1,0 +1,8 @@
+(a mean solar ﬂux is used).
+Vertically, losses are weighted linearly in pressure (mass),
+and across latitude, they are weighted by the area of each lati-
+tude belt. Annually integrated budgets include the number of
+days in each month, but leap years are treated as 365 d years,
+and thus our annual losses are biased low by 0.07 %. Life-
+times are budgetary timescales and calculated as a 12-month
+burden (TgN) divided by the 12-month loss (TgN yr−1). The

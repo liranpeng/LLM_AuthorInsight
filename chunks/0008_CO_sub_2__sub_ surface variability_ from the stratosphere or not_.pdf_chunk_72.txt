@@ -1,0 +1,8 @@
+616, https://doi.org/10.1111/gcb.13909, 2018.
+Prather, M.: Surface CO2 variability from the stratosphere, or not,
+Dryad [data set], https://doi.org/10.7280/D1N10J, 2022.
+Ray, E. A., Portmann, R. W., Yu, P. F., Daniel, J., Montzka, S.
+A., Dutton, G. S., Hall, B. D., Moore, F. L., and Rosenlof, K.
+H.: The inﬂuence of the stratospheric Quasi-Biennial Oscillation
+on trace gas levels at the Earth’s surface, Nat. Geosci., 13, 22,
+https://doi.org/10.1038/s41561-019-0507-3, 2020.

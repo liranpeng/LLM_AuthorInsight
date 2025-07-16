@@ -1,0 +1,10 @@
+in preparation, 2006.
+tween climate and radiatively active chemical species and/or
+aerosols to different degrees of complexity.
+A large va-
+riety of transport and convection schemes is used, which
+are described in detail elsewhere (see references in Ta-
+ble 1). All models integrate tropospheric ozone chemistry,
+but with varying comprehensiveness, especially with re-
+gard to non-methane hydrocarbon chemistry. In the strato-
+sphere, four models apply comprehensive chemistry schemes

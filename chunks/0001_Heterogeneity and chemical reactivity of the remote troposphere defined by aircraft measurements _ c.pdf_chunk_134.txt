@@ -1,0 +1,10 @@
+models below 4 km and believe it provides a clear challenge
+in modeling ozone.
+Building our chemical statistics (PDs) from the ATom 10 s
+air parcels on a scale of 2 km by 80 m, we can identify the
+fundamental scales of spatial heterogeneity in tropospheric
+https://doi.org/10.5194/acp-23-99-2023
+Atmos. Chem. Phys., 23, 99–117, 2023
+114
+H. Guo et al.: Heterogeneity and chemical reactivity
+Figure 7. 2D frequency of occurrence (PDs in log ppt mole frac-

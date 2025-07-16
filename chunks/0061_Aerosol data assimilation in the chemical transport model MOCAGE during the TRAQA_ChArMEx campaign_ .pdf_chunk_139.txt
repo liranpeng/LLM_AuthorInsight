@@ -1,0 +1,8 @@
+In our system, the lack of secondary aerosols is presumed
+to have an inﬂuence on assimilation performance. This could
+lead to an underestimation of the direct model AOD in the
+regions where the secondary aerosols have an important in-
+ﬂuence. During the TRAQA period, the primary aerosols had
+a dominant effect on the aerosol ﬁeld, mainly because of the
+two desert dust events that occurred during the campaign,
+and this was favourable for the evaluation of our system. In

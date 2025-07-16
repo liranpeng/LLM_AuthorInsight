@@ -1,0 +1,8 @@
+kilometers in the atmosphere (and ocean for coupled runs)
+the simulations explicitly represent scales of motion similar
+to those observed, all as part of a consistently represented
+global circulation. This enables investigations of processes
+inﬂuencing the mesoscale organization of ﬁelds of shallow
+convection, including the possible role of surface ocean fea-
+tures, as well as a critical evaluation of the simulations.
+An example of an uncoupled DYAMOND-Winter simula-

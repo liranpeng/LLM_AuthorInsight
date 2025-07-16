@@ -1,0 +1,9 @@
+model intercomparisons that calculate budgets in large tropo-
+spheric blocks like Voulgarakis et al. (2013) with 63 % of L-
+CH4 in 31 % of the air mass (500 hPa–surface, 30◦S–30◦N).
+The impact of the extremely hot parcels and the heterogene-
+ity seen in the ATom 10 s parcels is evident in the steep slopes
+above the 90th percentile, yielding enhancement factors of 3
+to 4.
+Each R value and each ocean has a unique shape; for ex-
+ample L-O3 in the Atlantic is almost two straight lines break-

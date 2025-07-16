@@ -1,0 +1,8 @@
+tude than many past estimates. The parametric model may
+underestimate the trend because it does not consider the lo-
+cation of anthropogenic emissions. We also use the paramet-
+ric model to project future methane abundance, which im-
+plicitly assumes that the emission and climate processes that
+controlled methane lifetime in the recent past will remain
+dominant throughout the 21st century. For the RCP 8.5 sce-
+nario, our projected methane abundances are larger than the

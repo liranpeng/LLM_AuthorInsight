@@ -1,0 +1,4 @@
+capability around a solar heating code (Solar-J) that doubles as a photolysis code for chemistry and can 
+be readily adapted to consider other errors and uncertainties. The broad classes here include: use of 
+broad wavelength bands to integrate over spectral features; scattering approximations that alter phase 
+function and optical depths for clouds and gases; uncertainty in ice-cloud optics; treatment of fractional

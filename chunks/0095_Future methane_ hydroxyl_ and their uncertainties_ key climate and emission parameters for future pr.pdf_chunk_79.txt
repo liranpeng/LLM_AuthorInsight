@@ -1,0 +1,8 @@
+differ by 50 % or more across the models. These differences
+are understandable, however, as consequences of modeling
+assumptions. For ship NOx, Oslo CTM3 and UCI CTM are
+nearly 3 times more sensitive than GEOS-Chem. In the UCI
+CTM and Oslo CTM3, ship NOx is emitted as NO, diluted
+into the grid volume, and the subsequent production of O3
+and HNO3 are calculated by the grid-resolved chemistry. In-
+stantaneous dilution overestimates the NOx lifetime and O3

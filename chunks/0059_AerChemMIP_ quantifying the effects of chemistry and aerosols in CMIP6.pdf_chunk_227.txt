@@ -1,0 +1,8 @@
+emissions of reactive gases and aerosols from the Community
+Emission Data System (CEDS), in preparation, 2017.
+Hollmann, R., Merchant, C. J., Saunders, R., Downy, C., Buchwitz,
+M., Cazenave, A., Chuvieco, E., Defourny, P., de Leeuw, G.,
+Forsberg, R., Holzer-Popp, T., Paul, F., Sandven, S., Sathyen-
+dranath, S., van Roozendael, M., and Wagner, W.: The ESA
+Climate Change Initiative: Satellite Data Records for Es-
+sential Climate Variables, B. Am. Meteor. Soc., 94, 1541–

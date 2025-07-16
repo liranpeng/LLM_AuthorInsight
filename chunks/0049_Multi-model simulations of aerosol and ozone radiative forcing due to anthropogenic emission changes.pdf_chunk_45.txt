@@ -1,0 +1,6 @@
+Figure 4. Radiative forcing (W m−2) of the direct aerosol effect by aerosol component (sulfate, a; BC, b; POA, c; nitrate, d) over the
+period 1990–2015.
+Figure 5. Geographical distribution of the 1990–2015 radiative forcing (W m−2) of the multi-model mean direct aerosol effect sulfate (left
+panel) and BC (right panel) as driven by emission changes.
+and because of the importance of the host model for radiative
+transfer calculations and background ﬁelds of factors such as

@@ -1,0 +1,10 @@
+prisingly comparable.
+3.2
+Curtain plots
+The spatial structures and variability of P-O3 as sampled by
+the four ATom transects over the Paciﬁc Ocean are presented
+as 2D latitude–height curtain plots in Fig. 6. The full sets
+of plots covering all four reactivities and also the Atlantic
+Ocean are shown sequentially in Figs. 6–13. For these cur-
+tain plots, the 10 s reactivities (2 km-by-80 m thick parcels)
+are averaged and plotted at 1◦latitude by 200 m thick cells.

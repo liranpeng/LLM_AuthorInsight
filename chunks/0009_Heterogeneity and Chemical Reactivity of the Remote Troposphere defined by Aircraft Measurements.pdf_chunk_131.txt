@@ -1,0 +1,3 @@
+split into the lower troposphere (0–4 km pressure altitude, red dots), where most of the reactivity lies, and the middle and upper troposphere
+(4–12 km, blue). A simple linear ﬁt to all data is shown (thin black line), and the slope is given in units of 1 per day.
+Figure 7. 2D frequency of occurrence (PDs in log ppt mole fraction) of HOOH vs. NOx for the tropical central Paciﬁc for all four ATom

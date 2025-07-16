@@ -1,0 +1,10 @@
+Stolarski, R., Bojkov, R., Bishop, L., Zerefos, C. S., Staehelin, J.,
+and Zawodny, J.: Measured trends in stratospheric ozone, Sci-
+ence, 256, 342–349, 1992.
+Sudo, K., Takahashi, M., Kurokawa, J., and Akimoto, H.:
+CHASER: A global chemical model of the troposphere
+1. Model description, J. Geophys. Res., 107(D17), 4339,
+doi:10.1029/2001JD001113, 2002a.
+Sudo, K., Takahashi, M., and Akimoto, H.:
+CHASER: A
+global chemical model of the troposphere 2. Model re-

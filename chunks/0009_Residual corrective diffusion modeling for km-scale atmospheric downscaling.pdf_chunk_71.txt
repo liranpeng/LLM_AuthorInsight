@@ -1,0 +1,9 @@
+\underbrace{({\bf{x}}-{\mathbb{E}}[{\bf{x}}| {\bf{y}}])}_{:=
+{\bf{r}}({\rm{generation}})},$$
+(1)
+where y and x are the input and target respectively. This signal
+decomposition is inspired by Reynolds decomposition in fluid-
+dynamics39 and climate data analytics. Assuming the regression
+learns the conditional mean accurately, i.e., \({\mathbf{\mu
+}}\approx {\mathbb{E}}[{\bf{x}}| {\bf{y}}]\), the residual is zero
+mean, namely \({\mathbb{E}}[{\bf{r}}| {\bf{y}}]\approx 0\), and

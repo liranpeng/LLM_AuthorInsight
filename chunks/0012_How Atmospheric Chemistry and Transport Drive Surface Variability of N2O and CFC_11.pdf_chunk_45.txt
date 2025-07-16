@@ -1,0 +1,5 @@
+burden, averaging both the loss and burden over 12 months (i.e., 12-month running mean). For comparison 
+with absolute amounts such as mass loss frequency (TgN/yr) or surface fluctuations in ppb, we scale the 
+model-derived chemical loss to a mean tropospheric abundance of 320 ppb (our reference standard estab-
+lished in Section 2.1).
+The relative atmospheric distribution of N2O will be different between N2OX (driven only by a stratospheric

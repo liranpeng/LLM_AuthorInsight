@@ -1,0 +1,9 @@
+fort at standardization (e.g., the regular IUPAC and JPL re-
+views of chemical kinetics; Atkinson et al., 2004; Burkholder
+et al., 2015). These components are brieﬂy noted in Table 1.
+4.1
+Cloud optical depths and overlap statistics
+The models reported their average in-cell cloud optical depth
+(per 100 hPa) and cloud fraction over the two Paciﬁc blocks
+in Fig. S6. Averaged cloud optical depths (deﬁned for the vis-
+ible region 500–600 nm) all tend to peak below 850 hPa in

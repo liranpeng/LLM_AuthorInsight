@@ -1,0 +1,9 @@
+atmosphere – with the important exception of interactions
+involving clouds. Three-dimensional ﬁelds of mass mixing
+ratios and column integrated optical thickness for aerosol
+species allow tracking of the extent to which perturbations
+are present. For gaseous pollutants ozone molar mixing ra-
+tios and methane lifetime are requested in order to diagnose
+forcing ofﬂine.
+Tracking the anthropogenic fraction of column loads
+would require additional tracers. For a ﬁrst-order analy-

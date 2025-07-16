@@ -1,0 +1,28 @@
+Table A1. Relative changes (%) in methane lifetime (integrated up to 50 hPa) due to a 5 % decrease in trafﬁc emissions. Values are global
+annual averages given relative to the BASE simulation, and are scaled to 100 % by multiplying with 20. Note that this table does not include
+the feedback effect of methane changes on its own lifetime.
+TM4
+p-TOMCAT
+OsloCTM2
+LMDz-INCA
+UCI CTM
+MOCAGE
+AIR 2000
+1.27
+1.61
+0.852
+1.07
+1.60
+1.41
+AIR 2025A1B
+2.03
+2.44
+1.20
+1.54
+2.10
+2.18
+AIR 2050A1B
+4.57
+4.58
+2.68
+3.43

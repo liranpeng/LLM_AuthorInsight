@@ -1,0 +1,8 @@
+2012; Ringler et al., 2011), is a generalization of one-
+dimensional Taylor series approximations to the ﬂux op-
+erators (Wicker and Skamarock, 2002; Hundsdorfer et al.,
+1995) for a Voronoi tessellation of the sphere. Speciﬁcally,
+these operators are generalizations of third- and fourth-order
+operators currently used in atmospheric models employ-
+ing regular, orthogonal rectangular meshes as, for exam-
+ple, the Weather Research and Forecasting (WRF) model,

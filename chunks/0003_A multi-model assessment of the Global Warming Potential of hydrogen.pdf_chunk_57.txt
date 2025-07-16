@@ -1,0 +1,8 @@
+state calculation will match the integrated transient. A major
+advantage of assembling the GWP from the component terms is
+that each term represents a fundamental response of atmospheric
+chemistry to the hydrogen and methane perturbations, and we
+can compare these across models. Further, from the model range
+in individual terms we can assess and identify uncertainties in
+each, allowing us to propagate an uncertainty in GWP that is
+more than just the range in model GWPs. A notable disadvantage

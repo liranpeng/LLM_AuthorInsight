@@ -1,0 +1,21 @@
+8.5
+9.0
+9.5
+10.0
+τCH  ×OH, y
+4
+Oslo CTM3
+UCI CTM
+GEOS-Chem/GEOS-5
+GEOS-Chem/MERRA
+CTM
+5-Parameter Model
+R2 = 0.90
+R2 = 0.92
+R2 = 0.90
+R2 = 0.88
+Fig. 1. Methane lifetime due to oxidation by tropospheric OH
+(τCH4×OH) simulated by each CTM (solid lines) and reconstructed
+from the 5-parameter model (dashed lines). The parameters are air
+temperature, water vapor, ozone column, lightning NOx emission,
+and biomass burning emission. Parameter values for each CTM are

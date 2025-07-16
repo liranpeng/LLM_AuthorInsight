@@ -1,0 +1,9 @@
+on the choice of the fourth-order hyperviscosity coefﬁcient
+for low-resolution simulations with HOMME. For speciﬁc
+choices used in HOMME, see Appendix A8.
+HOMME has been incorporated as a dynamical core op-
+tion in NCAR’s Community Atmosphere Model (CAM,
+Evans et al., 2013). The conﬁguration using the HOMME
+spectral element dynamical core in CAM is referred to as
+CAM-SE (Dennis et al., 2012). The test case suite was also
+run with CAM-SE (equivalent to HOMME-p3) but using the

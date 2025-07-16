@@ -1,0 +1,8 @@
+rently being performed within the SPARC/IGAC Chemistry-
+Climate Model Initiative (CCMI; Eyring et al., 2013a). In
+contrast to CMIP3, where half of the models prescribed a
+constant stratospheric ozone climatology, the CMIP5 mod-
+els all considered time-varying ozone either prescribed or
+calculated interactively (Eyring et al., 2013b). This has led
+to substantial improvements in the representation of climate
+forcing by stratospheric ozone in climate models since the

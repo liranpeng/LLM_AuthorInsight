@@ -1,0 +1,9 @@
+given in Table 2 and the corresponding variables are in Fig. 3.
+R2 values show correlation between each CTM and its own 5-
+parameter model. GEOS-Chem simulations use either MERRA or
+GEOS-5 meteorology. All lifetimes are smoothed with a 12-month
+running mean.
+La Ni˜na, smaller peaks in 2004 and 2008, and general de-
+cline after 2005. These features appear robust against the
+various choices of chemical mechanism, meteorology, and
+resolution used in these CTMs. In independent work, the

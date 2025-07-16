@@ -1,0 +1,9 @@
+siderations for high-order “incremental remap”-based transport
+schemes: edges, reconstructions and area integration, Int. J. Nu-
+mer. Meth. Fluids, 71, 1131–1151, 2013.
+van Leer, B.: Towards the ultimate conservative difference scheme.
+IV: A new approach to numerical convection, J. Comput. Phys.,
+23, 276–299, 1977.
+White, J. B. and Dongarra, J. J.: High-Performance High-
+Resolution Semi-Lagrangian Tracer Transport on a Sphere, J.
+Comput. Phys., 230, 6778–6799, 2011.

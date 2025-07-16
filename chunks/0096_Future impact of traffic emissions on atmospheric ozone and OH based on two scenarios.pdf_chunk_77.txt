@@ -1,0 +1,9 @@
+are given in Sect. 4.
+Table 4 also gives the radiative forcings due to changes
+in CH4 and subsequent changes in O3 (long-term effect).
+Normally, emissions of NOx from the transport sectors lead
+to increased OH concentrations and thereby reductions of
+CH4 lifetime and concentrations. The second CH4 RF term is
+known as the primary mode and represents the negative long-
+term effect of the methane perturbation on O3 (e.g. Wild and
+Prather, 2000; Wild et al., 2001). The method of calculating

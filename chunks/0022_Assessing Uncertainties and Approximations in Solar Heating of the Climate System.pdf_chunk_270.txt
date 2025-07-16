@@ -1,0 +1,8 @@
+stream minus 8-stream with averaged liquid-only clouds and δ-1 scaling for both, and (c) Solar-J 
+with δ-1 scaling of ice clouds minus the standard SJ where both calculations use ICAs sorted by 
+cloud quadrature (QCA) and MAX-COR cloud overlap scheme.  All calculations in this paper are 
+aerosol-free.  The small wave-24 noise seen in many of these panels results from calling the 
+radiation code every hour.    
+ 
+ 
+4

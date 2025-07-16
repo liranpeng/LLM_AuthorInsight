@@ -1,0 +1,9 @@
+the complexity of the processes governing aerosol physics
+Published by Copernicus Publications on behalf of the European Geosciences Union.
+5536
+B. Siˇc et al.: Aerosol data assimilation in the CTM MOCAGE
+and chemistry has led to a large diversity of parametrizations
+which with other uncertainties (e.g. dynamics, emissions,
+initial conditions) produce large differences in the aerosol
+model results (Mahowald et al., 2003; Kinne et al., 2006;
+Textor et al., 2006; Shindell et al., 2013).

@@ -1,0 +1,6 @@
+base values. The mean low-level cloudiness from the GOES estimates is shown in Fig. 6. 
+The winds and clouds in the southern parts of the observing areas were occasionally 
+perturbed by tropical storms and cyclones moving through or near this area. But these 
+perturbations had limited impact on the CSET observations.
+During CSET a total of 7 two-flight sequences (14 research flights; RF-02 to RF-15; see 
+Table 2) were flown between Sacramento and Kona. Each flight took about 8 hours with

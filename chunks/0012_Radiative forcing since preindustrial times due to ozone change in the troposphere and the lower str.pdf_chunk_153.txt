@@ -1,0 +1,33 @@
+DU T
+DU S
+SW T
+SW S
+LW T
+LW S
+Net T
+Net S
+ULAQ “2 minus 1c”
+8.2
+−20.8
+0.08
+0.13
+0.26
+−0.14
+0.34
+−0.01
+ULAQ “2 minus 1”
+9.7
+−14.2
+0.10
+0.14
+0.29
+−0.15
+0.39
+−0.01
+the positive net stratospheric radiative forcing seen in some
+models is primarily connected with the pronounced ozone
+increases in the lower tropical stratosphere of these models.
+3.2.2
+The effect of changes in chemistry and climate com-
+bined
+When taking into account both chemical and climate change

@@ -1,0 +1,8 @@
+J. Atmos. Chem., 37, 245–282, 2000.
+Wofsy, S. C., Apel, E., Blake, D. R., Brock, C. A., Brune, W.
+H., Bui, T. P., Daube, B. C., Dibb, J. E., Diskin, G. S., Elki-
+ins, J. W., Froyd, K., Hall, S. R., Hanisco, T. F., Huey, L. G.,
+Jimenez, J. L., McKain, K., Montzka, S. A., Ryerson, T. B.,
+Schwarz, J. P., Stephens, B. B., Weinzierl, B., and Wennberg,
+P.: ATom: Merged Atmospheric Chemistry, Trace Gases, and
+Aerosols. ORNL DAAC, Oak Ridge, Tennessee, USA, avail-

@@ -1,0 +1,14 @@
+each assimilation window, it is true that
+E
+2Jmin
+p
+
+∼1,
+(13)
+where E is the expectation (statistical average), Jmin is the
+value of the cost function at the minimum and p is the num-
+ber of observations. For this test, it is necessary to run the as-
+similation system for a prolonged period of time and, in the
+case of sufﬁcient number of observations, the matrix B will
+not depend on its initial value any more. Because this method
+is computationally expensive, a very rigorous optimization of

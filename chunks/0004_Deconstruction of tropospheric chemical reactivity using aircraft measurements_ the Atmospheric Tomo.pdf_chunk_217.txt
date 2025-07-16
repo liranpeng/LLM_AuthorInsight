@@ -1,0 +1,8 @@
+ﬁrst-order estimates and do not include the full set of feed-
+backs in a ﬂux-driven, free-running global chemistry model.
+Nevertheless, it does provide an independent estimate based
+primarily on observations.
+The ATom measurements can make a substantial contribu-
+tion to understanding model differences and even identifying
+model errors in global tropospheric chemistry. What is clear
+from this measurement–model analysis since P2017 is that

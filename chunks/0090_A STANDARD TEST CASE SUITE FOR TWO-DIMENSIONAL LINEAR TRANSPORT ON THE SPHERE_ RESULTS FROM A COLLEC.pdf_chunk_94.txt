@@ -1,0 +1,8 @@
+preserving low-order Eulerian solution using an algorithm
+that ensures mass conservation and shape preservation.
+For comparison the scheme has also been run in an aliased,
+and therefore unphysical, setup without the directional dif-
+fusion (abbreviated HEL-ND; No Diffusion); thus, the La-
+grangian parcels retain their initial values throughout the
+simulation. If using exact trajectories, HEL-ND has no er-
+rors at the end of the simulation since the parcels will have

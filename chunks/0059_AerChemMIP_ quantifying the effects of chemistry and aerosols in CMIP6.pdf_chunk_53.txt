@@ -1,0 +1,10 @@
+the interactions between NTCFs (aerosols in particular) and
+weather systems (Jacob and Winner, 2009; Leibensperger et
+al., 2012).
+2.3
+How do uncertainties in historical NTCF emissions
+affect radiative forcing estimates?
+The primary focus of this question is to understand the sen-
+sitivity of present-day ERF to uncertainties in estimates of
+historical NTCF emissions. Indeed, while all proposed sim-
+ulations rely on the usage of a central estimate, it is clear

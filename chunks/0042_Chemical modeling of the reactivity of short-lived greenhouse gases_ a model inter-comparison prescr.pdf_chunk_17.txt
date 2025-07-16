@@ -1,0 +1,8 @@
+Here and in P2017, we approximate the reactivity of an air
+parcel by running our global chemistry models with their
+regular meteorology and chemical modules, but with trans-
+port and mixing of tracers shut down to keep the grid cells
+isolated. Effectively, we are able to use the standard full 3-
+D model as a collection of box models (i.e., one per grid
+cell), while incorporating its diurnal cycle of photolysis and
+cloud ﬁelds. Such simulations, named the A-runs, are arti-

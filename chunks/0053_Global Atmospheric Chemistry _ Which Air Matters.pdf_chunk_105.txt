@@ -1,0 +1,8 @@
+Equ–20o N
+20o N–40 N
+40o N 60o N
+ATom-A   Std-C
+o
+Figure 3. Proﬁles of reactivity (ppb day−1) for loss of CH4 (L-CH4, top panel), loss of O3 (L-O3, middle panel), and production of O3
+(P-O3, bottom panel) from six global models (Table 1). Cells from each model grid are averaged over 20◦latitude domains (different colors,
+see legend), longitudes from 150 to 210◦E, and for the single day of 16 August. Years vary by model, see text. Solid lines are standard model

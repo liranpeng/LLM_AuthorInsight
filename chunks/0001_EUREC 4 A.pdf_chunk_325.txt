@@ -1,0 +1,10 @@
+tion ratio, Doppler velocity, and spectral width
+Microwave radiometer
+HATPRO microwave radiometer measuring brightness temperatures in K and V Bands
+Solar spectrometer
+Measuring downward spectral solar irradiance between 300 and 2200 nm for droplet effective radius
+and liquid water path retrievals
+Ceilometer
+Jenoptik system measuring vertical proﬁles of attenuated backscatter at 1064 nm to infer cloud base
+as a function of altitude and aerosol
+Cloud cameras

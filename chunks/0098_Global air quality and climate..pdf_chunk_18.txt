@@ -1,0 +1,8 @@
+tion, circulation changes) scale accordingly. This assumption
+is not well-suited to the short-lived, heterogenous distributions
+of air pollutants and their precursors (except for the well-
+mixed greenhouse gas CH4) which vary in their forcing
+eﬃcacy.11,12 A major advance in recent years is the incorpora-
+tion of interactive chemistry into general circulation models
+(GCMs), which allows for the direct examination of climate
+responses to air pollutants and their precursors, and some

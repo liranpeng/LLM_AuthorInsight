@@ -1,0 +1,7 @@
+estimates from process-based models (NMIP/DLEM15,16) and a statistical 
+model (SRNM)/DLEM15,17 exhibited a faster increase (Extended Data 
+Fig. 4a). Over the past four decades, we also found a small but signifi-
+cant increase in emissions from livestock manure (that is, manure left 
+on pasture and manure management) at a rate of 0.1 ± 0.01 Tg N yr−1 per 
+decade (P < 0.05; Extended Data Fig. 4b-c). Meanwhile, global aquacul-
+ture N2O emissions increased tenfold, however, this flux remains the

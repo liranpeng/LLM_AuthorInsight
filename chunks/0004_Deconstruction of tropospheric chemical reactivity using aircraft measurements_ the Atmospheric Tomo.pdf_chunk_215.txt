@@ -1,0 +1,8 @@
+24 h, while HOOH and CH3OOH increase. We cannot iden-
+tify a method of including these that does not also prejudice
+the results and that remains easy to implement in most global
+models. One improvement might be to use satellite-derived
+photolysis rates for the day of observation (e.g., Holmes,
+2016) rather than just having the models pick 5 d from their
+own meteorology ﬁelds to average over.
+The calculation of reactivities (R) with the RDS proto-

@@ -1,0 +1,8 @@
+random-effects model. Heterogeneity was investigated using 
+I2, with an I2 of equal to or under 75% used as the cut-off 
+for proceeding with meta-analysis [19]. Meta-analyses were 
+undertaken using RevMan v.5.4 (Cochrane Collaboration, 
+Vienna, Austria) and reported following PRISMA guidance.
+A pre-planned sensitivity analysis included only studies 
+at low risk of bias for the primary outcome. A further post-
+hoc sensitivity analysis was conducted to examine the risk

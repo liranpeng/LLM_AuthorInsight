@@ -1,0 +1,3 @@
+IAV (black solid line) is compared with the SMO IAV (thin dotted black line). Other IAVs shown are (1) model-calculated sCO2 (dashed red
+line) from the stratosphere-driven inﬂux of aged, low-CO2 air and (2) N2O observed IAV (dashed blue line) scaled to match ﬂux of low-CO2
+air. The timing of the QBO phase change in equatorial zonal wind at 40 hPa from negative (easterlies) to positive (westerlies) is denoted with

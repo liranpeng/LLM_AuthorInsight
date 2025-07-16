@@ -1,0 +1,8 @@
+that type of ice cloud. The obvious next upgrade to Solar-J is
+a redo of the ice-water clouds with a broader, better mix of
+cloud types (Mishchenko et al., 2016; Yang et al., 2015).
+The refractive index for mixtures of sulfuric acid and wa-
+ter is also well characterized (Beyer et al., 1996; Biermann
+et al., 2000; Krieger et al., 2000; Lund-Myhre et al., 2003),
+and we use the tables from Lund-Myhre et al. (2003). For
+the stratospheric sulfate layer, we chose background and vol-

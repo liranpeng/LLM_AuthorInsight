@@ -1,0 +1,12 @@
+which is funded jointly by the German Research Foundation
+(DFG) and the German Ministry for Education and Research
+(BMBF). The M161 cruise started in Bridgetown (Barbados)
+on 17 January 2020, and R/V Meteor spent the following
+month in the trade wind alley east of Barbados (between 12
+to 15◦N and 54 to 60◦W). During this time, the atmosphere
+https://doi.org/10.5194/essd-13-4067-2021
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+4098
+B. Stevens et al.: EUREC4A
+Table B3. ATR.
+Instrument

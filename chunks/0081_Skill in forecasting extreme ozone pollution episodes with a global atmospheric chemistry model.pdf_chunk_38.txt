@@ -1,0 +1,8 @@
+weights of these sites are often already signiﬁcantly reduced
+by the declustering scheme.
+We optimize the interpolation parameters using the leave-
+k-out cross-validation scheme (Cressie, 1993). This involves
+removing k = 10 % of observation sites and predicting their
+values using the remaining observations and IDW interpo-
+lation deﬁned above, recording the root mean square error
+(RMSE) of the predicted sites. This is done for 365 randomly

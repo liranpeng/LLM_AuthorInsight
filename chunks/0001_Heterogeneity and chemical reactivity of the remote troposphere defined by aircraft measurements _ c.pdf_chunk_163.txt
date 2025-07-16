@@ -1,0 +1,9 @@
+Apel, E. C., and Chin, M.: Widespread biomass burning smoke
+throughout the remote troposphere, Nat. Geosci., 13, 422–427,
+https://doi.org/10.1038/s41561-020-0586-1, 2020.
+Science team of the NASA Atmospheric Tomography Mission:
+ATom, NASA [data set], https://espo.nasa.gov/atom/content/
+ATom, last access: 13 September 2021.
+Stevenson, D. S., Dentener, F. J., Schultz, M. G., Ellingsen,
+K., Van Noije, T. P. C., Wild, O., Zeng, G., Amann, M.,
+Atherton, C. S., Bell, N., and Bergmann, D. J.: Multi-

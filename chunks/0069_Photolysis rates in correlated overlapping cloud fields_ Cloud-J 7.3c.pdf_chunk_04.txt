@@ -1,0 +1,8 @@
+is altered by scattering and absorption processes within the
+atmosphere. Clouds, aerosols, and gases control these pro-
+cesses, but ambiguity in the representation of clouds in at-
+mospheric models is currently the largest source of uncer-
+tainty in photolysis rates. This paper presents a new, prag-
+matic approach for representing the overlap of clouds derived
+from observations and cloud models, and then provides sev-
+eral practical approximations with marginal computational

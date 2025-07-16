@@ -1,0 +1,10 @@
+a Transport/Advection Algorithm, J. Comput. Phys., 160, 318–
+335, 2000.
+Dukowicz, J. K. and Kodis, J. W.: Accurate Conservative Remap-
+ping (Rezoning) for Arbitrary Lagrangian-Eulerian Computa-
+tions, J. Meteor. Soc. Japan, 8, 305–321, 1987.
+Durran, D.: Numerical Methods for Fluid Dynamics: With Appli-
+cations to Geophysics, Texts in applied mathematics, Springer,
+2010.
+Enomoto, T.: Bicubic interpolation with spectral derivatives, SOLA,
+4, 5–8, doi:10.2151/sola.2008-002, 2008.

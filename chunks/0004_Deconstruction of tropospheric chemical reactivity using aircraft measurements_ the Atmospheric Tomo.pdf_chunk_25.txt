@@ -1,0 +1,8 @@
+rithm to locate an unoccupied cell nearby: (ﬁrst) search E–W
+from −8 to +8 longitude-shifted cells; (second) search up–
+down in pressure by −2 to +2 levels; and (third) search N–S
+from −2 to +2 latitude-shifted cells. With our 1.1◦CTM,
+we are always able to ﬁnd an empty cell; however, the lati-
+tude, longitude, and pressure of the grid cell may differ from
+the ATom-measured value. Figure 3 shows the ATom value
+(MDS, x axis) vs. the CTM grid-cell value (RDS, y axis) for

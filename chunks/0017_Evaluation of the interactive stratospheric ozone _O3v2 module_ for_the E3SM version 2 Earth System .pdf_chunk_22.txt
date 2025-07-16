@@ -1,0 +1,9 @@
+Geosci. Model Dev., 14, 1219–1236, 2021
+https://doi.org/10.5194/gmd-14-1219-2021
+Q. Tang et al.: Interactive stratospheric ozone (O3v2) in E3SM
+1221
+observations (Ziemke et al., 2019). Therefore, O3v2 is able
+to interact with tropopause changes and maintain the natu-
+rally sharp ozone gradient across the tropopause. Linoz v2
+was developed for the UCI CTM and shows consistently reli-
+able stratospheric ozone simulations (Hsu and Prather, 2009).

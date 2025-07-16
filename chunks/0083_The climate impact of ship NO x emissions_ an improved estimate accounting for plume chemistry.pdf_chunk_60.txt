@@ -1,0 +1,8 @@
+Lawrence and Crutzen, 1999; Myhre et al., 2011) and global
+climate models with chemistry (Eyring et al., 2007; Hoor et
+al., 2009; Myhre et al., 2011; Olivie et al., 2012; Unger et
+al., 2010), as well as some derived from literature synthe-
+sis (Borken-Kleefeld et al., 2010; Lee et al., 2007). Where
+possible, we calculate FCH4 from the reported changes in
+CH4 lifetime using Eq. (3), in order to use consistent as-
+sumptions about CH4 lifetime, feedback, and radiative ef-

@@ -1,0 +1,7 @@
+Oceanograﬁco and NKE Instrumentation measuring vertical proﬁles of seawater temperature, salin-
+ity, and dissolved oxygen within the upper ocean (initially 0 to 1000 m, parking depth 200 dbar, daily;
+after 0 to 2000 m, parking depth 1000 dbar, every 10 d)
+the French Civil Aviation University (ENAC; Toulouse,
+France), and the Laboratory for Analysis and Architecture of
+Systems (LAAS; Toulouse, France) as part of the NEPHAE-
+LAE project (ANR-17-CE01-0003). During EUREC4A, the

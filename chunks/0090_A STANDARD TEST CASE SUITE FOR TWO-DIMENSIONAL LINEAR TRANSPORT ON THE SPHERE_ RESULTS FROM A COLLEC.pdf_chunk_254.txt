@@ -1,0 +1,10 @@
+diagnostics were depicted as histograms. Doing that with
+convergence rates showed no clear relationship between
+1λm and numerical convergence rates. In fact some of the
+lowest order schemes performed best with respect to 1λm.
+4.3
+Ability of the transport scheme to preserve
+ﬁlaments
+The ﬁlament diagnostic ℓf(τ) was introduced to quantify how
+well thin ﬁlaments are preserved. This diagnostic requires the
+ﬂow to be non-divergent since it relies on the fact that, for

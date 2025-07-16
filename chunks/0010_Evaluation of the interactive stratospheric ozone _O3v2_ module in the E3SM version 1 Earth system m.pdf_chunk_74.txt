@@ -1,0 +1,10 @@
+agnosed this way will differ from the tropopause-crossing
+Geosci. Model Dev., 14, 1219–1236, 2021
+https://doi.org/10.5194/gmd-14-1219-2021
+Q. Tang et al.: Interactive stratospheric ozone (O3v2) in E3SM
+1227
+Figure 6. Mean annual cycle of the stratosphere troposphere ex-
+change (STE) ozone ﬂuxes (unit: Tg O3 per year) in the NH (solid
+lines) and SH (dashed lines) for O3v2 (red) and UCI CTM (green).
+The lines indicate the climatology mean, and the shaded area covers
+the mean ±1 SD.

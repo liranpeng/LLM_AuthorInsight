@@ -1,0 +1,8 @@
+when the initial distributions are most deformed. As for
+the ﬁlament diagnostic ℓf, the mixing diagnostics ℓi do not
+require any knowledge of the analytical solution. In fact,
+Geosci. Model Dev., 7, 105–145, 2014
+www.geosci-model-dev.net/7/105/2014/
+P. H. Lauritzen et al.: Results from standard test case suite
+127
+Fig. 11. Scatterplots (for subset of cubed-sphere models) at t = T /2 for the cosine bell and correlated cosine bell initial conditions for χ and

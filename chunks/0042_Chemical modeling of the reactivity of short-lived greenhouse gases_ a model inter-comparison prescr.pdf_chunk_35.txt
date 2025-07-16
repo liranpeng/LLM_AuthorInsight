@@ -1,0 +1,9 @@
+(NO2+ hv = > NO + O), show groupings similar to this clus-
+ter, reﬂecting their common use of Fast-J versions (Wild et
+al., 2000; Prather, 2015), although this is unlikely to explain
+their similarity in P -O3.
+Based on the average of the 5-day parcel means, we ﬁnd
+a cluster of 3 similar models and three independent models.
+We need to ﬁnd a common reference case against which to
+plot and statistically evaluate the models. Rather than pick
+one model, we take the 3-model average, GSFC-GC-UCI,

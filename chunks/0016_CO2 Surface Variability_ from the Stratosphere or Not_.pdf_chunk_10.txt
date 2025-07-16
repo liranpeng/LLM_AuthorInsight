@@ -1,0 +1,3 @@
+gaps ﬁlled by ﬂask data at the same site. Only one point is interpolated (SMO, May 2015). CGO is ﬂask only. (b) The mean annual cycle
+in surface CO2 (ppm) at four sites (BRW not shown) using 1985 through 2021 calculated from the residuals after the polynomial ﬁt was
+removed. The eCO2 model results are shown as dotted lines for SMO and SPO with the same color coding; eCO2 has similar phasing at

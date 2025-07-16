@@ -1,0 +1,4 @@
+Warmer colors indicate positive change changes with respect to a tropospheric mean abundance of 320 ppb (i.e., driven 
+by lower loss frequencies, resulting in greater abundances of N2OX) while cooler colors coincide with increases in 
+loss rates (see Figure 2). *Note: the 2010/11 anomalous QBO centered on August 2010 has been removed from these 
+composites and is shown separately in Figure S4. ESRL, Earth System Research Laboratories; N2O, Nitrous oxide;

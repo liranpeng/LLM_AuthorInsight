@@ -1,0 +1,9 @@
+central month (ATom-1, August; ATom-2, February; ATom-
+3, October; ATom-4, May) to average over the cloud ﬁelds
+(see P2017 and P2018).
+The ATom RDS protocol for the CTM and CCMs is to
+locate the nearest model grid cell, place the ATom air par-
+cel in that cell (along with all the other parcels in their
+own cells), and then integrate for 24 h (usually starting at
+00:00 UTC). The problem is that many 10 s parcels may lie in
+https://doi.org/10.5194/essd-15-3299-2023

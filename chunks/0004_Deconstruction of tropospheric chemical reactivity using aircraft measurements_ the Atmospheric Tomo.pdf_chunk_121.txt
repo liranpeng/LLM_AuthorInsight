@@ -1,0 +1,9 @@
+eastern Paciﬁc in ATom-34). Thus, we developed a secondary
+measurement of NOx (ﬂag = 2) based on the measured value
+of NO.
+We look for a linear relationship between NOx and NO,
+i.e., [NOxﬁt] = A [NO], and use the Paciﬁc Ocean and At-
+lantic Ocean basins to avoid continental pollution. Adding
+a multiplier of [O3], the right-hand side did not improve
+the ﬁt. The ratio A does not depend noticeably on al-
+titude. A linear ﬁt of A minimizing the errors, NOxﬁt -

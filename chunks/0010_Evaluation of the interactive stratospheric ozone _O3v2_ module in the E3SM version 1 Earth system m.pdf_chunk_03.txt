@@ -1,0 +1,8 @@
+ent, with 20 %–40 % less ozone in this region. Additionally,
+O3v2 enables the diagnosis of stratosphere–troposphere ex-
+change ﬂux of ozone, a key budget term lacking in E3SMv1.
+Here, we evaluate key features in ozone abundance and other
+closely related quantities in atmosphere-only E3SMv1 simu-
+lations driven by observed sea surface temperatures (SSTs,
+years 1990–2014), comparing them with satellite observa-
+tions of ozone and also with the University of California,

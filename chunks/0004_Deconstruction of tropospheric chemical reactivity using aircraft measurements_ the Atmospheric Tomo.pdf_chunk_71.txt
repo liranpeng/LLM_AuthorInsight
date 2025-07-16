@@ -1,0 +1,8 @@
+continental pollution in winter. L-CO (Table 1) shows sim-
+ilar patterns to L-O3 (lowest in ATom-2 Paciﬁc, highest in
+ATom-1 Atlantic), while that of L-CH4 (Table 1) is more
+uniform across deployments. This feature can be seen in the
+curtain and mean proﬁle plots, where L-CH4 is restricted to
+the lower troposphere due to the high temperature sensitivity
+of the rate coefﬁcient for Reaction (R1).
+The Arctic region is highly seasonal, and photochemistry

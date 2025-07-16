@@ -1,0 +1,9 @@
+tion of SBC-CN5.2 (at 1λ = 1λm), all schemes see a re-
+duction in ℓu when using a shape-preserving limiter. Shape-
+preserving limiters usually degrade conventional error norms
+compared to the unlimited scheme. On the contrary, the “un-
+mixing” diagnostic, which accounts for spurious unmixing,
+improves.
+The effect of shape-preserving ﬁlters on “real” mixing
+varies among the schemes. Some schemes see a reduction
+in ℓr, and some see an increase in “real” mixing compared to

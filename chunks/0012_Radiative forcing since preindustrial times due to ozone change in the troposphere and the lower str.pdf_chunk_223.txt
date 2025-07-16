@@ -1,0 +1,8 @@
+H., Browell, E. V., and Oltmans, S. J.: CTM Ozone Simulations
+for Spring 2001 over the Western Paciﬁc: Comparisons with
+TRACE-P Lidar, ozonesondes and TOMS columns, J. Geophys.
+Res., 108(D21), 8826, doi:10.1029/2002JD003283, 2003.
+Williamson, D. L. and Rasch, P. J.: Water vapour transport in the
+NCAR CCM2, Tellus, 46A, 34–51, 1994.
+Wong, S., Wang, W. C., Isaksen, I. S. A., Berntsen, T. K., and Sun-
+det, J. K.: A global climate chemistry model study of present-

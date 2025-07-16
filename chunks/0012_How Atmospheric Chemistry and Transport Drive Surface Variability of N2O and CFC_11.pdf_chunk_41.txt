@@ -1,0 +1,7 @@
+RUIZ ET AL.
+10.1029/2020JD033979
+4 of 16
+Figure 1.  Rescaled loss of N2O (TgN/yr, monthly values averaged over 12 months) calculated from Aura MLS 
+measurements of N2O, O3, and temperature. The green line represents N2O loss calculated with the version 3 (V3) 
+N2O product using the 640 GHz channel (data used in Prather et al., 2015). The blue line represents N2O loss based 
+on version 4 (V4), also at 640 GHz. The red line represents N2O loss based on V4 at 190 GHz (primary data used here).

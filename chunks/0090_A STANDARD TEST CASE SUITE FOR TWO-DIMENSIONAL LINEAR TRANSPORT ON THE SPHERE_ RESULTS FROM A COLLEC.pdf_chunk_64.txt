@@ -1,0 +1,10 @@
+Geosci. Model Dev., 7, 105–145, 2014
+www.geosci-model-dev.net/7/105/2014/
+P. H. Lauritzen et al.: Results from standard test case suite
+111
+slope limiter for shape preservation – more precisely, a multi-
+dimensional extension of the Van Leer-type slope limiter dis-
+cussed in Dukowicz and Kodis (1987). LMD also presented
+another scheme, SLFV-ML, which is similar to SLFV-SL,
+but instead of forward Euler the Runge–Kutta third-order to-
+tal variational diminishing (TVD) time-integration method

@@ -1,0 +1,5 @@
+Third, for the SH, the amplitude is reduced and there is a range of phases between the models. It is inter-
+esting to note that the amplitude of the QBO in the mid-latitudes (box-whiskers on the annual cycles in 
+Figure 5) can be as large or larger than the annual cycle and confounds a simple separation of the STE flux 
+into annual and interannual cycles from observations.
+With the model experiments conducted here, it is difficult to assess how STE flux competes with SH sources

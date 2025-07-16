@@ -1,0 +1,10 @@
+Models, J. Climate, 6, 728–742, https://doi.org/10.1175/1520-
+0442(1993)006<0728:AAPOTR>2.0.CO;2, 1993.
+Huang, S.-S.: On the Eddington Approximation, Astrophys. J., 152,
+841, https://doi.org/10.1086/149600, 1968.
+www.geosci-model-dev.net/10/2525/2017/
+Geosci. Model Dev., 10, 2525–2545, 2017
+2544
+J. Hsu et al.: A radiative transfer module
+Joseph, J. H., Wiscombe, W. J., and Weinman, J. A.: The
+Delta-Eddington Approximation for Radiative Flux Transfer,

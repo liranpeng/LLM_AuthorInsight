@@ -1,0 +1,8 @@
+Collins, W. J., Stevenson, D. S., Johnson, C. E., and Derwent, R.
+G.: Tropospheric ozone in a global-scale three-dimensional La-
+grangian model and its response to NOx emission controls, J.
+Atmos. Chem., 26, 223–274, 1997.
+Collins, W. J., Derwent, R. G, Johnson, C. E., and Stevenson, D.
+S.: A comparison of two schemes for the convective transport of
+chemical species in a Lagrangian global chemistry model, Q. J.
+R. Meteorol. Soc., 128, 991–1009, 2002.

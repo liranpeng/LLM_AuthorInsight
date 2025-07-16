@@ -1,0 +1,16 @@
+near-term and long-term temperature change see Chapters 11 and 12, 
+respectively. Results for global mean sea level rise (Table AII.7.7) are 
+assessed values with uncertainties described in Chapter 13.
+Chemical Abbreviations and Symbols
+Well Mixed Greenhouse Gases (WMGHG)
+CO2	
+carbon dioxide (KP, Kyoto Protocol gas)
+CH4	
+methane (KP)
+N2O	
+nitrous oxide (KP)
+HFC	
+hydrofluorocarbon1 (a class of compounds: HFC-32, HFC-
+134a, …) (KP)
+PFC	
+perfluorocarbon (a class of compounds: CF4, C2F6, …) (KP)

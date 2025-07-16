@@ -1,0 +1,8 @@
+derived OSA. Here we take the FORTRAN module directly from Séférian with only minor modifications. 
+Because Solar-J resolves the downward diffuse radiation with four angles, we calculate the albedo specifi-
+HSU AND PRATHER
+10.1029/2020MS002131
+18 of 24
+Journal of Advances in Modeling Earth Systems
+cally for those four angles plus the direct solar beam, and do not use the OSA averaged albedo for "diffuse 
+radiation," which is necessary when using 2-stream RT codes.

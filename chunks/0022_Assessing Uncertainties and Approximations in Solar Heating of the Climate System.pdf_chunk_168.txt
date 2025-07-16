@@ -1,0 +1,6 @@
+does MAX-RAN (Figure 4c), and with that there is some shift in the RRTMG-SJ difference pattern in the 
+lower tropical troposphere.
+6.2.  Three-Dimensional Cloud Fields
+How will the next generation of solar heating codes deal with cloud structures, both vertically and horizon-
+tally? The vertical coherence of clouds has become standard in RT codes; and the horizontal coherence, in-
+cluding the variations in cloud water path within a cell is now being modeled explicitly with Tripleclouds (J.

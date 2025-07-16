@@ -1,0 +1,68 @@
+Atmos. Chem. Phys., 17, 14219–14237, 2017
+14224
+R. M. Doherty et al.: Multi-model impacts of climate change on pollution transport
+pressure [hPa]
+ pressure [hPa]
+pressure [hPa]
+ pressure [hPa]
+ pressure [hPa]
+pressure [hPa]
+pressure [hPa]
+pressure [hPa]
+0
+0.2
+0
+0.2
+0
+0.2
+0
+0.2
+0
+0.2
+0
+0.2
+0
+0.2
+0
+0.2
+(c) CMAM
+(d) GISS-E2-R
+(b) STOC-HadAM3
+(a) UM-CAM
+100
+300
+500
+700
+900
+100
+300
+500
+700
+900
+100
+300
+500
+700
+900
+100
+300
+500
+700
+900
+100
+300
+500
+700
+900
+100
+300
+500
+700
+900
+100
+300
+500
+700
+900
+100
+300

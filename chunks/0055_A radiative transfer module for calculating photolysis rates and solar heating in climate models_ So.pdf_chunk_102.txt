@@ -1,0 +1,15 @@
+photolysis and heating rates throughout twilight, even when
+the sun is no longer directly visible at the layer. Figure 3a
+shows the smooth decline in O3 photolysis rates as the SZA
+passes from 84 to 95◦. Figure 3b shows the corresponding
+www.geosci-model-dev.net/10/2525/2017/
+Geosci. Model Dev., 10, 2525–2545, 2017
+2536
+J. Hsu et al.: A radiative transfer module
+84          86         88          90           92          94
+SZA (o)
+J: O3 => O1D+O2 (/s)
+10-6
+10-5
+10-4
+10-3

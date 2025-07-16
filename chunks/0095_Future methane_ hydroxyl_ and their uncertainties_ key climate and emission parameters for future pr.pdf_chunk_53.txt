@@ -1,0 +1,8 @@
+0.5 pmol mol−1) in the monthly means. (See Fig. S2) While
+small in absolute terms, these differences exceed the stan-
+dard error in monthly means and persist for several consecu-
+tive months; thus they are likely not caused by synoptic vari-
+ability and differences in sampling frequency. Because the
+biases change over time, they lead to differences of up to
+4 % in MCF decay rates at a single site. As can be seen in
+Fig. 2, both networks ﬁnd similar magnitude of OH variabil-

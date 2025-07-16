@@ -1,0 +1,8 @@
+0477(1998)079<0831:OPOAAC>2.0.CO;2, 1998.
+Holben, B., Eck, T., Slutsker, I., Tanré, D., Buis, J., Setzer, A.,
+Vermote, E., Reagan, J., Kaufman, Y., Nakajima, T., Lavenu,
+F., Jankowiak, I., and Smirnov, A.: AERONET – A feder-
+ated instrument network and data archive for aerosol character-
+ization, Remote Sens. Environ., 66, 1–16, doi:10.1016/S0034-
+4257(98)00031-5, 1998.
+Holben, B., Eck, T., Slutsker, I., Tanré, D., Buis, J., Setzer, A.,

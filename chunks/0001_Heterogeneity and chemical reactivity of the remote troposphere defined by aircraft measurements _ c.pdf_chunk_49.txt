@@ -1,0 +1,8 @@
+complete set of key species in each air parcel to initialize the
+models that calculate the CH4 and O3 reactivities. We choose
+the key reactive species (H2O, O3, CO, CH4, NOx, NOxPSS,
+HNO3, HNO4, PAN, CH2O, H2O2, CH3OOH, acetone, ac-
+etaldehyde, C2H6, C3H8,i-C4H10, n-C4H10, alkanes, C2H4,
+alkenes, C2H2, C5H8, benzene, toluene, xylene, CH3ONO2,
+C2H5ONO2, RONO2, and CH3OH) directly from the ATom
+measurements and then add corollary species or other obser-

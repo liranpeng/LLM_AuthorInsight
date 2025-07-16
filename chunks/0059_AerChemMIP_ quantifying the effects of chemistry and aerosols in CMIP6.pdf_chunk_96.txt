@@ -1,0 +1,8 @@
+medium and low-income countries. Strong pollution con-
+trol exceeds CLE and progresses ultimately towards MTFR.
+Weak pollution controls assume delays to the implementa-
+tion of CLE and make less progress towards MTFR than the
+medium scenario. For more details, see Rao et al. (2017).
+To detect the largest signal we choose the reference sce-
+nario to be SSP3-7.0 “Regional Rivalry” without climate pol-
+icy (7.0 W m−2 at 2100, experiment ssp370), see Fujimori et

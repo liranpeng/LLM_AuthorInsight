@@ -1,0 +1,8 @@
+-1
+[× 10−3 kg m-2 s ]
+-1
+[× 10−3 kg m-2 s ]
+-1
+Figure 6. Top panels: DJF 10-year climatological mean zonally averaged convective mass ﬂuxes for present day (1995–2006) for (a) UM-
+CAM, (b) STOC-HadAM3, (c) CMAM, and (d) GISS-E2-R. The thick black solid line represents the present-day (DJF) zonally averaged
+thermal tropopause. Bottom panels: differences between 2090–2099 (RCP 8.5) and 1995–2006 (present day) DJF climatological mean zonal-

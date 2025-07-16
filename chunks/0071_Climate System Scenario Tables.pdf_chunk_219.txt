@@ -1,0 +1,46 @@
+127 ± 11
+2100
+128 ± 11
+127 ± 11
+127 ± 11
+126 ± 11
+Table AII.5.9 |  N2O atmospheric lifetime (yr)
+Notes:
+RCPn.n& lifetimes based on projections from Fleming et al. (2011) and Prather et al. (2012). All uncertainties are 68% confidence intervals.
+AII.6: Effective Radiative Forcing
+Table AII.6.1 |  ERF from CO2 (W m–2)
+Year
+RCP2.6
+RCP4.5
+RCP6.0
+RCP8.5
+A2
+B1
+IS92a
+2000
+1.51
+1.51
+1.51
+1.51
+1.50
+1.50
+1.50
+2010
+1.80
+1.80
+1.80
+1.80
+1.78
+1.77
+1.78
+2020
+2.11
+2.09
+2.07
+2.15
+2.16
+2.09
+2.13
+2030
+2.34
+2.40

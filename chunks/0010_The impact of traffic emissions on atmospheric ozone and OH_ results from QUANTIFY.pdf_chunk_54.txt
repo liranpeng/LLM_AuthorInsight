@@ -1,0 +1,9 @@
+tending from the surface up to about 3 hPa and is driven by
+ECMWF operational data (Hauglustaine et al., 2004).
+The NMHC setup of the LMDz-INCA model was used.
+It considers detailed tropospheric chemistry with a com-
+prehensive representation of the photochemistry of non-
+methane hydrocarbons (NMHC) and volatile organic com-
+pounds (VOC) from biogenic, anthropogenic, and biomass
+burning sources.
+Most anthropogenic emissions were taken from the

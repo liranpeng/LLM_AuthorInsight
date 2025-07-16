@@ -1,0 +1,8 @@
+spect to the individual emission classes and recalculated sep-
+arately for QUANTIFY. Emissions from road transportation
+were developed bottom-up: Vehicle mileage and ﬂeet aver-
+age emission factors were estimated for the year 2000. The
+inventory differentiates between ﬁve vehicle categories and
+four fuel types and covers 12 world regions and 172 coun-
+tries. It is adjusted for the year 2000 to the national road fuel
+consumption (Borken et al., 2007, and references therein) or

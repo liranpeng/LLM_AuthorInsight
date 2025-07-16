@@ -1,0 +1,8 @@
+Garcia, R. R., Hardiman, S. C., Horowitz, L. W., Jöckel, P.,
+Josse, B., Kinnison, D., Lin, M., Mancini, E., Manyin, M. E.,
+Marchand, M., Marécal, V., Michou, M., Oman, L. D., Pitari,
+G., Plummer, D. A., Revell, L. E., Saint-Martin, D., Schoﬁeld,
+R., Stenke, A., Stone, K., Sudo, K., Tanaka, T. Y., Tilmes,
+S., Yamashita, Y., Yoshida, K., and Zeng, G.: Review of the
+global models used within the Chemistry-Climate Model Ini-
+tiative (CCMI), Geosci. Model Dev. Discuss., doi:10.5194/gmd-

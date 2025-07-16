@@ -1,0 +1,8 @@
+estimate the associated uncertainty in the results. The four
+regions are Europe (EU), North America (NA), South Asia
+(SA) and East Asia (EA), and are illustrated in Figure 1.
+This work was carried out as part of a larger study of the
+intercontinental transport of both gaseous and aerosol spe-
+cies organised by the Task Force on Hemispheric Transport
+of Air Pollution (TF HTAP) [2007]. Since previous studies
+[e.g., Schulz et al., 2006; Stevenson et al., 2006; Dentener et

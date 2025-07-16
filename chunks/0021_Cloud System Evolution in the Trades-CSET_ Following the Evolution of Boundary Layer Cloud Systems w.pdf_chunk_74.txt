@@ -1,0 +1,6 @@
+trajectory analyses were used to identify air masses sampled two days earlier on the flight 
+outbound from California. The flights between Sacramento California and Kona Hawaii 
+were over a distance of about 4000 km.
+Flight plans for the outbound flights originating from Sacramento were based on 500 m 
+trajectory forecasts that were made using HYSPLIT (Hybrid Single Particle Lagrangian 
+Integrated Trajectory Model) with NCEP GFS forecasts and GDAS analyses. The trajectory

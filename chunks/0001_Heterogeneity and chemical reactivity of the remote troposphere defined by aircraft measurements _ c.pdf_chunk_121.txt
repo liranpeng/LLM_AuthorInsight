@@ -1,0 +1,10 @@
+itude by 200 hPa pressure bin and then also by cosine (lat-
+itude) to compare with the models. In addition, a PD was
+calculated from the 1◦by 200 m average grid-cell values in
+Fig. 2 (black Xs), and this is also cosine (latitude)-weighted.
+To check if the high reactivities in the eastern Paciﬁc affected
+the whole Paciﬁc PD, a separate PD using only central Paciﬁc
+Atmos. Chem. Phys., 23, 99–117, 2023
+https://doi.org/10.5194/acp-23-99-2023
+H. Guo et al.: Heterogeneity and chemical reactivity
+111

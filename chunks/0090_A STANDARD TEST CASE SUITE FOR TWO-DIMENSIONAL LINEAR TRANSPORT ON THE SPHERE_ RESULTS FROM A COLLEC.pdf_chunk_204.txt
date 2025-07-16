@@ -1,0 +1,17 @@
+are shown in the lower left corner of each scheme’s scatter-
+plot. The mixing data are also shown in histogram format in
+Fig. 15, where ℓi has been normalized with CSLAM values
+to provide a reference. Before discussing the quantiﬁcation
+of the mixing, it is insightful to analyze the scatter data qual-
+itatively.
+Geosci. Model Dev., 7, 105–145, 2014
+www.geosci-model-dev.net/7/105/2014/
+P. H. Lauritzen et al.: Results from standard test case suite
+131
+ 0
+ 5
+ 10
+ 15
+ 20
+FARSIGHT-CN1.0
+CLAW-CN0.95

@@ -1,0 +1,10 @@
+ture some of the main seasonal shifts (e.g. decrease in sum-
+mer peak ozone with increase in winter ozone over the east-
+ern USA and Europe).
+3.2
+Direct aerosol effect
+The total global annual mean radiative forcing of the change
+since 1990 in direct aerosol effect is shown in Fig. 3 for seven
+models, together with the estimate given in IPCC AR5. The
+model mean is very close to the IPCC AR5 value, but the
+model spread is large. The model mean direct aerosol effect

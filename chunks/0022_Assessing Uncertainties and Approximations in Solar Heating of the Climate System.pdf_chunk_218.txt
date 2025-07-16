@@ -1,0 +1,5 @@
+Franklin, C. N., Sun, Z., Bi, D., Dix, M., Yan, H., & Bodas-Salcedo, A. (2013). Evaluation of clouds in ACCESS using the satellite sim-
+ulator package COSP: Global, seasonal, and regional cloud properties. Journal of Geophysical Research: Atmospheres, 118, 732–748. 
+https://doi.org/10.1029/2012JD018469
+Fu, Q. (1996). An accurate parameterization of the solar radiative properties of cirrus clouds for climate models. Journal of Climate, 9, 
+2058–2082.

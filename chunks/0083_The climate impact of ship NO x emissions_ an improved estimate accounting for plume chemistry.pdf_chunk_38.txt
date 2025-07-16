@@ -1,0 +1,61 @@
+sumption.
+in plume
+ 
+total
+ 
+ 
+in plume
+total
+Ozone Production Efficiency (OPE)
+Methane Oxidation Efficiency (MOE)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+8
+16
+24
+32
+40
+ 
+ 8.5
+ 
+0
+1
+2
+3
+4
+5
+ 
+ 0.4
+ 
+0
+4
+8
+12
+16
+20
+ 
+ 3.1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+4
+8
+12
+16
+20
+ 
+ 1.8
+Figure 2. Time-averaged ozone production efﬁciency (top row) and
+methane oxidation efﬁciency (bottom row) for marginal increases in
+ship NOx emissions within the sub-grid plume (left panels) and total

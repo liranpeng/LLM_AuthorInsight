@@ -1,0 +1,10 @@
+is
+ki,t = −ln(ci,(t+6)/ci,(t−6)),
+(1)
+where ci,t is the concentration at site i in month t. The global
+MCF decay rate is the average of ki,t across sites within a net-
+work. We calculate uncertainty in the global decay rate as
+the 16th–84th percentile range (i.e. ±1σ) of ki,t across sites
+within a network. No ﬁlling is used for months with missing
+data. (See Supplement for additional method details.) Aver-
+aged over 1998–2007, the global MCF decay rates from the

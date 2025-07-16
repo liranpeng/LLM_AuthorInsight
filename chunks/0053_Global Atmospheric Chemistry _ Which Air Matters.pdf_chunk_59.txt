@@ -1,0 +1,8 @@
+ally include self-evaluated ozone and aerosol proﬁles also
+needed for the photolysis rates. Third, these models automat-
+ically simulate the diurnal cycle in radiation at all seasons,
+latitudes, and longitudes. And fourth, most importantly, these
+models have built-in chemistry modules that already calcu-
+late reactivities, and they are the ones we rely on for climate
+and air quality assessments. The goal here is to test their sim-
+ulated chemical heterogeneity. While a box model could be

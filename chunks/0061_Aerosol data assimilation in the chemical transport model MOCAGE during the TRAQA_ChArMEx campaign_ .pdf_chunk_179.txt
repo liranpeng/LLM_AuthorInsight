@@ -1,0 +1,8 @@
+regional CTM: background error covariance constraint and
+aerosol optical observation operators, Tellus B, 60, 5, 753–770,
+doi:10.1111/j.1600-0889.2008.00377.x, 2011.
+Kaiser, J. W., Heil, A., Andreae, M. O., Benedetti, A., Chubarova,
+N., Jones, L., Morcrette, J.-J., Razinger, M., Schultz, M. G.,
+Suttie, M., and van der Werf, G. R.: Biomass burning emis-
+sions estimated with a global ﬁre assimilation system based
+on observed ﬁre radiative power, Biogeosciences, 9, 527–554,

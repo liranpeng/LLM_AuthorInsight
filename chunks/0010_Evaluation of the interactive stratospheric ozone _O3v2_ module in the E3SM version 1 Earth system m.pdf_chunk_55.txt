@@ -1,0 +1,4 @@
+SD of the zonal mean stratospheric ozone abundances relative to the MLS observations. (d) Daily Antarctic ozone hole diagnostics (Fig. 5)
+relative to the NASA ozone watch data. Numbers 1 and 3 are for the daily mean time series, while numbers 2 and 4 represent the daily SD
+time series. On all Taylor diagrams, the model SDs are normalized by dividing the SDs of the reference (labeled with units).
+Our ozone proﬁle metric includes all 12 months plus the an-

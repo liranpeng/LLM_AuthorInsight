@@ -1,0 +1,8 @@
+2868, doi:10.1016/j.atmosenv.2011.02.071, 2011.
+Eide, M. S., Endresen, O., Mjelde, A., Mangset, L. E., and Gravir,
+G.: Ship emissions of the future. Technical Report No 2007-
+1325, Det Norske Veritas, Høvik, Norway, 1–98, 2007.
+Endresen, O., Sorgard, E., Behrens, H. L., Brett, P. O., and Isak-
+sen, I. S. A.: A historical reconstruction of ships’ fuel con-
+sumption and emissions, J. Geophys. Res.-Atmos., 112, D12301,
+doi:10.1029/2006jd007630, 2007.

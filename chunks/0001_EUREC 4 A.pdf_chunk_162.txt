@@ -1,0 +1,8 @@
+also feed back on the ocean by causing a damping of the
+(sub)mesoscale activity (Renault et al., 2018). As an exam-
+ple, Sullivan et al. (2020) use large-eddy simulation to show
+how small-scale ocean fronts perturb the boundary layer
+through its depth, giving rise to circulations on scales much
+larger than that of the boundary layer, or of the front itself
+(their Fig. 12). These lead to large perturbations in verti-
+cal mixing and, one can speculate, on patterns of cloudi-

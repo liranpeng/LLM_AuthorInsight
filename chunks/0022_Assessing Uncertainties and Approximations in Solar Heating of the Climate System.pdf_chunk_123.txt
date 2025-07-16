@@ -1,0 +1,5 @@
+2-stream, δ1-scaling code (SJ/δ1/2S, T1/R16), the differences with RRTMG are greatly reduced. When we 
+add ice clouds, the difference is much larger, from −0.05 to −0.1 K per day throughout most of the tropo-
+sphere (Figures 5b and 5c). With ice clouds, there is some reversal of differences in the lower mid-tropo-
+sphere presumably due to cloud overlap. In terms of global mean, atmospheric heating error jumps from 
+about −1 W m−2 to −2 or −3 W m2 (T1/R14&15 v. T1/R20&21).

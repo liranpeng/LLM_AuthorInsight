@@ -1,0 +1,8 @@
+Full size image
+Our target (WRF) dataset spans 2018 through 2021 at hourly time
+resolution. We use 2018 through 2020 for training. For testing we
+used 205 random samples from 2021, and the rest used for
+validation. We additionally use several days of typhoon data from
+2023 and some snapshots of a coherent frontal weather system from
+2022 for testing case studies. The input (coarse resolution) data are
+taken from the ERA5 reanalysis for the corresponding times. The

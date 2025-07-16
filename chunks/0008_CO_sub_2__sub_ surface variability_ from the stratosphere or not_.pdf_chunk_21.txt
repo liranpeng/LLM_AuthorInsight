@@ -1,0 +1,8 @@
+from the much larger interhemispheric ﬂux. A third indepen-
+dent method for deriving CO2 IAV uses the observed SH sur-
+face N2O signal, driven by stratospheric photochemical loss
+of 13 Tg N (as N2O) yr−1, as a measure of STE inﬂuence. In
+this case I scale the results to CO2 using the ratio of the STE
+ﬂuxes, i.e., 0.15 ppm CO2 per ppb N2O. Ruiz et al. (2021,
+Figs. 3 and S3) show that the tropospheric QBO patterns for
+N2O and CFCl3 are nearly identical despite the different ver-

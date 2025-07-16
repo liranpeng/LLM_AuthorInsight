@@ -1,0 +1,8 @@
+simulate the meteorological conditions (TM4, p-TOMCAT,
+OsloCTM2 and UCI). The other two models are coupled
+CCMs (chemistry climate models). LMDzINCA was nudged
+to the operational ECMWF ﬁelds whereas E39/C was oper-
+ated as a climate model. Some general properties of the mod-
+els are listed in Tab. 4. Except for E39/C all models included
+explicit NMHC chemistry. The TM4 uses a Carbon Bond
+Mechanism reaction scheme (CBM4) not including acetone

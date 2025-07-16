@@ -1,0 +1,8 @@
+sions of 1 Tg(N) yr−1. The RF from the CH4 decrease is
+−5.7 ± 1.3 mW m−2, and RF from the long-lived O3 reduc-
+tion accompanying the CH4 decrease is −1.7±0.7 mW m−2.
+For each component the central estimate is similar to the
+smallest magnitude of previously published RF estimates,
+due to our treatment of sub-grid-scale chemistry in ship emis-
+sion plumes. Combining all these components and account-
+ing for correlations caused by common factors, our best esti-

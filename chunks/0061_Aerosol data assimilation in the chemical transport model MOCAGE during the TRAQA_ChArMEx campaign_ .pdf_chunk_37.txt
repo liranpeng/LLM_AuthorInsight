@@ -1,0 +1,19 @@
+1
+2 )T
+N
+X
+i=1
+HT
+i R−1
+i (di −HiB
+1
+2 v).
+(5)
+In this formulation, there is no need for an explicit speci-
+ﬁcation of the inverse matrix B−1, and the preconditioning
+reduces the number of iterations (Courtier et al., 1994). In
+MOCAGE-Valentina, the cost function is minimized using
+the limited-memory BFGS (Broyden–Fletcher–Goldfarb–
+Shanno) method (Liu and Nocedal, 1989).
+The minimization of the cost function with the precondi-
+tioned form gives an increment of the analysis in the space

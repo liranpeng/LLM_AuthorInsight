@@ -1,0 +1,11 @@
+2.2.3
+Lagrangian ﬁnite volume
+A scheme for which the Lagrangian areas are retained for
+longer than one time step is the trajectory-tracking scheme
+(Dong and Wang, 2012) based on tracking interfaces (TTS-I,
+Dong and Wang, 2013). The advantage of tracing interfaces
+is that large gradients or even discontinuities are preserved.
+Geosci. Model Dev., 7, 105–145, 2014
+www.geosci-model-dev.net/7/105/2014/
+P. H. Lauritzen et al.: Results from standard test case suite
+113

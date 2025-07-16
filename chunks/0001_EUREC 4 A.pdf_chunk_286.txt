@@ -1,0 +1,11 @@
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+https://doi.org/10.5194/essd-13-4067-2021
+B. Stevens et al.: EUREC4A
+4101
+Table B7. Atalante.
+Instrument
+Brief description
+Underway data
+DSHIP navigational data, base meteorology data, bathymetry: UTC time, latitude, longitude, head-
+ing, heave, pitch, roll, pressure, air temperature, water temperature dew point, relative humidity, so-
+lar broadband radiation, infrared broadband radiation, UV radiation, visibility, wind direction, wind

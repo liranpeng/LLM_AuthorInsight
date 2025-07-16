@@ -1,0 +1,10 @@
+Ethics declarations
+Competing interests
+The authors declare no financial or non-financial competing
+interests related to this work. The method described in this study
+has been filed as a patent application titled “Generating High
+Resolution Data from Low Resolution Data”. The inventors of the
+patent are M. Mardani, N. Brenowitz, Y. Cohen, J. Pathak, C-Y.
+Chen, A. Vahdat, K. Kashinath, J. Kautz, and M. Pritchard. Beyond
+this, the authors have no additional competing interests to disclose.
+Ethics

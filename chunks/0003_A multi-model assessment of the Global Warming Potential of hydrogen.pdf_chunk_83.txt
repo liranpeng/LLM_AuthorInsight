@@ -1,0 +1,6 @@
+spheric production and loss, but soil sink and emissions are not needed in the
+simulations, as the hydrogen at the surface is prescribed. The models do diagnose
+the soil sink (see Model descriptions below), and this loss in addition to the
+atmospheric loss is used to calculate the lifetime in the models and hence the
+estimated ﬂux of hydrogen in the simulations.
+The radiative forcing in the PERT_H2 experiment can then be normalized by

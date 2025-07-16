@@ -1,0 +1,3 @@
+combination was performed within the experiment directly, which is what is plotted here. The UKCA model used, did not model stratospheric water vapor
+changes. Black dots mark areas where changes between the control and perturbed run are not signiﬁcant. Signiﬁcance is here deﬁned as 95% or more of
+the points with same latitude and height agree on the sign of the change. Because of different perturbation magnitudes in GFDL-emi, GFDL, and OsloCTM-

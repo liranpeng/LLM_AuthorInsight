@@ -1,0 +1,8 @@
+method (Parrish and Derber, 1992). Satellite AOD errors are
+deﬁned for retrievals over water using a multi-regression for-
+mula, and for retrievals over land using the percentage ap-
+proach with deﬁning a minimal possible error. Their 4-D-Var
+analysis results qualitatively showed a very similar impact of
+assimilation as in this study.
+We assimilated the data of MODIS, which has two over-
+passes per day during daytime. Satellite data with higher tem-

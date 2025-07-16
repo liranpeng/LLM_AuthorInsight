@@ -1,0 +1,18 @@
+Table B19. Melonhead (SG620).
+Instrument
+Brief description
+CT sail
+Sea-Bird unpumped CT sail measuring temperature and conductivity
+Microstructure sonde
+Rockland Scientiﬁc MicroPods microstructure system measuring shear and temperature and thus
+ocean turbulence
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+https://doi.org/10.5194/essd-13-4067-2021
+B. Stevens et al.: EUREC4A
+4111
+Table B20. IFM03.
+Instrument
+Brief description
+CTD sensor
+Measuring temperature and salinity
+Oxygen sensor

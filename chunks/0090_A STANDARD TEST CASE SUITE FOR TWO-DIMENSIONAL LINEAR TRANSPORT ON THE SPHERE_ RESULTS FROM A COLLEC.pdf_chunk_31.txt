@@ -1,0 +1,13 @@
+ﬁne the different categories of discretizations for the schemes
+that participated in this intercomparison. The high-level cat-
+egories are as follows:
+– ﬂux-form ﬁnite volume,
+– (semi-)Lagrangian ﬁnite volume,
+– (semi-)Lagrangian grid point,
+– Lagrangian parcel methods,
+– series expansion.
+www.geosci-model-dev.net/7/105/2014/
+Geosci. Model Dev., 7, 105–145, 2014
+108
+P. H. Lauritzen et al.: Results from standard test case suite
+A brief description of the transport schemes that partic-

@@ -1,0 +1,9 @@
+methane GWP.
+Table 5 summarizes ozone changes and RF results for all
+simulations, normalized to 1 ppb CH4 perturbations. Tropo-
+spheric ozone changes in GEOS-Chem and the UCI CTM
+(2.9 and 4.0 DU ppm(CH4)−1, respectively) are within the
+range of previous multi-model studies (Holmes et al., 2011;
+Boucher, 2012; Fry et al., 2012). Oslo CTM3, however,
+exhibits larger tropospheric changes (5.1 DU ppm(CH4)−1),
+likely due to the effects of stratospheric chemistry on the

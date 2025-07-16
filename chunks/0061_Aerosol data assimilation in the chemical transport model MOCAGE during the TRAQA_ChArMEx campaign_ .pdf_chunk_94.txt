@@ -1,0 +1,5 @@
+Atmos. Meas. Tech., 9, 5535–5554, 2016
+5544
+B. Siˇc et al.: Aerosol data assimilation in the CTM MOCAGE
+Figure 6. Time series of aerosol optical depth at 550 nm of the AERONET data (black line), the direct model (blue line) and the assimilation
+model run (red line) for the period of the TRAQA campaign from 25 June until 13 July 2012. The presented AERONET data are from eight

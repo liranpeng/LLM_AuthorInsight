@@ -1,0 +1,27 @@
+6 hr wind speeds
+20 years (last 10
+years)
+GFDL-emi
+GFDL-AM4.1
+~100 kms with 49
+vertical levels
+i) present-day control run with H2
+emissons
+ii) 200 Tg yr−1 H2 emissions and
+surface CH4 is increased from
+1808 ppbv to 2005 ppbv.
+Model’s own
+50 years (30)
+INCA
+LMDz-INCA-
+ORCHIDEE
+2.5° × 1.25° with
+39 vertical levels
+i) present-day control run with ﬁxed
+H2 surface concentrations
+ii) 10% increase in H2 surface
+concentrations,
+iii) 10% increase in CH4 surface
+concentrations
+ECMWF ERA-5
+20 years (3)

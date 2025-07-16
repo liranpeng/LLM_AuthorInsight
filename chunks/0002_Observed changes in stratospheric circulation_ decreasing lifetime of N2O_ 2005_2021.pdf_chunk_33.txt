@@ -1,0 +1,8 @@
+FTS, and a model. Their analysis included a much wider lat-
+itude range (50◦S–50◦N), but because N2O abundances fall
+off rapidly outside of the tropical ascent region (see Fig. 3 of
+Prather et al., 2015), the tropics should dominate the mean
+value and its trend. Thus, any calibration drift that impacts
+the lifetime (i.e., occurring in the critical region 3 to 30 hPa
+and 30◦S to 30◦N) is negligible compared to the increasing
+trend in N2O loss (+5.0 %/decade). If the drift were slightly

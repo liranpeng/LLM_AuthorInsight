@@ -1,0 +1,9 @@
+follow deﬁnitions made in IPCC AR5 (Boucher et al., 2013;
+Myhre et al., 2013b). The consideration of rapid adjustments
+associated with aerosols for the various models is described
+in Table 1.
+Radiative forcing is deﬁned as a perturbation relative to
+a reference state; this can be a ﬂexible year and most com-
+mon to pre-industrial time (Boucher et al., 2013; Myhre et
+al., 2013b). All the aerosol and ozone forcings shown here
+are absolute changes (W m−2) relative to the 1990 value of

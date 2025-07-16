@@ -1,0 +1,10 @@
+as it is exchanged with higher oxides of nitrogen, but the
+fraction of NOx in the form of NO is determined rapidly in
+sunlight by Reactions (2a), (2b), (2c), and (4).
+NO + O3 →NO2 + O2
+(R4)
+In the dark, NOx is almost entirely NO2, and it is critical to
+initialize NOx, but not NO and NO2 separately.
+Based on sensitivity tests with the UCI-CTM, our list
+of 18 key species includes O3, NOx, HNO3, HNO4, PAN
+(C2H3NO5 = peroxyacetyl nitrate), RNO3 (CH3NO3 and all

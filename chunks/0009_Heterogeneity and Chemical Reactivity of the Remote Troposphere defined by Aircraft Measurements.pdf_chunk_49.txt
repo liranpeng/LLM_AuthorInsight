@@ -1,0 +1,9 @@
+is fully documented in the Supplement.
+3.2
+The reactivity data stream (RDS)
+The concept of using an MDS to initialize 3D global chem-
+istry models and calculate an RDS was developed in the pre-
+ATom methodology papers (P2017; P2018). In this paper, we
+use the original six models for their August chemical statis-
+tics, and we use ﬁve of them plus a box model to calculate the
+reactivities; see Table 1. The RDS is really a protocol applied

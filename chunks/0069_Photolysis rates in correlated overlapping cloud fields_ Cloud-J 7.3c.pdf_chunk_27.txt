@@ -1,0 +1,10 @@
+2007), the cloud fractions in Cloud-J are quantized to limit
+the number of ICAs in a MAX group. The examples here use
+10 bins, and hence cloud fractions are limited to 0, 10, 20,
+30, ... 100 %. With this binning, the in-cloud water content
+is scaled to conserve the cloud-water content in each layer.
+This approximation is now resolution independent in terms
+of the number of model layers and limits each MAX group
+to 10 ICAs.
+2.4
+Maximal groups with correlated overlap

@@ -1,0 +1,14 @@
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+https://doi.org/10.5194/essd-13-4067-2021
+B. Stevens et al.: EUREC4A
+4107
+Table B10. Ron Brown.
+Instrument
+Brief description
+Anemometer
+Metek uSonic-3 anemometer measuring wind vector, stress, and heat ﬂux (bow mast)
+Rain gauge
+Optical precipitation sensor ORG-815 DA measuring the rain rate at 1 Hz (bow mast)
+Humidity sensor
+LICOR 7500 gas analyzer measuring water vapor density (bow mast)
+Weather sensors

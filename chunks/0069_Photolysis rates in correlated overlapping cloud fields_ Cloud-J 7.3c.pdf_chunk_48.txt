@@ -1,0 +1,23 @@
+3
+Approximating the exact sum over ICAs
+Quadrature column atmospheres (QCAs) have been deﬁned
+previously (Neu et al., 2007) as four representative ICA-like
+1
+10
+100
+1000
+10000
+0
+128
+256
+384
+512
+# ICA's per atmosphere
+number of tropical atmospheres
+G6 (169 ICAs)
+G3 ( 21 ICAs)
+G0 ( 19 ICAs)
+640
+Figure 2. Number of independent column atmospheres (ICAs) gen-
+erated by three different cloud-overlap models (G0, G3, G6) from
+640 different tropical fractionally cloudy atmospheres (FCAs) and

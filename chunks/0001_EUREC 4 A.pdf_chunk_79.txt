@@ -1,0 +1,8 @@
+for the R/V Atalante. As an example of the sensor synergy
+arising from the multitude of sensors, Fig. 6 shows water
+vapor ﬂux proﬁles (Behrendt et al., 2020) estimated from
+co-located vertically staring Doppler wind lidar and Raman
+(water vapor) lidar measurements from the ARTHUS system
+(Lange et al., 2019) aboard the R/V MS-Merian. This type
+of measurement strategy, employing a dense network of re-
+mote sensors to both improve sampling and realize synergies,

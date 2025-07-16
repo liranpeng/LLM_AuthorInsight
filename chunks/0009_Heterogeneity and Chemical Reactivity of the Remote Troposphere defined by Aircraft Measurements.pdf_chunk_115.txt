@@ -1,0 +1,8 @@
+(but not averaged over) the number of points in each 10◦lat-
+itude by 200 hPa pressure bin and then also by cosine (lat-
+itude) to compare with the models. In addition, a PD was
+calculated from the 1◦by 200 m average grid-cell values in
+Fig. 2 (black Xs), and this is also cosine(latitude)-weighted.
+To check if the high reactivities in the eastern Paciﬁc af-
+fected the whole Paciﬁc PD, a separate PD using only central
+Paciﬁc 10 s data was calculated (gray lines connecting gray

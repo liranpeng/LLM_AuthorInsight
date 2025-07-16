@@ -1,0 +1,8 @@
+study and disentangle key processes that lead to model differ-
+ences, a comprehensive list of monthly mean 3-D output of
+key meteorological parameters (standard variables tempera-
+ture and precipitation, convective mass ﬂuxes (mcu), light-
+ning NOx production (emilnox) and chemical species (also
+annual loss terms of methane, carbon monoxide, and ni-
+trous oxide)) is requested. In addition, two transport tracers
+will help to track changes in tropospheric transport between

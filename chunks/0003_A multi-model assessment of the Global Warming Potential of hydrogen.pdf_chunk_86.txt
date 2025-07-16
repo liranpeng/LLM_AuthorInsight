@@ -1,0 +1,23 @@
+Þ ¼
+R 100
+0
+RFH2 tð Þdt
+R 100
+0
+RFCO2 tð Þdt
+ð2Þ
+As in AR6, we use the effective radiative forcing (ERF) instead of RF.
+The AGWP100 of CO2 is 0.0895 10−12 W m−2 kg−1 yr from IPCC AR6
+Table 7.SM.648. The ERF of hydrogen is the sum of the effective radiative forcing
+contributions by methane, ozone, and stratospheric water vapor.
+We rewrite the AGWP from equation (2) to account for results for a run with a
+pulse emission of mass mem
+i
+given in units of kg yr−1.
+AGWPi H
+ð Þ ¼
+1
+mem
+i
+Z H
+0

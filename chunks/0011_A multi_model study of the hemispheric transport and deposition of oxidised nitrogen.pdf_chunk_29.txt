@@ -1,0 +1,8 @@
+winter and for SA during spring, although the difference
+between the seasons for each of these two regions is fairly
+small. EU exports more NOy than the other regions (0.24),
+and exports the most in winter (0.32). There is a greater
+spread of model results for winter than the other seasons.
+[13] The annual mean sensitivities for each region to a
+20% reduction in anthropogenic NOx emissions in each of
+the source regions are summarised in Table 1. The associ-

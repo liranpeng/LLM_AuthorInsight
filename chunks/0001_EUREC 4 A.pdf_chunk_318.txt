@@ -1,0 +1,9 @@
+models, as described in Thomson (2012), and four of the
+SWIFTs were version 4 models, as described in Thomson
+et al. (2019). SWIFTs collect data in a wave following ref-
+erence frame, with burst sampling and statistical products
+available hourly.
+Two Wave Glider ASVs (autonomous surface vehicles),
+designated WG245 and WG247, operated from the R/V
+Ron Brown during EUREC4A. The missions each spanned
+4 weeks from January to February 2020. The Wave Gliders

@@ -1,0 +1,9 @@
+face albedo and atmospheric mass). Two chemistry-climate
+models (GFDL, NCAR) were unable to completely overwrite
+the modeled T and q values with data stream values (see sen-
+sitivity tests below). See also Supplement for additional de-
+tails.
+Implications for reactivities are discussed below. It is dif-
+ﬁcult, if not impossible, to specify 24 h cloud ﬁelds, from
+observations or a model, in a way that all models here could
+implement consistently. Treatment of photolysis rates in uni-

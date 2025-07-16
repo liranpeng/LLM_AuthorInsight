@@ -1,0 +1,10 @@
+tions show increased correlation (from 0.54 for the modelled
+ﬁelds to 0.82 for the assimilated ﬁelds), lowered root mean
+square error (from 0.27 to 0.18) and lowered standard devia-
+tion (from 0.27 to 0.17), demonstrating what we expect from
+assimilation. Similar values of the root mean square error and
+the standard deviation show the absence of important biases
+in the system.
+6.2
+Comparison with SEVIRI
+The period of the TRAQA campaign is marked by two desert

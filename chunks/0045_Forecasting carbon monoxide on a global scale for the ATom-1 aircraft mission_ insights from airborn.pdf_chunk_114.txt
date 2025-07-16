@@ -1,0 +1,8 @@
+B. C., and Wofsy, S. C.: The MOPITT Version 6 product: al-
+gorithm enhancements and validation, Atmos. Meas. Tech., 7,
+3623–3632, https://doi.org/10.5194/amt-7-3623-2014, 2014.
+Duncan, B. N. and Logan, J. A.: Model analysis of the factors
+regulating the trends and variability of carbon monoxide be-
+tween 1988 and 1997, Atmos. Chem. Phys., 8, 7389–7403,
+https://doi.org/10.5194/acp-8-7389-2008, 2008
+Duncan, B., Bey, I., Chin, M., Mickley, L., Fairlie, T., Martin,

@@ -1,0 +1,4 @@
+Θ is the angle between incident and scattered light. Nominally, these phase functions are calculated using 
+Mie theory for spherical droplets or other approximations for aspherical ice or dust particles (Mishchenko 
+et al., 2016; Yang et al., 2018) and expanded in Legendre polynomials, PL(Θ), where the first two terms are 
+P0 ≡ 1 and P1 ≡ cos(Θ). See Figure 1 of LBYY for the Legendre coefficients for water clouds and dust. Del-

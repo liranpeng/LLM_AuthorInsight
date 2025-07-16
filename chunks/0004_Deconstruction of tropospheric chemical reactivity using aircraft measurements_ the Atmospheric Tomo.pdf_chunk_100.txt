@@ -1,0 +1,9 @@
+Figure 18. Curtain plots of P-O3 (ppb d−1) in the tropical eastern Paciﬁc (0–30◦N) for ATom-1234. See Fig. 6.
+Figure 19. Curtain plots of L-O3 (ppb d−1) in the tropical eastern Paciﬁc (0–30◦N) for ATom-1234. See Fig. 6.
+4
+Chemical sensitivity analysis
+4.1
+First-order sensitivities
+To identify the critical species controlling the tropospheric
+budgets of O3 and CH4, we calculate the sensitivity of the
+weighted mean reactivity for the Paciﬁc or Atlantic oceanic

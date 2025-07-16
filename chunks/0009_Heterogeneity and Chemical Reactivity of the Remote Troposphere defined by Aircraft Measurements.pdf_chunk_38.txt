@@ -1,0 +1,8 @@
+documented the Supplement. Using the MDS, we have six
+chemical models calculating the 24 h reactivities, producing
+a reactivity data stream (RDS) using protocols noted in the
+Prologue (P2017) and described further in Sect. 2. There, we
+describe the updated modeling protocol RDS∗necessary to
+address measurement noise in key species that can be very
+short-lived. In Sect. 4, we examine the statistics of reactivity
+over the Atlantic and Paciﬁc oceans, focusing on air parcels

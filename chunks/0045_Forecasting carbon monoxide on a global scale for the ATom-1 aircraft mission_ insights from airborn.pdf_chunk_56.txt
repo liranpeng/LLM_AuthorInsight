@@ -1,0 +1,10 @@
+also points to a potential error in North American emissions
+from either fossil fuels or biomass burning.
+3.2
+Model evaluation summary
+We summarize the comparison between the CO simulated by
+the GEOS-5 analyses and the QCLS observations in Fig. 3.
+The majority of points lie near the one-to-one line, indicat-
+ing good overall agreement between the GEOS-5 and ob-
+served CO distributions. The higher concentrations in the
+tropical Atlantic compared to the tropical Paciﬁc are evi-

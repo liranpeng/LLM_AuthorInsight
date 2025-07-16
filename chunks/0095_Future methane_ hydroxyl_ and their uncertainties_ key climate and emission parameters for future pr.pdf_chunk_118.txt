@@ -1,0 +1,8 @@
+uncertainties in both. Uncertainties are standard deviations from 105 monte carlo
+realizations.
+tween annual-mean surface temperature, air temperature and
+water vapor that we derive from historical reanalysis data
+since 1979 (See Supplement for details). We use global-mean
+surface temperatures to drive the parametric model because
+these data are more easily available and because this sim-
+pliﬁes future applications of the parametric model to other

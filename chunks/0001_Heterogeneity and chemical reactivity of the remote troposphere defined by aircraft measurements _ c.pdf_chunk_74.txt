@@ -1,0 +1,8 @@
+these species in the remote oceanic regions that would pro-
+duce enough to match the thermal loss. Both this problem
+and its solution do not affect the initial NOx values.
+We present the RDS-2b reactivities calculated under the
+RDS* protocol with the UCI CTM developed by Xin Zhu
+for P2017 and P2018 (designated UCIZ*) as our best results
+in the ﬁnal column of Tables 2 and S8. We added diagnos-
+tics that give us conﬁdence in our O3 reactivities: the ap-

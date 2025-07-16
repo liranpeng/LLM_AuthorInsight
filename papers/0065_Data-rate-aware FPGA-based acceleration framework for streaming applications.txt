@@ -1,0 +1,4 @@
+Title: Data-rate-aware FPGA-based acceleration framework for streaming applications
+
+Abstract:
+No abstract available.

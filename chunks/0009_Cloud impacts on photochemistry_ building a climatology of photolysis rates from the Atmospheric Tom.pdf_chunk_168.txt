@@ -1,0 +1,9 @@
+C., Johnson, C. E., Osprey, S. M., and Pyle, J. A.: Eval-
+uation of the new UKCA climate-composition model –
+Part 1: The stratosphere, Geosci. Model Dev., 2, 43–57,
+https://doi.org/10.5194/gmd-2-43-2009, 2009.
+Nack, M. L. and Green, A. E. S.: Inﬂuence of clouds, haze, and
+smog on the middle ultraviolet reaching the ground, Appl. Opt.,
+13, 2405–2415, 1974.
+Naik, V., Horowitz, L. W., Fiore, A. M., Ginoux, P., Mao, J. Q.,
+Aghedo, A. M., and Levy, H.: Impact of preindustrial to present-

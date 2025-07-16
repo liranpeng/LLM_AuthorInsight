@@ -1,0 +1,8 @@
+liminary data in a manner similar to what has been adopted
+in past studies (e.g., Stevens et al., 2005; vanZanten et al.,
+2011), albeit (in the present case) over considerably larger
+domains. Figure 20 shows, with the help of a satellite im-
+age, the degree of mesoscale cloud variability. This apparent
+whimsicality suggests that, given the imprecision in the forc-
+ing and the cloud retrievals, assessing the magnitude of sys-
+tematic biases in the simulations will be a challenge. In this

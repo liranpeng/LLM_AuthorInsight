@@ -1,0 +1,7 @@
+NASA Author Manuscript
+Figure 7: 
+HSRL and HCR returns for RF 10 (27 July 2010) shown as a function of longitude with 
+corresponding high resolution visible GOES images (4°x4° sample areas) stitched together. 
+The lettered areas indicate the box areas analyzed at the trajectory staring points. Since 
+flights were not made in a strictly east-west orientation, the data plotted on the longitudinal 
+axes can be relatively compressed during parts of the flight where there might be a strong

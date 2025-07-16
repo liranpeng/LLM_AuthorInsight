@@ -1,0 +1,17 @@
+Chem. Phys., 10, 9681–9688, doi:10.5194/acp-10-9681-2010,
+2010.
+Tiedtke, M.: A comprehensive mass ﬂux scheme for cumulus pa-
+rameterization in large-scale models, Mon. Weather Rev., 117,
+1779–1800, 1989.
+Trenberth, K. E., Fasullo, J. T., and Mackaro, J.: Atmo-
+spheric moisture transports from ocean to land and global
+energy
+ﬂows
+in
+reanalyses,
+J.
+Climate,
+24,
+4907–4924,
+doi:10.1175/2011JCLI4171.1, 2011.
+van der Werf, G. R., Randerson, J. T., Giglio, L., Collatz, G. J.,

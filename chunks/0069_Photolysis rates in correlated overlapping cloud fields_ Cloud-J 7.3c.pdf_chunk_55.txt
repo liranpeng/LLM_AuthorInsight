@@ -1,0 +1,8 @@
+proﬁle of the mean bias in J values is shown in Fig. 3. As ex-
+pected the ClSky and AvCld methods show opposite biases
+and large rms errors. The CF3/2 method produces reasonable
+averages, but still has rms errors of 10 % or more. The AvDir
+method does not perform as well as expected and looks only
+slightly better than CF3/2; however, the proﬁle of mean er-
+ror (Fig. 3) is preferable to that of CF3/2. Both QCA meth-
+ods performed excellently and deliver rms errors of less than

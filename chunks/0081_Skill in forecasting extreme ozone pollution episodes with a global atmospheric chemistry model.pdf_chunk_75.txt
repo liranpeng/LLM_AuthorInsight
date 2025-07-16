@@ -1,0 +1,8 @@
+US and right column (b, d, f, g) is EU. Both MB and MCC are cal-
+culated with respect to years 2005–2006. First and third rows (a, b,
+e, f) are for winter months (DJF), and second and fourth rows (c,
+d, g, h) are for summer months (JJA). The area-weighted mean and
+1σ are given for each plot. Note the difference in color scales for
+MB in winter and summer and between MB and MCC.
+the Supplement). Summer typically has the days of highest
+O3 percentile, and winter those of lowest O3 percentile. The

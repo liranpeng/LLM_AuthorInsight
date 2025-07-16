@@ -1,0 +1,10 @@
+1998). It was run at a horizontal resolution of 2×3 degrees
+with 34 model levels from the surface up to 10 hPa.
+The lightning parameterisation (Meijer et al., 2001) uses
+convective precipitation from ECMWF to describe the hor-
+izontal distribution of lightning and normalised proﬁles
+Atmos. Chem. Phys., 9, 3113–3136, 2009
+www.atmos-chem-phys.net/9/3113/2009/
+P. Hoor et al.: Trafﬁc emissions: impact on ozone and OH
+3119
+calculated by Pickering et al. (1998) to distribute lightning

@@ -1,0 +1,9 @@
+Comput. Phys., 230, 6778–6799, 2011.
+Wicker, L. and Skamarock, W.: Time-Splitting Methods for Elastic
+Models Using Forward Time Schemes, Mon. Weather Rev., 130,
+2088–2097, 2002.
+Williamson, D. L., Drake, J. B., Hack, J. J., Jakob, R., and Swarz-
+trauber, P. N.: A Standard Test Set for Numerical Approxima-
+tions to the Shallow Water Equations in Spherical Geometry, J.
+Comput. Phys., 102, 211–224, 1992.
+Zalesak, S. T.: Fully multidimensional ﬂux-corrected transport al-

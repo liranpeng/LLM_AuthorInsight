@@ -1,0 +1,22 @@
+and ozone precursors). “Hist” means the concentrations or emissions should evolve as for the CMIP6 historical simulation; a year means the
+concentrations or emissions should be ﬁxed to that year. Note that the N2O and HC runs will have a small forcing, but will provide valuable
+information on their historical impacts on stratospheric ozone changes.
+Experiment ID
+Minimum model
+CH4
+N2O
+Aerosol
+Ozone
+CFC/HCFC
+Tier
+conﬁguration
+precursors
+precursors
+histSST
+AGCM AER
+Hist
+Hist
+Hist
+Hist
+Hist
+1

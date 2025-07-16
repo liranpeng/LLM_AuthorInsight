@@ -1,0 +1,8 @@
+ity, but they differ in sign and magnitude of the anomaly at
+many times. These differences in observed MCF decay rates
+between the two networks are as large as the discrepancy be-
+tween CTM τCH4×OH anomalies and either set of observa-
+tions. Therefore, we conclude that better understanding of
+systematic differences between the observation networks is
+required before MCF can be used to constrain τCH4×OH and
+OH anomalies in speciﬁc years at the precision required (1-

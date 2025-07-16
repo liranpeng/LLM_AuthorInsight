@@ -1,0 +1,10 @@
+epa.gov/airtrends/nitrogen.html and www.epa.gov/airtrends/
+ozone.html; Hudman et al., 2009). We also show the an-
+nual mean summertime (June, July, August) MDA8 concen-
+trations from our interpolated product and the raw station
+data, both of which show excellent agreement with the an-
+nual AQX values.
+5.2
+Size distribution of extreme episodes
+We deﬁne the size of an episode as the integral of AQX area
+over time (km2-days). The area of a low-latitude grid cell in

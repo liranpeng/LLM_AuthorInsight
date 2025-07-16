@@ -1,0 +1,4 @@
+Abstract Stratosphere-troposphere exchange (STE) of ozone (O3) is key in the budget of tropospheric O3,
+in turn aﬀecting climate forcing and global air quality. We compare three commonly used diagnostics meant
+to quantify cross-tropopause O3 ﬂuxes with a Chemistry-Transport Model driven by two distinct European
+Centre forecast ﬁelds. Our reference case calculates accurate, geographically resolved net transport across

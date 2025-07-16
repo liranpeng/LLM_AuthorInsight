@@ -1,0 +1,13 @@
+cal Note: Anthropogenic and natural ofﬂine emissions and the
+online EMissions and dry DEPosition submodel EMDEP of the
+Modular Earth Submodel system (MESSy), Atmos. Chem. Phys.
+Discuss., 6, 5457–5483, 2006,
+http://www.atmos-chem-phys-discuss.net/6/5457/2006/.
+Gauss, M., Isaksen, I., Wong, S., and Wang, W.-C.:
+Im-
+pact of H2O emissions from cryoplanes and kerosene air-
+craft on the atmosphere,
+J. Geophys. Res.,
+108,
+4304,
+doi:10.1029/2002JD002623, 2003.

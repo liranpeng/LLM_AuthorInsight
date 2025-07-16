@@ -1,0 +1,9 @@
+doi:10.1175/2008jtecha1123.1, 2008.
+Wackernagel, H.: Multivariate Geostatistics: An introduction with
+applications, 3rd Edn., Springer, Berlin, 387 pp., 2003.
+Atmos. Chem. Phys., 14, 7721–7739, 2014
+www.atmos-chem-phys.net/14/7721/2014/
+J. L. Schnell et al.: Skill in forecasting extreme ozone pollution episodes
+7739
+Weaver, C., Liang, X., Zhu, J., Adams, P., Amar, P., Avise, J.,
+Caughey, M., Chen, J., Cohen, R., Cooter, E., Dawson, J.,

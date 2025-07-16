@@ -1,0 +1,24 @@
+This work
+GEOS-Chemb
+0.16
+5.3
+0.12
+3.8
+0.10
+3.4
+Holmes et al. (2013)
+GEOS-Chemc,d
+0.12
+3.8
+UCI CTMd
+0.17
+5.6
+Oslo CTM3d
+0.23
+7.7
+Literature
+modelse
+0.18 ± 0.04
+6.0 ± 1.9
+a d[O3]/dE is the derivative of ozone column density with respect to ship NOx emissions, reported in DU [Tg(N) yr−1]−1.
+dFO3/dE is the derivative of O3 RF with respect to ship NOx emissions, reported in mW m−2 [Tg(N) yr−1]−1. Both

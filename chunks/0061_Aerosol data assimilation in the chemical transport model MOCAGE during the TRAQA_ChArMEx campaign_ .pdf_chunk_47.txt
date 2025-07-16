@@ -1,0 +1,9 @@
+erator H.
+The tangent linear operator can be derived explicitly by
+the ﬁnite-difference method, but it is a computationally ex-
+pensive method. Instead, the tangent-linear operator can be
+considered as a sequence of linearized sub-operators of the
+non-linear observation operator and built piece by piece by
+differentiating each line of code or loop separately. This ap-
+proach allows the parts of the code to be tested separately.
+In order to provide a linearized trajectory around the model

@@ -1,0 +1,10 @@
+Article  Google Scholar 
+8. Price, I. et al. Probabilistic weather forecasting with machine
+learning. Nature. 637, 84–90 (2025).
+9. Bodnar, C. et al. A foundation model of the atmosphere. arXiv
+preprint arXiv:2405.13063 (2024).
+10. Lang, S. et al. Aifs-ecmwf’s data-driven forecasting system.
+arXiv preprint arXiv:2406.01465 (2024).
+11. Gutowski, W. J. et al. The ongoing need for high-resolution
+regional climate models: Process understanding and
+stakeholder information. Bulletin of the American

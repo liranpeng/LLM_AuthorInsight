@@ -1,0 +1,8 @@
+the correlation improves from 0.83 for the direct model to
+0.96 for the assimilated model run. Each of the two MODIS
+instruments overpasses each point once during the daytime
+(one at approximately 10:30 and another at ≈13:30 in local
+solar time), and this provides sufﬁcient information to even
+improve the hourly AOD variation in the assimilated ﬁeld
+during different dates (for example, 9–11 July; Fig. 3).
+Figure 4 compares AOD from the direct and the assimila-

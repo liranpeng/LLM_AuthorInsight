@@ -1,0 +1,8 @@
+G. S., Fuelberg, H. E., Wisthaler, A., Mikoviny, T., Brune,
+W., and Riemer, D. D.: Impact of the deep convection of iso-
+prene and other reactive trace species on radicals and ozone
+in the upper troposphere, Atmos. Chem. Phys., 12, 1135–1150,
+https://doi.org/10.5194/acp-12-1135-2012, 2012.
+Auvray, M., Bey, I., Llull, E., Schultz, M. G., and Rast, S.: A model
+investigation of tropospheric ozone chemical tendencies in long-
+range transported pollution plumes, J. Geophys. Res.-Atmos.,

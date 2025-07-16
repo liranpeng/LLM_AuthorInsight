@@ -1,0 +1,8 @@
+ing up the extrema of the cosine bells and correlated co-
+sine bells. The opposite extreme of the convex hull (upper
+left corner (χ,ξ) = (0.1,0.892)) contains the majority of the
+data points as that is where the background value is located
+on the scatterplot. Obviously, diffusive schemes will damp
+the extrema, which, in terms of the scatterplot, cause scat-
+ter points to shift toward the background scatter point value
+(0.1,0.892) and away from the lower right corner of the

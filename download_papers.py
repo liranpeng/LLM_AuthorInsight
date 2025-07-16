@@ -37,7 +37,7 @@ if __name__ == "__main__":
     selection = int(input("Select author number: ")) - 1
     author_id = authors[selection]['authorId']
 
-    papers = get_author_papers(author_id, limit=10)
+    papers = get_author_papers(author_id, limit=100)
     print("\nProcessing papers...")
 
     for idx, p in enumerate(papers, start=1):

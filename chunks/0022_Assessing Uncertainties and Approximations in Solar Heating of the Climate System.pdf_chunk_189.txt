@@ -1,0 +1,4 @@
+for photolysis but not heating rates. Its number of visible broad bands needs to be expanded beyond 2, 
+and those cross section adjusted to Watts weighting. Aerosol extinction, but not clouds, also varies widely 
+across visible wavelengths, and all solar RT codes may consider testing aerosol wavelength dependence 
+across their broad bands. (important, not too difficult, but limited to Solar-J, hence level 1).

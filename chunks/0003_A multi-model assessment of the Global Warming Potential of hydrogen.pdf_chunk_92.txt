@@ -1,0 +1,13 @@
+These correspond to radiative forcing changes between the PERT_H2 and CTRL
+and scaled PERT_CH4 and CTRL experiments respectively.
+For uncertainty calculation, we expand the equation in more detail and rewrite
+the ﬂux changes as burden changes divided by hydrogen lifetime:
+AGWPH2 ¼
+τH2
+ΔBurdenH2
+ rCH4  ff CH4  ΔCCH4 þ ΔERFO3 þ ΔERFH2O
+h
+i
+ð7Þ
+Δ denotes changes between the control and perturbed experiments where
+changes in between PERT_CH4 and CTRL have been scaled to match the expected

@@ -1,0 +1,10 @@
+essentially considered time as another dimension in space
+(i.e., 1◦= 1 day), and (2) geographic distance between two
+grid cells varies with latitude and is not accounted for in the
+clustering. We consider the former to be of no consequence
+since a time separation cutoff of less than 1 day is not possi-
+ble using daily MDA8 values to identify AQX events. Also,
+a larger cutoff value would be unfavorable since events could
+be statistically linked even if they occurred at the same grid
+OBS
+CTM

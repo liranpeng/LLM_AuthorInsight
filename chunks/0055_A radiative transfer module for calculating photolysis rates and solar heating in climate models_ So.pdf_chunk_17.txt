@@ -1,0 +1,8 @@
+proach (Mlawer et al., 1997; Clough et al., 2005). A two-
+stream model was certainly necessary at a time when the
+need for computational efﬁciency exceeded that for accuracy.
+With the rapid advancement of massively parallel comput-
+ing, it is time to ask if an upgrade to a higher-order scheme
+is needed for improved accuracy in climate modeling, par-
+ticularly with regard to cloud and aerosol forcing. The two-
+stream scattering approximation has been in use for decades

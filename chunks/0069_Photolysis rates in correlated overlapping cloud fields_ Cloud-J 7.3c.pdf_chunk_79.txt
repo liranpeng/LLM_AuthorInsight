@@ -1,0 +1,9 @@
+doi:10.1021/Jp056276g, 2006.
+Briegleb, B. P.: Delta-Eddington Approximation for solar-radiation
+in the NCAR Community Climate Model, J. Geophys. Res., 97,
+7603–7612, 1992.
+Davis, A. B. and Marshak, A.: Solar radiation transport in the
+cloudy atmosphere: a 3-D perspective on observations and cli-
+mate impacts, Rep. Prog. Phys., 73, 026801, doi:10.1088/0034-
+4885/73/2/026801, 2010.
+Emmons, L. K., Apel, E. C., Lamarque, J.-F., Hess, P. G., Avery,

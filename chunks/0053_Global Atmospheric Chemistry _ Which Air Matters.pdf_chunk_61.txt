@@ -1,0 +1,8 @@
+a C-run), we calculate the reactivity at a given grid cell, but
+not that of a parcel. Air parcels move, change location, and
+mix with neighboring parcels: i.e., there is no way to track
+quantitatively what might be considered the original parcel.
+Effectively, we keep integrating the rates in that grid cell as
+different parcels travel through it and are mixed within it. Let
+us take a large enough domain of grid cells (e.g., tropical Pa-
+ciﬁc, 150–210◦E, from surface to 200 hPa) and calculate the

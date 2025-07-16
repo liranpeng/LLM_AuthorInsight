@@ -1,0 +1,36 @@
+ﬁeld for the next cycle.
+3.1
+Preconditioning
+MOCAGE-Valentina uses the incremental form of 3-D-
+FGAT (Eq. 1). In order to minimize the cost function more
+efﬁciently and to improve convergence, the increment δx is
+preconditioned by
+v = B−1
+2 δx.
+(3)
+In this way the cost function becomes
+J(x) = 1
+2vTv + 1
+2
+N
+X
+i=1
+(di −HiB
+1
+2 v)TR−1
+i (di −HiB
+1
+2 v), (4)
+and its gradient is
+∇J(δx) = v + (B
+1
+2 )T
+N
+X
+i=1
+HT
+i R−1
+i (di −HiB
+1
+2 v).
+(5)

@@ -1,0 +1,4 @@
+March-April-May (MAM) in green, and December-January-February (DJF) in cyan. (g) Same as in Figure 1f but for ozone
+ﬂuxes across e90-tropopause. Color scheme is same as in Figure 1f. Twelve month running mean of normalized NH
+ozone ﬂuxes across several isosurfaces for (h) C29 and (i) C36. Fluxes across the e90-tropopause are plotted in black;
+across 250-O3 surface in red; in solid lines for TC method and dashed lines for LS method. Estimation by the vertical

@@ -1,0 +1,5 @@
+N2O abundance and growth rates. This supports our simplistic proposal above that an equatorial source of 
+∼1 TgN during the 2010 La Niña can explain the observed anomaly.
+We have a unique capability here in that we have three independent CTMs generating N2O surface patterns 
+that include all the chemistry and transport, but without emissions. The dynamical link between the QBO 
+and ENSO is unclear (Coy et al., 2017) and poorly reproduced in models (Serva et al., 2020). Nevertheless,

@@ -1,0 +1,20 @@
+gence rates represented by the ensemble of models. They
+span from ﬁrst-order convergence rates to sixth-order for the
+unlimited schemes. Hence, the ensemble of models that par-
+ticipated in this intercomparison span a signiﬁcant range of
+formal accuracies. Several observations are made regarding
+www.geosci-model-dev.net/7/105/2014/
+Geosci. Model Dev., 7, 105–145, 2014
+116
+P. H. Lauritzen et al.: Results from standard test case suite
+10-6
+10-5
+10-4
+10-3
+10-2
+10-1
+100
+101
+0.1875°
+0.375°
+0.75°

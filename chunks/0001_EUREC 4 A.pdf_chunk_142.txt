@@ -1,0 +1,11 @@
+of wind speeds at 40 m to wind speeds at 200 m, as a mea-
+sure of surface layer wind shear, is close (ca. 0.95) to unity.
+Combined with surface heat and momentum ﬂuxes measured
+by other platforms, the lidars provide a unique opportunity to
+identify the inﬂuence of (moist) convection on wind stress at
+the surface.
+3.4
+Ocean mesoscale eddies and sub-mesoscale fronts
+and ﬁlaments
+Mesoscale eddies, fronts, and ﬁlaments – not unlike the
+mesoscale circulations that are the subject of increasing at-

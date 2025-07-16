@@ -1,0 +1,10 @@
+depths)
+Acoustic Doppler current
+proﬁler
+Teledyne Workhorse 300 kHz ADCP measuring ocean current proﬁles between 6 and 100 m depths
+Pyranometer
+SPN1 Delta-T Sunshine Pyranometer measuring total and diffuse solar radiation (equipped on NOAA-
+funded Saildrones, 2.8 m above water line, sampling at 5 Hz for tilt correction, Zhang et al., 2019)
+Pyrgeometer
+Eppley Precision Infrared Radiometer (PIR) measuring downward longwave radiation (equipped on
+NOAA-funded Saildrones, 0.8 m above water line)

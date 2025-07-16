@@ -1,0 +1,4 @@
+the problem. Using the three CTMs in this study, we are able to remove the interannual variability at the sur-
+face driven by stratospheric chemistry and tracer transport, thus we produce clear signal of the anomalous 
+emissions from the 2010 La Niña. These results highlight the capability of the QBO signal as a diagnostic 
+metric with which to investigate model circulation and transport mechanisms on interannual time scales.

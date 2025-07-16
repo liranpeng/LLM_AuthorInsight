@@ -1,0 +1,10 @@
+p = 3 and η = 4.0 for p = 6. We call the former “conver-
+gence regime” and the latter “mixing regime”. Chosen pa-
+rameters are summarized in Table A1.
+A9
+ICON-FFSL
+The ICON grid is derived from a spherical icosahedron that is
+made up of 20 equilateral spherical triangles. This base grid
+is further reﬁned in a multi-step procedure, until the desired
+resolution is reached. In a ﬁrst step, the root division step, the
+edges of each base triangle are divided into n equal sections

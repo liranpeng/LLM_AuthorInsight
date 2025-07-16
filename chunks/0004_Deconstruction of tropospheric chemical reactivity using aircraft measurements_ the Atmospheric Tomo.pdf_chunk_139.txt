@@ -1,0 +1,7 @@
+https://doi.org/10.5194/essd-15-3299-2023
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+3328
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements
+Figure 44. Probability density of P-O3 (ppb d−1) in the three tropical basins (30◦S–30◦N) for ATom-1234. See Fig. 40.
+Figure 45. Probability density of L-O3 (ppb d−1) in the three tropical basins for ATom-1234. See Fig. 40.
+Figure 46. Probability density of L-CH4 (ppb d−1) in the three tropical basins for ATom-1234. See Fig. 40.

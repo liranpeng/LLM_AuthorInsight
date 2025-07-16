@@ -1,0 +1,7 @@
+in 2D, however, 3D compatible data is more scarce, and necessary
+for the development of subgrid scale parameterizations of aerosol-
+cloud interactions in GCMs. This report introduces two novel
+parameterizations of atmospheric aerosol injection behavior suitable
+for both 3D (GCM-compatible) and 2D (observation-related)
+modeling. Their applicability is highlighted using a wealth of different
+observational data: small and larger scale salt-aerosol injection

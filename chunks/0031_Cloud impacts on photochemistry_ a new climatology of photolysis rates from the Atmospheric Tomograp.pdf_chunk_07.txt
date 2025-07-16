@@ -1,0 +1,8 @@
+time. The ATom-1 measurements generally favor large cloud
+effects but are not precise or robust enough to point out the
+best cloud-modeling approach. The models here have resolu-
+tions of 50–200 km and thus reduce the occurrence of clear
+sky when averaging over grid cells. In situ measurements
+also average scattered sunlight over a mixed cloud ﬁeld, but
+only out to scales of tens of kilometers. A primary uncer-
+tainty remains in the role of clouds in chemistry, in partic-

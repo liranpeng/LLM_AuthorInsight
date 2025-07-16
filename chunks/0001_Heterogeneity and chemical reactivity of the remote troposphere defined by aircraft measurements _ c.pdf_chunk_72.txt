@@ -1,0 +1,8 @@
+attributed to instrument noise) were reported under condi-
+tions where the thermal decomposition frequency was > 0.4
+per hour in the lower troposphere (> 253 K for HNO4 and
+> 291 K for PAN). Thus, these species instantly become
+NOx. While these measurements are clearly spurious, there
+is no easy ﬁx. We developed a new protocol, RDS*, that al-
+lows both species to decay for 24 h using their local thermal
+decomposition rate before being used in the model. This pro-

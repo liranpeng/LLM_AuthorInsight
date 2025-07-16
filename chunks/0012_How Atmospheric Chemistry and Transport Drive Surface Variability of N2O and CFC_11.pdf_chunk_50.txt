@@ -1,0 +1,5 @@
+for this study to be well within the MLS observational uncertainties (∼2% level) or the model differences.
+2.3.  Chemistry-Transport Modeling of N2O Loss
+The modeled N2OX mean loss frequencies (%/yr) are compared with MLS N2O in Figure 2a and summa-
+rized in Table 2. For the MLS period (2005–2018), UCI mean loss frequency is about 0.10%/yr less than MLS, 
+while LMDz5 is 0.04%/yr greater, and GMI is a match. In P2015, both GMI and UCI had similar offsets from

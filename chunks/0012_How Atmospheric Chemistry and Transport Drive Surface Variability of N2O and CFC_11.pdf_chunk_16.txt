@@ -1,0 +1,4 @@
+simulations that allow us to follow the signal of stratospheric loss down to the surface. We examine the 
+National Oceanic and Atmospheric Administration (NOAA) Earth System Research Laboratories (ESRL) 
+surface N2O measurements for stratospheric-driven variability. The observed latitude-by-month annual pat-
+terns could be caused by either emissions or the stratospheric sink; whereas the Quasi-Biennial Oscillation

@@ -1,0 +1,26 @@
+simulations (C-runs) with the values representing air that passed through the cell over 24 h. Dashed lines are the no-transport, no-emissions
+A-runs that keep the initialized chemical values in the same cell over 24 h.
+Atmos. Chem. Phys., 17, 9081–9102, 2017
+www.atmos-chem-phys.net/17/9081/2017/
+M. J. Prather et al.: Global atmospheric chemistry – which air matters
+9091
+J’s (tropical Pacific)
+P (hPa)
+200
+300
+400
+500
+600
+700
+800
+900
+10000
+1
+4
+2
+3
+J-O3(1D)   (10    s  )
+0
+2
+4
+6

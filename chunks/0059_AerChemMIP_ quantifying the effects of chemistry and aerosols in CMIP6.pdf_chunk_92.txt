@@ -1,0 +1,8 @@
+istry (at least tropospheric). The transient ERF pattern from
+these simulations is expected to be relatively homogeneous,
+although their chemical effects on ozone and secondary
+aerosols may be less so. Therefore, AerChemMIP does not
+include any experiments to derive the climate responses to
+methane or nitrous oxide forcing. The climate response to
+homogeneous forcing is quantiﬁed in Detection and Attribu-
+tion Model Intercomparison Project (DAMIP) from the hist-

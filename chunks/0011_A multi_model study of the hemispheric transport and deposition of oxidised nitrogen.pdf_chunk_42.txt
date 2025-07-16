@@ -1,0 +1,8 @@
+tion differs considerably between the models (see Table S2),
+and is likely to be a principal source of uncertainty in the
+source-receptor relationships; this process is more efficient
+at removing NOy than dry deposition. Some models do not
+include uptake of NOy by aerosols. Only one model
+simulates the formation, transport and deposition of ammo-
+nium nitrate. Some of the scatter in the sensitivities will be
+due to the different sources of meteorology, despite the

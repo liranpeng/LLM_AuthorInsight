@@ -1,0 +1,8 @@
+low-level (surface to 900 hPa) observed cloud enhancements
+(rlnJ > 0.025) observed in the tropical Paciﬁc (particularly J-
+O1D) do not appear in the models. Similarly cloud diminish-
+ments in the upper troposphere do not appear with the mod-
+eled cirrus. A more thorough analysis of the CAFS rlnJ with
+the added deployments should examine if these differences
+are due to 3-D radiative transfer effects, ocean albedo varia-
+tions, or missing cloud types in the models. Perhaps, we will

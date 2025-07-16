@@ -1,0 +1,12 @@
+NOx into the CTM grid, at the rate speciﬁed by the
+emission inventory, as done in previous studies with
+other models.
+2. Fixed OPE. We assume that sub-grid chemistry converts
+each mole of ship NOx to 10 moles of O3 and 1 mole of
+HNO3.
+3. Parametric plume chemistry. This is our best represen-
+tation of sub-grid plume chemistry using the look-up
+tables described above.
+2.2
+Radiative forcing calculations
+The global-mean RF (F) from ship NOx emissions con-

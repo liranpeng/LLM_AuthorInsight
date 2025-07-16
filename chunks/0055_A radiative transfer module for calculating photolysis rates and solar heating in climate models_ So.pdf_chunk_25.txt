@@ -1,0 +1,8 @@
+the 18 bins extend the use of opacity distribution functions
+used to calculate O2 photolysis rates in the Schumann–Runge
+bands (Fang et al., 1974), an equivalent to the correlated-k
+method in the infrared (Lacis and Oinas, 1991). An inherent
+assumption is that any other scatterers and absorbers are uni-
+form across each wavelength bin, justiﬁed by the narrowness
+of the bins and the lack of sharp spectral features in clouds
+and aerosols. Because Cloud-J has been optimized against

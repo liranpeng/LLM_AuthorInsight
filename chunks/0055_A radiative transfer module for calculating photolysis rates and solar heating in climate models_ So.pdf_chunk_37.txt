@@ -1,0 +1,9 @@
+radius (re), single scattering albedo (SSA), ratio of optical to
+geometric cross section (Q), and the ﬁrst eight terms in the
+expansion of the scattering phase function (A0:7) that include
+the asymmetry parameter (g = A1/3).
+For liquid water, we take the refractive index from FOR-
+TRAN codes developed at the University of Wisconsin–
+Madison by M. A. Walters for liquid water (NDXWATER:
+Hale and Querry, 1973; Palmer and Williams, 1974; Down-
+ing and Williams, 1975) and ice water (NDXICE, based on

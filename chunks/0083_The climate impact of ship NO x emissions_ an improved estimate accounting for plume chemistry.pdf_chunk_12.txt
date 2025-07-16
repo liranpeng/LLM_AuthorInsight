@@ -1,0 +1,8 @@
+problem was not caused by emission inventory errors, but
+instead arose from the expedient but inaccurate modeling as-
+sumption that ship exhaust instantly mixes into a model grid
+cell, which is typically hundreds of kilometers wide. Under
+this instant dilution assumption coarse-resolution models by-
+pass the early stages of plume dilution when high NOx con-
+centrations intensify NOx chemical losses and suppress O3
+formation severalfold (Chen et al., 2005; Kim et al., 2009;

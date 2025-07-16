@@ -1,0 +1,6 @@
+atmospheric nitrogen deposition). The estimates are based on NMIP estimates 
+during 1980–2016 including six process-based land biosphere models. Here, 
+we also subtracted the difference between including and not including 
+emissions from secondary forests (that grow back after pasture or cropland 
+abandonment) as part of natural soil emissions based on NMIP estimates. The 
+solid lines represent the ensemble and dashed lines show the minimum and

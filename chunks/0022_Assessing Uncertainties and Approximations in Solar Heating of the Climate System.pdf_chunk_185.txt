@@ -1,0 +1,4 @@
+light and 1.1 W m−2 less heating of the climate system (atmosphere and surface) than do spherical, 
+refracting atmospheres (T1/R23&24). Errors can reach 4 W m−2 (monthly averages) at high latitudes. 
+Spherical solar ray-tracing with refraction can and should be readily implemented with simple ray trac-
+ing code (P2019) and incorporated in standard 2-stream codes (Spurr & Natraj, 2011). There will be

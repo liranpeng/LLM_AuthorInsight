@@ -1,0 +1,8 @@
+Correspondence to: Michael J. Prather (mprather@uci.edu)
+Received: 7 December 2016 – Discussion started: 16 January 2017
+Revised: 25 May 2017 – Accepted: 3 July 2017 – Published: 27 July 2017
+Abstract. An approach for analysis and modeling of global
+atmospheric chemistry is developed for application to mea-
+surements that provide a tropospheric climatology of those
+heterogeneously distributed, reactive species that control the
+loss of methane and the production and loss of ozone.

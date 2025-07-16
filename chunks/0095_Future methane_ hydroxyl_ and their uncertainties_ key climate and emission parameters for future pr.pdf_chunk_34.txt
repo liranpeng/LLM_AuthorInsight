@@ -1,0 +1,8 @@
+additional oceanic emissions of acetone (13 Tg yr−1, Jacob et
+al., 2002) and acetaldehyde (57 Tg yr−1, Millet et al., 2010),
+which are not included in other models. All emissions except
+aviation, biomass burning and lightning occur in the lowest
+model layer and are quickly mixed vertically through bound-
+ary layer convection and turbulence. Biomass burning is as-
+sumed to occur at the surface in the UCI CTM and GEOS-
+Chem. In Oslo CTM3, however, biomass burning emissions

@@ -1,0 +1,10 @@
+panels with part a (J-O1D) and part b (J-NO2).
+3.1
+Modeling the distribution of J values
+The probability distribution of rlnJ for J-O1D (Fig. 4a) and
+J-NO2 (Fig. 4b) shows highly varied patterns across the
+models, but with some consistency. The models and CAFS
+are not exactly a match, but again, there are some encour-
+aging patterns. The peak rlnJ distributions for CAFS will
+be broadened because the real variation in ocean surface
+albedo is not simulated in TUV (see discussion in Sect. 4),

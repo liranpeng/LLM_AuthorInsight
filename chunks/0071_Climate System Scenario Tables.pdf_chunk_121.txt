@@ -1,0 +1,2 @@
+results (Holmes et al., 2013; Voulgarakis et al., 2013). Projections of CH4 lifetimes are harmonized based on PI (1750) and PD (2010) budgets that include uncertainties in lifetimes and abundances. 
+All projected RCP abundances for CH4 and N2O (Tables AII.4.2 to AII.4.3) rescale each of the RCP emissions by a fixed factor equal to the ratio of RCP to AR5 anthropogenic emissions at year 2010

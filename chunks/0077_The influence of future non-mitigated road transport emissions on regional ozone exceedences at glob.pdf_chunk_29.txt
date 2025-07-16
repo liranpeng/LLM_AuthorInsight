@@ -1,0 +1,7 @@
+e.g. the differences in the variability in composition between
+polluted plumes, urban centers and the surrounding suburbs is not
+captured. Moreover, no daily or weekly cycle has been imple-
+mented in the model ensemble for RTE due to the difﬁculty in
+deﬁning the weekly variability due to differences in the cultural
+and religious practices between world regions. Another limitation
+is that these results are sensitive to the horizontal resolution

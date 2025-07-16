@@ -1,0 +1,9 @@
+activities are seen in the mean values displayed in the legend
+(e.g., CPac with 1.29 ppb/d L-O3 versus ATom (i.e., CPac
++ EPac) with 1.54 ppb/d), but the PDs (gray circles versus
+black circles) resemble each other more closely than any of
+the models.
+The ability to test a model’s reactivity statistics with the
+ATom 10 s data is not obvious, but the PDs based on 1◦
+latitude by 200 m altitude cells (the black Xs) is remark-
+ably close to the PDs based on 2 km (horizontal) by 80 m

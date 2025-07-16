@@ -1,0 +1,9 @@
+0.00 0.40 0.80 1.20 1.60 DU
+ 0.51 DU
+Figure 4. Annual-mean O3 column enhancements due to ship NOx
+emissions with parametric plume chemistry. Values are calculated
+from a 5 % emission perturbation and multiplied by 20. Inset num-
+ber gives the global-mean change. Patterns are similar in the instant
+dilution simulation, but with ﬁxed OPE, the O3 enhancements shift
+toward high northern latitudes (Fig. 3).
+the instant dilution assumption and 0.12 DU under ﬁxed OPE

@@ -1,0 +1,9 @@
+tion, we only considered the best quality data, with the high-
+est possible quality ﬂag.
+MODIS L2 resolution of 10km × 10km is approximately
+2 times ﬁner than the model resolution of 0.2◦× 0.2◦over
+the control MEDI02 domain in which the assimilation is per-
+formed. We have no way of treating two separate AOD val-
+ues within a model grid cell at about the same time, and so
+just average all observations in each grid cell that occur on
+the same swath (making so-called super-observations; Daley,

@@ -1,0 +1,32 @@
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+Solar-J (solid-dot thin lines)
+RRTMG-SW (dashed thick lines)
+Heating profiles
+SZA=0 °
+SZA=21 °
+SZA=62 °
+SZA=84 °
+(1.44, 0.37)
+(1.04, 0.26)
+(3.95, 1.02)
+(4.92, 1.27)
+(b)
+(a)
+-1
+Figure 4. (a) Marine stratus cloud proﬁle in terms of liquid-water path (LWP, g m−2) and effective radius (re, µm). The optical depth and

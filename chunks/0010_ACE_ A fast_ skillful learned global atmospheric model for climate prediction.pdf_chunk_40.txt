@@ -1,0 +1,6 @@
+medium-range global weather forecasting with 3d neural networks. Nature, 619(7970):533–538,
+July 2023. doi:10.1038/s41586-023-06185-3.
+[3] Boris Bonev, Thorsten Kurth, Christian Hundt, Jaideep Pathak, Maximilian Baust, Karthik
+Kashinath, and Anima Anandkumar. Spherical fourier neural operators: Learning stable
+dynamics on the sphere. Proceedings of the 40th International Conference on Machine Learning
+(ICML), 2023. doi:10.48550/ARXIV.2306.03838.

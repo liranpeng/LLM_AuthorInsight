@@ -1,0 +1,9 @@
+D15S09, doi:10.1029/2004JD005100, 2005.
+Sander, S. P., Friedl, R. R., Abbatt, J. P. D., Barker, J. R.,
+Burkholder, J. B., Golden, D. M., Kolb, C. E., Kurylo, M. J.,
+Moortgat, G. K., Wine, P. H., Huie, R. E., and Orkin, V. L.:
+Chemical Kinetics and Photochemical Data for Use in Atmo-
+spheric Studies, Evaluation No. 17, Jet Propulsion Laboratory,
+Pasadena, CA, 2011.
+Slobodda, J., Hünerbein, A., Lindstrot, R., Preusker, R., Ebell, K.,
+and Fischer, J.: Multichannel analysis of correlation length of

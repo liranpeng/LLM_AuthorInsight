@@ -1,0 +1,18 @@
+in Fujimori et al. (2017), but with “Strong” levels of air qual-
+Geosci. Model Dev., 10, 585–607, 2017
+www.geosci-model-dev.net/10/585/2017/
+W. J. Collins et al.: AerChemMIP: quantifying the effects of chemistry and aerosols in CMIP6
+593
+Table 3. Qualitative framework for pollution control in the SSPs, based on Rao et al. (2017) Table 2.
+Policy
+strength
+Policy targets
+Technological innovation
+High-income countries
+Medium- and low-income
+countries
+Strong
+Aim for much lower
+pollutant
+levels
+than

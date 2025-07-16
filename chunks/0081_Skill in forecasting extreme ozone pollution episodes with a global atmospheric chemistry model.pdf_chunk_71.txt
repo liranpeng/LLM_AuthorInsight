@@ -1,0 +1,10 @@
+ﬁed monthly, based on the Quantifying the Climate Impact
+of Global and European Transport Systems (QUANTIFY)
+inventory (Hoor et al., 2009), and do not account for daily,
+weekly, or monthly cycles. Because the surface O3 simula-
+tion has not been optimized, the CTM performance described
+below may be similar to chemistry–climate models that are
+used for present to future scenarios.
+3.1
+Evaluating the central tendency of O3 in models
+Many global chemistry models, including the UCI CTM, pre-

@@ -1,0 +1,9 @@
+3.85 µm, which include a total of 21 sub-bins.  The edge of the IR transition is shifted 
+from 778 to 700 nm and cross section in bin 18 are adjusted.  Only water vapor is 
+included in the IR bands.  (Chou, 1992; Grant & Grossman, 1998).  
+SJ/hrv 
+SJ with high-resolution-visible version (SJ/hrv), putting 18 bands in the VIS region. 
+SJ/2S 
+SJ with 2-stream RT solver. 
+SJ/66b 
+SJ with a very high wavelength resolution in the IR used to resolve ice- and liquid-water

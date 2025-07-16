@@ -1,0 +1,8 @@
+atmospheric heterogeneity of species composition. For ex-
+ample, Fig. 1a presents a single-day snapshot of the column
+loss of methane as simulated by the UC Irvine chemistry-
+transport model (CTM) at a resolution of 1◦in latitude and
+longitude. Even column averages over 24 h show a ﬁlamen-
+tary structure with most of the tropospheric loss of methane
+occurring in sharp synoptic patterns. These chemical patterns
+have similarities with the atmospheric rivers of column wa-

@@ -1,0 +1,11 @@
+chemistry. Three of the models do not include stratospheric
+chemistry reactions (TM4, p-TOMCAT, LMDzINCA). The
+number of species ranged from 42 (TM4) to 125 (LMDz-
+INCA). LMDzINCA and TM4 used their own biogenic and
+oceanic emissions, respectively (see below).
+3.1
+TM4
+The KNMI chemistry transport model TM4 (van Noije et al.,
+2006a,b) is driven by ECMWF analysed meteorology and
+contains a chemistry scheme derived from the Carbon Bond
+Mechanism reaction scheme (CBM4) (Houweling et al.,

@@ -1,0 +1,8 @@
+inglessly small contributions from distant sites. We choose
+L = 500 km based on the typical scale of synoptic meteorol-
+ogy that inﬂuences surface O3 and test other choices below.
+We also reduce the weights of clustered stations, which tend
+to lie in urban areas, to avoid excessive inﬂuence of the clus-
+ter on surrounding rural regions and to avoid the shielding
+effect whereby an observation site screens all those that are
+located immediately behind it (Falke, 1999). The weight of

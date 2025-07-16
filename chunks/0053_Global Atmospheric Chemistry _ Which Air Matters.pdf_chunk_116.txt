@@ -1,0 +1,9 @@
+productive to make a more detailed comparison that identi-
+ﬁes the location and other key species controlling these shifts
+in reactivity.
+These new diagnostics do not instantly identify the cause
+of model differences, but they do add a new dimension.
+For example, if we seek to understand why model D is
+different, we can look at global budgets: both models A
+and D have P-O3 and L-O3 tropospheric means between
+2.5 and 3.5 ppb day−1, whereas the other four models have

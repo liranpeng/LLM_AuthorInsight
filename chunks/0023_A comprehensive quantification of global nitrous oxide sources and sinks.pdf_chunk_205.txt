@@ -1,0 +1,6 @@
+under permanent meadows and pasture, due to manure nitrogen deposition 
+(left on pasture) based on EDGAR v4.3.2, FAOSTAT and GAINS estimates. c, 
+Emission from manure management based on FAOSTAT, GAINS and EDGAR 
+v4.3.2. d, Aquaculture N2O emission based on a nutrient budget model30, ref. 31 
+and ref. 62; the solid line represents the ‘best estimate’ that is the product of 
+emission factor (1.8%) and nitrogen waste from aquaculture provided by the

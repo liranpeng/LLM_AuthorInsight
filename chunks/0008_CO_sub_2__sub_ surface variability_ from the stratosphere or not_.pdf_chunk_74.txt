@@ -1,0 +1,8 @@
+and CFC-11, J. Geophys. Res.-Atmos., 126, e2020JD033979,
+https://doi.org/10.1029/2020JD033979, 2021.
+Tang, Q., Prather, M. J., Hsu, J., Ruiz, D. J., Cameron-Smith,
+P. J., Xie, S., and Golaz, J.-C.: Evaluation of the interac-
+tive stratospheric ozone (O3v2) module in the E3SM version
+1 Earth system model, Geosci. Model Dev., 14, 1219–1236,
+https://doi.org/10.5194/gmd-14-1219-2021, 2021.
+Trenberth, K. and National Center for Atmospheric Research

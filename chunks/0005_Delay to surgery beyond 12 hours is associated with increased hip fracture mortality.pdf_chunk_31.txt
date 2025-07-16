@@ -1,0 +1,23 @@
+2,450/4,405 (56%)
+629/1,033 (61%)
+790/1,067 (74%)
+Thirty-day mortality
+0.012c
+ Alive
+665/693 (96%)
+3,270/3,461 (94%)
+4,110/4,405 (93%)
+959/1,033 (93%)
+993/1,067 (93%)
+ Dead
+28/693 (4.0%)
+191/3,461 (5.5%)
+295/4,405 (6.7%)
+74/1,033 (7.2%)
+74/1,067 (6.9%)
+Fig. 3   Odds RatioPlot for Delay 
+from Time of Fall to Surgery
+2978
+	
+European Journal of Orthopaedic Surgery & Traumatology (2024) 34:2973–2980
+period of time, suggesting higher functional capacity or min-

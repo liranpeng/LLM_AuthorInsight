@@ -1,0 +1,8 @@
+emissions, and lightning NOx emissions – explain 90 % of
+the interannual variation in τCH4×OH in all 3 CTMs over the
+simulated period 1997–2009. Even though the GEOS-Chem
+sensitivity parameters were derived from 2◦× 2.5◦simula-
+tions driven by GEOS-5, the 5-parameter model performs
+equally well compared to the 4◦× 5◦GEOS-Chem simula-
+tion driven by MERRA. The sensitivity parameters are thus
+robust across changes in model resolution and meteorology.

@@ -1,0 +1,8 @@
+each transport sector we normalised the additional annual
+mean ozone burden of each sector to the respective number
+of NOx molecules emitted. As evident from Table 6 road
+and ship emissions have similar efﬁciencies to perturb ozone.
+However, the NOx emissions from air trafﬁc are almost three
+times as efﬁcient in producing ozone as those from ships.
+Since these emissions take place in the UTLS region the life-
+time of the reservoir species HNO3 and PAN are much longer

@@ -1,0 +1,9 @@
+van Aardenne, J., van Velthoven, P., and Sausen, R.: The im-
+pact of trafﬁc emissions on atmospheric ozone and OH: re-
+sults from QUANTIFY, Atmos. Chem. Phys., 9, 3113–3136,
+doi:10.5194/acp-9-3113-2009, 2009.
+Hsu, J., Prather, M. J., and Wild, O.: Diagnosing the stratosphere-to-
+troposphere ﬂux of ozone in a chemistry transport model, J. Geo-
+phys. Res.-Atmos., 110, D19305, doi:10.1029/2005jd006045,
+2005.
+Huszar, P., Cariolle, D., Paoli, R., Halenka, T., Belda, M., Schlager,

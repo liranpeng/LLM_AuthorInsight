@@ -1,0 +1,8 @@
+tions, especially in areas where exceedances are likely to oc-
+cur. Fiore et al. (2003) accounts for the clustering of urban
+stations by ﬁrst averaging the station observations on a ﬁner
+grid (0.5◦× 0.5◦) and then averages those cells to match the
+coarser model grid. In any case, Diem (2003) notes that al-
+most all ozone-mapping methods have major problems and
+that this is neither a simple nor a solved task. The task here
+is very different from that of interpolating spatial extremes

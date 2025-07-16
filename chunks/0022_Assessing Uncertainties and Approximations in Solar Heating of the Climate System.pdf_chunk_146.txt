@@ -1,0 +1,5 @@
+oping an RT solution that works efficiently in climate models, but a greater uncertainty lies the specification 
+of cloud structures. Fortunately, with modern observing systems and cloud resolving models, this problem 
+is becoming less of an unknown (H. W. Barker & Li, 2019; B2015).
+6.1.  One-Dimensional ICAs
+When grid-cell layers specify cloud fraction (presumably in terms of areal coverage), explicit information

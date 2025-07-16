@@ -1,0 +1,8 @@
+The Modeling Data Stream (MDS) developed for ATom
+(G2023 plus this publication) relies on gap-ﬁlling for spo-
+radic measurements or missing data and is essential if reac-
+tivities for the 10 s air parcels are to be calculated without
+losing most of the parcels. The MDS concept was a rea-
+sonable and necessary step for the Reactivity Data Stream
+(RDS); however, as we have seen with the successive MDS
+versions, there is a painful learning curve for what to do

@@ -1,0 +1,9 @@
+adjacent areas.
+Methods
+Consider a specific region on Earth, mapped onto a two-dimensional
+grid. Our input \({\bf{y}}\in {{\mathbb{R}}}^{{c}
+_{{\rm{in}}}\times m\times n}\) is low-resolution meteorological
+data taken from a 25 km global reanalysis, or weather forecasting
+model (e.g., FourCastNet2,4,5, or the Global Forecast System
+(GFS)46). Here, cin represents the number of input channels and
+m, n represent the dimensions of a 2D subset of the globe. Our

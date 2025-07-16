@@ -1,0 +1,8 @@
+on OH in the upper troposphere of the northern extratropics
+during summer. Despite the fact that the absolute perturba-
+tion is about a factor of 2 lower during winter, the relative
+perturbation exceeds 0.6% (or 12% scaled). The larger rela-
+tive change during northern winter is due to the strong sea-
+sonal variation of the background latitudinal OH distribution.
+During winter the extratropical zonal mean OH at 300 hPa is
+less than 5·103 molecules/cm3, whereas in summer the mean

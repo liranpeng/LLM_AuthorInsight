@@ -1,0 +1,8 @@
+port scheme development is the solid-body advection test
+of the widely used shallow-water test case (cf. Williamson
+et al., 1992). Speciﬁc guidelines for the computation of er-
+ror norms and plotting (contour interval and projection) are
+given in Williamson et al. (1992). However, resolution and
+other transport model settings are not speciﬁed. In the lit-
+erature modelers do not always chose the same resolution
+and model settings, which can make it difﬁcult to compare

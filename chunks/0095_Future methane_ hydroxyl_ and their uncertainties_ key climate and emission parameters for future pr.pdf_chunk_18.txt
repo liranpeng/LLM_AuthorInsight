@@ -1,0 +1,10 @@
+dation between 200 hPa and the tropopause is 1.5 % of tropo-
+spheric methane loss, or less. We calculate the total methane
+lifetime, τCH4, using τCH4×OH values from this work and
+recently estimated lifetimes for other methane sinks: tro-
+pospheric chlorine (200 yr), stratosphere (120 yr), and soil
+(150 yr) (Prather et al., 2012).
+2.1
+Oslo CTM3
+Oslo CTM3 is a stratospheric and tropospheric CTM, re-
+cently described by Søvde et al. (2012). Transport is driven

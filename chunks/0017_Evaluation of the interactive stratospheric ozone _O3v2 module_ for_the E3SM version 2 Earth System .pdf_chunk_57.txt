@@ -1,0 +1,8 @@
+range than at 20 hPa). Overall the models match the observed
+patterns, including the seasonal upward shift of contours in
+the winter (60◦S in June and 60◦N in October). This test
+emphasizes the region where photochemistry is active (sun-
+lit latitudes) and ozone is in a quasi-steady state and little
+inﬂuenced by transport. Since both UCI and EAM are using
+the same chemistry module, they should give nearly identical
+results in this test. The chemistry depends somewhat on tem-

@@ -1,0 +1,8 @@
+neutral with regard to jurisdictional claims in published maps and
+institutional afﬁliations.
+Acknowledgements. The authors are indebted to the entire
+ATom Science Team including the managers, pilots and crew, who
+made this mission possible. Many other scientists not on the author
+list enabled the measurements and model results used here. The au-
+thors thank Xin Zhu for maintaining and updating the UCI chem-
+istry transport model used here. We are grateful for the efforts of

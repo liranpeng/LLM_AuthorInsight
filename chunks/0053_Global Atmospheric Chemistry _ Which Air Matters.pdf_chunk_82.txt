@@ -1,0 +1,8 @@
+with latitude boundaries at 60–40◦S, 40–20◦S, 20◦S–0◦, 0–
+20◦N, 20–40◦N, and 40–60◦N (each region is color keyed
+in Fig. 3); longitude, in a single broad domain, 150–210◦E.
+Vertical proﬁles (200–1000 hPa) on the models’ native grid
+are shown for the six domains as different colors. The stan-
+dard C-runs with all transport and emissions included are
+solid lines, while the ATom-like A-runs are dashed.
+For L-CH4, the only general agreement is the lesser im-

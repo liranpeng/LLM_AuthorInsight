@@ -1,0 +1,8 @@
+four grid cells, and ﬁlled circles denote the AQX events at
+each site. For comparison with the UCI CTM hindcast, we
+take the 20 worst days in years 2005–2006. Thus, over the
+2 years, both CTM and observations have 20 AQX events
+in each grid cell. This deﬁnition of AQX highlights times at
+each grid cell when O3 pollution is at its highest, generally
+when the effect of nearby precursor emissions is exacerbated
+by meteorology. Indeed, Lei et al. (2012) highlight the need

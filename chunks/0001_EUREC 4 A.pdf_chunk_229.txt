@@ -1,0 +1,8 @@
+of 10 380 L d−1. For our estimates we adopt the 8000 L d−1
+burn rate for all the ships and estimate 5 d of ship ferry time,
+so for four ships each with 30 d−1 of ship time we end up
+with a total emission of 3000 t of CO2, which is about twice
+the direct emissions from the research aircraft. The ship num-
+bers are not offset by the reduced personal emissions of those
+on the ship, i.e., who do not need hotels, or rental cars, or the
+operation of their home labs, and often have reduced travel,

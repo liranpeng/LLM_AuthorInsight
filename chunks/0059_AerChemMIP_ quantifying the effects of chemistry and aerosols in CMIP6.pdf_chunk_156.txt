@@ -1,0 +1,10 @@
+putational burden we propose to invoke this call during the
+DECK historical simulation and the piClim... experiments.
+In all cases, separate diagnostics for shortwave and longwave
+changes are applied.
+4.3
+Feedbacks
+Feedback processes will change natural emissions of reac-
+tive gases and aerosols. The short-lived nature of dust, sea
+salt, biogenic gases and aerosols as well as reactive nitrogen
+components and ozone will exert a rapid feedback loop if

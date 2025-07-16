@@ -1,0 +1,8 @@
+and analysis will provide a new approach for understanding
+which air matters.
+Data availability. The netcdf ﬁles of the model output that is an-
+alyzed here are posted with the NASA ATom mission measure-
+ments. The publicly available ATom data can be found at https:
+//espoarchive.nasa.gov/archive/browse/atom. The .nc ﬁles are lo-
+cated at https://espoarchive.nasa.gov/archive/browse/atom/Model.
+A DOI has just been registered for the ATom data includ-

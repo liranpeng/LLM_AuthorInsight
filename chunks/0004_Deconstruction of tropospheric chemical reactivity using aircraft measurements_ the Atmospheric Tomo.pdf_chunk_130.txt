@@ -1,0 +1,9 @@
+and −0.311 for dln[P-O3]/dln[O3].
+Figure 31. Mean altitude proﬁle of L-CH4 (ppb d−1) over the Pa-
+ciﬁc and Atlantic basins (53◦S–60◦N) for ATom-1234.
+RMSE is 31 ppt. Figure 50 shows the oceanic NOxﬁt points
+(red) and all others (blue) plotted against NOx. The new
+8400 NOxﬁt parcels are labeled with ﬂag = 2 and eliminate
+most of the long-gap parcels and all of the missing ﬂight
+parcels. The G2023 Table S4 percentage of ﬂags = 0-1-
+Figure 32. Mean altitude proﬁle of L-CO (ppb d−1) over the Paciﬁc

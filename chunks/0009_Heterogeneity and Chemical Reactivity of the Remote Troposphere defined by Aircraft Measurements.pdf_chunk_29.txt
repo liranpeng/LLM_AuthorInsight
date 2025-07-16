@@ -1,0 +1,8 @@
+aged air parcels. We calculate these rates with 3D chemical
+models that include variations in clouds and photolysis and
+then assemble the statistical patterns describing the hetero-
+geneity (i.e., high spatial variability) of these rates and the
+underlying patterns of reactive gases.
+Tropospheric O3 and CH4 contribute to climate warm-
+ing and global air pollution (Stocker et al., 2013). Their
+abundances in the troposphere are controlled largely by tro-

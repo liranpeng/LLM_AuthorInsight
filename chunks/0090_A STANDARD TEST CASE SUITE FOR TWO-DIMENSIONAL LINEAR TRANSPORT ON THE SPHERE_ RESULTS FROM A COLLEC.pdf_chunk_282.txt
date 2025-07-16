@@ -1,0 +1,15 @@
+number of cells can be computed from
+nc = 20n2 4k.
+The average resolution at the Equator was computed as
+follows:
+1λave = 360◦1x
+2π re
+,
+where 1x is the average distance between neighboring cell
+centers and re is the earth radius. In Table A2 the applied
+grids are listed together with their effective resolutions and
+applied time steps. The wind vector used to deﬁne the swept
+ﬂux areas is computed by evaluating the analytical wind vec-
+tor at the center of the cell side at time n + 1/2.
+A10
+LPM

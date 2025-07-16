@@ -1,0 +1,66 @@
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+20
+25
+30
+35
+40
+45
+50
+55
+(b)
+Solar-J minus RRTMG-SW (stratosphere)
+K day-1
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+Vertical height (km)
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+(c)
+Clear-sky heating in the troposphere 
+K day-1
+-0.4
+-0.3
+-0.2
+-0.1
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+2
+4
+6
+8
+10
+12
+14
+(d)
+Solar-J minus RRTMG-SW (troposphere)
+SZA=0 °
+SZA=21 °
+SZA=62 °
+SZA=84 °
+Figure 2. Aerosol-free cloudless atmospheric heating proﬁles of Solar-J (solid lines) and RRTMG-SW (dashed lines) and the difference,

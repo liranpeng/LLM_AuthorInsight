@@ -1,0 +1,13 @@
+combined stratosphere/troposphere model with ozonesonde data, Atmos. Chem. Phys., 8, 2365–2385.
+Acknowledgments
+This research was supported by the
+NASA Modeling, Analysis, and Pre-
+diction Program (NNX13AL12G),
+the Oﬃce of Science (BER) of
+the U.S. Department of Energy
+(DE-SC0007021), and the Kavli Chair in
+Earth System Science. The diagnostics
+of O3 ﬂux presented in this study are
+publicly available at the anonymous
+ftp site halo.ess.uci.edu under /public/
+juno/2014GL061994/.

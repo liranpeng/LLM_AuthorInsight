@@ -1,0 +1,6 @@
+frameworks [11]. It consists of three core stages: (1) understand the
+behaviour, (2) understand the intervention options and (3) understand
+the content and implementation options. After identifying the behavioural
+problem, phases two and three of the BCW utilise a qualitative approach,
+consisting of interviews and workshops, to gain deeper insight into the
+nature of the behavioural problem and develop effective solutions with

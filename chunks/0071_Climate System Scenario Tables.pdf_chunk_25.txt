@@ -1,0 +1,11 @@
+Table AII.2.21: Anthropogenic OC aerosols emissions (Tg yr–1)
+Table AII.2.22: Anthropogenic BC aerosols emissions (Tg yr–1)
+Table AII.2.23: Anthropogenic nitrogen fixation (Tg-N yr–1)
+AII.3: Natural Emissions
+Table AII.3.1a: Net land (natural and land use) CO2 emissions (PgC 
+yr–1)
+Table AII.3.1b: Net ocean CO2 emissions (PgC yr–1)
+AII.4: Abundances of the Well-Mixed Greenhouse Gases
+Table AII.4.1: CO2 abundance (ppm)
+Table AII.4.2: CH­4 abundance (ppb)
+Table AII.4.3: N2O abundance (ppb)

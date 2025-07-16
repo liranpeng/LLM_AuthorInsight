@@ -1,0 +1,4 @@
+are due in large part to 2-stream errors (−0.7, −1.7, +2.4 W m−2) (T1R13) noted in Section 3, but clear-sky 
+differences (T1/R4) make the comparison worse. It is encouraging that the profiles of heating rates in Fig-
+ures 5b and 5c show that McICA-QCA differences are less than the errors we can associate with 2-stream 
+RT. The averaged cloud (Figure 4b) does produce different mean heating rate contours (solid lines) than

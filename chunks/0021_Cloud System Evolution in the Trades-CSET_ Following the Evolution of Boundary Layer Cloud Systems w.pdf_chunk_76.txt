@@ -1,0 +1,5 @@
+Sacramento the next day. An example of a trajectory swarm forecast is shown in Fig. 6 with 
+trajectories overlain on the GOES visible satellite imagery with the trajectory starting points 
+for a flight planned for July 27. These trajectories show the starting points (stars) and the 48-
+hour end points (squares) for the 28 trajectories. During the mission planning meetings, the 
+science team examined the trajectory swarms and estimated which of the endpoints of these

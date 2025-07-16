@@ -1,0 +1,12 @@
+dicates that heterogeneous chemical reactions are likely not
+important in the reactivity statistics here, but a more thor-
+ough analysis considering the aerosol composition and real-
+istic gammas is needed.
+6
+Chemical feedbacks
+6.1
+Timescale for O3 perturbations
+The sensitivities calculated for the parcels in ATom-1 allow
+us to estimate the timescale for an O3 perturbation. Most
+modeling studies make the simplistic assumption that the P-
+O3 and L-O3 derived from the rates deﬁned above are the

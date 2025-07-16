@@ -1,0 +1,4 @@
+5.	 Resolving IR cloud absorption, level 2. The infrared wavelength bands (#19 through #27 in RRTM) 
+need to be reformulated to more accurately account for the absorption spectrum of liquid and ice water. 
+The error is great in terms of atmospheric absorption (global average of ∼2 W m−2 excess heating) and 
+cloud top heating (25% too great), likely affecting the life cycle of clouds. The LZL approach of doing a

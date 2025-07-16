@@ -1,0 +1,10 @@
+uncertainties. To estimate the uncertainties in the GWP100 value
+to 2.8, we have performed a standard error propagation using
+model ensemble values and published literature values (as
+detailed in Methods and Table 1). The largest uncertainty in
+the estimate of GWP100 of hydrogen is the soil uptake, which is
+also the largest term in the hydrogen budget, accounting for as
+much as 80% of the loss of hydrogen4,5. If all other factors were
+known with full certainty,
+it alone would contribute
+an

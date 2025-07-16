@@ -1,0 +1,9 @@
+doi:10.1175/JCLI3774.1, 2006.
+Archibald, A. T., Cooke, M. C., Utembe, S. R., Shallcross, D.
+E., Derwent, R. G., and Jenkin, M. E.: Impacts of mechanistic
+changes on HOx formation and recycling in the oxidation of iso-
+prene, Atmos. Chem. Phys., 10, 8097–8118, doi:10.5194/acp-10-
+8097-2010, 2010.
+Arneth, A., Harrison, S. P., Zaehle, S., Tsigaridis, K., Menon, S.,
+Bartlein, P. J., Feichter, J., Korhola, A., Kulmala, M., O’Donnell,
+D., Schurgers, G., Sorvari, S., and Vesala, T.: Terrestrial bio-

@@ -1,0 +1,9 @@
+nar water vapor content
+Aethalometer
+Aethalometer AE33 Magee Scientiﬁc measuring aerosol attenuation at seven wavelengths (370, 470,
+520, 590, 660, 880, and 950 nm) and used to infer black carbon concentrations
+Particle sizer
+NanoScan TSI Inc. measuring particle number concentrations from 10 to 400 nm
+Particle counter
+GRIMM 1.107 optical particle counter measuring number concentrations from 0.25 to 32 µm
+Volume sampler

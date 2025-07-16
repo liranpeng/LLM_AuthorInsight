@@ -1,0 +1,9 @@
+Contour plots were shown for all schemes to compare
+schemes easily and visually. Note that the same contour in-
+terval and coloring is used for all schemes! This test exposes
+any non-shape-preservation in ﬁlters intended to enforce
+shape preservation and how the inﬁnite gradients become ﬁ-
+nite. It is also directly visible how diffusive the scheme is.
+4.5
+Ability of the transport scheme to preserve
+pre-existing functional relations between tracers

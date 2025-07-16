@@ -1,0 +1,8 @@
+L-CO and even less so for L-O3. (iii) CO as expected con-
+trols OH and L-CH4. (iv) CH4 is like CO but plays a bigger
+role in P-O3 through HOx production via HCHO. (v) HOOH
+plays a modest role (S ∼0.06) in OH and thus L-CH4 and
+L-CO. (vi) CH3OOH plays a surprisingly large role in P-O3
+because of the additional HOx release through HCHO. How-
+ever, (vii) the initial HCHO plays a small role in P-O3 be-
+cause it is reset quickly by the chemistry in response to the

@@ -1,0 +1,9 @@
+aerosols (SOA) and nitrate. Five of the models simulated
+ozone changes over the period. The same ofﬂine radia-
+tive transfer code used for calculating the radiative forcing
+for OsloCTM2 was adopted for the atmospheric abundance
+changes from the EMEP model.
+Differences in atmospheric abundances can be large due
+to different meteorological data sets (up to more than 50 %
+in global mean aerosol burden) (Liu et al., 2007), and sur-
+www.atmos-chem-phys.net/17/2709/2017/

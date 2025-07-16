@@ -1,0 +1,4 @@
+shows the slope and uncertainty in the legend; see the text. (b) N2O global burden (TgN) based on marine surface observations. (c) N2O
+lifetime derived from the burden divided by loss rate. Production of NO (TgN yr−1) from N2O loss. (e) Stratospheric photolysis rates, J-N2O
+(/s), at the standard MLS V5 T pressure levels (see legend) and averaged over 30◦S–30◦N. (f) N2O abundance (ppb) at the standard V5
+N2O pressure levels (see legend) and averaged over 30◦S–30◦N.

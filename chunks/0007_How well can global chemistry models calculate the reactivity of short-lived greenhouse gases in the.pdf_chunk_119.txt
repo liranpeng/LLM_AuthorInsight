@@ -1,0 +1,7 @@
+ature, trace species, and ozone in chemistry-climate model simu-
+lations of the recent past, J. Geophys. Res.-Atmos., 111, D22308,
+https://doi.org/10.1029/2006jd007327, 2006.
+Lauritzen, P. H., Ullrich, P. A., Jablonowski, C., Bosler, P. A., Cal-
+houn, D., Conley, A. J., Enomoto, T., Dong, L., Dubey, S., Guba,
+O., Hansen, A. B., Kaas, E., Kent, J., Lamarque, J.-F., Prather,
+M. J., Reinert, D., Shashkin, V. V., Skamarock, W. C., Sørensen,

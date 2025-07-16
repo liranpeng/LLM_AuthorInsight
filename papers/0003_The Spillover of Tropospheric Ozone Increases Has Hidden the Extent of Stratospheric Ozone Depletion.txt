@@ -1,0 +1,4 @@
+Title: The Spillover of Tropospheric Ozone Increases Has Hidden the Extent of Stratospheric Ozone Depletion by Halogens
+
+Abstract:
+Stratospheric ozone depletion from halocarbons is partly countered by pollution‐driven increases in tropospheric ozone, with transport connecting the two. While recognizing this connection, the ozone assessment's evaluation of observations and processes have often split the chapters at the tropopause boundary. Using a chemistry‐transport model we find that air‐pollution ozone enhancements in the troposphere spill over into the stratosphere at significant rates, that is, 13%–34% of the excess tropospheric burden appears in the lowermost extra‐tropical stratosphere. As we track the anticipated recovery of the observed ozone depletion, we should recognize that two tenths of that recovery may come from the transport of increasing tropospheric ozone into the stratosphere.

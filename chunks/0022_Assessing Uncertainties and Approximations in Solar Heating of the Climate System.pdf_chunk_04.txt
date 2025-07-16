@@ -1,0 +1,4 @@
+model (CTM) and used to integrate climate-relevant heating rates using the European Center's Integrated 
+Abstract  In calculating solar radiation, climate models make many simplifications, in part to reduce 
+computational cost and enable climate modeling, and in part from lack of understanding of critical 
+atmospheric information. Whether known errors or unknown errors, the community's concern is how

@@ -1,0 +1,8 @@
+different depth (ADCP), and surface water sea salt content and water temperature (thermosalinograph)
+Raman lidar
+Lidar providing vertical proﬁles of attenuated backscatter at 355, 532, and 1064 nm, volume depolar-
+ization ratio at 532 nm, particle linear depolarization ratio, and vertical proﬁles of water vapor mixing
+ratio
+Cloud radar
+94 GHz cloud radar operating on a balanced platform measuring radar reﬂectivity , linear depolariza-
+tion ratio, Doppler velocity, and spectral width

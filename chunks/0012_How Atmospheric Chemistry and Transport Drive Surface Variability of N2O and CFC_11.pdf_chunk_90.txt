@@ -1,0 +1,4 @@
+multiply models and observations by 320 ppb. The synchronization point for each QBO cycle is chosen as 
+the month when the zonal wind at 40 hPa shifts from westerly (negative) to easterly (positive) based on the 
+Singapore sonde data (Newman, 2020). If we extend these graphs beyond ±14 months, the coherent signal 
+of the QBO is lost. Since the NOAA ESRL data begins in 2001 and LMDz5 extends only to 2016, this work

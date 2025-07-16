@@ -1,0 +1,9 @@
+have a much smaller range than in the Paciﬁc and Atlantic basin plots. Troposphere-only parcels are shown, with the stratosphere deﬁned as
+H2O < 30 ppm, O3 > 80 ppb, and CO < 120 ppb. See Fig. 6.
+for the lifetime of O3 perturbations is discussed with chemi-
+cal feedbacks in Sect. 6.
+4.2
+Second-order terms
+Considering that most chemical reactions are of the forms
+R = k(T )XY or k(T )X2, we should evaluate the second-
+order terms in the Taylor expansion. We ﬁrst tested the

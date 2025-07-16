@@ -1,0 +1,8 @@
+Fiore, A. M., Horowitz, L. W., Mao, J., Murray, L. T., Shin-
+dell, D. T., and Wofsy, S. C.: Global atmospheric chemistry
+– which air matters, Atmos. Chem. Phys., 17, 9081–9102,
+https://doi.org/10.5194/acp-17-9081-2017, 2017.
+Prather, M. J., Flynn, C. M., Zhu, X., Steenrod, S. D., Strode, S.
+A., Fiore, A. M., Correa, G., Murray, L. T., and Lamarque, J.-F.:
+How well can global chemistry models calculate the reactivity of
+short-lived greenhouse gases in the remote troposphere, knowing

@@ -1,0 +1,48 @@
+F0AM used chemical mechanism MCMv331 plus J-HNO4 plus O1D) + CH4. For the global models, see P2017, P2017, and H2018. n/a – not applicable.
+Table 2. Reactivity statistics for the three large domains (global, Paciﬁc, and Atlantic).
+Models using MDS-0
+MDS-2b
+Value
+Region
+F0AM
+GC
+GISS
+GMI
+NCAR
+UCI
+U15
+U97
+UCIZ*
+Global
+2.12
+2.12
+2.57
+2.08
+2.22
+2.38
+2.37
+2.37
+1.23
+P-O3, mean, ppb d−1
+Paciﬁc
+1.96
+2.00
+1.99
+1.96
+2.01
+2.17
+2.13
+2.15
+1.11
+Atlantic
+1.96
+2.12
+3.49
+2.20
+2.44
+2.48
+2.48
+2.49
+1.25
+Global
+1.81

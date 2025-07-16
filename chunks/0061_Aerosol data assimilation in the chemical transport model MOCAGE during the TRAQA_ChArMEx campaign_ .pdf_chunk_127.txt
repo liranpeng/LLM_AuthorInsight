@@ -1,0 +1,9 @@
+tion increases aerosol mixing ratios in lower layers, and de-
+creases them in higher layers. We see a similar effect around
+1 July in the northern part of the basin, where the proﬁle
+shape changes due to the altitude varying wind direction and
+velocity and thus the associated pronounced air mass mixing.
+www.atmos-meas-tech.net/9/5535/2016/
+Atmos. Meas. Tech., 9, 5535–5554, 2016
+5548
+B. Siˇc et al.: Aerosol data assimilation in the CTM MOCAGE

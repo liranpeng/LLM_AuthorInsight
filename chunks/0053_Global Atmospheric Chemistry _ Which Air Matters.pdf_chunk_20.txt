@@ -1,0 +1,8 @@
+Fiore et al., 2012; Barnes and Fiore, 2013; Turner et al.,
+2013; Fang et al., 2013; Schnell et al., 2015), but CCMs de-
+scribe the chemical climate and not the hindcast of speciﬁc
+chemical measurements. Most large CCM groups have par-
+allel CTM versions, but these forced-meteorology versions
+will likely have different clouds, convection, and transport,
+changing the chemical climatology. Aircraft campaigns of-
+ten use photochemical box models to provide an observa-

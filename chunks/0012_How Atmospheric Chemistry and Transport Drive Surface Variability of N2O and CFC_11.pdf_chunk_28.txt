@@ -1,0 +1,4 @@
+stratosphere (∼10 hPa) and sensitivity tests show the effect of the drift at lower profiles on calculated N2O 
+loss is small: +1% in N2O at 68 hPa increases total loss by +0.020%; and +1% at 46 hPa increases loss by 
++0.036%. Thus, a drift at 68 hPa of −6.75% from 2009 to 2018 would decrease the loss by 0.14% (0.018 TgN/
+yr). The drift at 46 hPa over the period is much smaller, −0.25%, and thus the effect on N2O loss is negligible

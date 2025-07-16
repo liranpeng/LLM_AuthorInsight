@@ -1,0 +1,8 @@
+Tie, X., Madronich, S., Walters, S., Zhang, R., Rasch, P.,
+and Collins, W.: Effect of clouds on photolysis and oxi-
+dants in the troposphere, J. Geophys. Res.-Atmos., 108, 4642,
+https://doi.org/10.1029/2003JD003659, 2003.
+Tilmes, S., Mills, M. J., Niemeier, U., Schmidt, H., Robock, A.,
+Kravitz, B., Lamarque, J.-F., Pitari, G., and English, J. M.: A
+new Geoengineering Model Intercomparison Project (GeoMIP)
+experiment designed for climate and chemistry models, Geosci.

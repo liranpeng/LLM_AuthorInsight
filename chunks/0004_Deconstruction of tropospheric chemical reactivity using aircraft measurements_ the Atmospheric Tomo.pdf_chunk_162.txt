@@ -1,0 +1,9 @@
+100+ ppt) not typical of convective high-altitude NOx. These
+NOx values were directly measured and are not affected by
+the v2b–v3 shift. The anticorrelation with HOOH (Fig. 60) is
+surprising: high levels of HOOH surround the separate high-
+NOx air mass. Given the overall importance of high-NOx and
+(separately) high-HOOH regions to the chemical budgets, it
+would be valuable to check the CTM and CCM modeling of
+this feature to understand its cause.
+Earth Syst. Sci. Data, 15, 3299–3349, 2023

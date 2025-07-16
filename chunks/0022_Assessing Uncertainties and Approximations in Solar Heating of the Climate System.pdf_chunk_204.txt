@@ -1,0 +1,5 @@
+and wavelength would eliminate a latitudinal mean bias of 3 W m−2 in surface absorption. This easy fix, 
+can be used in RRTMG, and has already been implemented in the ARPEGE and LMDZ models (Séférian 
+et al., 2018).
+13.	Photosynthetically Active Radiation, no assessment. PAR is calculated in Solar-J with 4 downward 
+diffuse streams and no δ-scaling of cloud optical depth, which is notably more accurate than 2-stream

@@ -1,0 +1,10 @@
+tering with eight streams with no delta scaling of the optical
+depth.
+The Solar-J model and tests are described in Sect. 2. The
+resulting comparisons with RRTMG-SW are presented in
+Sect. 3. In this paper, we use RRTMG as shorthand for
+Geosci. Model Dev., 10, 2525–2545, 2017
+www.geosci-model-dev.net/10/2525/2017/
+J. Hsu et al.: A radiative transfer module
+2527
+Figure 1. Solar-J extends Cloud-J’s solar wavelength bands by combining and modifying RRTMG-SW’s bands 24 and 25 (442–778 nm) and

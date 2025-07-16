@@ -1,0 +1,9 @@
+ensemble members are available from a single model, they are averaged prior to inclusion in the multi-model mean.
+Published on 06 August 2012. Downloaded by Columbia University on 18/11/2015 17:04:22. 
+View Article Online
+6674
+Chem. Soc. Rev., 2012, 41, 6663–6683
+This journal is c The Royal Society of Chemistry 2012
+is limited, however, by diﬀerent regional deﬁnitions (Fig. 4
+includes oceanic boxes whereas Fig. 5 includes spatial averages
+over land only) and the use of diﬀerent models (CTMs in

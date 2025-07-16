@@ -1,0 +1,60 @@
+and more directly trace the range of results to the models’
+basic photolysis and kinetics.
+www.atmos-chem-phys.net/17/9081/2017/
+Atmos. Chem. Phys., 17, 9081–9102, 2017
+9092
+M. J. Prather et al.: Global atmospheric chemistry – which air matters
+L-O3 (Mmol d-1 bin-1)
+P-O3 (Mmol d-1 bin-1)
+(a) AIR (petamol bin-1)
+L-CH4 (Mmol d-1 bin-1)
+2.5
+250
+5
+25
+10
+50
+100
+O3 (ppb)
+0.4
+0.8
+1.2
+0
+0.2
+0.4
+0.6
+0
+0.2
+0.4
+0.6
+0.8
+0
+1.0
+2.0
+0
+1.0
+1.2
+B
+C
+D
+A
+E
+F
+30
+40
+50
+60
+70
+80
+90 100
+200
+CO (ppb)
+1
+2
+3
+4
+0
+1
+2
+3
+4

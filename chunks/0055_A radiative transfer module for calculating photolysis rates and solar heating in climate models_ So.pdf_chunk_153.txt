@@ -1,0 +1,8 @@
+their rms errors in heating.
+All of these standard features of Solar-J (eight streams,
+spherical geometry, cloud quadrature) increase the computa-
+tional cost, but one can argue that the improved ﬁdelity in
+the solar heating of the atmosphere and radiative forcing of
+the climate is worth the cost. The question is what fraction of
+the total computational cost of a climate simulation would be
+used by Solar-J. If we estimate the fractional cost of RRTMG

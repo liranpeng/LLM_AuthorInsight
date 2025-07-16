@@ -1,0 +1,7 @@
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+https://doi.org/10.5194/essd-15-3299-2023
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements
+3331
+Figure 49. ATom-1234 proﬁling in the Paciﬁc and Atlantic basins showing parcels (large red dots) where NO2 observations are missing,
+where long-gap interpolation was used in MDS version 2b, and where shifting to NOxﬁt based on NO observations in MDS version 3 results
+in a change in NOx of > 1 ppt.

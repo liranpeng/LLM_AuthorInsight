@@ -1,0 +1,8 @@
+The goal here is to be able to use the NASA ATom aircraft
+mission (2015–2020), which was designed to measure those
+23 key variables in air parcels proﬁling from near-surface to
+12 km altitude, ﬂying ascents and descents down the middle
+of the Paciﬁc and Atlantic Ocean basins. Thus ATom data
+will not ﬁll the global 3-D model grid, and thus many cells
+will be initialized with the model’s original chemistry values.
+The critical design requirement is that we let the model inte-

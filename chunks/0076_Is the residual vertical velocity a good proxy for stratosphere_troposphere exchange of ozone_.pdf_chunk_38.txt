@@ -1,0 +1,4 @@
+(black dashed). The proximity of the e90-tropopause to the 2 PVU potential vorticity is in general within the
+vertical resolution of the model (1–2 km) except in the southern high latitudes where 2 PVU is consistently
+lower than the e90-tropopause due to the extremely cold air over Antarctica.
+In January (Figure 1a), high O3 mixing ratios in NH extratropics are transported downward but the pathway

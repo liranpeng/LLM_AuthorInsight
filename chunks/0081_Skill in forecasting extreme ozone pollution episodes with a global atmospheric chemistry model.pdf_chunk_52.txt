@@ -1,0 +1,8 @@
+approach does not inform us about extrapolation error arising
+from, e.g., gradients near the coasts. Results for both the US
+and EU are similar, and the range of QP is much larger than
+in the site-error analysis because we are trying to interpolate
+cells that are distant from sites.
+With the daily MDA8 O3 values interpolated, we can begin
+to analyze the results for each domain. Figure 3 shows a sam-
+ple day of grid-cell (1◦× 1◦) average MDA8 O3 values based

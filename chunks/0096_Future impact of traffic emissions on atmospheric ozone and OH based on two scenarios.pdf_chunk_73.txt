@@ -1,0 +1,8 @@
+with stratospheric temperature adjustment included. Monthly
+mean ozone ﬁelds from each of the six models were used
+for the calculations. An interesting ﬁnding is that the use
+of a scaling approach, where the global average transport-
+induced O3 column were multiplied with the normalized ra-
+diative forcing (NRF; RF divided by the change in O3 col-
+umn expressed in Dobson Units (DU)), introduced only mi-
+nor changes in the results compared to carrying out complete

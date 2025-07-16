@@ -1,0 +1,9 @@
+2.2)
+AerChemMIP further aims to identify the patterns of change
+in surface temperature and precipitation at the global and re-
+gional levels associated with future NTCF mitigation efforts
+focusing on air pollutant species. These experiments cover
+the time frame from 2015 to 2055, as this is when reductions
+in aerosol and ozone precursor emissions are expected to be
+signiﬁcant, at least for some regions. The future scenarios
+are based on Shared Socio-economic Pathways (SSPs) as de-

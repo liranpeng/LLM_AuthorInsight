@@ -1,0 +1,8 @@
+mulas (Ullrich et al., 2009). However, it was later found that
+these may become ill-conditioned at high resolution: switch-
+ing to Gaussian quadrature makes the algorithm robust but at
+the cost of mass conservation unless mass consistency is en-
+forced locally using the consistency enforcement algorithm
+by Erath et al. (2013), which does not affect the locality and
+efﬁciency of the CSLAM algorithm. The coupling between
+ρφ and φ is by using the following reconstruction function

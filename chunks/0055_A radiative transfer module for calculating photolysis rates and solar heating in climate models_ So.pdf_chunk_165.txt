@@ -1,0 +1,8 @@
+ulations. From Cloud-J, we take the eight-stream scatter-
+ing model, semi-spherical geometry, ultraviolet transmission,
+and cloud quadrature. From RRTMG-SW, we take the de-
+tailed spectral intervals for the visible and infrared developed
+from the RRTM reference code. Solar-J matches RRTMG-
+SW except where the improved physics leads to more accu-
+rate results. Selecting the best physics for all these compo-
+nents comes with a cost: a simple comparison shows the cost

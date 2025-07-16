@@ -1,0 +1,8 @@
+observational statistics because of the gap-ﬁlling needed to
+calculate the RDS. MDS data ﬂagged with 1 or 2 are re-
+liable because they are based on primary or secondary in-
+strument observations. Short-gap interpolation (ﬂag = 3) has
+been tested (G2023) and found to be reasonably accurate.
+Further, adding a short-gap, linearly interpolated ﬂight seg-
+ment (< 1 km in altitude) will have little effect on species
+statistics here because of the parcel weighting that is used to

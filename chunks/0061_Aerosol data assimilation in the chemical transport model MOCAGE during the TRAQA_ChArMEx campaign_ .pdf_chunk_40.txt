@@ -1,0 +1,9 @@
+bins separately. This could be difﬁcult to deﬁne, but the anal-
+ysis would be partitioned automatically into all bins by the
+system.
+Benedetti et al. (2009) made the choice to use the 3-D to-
+tal aerosol concentration as the control variable. This makes
+the control variable smaller, corresponding to a 3-D variable,
+where all bins are merged into a single one. Considering the
+characteristics of our system, we decided to follow the same
+approach as in Benedetti et al. (2009). Compared to the Liu

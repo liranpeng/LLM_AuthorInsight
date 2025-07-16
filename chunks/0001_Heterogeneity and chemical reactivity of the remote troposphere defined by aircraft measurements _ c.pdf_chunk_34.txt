@@ -1,0 +1,11 @@
+models.
+2
+Introduction
+The NASA Atmospheric Tomography (ATom) mission com-
+pleted a four-season deployment, each deployment ﬂying
+from the Arctic to Antarctic and back, traveling south
+through the middle of the Paciﬁc Ocean, across the South-
+ern Ocean, and then north through the Atlantic Ocean, with
+near-constant proﬁling of the marine troposphere from 0.2
+to 12 km altitude (see Fig. S1 in the Supplement). The DC8
+was equipped with in situ instruments that documented the

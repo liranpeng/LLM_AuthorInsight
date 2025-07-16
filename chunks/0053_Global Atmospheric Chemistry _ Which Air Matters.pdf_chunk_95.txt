@@ -1,0 +1,14 @@
+100
+500
+1000
+50
+10
+12 h  1.48e6
+18 h  1.42
+36 h  1.49
+30 h  1.32
+24 h  1.38
+A 36 h  1.46
+Figure 2. One-dimensional probability distributions for HNO3, NOx, HNO4, PAN, HOOH, and HCHO from the UCI-CTM. The domain
+sampled is the tropical Paciﬁc: 20◦S–20◦N, 150–210◦E, 0–12◦km, on 16 August. The units are moles of air per log-scale bin (20 bins per
+factor of 10). The area under the curve in the log plot is the air mass of the domain, except for HNO4 and PAN for which there are numerous

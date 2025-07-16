@@ -1,0 +1,8 @@
+to affect the any of the results here, even with high levels
+of lightning-NO in daytime. The initiation time might affect
+highly polluted regions where the NOx reservoirs could be
+converted at night to less photolabile nitrates.
+Two additional sensitivity tests included running the ﬁve
+days in August with a ﬁxed solar declination (Fig. S9) and
+with different restart ﬁle (Fig. S10). As shown in these ﬁg-
+ures and Table S8, these two tests change the overall aver-

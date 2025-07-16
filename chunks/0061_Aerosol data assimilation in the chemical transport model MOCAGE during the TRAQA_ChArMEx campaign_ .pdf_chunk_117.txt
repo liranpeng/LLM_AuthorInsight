@@ -1,0 +1,8 @@
+while in higher levels the change is less important. In this
+case, the different shape of the proﬁle in the direct model run
+and the assimilation model run is a result of the continuous
+multi-day assimilation of AOD over many assimilation cy-
+cles, and the mixing of the aerosols coming from different
+levels and regions where they were already assimilated (or
+not) in previous assimilation cycles. Different directions of
+the origin for air parcel at different heights shown in Fig. 9d

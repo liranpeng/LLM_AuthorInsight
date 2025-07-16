@@ -1,0 +1,8 @@
+spheric shipping corridors (Franke et al., 2008; von Glasow
+et al., 2003). In a European regional CTM, parameterizing
+ship plume chemistry reduces ship-caused surface O3 by
+20 % over the North Atlantic Ocean and more near coasts,
+as compared to instant dilution (Huszar et al., 2010). Vinken
+et al. (2011, 2014), using a different plume-in-grid approach
+in the GEOS-Chem global CTM, found similar magnitude
+reductions in O3 and also showed that the parameteriza-

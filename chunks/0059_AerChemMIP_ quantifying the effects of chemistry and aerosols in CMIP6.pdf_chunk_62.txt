@@ -1,0 +1,8 @@
+of interactive aerosols, tropospheric chemistry and strato-
+spheric chemistry. Ideally participating models will include
+all three components; however, we realise that this may not
+always be possible or practical. Many CMIP models in-
+clude emission-driven interactive aerosol schemes, but with
+limited or no further tropospheric chemistry. To understand
+their overall behaviour we encourage such models to par-
+ticipate in those AerChemMIP experiments that are relevant

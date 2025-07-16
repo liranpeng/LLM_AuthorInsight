@@ -1,0 +1,9 @@
+given as +0.017, which is a small fraction of the ﬁrst-order
+terms of +0.42 for dln(L-CO)/dln(O3) and +0.46 for dln(L-
+CO)/dln(Q). The near symmetry of the four matrices in Ta-
+ble 3 indicates that average SXY sensitivities are similar for
+both basins. Hence we ﬁnd no evidence that coupled pertur-
+bations must be considered when modelers explore the fac-
+tors driving changes in the lifetime of CH4 (e.g., Holmes et
+al., 2013).
+Although we have long known that H2O and T are impor-

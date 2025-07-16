@@ -1,0 +1,5 @@
+the standard RDS protocol are shown with colored lines; the updated UCIZ CTM using MDS-2b with the RDS* protocol (HNO4 and PAN
+damping) is shown as a dashed black line. The mean value for each model is shown with an open circle plotted at the 50th percentile. (Flipped
+about the axes, this is a cumulative probability density function.)
+(> 3 ppb d−1) occurs only in the center of this highly reactive
+L-O3/L-CH4 region, suggesting that NOx is not as evenly

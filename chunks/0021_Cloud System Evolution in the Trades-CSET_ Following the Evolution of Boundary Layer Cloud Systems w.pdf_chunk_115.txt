@@ -1,0 +1,5 @@
+11). The precipitation cores of the systems shown in Fig. 11 have a horizontal extent of 
+about 5-10 km horizontally. The out-flow areas in these mesoscale systems by the radar are 
+about double that of the precipitating cloud areas.
+The lidar and radar observations made in this case were taken while the GV was flying 
+above the boundary layer. On the edges of the cloud away from the heavily precipitating

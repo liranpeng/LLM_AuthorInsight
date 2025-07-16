@@ -1,0 +1,8 @@
+upward motion leads to cooling, condensation and ultimately
+rainfall. That is, these physics should manifest as multi-variate
+relationships with linked fine scale structures of two wind vector
+components and temperature that should co-locate with radar
+reflectivity.
+Figure 4 shows an example of CorrDiff downscaling a cold front.
+Examining the target data (WRF in third column), the position of
+the front is clearly visible in the southeast portion of the domain,

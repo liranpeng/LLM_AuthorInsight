@@ -1,0 +1,12 @@
+lifetime of tropospheric O3 and the CH4 chemical feedback.
+Overall, we hope to use the 10 s parcel statistics (> 140 000
+parcels in ATom) to build performance metrics for CCMs.
+2
+Methods, measurements, and outline
+2.1
+Reactivities
+Our interests in the reactivity of air parcels or model grid
+cells began with P2017 and continued with P2018 and
+G2023. We focused on the budgets of O3 and CH4 and now
+add CO. Reactivities are deﬁned by a few key reaction rates.
+Loss of CH4 (L-CH4):

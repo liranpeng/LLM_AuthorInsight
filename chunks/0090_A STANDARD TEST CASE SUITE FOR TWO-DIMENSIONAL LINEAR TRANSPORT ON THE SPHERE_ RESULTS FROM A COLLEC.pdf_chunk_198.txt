@@ -1,0 +1,7 @@
+Fig. 10. Same as Figs. 7, 8, and 9 but for icosahedral grid-based models. (LPM resolution for 1.5 and 0.75 is 2.16 and 1.8.)
+range of the initial condition. Note that in the scatterplots
+(Figs. 11, 12, 13, and 14), only the upper part of the range-
+preserving unmixing area is marked with solid black lines;
+the triangular area below the convex hull also belongs to the
+range-preserving unmixing area and “overshooting” that is
+the remaining area on the scatterplot. When scatter points

@@ -1,0 +1,10 @@
+2.
+Models and Simulations
+[7] Many different models have been used in the TF HTAP
+assessment of the hemispheric transport of pollutants; the
+subset of 15 models used in the present work are described
+briefly in Table S11 (further details are at http://www.htap.
+org). Many of the models have been used in previous assess-
+ments of deposition fluxes [Dentener et al., 2006]. Emissions
+of precursor gases (NOx, CO, volatile organic compounds
+excluding methane, referred to as NMVOC and SO2) were not

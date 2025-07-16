@@ -1,0 +1,4 @@
+below) are calculated relative to the TC-e90 ﬂux, our best estimate. The TC (solid) and LS (dashed) methods
+are shown for both e90 tropopause (black) and the 250 ppb surface (red). For the most part, these four lines
+in Figures 1h and 1i are indistinguishable. Fluxes across 100 hPa are shown for both residual (dashed green)
+and simulated values (solid green). The period from years 2000 to 2007 is relatively quiet climatologically

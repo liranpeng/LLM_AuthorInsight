@@ -1,0 +1,8 @@
+of interest, but then the geographic patterns need to be ex-
+amined. The table gives an average over the entire domain
+(US or EU), and the results for each grid cell or region can
+be derived from the supplementary data, but are not shown
+here. The day-of-the-week and month-of-the-year statistics
+include a decade of observations (years 2000–2009). The di-
+rect comparison with the CTM, for weekly and annual cycles
+using only statistic from years 2005–2006, is in the supple-

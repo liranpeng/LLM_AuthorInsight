@@ -1,0 +1,8 @@
+eas associated with high variability, so the covariance func-
+tion could easily be incorrectly modeled at short separation
+distances. Consequently, the Kriging weights given to these
+clustered stations would not necessarily provide the desired
+declustering. For this reason, we use a modiﬁed from of IDW
+that incorporates a declustering scheme without the need to
+model the underlying covariance function.
+From O3 observations Zk at sites xk, we interpolate the O3

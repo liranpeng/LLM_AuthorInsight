@@ -1,0 +1,8 @@
+model metrics that address the simulation of stratospheric
+ozone. Thus, it is important to separate the ozone column
+data (in DU, Dobson units, milli-cm-amagats) into strato-
+sphere and troposphere (see Ziemke et al., 2019, for deriva-
+tion and analysis of the tropospheric column). This is not
+typically done, but it is important since tropospheric ozone
+has its own driving forces for both trends and interannual
+variability. In fact the trends in column ozone over the past

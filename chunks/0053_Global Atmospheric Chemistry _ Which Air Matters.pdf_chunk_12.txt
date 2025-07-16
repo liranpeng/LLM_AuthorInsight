@@ -1,0 +1,8 @@
+linear – viz. the chemistry integrated over a mix of parcels
+is not necessarily the same as that over the average of the
+mix (e.g., Chatﬁeld and Delaney, 1990). We have progressed
+in modeling atmospheric chemistry over the past 4 decades
+from a few boxes (e.g., stratosphere and troposphere, north-
+ern and southern hemispheres) to high-resolution gridded
+models with many millions of cells. These models simulate
+myriads of air parcels that at times represent the observed

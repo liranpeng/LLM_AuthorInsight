@@ -1,0 +1,8 @@
+and the US as possible, we select the value of QP = 0.67
+as the cutoff for our masks. Figure 1 shows the constructed
+masks (gray boxes) for the EPA (Fig. 1a) and combined EU
+(Fig. 1b). When comparing the EU observations with the UCI
+CTM, we truncate the mask northward of 65◦N. Note that
+the mask over the US excludes parts of Montana that are
+too distant from sites. Figure S1 in the Supplement shows
+the logarithm of QP values for all of the retained grid cells

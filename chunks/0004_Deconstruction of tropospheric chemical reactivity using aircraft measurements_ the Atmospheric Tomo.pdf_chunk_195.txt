@@ -1,0 +1,11 @@
+from these calculations is the sensitivity of the OH weighted
+by the CH4 loss (i.e., including the temperature factor in the
+rate coefﬁcient, exp(−1775/T )).
+sOH = dln[L-CH4]
+dln[CH4] −1
+(7)
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+https://doi.org/10.5194/essd-15-3299-2023
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements
+3343
+Figure 64. Probability density of log10(NOx, ppt) in the three tropical basins (30◦S–30◦N) for ATom-1234, comparing MDS versions 3

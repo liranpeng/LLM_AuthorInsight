@@ -1,0 +1,8 @@
+the direct model, differences between the model and the ob-
+servations appear because of different model uncertainties,
+including simpliﬁed and neglected processes. However, the
+differences do not have a constant or cumulative nature; the
+model sometimes overestimates or underestimates AOD. To
+take into account these uncertainties in the assimilation pro-
+cess, we deﬁned the variances in the matrix B in such a way
+that it allows a margin for the background errors (Talagrand,

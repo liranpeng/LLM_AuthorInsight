@@ -1,0 +1,38 @@
+Relaxed towards SPARC cli-
+matology above tropopause
+6
+UM CAM
+CCM
+Eulerian
+Leonard
+et
+al. (1995)
+Penetrative mass ﬂux
+Gregory and Rown-
+tree (1990)
+NOx-CO-CH4-NMHCs
+(60
+species, 36 advected)
+O3 and NOy are prescribed
+above
+30 hPa
+(NOx/HOx
+chemistry
+applies
+in
+the
+stratosphere below 30 hPa)
+7
+LMDzINCA
+CCM
+Finite
+Volume
+second order (Van
+Leer, 1977)
+Mass ﬂux scheme of
+Tiedke (1989)
+Detailed ozone/CO/NOx/ hy-
+drocarbon; 303 reactions and
+85 species, implicit-Newton-
+Raphson solver
+Stratospheric

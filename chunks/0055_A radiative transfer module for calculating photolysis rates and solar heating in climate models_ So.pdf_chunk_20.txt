@@ -1,0 +1,8 @@
+for cloud particles, particularly ice crystals (Zhou and Yang,
+2015). Li et al. (2015) ﬁnd biases caused by the HG phase
+function and conclude that higher-order moments of the
+phase function coupled with a multi-stream radiative trans-
+fer algorithms are needed to improve accuracy. They demon-
+strate this point with a four-stream delta-Eddington code de-
+veloped by Li and Ramaswamy (1996). Wild et al. (2000)
+tested the accuracy of different-order codes for computing

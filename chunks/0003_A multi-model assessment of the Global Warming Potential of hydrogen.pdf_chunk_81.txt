@@ -1,0 +1,7 @@
+and shortwave radiation45. Stratospheric temperature adjustment is included in the
+radiative transfer calculations. There are limited studies for adjustment of methane-
+induced changes in stratospheric water vapor, and the IPCC AR6 presented an
+adjustment less than 1 with low conﬁdence. We choose to treat the RF values here
+as ERF.
+Direct aerosol effect and indirect aerosol effect is calculated ofﬂine46. For the
+indirect aerosol effect only the change in effective radius is simulated. Thus, no

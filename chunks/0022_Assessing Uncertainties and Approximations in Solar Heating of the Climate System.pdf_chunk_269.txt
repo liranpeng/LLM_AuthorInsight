@@ -1,0 +1,22 @@
+(both W m-2) are given in the legend. Also shown is the difference, RRTMG (δ-1) minus Solar-J 
+(Mie).   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+           (a) SJ/2s–SJ(8s) clear sky        (b) SJ/2s/δ1–SJ/δ1  liq cld       (c) SJ/δ1ice–SJ  all+QCA 
+ 
+Figure S2. Geographic map of model differences in solar radiative budget (W m-2) averaged over 
+January, columns show (a) Solar-J’s 2-stream minus 8-stream under clear sky, (b) Solar-J’s 2-

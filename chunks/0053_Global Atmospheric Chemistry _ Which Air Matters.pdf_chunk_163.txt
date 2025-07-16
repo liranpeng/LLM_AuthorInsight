@@ -1,0 +1,11 @@
+through a range of speciﬁc funding mechanisms to UC Irvine
+(NNX15AG57A), NASAS GSFC, Columbia U, NCAR, and
+Harvard U. Michael J. Prather thanks Daniel Cariolle (CERFACS)
+and Valérie Thouret (Laboratoire d’Aerologie) for hosting his
+sabbatical, during which this paper was written and submitted.
+Edited by: Marc von Hobe
+Reviewed by: two anonymous referees
+References
+Allen, D., Pickering, K., and Fox-Rabinovitz, M.: Evalua-
+tion of pollutant outﬂow and CO sources during TRACE-P
+using

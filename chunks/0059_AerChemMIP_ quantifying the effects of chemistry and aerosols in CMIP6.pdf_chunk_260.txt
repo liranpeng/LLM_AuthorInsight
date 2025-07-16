@@ -1,0 +1,9 @@
+naro, V., Myhre, G., Penner, J. E., Pitari, G., Reddy, S., Seland,
+Ø., Stier, P., and Takemura, T.: Radiative forcing by aerosols as
+derived from the AeroCom present-day and pre-industrial simu-
+lations, Atmos. Chem. Phys., 6, 5225–5246, doi:10.5194/acp-6-
+5225-2006, 2006.
+Sherwood, S., Bony, S., Boucher, O., Bretherton, C., Forster, P.,
+Gregory, J., and Stevens, B.: Adjustments to the forcing-feedback
+framework for understanding climate change, B. Am. Meteorol.
+Soc., 96, 217–228, 2015.

@@ -1,0 +1,8 @@
+burden is calculated from monthly-mean, globally-averaged
+NOAA marine surface measurements (Dlugokencky, 2022)
+and uses the conversion factor of 4.78 TgN ppb−1 (Prather
+et al., 2012). Given that the gridding and source ﬁles have
+changed since P2015 (which used the 5◦latitude GOZ-
+CARDS data), we compared the global monthly loss rates
+for the overlap period with P2015 (August 2004–December
+2011): the mean difference of 0.2 % and root mean square

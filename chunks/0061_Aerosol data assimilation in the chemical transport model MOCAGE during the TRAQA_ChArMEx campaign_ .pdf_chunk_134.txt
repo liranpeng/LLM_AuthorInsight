@@ -1,0 +1,8 @@
+the substantial underestimation in the model, it would have a
+limited impact. Another approach would be to try to deﬁne
+the matrix B differently. Previous studies show that a rig-
+orously deﬁned matrix B can slightly improve the analysis
+quality (Kahnert, 2011; Massart et al., 2012). In MOCAGE-
+Valentina, in the framework of the MACC (Monitoring At-
+mospheric Composition and Climate) project, the inﬂuence
+of different matrices B was assessed for the case of ozone as-

@@ -1,0 +1,24 @@
+0.54
+0.21
+0.62
+0.18
+UCI
+0.09
+0.18
+0.08
+0.52
+0.12
+UCI year-to-year
+0.06
+0.12
+0.06
+0.33
+0.08
+3.3
+Five days vs. 5-day mean
+The variability of the ﬁve days in August tells us about the
+synoptic variability of clouds and possibly O3 columns in
+each model. The rms difference between the ﬁve individual
+days and the 5-day mean for each model (Table 3c) shows
+that GISS and NCAR have much larger variability in reac-
+tivities, caused by and mirrored by those in J-values. These

@@ -1,0 +1,9 @@
+column of Fig. 3. Further comparison across independent generated
+samples is presented in an animation Supplementary Section 5 that
+is helpful for appreciating the portion of the generated image that is
+governed by the corrective diffusion subcomponent of CorrDiff.
+Fig. 3: Demonstration of the stochastic prediction of radar
+reflectivity at selected time.
+[image]
+a–d show Typhoon Haikui (2023) on 2023-09-03 00:00:00. e–h
+show 2021-02-17 21:00:00. i–l show 2021-03-04 01:00:00. m–p

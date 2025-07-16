@@ -1,0 +1,2 @@
+See discussion about uncertainty and ensembles in Section 12.2, which explains how model spread is not equivalent to uncertainty. Results here are shown for the CMIP5 archive (Annex I, frozen 
+as of March 15, 2013) for the RCPs and the similarly current CMIP3 archive for SRES A1B, which is not the same set of models used in AR4 (Figure SPM.5). Ten-year averages are shown (2030d =

@@ -1,0 +1,10 @@
+maintain the discontinuities in the slotted cylinder better than
+the Eulerian/semi-Lagrangian schemes.
+3.5
+Preservation of pre-existing functional relation:
+cosine bells and correlated cosine bells
+All known tests for linear transport on a sphere consider as-
+pects of accuracy in a single-tracer setup. As discussed in
+detail in Lauritzen and Thuburn (2012), the accuracy with
+which schemes maintain relations between tracers is of sig-
+niﬁcant interest in chemistry–climate and climate model-

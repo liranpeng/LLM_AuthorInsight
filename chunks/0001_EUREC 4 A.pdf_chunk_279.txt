@@ -1,0 +1,10 @@
+Turbulence probe
+Best Aircraft Turbulence (BAT) probe measuring air motions and high-frequency wind (50 Hz)
+Ultra-fast thermometer
+Ultra-fast thermometer 2 (UFT2, developed from UFT-M) measuring temperature ﬂuctuations with a
+sampling frequency of 20 kHz
+Particle counter
+TSI 3772 CPC measuring total ultraﬁne particle concentration (D > 10 nm)
+Particle sizer
+GRIMM Sky-OPC aerosol spectrometer measuring particle sizes from 0.3 to 10 µm
+Particle sizer

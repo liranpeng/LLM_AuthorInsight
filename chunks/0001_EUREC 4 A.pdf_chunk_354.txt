@@ -1,0 +1,12 @@
+±0.1 K temperature accuracy
+Weather sensors
+Bosch BMP388 sensor measuring pressure and temperature (±50 Pa absolute pressure accuracy,
+±0.3 K temperature accuracy)
+Hot wire
+Dantec mini-hot wire measuring air velocity ﬂuctuations at 8 kHz
+Ultra-fast thermometer
+Ultra-fast thermometer M (UFT-M, provided by University of Warsaw) measuring temperature ﬂuc-
+tuations with a sampling frequency of 8 kHz
+https://doi.org/10.5194/essd-13-4067-2021
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+4110

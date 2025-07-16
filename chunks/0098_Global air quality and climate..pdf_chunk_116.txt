@@ -1,0 +1,8 @@
+than those projected under the older SRES (A1, A2, B1, B2)
+scenarios.17,66 Alternative, lower pollutant emission scenarios to
+the SRES scenarios (CLE, MFR)29 tend to cover the RCP range.
+The RCPs assume aggressive control of NOx and other O3
+precursor emission controls globally,23 falling below the current
+legislation (CLE29) 2030 projections and reaching levels by 2050
+that are equivalent to maximum feasible reductions (MFR29).
+Even within this narrow RCP range for global emissions, larger

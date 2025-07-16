@@ -1,0 +1,3 @@
+particles and its applications: A comprehensive reference database. Journal of Quantitative Spectroscopy Radiative Transfer, 88, 357–406.
+Mishchenko, M. I., Zakharova, N. T., Khlebtsov, N. G., Videen, G., & Wriedt, T. (2016). Comprehensive thematic T-matrix reference data-
+base: A 2014-2015 update. Journal of Quantitative Spectroscopy & Radiative Transfer, 178, 276–283.

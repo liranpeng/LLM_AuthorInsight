@@ -1,0 +1,5 @@
+instance, in cycle 29 simulation, the mean NH residual O3 ﬂuxes, w∗O3, are about twice (537 Tg/yr) as large
+compared to STE ﬂuxes and the simulated ﬂuxes across the same level (∼300 Tg/yr ± 5%). Moreover, they
+do not capture the interannual climate variability (and possibly long-term change) as they do not correlate
+well with all other ﬂuxes, which are largely in sync with each other. Use of just the downward hemispheric
+residual air mass ﬂux, w∗> 0, is likewise erroneous.

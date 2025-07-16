@@ -1,0 +1,8 @@
+Atlantic basins. Standard weighting (see text).
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+https://doi.org/10.5194/essd-15-3299-2023
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements
+3337
+Figure 57. Vertical mean proﬁles (parts per trillion vs. pressure altitude) of NOx (v2b), NOxx (NOx v3), and HOOH (v2b) over the three
+tropical ocean regions (central Paciﬁc, eastern Paciﬁc, and Atlantic). See Fig. 56.
+https://doi.org/10.5194/essd-15-3299-2023

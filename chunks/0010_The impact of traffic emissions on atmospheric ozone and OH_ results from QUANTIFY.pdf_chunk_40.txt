@@ -1,0 +1,9 @@
+sion decline.
+We need to emphasize that the small scale approach is fun-
+damentally different from a 100% perturbation, since non-
+linearities can lead to signiﬁcant differences between both
+approaches. This is illustrated in Fig.2, which shows the dif-
+ferences of the ozone perturbations from a small perturba-
+tion approach, which is subsequently scaled to 100% and a
+100% decline of the emissions. The sensitivity study was
+performed by one of the participating models (p-TOMCAT).

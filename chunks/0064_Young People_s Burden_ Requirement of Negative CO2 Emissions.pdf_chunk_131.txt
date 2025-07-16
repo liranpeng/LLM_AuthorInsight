@@ -1,0 +1,9 @@
+are tabulated in Appendix A10.
+We use equilibrium fast-feedback climate sensitivity
+0.75 ◦C (W m−2)−1 (3 ◦C for 2 × CO2). This is consistent
+with climate models (Collins et al., 2013: Flato et al., 2013)
+and paleoclimate evidence (Rohling et al., 2012a; Masson-
+Delmotte et al., 2013; Bindoff and Stott, 2013). We use
+RCP6.0 for the non-CO2 GHGs.
+We take tropospheric aerosol plus surface albedo forcing
+as −1.2 W m−2 in 2015, presuming the aerosol and albedo

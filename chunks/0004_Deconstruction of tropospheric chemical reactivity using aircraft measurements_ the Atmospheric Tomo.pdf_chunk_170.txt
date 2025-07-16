@@ -1,0 +1,9 @@
+comparing models and measurements was investigated previ-
+ously (P2017, P2018, and Fig. 7 of G2023). We do not pursue
+examples here but recommend that these 2D PDs of critical
+species deﬁned from the sensitivity analyses, including the
+ﬁtted ellipses, be tested as model metrics.
+https://doi.org/10.5194/essd-15-3299-2023
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+3334
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements

@@ -1,0 +1,8 @@
+to CSLAM). However, at high resolution the temporal er-
+rors start to dominate the standard error norms; with CN = 1
+SBC solutions become more accurate than the CN = 5.5 so-
+lutions when the resolution is ﬁner than approximately 1λ =
+0.375◦. In other words, the temporal errors start to dominate
+as the distributions are very well represented by the basis
+functions used in SBC at high resolution.
+The Eulerian scheme used in the ICON model was run

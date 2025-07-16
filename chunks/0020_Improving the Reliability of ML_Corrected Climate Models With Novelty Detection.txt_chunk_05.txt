@@ -1,0 +1,1 @@
+across a random seed ensemble. In particular, the random seed with the worst RMSE is improved by up to 60% (depending on the variable) while the best seed maintains its low RMSE. By reducing the variance in quality of ML‐corrected climate models, novelty detection offers reliability without compromising prediction quality in atmospheric models.

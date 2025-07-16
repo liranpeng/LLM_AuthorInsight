@@ -1,0 +1,8 @@
+(CCMI; Eyring et al., 2013b) and AeroCom projects, but the
+data will not form part of the ofﬁcial CMIP6 submission.
+We have arranged the experiments into three tiers to re-
+ﬂect their priority. Tier 1 experiments are those necessary to
+answer science questions 1 and 2 in terms of overall impacts
+of NTCFs and reactive well-mixed gases. Tier 2 experiments
+will answer question 4 and provide further detail on ques-
+tions 1 and 2 by separating the effects of aerosol and ozone

@@ -1,0 +1,12 @@
+Brute winch (uCTD) to measure conductivity (salinity) and temperature and depth (pressure) in the
+upper 60 to 130 m (deployed off starboard aft quarter)
+Table B11. BOREAL.
+Instrument
+Brief description
+Particle counter
+CPC measuring aerosol concentrations (D > 11 nm) at 1 Hz
+Particle counter
+Optical particle counter measuring aerosol size distribution (0.3µm < D < 3nm) at 1 Hz
+Infrared thermometer
+Measuring infrared brightness temperatures to infer SST
+Turbulence probe

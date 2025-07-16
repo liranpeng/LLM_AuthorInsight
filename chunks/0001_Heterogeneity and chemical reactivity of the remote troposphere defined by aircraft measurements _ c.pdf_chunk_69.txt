@@ -1,0 +1,9 @@
+GMI, and UCI) are P-O3 = 1.97, L-O3 = 1.50, and L-CH4 = 0.66 (all ppb d−1). The
+three core-model RMSDs with respect to one another are less than 36 % and given in
+bold.
+MDS-2b with just our local UCI CTM. This decision may
+need to be revisited.
+Statistics for the three reactivities for six models using
+MDS-0 are given in Tables 2 and S8 for three domains:
+global (all points), Paciﬁc (oceanic data from 53◦S to 60◦N),
+and Atlantic (same constraints as Paciﬁc). The statistics try

@@ -1,0 +1,8 @@
+CMIP5 recommendations, which are based on the MAGICC
+model, but the uncertainty encompasses the difference. Our
+projected change in methane lifetime is consistent with an
+ensemble of GCMs containing atmospheric chemistry, pro-
+viding further evidence that the parametric model includes
+the key processes. Uncertainty in 2100 methane abundance is
+10 % based on the processes we have assessed here, which in-
+clude a simple treatment of natural methane emissions. Water

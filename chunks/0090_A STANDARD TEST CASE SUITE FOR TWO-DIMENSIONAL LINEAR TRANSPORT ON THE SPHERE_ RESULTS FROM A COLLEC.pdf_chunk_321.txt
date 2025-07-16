@@ -1,0 +1,8 @@
+eral rotations, the tracer distribution stabilizes (along with
+the ripples and ℓ2 error) at a preferred shape and then evolves
+very slowly. Overshoot ripples in the tracer plateau are +12 %
+for L = 0 or L = 1, 5 % for L = 2, and < 0.2% for L = 3.
+(Treatment of cross term moments, xy, produces some rip-
+ples.) Undershoot ripples in the background near the plateau
+are −8 %, −2.5 % and < 0.2 %, respectively. Only with L =
+3 the entire 12 × 12 block decays uniformly, −1 % per rev-

@@ -1,0 +1,4 @@
+and 7 W m−2 less atmospheric absorption, respectively, most of which is absorbed at the surface with small 
+excess fraction (∼1 W m−2) being reflected (see Table 1/Rows 1 & 2, hence designated T1/R1&2). The more 
+accurate SJ/RRX code has only ∼0.25 W m−2 less atmospheric absorption than SJ (T1/R3). Assuming that 
+SJ/RRX is the most accurate code for water vapor absorption, we find that in terms of re-partitioning the

@@ -1,0 +1,8 @@
+duces large reductions in P-O3 for all cumulative weights and
+small reductions in L-CH4 for the upper 5th percentile. We
+conclude that accurate modeling of chemical composition of
+the 80th and greater percentiles is important but that mod-
+est errors in the lowest 50th percentile are inconsequential;
+effectively, some parcels matter more than others (P2017).
+How well does this ATom analysis work as a model in-
+tercomparison project? Overall, we ﬁnd that most models

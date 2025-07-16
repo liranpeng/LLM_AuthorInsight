@@ -1,0 +1,6 @@
+shows slight deviations for ACE of magnitude up to 150 Pa, but no systematic multi-year drift.
+It is possible that adding terms to the loss function to encourage global mean conservation of moisture
+and dry air mass [18] would improve these characteristics for long simulations.
+H
+Normalization Strategy
+This section describes the “residual” scaling strategy and compares it to the “full-field” normalization

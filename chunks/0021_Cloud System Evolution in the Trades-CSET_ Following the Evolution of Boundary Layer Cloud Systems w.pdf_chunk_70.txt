@@ -1,0 +1,7 @@
+MBL structures within trajectories extending westward along the southern periphery of the 
+North East Pacific. This Lagrangian approach is designed to minimize uncertainties in the 
+large-scale forcing due to horizontal advection in the lower troposphere as air masses move 
+from cold to warm SSTs. Thus, the observing strategy was to sample aerosol, cloud, and 
+MBL properties in areas upwind from the transition zone over the North East on GV flights 
+Albrecht et al.
+Page 10

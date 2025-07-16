@@ -1,0 +1,30 @@
+www.atmos-chem-phys.net/13/285/2013/
+C. D. Holmes et al.: Future methane, hydroxyl, and their uncertainties
+287
+Table 1. Emissions.
+Source (Inventory)a
+NOx, Tg(N) yr−1
+CO, Tg yr−1
+Isoprene, Tg yr−1
+Anthropogenic (RCP year 2000)
+32b
+609
+–
+Biomass burning (GFED3)
+5.6c
+360c
+–
+Biogenic (MEGAN)
+–
+76
+523
+Lightning
+5d
+–
+–
+Total
+42
+1047
+523
+a Inventory references: RCP, Lamarque et al. (2010); van Vuuren et al. (2011), GFED3 (van der Werf et al. (2010),
+MEGAN Guenther et al. (2006).

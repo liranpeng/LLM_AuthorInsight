@@ -1,0 +1,8 @@
+optical depth or tropospheric ozone column.
+Uncertainties and unresolved issues remain. Although QP
+provides a measure of the cell-averaged data, it still lacks
+a formal uncertainty estimate. The decade analyzed here
+(2000–2009) has an apparent trend in O3 concentrations
+driven at least in part by reductions in precursor emis-
+sions (Turner et al., 2013). For climate statistics, this non-
+stationary pattern needs to be recognized and if possible cor-

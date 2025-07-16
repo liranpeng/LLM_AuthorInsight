@@ -1,0 +1,8 @@
+masking consistent over the period, it is based on the loca-
+tion of all observing sites, effectively the largest possible QP
+values over the time period. The declustering weighting for
+each site, Mk, is recomputed on a daily basis.
+The QP values reﬂect the ability of the observing network
+to predict O3; the highest (lowest) QP values have the small-
+est (largest) RMSE (Fig. 2). Using this relationship and with
+the intent of providing as nearly contiguous a grid for EU

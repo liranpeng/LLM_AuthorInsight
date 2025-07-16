@@ -1,0 +1,8 @@
+mixing ratios and changes due to climate change are exam-
+ined using data from the four ACCMIP model simulations.
+For present day, during both winter and summer, deep con-
+vection in the tropics extends from the surface to ∼300 hPa
+or higher in all four CCMs (Figs. 6 and 7). While the mag-
+nitude of the parameterised convective mass ﬂuxes simu-
+lated by CMAM and especially the GISS-E2-R CCM (up
+to 30 × 10−3 kgm−2 s−1) is larger than for UM-CAM and

@@ -1,0 +1,9 @@
+et al., 2011). This CTM and most prior publications re-
+port changes in the CH4 lifetime due to tropospheric OH (τ)
+rather than the total atmospheric lifetime; these are related
+via (dlnτtotal) = b(dlnτ), where the best estimates of all at-
+mospheric methane losses imply b = 0.82 ± 0.03 (Prather et
+al., 2012).
+CTM diagnostics provide d[O3]/dE and dlnτ/dE for
+each plume chemistry treatment based on 5 % perturbations
+to global ship NOx emissions. Values and 1σ (68 %) conﬁ-

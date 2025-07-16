@@ -1,0 +1,4 @@
+The six modeled reactivities for MDS-0 using the standard RDS protocol are shown with colored lines, and the UCI calculation for MDS-2
+using the new RDS∗protocol (HNO4 and PAN damping, denoted UCIP) is shown as a dashed black line. The mean value for each model is
+shown with an open circle plotted at the 50th percentile. (Flipped about the axes, this is a cumulative probability density function.)
+proﬁling seems to catch reactive regions in adjacent proﬁles

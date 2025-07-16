@@ -1,0 +1,8 @@
+Global atmospheric carbon budget: results from an ensemble of
+atmospheric CO2 inversions, Biogeosciences, 10, 6699–6720,
+https://doi.org/10.5194/bg-10-6699-2013, 2013.
+Piao, S. L., Liu, Z., Wang, Y. L., Ciais, P., Yao, Y. T., Peng, S.,
+Chevallier, F., Friedlingstein, P., Janssens, I. A., Penuelas, J.,
+Sitch, S., and Wang, T.: On the causes of trends in the seasonal
+amplitude of atmospheric CO2, Glob. Change Biol., 24, 608–
+616, https://doi.org/10.1111/gcb.13909, 2018.

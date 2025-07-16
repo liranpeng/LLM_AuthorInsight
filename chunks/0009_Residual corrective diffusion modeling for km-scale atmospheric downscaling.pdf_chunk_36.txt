@@ -1,0 +1,7 @@
+where a strong horizontal 2-meter temperature gradient (top) co-
+locates with both a strong divergence of the across-front wind
+(bottom) and a reversal in direction of the along-front wind on
+either side of the temperature front (middle). Compared to the
+target data the ERA5 representation of this front is smoother.
+CorrDiff partially restores sharpness to the front by increasing the
+horizontal gradients across all three field variables. Although the

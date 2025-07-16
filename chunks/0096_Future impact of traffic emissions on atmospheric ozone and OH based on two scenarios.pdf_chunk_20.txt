@@ -1,0 +1,11 @@
+tween models.
+2
+Methods and models
+We have used gridded emission data of CO, NOx, and
+NMHC (Table 1), which have been developed within QUAN-
+TIFY and can be downloaded from www.ip-quantify.eu.
+These data are the same as described in H2011, except that
+we use the A1B scenario instead of B1. The A1 storyline is
+much less optimistic than B1 in terms of emissions, and is
+characterized by very rapid economic growth, a global pop-
+ulation that peaks in 2050, and a quick introduction of new

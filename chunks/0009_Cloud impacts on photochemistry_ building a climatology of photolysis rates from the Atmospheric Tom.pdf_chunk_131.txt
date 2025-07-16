@@ -1,0 +1,8 @@
+erage over cloud ﬁelds out to tens of kilometers, and even
+if the atmospheric column at the aircraft is clear, neighbor-
+ing clouds alter J values. The chemical models are coarse
+resolution compared with the CAFS measurements and aver-
+age over wider range of cloud ﬁelds, almost eliminating the
+occurrence of clear-sky conditions. Even if they calculate a
+distribution of J values for the cloud statistics in a column
+(like Cloud-J), they combine these to deliver a single av-

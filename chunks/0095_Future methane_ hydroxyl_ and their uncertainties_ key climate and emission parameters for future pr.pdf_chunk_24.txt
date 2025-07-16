@@ -1,0 +1,10 @@
+al., 2003). Oslo CTM3 shares the same chemical mechanism
+and some other physical process algorithms with the older
+Oslo CTM2, which has been extensively used for studies of
+present and future tropospheric composition (Isaksen et al.,
+2005; Hoor et al., 2009; Dalsoren et al., 2010).
+2.2
+UCI CTM
+The UCI CTM is a tropospheric CTM, using the same mete-
+orology, transport algorithms, and Fast-JX photolysis as Oslo
+CTM3. Like Oslo CTM3, the UCI CTM uses T42 horizontal

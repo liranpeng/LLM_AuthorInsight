@@ -1,0 +1,8 @@
+jima, T.: Simulation of climate response to aerosol direct and in-
+direct effects with aerosol transport-radiation model, J. Geophys.
+Res.-Atmos., 110, D02202, doi:10.1029/2004jd005029, 2005.
+Takemura, T., Egashira, M., Matsuzawa, K., Ichijo, H., O’ishi, R.,
+and Abe-Ouchi, A.: A simulation of the global distribution and
+radiative forcing of soil dust aerosols at the Last Glacial Max-
+imum, Atmos. Chem. Phys., 9, 3061–3073, doi:10.5194/acp-9-
+3061-2009, 2009.

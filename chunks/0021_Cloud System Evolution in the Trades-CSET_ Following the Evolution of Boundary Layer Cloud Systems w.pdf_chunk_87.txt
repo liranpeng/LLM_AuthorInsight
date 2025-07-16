@@ -1,0 +1,5 @@
+displays can be made using the menu to select the fields to be displayed with the flight tack 
+information. In addition the Field Catalog can be to show near-real time displays of time-
+height plots of the HCR and HSRL returns. Other data collected can be plotted and 
+displayed in real time or after flights using EOL Aeros visualization software.
+The playback mode of the Field Catalog allows review of the observations made earlier in

@@ -1,0 +1,43 @@
+al., 2015). Often the goal is simply to deﬁne a linear correla-
+Atmos. Chem. Phys., 17, 9081–9102, 2017
+www.atmos-chem-phys.net/17/9081/2017/
+M. J. Prather et al.: Global atmospheric chemistry – which air matters
+9089
+HNO3 (ppt)
+0.5
+1
+5
+10
+50 100
+500 1000
+0
+1
+2
+3
+Moles air (1e14 / bin)
+12 h  3.98e5
+18 h  3.97
+36 h  3.89
+30 h  3.84
+24 h  3.91
+A 36 h  4.34
+0
+2
+4
+6
+NOX (ppt)
+0.5
+1
+5
+10
+50 100
+500 1000
+Moles air (1e14 / bin)
+12 h  1.60e5
+18 h  1.58
+36 h  1.66
+30 h  1.65
+24 h  1.55
+A 36 h  1.31
+0
+2

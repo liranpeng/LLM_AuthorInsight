@@ -1,0 +1,11 @@
+Anima Anandkumar, Nikola Kovachki, Jean Kossaifi, and Boris
+Bonev for their insightful discussions. Additionally, we are indebted
+to David Matthew Hall, Dale Durran, Chris Bretherton for their
+constructive feedback on the manuscript.
+Author information
+Author notes
+1. These authors contributed equally: Morteza Mardani, Noah
+Brenowitz, Yair Cohen.
+Authors and Affiliations
+1. NVIDIA, Santa Clara, CA, 95050, USA
+Morteza Mardani, Noah Brenowitz, Yair Cohen, Jaideep

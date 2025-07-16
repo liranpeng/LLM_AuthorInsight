@@ -1,0 +1,8 @@
+time (Prather et al., 2001). We calculate these terms from
+a 5 % perturbation to methane abundance for 1997–2009 in
+the CTMs. Our multi-model mean sensitivity, 0.31 ± 0.04,
+is similar to past estimates (Prather et al., 2001; Fiore et
+al., 2009), but we derive a smaller feedback factor f =
+1.34 ± 0.06 than has been recommended by IPCC (f =
+1.4, Prather et al., 2001) because we use updated estimates
+of methane lifetime (Prather et al., 2012). Reducing the

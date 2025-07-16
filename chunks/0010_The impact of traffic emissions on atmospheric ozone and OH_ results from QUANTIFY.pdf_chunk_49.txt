@@ -1,0 +1,8 @@
+of them simulated a two years period and included higher or-
+der chemistry schemes. These ﬁve models contribute to the
+ensemble mean results, which are presented in the follow-
+ing (TM4, p-TOMCAT, OsloCTM2, UCI and LMDzINCA).
+One model (E39/C) was used in a different mode to pro-
+vide information on the interannual variability of the traf-
+ﬁc impact using a ten year transient simulation. Four mod-
+els are CTMs using prescribed operational ECMWF data to

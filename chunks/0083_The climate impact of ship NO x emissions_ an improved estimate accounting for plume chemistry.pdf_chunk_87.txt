@@ -1,0 +1,12 @@
+ground atmospheric composition (±10 to 20 %).
+Atmos. Chem. Phys., 14, 6801–6812, 2014
+www.atmos-chem-phys.net/14/6801/2014/
+C. D. Holmes et al.: The climate impact of ship NOx emissions
+6809
+5
+Conclusions
+The non-linear chemistry governing O3 and OH produc-
+tion in emission plumes has been recognized for decades.
+In spite of this knowledge, global modeling studies of ship
+NOx emissions and their impacts on climate and air quality
+are usually made under the assumption that emissions are in-

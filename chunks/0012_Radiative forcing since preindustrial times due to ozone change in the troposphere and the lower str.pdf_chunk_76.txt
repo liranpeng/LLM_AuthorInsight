@@ -1,0 +1,36 @@
+Table 3. List of scenarios.
+Number
+Climate
+Cl/Br
+Ozone precursors
+1
+preindustrial
+preindustrial
+preindustrial
+1a
+present
+preindustrial
+present
+1b
+present
+present
+preindustrial
+1c
+present
+preindustrial
+preindustrial
+1d
+preindustrial
+present
+preindustrial
+2
+present
+present
+present
+3 1)
+future
+future
+future
+1) Scenario 3 was deﬁned for a year 2100 time slice simulation.
+This experiment, including several sub-scenarios, has been accom-
+plished during this ACCENT study, but will be analyzed and pre-

@@ -1,0 +1,9 @@
+could modify the size distribution in the model. To achieve
+this in the system, it would be necessary to study the rela-
+tionship and sensitivity between the size and bin distribution
+in MOCAGE and the aerosol Ångstrom exponent obtained
+from multi-wavelength measurements.
+If we want to introduce direct information of the vertical
+proﬁle from observations into the model, we would need to
+Atmos. Meas. Tech., 9, 5535–5554, 2016
+www.atmos-meas-tech.net/9/5535/2016/

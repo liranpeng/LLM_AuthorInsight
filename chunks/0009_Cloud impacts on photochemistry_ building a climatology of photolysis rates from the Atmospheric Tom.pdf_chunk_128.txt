@@ -1,0 +1,8 @@
+aerosols, both in the models and in CAFS. If clear sky in-
+cludes aerosols then TUV must be able to infer an aerosol
+proﬁle for all measurements, and likewise the models need
+to be careful in how they calculate cloudy–clear ratios. Fortu-
+nately for most of the oceanic ATom measurements, aerosol
+optical depths are small, but where they are large (e.g., Sa-
+haran dust events) the daily satellite mapping should pro-
+vide adequate coverage for the TUV modeling. Developing

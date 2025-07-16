@@ -1,0 +1,4 @@
+larization properties of atmospheric ice crystals at wavelengths from 0.2 to 100 μm. Journal of the Atmospheric Sciences, 70(1), 330–347. 
+https://doi.org/10.1175/JAS-D-12-039.1
+Yang P., Hioki S., Saito M., Kuo C.-P., Baum B., & Liou, K.-N. (2018). A Review of Ice Cloud Optical Property Models for Passive Satellite 
+Remote Sensing. Atmosphere, 9, (12), 499. http://dx.doi.org/10.3390/atmos9120499

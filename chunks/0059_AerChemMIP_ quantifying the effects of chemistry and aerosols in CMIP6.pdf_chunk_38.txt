@@ -1,0 +1,8 @@
+stratospheric) and aerosols in ACCMIP were decoupled from
+the CMIP5 climate model simulations that informed the
+IPCC AR5 chapters on climate change (Bindoff et al., 2013;
+Kirtman et al., 2013; Collins et al., 2013), this made it dif-
+ﬁcult to relate the temperature responses to radiative forcing
+due to NTCFs and also to constrain the climate sensitivity.
+AerChemMIP is designed to ﬁll in this information gap to in-
+form IPCC AR6. The lessons learned in AeroCom, ACCMIP,

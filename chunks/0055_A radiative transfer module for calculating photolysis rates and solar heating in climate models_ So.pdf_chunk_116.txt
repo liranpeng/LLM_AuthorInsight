@@ -1,0 +1,9 @@
+rate phase functions and no delta scaling (similar to the study
+of Wild et al., 2000). One other source of error in RRTMG’s
+model is the choice of delta-scaling factor, which they base
+on the HG phase function using only g. Alternatively, one
+can use the second moment of the true Mie phase function
+(Wiscombe, 1977). We revised the RRTMG-SW code to do
+this using Solar-J’s scattering phase functions and found a
+modest reduction in this error from −14 to −9 W m−2 for
+reﬂected sunlight (SZA = 0◦).

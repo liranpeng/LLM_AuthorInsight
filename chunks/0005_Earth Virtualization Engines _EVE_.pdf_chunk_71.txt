@@ -1,0 +1,7 @@
+auxiliary data. AI on top goes well beyond emulation to enable
+interactivity across disparate sources of data, e.g., to create new
+types of models and to give salience to the use of data. This is the
+game changer. One lesson of recent applications of generative AI is
+the disproportionate benefit of larger (AI) models trained on larger
+and more diverse data. This requires a very large computing
+capacity for both training and creating the training data. It means

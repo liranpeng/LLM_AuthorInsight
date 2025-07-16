@@ -1,0 +1,8 @@
+as assimilation products using the most current system ap-
+proved for near-real-time production. We use the FP system
+in our study because it is the system used to generate fore-
+casts that are used during ATom and other aircraft missions
+and is thus relevant to future mission and ﬂight planning. The
+GEOS-5 model (Molod et al., 2015) is a global general cir-
+culation model (GCM) with 72 vertical levels reaching from
+the surface to 1 Pa. The assimilation system is described in

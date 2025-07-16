@@ -1,0 +1,7 @@
+the realism of power spectra for 10-meter kinetic energy (KE), 2-
+meter temperature and synthesized vertical maximum of the
+derived radar reflectivity (hereafter referred to as radar
+reflectivity). Variance missing from the UNet is restored by the
+corrective diffusion (blue-dashed vs blue-solid) – especially for the
+radar reflectivity channel at all length scales (Fig. 1c), but also for
+kinetic energy between 10–200 km length scales (Fig. 1a) and to a

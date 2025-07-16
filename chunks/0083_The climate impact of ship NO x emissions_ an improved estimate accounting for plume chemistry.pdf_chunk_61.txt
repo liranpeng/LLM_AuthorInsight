@@ -1,0 +1,8 @@
+ﬁciency. RF values are scaled to emissions of 1 Tg(N) yr−1
+and are for steady-state conditions. We report results from
+individual models in multi-model studies where possible. All
+of these RF estimates have assumed instant dilution of ship
+emissions, which biases the RF values as we show below.
+From the literature ensemble, we estimate the O3 RF
+to be +6.0 ± 1.9 mW m−2 and the CH4 RF to be −8.0 ±
+2.4 mW m−2 for 1 Tg(N) yr−1. This average neglects two

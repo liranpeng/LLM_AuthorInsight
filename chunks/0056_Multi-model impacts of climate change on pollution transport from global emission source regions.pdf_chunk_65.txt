@@ -1,0 +1,8 @@
+Atmos. Chem. Phys., 17, 14219–14237, 2017
+14226
+R. M. Doherty et al.: Multi-model impacts of climate change on pollution transport
+Figure 5. Same as Fig. 4 but for JJA. Note the different scales for (i) UM-CAM and STOC-HadAM3 and (ii) CMAM and GISS-E2-R for
+the difference plots.
+The largest changes occur in boreal winter, with decreases
+of ∼2–6 ppb (∼5–10 %) in CO-tracer mixing ratios near
+the surface at the Equator, and especially in the middle

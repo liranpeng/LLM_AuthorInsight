@@ -1,0 +1,5 @@
+adjusted the visible wavelength bands and adopted the RRTMG-SW spectral code for the 
+infrared (see H2017).  For wavelengths > 778 nm SJ simply takes the RR model.  Since 
+v7.5, SJ has shifted a wavelength boundary, 345-412-778 nm to 345-485-778 nm, to 
+better separate the Rayleigh scattering region (345-485 nm) from the Chappuis ozone 
+absorption (485-778 nm).  We use the g-point sub-bins as specified for the 9 IR bands

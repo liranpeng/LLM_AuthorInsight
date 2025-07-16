@@ -1,0 +1,7 @@
+in aquaculture, the same emission factor used in ref. 62 and ref. 31. The 
+uncertainty range of the emission factor is from 0.5% (ref.14) to 5% 
+(ref. 63), the same range used in the UNEP report9. The ‘Aquaculture’ 
+emission for the period 2007–2016 was estimated through synthesizing 
+multiple sources of data from ref. 62 in 2009, the FAO report31 in 2013 
+and our calculations. The estimate of aquaculture N2O emission before 
+2009 was from our calculations only.

@@ -1,0 +1,8 @@
+K., Miller, D., Oswald, J., Patel, N., Pukala, D., Quintero, O.,
+Scaff, D., Van Snyder, W., Tope, M., Wagner, P., and Walch, M.:
+The Earth Observing System Microwave Limb Sounder (EOS
+MLS) on the Aura satellite, IEEE T. Geosci. Remote, 44, 1075–
+1092, https://doi.org/10.1109/TGRS.2006.873771, 2006.
+Wofsy, S. C., Apel, E., Blake, D. R., Brock, C. A., Brune, W.
+H., Bui, T. P., Daube, B. C., Dibb, J. E., Diskin, G. S., Elki-
+ins, J. W., Froyd, K., Hall, S. R., Hanisco, T. F., Huey, L.

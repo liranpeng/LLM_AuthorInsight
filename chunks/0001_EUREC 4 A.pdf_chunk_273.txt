@@ -1,0 +1,18 @@
+Infrared
+thermometer
+(V-KT
+19)
+An infrared thermometer channel for the VELOX to measure SST
+Broadband
+radiom.
+(BAC-
+ARDI)
+A broadband radiometer for downwelling and upwelling irradiances in the LW and the SW
+Dropsondes
+AVAPS dropsonde (Vaisala RD-41) system to measure temperature, humidity, and wind
+Core instrument (BAHAMAS)
+The aircraft and in situ data system (aircraft state, temperature, humidity, and pressure)
+Table B5. P-3.
+Instrument
+Brief description
+Cloud radar

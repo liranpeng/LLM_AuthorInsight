@@ -1,0 +1,8 @@
+lines (e.g., temperature, water vapor, convection, lightning,
+biogenic emissions); (3) climate-driven changes in the me-
+teorological regimes over polluted regions that lead to AQX
+episodes; and (4) changes in the efﬁcacy of local emissions to
+generate pollution within a governance region (e.g., air qual-
+ity management district, an EU country). While these fac-
+tors are all part of a coupled system, an integrated model that
+combines all would be almost impossible to verify. Thus an

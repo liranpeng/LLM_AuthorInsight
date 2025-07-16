@@ -1,0 +1,8 @@
+sions and 2005–2017 of the UCI CTM). The observed pattern
+is plotted at the (1,0) reference point. For [1], all models sim-
+ulate high correlations (> 0.95), suggesting a well-captured
+annual cycle. We expect all stratospheric chemistry models
+will do very well on this test because – while this speciﬁc
+metric has not been used before – all modelers have been
+using the “eyeball” metric for decades when comparing with
+Figure 2. The SD (in Dobson units) of the zonal mean SCO

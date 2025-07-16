@@ -1,0 +1,7 @@
+the hot and cold tails of the CorrDiff-generated surface temperature
+distribution are only incrementally improved relative to the UNet
+(Fig. 1e) and the overall windspeed PDF is virtually unchanged
+relative to the UNet, despite the scale-selective variance
+enhancements noted previously. Overall, CorrDiff produces
+encouraging probability distributions, with the caveat that apparent
+agreement of generated tail structures should be viewed as

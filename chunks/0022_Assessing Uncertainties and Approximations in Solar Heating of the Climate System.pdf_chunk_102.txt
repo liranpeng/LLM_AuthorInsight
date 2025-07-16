@@ -1,0 +1,4 @@
+The vertical profiles of the atmospheric absorption errors in Figure 4 are shown in Figure S1. The error at 
+high sun (i.e., inside the oval SZA < 40°) goes from overall negative for δ-0 (-2.7 W m−2), to small positive for 
+δ-2 (+0.8 W m−2), to strongly positive for δ-1 (+2.9 W m−2), and the profiles are consistent with the means. 
+This sequence is similar to the sequence for global mean atmospheric heating, +0.07 to +0.23 to +0.44 W

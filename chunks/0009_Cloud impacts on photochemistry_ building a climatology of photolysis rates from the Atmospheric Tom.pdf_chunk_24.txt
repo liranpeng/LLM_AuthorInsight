@@ -1,0 +1,8 @@
+to generate actinic ﬂuxes with a 1 nm wavelength grid from
+292–700 nm. The calculation is run with no clouds and no
+aerosols and a ﬁxed surface albedo of 0.06, and applies
+ozone columns from the satellite Ozone Monitoring Instru-
+ment (Levelt et al., 2006; Veefkind et al., 2006). CAFS and
+TUV spectra are processed using the same photolysis fre-
+quency code to ensure that the same quantum yield, absorp-
+tion cross section, and temperature and pressure dependence

@@ -1,0 +1,6 @@
+Future trends
+a b s t r a c t
+Road Transport emissions (RTE) are a signiﬁcant anthropogenic global NOx source responsible for
+enhancing the chemical production of tropospheric ozone (O3) in the lower troposphere. Here we
+analyse a multi-model ensemble which adopts the realistic SRES A1B emission scenario and a “policy-
+failure” scenario for RTE (A1B_HIGH) for the years 2000, 2025 and 2050. Analysing the regional trends

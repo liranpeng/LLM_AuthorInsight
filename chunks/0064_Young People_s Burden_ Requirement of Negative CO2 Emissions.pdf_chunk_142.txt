@@ -1,0 +1,26 @@
+(CO2 extracted)
+Holocene
+maximum
+1850
+1900
+1950
+2000
+2050
+2100
+2150
+2200
+0
+1
+2
+3
+4
+ 
+ 
+-1
+-1
+-1
+-1
+-1
+-1
+Figure 12. Simulated global temperature for Fig. 11 forcings. Observations as in Fig. 2. Temperature zero-point is the 1880–1920 mean
+temperature for both observations and model. Gray area is 2σ (95 % conﬁdence) range for centennially smoothed Holocene maximum, but

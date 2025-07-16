@@ -1,0 +1,7 @@
+ARTICLE
+COMMUNICATIONS EARTH & ENVIRONMENT |  (2023) 4:203 | https://doi.org/10.1038/s43247-023-00857-8 | www.nature.com/commsenv
+11
+69. Dunne, J. P. et al. The GFDL earth system model version 4.1 (GFDL-ESM 4.1):
+overall coupled model description and simulation characteristics. J. Adv.
+Model. Earth Syst., 12, https://doi.org/10.1029/2019MS002015 (2020).
+70. Horowitz, L. W. et al. The GFDL global atmospheric chemistry-climate model

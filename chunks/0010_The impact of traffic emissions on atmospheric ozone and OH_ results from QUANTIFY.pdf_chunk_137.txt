@@ -1,0 +1,8 @@
+ated by merging the daily ﬁelds of COADS and AMVER
+data (Automated Mutual-assistance Vessel Rescue system)
+(Endresen et al., 2003) and are distributed over a larger area
+(comp. Fig. 1 and Eyring et al. (2007), their Fig. 1). This
+explains the stronger effect on CH4 lifetime, since a larger
+fraction of NOx is emitted over the tropical oceans over a
+widespread area. Recall that conditions for OH production
+are favourable at low latitudes and in addition the local CH4

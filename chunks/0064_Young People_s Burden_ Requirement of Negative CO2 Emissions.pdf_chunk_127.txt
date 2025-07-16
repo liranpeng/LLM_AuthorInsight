@@ -1,0 +1,9 @@
+However, this limitation to fast feedbacks may soon become
+important; it is only in the past few decades that global tem-
+perature rose above the prior Holocene range and only in the
+past 2 years that it shot far above that range. This limitation
+must be borne in mind when we consider the role of slow
+feedbacks in establishing the dangerous level of warming.
+We calculate global temperature change T at time t in
+response to any climate forcing scenario using the Green’s
+function (Hansen, 2008)

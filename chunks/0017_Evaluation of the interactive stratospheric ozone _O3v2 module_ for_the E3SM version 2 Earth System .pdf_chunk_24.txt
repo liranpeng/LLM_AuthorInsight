@@ -1,0 +1,8 @@
+nosed in O3v1. Many of the new chemistry–climate stud-
+ies are now including this methodology, i.e., the use of a
+stratosphere-only ozone tracer, called StratO3, to calculate
+the STE ozone ﬂux (Liu et al., 2020).
+The O3v1 module was originally tuned to replicate the
+characteristics of the observed Antarctic ozone hole using a
+PSC temperature threshold of 193 K in EAMv1. This value
+is less than the 195 K threshold in Cariolle et al. (1990) and

@@ -1,0 +1,5 @@
+of the Atmospheric Sciences, 34(9), 1408–1422.
+Wiscombe, W. J., & Grams, G. W. (1976). The backscattered fraction in two-stream approximations. Journal of the Atmospheric Sciences, 
+33, 2440–2451.
+Wood, R. (2012). Stratocumulus clouds. Monthly Weather Review, 140, 2373–2423.
+Yang, P., Bi, L., Baum, B. A., Liou, K.-N., Kattawar, G., Mishchenko, M., et al. (2013). Spectrally consistent scattering, absorption, and po-

@@ -1,0 +1,8 @@
+Wind Conditions, J. Atmos. Sci., 76, 2065–2082, 2019.
+Garstang, M. and Betts, A. K.: A Review of the Tropical Boundary
+Layer and Cumulus Convection: Structure, Parameterization, and
+Modeling, B. Am. Meteorol. Soc., 55, 1195–1205, 1974.
+Gibson, E. R., Gierlus, K. M., Hudson, P. K., and Grassian, V. H.:
+Generation of Internally Mixed Insoluble and Soluble Aerosol
+Particles to Investigate the Impact of Atmospheric Aging and
+Heterogeneous Processing on the CCN Activity of Mineral Dust

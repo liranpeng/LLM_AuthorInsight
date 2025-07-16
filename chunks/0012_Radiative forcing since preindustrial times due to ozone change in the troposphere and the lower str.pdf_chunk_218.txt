@@ -1,0 +1,10 @@
+sults and evaluation, J. Geophys. Res., 107 (D21), 4586,
+doi:10.1029/2001JD001114, 2002b.
+Sudo, K., Takahashi, M., and Akimoto, H.: Future changes in
+stratosphere-troposphere exchange and their impacts on future
+tropospheric ozone simulations, Geophys. Res. Lett., 30(24),
+2256, doi:10.1029/2003GL018526, 2003.
+Sundet, J. K.:
+Model Studies with a 3-D Global CTM using
+ECMWF data, PhD thesis, Dept. of Geophysics, University of
+Oslo, Norway, 1997.

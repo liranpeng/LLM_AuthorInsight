@@ -1,0 +1,2 @@
+models contributing historical experiments (1986–2005H), and the subsets of models contributing to each RCP experiment (next line, 1986–2005). For SRES A1B the same set of models is used from 
+1850 to 2100. Values are 10-year averages (2090d = 2086–2095) and show multi-model means and standard deviations. See Chapter 12, Section 12.3 and discussion of Figure 12.4, also Sections

@@ -1,0 +1,7 @@
+the restart values. The models place each parcel (i.e., over-
+write the restart values) in the grid cell containing the lati-
+tude, longitude, and pressure speciﬁed for that parcel. If that
+preferred grid cell is already occupied with an air parcel, then
+an alternate adjacent grid cell is selected. It is recommended
+that alternate cells be shifted to minimize the change in pho-
+tolytic environment (e.g., shift by longitude but maintain sur-

@@ -1,0 +1,11 @@
+ular, how models average over cloud ﬁelds, and how such
+averages can simulate measurements.
+Published by Copernicus Publications on behalf of the European Geosciences Union.
+16810
+S. R. Hall et al.: Cloud impacts on photochemistry
+1
+Introduction
+Clouds visibly redistribute sunlight within the atmosphere,
+thus altering the photolytic rates that drive atmospheric
+chemistry (J values), as well as the photosynthesis rates
+on the land and in the ocean. These J values drive the de-

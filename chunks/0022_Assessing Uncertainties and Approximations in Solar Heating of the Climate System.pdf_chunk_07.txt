@@ -1,0 +1,4 @@
+cloud cover including overlap; and variability of ocean surface albedo. We geographically map the errors 
+in W m−2 using a full climate re-creation for January 2015 from a weather forecasting model. For many 
+approximations assessed here, mean errors are ∼2 W m−2 with greater latitudinal biases and are likely to 
+affect a model’s ability to match the current climate state. Combining this work with previous studies, we

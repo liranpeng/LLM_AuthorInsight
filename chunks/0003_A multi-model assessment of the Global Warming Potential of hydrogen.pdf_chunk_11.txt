@@ -1,0 +1,8 @@
+against other technologies. GWP is a useful metric, facilitating,
+for example, comparison of different implementations of a future
+hydrogen economy with other technologies that attempt to
+mitigate climate change13. A review on available literature on
+global warming from methane and tropospheric ozone from
+hydrogen was conducted, revealing GWP100 values of 0–9.8 with
+a central value of 4.3 with 95% conﬁdence (Derwent (2018))14.
+This means that over a 100-year period, a pulse emission of 1 kg

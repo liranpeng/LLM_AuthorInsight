@@ -1,0 +1,8 @@
+Foundation. The UKCA simulations used the NEXCS High
+Performance Computing facility funded by the U.K. Natural Envi-
+ronment Research Council and delivered by the Met Ofﬁce. Alex
+Archibald and N. Luke Abraham thank NERC through NCAS and
+through the ACSIS project which has enabled this work. Vincent
+Huijnen acknowledges funding from the Copernicus Atmosphere
+Monitoring Service (CAMS). Arlene Fiore acknowledges Larry W.
+Horowitz (NOAA GFDL) for technical guidance with AM3.

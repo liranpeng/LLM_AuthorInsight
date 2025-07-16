@@ -1,0 +1,8 @@
+Correspondence to: C. D. Holmes (cdholmes@uci.edu)
+Received: 30 December 2013 – Published in Atmos. Chem. Phys. Discuss.: 6 February 2014
+Revised: 4 June 2014 – Accepted: 4 June 2014 – Published: 4 July 2014
+Abstract. Nitrogen oxide (NOx) emissions from maritime
+shipping produce ozone (O3) and hydroxyl radicals (OH),
+which in turn destroy methane (CH4). The balance between
+this warming (due to O3) and cooling (due to CH4) deter-
+mines the net effect of ship NOx on climate. Previous esti-

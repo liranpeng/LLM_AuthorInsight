@@ -1,0 +1,6 @@
+described (section 3.4).
+3.1. Modeling: Chemistry Transport Model
+The UCI‐Chemistry Transport Model (UCI‐CTM) is a 3‐D tropospheric CTM (Holmes et al., 2013; Prather &
+Hsu, 2010). It was run with roughly 2.8° horizontal resolution and 57 vertical layers. Transport was driven by
+the European Center for Medium‐Range Weather Forecasts (ECMWF) reanalysis‐forecast meteorological
+ﬁelds, using tropospheric chemistry described by Holmes et al. (2013). Fossil fuel emissions of acetylene

@@ -1,0 +1,8 @@
+in Hawaii with a 1 day lead time, demonstrating the ability to
+simultaneously forecast. Moreover, diffusion models have been used
+directly for probabilistic weather forecasting and
+nowcasting34,35,36,37 – including global ensemble predictions that
+outperform conventional weather prediction on a range of
+important stochastic metrics at 0.25-degree resolution8. See
+Supplementary Section 1 for more details.
+Building upon these works, we turn to our challenge of interest –

@@ -1,0 +1,9 @@
+of GSFC and GC’s tropospheric chemical model, but UCI’s
+chemical mechanism is completely different and much ab-
+breviated. All other model pairings show much larger differ-
+ences.
+All models agree that the more highly reactive parcels
+dominate the chemistry; for example, the hottest 10 % of
+parcels control 25–30 % of the total reactivities. Unfortu-
+nately, they do not agree on which parcels comprise the top
+10 %. This diagnostic will become more acute as we move

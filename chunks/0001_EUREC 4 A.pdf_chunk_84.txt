@@ -1,0 +1,8 @@
+ery minute (between 14 January and 14 February, with a few
+data gaps from diversions to support hazardous weather fore-
+casting in other domains) archived over most of this domain.
+ASTER’s high-resolution (15 m visible and near-infrared,
+and 90 m thermal) imager on board TERRA was activated
+between 7–17◦N and 41–61◦W. It recorded 412 images of
+60 km ×60 km in 25 overpasses between 11 January and
+15 February. These images are complemented by Sentinel-2

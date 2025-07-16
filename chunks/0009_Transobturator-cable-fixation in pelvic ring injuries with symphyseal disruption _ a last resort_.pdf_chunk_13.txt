@@ -1,0 +1,7 @@
+data was anonymized and stored on the clinical data storage system with
+restricted access. The following variables were investigated: Age at the
+time of injury, gender, Body Mass Index (BMI), classification (AO and
+Young & Burgess), Injury Severity Score (ISS), trauma mechanism, time
+to surgery, fixation technique, length of hospital stay, complications,
+status on discharge (GOS), and follow-up time. Data collection and
+analysis was conducted using SPSS (v. 25, IBM, Armonk, USA). A

@@ -1,0 +1,7 @@
+ries using default emission factors show large uncertainties at local 
+to global scales, especially for agricultural N2O emissions, due to the 
+poorly captured dependence of emission factors on spatial diversity in 
+climate, management, and soil physical and biochemical conditions2,22. 
+It is well known, for example from the IPCC guidelines, that higher-tier 
+greenhouse-gas inventories may provide more reasonable estimates 
+by using the alternative emission factors that are disaggregated by

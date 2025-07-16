@@ -1,0 +1,10 @@
+Mon. Weather Rev., 140, 650–663, doi:10.1175/MWR-D-10-
+05026.1, 2012.
+Dong, L. and Wang, B.: Trajectory-Tracking Scheme in La-
+grangian Form for Solving Linear Advection Problems: Inter-
+face Spatial Discretization, Mon. Weather Rev., 141, 324–339,
+doi:10.1175/MWR-D-12-00058.1, 2013.
+Du, Q., Faber, V., and Gunzburger, M.: Centroidal Voronoi Tessella-
+tions: Applications and Algorithms, SIAM Review, 41, 637–676,
+1999.
+Dukowicz, J. K. and Baumgardner, J. R.: Incremental Remapping as

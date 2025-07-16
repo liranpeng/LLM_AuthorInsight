@@ -1,0 +1,9 @@
+via convection in the models.
+The sensitivity of ozone perturbations related to ship emis-
+sions is more complex. In the lower northern hemisphere tro-
+posphere NOx-levels are generally found to be higher than in
+the tropics or southern hemisphere. Therefore the northern
+hemisphere troposphere responds most sensitively to small
+scale perturbations of the ship emissions.
+The sensitivities deduced from p-TOMCAT are most
+likely at the higher end and differences between both ap-

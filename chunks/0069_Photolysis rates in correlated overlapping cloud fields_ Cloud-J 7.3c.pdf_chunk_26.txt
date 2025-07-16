@@ -1,0 +1,16 @@
+tions present (plus 1 if clear sky is present).
+A MAX group is characterized by the number of cloudy
+columns (N1) consisting of combinations of cloudy or clear
+sky in different layers of the group and having a fractional
+area equal to f G1
+1 , f G1
+2 , f G1
+3 , ...f G1
+N1 . The total cloudy frac-
+tion is F G1 = f G1
+1 +f G1
+2 +f G1
+3 +...+f G1
+N1 ≤1, with the (pos-
+sible) clear-sky column fraction of 1 −F G1, giving N1 + 1
+ICAs for that group. As in the earlier Fast-J work (Neu et al.,

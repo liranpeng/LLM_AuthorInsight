@@ -1,0 +1,30 @@
+Mk
+ifD ≤|x −xk| ≤L
+0
+if|x −xk| > L
+.
+(2)
+If the sum of the weights for point x from sites k is zero,
+a null value is given to that point. Our interpolation algo-
+rithm calculates values at points for a single day using only
+measurements from that day. Implementation of spatiotem-
+poral interpolation is complex, with no speciﬁc implemen-
+tation well agreed upon for applications to air quality data
+0.1
+1
+10
+100
+1,000
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Q P = Eﬀective # of Stations at 100 km
+RMS Error (ppb)

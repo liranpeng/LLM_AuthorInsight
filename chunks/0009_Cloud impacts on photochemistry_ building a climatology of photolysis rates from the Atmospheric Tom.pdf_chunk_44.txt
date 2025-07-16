@@ -1,0 +1,5 @@
+16813
+Figure 1. Proﬁles of all-sky (cloudy) J-O1D and J-NO2 for the tropical and North Paciﬁc blocks. See Figs. S2 and S3. The CAFS values
+are directly measured in ATom-1. The 10 models are sampled over 24 h from a day in mid-August, selecting for cos(SZA) > 0.8. The UCI
+and UCIb models are distinct here because they treat overlapping clouds differently (cloud quadrature vs. B-averaged cloud).
+greater proportion at cos(SZA) < 0.4 than the CAFS data. We

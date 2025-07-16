@@ -1,0 +1,8 @@
+vapor, anthropogenic NOx emissions, and methane feedback
+on its OH sink are the major drivers of τCH4×OH in both the
+historical reconstruction and future RCP 8.5 scenario.
+We also provide a new estimate of the indirect compo-
+nents of methane RF. Based on three CTMs, tropospheric
+ozone contributes 30–50 % of the direct methane RF, com-
+pared to 25 % that has been used in previous IPCC assess-
+ments (Forster et al., 2007). Using one model with strato-

@@ -1,0 +1,6 @@
+Therefore, the lowermost stratospheric circulation, jet streams, and stratosphere-troposphere exchange, 
+and tropospheric mixing were mostly driven by climatological sea-surface temperature boundary condi-
+tions, unlike the CTMs meteorologies used here that followed the synoptic weather conditions of the peri-
+od. Their paper focuses on CFC-11, and the published diagnostics for modeled N2O (global mean surface) 
+cannot be readily incorporated in this analysis.
+3.2.  QBO Impact

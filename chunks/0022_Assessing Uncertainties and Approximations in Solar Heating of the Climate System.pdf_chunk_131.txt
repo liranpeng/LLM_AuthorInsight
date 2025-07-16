@@ -1,0 +1,4 @@
+at ∼0.8 in agreement with Bi and Yang (2017). When we compared atmospheric heating rates between RRT-
+MG and SJ for our January climate simulation (averaged clouds, no overlap model used), the importance of 
+ice clouds stands out. Both models can use the same optical properties for liquid clouds (with RRTMG using 
+δ-1 scaling), and thus the differences in tropospheric heating rates are systematic but modest (±0.05 K per

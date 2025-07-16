@@ -1,0 +1,29 @@
+hist-piNTCF
+AOGCM AER
+Hist
+Hist
+1850
+1850
+Hist
+1
+hist-piAer
+AOGCM AER
+Hist
+Hist
+1850
+Hist
+Hist
+2
+hist-1950HC
+AOGCM CHEMS
+Hist
+Hist
+Hist
+Hist
+1950
+1
+enable the evaluation of the relative role of ozone depletion
+compared to other anthropogenic forcings and natural vari-
+ability in determining past changes in Southern Hemisphere
+summertime climate (WMO, 2014). Methane and nitrous ox-
+ide have indirect climate effects as their chemistry affects tro-

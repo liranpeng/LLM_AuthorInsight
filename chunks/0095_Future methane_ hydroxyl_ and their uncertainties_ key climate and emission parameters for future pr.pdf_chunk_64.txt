@@ -1,0 +1,4 @@
+because NO is longer lived at high altitudes and more effectively cancels the CO sink for OH.
+kSensitivity to CH4 abundance calculated from perturbations applied over 1997–2009 in UCI CTM and Oslo CTM3 and 2004–2009 in GEOS-Chem.
+l f is the methane feedback factor, deﬁned as the ratio of methane perturbation lifetime to total budget lifetime (Prather et al., 2001). We calculate f using recent
+estimates of all methane sinks, Prather et al. (2012). Using IPCC TAR lifetimes increases f by 0.03.

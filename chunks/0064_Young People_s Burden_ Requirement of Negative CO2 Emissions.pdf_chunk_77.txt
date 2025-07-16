@@ -1,0 +1,10 @@
+response to even weak climate forcings such as ice age cycles
+caused by small perturbations of Earth’s orbit, and still larger
+climate change occurs on even longer timescales in response
+to gradual changes in the balance between natural sources
+and sinks of atmospheric CO2 (Zachos et al., 2001; Royer et
+al., 2012; Franks et al., 2014).
+4.1
+Fast-feedback climate sensitivity
+Doubled atmospheric CO2, a forcing of ∼4 W m−2, is a
+standard forcing in studies of climate sensitivity. Charney et

@@ -1,0 +1,8 @@
+than for L-O3 and L-CH4; four models show the upward
+curve matching the top-1 % parcels; for L-O3 and L-CH4,
+GFDL-NCAR have a ﬂat scatter of points and miss the up-
+ward curve because they reset the q of the data stream. Day-
+to-day scatter for the top-10 % (deﬁned by the 5-day mean)
+is tested with the UCI model in Fig. S6. This one-model syn-
+optic cloud variability has similar scatter to that seen for the
+more central models (Fig. 7) including the rapid increase in

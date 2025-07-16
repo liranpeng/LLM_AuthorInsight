@@ -1,0 +1,40 @@
+MAX-COR overlap
+−0.02
++0.01
++0.01
+0.8
+0.5
+0.5
+Cloud Overlap Algorithm. Solar-J with QCAs for both MAX-RAN and MAX-COR overlap. RRTMG-SW v4.0 run with McICA for MAX-RAN cloud overlap. 
+See note above small differences in incident flux.
+R19
+D1 – D0
+SJ: MAX-RAN v. MAX-
+COR, both QCA
+−1.35
+−0.06
++1.41
+7.9
+1.0
+8.6
+R20
+RR1-M5
+AER4.0 v. SJ (avg cld 
+w/ice)
+−0.38
+−2.67
++2.97
+4.4
+5.9
+6.1
+R21
+RR3–D1
+AER4.0 (McICA) v. 
+SJ (QCA) (both 
+MAX-RAN)
+−2.10
+−2.36
++4.41
+18.5
+5.9
+20.5

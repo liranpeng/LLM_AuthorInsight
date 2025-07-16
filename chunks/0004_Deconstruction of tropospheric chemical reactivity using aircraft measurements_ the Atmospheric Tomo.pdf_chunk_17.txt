@@ -1,0 +1,8 @@
+CO from CH4 and other volatile organic compounds.
+We focus on the Paciﬁc and Atlantic oceanic ﬂights of
+ATom, which we constrain to be 53◦S to 60◦N (see the map
+of included ﬂights in Fig. 2), because these two ocean basins
+dominate the loss of CH4 and O3 and are a large part of the
+production of O3 in most CCMs (P2017). The tropics clearly
+dominate the chemical budgets, and we single out the three
+ATom-measured regions: the central Paciﬁc (30◦S–30◦N,

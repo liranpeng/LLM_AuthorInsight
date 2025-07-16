@@ -1,0 +1,10 @@
+https://doi.org/10.5194/essd-15-3299-2023
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+3338
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements
+Figure 58. Two-dimensional Paciﬁc curtain proﬁles for ATom-1234 of NOx (v2b) and NOxx (NOx v3).
+5.4
+Heterogeneous chemistry
+The potential role of heterogeneous (gas–aerosol) chemical
+reactions – which are not included in this study – is illus-
+trated with the proﬁles of aerosol surface area density (SAD)

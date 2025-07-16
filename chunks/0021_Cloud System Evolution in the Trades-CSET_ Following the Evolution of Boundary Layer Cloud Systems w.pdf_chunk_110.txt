@@ -1,0 +1,5 @@
+(labeled ND in Fig. 10) obtained on RF02 show much higher aerosol and cloud droplet 
+number concentrations in the eastern part of the low-level sampling areas than those to the 
+west. For a trajectory starting area sampled on the first part of the outbound RF02 flight, the 
+boundary layer UHSAS aerosol concentrations are about 760 cm−3 and the concentrations 
+above the boundary layer are about 450 cm−3. In the same air mass sampled on the return

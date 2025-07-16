@@ -1,0 +1,10 @@
+data with similar amplitudes as in the assimilation model run.
+The statistics of all AERONET stations conﬁrm the overall
+positive effect of assimilating MODIS data (Table 3).
+The AERONET ﬁndings conﬁrm those obtained by the
+comparison with SEVIRI observations. The scatter plot of
+all AERONET observations (Fig. 7) reinforces the conclu-
+sion that the assimilation model run reduces the bias in the
+AOD ﬁeld of the direct model run and signiﬁcantly improves
+the statistical parameters.
+6.4

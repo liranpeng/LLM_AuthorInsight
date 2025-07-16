@@ -1,0 +1,12 @@
+•  39 Altmetric
+•  Metrics details
+Subjects
+•  Atmospheric dynamics
+•  Natural hazards
+Abstract
+State of the art for weather and climate hazard prediction requires
+expensive km-scale numerical simulations. Here, a generative
+diffusion model is explored for downscaling global inputs to km-
+scale, as a cost-effective alternative. The model is trained to predict
+2 km data from an operational regional weather model over
+Taiwan, conditioned on a 25 km reanalysis. To address the large

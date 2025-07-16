@@ -1,0 +1,22 @@
+www.atmos-chem-phys.net/14/6801/2014/
+C. D. Holmes et al.: The climate impact of ship NOx emissions
+6803
+ 
+ 
+0.00
+0.02
+0.05
+0.1
+0.2
+0.5
+1
+2
+5
+10
+  360 Gmol/yr
+mmol m-2 yr-1
+Figure 1. Annual ship NOx emissions (mmol m−2 yr−1) used in
+GEOS-Chem. The CTM includes monthly variations in locations
+and magnitude (not shown).
+production efﬁciency (OPE) of 10 – based on observations
+of aged ship plumes (Chen et al., 2005). Imposing a globally

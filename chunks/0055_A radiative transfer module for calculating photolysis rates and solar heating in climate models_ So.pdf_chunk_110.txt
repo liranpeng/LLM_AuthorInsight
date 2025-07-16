@@ -1,0 +1,8 @@
+forcing from greenhouse gases (∼4 W m−2) (Myhre et al.,
+2013), but of course stratus clouds occupy only a fraction
+of the surface. Within the atmosphere, there is a large dif-
+ference in the distribution of CRE, with Solar-J calculating
+5 % (SZA = 0◦) to 25 % (SZA = 62◦) more in-cloud heating
+than RRTMG. The proﬁle of heating rates (Fig. 4b) shows
+a double peak at 1.9 km (visible τ ∼1) and 1.2 km (τ ∼6)
+even though the LWC has a smooth maximum at 1.1 km. The

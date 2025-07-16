@@ -1,0 +1,3 @@
+a cirrus cloud using four different models: Solar-J and the three RRTMG-SW parameterizations for ice clouds. Results are shown for four
+different solar zenith angles. Changes in the vertical column are divided into ﬁve regions: top of atmosphere, atmospheres above, within,
+and below the cirrus cloud, and at the surface. Single numbers in bold shown in the corner of each panel are the clear-sky energy budget in

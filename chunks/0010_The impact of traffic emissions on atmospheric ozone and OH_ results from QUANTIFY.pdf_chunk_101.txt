@@ -1,0 +1,49 @@
+SHIP, mean
+−83.5
+18
+−0.22
+−4.47
+−61.0
+11.5
+−0.05
+−1.0
+AIR, mean
+−32
+9
+−0.08
+−1.63
+−108.
+45.0
+−0.08
+−1.63
+ROAD, max
+−334.5
+–
+−0.57
+−11.41
+−172.
+–
+−0.21
+−4.23
+SHIP, max
+−265.5
+–
+−0.95
+−18.9
+−136.
+–
+−0.28
+−5.51
+AIR, max
+−69.0
+–
+−0.15
+−3.06
+−184.5
+–
+−0.22
+−4.31
+In addition, plume processes are not captured at all in the
+models, which may lead to additional uncertainties. Modiﬁ-
+cations of the emissions through e.g. heterogeneous chem-
+istry on contrails may lead to enhanced ozone destruction

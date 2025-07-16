@@ -1,0 +1,9 @@
+chemistry predicts median NOx abundances within 30 % of
+observed values while instant dilution over predicts NOx by a
+factor of 2. Ozone observations in the same regions are con-
+sistent with the plume parameterization but unable to falsify
+other model variants.
+We compare the chemical and climate impact of shipping
+under three different modeling assumptions about plume di-
+lution and chemistry:
+1. Instant dilution. We neglect sub-grid chemistry and emit

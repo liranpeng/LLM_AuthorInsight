@@ -1,0 +1,8 @@
+100-per-decade case, those years with more events will more
+likely to have bigger episodes, with all else being equal. This
+can easily be seen by the CCDFs in Fig. S6 in the Supplement
+and the ( ¯S) values in Table 3. Even when each year is forced
+to have the same number of events, the CCDFs for each of the
+years are not similar (see Fig. S7 in the Supplement). Using
+these renormalized AQX episode size distributions, we test if
+we can statistically identify “good” and “bad” years (based

@@ -1,0 +1,8 @@
+usually include some cloudy fraction.
+orange dots), which reduces the cloud fraction but assumes
+maximal cloud overlap. In these cases, a single J-value cal-
+culation is made with the SCA. When the clouds are simply
+averaged over the grid cell (∼1◦× 1◦), the clear-sky occur-
+rence drops to 7 % and the deep cumulus disappears. When
+Briegleb (1992) B-averaging is used, there is only slightly
+more clear sky (12 %). Both averaging methods also reduce

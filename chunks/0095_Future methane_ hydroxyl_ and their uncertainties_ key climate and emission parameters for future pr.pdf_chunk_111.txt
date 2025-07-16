@@ -1,0 +1,9 @@
+on τCH4×OH. Our projections are compared to MAGICC model (Meinshausen et al., 2011a) and the IPCC TAR formula (Prather et al.,
+2001).
+5
+Future (2010–2100) CH4 and CH4 lifetime
+We now apply the parametric model to predict methane and
+methane lifetime, with their uncertainties, for a future so-
+cioeconomic scenario. We make predictions for RCP 8.5 (Ri-
+ahi et al., 2007), a scenario with rapid climate warming, but
+these methods apply to other scenarios as well. The pre-

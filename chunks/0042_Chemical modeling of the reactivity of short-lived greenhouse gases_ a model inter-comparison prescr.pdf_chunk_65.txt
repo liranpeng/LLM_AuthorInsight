@@ -1,0 +1,7 @@
+20–60◦N (extra tropics, gray); tropics (20◦S–20◦N) upper (p < 600 hPa, cyan) and lower (p > 600 hPa, blue). The 10th, 50th, and 90th
+percentiles in each dimension are plotted as red dash-dot lines.
+Atmos. Meas. Tech., 11, 2653–2668, 2018
+www.atmos-meas-tech.net/11/2653/2018/
+M. J. Prather et al.: Reactivity of short-lived greenhouse gases
+2661
+Figure 3. Direct parcel by parcel comparison of modeled reactivities (a, P-O3; b, L-O3; c, L-CH4; all ppb day−1) and photolysis rates (d,

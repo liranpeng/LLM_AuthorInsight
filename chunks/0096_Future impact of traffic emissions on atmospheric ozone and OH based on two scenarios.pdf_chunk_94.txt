@@ -1,0 +1,8 @@
+impact of ROAD emissions on ozone RF is expected to de-
+cline rapidly in the future and yield values in the range from
+1.6 (± 0.91) to 6.5 (± 2.1) mW m−2 in 2050 (Fig. 5, top).
+The decreased impact of ROAD in 2050 compared to 2000 is
+a consequence of the assumed reduction of NOx emissions,
+and is also consistent with the results of Skeie et al. (2009).
+When also taking into account the CH4 RF and CH4-
+induced O3 RF, the net impact of positive and negative RF

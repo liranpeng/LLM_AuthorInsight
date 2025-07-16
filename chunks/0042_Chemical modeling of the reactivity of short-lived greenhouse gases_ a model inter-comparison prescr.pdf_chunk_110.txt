@@ -1,0 +1,8 @@
+average for identifying model–model difference. The pro-
+tocol also makes several simplifying assumptions that may
+affect results: the solar declination over the month is ﬁxed
+at the mid-month value; and the 24 h integration is always
+started globally at the same universal time, meaning at dif-
+ferent local solar times across the longitudes. These issues
+were tested with a single model and found to be unimportant
+compared with the synoptic variability in clouds and other

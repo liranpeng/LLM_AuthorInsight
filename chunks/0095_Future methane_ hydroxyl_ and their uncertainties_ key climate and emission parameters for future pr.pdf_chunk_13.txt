@@ -1,0 +1,8 @@
+anistic representation of methane loss from tropospheric OH.
+We focus on the tropospheric OH sink because other methane
+sinks are smaller and their intrinsic variability has a smaller
+impact on the total methane lifetime. The parametric model
+includes climate and emission factors that control the interan-
+nual variability of methane lifetime in the CTMs. These fac-
+tors are likely important on decadal time scales as well. The
+parametric model also includes anthropogenic emissions that

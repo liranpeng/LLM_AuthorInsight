@@ -1,0 +1,6 @@
+3325
+Figure 36. Mean altitude proﬁle of L-CO (ppb d−1) over the three tropical basins for ATom-1234.
+Figure 37. Mean altitude proﬁle of the four reactivities (P-O3, L-O3, L-CH4, L-CO, ppb d−1) over the Arctic (66–90◦N) for ATom-1234.
+All ATom 10 s parcels are weighted by the frequency of pressure sampling only. Troposphere-only parcels. Dates in the legend are the day
+of crossing the Equator in the Paciﬁc for each deployment.
+Caution should be taken when using the MDS data for

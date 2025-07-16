@@ -1,0 +1,13 @@
+modulo (N2 + 1) + 1.
+(23)
+The cloud correlation factor of group G1 with group G2 is
+the same for all cloudy ICAs and is derived from the total
+www.geosci-model-dev.net/8/2587/2015/
+Geosci. Model Dev., 8, 2587–2595, 2015
+2590
+M. J. Prather: Photolysis rates in correlated overlapping cloud ﬁelds: Cloud-J 7.3c
+cloudy fractions F G1 and F G2.
+gG1 = 1 + cc(1/F L2 −1),
+subject to gG1 ≤1/F G1 and gG1 ≤1/F G2
+(24)
+For convenience denote J1 ≤N1 as cloudyG1, J1 = N1 + 1 as

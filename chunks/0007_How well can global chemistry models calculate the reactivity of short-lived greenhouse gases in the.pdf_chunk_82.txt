@@ -1,0 +1,8 @@
+erence case. UCI is typically higher and GSFC is lower. For
+J-NO2 in these most reactive parcels, UCI is notably higher
+as is GISS, a result seen in the average proﬁles (Fig. 1), but
+it does not affect the reactivities. The mean bias of models
+relative to the reference case is also seen in Fig. 7 with the
+offset of the points. The results here are similar to what has
+been identiﬁed earlier: GISS has unusual offsets for all re-
+activities and J-O1D; agreement for P -O3 is much better

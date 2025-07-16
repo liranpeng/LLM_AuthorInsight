@@ -1,0 +1,4 @@
+Surface N2O measurements from NOAA are taken from the cooperative global air sampling network collect-
+ed by the Global Greenhouse Gas Reference Network for the Carbon Cycle and Greenhouse Gases (CCGG) 
+Group. These air-flask samples are collected weekly from a discrete and dense network of global back-
+ground sites, air-sampling towers, small aircraft, and cooperative regional background sites (Dlugokencky

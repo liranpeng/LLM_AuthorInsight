@@ -1,0 +1,4 @@
+ﬁndings of Tie and Hess [1997] and Olsen et al. [2013]. Both residual and simulated ﬂuxes have a similar sea-
+sonal cycle in NH, but the total residual ﬂux is about 80% larger. By missing the peak ﬂux in austral winter
+(JJA), the SH residual ﬂux fails to capture the seasonal cycle. This is due to the large erroneous upward ﬂux
+inside the SH winter polar vortex (seen in Figure 1f) that cancels the downward ﬂux elsewhere.

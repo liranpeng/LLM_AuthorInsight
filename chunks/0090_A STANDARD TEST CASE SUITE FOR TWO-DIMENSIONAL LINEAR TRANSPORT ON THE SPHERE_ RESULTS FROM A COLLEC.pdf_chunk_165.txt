@@ -1,0 +1,9 @@
+well ﬁlaments are preserved in terms of how well a scheme
+preserved the total area for which φ is larger than a threshold
+value τ.
+The cosine bell initial conditions are chosen for this test
+as they are quasi-smooth (but not inﬁnitely smooth) and
+have mixing ratio values that span the entire range from the
+background value of 0.1 to the peak value, φ = 1.0. Slotted-
+cylinder initial conditions, for example, only have two val-
+ues, and simulations using that initial conditions would there-

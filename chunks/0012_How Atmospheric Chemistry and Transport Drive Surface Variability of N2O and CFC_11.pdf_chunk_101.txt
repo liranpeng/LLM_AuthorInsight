@@ -1,0 +1,4 @@
+at the surface. This is surprising since the stratospheric losses have cc values of 0.37–0.38. The implication 
+is that the large QBO signal in the chemical creation of N2O-depleted (or F11-depleted) air in the tropical 
+stratosphere is not transmitted to the surface. Rather, it is the QBO-related changes in dynamics of the 
+mid-latitude lowermost stratosphere that causes the surface signal. The large QBO signal in tropical N2O

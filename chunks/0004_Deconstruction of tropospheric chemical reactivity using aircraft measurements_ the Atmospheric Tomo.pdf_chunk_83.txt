@@ -1,0 +1,10 @@
+latitude and 200 m altitude bins.
+Figure 7. Curtain plots of L-O3 (ppb d−1) in the Paciﬁc basin (53◦S–60◦N) for ATom-1234. See Fig. 6.
+(R4) is not sensitive to cold temperatures. Only one of the
+two Antarctic ﬂights had enough sunlight to produce much
+reactivity (ATom-3, Fig. 28). Like the Arctic, P-O3 is con-
+centrated in the upper troposphere, while L-O3 and L-CH4
+are in the lower troposphere. Note that the color scale is 6 to
+12 times smaller than in Figs. 6–25.
+3.3
+Mean altitude proﬁles

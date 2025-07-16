@@ -1,0 +1,10 @@
+team ﬂew more than 50 ﬂights over the ocean up to 15 km off
+the eastern coast of Barbados. The ﬁrst ﬂight was on 25 Jan-
+uary and the last was on 9 February 2020. The Skywalker has
+a 1.5 m wingspan and a maximum takeoff weight of 2.5 kg.
+The Skywalker ﬂew up to 1 h and utilized sensor feedback to
+map an individual cloud autonomously and adaptively.
+B15
+Caravela
+The AutoNaut (Caravela) was operated by the University of
+East Anglia (UEA). Caravela is an unmanned surface vehi-

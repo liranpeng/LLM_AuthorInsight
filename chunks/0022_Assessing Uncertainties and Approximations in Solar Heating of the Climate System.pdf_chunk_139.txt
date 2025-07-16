@@ -1,0 +1,7 @@
+values in the scattering regions (VIS and IR bands #S19-22) for SSA (Figure 3a) and g, but we calculate about 
+10% more extinction for the same effective diameter and ice water content. We were not able to implement 
+the new RRTMG(BY) code in Solar-J and can only assess their published results: RRTMG(BY) has weaker 
+HSU AND PRATHER
+10.1029/2020MS002131
+15 of 24
+Journal of Advances in Modeling Earth Systems

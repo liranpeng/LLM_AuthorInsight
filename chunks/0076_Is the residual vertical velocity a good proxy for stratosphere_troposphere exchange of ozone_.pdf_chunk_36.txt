@@ -1,0 +1,4 @@
+(color contours; in ppb/d) is obtained by integrating the ozone ﬂux (moles-O3/s/m2) across the surface
+of the model grid box that is normal to the ﬂux and is then normalized by the air mass of the grid box
+(moles-air). The transport everywhere is adjusted to the value with respect to a grid box with a uniform
+latitudinal length of 300 km and a vertical depth of 1.5 km in geometric height for fair comparison (see sup-

@@ -1,0 +1,7 @@
+species (Forster et al., 2016). These simulations differ from
+the transient ERF simulations in Sect. 3.1.2 in that they use
+Geosci. Model Dev., 10, 585–607, 2017
+www.geosci-model-dev.net/10/585/2017/
+W. J. Collins et al.: AerChemMIP: quantifying the effects of chemistry and aerosols in CMIP6
+595
+Table 6. List of ﬁxed SST ERF simulations. These are time-slice experiments of 30 years in total, using pre-industrial climatological average

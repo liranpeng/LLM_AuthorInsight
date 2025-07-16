@@ -1,0 +1,8 @@
+CAFS observation represents a single point with unique solar
+zenith and azimuth angles within a unique 3-D distribution
+of clouds and surface albedos. Ozone column and tempera-
+ture also control J values but are less discontinuous across
+ﬂight path and model grids. One can deﬁne a column at-
+mosphere (CA) for each J value in terms of the clouds di-
+rectly above/below and the surface albedo, as would be mea-
+sured by satellite nadir observations. The CAFS-measured

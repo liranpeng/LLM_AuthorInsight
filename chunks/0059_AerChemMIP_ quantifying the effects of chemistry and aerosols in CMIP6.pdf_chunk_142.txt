@@ -1,0 +1,10 @@
+iment (1979–2014).
+4.2
+Forcing
+For better documentation of which forcing is actually present
+in a given climate model, several sets of diagnostics are
+needed: (1) ﬂux parameters providing ERF from ﬁxed SST
+simulations, (2) 3-D mass mixing ratios and optical thick-
+ness in transient simulations, and (3) repeated aerosol-free
+calls to the radiation code (with aerosol scattering and ab-
+sorption set to zero) in transient climate simulations (Ghan et

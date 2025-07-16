@@ -1,0 +1,9 @@
+www.geosci-model-dev.net/10/585/2017/
+Geosci. Model Dev., 10, 585–607, 2017
+590
+W. J. Collins et al.: AerChemMIP: quantifying the effects of chemistry and aerosols in CMIP6
+impact on climate. We have devised a series of experiments
+that enable the forcing of various NTCFs to be contrasted
+with that of WMGHGs for historical and future climate
+change. In addition, the proposed chemistry–climate simula-
+tions will enable diagnosis of changes in regional air quality

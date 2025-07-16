@@ -1,0 +1,4 @@
+shows the full troposphere, approximately 0–12 km. The color coding in the legend identiﬁes the four ATom deployments. The numbers in
+the legend are, successively, the mean value, standard deviation, and skewness in parts per billion.
+Figure 62. Probability density of O3 (ppb) in the three tropical basins (30◦S–30◦N) for ATom-1234. See Fig. 61. The numbers in the legend
+are, successively, the mean value, standard deviation, and skewness in parts per billion.

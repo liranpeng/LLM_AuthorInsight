@@ -1,0 +1,9 @@
+CO2 as a function of emission scenario.
+Oscillations of annual CO2 growth are correlated with
+global temperature and with the El Niño/La Niña cycle.15
+Correlations (Fig. 6) are calculated for the 12-month run-
+ning means, which effectively remove the seasonal cycle
+and monthly noise. Maxima of the CO2 growth rate lag
+global temperature maxima by 7–8 months (Fig. 6b) and lag
+Niño3.4 (latitudes 5◦N–5◦S, longitudes 120–170◦W) tem-
+perature by ∼10 months. These lags imply that the current

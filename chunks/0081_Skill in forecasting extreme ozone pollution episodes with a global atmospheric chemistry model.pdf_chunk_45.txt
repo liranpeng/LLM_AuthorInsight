@@ -1,0 +1,13 @@
+QP = 100β
+K
+X
+k=1
+wk
+(5)
+Thus, for β = 2.5, one station at 50 km or less distance counts
+as 5.7 stations, and one at 200 km counts as 0.18 stations.
+Grid-cell-average QP values are calculated in the same man-
+ner as the average O3 in Eq. (4). The observing sites do not
+always provide continuous daily data for the decade 2000–
+2009, and thus the numbers of sites that go into the daily
+interpolation of each grid cell may vary. In order to keep the

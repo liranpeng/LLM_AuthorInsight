@@ -1,0 +1,16 @@
+round-trip on this dataset we truncated the highest-frequency modes (35% of all modes), which had
+the effect of reducing the baseline’s errors against the reference dataset.
+In future work, it would be natural to directly train on the cubed sphere grid data, which would
+prevent complications associated with regridding. The cubed sphere grid has been used for ML-
+8
+Predictions
+Prognostic
+variables 
+Forcing
+variables 
+Prognostic
+variables at
+next time step
+Diagnostic
+variables
+ACE

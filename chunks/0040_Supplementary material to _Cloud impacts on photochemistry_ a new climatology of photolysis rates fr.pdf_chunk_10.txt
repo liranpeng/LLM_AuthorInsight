@@ -1,0 +1,4 @@
+newly implemented decorrelation lengths for cloud overlap (Prather, 2015).  From the figure, the different cloud 
+treatments are clearly visible in the shifts in J-NO2 and J-O1D, and they have largest effect on P-O3 as compared 
+with L-O3 and L-CH4.  On average, the clear-sky simulation has 3-4% lesser J-values and similar changes in all 3 
+reactivities. The averaged-cloud method has about 12 % greater J-values (mostly above clouds), increasing

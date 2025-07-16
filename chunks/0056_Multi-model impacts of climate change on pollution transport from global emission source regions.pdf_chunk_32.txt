@@ -1,0 +1,8 @@
+the probability of a parcel being subject to convective trans-
+port. Although these two parameterisations are based on
+a mass ﬂux approach, there can be a wide spread in simu-
+lated convective mass ﬂuxes within a single parameterisation
+(Scinocca and McFarlane, 2004; Lamarque et al., 2013). In
+addition, how the transport of the CO tracer is implemented
+will inﬂuence the impacts of the convection schemes. The
+simulations were performed using decadal-average monthly

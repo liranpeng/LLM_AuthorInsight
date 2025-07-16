@@ -1,0 +1,15 @@
+calculated by the Mie code:
+Hx =
+X
+bin
+X
+lev
+Cext(Dp,en,λ)1zlevnbin = τ,
+(7)
+where 1zlev is the vertical thickness of the model level “lev”
+(m), and Cext is the extinction cross-section (m−1). To calcu-
+late Cext in the model we use Wiscombe’s Mie code scheme
+for spherical homogeneous particles (Wiscombe, 1979, re-
+vised 1996, 1980) and aerosol refractive indices from the
+Global Aerosol Data Set/Optical Properties of Aerosols and
+Clouds (GADS/OPAC, Köpke et al., 1997; Hess et al., 1998)

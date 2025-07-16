@@ -1,0 +1,9 @@
+EC92; Key, 2002, henceforth Key02; Fu, 1996, henceforth
+Fu96).
+These parameterization schemes in RRTMG-SW aim to ﬁt
+the ice-cloud optical properties – extinction coefﬁcient, SSA,
+and g – as a polynomial function of re and CWC. Note that
+Fu’s parameterization is based on the generalized effective
+diameter (Dge) but can be related to the input re through
+Eq. (3.12) of Fu (1996). Ebert and Curry’s parameteriza-
+tion has been applied in the Community Atmosphere Model

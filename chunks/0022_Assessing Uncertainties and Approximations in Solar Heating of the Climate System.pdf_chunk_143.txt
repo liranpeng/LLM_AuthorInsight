@@ -1,0 +1,4 @@
+a 2-stream solution then we need to understand how these new ice-cloud optics are implemented.
+The treatment of ice-water clouds remains a large source of uncertain error in solar-heating codes. A more 
+accurate treatment of ice water clouds will combine the physics of individual particles (e.g., Mishchenko 
+et al, 2016; Yang et al., 2018) with the actual mix of such particles observed in the atmosphere (Heyms-

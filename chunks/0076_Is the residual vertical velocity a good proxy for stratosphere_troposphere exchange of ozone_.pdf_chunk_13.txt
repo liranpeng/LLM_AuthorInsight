@@ -1,0 +1,7 @@
+Geophysical Research Letters
+10.1002/2014GL061994
+the deﬁned tropopause, and this extra step can introduce major errors into the STE estimates [Gettelman
+and Sobel, 2000].
+This paper examines the consistency of the magnitude, location, and interannual variability of O3 STE as
+calculated using these three methods. For TC diagnostics, the accuracy of O3 ﬂuxes across a deﬁned 3-D
+tropopause-like surface (see section 2.2) is subject only to the model’s ﬁnite temporal and spatial resolutions

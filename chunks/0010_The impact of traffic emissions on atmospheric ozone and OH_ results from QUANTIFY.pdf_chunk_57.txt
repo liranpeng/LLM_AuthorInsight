@@ -1,0 +1,11 @@
+the POET and RETRO projects, then for additional 6 months
+with the emissions provided for the QUANTIFY project.
+One restart ﬁle was archived for March 2002. From this ﬁle
+the ﬁve different scenarios were started, which were run for
+22 months.
+3.4
+p-TOMCAT
+The model used during the ﬁrst part of the QUANTIFY
+project is the global ofﬂine chemistry transport model p-
+TOMCAT. It is an updated version (see O’Connor et al.
+(2005)) of a model previously used for a range of tropo-

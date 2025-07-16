@@ -1,0 +1,6 @@
+Solar-J/hrv (black dots).
+Journal of Advances in Modeling Earth Systems
+VIS bands in Solar-J using both photon and Watt weighting derived from the same high-resolution solar 
+spectrum. When the bands are narrow (e.g., 320–345 nm) the difference between these two averaging meth-
+ods in negligible, but for the two broad VIS bands, the Watt-averaged Rayleigh cross sections are 4%–7% 
+larger, and would result in greater reflected flux as seen in RRTMG and SJ/hrv. Thus Solar-J's requirement

@@ -1,0 +1,5 @@
+2000–2009 (bias = AirBase minus EMEP). Biases are shown for the (a) 25th, (b) 50th, and (c) 95th percentiles and are calculated using
+independent sampling. This mask includes only grid cells with a QP greater than 0.33 for both data sets. The area-weighted mean bias and
+1σ for each percentile are given with the graph. All mean biases are negative.
+background O3, so they are placed at more remote, higher-
+altitude locations; while AirBase is selected to reﬂect pop-

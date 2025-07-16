@@ -1,0 +1,9 @@
+in the global CCM/CTMs. For a better comparison of the
+chemical mechanisms, we should have F0AM use 5 d of pho-
+tolysis ﬁelds from one of the CTMs. The anomalous GISS
+results have been examined by a co-author, but no clear
+causes have been identiﬁed as of this publication. The prob-
+lem goes beyond just the implementation of the RDS proto-
+col, as it shows up in the model climatology (Figs. 4 and 5,
+also in P2017).
+Decadal-scale shifts in the budgets of O3 and CH4 are

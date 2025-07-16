@@ -1,0 +1,5 @@
+types of activities involved in the field program and includes mission planning exercises. 
+This module can also serve as a model for future EOL related aircraft field missions.
+In summary, CSET made substantial advancement in our characterization of the evolution of 
+cloud systems along the southeast extent of the North Pacific anticyclone. The observations 
+will serve as a unique source of information for many future process and modeling studies

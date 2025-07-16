@@ -1,0 +1,4 @@
+cycles in transport and surface emissions. The three models each use a different meteorology to drive the 
+atmospheric circulation, but they all predict a clear QBO signal similar to that in the NOAA surface data. 
+The larger annual cycle driven by seasonality of emissions and transport including stratospheric influence 
+has previously been studied by Nevison et al. (2004). Section 4 looks at the modeled annual cycle in surface

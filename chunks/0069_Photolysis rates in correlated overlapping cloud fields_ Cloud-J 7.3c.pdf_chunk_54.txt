@@ -1,0 +1,8 @@
+not the equivalent isotropic properties.
+In addition to these ICA approximations, we also com-
+pare the G6/.33 exact sum over ICAs with three simple cloud
+models often used in chemistry models that do not generate
+ICAs: clear sky (ClSky); averaged cloud over each layer (Av-
+Cld); and cloud fraction to the 3/2(f 3/2, CF3/2).
+A sample of mean and rms errors for the seven approxi-
+mate methods is given in Table 1. In addition, a tropospheric

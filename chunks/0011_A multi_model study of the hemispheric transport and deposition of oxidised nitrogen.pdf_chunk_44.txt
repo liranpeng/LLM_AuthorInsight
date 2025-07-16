@@ -1,0 +1,10 @@
+currently underway, which use prescribed emissions and
+idealised species with fixed lifetimes and production rates to
+understand the impact of the different model transport
+processes on the results.
+[20]
+Acknowledgments.
+This modelling exercise was organised un-
+der the Task Force for Hemispheric Transport of Air Pollution, which was
+set up by the Executive Body of the Convention on Long-Range Trans-
+boundary Air Pollution. MGS and KJP acknowledge funding from the UK

@@ -1,0 +1,4 @@
+by Hsu et al. [2005] and further improved by Hsu and Prather [2009] to produce less noisy geographic maps
+of STE ﬂux. Three TC STE ﬂuxes are named as TC-e90, TC-120 ppb, and TC-250 ppb. The monthly, zonal-mean
+vertical residual velocity (w∗) at 100 hPa is calculated based on the equation (3.5.1b) of Andrews et al.
+[1987]. The residual O3 ﬂux is written as w∗O3. We also accumulate the exact simulated vertical ﬂux across

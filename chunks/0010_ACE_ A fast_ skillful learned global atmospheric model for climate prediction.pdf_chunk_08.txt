@@ -1,0 +1,5 @@
+conserved across individual timesteps. External forcings, such as incoming solar radiation and sea
+surface temperature, are used as inputs. Finally, ACE replicates the near-surface climatology of the
+reference model better and runs much faster than a 2x coarser but otherwise identical version of that
+model.
+Related work includes ClimateBench [22] which proposes directly predicting climate metrics such

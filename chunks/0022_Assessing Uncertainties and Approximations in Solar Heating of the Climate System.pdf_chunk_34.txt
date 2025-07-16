@@ -1,0 +1,40 @@
+Solar-J using δ-1 scaling. The sum of the 3 principal components may not equal zero because of round-off or small differences in incident flux (not 
+shown) due to the vertical sub-layers for clouds in SJ. The Rayleigh case below R17 was done with clear sky.
+R9
+Mh–M0
+SJ/HG v. SJ (Mie)
+−0.05
++0.14
+−0.09
+0.8
+0.6
+0.6
+R10
+M1–M0
+SJ/δ0 v. SJ (Mie)
+−0.26
+−0.22
++0.44
+5.6
+1.2
+5.1
+R11
+M2–M0
+SJ/δ1 v. SJ (Mie)
+−0.33
++0.23
++0.07
+1.4
+1.0
+2.2
+R12
+M3–M0
+SJ/δ2 v. SJ (Mie)
+−0.32
++0.05
++0.23
+2.8
+0.5
+3.1
+R13
+M4–M0

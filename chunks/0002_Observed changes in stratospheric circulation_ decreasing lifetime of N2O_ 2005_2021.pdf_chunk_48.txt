@@ -1,0 +1,8 @@
+stratosphere, however, is a balance between production, ver-
+tical transport, and photochemical loss above 40 km, and we
+cannot estimate it from the production alone.
+In parallel with our MLS N2O data analysis, S. E. Stra-
+han led a full chemistry-transport modeling study of the MLS
+period using the MERRA-2 wind ﬁelds and focusing on the
+chemistry of N2O, NOy, and O3. Their results support our
+analysis and show that more rapid vertical ascent in the tropi-

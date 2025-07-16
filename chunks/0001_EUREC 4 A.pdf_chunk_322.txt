@@ -1,0 +1,12 @@
+ary 2020. These drifters do not have a drogue to follow
+the currents at 15 m and thus are deployed tethered to an-
+other drifter. Each ﬂoat measured temperature and salinity
+at 5 cm depth, as well as vertical acceleration and thus wave
+spectra. Moreover, the noise recorded by a microphone un-
+der a cupola was spectrally analyzed to estimate the noise
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+https://doi.org/10.5194/essd-13-4067-2021
+B. Stevens et al.: EUREC4A
+4105
+Table B9. Meteor.
+Instrument

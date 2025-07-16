@@ -1,0 +1,8 @@
+waves. CLAW used here is formally second-order accurate.
+A TVD monotonized central-difference limiter (LeVeque,
+2002; van Leer, 1977) is used for shape preservation, but
+other TVD type ﬂux limiters can also be applied.
+Clawpack supports the advective and ﬂux form of the
+transport equation. The version of CLAW used here is based
+on the advective form. For non-divergent winds the average
+normal velocity at mesh cell edges is obtained by differenc-

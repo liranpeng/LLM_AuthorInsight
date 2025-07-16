@@ -1,0 +1,8 @@
+chemical statistics, Yu et al. (2016) used 60 s data (∼12 km)
+from the SEAC4RS aircraft mission to compare cumulative
+probability densities (PDs) of NOx, O3, HCHO and isoprene
+over the Southeast US with the GEOS-Chem CTM run at
+different resolutions. They identiﬁed clear biases at the high
+and low ends of the distribution, providing a new test of mod-
+els based on the statistics rather than mean values. Heald
+et al. (2011) gathered high-resolution proﬁling of organic

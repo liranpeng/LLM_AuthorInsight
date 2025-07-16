@@ -1,0 +1,9 @@
+www.atmos-meas-tech.net/11/2653/2018/
+Atmos. Meas. Tech., 11, 2653–2668, 2018
+2656
+M. J. Prather et al.: Reactivity of short-lived greenhouse gases
+both photolytic and kinetic reactions. Our comparison looks
+at the parcel by parcel differences including the scatter (root
+mean square ,rms, differences) and average values across the
+models. To provide a standard for comparisons, we seek a
+reference case based on several models, and this is easily

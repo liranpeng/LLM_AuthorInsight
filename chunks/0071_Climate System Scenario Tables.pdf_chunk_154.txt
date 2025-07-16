@@ -1,0 +1,17 @@
+108.8
+91.3
+2100
+192.5
+149.8
+104.1
+91.0
+Notes:
+(a) See Chapter 6, Figure 6.30 and Erisman et al. (2008) for details and sources.
+1421
+Climate System Scenario Tables	
+Annex II
+AII
+AII.3: Natural Emissions
+Table AII.3.1a |  Net land (natural and land use) CO2 emissions (PgC yr–1)
+Table AII.3.1b |  Net ocean CO2 emissions (PgC yr–1) 
+Notes:

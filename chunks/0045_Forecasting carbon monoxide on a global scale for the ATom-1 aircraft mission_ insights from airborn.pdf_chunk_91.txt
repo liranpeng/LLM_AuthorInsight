@@ -1,0 +1,5 @@
+the mean value; and red circles show the 2016 value for (a) the MOPITT CO column, (b) the GFED4 CO emissions, (c) MOPITT CO at
+700 hPa, and (d) MLS CO at 215 hPa. Statistics for MOPITT are for 2000–2016, statistics for GFED4 are for 2000–2015, and statistics for
+MLS are for 2004–2016. MOPITT and MLS values are for August, while the GFED4 emissions are averaged over June through August.
+the New Zealand region. Although the MOPITT CO col-
+umn over the Indonesia region does correlate with the MEI

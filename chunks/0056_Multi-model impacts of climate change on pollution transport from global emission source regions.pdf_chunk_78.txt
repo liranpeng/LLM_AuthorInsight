@@ -1,0 +1,8 @@
+mid-latitudes in summer when the mid-latitude jet streams
+are strongest, but their vertical extent is shallower than in the
+tropics. Substantial differences of a factor of 2–3 in annual-
+mean zonal convective mass ﬂuxes simulated across three
+models (including STOC-HadAM3) were also reported in
+Doherty et al. (2005). Since the same parameterisation is
+used by UM-CAM, HadAM3, and GISS-ER-2, it may be
+the speciﬁc details of its implementation and interactions

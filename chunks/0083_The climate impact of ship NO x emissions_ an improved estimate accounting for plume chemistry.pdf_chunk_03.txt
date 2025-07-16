@@ -1,0 +1,8 @@
+plume chemistry. The CTM now calculates O3 production
+and CH4 loss both within and outside the exhaust plumes and
+also accounts for the effect of wind speed. With the improved
+modeling of plumes, ship NOx perturbations are smaller than
+suggested by the ensemble of past global modeling studies,
+but if we assume instant dilution of ship NOx on the grid
+scale, the CTM reproduces previous model results. Our best
+estimates of the RF components from increasing ship NOx

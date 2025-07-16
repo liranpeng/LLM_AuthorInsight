@@ -1,0 +1,9 @@
+tical locations and QBO patterns in their stratospheric loss.
+A species STE ﬂux pattern (i) scales with the total ﬂux out of
+the stratosphere and (ii) is determined by the dynamics of the
+lowermost midlatitude stratosphere (Ruiz and Prather, 2022,
+Fig. 1).
+The monthly CO2 surface observations are gathered from
+NOAA ESRL (Dlugokencky et al., 2021b). I use ﬁve sites:
+BRW – Barrow, AK (now Utqia˙gvik), at 71◦N, 156◦W;
+MLO – Mauna Loa, HI, at 20◦N, 156◦W; SMO – Tutuila,

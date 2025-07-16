@@ -1,0 +1,5 @@
+R13) shown in Figure S2 (middle column).
+Atmospheric heating rates by clouds are driven predominantly in the IR region (>778 nm) where SJ and 
+RRTMG have identical bands and atmospheric properties (unlike the UV-VIS region discussed above). 
+The geographic pattern of atmospheric absorption at 00Z for RRTMG minus SJ/δ1(liquid-only) (T1/R15, 
+Figure 4iv) is consistent and uniformly negative. Since both use δ-1 scaling, this supports the result that

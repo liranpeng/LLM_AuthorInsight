@@ -1,0 +1,4 @@
+for calculating both photolysis and heating rates from the same calculation points out a fundamental con-
+flict in the case of broad bands. For the narrow tropospheric UV (298–345) the current SJ bands are fine, 
+but for the VIS we must increase the number of bands beyond 2, and look at Watt-weighting of Rayleigh 
+and O3 cross sections but not the photolyzed species. We expect that accurate clear-sky solar heating can be

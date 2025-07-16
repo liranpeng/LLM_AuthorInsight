@@ -1,0 +1,9 @@
+are similar to L-O3, including the large ATom-only losses
+(> 1.5 ppb d−1 over 3–6 km) in the eastern Paciﬁc but with
+higher reactivities occurring at slightly lower altitudes be-
+cause of the large negative temperature dependence of Reac-
+https://doi.org/10.5194/acp-23-99-2023
+Atmos. Chem. Phys., 23, 99–117, 2023
+110
+H. Guo et al.: Heterogeneity and chemical reactivity
+Figure 2. Curtain plots for P-O3 (0–5 ppb d−1; panels a, b, c), L-

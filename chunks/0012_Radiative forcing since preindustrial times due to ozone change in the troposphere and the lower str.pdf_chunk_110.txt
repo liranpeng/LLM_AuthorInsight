@@ -1,0 +1,9 @@
+ozone precursor increase. An exception is the DLR E39C
+model which yields a larger stratospheric ozone burden in
+scenario 1c than in 1a, the difference “2 minus 1c” thus be-
+ing more negative than “2 minus 1a”. One possible reason
+might be that the NOx and methane increase leads to NOx-
+and OH-catalyzed destruction in the stratosphere, which is
+not compensated by the transport of the relatively low tropo-
+spheric ozone increase in DLR E39C into the lower strato-
+sphere.

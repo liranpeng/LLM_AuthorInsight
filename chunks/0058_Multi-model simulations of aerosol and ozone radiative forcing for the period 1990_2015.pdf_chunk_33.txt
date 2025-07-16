@@ -1,0 +1,9 @@
+1990; MacIntosh et al., 2016).
+Six models simulated changes in annually averaged PM2.5
+(particulate matter with aerodynamic diameters less than
+2.5 µm) over the 1990–2015 period. A model mean linear
+trend is ﬁtted and shown as a function of latitude and longi-
+tude; see Fig. 2a. Regional changes in the model mean range
+from 2 to 3 % yr−1 reductions over much of the USA and
+Europe to 1 to 2 % yr−1 increases over much of southern
+and eastern Asia. The inter-model variation is small, as the

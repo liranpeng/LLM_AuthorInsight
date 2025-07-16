@@ -1,0 +1,8 @@
+proach that is practical with typical global model resolution
+is the treatment of inhomogeneous cloud ﬁelds as being com-
+posed of independently scattering cloudlets (Petty, 2002).
+This cloudlet approximation could be readily integrated into
+the plane-parallel framework of Fast-J.
+The added computational cost with G6/.33+AvQCA oc-
+curs with the additional calls to Fast-J, as the MAX-COR
+model and sorting of ICAs is fast. Computing photolysis

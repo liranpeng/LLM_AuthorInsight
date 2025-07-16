@@ -1,0 +1,9 @@
+sis, we will use anthropogenic-only emissions to compute
+the average anthropogenic fraction in transient simulations,
+as compared to the pre-industrial reference in 1850. Some
+emissions may include natural components, which may have
+changed along with climate change, such as NOx from light-
+ning and soil degradation and biogenic volatile organic com-
+pounds. We therefore request total emissions for each species
+for 1850 and 2014.
+The 3-D ﬁelds of mass mixing ratios also provide the ver-

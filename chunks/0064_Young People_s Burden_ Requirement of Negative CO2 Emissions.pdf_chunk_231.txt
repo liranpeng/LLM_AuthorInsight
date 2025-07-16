@@ -1,0 +1,9 @@
+face temperature (ERSST) (Smith et al., 2008; Huang et al.,
+2015).
+Surface air temperature change over land is about twice
+SST change (Fig. A3a), and thus global temperature change
+is 1.3 times larger than the SST change. Note that the Arctic
+Ocean and parts of the Southern Ocean are excluded in the
+calculations because of inadequate data, but these regions are
+also not sampled in most paleo-analyses and the excluded
+areas are small. Land area included covers 29 % of the globe

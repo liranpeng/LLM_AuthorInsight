@@ -1,0 +1,23 @@
+condition ¯α in the next time step by choosing a new 1t as
+1tnew =
+¯α
+αmax
+1t.
+(A4)
+For the results presented here, we set ¯α = 0.95. Clawpack
+does not make use of any explicit diffusion parameters or
+artiﬁcial viscosity.
+The Fortran code and Python scripts for running the
+benchmark
+examples,
+and
+Matlab
+scripts
+for
+visual-
+ization can all be downloaded from the author’s web
+page
+(http://math.boisestate.edu/~calhoun/www_personal/
+research/NCAR_workshop/).
+A5
+CSLAM

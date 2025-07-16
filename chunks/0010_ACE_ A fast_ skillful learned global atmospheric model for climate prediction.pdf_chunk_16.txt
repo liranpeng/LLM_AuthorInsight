@@ -1,0 +1,6 @@
+based on how they are used in the reference physics-based simulation. The diagnostic variables do
+not inform the next step, which is typical for physics-based atmospheric models and has the important
+benefit that fields such as precipitation are not necessary to initialize a simulation. However, because
+3Code, data and model weights are publicly available; see https://github.com/ai2cm/ace.
+2
+Figure 1: Global mean timeseries of (top) near-surface air temperature T7 and (bottom) total water

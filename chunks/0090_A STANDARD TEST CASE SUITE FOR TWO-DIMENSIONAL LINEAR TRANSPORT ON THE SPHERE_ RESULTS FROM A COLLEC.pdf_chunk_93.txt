@@ -1,0 +1,8 @@
+of unresolvable deformation into parcel ﬁlaments, which one
+may also describe as aliasing in Lagrangian space. The Eu-
+lerian solution is simply a ﬁrst-order forecast; in this case, a
+ﬁrst-order version of CSLAM is used. Hence HEL is cate-
+gorized under ﬁnite-volume semi-Lagrangian schemes, and
+the Lagrangian parcel part of the algorithm is viewed as a
+shape-preserving limiter in the context of this intercompari-
+son. Lagrangian parcel values are used to nudge the shape-

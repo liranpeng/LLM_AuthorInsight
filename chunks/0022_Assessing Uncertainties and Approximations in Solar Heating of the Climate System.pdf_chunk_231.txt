@@ -1,0 +1,4 @@
+Sciences 43 (8), 784–801.
+Lacis, A. A., & Oinas, V. (1991). A description of the correlated Kappa-distribution method for modeling Nongray gaseous absorption, ther-
+mal emission, and multiple-scattering in vertically inhomogeneous atmospheres. Journal of Geophysical Research, 96(D5), 9027–9063.
+Li, J., Barker, H., Yang, P., & Yi, B. (2015). On the aerosol and cloud phase function expansion moments for radiative transfer simulations.

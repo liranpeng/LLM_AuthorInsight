@@ -1,0 +1,8 @@
+and reactivity speciﬁc: for L-O3, GFDL is much steeper that
+the other models, consistent with the feature identiﬁed earlier
+in the scatter plots; and for L-CH4, GISS is much shallower.
+Surprisingly, with this diagnostic GISS is not an obvious out-
+lier for P-O3 and L-O3 as seen in previous comparisons.
+From this cumulative reactivity ﬁgure, one can see that
+the top 5 % of parcels comprise 15 % of the total reactiv-
+ity, effectively a slope of 3 : 1. With the exceptions noted,

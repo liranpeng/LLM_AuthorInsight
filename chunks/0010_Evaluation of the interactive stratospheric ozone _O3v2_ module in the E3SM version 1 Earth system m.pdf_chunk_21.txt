@@ -1,0 +1,8 @@
+near the tropopause has an unknown climate impact. In the
+present study, we correct this problematic approach with the
+O3v2 chemistry module by replacing the tropospheric over-
+writing with a tropospheric tracer that is passive except in
+the lowest four layers (below 1 km altitude) where it is re-
+moved with a 48 h e-folding decay to 30 ppb (parts per bil-
+lion by mole fraction). The choice of 30 ppb gives Linoz a
+tropospheric ozone mass similar to full chemistry models and

@@ -1,0 +1,8 @@
+questions, some variables will be used to speciﬁcally help
+to evaluate model performance. Testing model behaviour
+against observations is critical for gaining conﬁdence in their
+simulation of the historical past and predictions of the future.
+The output requested refers to variables that have been ob-
+served by different observational networks (based on ground-
+based, balloon, aircraft or satellite sensors) over the recent
+past. Comparison to these data will enable investigation of

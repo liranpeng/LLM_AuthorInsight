@@ -1,0 +1,11 @@
+photolysis rates, and found an inter-year RMSD about half of
+that of the core model’s RMSD. Thus, there is a fundamental
+uncertainty in this approach due to the inability to specify the
+cloud/photolysis history seen by a parcel over 24 h, but it is
+less than the inter-model differences among the most similar
+models.
+2
+Introduction
+The NASA Atmospheric Tomography (ATom) mission com-
+pleted a four-season deployment, each deployment ﬂying
+from the Arctic to Antarctic and back, traveling south

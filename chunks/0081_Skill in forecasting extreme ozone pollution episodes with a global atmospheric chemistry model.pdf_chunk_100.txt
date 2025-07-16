@@ -1,0 +1,8 @@
+ation across grid cells) and a min-to-max range of 0 to 65 %
+for the grid cells (Fig. 9a). The CTM skill was slightly better
+for EU: 32.2 ± 17 % (Fig. 9b). For the wider AQX threshold
+of 94.5th percentile, the skill increases as expected and the
+standard deviation is reduced: 35.6 ± 11 % for the US and
+37.5 ± 14 % for EU. While CTM skill at individual grid cells
+in the US shows no distinct pattern, that in EU shows a strong
+east–west trend, with signiﬁcantly higher skill to the west.

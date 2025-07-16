@@ -1,0 +1,4 @@
+A clear result from B2015, LBYY, Räisänen (2002) and this study is that 2-stream RT codes systematically 
+underestimate the atmospheric absorption by all clouds, and for ice clouds the error is larger in absolute 
+amount. They also overestimate the surface flux, and in all of Räisänen's efforts to tune a 2-stream code, 
+these fundamental errors remain. The ability to resolve the scattered light across multiple zenith angles is

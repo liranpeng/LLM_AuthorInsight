@@ -1,0 +1,44 @@
+*
+++ B
+13, 238, 320, 357
+Lightning NOx
+Low
+* (+)
+++ B
+5, 13, 320, 357–359
+Dry deposition
+Low
+?
+ LR, B
+13, 188, 199, 357
+Humidity
+High
++
+ B = LR
+7, 228, 234, 357
+Regional stagnation
+Medium
+++
+++LR
+7, 190, 195, 360
+Wind speed
+Low
+
+LR
+7, 361
+Mixing depth
+Low
+
+=LR
+7, 361
+Cloud cover
+Low
+
+–LR
+7
+Precipitation
+Low
+
+=LR
+7, 361
+a Low indicates conﬂicting evidence on sign of response to a warmer climate; Medium indicates that at least in some regions (e.g., for ﬁres, warm

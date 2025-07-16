@@ -1,0 +1,9 @@
+Acknowledgements
+We thank K.-D. Gottschaldt and F. Dentener for useful
+comments on earlier versions and O. Wild for providing text
+ﬁles of the TF HTAP model projections for 2030 and 2050.
+Funding is acknowledged from: the NASA Air Quality
+Applied Science Team (AQAST) (NNX12AF15G) to AMF;
+the UK National Environment Research Council (NERC)
+(NE/G015015/1) to DVS; the Joint DECC and Defra Inte-
+grated Climate Programme (GA01101) to WJC, GAF, FMO

@@ -1,0 +1,9 @@
+preprint arXiv:2302.00170 (2023).
+34. Leinonen, J., Hamann, U., Nerini, D., Germann, U. & Franch,
+G. Latent diffusion models for generative precipitation
+nowcasting with accurate uncertainty quantification. arXiv
+preprint arXiv:2304.12891 (2023).
+35. Li, L., Carver, R., Lopez-Gomez, I., Sha, F. & Anderson, J.
+Generative emulation of weather forecast ensembles with
+diffusion models. Sci. Adv. 10, eadk4489 (2024).
+36. Nath, P., Shukla, P. & Quilodrán-Casas, C. Forecasting

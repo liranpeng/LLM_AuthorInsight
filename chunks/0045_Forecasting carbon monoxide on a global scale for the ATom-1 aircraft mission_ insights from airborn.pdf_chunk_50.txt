@@ -1,0 +1,9 @@
+of enhanced CO at these locations, but the magnitude is of-
+ten underestimated (Fig. 2d–f), especially for the Azores–
+Kangerlussuaq ﬂight. Figure S6 shows the CO results for
+the Azores–Kangerlussuaq ﬂight using forecast wind ﬁelds
+and illustrates the temporal evolution of CO plumes along
+the ﬂight track. Comparison of Fig. S6 with Fig. 2f shows
+that the impact of using analysis versus forecast wind ﬁelds
+is small for this ﬂight since the forecasts already capture the
+timing of the plumes.

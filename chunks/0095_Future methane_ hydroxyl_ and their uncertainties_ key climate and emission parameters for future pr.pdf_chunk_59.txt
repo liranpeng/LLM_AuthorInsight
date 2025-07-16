@@ -1,0 +1,9 @@
++0.11 [5]
++0.06 ± 0.02
++0.074 ± 0.004 [7]
+VOC
++0.047 [5]
++0.04 ± 0.01
++0.033 ± 0.01 [7]
+a Sensitivities are reported as d ln(τCH4×OH)/d ln(F) for each variable F, based on perturbation tests described in Sect. 3.2.
+b Italic variables are major causes of interannual τCH4×OH changes (based on sensitivity and interannual changes in the variable) that are included the 1997–2009

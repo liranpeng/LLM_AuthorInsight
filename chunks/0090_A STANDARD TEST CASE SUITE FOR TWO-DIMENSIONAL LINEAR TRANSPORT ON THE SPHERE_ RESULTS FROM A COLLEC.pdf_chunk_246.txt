@@ -1,0 +1,18 @@
+-1
+-1.90E-02
+0
+0
+0
+-1
+-3.80E-03
+-1
+0
+0
+0
+0
+0
+0
+-1
+Fig. 16. Histogram of normalized error norms (ℓ2, ℓ∞, φmin, φmax in ﬁrst, second, third, and fourth row, respectively) for the divergent
+ﬂow ﬁeld test case for the unlimited (“un”) and shape-preserving (“sp”) versions of the schemes, respectively, at 1λ ≈1.5. The ordering is
+according to minimal resolution 1λm (see Fig. 3 ﬁrst row). The value “−1” indicates that no data are available. The appended CNs are for

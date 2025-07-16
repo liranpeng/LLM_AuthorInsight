@@ -1,0 +1,29 @@
+http://wiki.seas.harvard.edu/
+GFDL-AM3
+Arlene Fiore
+amﬁore@ldeo.columbia.edu
+https://www.gfdl.noaa.gov/am3-model/
+GISS-E2
+Lee Murray
+lee.murray@rochester.edu
+http://www.giss.nasa.gov/tools/modelE/
+GMI-CTM
+Sarah Strode
+sarah.a.strode@nasa.gov
+http://gmi.gsfc.nasa.gov
+UCI-CTM
+Michael Prather
+mprather@uci.edu
+ftp://halo.ess.uci.edu/public/xzhu/qcode_72c
+(c) Model average reactivities (ppb day−1) for P-O3, L-O3, and L-CH4
+Model
+Code
+P-O3
+L-O3
+L-CH4
+Tr. Pac.
+Global
+Tr. Pac.
+Global
+Tr. Pac.
+Global

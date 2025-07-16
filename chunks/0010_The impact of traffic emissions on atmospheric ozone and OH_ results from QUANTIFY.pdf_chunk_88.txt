@@ -1,0 +1,8 @@
+to our results can be explained by the use of different emis-
+sions, which are based on the EDGAR 1990 fuel estimates
+in Matthes et al. (2007) and are about 25% higher for NOx
+from road than in this study. The inverted sensitivity of ozone
+to road emissions during winter is also reported by Niemeier
+et al. (2006) with the maximum effect over Europe exceeding
+25% at the surface. The latter effect is simulated by all ﬁve
+models in our study, which contribute to the average shown

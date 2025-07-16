@@ -1,0 +1,8 @@
+pre-existing functional relations between tracers
+This test is used to assess how schemes perturb a pre-existing
+non-linear functional relation between tracers and quanti-
+ﬁes the mixing that the scheme introduces. The mixing is
+classiﬁed into different categories to quantify the amount
+of physical realizable mixing and spurious unmixing. The
+shapes of the scatterplots were examined, and large dif-
+ferences between the schemes have been discovered. Also

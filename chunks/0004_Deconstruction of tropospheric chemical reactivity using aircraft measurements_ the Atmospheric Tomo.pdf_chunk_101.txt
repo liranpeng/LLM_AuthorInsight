@@ -1,0 +1,8 @@
+ﬂights of ATom-1 (53◦S to 60◦N) with respect to the species
+measured by ATom. Sensitivity analyses are often calcu-
+lated with CCMs to assess the factors controlling the trends
+and variability in CH4 lifetime (Holmes et al., 2013). With
+CCMs, the calculation includes emissions, scavenging, trans-
+port, and chemistry, but here using ATom observations we are
+limited to a 24 h snapshot with only the chemical evolution of
+the parcels. We believe that this limitation does not affect our

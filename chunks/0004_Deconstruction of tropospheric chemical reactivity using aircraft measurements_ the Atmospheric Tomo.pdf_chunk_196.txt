@@ -1,0 +1,6 @@
+and 2b. See Fig. 61. The numbers in the legend are, successively, the mean value of NOx and the mean value of log10(NOx), both in parts
+per trillion. The four successive rows are 0–6 km for MDS V3 and V2b and 0–12 km for MDS V3 and V2b.
+The values of sOH for the ATom-1 parcels are plotted for the
+Paciﬁc and Atlantic ﬂight proﬁles in Fig. 70a and b, and the
+mean values are −0.24 and −0.20, respectively. The value
+of sOH is the most negative, about −0.3 in the lower tro-

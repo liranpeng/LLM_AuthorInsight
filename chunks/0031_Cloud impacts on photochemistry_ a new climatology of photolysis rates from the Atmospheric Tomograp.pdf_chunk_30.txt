@@ -1,0 +1,8 @@
+Prather, 2015). Several models ran the clear-sky case without
+clouds but with their background aerosols. Globally, aerosols
+have a notable impact on photolysis and chemistry (Bian et
+al., 2003; Martin et al., 2003), but over the middle of the Pa-
+ciﬁc Ocean (this analysis), the UCI model with and without
+aerosols shows mean differences of order ±1/2 %.
+Modeling the effect of clouds on J values began with early
+tropospheric chemistry modeling. One approach was to per-

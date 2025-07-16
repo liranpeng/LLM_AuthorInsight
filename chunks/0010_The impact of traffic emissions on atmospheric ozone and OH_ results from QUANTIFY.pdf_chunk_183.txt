@@ -1,0 +1,10 @@
+Press, Cambridge, United Kingdom and New York, NY, USA,
+2007.
+Kentarchos, A. and Roelofs, G.: Impact of aircraft NOx emissions
+on tropospheric ozone calculated with a chemistry-general cir-
+culation model: Sensitivity to higher hydrocarbon chemistry, J.
+Geophys. Res., 107, 4175, doi:10.1029/2001JD0000828, 2002.
+Kerkweg, A. and, S. R., Tost, H., and J¨ockel, P.:
+Technical
+note: Implementation of prescribed (OFFLEM), calculated (ON-
+LEM), and pseudo-emissions (TNUDGE) of chemical species in

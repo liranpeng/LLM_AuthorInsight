@@ -1,0 +1,9 @@
+cal stratosphere.
+The radiative transfer code in E3SM takes into account the
+ozone changes (Rasch et al., 2019) and thus responds with
+different heating proﬁles. The total net heating (shortwave +
+longwave) results from the E3SM simulations are shown in
+Fig. 8 for the UT–LS region. The O3v2 causes slight (up to
+a few percent) net cooling around the tropopause at all lati-
+tudes (except at SH high latitudes in austral spring-summer
+time) and net warming in the lowermost stratosphere in the

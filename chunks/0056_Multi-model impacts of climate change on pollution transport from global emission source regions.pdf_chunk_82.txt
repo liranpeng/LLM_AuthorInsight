@@ -1,0 +1,58 @@
+Atmos. Chem. Phys., 17, 14219–14237, 2017
+14228
+R. M. Doherty et al.: Multi-model impacts of climate change on pollution transport
+C-HadAM3 HIST CMF [DJF]
+C-HadAM3 HIST CMF [DJF]
+UMCAM HIST CMF [DJF]
+CAM HIST CMF [DJF]
+90S
+   
+30S
+   
+30N
+   
+90N
+GISS HIST CMF [DJF]
+GISS HIST CMF [DJF]
+   
+   
+   
+100
+CMAM HIST CMF [DJF]
+EQ
+30 N
+60 N 90 N
+30 S
+60 S
+90 S
+100
+300
+500
+700
+900
+EQ
+30 N
+60 N
+90 N
+30 S
+60 S
+90 S
+100
+300
+500
+700
+900
+EQ
+30 N
+60 N 90 N
+30 S
+60 S
+90 S
+100
+300
+500
+700
+900
+EQ
+30 N
+60 N 90 N

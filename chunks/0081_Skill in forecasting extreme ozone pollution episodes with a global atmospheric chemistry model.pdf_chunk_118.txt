@@ -1,0 +1,8 @@
+a week, a season, and a year, using a decade of observa-
+tions (Sect. 5.1). These statistics present a useful climatol-
+ogy for testing the means and perhaps standard deviations
+(see Chang and Hanna (2004) for more examples), but ex-
+treme high- and low-probability events are not so useful as a
+climatology (Sect. 3.2). The characterization of AQX events
+as large-scale, multiday episodes is investigated with cluster-
+ing algorithms (Sect. 5.2), and we develop climate statistics

@@ -1,0 +1,12 @@
+[14] Zongyi Li, Daniel Zhengyu Huang, Burigede Liu, and Anima Anandkumar.
+Fourier
+neural operator with learned deformations for pdes on general geometries.
+arXiv, 2022.
+doi:10.48550/arXiv.2207.05209.
+[15] Tung Nguyen, Johannes Brandstetter, Ashish Kapoor, Jayesh K. Gupta, and Aditya
+Grover.
+Climax:
+A foundation model for weather and climate.
+arXiv, 2023.
+doi:10.48550/ARXIV.2301.10343.
+[16] Jaideep Pathak, Shashank Subramanian, Peter Harrington, Sanjeev Raja, Ashesh Chattopadhyay,

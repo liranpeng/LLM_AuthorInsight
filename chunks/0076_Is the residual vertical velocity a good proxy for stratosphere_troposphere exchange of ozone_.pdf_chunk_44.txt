@@ -1,0 +1,4 @@
+In comparison with the ﬂux across the 100 hPa surface, ﬂuxes across the near-tropopause surfaces (TC-e90,
+TC-120 ppb, and TC-250 ppb in Figure 1e) show smaller seasonal amplitudes with a 2 month lag, which is
+consistent with Figure 6 in Hsu et al. [2005]. While the e90-tropopause surface has the lowest altitude, the
+associated TC-e90 ﬂux is larger than the TC-120 ppb or TC-250 ppb ﬂuxes for NH spring/early summer and

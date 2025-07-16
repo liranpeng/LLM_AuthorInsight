@@ -1,0 +1,22 @@
+consistent with the constraint provided by methyl chloro-
+form observations, 11.2 ± 1.3 yr (Prather et al., 2012), but all
+are within the range of contemporary tropospheric chemistry
+models (e.g. 9.7 ± 1.5 yr from ACCMIP, Naik et al., 2012).
+These simulations show similar variability of τCH4×OH in
+all CTMs. Common features include a sharp dip in 1998
+and peak in 2000, coincident with a strong El Ni˜no and
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+8.5
+9.0
+9.5
+10.0
+τCH  ×OH, y
+4
+Oslo CTM3
+UCI CTM

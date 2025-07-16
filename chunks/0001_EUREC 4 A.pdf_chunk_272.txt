@@ -1,0 +1,12 @@
+Hypersp. imager (specMACS)
+A VNIR and a SWIR hyperspectral camera (0.4 to 2.5 µm) and two polarization cameras to character-
+ize clouds, droplets, and optical thickness (Ewald et al., 2016)
+Solar radiometer (SMART)
+A spectral solar radiometer measuring visible and near-infrared radiation to infer cloud presence and
+microphysics
+Infrared imager (VELOX)
+A spectral IR imager to characterize clouds and measure liquid water path and SST
+Infrared
+thermometer
+(V-KT
+19)

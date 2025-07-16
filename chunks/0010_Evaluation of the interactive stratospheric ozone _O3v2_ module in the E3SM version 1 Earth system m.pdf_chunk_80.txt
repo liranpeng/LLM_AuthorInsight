@@ -1,0 +1,8 @@
+ical UT–LS ozone pattern: ozone decreases from the middle
+stratosphere to the lower stratosphere with a sharp gradient
+across the tropopause. Figure. 7c shows the ozone hole de-
+pletion at 70 hPa over the South Pole in October. Compared
+to O3v1, O3v2 simulates less ozone throughout the UT–LS
+region except in the lower stratosphere over SH high lati-
+tudes. The reduction of O3v2 ozone is consistent with the
+lack of high-frequency tropopause variability in the O3v1

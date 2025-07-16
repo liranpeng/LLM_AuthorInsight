@@ -1,0 +1,8 @@
+stream approximations are ubiquitous and vary widely with
+solar zenith angle (Boucher et al., 1998).
+www.geosci-model-dev.net/10/2525/2017/
+Geosci. Model Dev., 10, 2525–2545, 2017
+2530
+J. Hsu et al.: A radiative transfer module
+Table 1. Some key conﬁguration parameters for Solar-J v7.5 wavelength bins: solar-ﬂux-weighted wavelength (λeff) within the range be-
+tween λbeg and λend, solar ﬂuxes in photons cm−2 s−1 (Sphot) and in W m−2 (Swatt), Rayleigh cross section (XRayl), and yields for photo-

@@ -1,0 +1,10 @@
+2013). Our two cases with rapidly declining emissions never
+achieve 1000 PgC emissions, but TCRE can still be com-
+puted using the IPCC formulae, yielding TCRE = 1.31 and
+1.25 ◦C per 1000 PgC at 2100 for the cases of −3 and
+−6 % yr−1 respective emission reductions. As expected, the
+rapid emission reductions substantially reduce the tempera-
+ture rise in 2100.
+A3
+Observed temperature data and analysis method
+We use the current Goddard Institute for Space Stud-

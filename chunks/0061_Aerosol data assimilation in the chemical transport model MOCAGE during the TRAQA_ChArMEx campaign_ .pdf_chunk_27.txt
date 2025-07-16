@@ -1,0 +1,9 @@
+aerosol types, between size bins or with gases. The aerosol
+dry deposition scheme is described in Nho-Kim et al. (2004).
+The sedimentation is implemented as described in Seinfeld
+and Pandis (1998). For the wet deposition, the model uses
+Giorgi and Chameides (1986) for the implementation of the
+in-cloud scavenging, and Slinn (1977) for the rain and snow-
+fall below-cloud scavenging.
+The emission inventories for BC and OC are prepared as
+follows. The anthropogenic component comes from Lamar-

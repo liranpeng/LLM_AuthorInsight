@@ -1,0 +1,8 @@
+Cloud variations on synoptic scales are primary sources
+of noise in this study. These are difﬁcult to standardize from
+either model or observation, given the wide range of meth-
+ods for treating cloud scattering and overlap. Cloud-driven
+changes in reactivity are clear in comparisons across models
+and also within the same model. Use of a single day for com-
+parison is inadequate. This protocol selects ﬁve days across
+the month to sample cloud ﬁelds, and this provides a stable

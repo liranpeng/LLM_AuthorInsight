@@ -1,0 +1,9 @@
+start time of the integration, and thus models do not have to
+synchronize with the local time of observation (see P2018’s
+Fig. S8 and Table S8).
+The initial ATom-1 reactivities came from MDS-0 and six
+of the models in Table 1. Although these RDS-0 model re-
+sults are now out of date because of the move to MDS-
+2b, they provide critical information on how models agree,
+or disagree, in calculating the RDS using the ATom proto-
+col. Thus we include them here as a cross-model compari-

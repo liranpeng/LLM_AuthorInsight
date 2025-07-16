@@ -1,0 +1,5 @@
+org/10.1029/141gm20
+Hsu, J., & Prather, M. J. (2009). Stratospheric variability and tropospheric ozone. Journal of Geophysical Research, 114(6), 1–15. https://doi.
+org/10.1029/2008jd010942
+Hsu, J., & Prather, M. J. (2010). Global long-lived chemical modes excited in a 3-D chemistry transport model: Stratospheric N2O, NOy, O3 
+and CH 4 chemistry. Geophysical Research Letters, 37(7), 1–5. https://doi.org/10.1029/2009gl042243

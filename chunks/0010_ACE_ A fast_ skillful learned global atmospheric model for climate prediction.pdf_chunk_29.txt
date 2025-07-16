@@ -1,0 +1,6 @@
+nearly obeys the column-wise conservation of moisture (Eq. 1). Figure 3 shows the magnitude of
+the violation of the budget is very small compared to the individual terms in the budget: standard
+deviation of total water path tendency is ∼50 times that of the column budget violation term. This is
+true even one year into the inference simulation. Global mean budgets are described in Appendix G.
+Zero-shot generalization to realistic sea surface temperature forcing
+In this work, as a first

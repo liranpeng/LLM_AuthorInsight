@@ -1,0 +1,9 @@
+X.: Representation of 3-D heterogeneous cloud ﬁelds using cop-
+ulas: theory for water clouds, Q. J. Roy. Meteor. Soc., 134, 1843–
+1864, 2008.
+Geosci. Model Dev., 8, 2587–2595, 2015
+www.geosci-model-dev.net/8/2587/2015/
+M. J. Prather: Photolysis rates in correlated overlapping cloud ﬁelds: Cloud-J 7.3c
+2595
+Oreopoulos, L., Lee, D., Sud, Y. C., and Suarez, M. J.: Radiative im-
+pacts of cloud heterogeneity and overlap in an atmospheric Gen-

@@ -1,0 +1,8 @@
+pre-existing functional relations in unphysical ways (e.g.,
+Thuburn and Mclntyre, 1997). For example, long-lived trace
+species in the stratosphere are known to be functionally re-
+lated (Plumb, 2007), and the simulation of cloud–aerosol in-
+teractions depends on accurate preservation of relations be-
+tween tracers (Ovtchinnikov and Easter, 2009). Based on the
+“boomerang ﬂow”, Lauritzen and Thuburn (2012) proposed
+an idealized test to assess how well schemes maintain a non-

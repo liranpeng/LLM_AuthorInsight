@@ -1,0 +1,11 @@
+Takahashi et al., 2006). At resolutions 1λ = 3.0◦,1.5◦,0.75◦
+and 0.30◦, the time step is 1t = 900 s, 450 s, 225 s and 90 s,
+respectively.
+The idealized test cases are implemented in CAM-SE us-
+ing the offline_dyn option. In that conﬁguration the
+winds are constant throughout the Runge–Kutta time step-
+ping and not updated at every stage (as is done in HOMME).
+A3
+CCSRG
+CCSRG is implemented on a latitude–longitude reduced
+grid. The presented CCSRG results are obtained on the grids

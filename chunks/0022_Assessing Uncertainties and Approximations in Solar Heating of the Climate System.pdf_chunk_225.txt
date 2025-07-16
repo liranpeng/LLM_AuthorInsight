@@ -1,0 +1,9 @@
+contract B628407) under the E3SM 
+project; and the NASA Modeling, Anal-
+ysis and Prediction program (award 
+NNX13AL12G).
+Journal of Advances in Modeling Earth Systems
+Hogan, R. J., & Bozzo, A. (2018). A flexible and efficient radiation scheme for the ECMWF model. Journal of Advances in Modeling Earth 
+Systems, 10(8), 1990–2008.
+Hogan, R. J., & Illingworth, A. J. (2000). Deriving cloud overlap statistics from radar. Quarterly Journal of the Royal Meteorological Society, 
+126(569), 2903–2909.

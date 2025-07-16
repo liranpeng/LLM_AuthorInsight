@@ -1,0 +1,24 @@
+14.6
+Change in atmospheric abundanceb
+3.7
+3.2
+4.2
+4.3
+3.8
+4.8
+Atmospheric burden
+1,462
+1,442
+1,482
+1,493
+1,472
+1,514
+1,531
+1,510
+1,552
+1,555
+1,533
+1,577
+Bottom-up estimates include four categories of anthropogenic source and one category for natural sources and sinks. The sources and sinks of N2O are given in Tg N yr−1. The atmospheric 
+burden is given in Tg N. 
+aCalculated from satellite observations with a photolysis model (about 1% of this sink occurs in the troposphere).

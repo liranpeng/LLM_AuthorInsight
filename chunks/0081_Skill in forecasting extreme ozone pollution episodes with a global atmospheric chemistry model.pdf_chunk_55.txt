@@ -1,0 +1,9 @@
+(see text). Boxes marked A–C have respective QP values of 60.1,
+15.4, and 6.6. Gray cells are outside the range of interpolation (i.e.,
+QP < 0.67).
+direction. This is even more pronounced for cell C on the
+edge of the domain.
+Figure 4 shows the gridded, masked MDA8 ozone con-
+centrations for both the US (Fig. 4a, c, e) and combined EU
+(Fig. 4b, d, f) data sets for two representative percentiles,
+the 95th (Fig. 4a–b) and 25th (Fig. 4c–d), and their dif-

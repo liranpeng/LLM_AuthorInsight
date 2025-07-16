@@ -1,0 +1,8 @@
+els accept the same spectral data – cross sections and quan-
+tum yields from recent assessments (Atkinson et al., 2004;
+Burkholder et al., 2015) – but the implementation (solar
+spectrum, Rayleigh scattering, wavelength integration, tem-
+perature interpolation) may be different.
+Spectrally resolved CAFS measurements of actinic ﬂux
+(280–650 nm) are used to calculate in situ J-O1D and J-
+NO2. These observed J values are all-sky J values and in-

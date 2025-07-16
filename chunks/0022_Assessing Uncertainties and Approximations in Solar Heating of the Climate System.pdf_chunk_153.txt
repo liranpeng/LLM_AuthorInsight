@@ -1,0 +1,4 @@
+ing the cloud fraction to the nearest 10% and allowing an independent cirrus shield at the top, the absolute 
+maximum number of ICAs under MAX-EXP is <5 × 106 and thus ICAs can be rapidly defined and binned 
+with low computational overhead. Deterministic EXP-EXP or EXP-RAN models in our code would have to 
+enumerate up to 233 ICAs for our model that has potentially 33 cloudy layers, which is truly prohibitive and

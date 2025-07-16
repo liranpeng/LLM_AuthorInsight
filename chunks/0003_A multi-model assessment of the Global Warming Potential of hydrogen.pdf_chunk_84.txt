@@ -1,0 +1,6 @@
+the hydrogen ﬂux (W m-2 (Tg yr−1)−1). The indirect forcing via methane is added
+by normalizing the forcing by the methane ﬂux and multiply by the methane ﬂux
+per hydrogen ﬂux (Tg CH4 (Tg H2)−1) from the PERT_H2 experiment.
+GWP calculations. GWPH2 is the ratio of the absolute global warming potential
+(AGWP) for hydrogen relative to that for CO2. AGWP is deﬁned as the time-
+integrated radiative forcing of a 1 kg pulse emission of that gas over a given time

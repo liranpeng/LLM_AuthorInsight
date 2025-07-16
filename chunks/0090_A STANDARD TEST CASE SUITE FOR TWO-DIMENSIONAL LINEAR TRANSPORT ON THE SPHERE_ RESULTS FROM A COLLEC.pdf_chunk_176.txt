@@ -1,0 +1,8 @@
+other words, the larger τm is, the better the scheme preserves
+the “peaks” of the cosine bells.
+The histogram in Fig. 6 is mainly shown to investigate vi-
+sually if there is a relationship between “minimal resolution”
+and τm. Had there been a simple linear relationship, the val-
+ues of τm would decrease/increase from the left to right in the
+histogram. As for the numerical convergence rates (Fig. 4),
+there is no simple relationship indicating that ℓf measures

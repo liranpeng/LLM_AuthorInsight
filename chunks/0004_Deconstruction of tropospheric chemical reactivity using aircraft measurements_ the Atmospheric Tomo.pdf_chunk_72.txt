@@ -1,0 +1,8 @@
+mostly shuts down in ATom-2 and ATom-3 (February and
+October), but it is quite reactive in ATom-1 and ATom-4 (Au-
+gust and May). This is seen clearly in the J values (Table 1),
+particularly J-O1D, which is the primary source of OH. The
+Arctic reactivities in ATom-1 and ATom-4 are about two-
+thirds of the mean Paciﬁc and Atlantic values year round,
+with the exception of L-CH4, which is extremely repressed
+due to the colder Arctic temperatures in all seasons. The ex-

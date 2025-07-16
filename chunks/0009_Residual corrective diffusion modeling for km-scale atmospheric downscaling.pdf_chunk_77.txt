@@ -1,0 +1,8 @@
+UNet and a random forest are used as baselines. See Supplementary
+Section 2 and Supplementary Table S2 for details.
+Data availability
+The data supporting the findings of this study including all figures
+and tables are publicly available and can be accessed at the NVIDIA
+GPU Cloud (NGC) catalog: https://catalog.ngc.nvidia.com/orgs/
+nvidia/teams/modulus/resources/modulus_datasets_cwa. This
+dataset is provided by the Central Weather Administration (CWA)

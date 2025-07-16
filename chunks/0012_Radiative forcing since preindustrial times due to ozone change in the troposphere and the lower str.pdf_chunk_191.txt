@@ -1,0 +1,9 @@
+Dameris, M., Grewe, V., Ponater, M., Deckert, R., Eyring, V.,
+Mager, F., Matthes, S., Schnadt, C., Stenke, A., Steil, B., Br¨uhl,
+C., and Giorgetta, M.: Long-term changes and variability in a
+transient simulation with a chemistry-climate model employing
+realistic forcing, Atmos. Chem. Phys., 5, 2121–2145, 2005.
+Dufresne, J.-L., Friedlingstein, P., Berthelot, M., Bopp, L., Ciais,
+P., Fairhead, L., Le Treut, H., and Monfray, P.:
+On the
+magnitude of positive feedback between future climate change

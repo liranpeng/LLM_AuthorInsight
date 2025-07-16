@@ -1,0 +1,8 @@
+(such as seen in some 1 s observations), the majority of vari-
+ability in terms of the O3 and CH4 budgets occurs across
+scales larger than neighboring 2 km parcels. The PDs mea-
+sured in ATom can be largely captured by a global model’s
+100 km by 200 m grid cells in the lower troposphere. This
+surprising result is evident by comparing the ATom 1D PDs
+– both species and reactivities – with those from the mod-
+els’ climatologies (Fig. 5). These comparisons show that the

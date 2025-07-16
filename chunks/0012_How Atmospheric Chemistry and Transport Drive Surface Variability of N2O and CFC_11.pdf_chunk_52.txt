@@ -1,0 +1,4 @@
+high levels of N2O at 10 hPa in the tropics where most of the loss occurs. It is interesting that LMDz5 and 
+UCI have the largest difference since both models are using ECMWF meteorology, but in different forms 
+(ERA-Interim vs. IFS cycle38r1 forecasts). If we drop all the model values by 0.02%/yr to account for bias of 
+N2OX loss versus a surface forced N2O (see example with UCI CTM; Section 2.2 and Table 2), then MLS falls

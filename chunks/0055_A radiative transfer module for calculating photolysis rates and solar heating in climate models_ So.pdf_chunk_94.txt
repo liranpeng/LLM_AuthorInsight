@@ -1,0 +1,9 @@
+50 km and less heating below. Differences at the top, above
+50 km, are due in part to the lack of λ < 200 nm radiation in
+RRTMG-SW, and in part due to a better resolution of the O3
+and O2 cross sections in Solar-J. Overall, RRTMG-SW de-
+posits more energy in the lower stratosphere, below 35 km,
+except at larger SZA where it deposits less. Thus, for the
+tropics and midlatitudes, RRTMG will overheat the lower
+Geosci. Model Dev., 10, 2525–2545, 2017
+www.geosci-model-dev.net/10/2525/2017/

@@ -1,0 +1,8 @@
+pled at 00:00 UT 15 August 2005 at aircraft ﬂight levels
+along three meridians next to 180◦E. All the model grid
+cells are used with no attempt to follow ATom proﬁling.
+This set of 14 880 points is similar in number to 10 s data
+from an aircraft mission logging 50 ﬂight hours in the Pa-
+ciﬁc basin, such as each seasonal deployment of ATom. Pre-
+scribed species are: O3, NOx (= NO + NO2), HNO3, HNO4,
+PAN (peroxyacetyl nitrate), RNO3 (CH3NO3 and all alkyl ni-

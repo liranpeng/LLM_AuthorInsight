@@ -1,0 +1,13 @@
+to 30 km, except LMDzINCA, STOCHEM HadGEM1, and
+STOCHEM HadAM3, which have submitted results up to
+20 km, 20 km, and 16 km, respectively, related to their lower
+model lids.
+2.3
+Ozone change since preindustrial times
+2.3.1
+The effect of changes in chemistry
+Figure 2 shows the annually averaged zonal-mean ozone
+change since preindustrial times, accounting for chemical
+change only.
+This effect is represented by the difference
+“scenario 2 minus scenario 1c”. It has to be noted that some

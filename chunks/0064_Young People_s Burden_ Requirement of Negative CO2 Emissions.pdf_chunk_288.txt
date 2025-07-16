@@ -1,0 +1,3 @@
+Niño 3.4 temperatures. Temperatures are relative to 1951–1980 base period for the current GISTEMP analysis, which uses NOAA ERSST.v4
+for sea surface temperature. (b) Global surface temperature relative to 1951–1980 in the GISTEMP analysis, comparing the current analysis
+using NOAA ERSST.v4 for sea surface temperature with results using ERSST.v3b. (c) Temperature anomalies in three periods relative

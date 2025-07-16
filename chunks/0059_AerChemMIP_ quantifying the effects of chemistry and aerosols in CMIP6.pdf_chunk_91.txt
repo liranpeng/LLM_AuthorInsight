@@ -1,0 +1,10 @@
+sient ERFs from aerosol and ozone precursors, as speciﬁed
+in Table 2.
+The total simulation years requested are 556 for Tier 1 and
+492 for Tier 2.
+Historical changes in methane and nitrous oxide abun-
+dances have altered atmospheric chemistry and the NTCF
+radiative forcing. These indirect effects are complex and
+have previously been calculated in piecemeal ways (Myhre
+et al., 2013a). In AerChemMIP, the historical transient ERFs
+will be calculated for models that have reactive gas chem-

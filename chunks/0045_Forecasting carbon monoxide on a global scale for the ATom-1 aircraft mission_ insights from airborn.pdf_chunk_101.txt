@@ -1,0 +1,10 @@
+bias drift in the MOPITT V6 TIR product in the lower tro-
+posphere, although drift in the column is almost negligible.
+Decreasing MOPITT CO over time is also visible in some
+regions in Fig. 10. Overall, the year 2016 shows anomalies
+for some regions but does not appear to be an extreme year.
+6
+Conclusions
+We place the observations from the ATom-1 campaign in the
+context of interannual variability and global source distri-
+butions using satellite observations and tagged tracers from

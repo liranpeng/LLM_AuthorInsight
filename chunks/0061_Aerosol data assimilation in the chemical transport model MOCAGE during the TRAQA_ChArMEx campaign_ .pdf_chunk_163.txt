@@ -1,0 +1,8 @@
+over the Mediterranean basin (TRAQA/ChArMEx campaign), in
+preparation, 2016.
+Bechtold, P., Bazile, E., Guichard, F., Mascart, P., and Richard, E.:
+A mass-ﬂux convection scheme for regional and global models,
+Q. J. Roy. Meteor. Soc., 127, 869–886, 2001.
+Benedetti, A., Morcrette, J.-J., Boucher, O., Dethof, A., Engelen,
+R. J., Fisher, M., Flentje, H., Huneeus, N., Jones, L., Kaiser,
+J. W., Kinne, S., Mangold, A., Razinger, M., Simmons, A. J., and

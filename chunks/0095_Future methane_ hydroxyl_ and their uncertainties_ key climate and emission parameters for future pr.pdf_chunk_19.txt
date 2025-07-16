@@ -1,0 +1,8 @@
+by pieced-forecast meteorology from the European Cen-
+ter for Medium-range Weather Forecasting (ECMWF) In-
+tegrated Forecast System (cycle 36r1, http://www.ecmwf.
+int/research/ifsdocs/CY36r1/index.html). The original T359
+(∼0.55◦× 0.55◦) horizontal resolution and 60 layer ver-
+tical resolution of the forecast model is degraded to T42
+(∼2.8◦× 2.8◦) resolution, while preserving the 3 h tempo-
+ral resolution for all meteorological ﬁelds. Advection uses

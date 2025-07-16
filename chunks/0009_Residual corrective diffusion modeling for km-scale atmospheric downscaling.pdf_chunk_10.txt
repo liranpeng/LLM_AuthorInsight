@@ -1,0 +1,8 @@
+of ensemble members used to quantify uncertainties16.
+A common inexpensive alternative is to learn a statistical
+downscaling from these dynamical downscaling simulations and
+observations17. This is typically done by learning the values of
+several parameters of a statistical mapping (e.g. quantile mapping,
+generalized linear regression) that best match a regional high
+resolution data18. In this context, ML downscaling enters as an
+advanced (non linear) form of statistical downscaling19 with

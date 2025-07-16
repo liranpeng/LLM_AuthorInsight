@@ -1,0 +1,8 @@
+DYAMOND5 project (Stevens et al., 2019c) – the capabil-
+ity of performing kilometer-scale simulations on global (at-
+mospheric) grids (Satoh et al., 2019). A follow-up, called
+DYAMOND-Winter, is extending this capability to also in-
+clude coupled global models and has been coordinated to
+simulate the EUREC4A period. DYAMOND-Winter simula-
+tions are being initialized from observational analyses on 20
+January and run for at least 40 d. With grid scales of a few

@@ -1,0 +1,7 @@
+W. J., Klein, S. A., Knutson, T. R., Langenhorst, A. R., Lee, H.
+C., Lin, Y. L., Magi, B. I., Malyshev, S. L., Milly, P. C. D., Naik,
+V., Nath, M. J., Pincus, R., Ploshay, J. J., Ramaswamy, V., Se-
+man, C. J., Shevliakova, E., Sirutis, J. J., Stern, W. F., Stouffer,
+R. J., Wilson, R. J., Winton, M., Wittenberg, A. T., and Zeng, F.
+R.: The Dynamical Core, Physical Parameterizations, and Basic
+Simulation Characteristics of the Atmospheric Component AM3

@@ -1,0 +1,8 @@
+mate the effect of changes in tropospheric chemistry sepa-
+rately. In all models the difference “2 minus 1c” yields a
+much larger tropospheric ozone increase than “2 minus 1a”.
+For example in the ULAQ model the tropospheric column
+reduction of −2.6 DU (“2 minus 1a”) reﬂects the inﬂuence
+of stratospheric ozone depletion on tropospheric ozone. By
+contrast, the difference “2 minus 1c” yields a tropospheric
+column enhancement of 7.9 DU, related to the increase in

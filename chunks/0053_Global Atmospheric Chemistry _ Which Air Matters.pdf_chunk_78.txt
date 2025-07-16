@@ -1,0 +1,8 @@
+mate steady-state over the tropical Paciﬁc domain as seen by
+comparing 12 h with 36 h, and thus these sunset–midnight–
+sunrise times show the daily variations. The diurnal cycle
+does produce visible shifts in the 1-D distributions, partic-
+ularly at the end of the night (30 h). The shifts in HCHO are
+small considering its high loss frequency, primarily because
+both sources and sinks respond similarly to photolysis rates.
+The seemingly longer-lived HOOH shows larger shifts be-

@@ -1,0 +1,10 @@
+Google Scholar 
+46. National Centers for Environmental Prediction, National
+Weather Service, NOAA, U.S. Department of Commerce. Ncep
+gfs 0.25 degree global forecast grids historical archive
+https://doi.org/10.5065/D65D8PWK (2015).
+47. Powers, J. G. et al. The weather research and forecasting
+model: Overview, system efforts, and future directions.
+Bulletin of the American Meteorological Society 98, 1717–1737
+(2017).
+Article  Google Scholar

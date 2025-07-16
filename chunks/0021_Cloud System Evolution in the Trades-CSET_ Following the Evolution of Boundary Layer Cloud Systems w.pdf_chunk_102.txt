@@ -1,0 +1,5 @@
+of the boundary layer from the beginning to the end of the segments. At the beginning of the 
+trajectory sample area BC the radar indicates relative solid cloud cover with drizzle and rain 
+falling from the clouds. The cloud fraction from the remote sensing measurements is about 
+80%. On the return flight sampling at the end of the BC trajectories, there are relatively few 
+clouds with a few weak echoes from small cumuli. The lidar returns in this area show

@@ -1,0 +1,9 @@
+and NO2 + O. We tested other key J values like those of
+HNO3 and NO2, but found that their errors fell between the
+ﬁrst two.
+The J value tests are summarized in Table 1. We use
+a high-resolution snapshot from the European Center for
+Medium-range Weather Forecasts, similar to what is used (at
+lower resolution) in the UC Irvine and University of Oslo
+chemistry-transport models (Søvde et al., 2012; Hsu and
+Prather, 2014). The 640 FCAs are a 3 h average of a single

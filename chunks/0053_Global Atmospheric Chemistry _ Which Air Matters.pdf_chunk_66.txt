@@ -1,0 +1,9 @@
+Atmos. Chem. Phys., 17, 9081–9102, 2017
+www.atmos-chem-phys.net/17/9081/2017/
+M. J. Prather et al.: Global atmospheric chemistry – which air matters
+9087
+First we drop all calls to the tracer transport sections (advec-
+tion, convection, diffusion, boundary layer mixing). Second,
+we must cut all emissions, including lightning and aircraft
+NOx, because without transport the emissions would build
+up unrealistically in the source cells. Third, all tracer scav-

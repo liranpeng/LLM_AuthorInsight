@@ -1,0 +1,46 @@
+possible choice of αk is
+αk = min(1,αmin
+k
+,αmax
+k
+),
+(A19)
+where
+αmax
+k
+= max
+( ¯φmax
+k
+−¯φk
+φk max
+k
+−¯φk
+)
+,
+(A20)
+and
+αmin
+k
+= min
+( ¯φmin
+k
+−¯φk
+φk min
+k
+−¯φk
+)
+.
+(A21)
+Here ¯φmax
+k
+and ¯φmin
+k
+are the maximum and minimum val-
+ues of ¯φ in the neighboring cells, and φk max
+k
+and φk max
+k
+are
+the maximum and minimum values of φ in cell k according
+to the non-slope-limited linear reconstruction in Eq. (A16).
+For each edge entering the sum on the right-hand side of

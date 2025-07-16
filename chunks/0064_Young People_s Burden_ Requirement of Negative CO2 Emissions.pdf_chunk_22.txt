@@ -1,0 +1,15 @@
+1900
+1950
+2000
+             0.1
+1  
+China
+India
+Rest of Asia Pacific
+Middle East
+South & Central America
+Africa
+(c) Emissions by emerging economies
+0.3
+Figure 1. Fossil fuel (and cement manufacture) CO2 emissions (note log scale) based on Boden et al. (2016) with BP data used to infer
+2014–2015 estimates. Europe/Eurasia is Turkey plus the Boden et al. categories Western Europe and Centrally Planned Europe. Asia Paciﬁc

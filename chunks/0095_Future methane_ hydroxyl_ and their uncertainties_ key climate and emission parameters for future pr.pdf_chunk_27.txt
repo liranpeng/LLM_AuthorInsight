@@ -1,0 +1,11 @@
+Macintyre and Evans, 2010).
+2.3
+GEOS-Chem
+GEOS-Chem is a tropospheric CTM, driven by assimilated
+meteorological data from the NASA Goddard Earth Observ-
+ing System (GEOS-5) or MERRA reanalysis (Rienecker et
+al., 2008, 2011). Both GEOS-5 and MERRA are produced
+from closely related assimilation systems, using the same
+spatial resolution of 0.5◦× 0.66◦and 72 vertical layers. We
+use GEOS-Chem version 9-01-02 here. Most results, includ-
+ing all sensitivity simulations, are based on GEOS-5 meteo-

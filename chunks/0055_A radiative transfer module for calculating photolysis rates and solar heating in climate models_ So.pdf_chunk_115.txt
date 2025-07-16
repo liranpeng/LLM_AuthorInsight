@@ -1,0 +1,8 @@
+who show small negative errors in absorption from the cal-
+culation of delta-Eddington (two-stream) approximation in
+the case of the single-layer liquid cloud (re = 10 µm, τ ∼4)
+with cos(SZA) > 0.2 (i.e., our SZAs of 0–62◦). For our SZA
+of 84◦, this absorption bias reverses as is also found by Li
+et al. (2015) for cos(SZA) < 0.2. In their study, the two-
+stream calculations are compared to the 128-stream DIS-
+ORT (discrete–ordinate) benchmark calculations using accu-

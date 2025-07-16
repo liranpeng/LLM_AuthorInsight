@@ -1,0 +1,8 @@
+L. D., Fagerli, H., Flechard, C. R., Hayman, G. D., Gauss, M.,
+Jonson, J. E., Jenkin, M. E., Nyíri, A., Richter, C., Semeena, V.
+S., Tsyro, S., Tuovinen, J.-P., Valdebenito, Á., and Wind, P.: The
+EMEP MSC-W chemical transport model – technical descrip-
+tion, Atmos. Chem. Phys., 12, 7825–7865, doi:10.5194/acp-12-
+7825-2012, 2012.
+Skeie, R. B., Berntsen, T. K., Myhre, G., Tanaka, K., Kvalevåg, M.
+M., and Hoyle, C. R.: Anthropogenic radiative forcing time series

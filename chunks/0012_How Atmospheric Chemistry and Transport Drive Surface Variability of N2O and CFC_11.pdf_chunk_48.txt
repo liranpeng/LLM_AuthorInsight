@@ -1,0 +1,5 @@
+yr, and thus, for the same stratospheric abundance and loss, the tropospheric burden is larger than when 
+run at steady state. This effect is <1% (i.e., a 4-year lag from troposphere to mid-stratosphere) and also well 
+within the uncertainties here.
+Solar-cycle variations in ultraviolet (UV) flux along with ensuing photochemical changes in O3 are included 
+in GMI and (obviously) in the observations, but not in LMDz5 or UCI. The change in N2O loss from solar

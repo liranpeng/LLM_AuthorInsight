@@ -1,0 +1,8 @@
+rameter β = 0.25. It uses the FCT shape-reserving limiter
+described in Zalesak (1979); no additional explicit diffusion
+is used in these tests. The Voronoi meshes described as 1.5◦,
+0.75◦, and 0.67◦refer to the average cell-center spacing rel-
+ative to an arc length at the Equator, and these meshes use
+21 506, 86 018, and 107 522 cells, respectively, to tile the
+sphere. The tests are performed using CN ∼0.8, which cor-
+responds to 768, 1536, and 1800 time steps to complete the

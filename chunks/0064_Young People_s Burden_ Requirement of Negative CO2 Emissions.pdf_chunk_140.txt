@@ -1,0 +1,35 @@
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-2
+-2
+Figure 11. Climate forcings used in our climate simulations; Fe is effective forcing, as discussed in connection with Fig. 4. (a) Future GHG
+forcing uses four alternative fossil fuel emission growth rates. (b) GHG forcings are altered based on CO2 extractions of Fig. 10.
+1850
+1900
+1950
+2000
+2050
+2100
+2150
+2200
+0
+1
+2
+3
+4
+Observations
++2 % yr    after 2015
+Constant
+−3 % yr    after 2020
+−6 % yr    after 2020
+Global surface temperature

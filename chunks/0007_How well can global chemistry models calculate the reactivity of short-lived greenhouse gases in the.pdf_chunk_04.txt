@@ -1,0 +1,8 @@
+ating within their global chemistry-climate and chemistry-
+transport models, removing the effects of modules control-
+ling tracer transport, emissions, and scavenging. Differences
+in reactivity across models are driven only by the chemical
+mechanism and the diurnal cycle of photolysis rates, which
+are driven in turn by temperature, water vapor, solar zenith
+angle, clouds, and possibly aerosols and overhead ozone,
+which are calculated in each model. We evaluate six global

@@ -1,0 +1,8 @@
+the often-used test of the probability distribution of MDA8
+O3 values over a region gives different results when testing a
+hindcast model than when treating the identical model simu-
+lation as climate statistics. Nevertheless, comparing the grid-
+ded observations directly with the hindcast MDA8 O3 values
+clearly deﬁnes model deﬁciencies in terms of biases, baseline
+values (lowest percentiles at ocean boundaries), seasonality,
+and the ability to predict the relative increase in O3 during

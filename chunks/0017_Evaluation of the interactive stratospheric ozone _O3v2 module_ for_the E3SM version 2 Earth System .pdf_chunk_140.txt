@@ -1,0 +1,9 @@
+Voulgarakis, A., and Zeng, G.: The Atmospheric Chemistry and
+Climate Model Intercomparison Project (ACCMIP): overview
+and description of models, simulations and climate diagnostics,
+Geosci. Model Dev., 6, 179–206, https://doi.org/10.5194/gmd-6-
+179-2013, 2013.
+Liu, J., Rodriguez, J. M., Oman, L. D., Douglass, A. R.,
+Olsen, M. A., and Hu, L.: Stratospheric impact on the North-
+ern Hemisphere winter and spring ozone interannual variabil-
+Geosci. Model Dev., 14, 1219–1236, 2021

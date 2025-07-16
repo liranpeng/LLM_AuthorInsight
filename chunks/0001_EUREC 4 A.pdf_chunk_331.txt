@@ -1,0 +1,12 @@
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+4106
+B. Stevens et al.: EUREC4A
+Table B9. Continued.
+Instrument
+Brief description
+CTD casts
+Vertical proﬁles, within the upper 800 m of the ocean, of temperature, salinity, dissolved oxygen, and
+ﬂuorescence
+Ocean microbiology
+Measurements in the upper water column of biogeochemical parameters (e.g., nutrients, chlorophyll a,
+particulate organic carbon and nitrogen, trace greenhouse gases), biogeochemical process rates (e.g.,

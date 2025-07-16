@@ -1,0 +1,8 @@
+species, rather than simply via average proﬁles. The under-
+lying design of ATom was to collect enough data to develop
+such a multivariate chemical climatology. As a quick look
+across the four deployments, we show the joint 2D PDs on
+a logarithmic scale as in P2017 for HOOH versus NOx in
+Fig. 7. The patterns for the tropical central Paciﬁc are quite
+similar for the four seasons of ATom deployments, and the
+ﬁtted ellipses are almost identical for ATom 2, 3 and 4. Thus,

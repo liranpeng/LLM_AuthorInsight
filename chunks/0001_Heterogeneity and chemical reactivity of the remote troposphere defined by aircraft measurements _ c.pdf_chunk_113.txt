@@ -1,0 +1,8 @@
+O3 (0–5 ppb d−1; panels d, e, f), and L-CH4 (0–2.5 ppb d−1; panels
+g, h, i) showing the proﬁling of ATom-1 ﬂights in the central Paciﬁc
+(RF 3, 4 and 5; panels a, d, g), eastern Paciﬁc (RF 1; panels b,
+e, h), and Atlantic (RF 7, 8, and 9; panels c, f, i). Reactivities are
+calculated with the current UCIZ CTM model using MDS-2b and
+the RDS* protocol; see text. The 10 s air parcels are averaged into
+1◦latitude and 200 m altitude bins.
+tion (1). L-O3 is dominated by O(1D) and HO2 loss, while

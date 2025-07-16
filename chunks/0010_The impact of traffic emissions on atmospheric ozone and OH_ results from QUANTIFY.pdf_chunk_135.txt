@@ -1,0 +1,5 @@
+3131
+Fig. 11. Correlations between 1OH and 1NOx for road trafﬁc (upper row) and ship trafﬁc (lower row) for January (left) and July (right).
+All coloured points are for low NOx conditions coded by latitudes: (sub-)tropics (red), northern hemisphere (blue > 30◦N) and southern
+hemisphere (green, < 30◦S). The effect of ship emissions is shown at 950 hPa over the oceans and of road emissions over land up to 850 hPa.
+Eyring et al. (2007) of 3.1 TgN/yr are lower compared to the

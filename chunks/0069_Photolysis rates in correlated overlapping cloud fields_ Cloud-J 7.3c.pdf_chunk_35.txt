@@ -1,0 +1,9 @@
+with two missing G6 MAX groups between two cloudy lay-
+ers, the effective cc = 0.333 = 0.036). This model is denoted
+G6/.33. Two other G6 models were tested: cc = 0.00 cor-
+responds to randomly overlapped adjacent groups (MAX-
+RAN, G6/.00); and cc = 0.99 is almost maximally over-
+lapped (MAX, G6/.99).
+In looking at how this model aligned the clouds for real-
+istic FCAs, we found that extensive cirrus fractions in the
+uppermost layers prevented the expected overlap of small-

@@ -1,0 +1,10 @@
+2.4
+Emissions
+Emissions used in this work are representative of 1997–2010,
+but do not resolve trends or interannual variability in anthro-
+pogenic or biogenic emissions. To the extent possible, we
+use identical emissions across all models. Anthropogenic,
+biogenic, and biomass burning emissions of NOx, CO, and
+isoprene are fully consistent in all models. Some differences
+in VOC emissions arise because of the different lumping
+schemes used in the various chemical mechanisms and be-

@@ -1,0 +1,10 @@
+to the baseline) after deforestation were developed: y
+x
+= −0.31ln( ) + 1.53 
+(R2 = 0.30) and y
+x
+= −0.454ln( ) + 2.21 (R2 = 0.09). The first logarithmic 
+function uses data collected by a review analysis74, and the second is 
+based upon this but further considers observations from ref. 21 and 
+ref. 75. In the first function, x indicates pasture age in years after defor-
+estation, and y (unitless; 0–1) indicates the ratio of pasture N2O emission

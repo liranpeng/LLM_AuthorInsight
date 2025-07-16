@@ -1,0 +1,8 @@
+hydrogen and give similar results, conﬁrming our understanding
+of chemical feedbacks that occur in emissions-driven simulations.
+Results
+The hydrogen budget. Figure 1 shows the hydrogen budget as
+simulated by six models (GFDL, OsloCTM, INCA, UCI, UKCA,
+and WACCM). The burden of hydrogen is close to 200 Tg (a)
+and the total lifetime of hydrogen is 2.4 years (1.9–2.7 years
+model range) (b). The chemical production and loss of hydrogen

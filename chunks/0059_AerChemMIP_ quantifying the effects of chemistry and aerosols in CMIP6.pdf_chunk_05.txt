@@ -1,0 +1,9 @@
+emissions, atmospheric composition, and radiative ef-
+fects?
+These questions will be addressed through targeted simula-
+tions with CMIP6 climate models that include an interac-
+tive representation of tropospheric aerosols and atmospheric
+chemistry. These simulations build on the CMIP6 Diagnos-
+tic, Evaluation and Characterization of Klima (DECK) ex-
+periments, the CMIP6 historical simulations, and future pro-
+jections performed elsewhere in CMIP6, allowing the con-

@@ -1,0 +1,5 @@
+modeled patterns mostly match their standard-QBO composites despite minor differences (i.e., reversal 
+from negative to positive in the SH for GMI).
+Thus, for more than a year, N2O showed a sustained growth of 0.25 ppb/yr above the long-term average 
+(about 0.8 ppb/yr over the period analyzed here). This growth was not caused by a reduction in stratospheric 
+influx of N2O-depleted air that we modeled. The simplest explanation is that starting in late 2009, there was

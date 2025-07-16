@@ -1,0 +1,10 @@
+Configuration and intercomparison of deep learning neural
+models for statistical downscaling. Geoscientific Model
+Development 13, 2109–2124 (2020).
+Article  Google Scholar 
+19. Rampal, N. et al. Enhancing regional climate downscaling
+through advances in machine learning. Artificial Intelligence
+for the Earth Systems 3, 230066 (2024).
+Article  Google Scholar 
+20. Selz, T. & Craig, G. C. Upscale error growth in a high-
+resolution simulation of a summertime weather event over

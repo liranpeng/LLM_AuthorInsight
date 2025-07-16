@@ -1,0 +1,70 @@
+hydrogen feedback factor to keep the equivalence. The ﬁrst fraction in the
+expression,
+BurdenH2
+ΔBurdenH2, is now the inverse of the relative burden change. We
+propagate the error terms in the following way:
+σGWP
+2 ¼ GWP2
+σAGWPCO2
+AGWPCO2
+
+2
+þ
+σ4relBurdenH2
+4relBurdenH2
+
+2
+þ
+σffH2
+ffH2
+
+2
+1
+LossH2
+
+2
+
+σ2
+soilsink þ σ2
+atmloss
+
+
+þ
+1
+∑
+FC 4RFFC
+
+2
+
+rCH4  ffCH4ΔCCH4
+
+2
+
+σrCH4
+rCH4
+
+2
+þ
+σΔCH4dir
+ΔCH4dir
+
+2
+þ
+σffCH4
+ff CH4
+
+2
+
+	
+þσ2
+AGWPτH2O þ σ2
+AGWPτO3
+8
+>
+<
+>
+:
+9
+>
+=
+>

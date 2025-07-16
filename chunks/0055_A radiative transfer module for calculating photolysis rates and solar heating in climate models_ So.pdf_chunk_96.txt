@@ -1,0 +1,60 @@
+62.2◦
+84.0◦
+Flux (W m−2)
+1360.8
+1268.4
+634.2
+149.1
+Clear-sky radiation budget (W m−2)
+Solar-J
+RRTMG
+Solar-J
+RRTMG
+Solar-J
+RRTMG
+Solar-J
+RRTMG
+TOA (up)
+100.5
+104.5
+96.2
+100.3
+63.9
+67.3
+28.2
+28.5
+Atmosphere (absorbed)
+291.1
+290.2
+276.6
+275.3
+166.5
+164.0
+56.6
+54.9
+Surface (absorbed)
+969.2
+966.1
+895.7
+892.8
+403.8
+402.9
+64.3
+65.6
+Cloud radiative effect (CRE) of a marine stratus cloud (W m−2)
+Solar-J
+RRTMG
+Solar-J
+RRTMG
+Solar-J
+RRTMG
+Solar-J
+RRTMG
+TOA
++473.4
++459.4
+452.7
++441.2
++262.7
++255.8
++52.2

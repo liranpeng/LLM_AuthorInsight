@@ -1,0 +1,4 @@
+(gray line) and QCLS CO observations (circles) (a, b, c) for the (a) Anchorage–Kona ﬂight, (b) Kona–Pago Pago ﬂight, and (c) Pago Pago–
+Christchurch ﬂight. Axis ranges vary between panels due to the large range of concentrations encountered. The top x axis indicates the
+latitudes of the ﬂight track. (d–f) The GEOS-5 CO interpolated to the ﬂight track (red line) is compared to the observations (black circles).
+(g–h) Tagged tracer contributions to the GEOS-5 CO.

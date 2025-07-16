@@ -1,0 +1,3 @@
+Notes:
+Single-year estimates of mean surface air temperature warming relative to the reference period 1990 for the SRES scenarios evaluated in the TAR. The pre-industrial estimates are for 1750, and all 
+results are based on a simple climate model. See TAR Appendix II.

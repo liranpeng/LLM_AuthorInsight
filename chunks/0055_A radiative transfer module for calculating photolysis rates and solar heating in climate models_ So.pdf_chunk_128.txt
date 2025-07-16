@@ -1,0 +1,24 @@
+RRTMG-SW models. Again, it shows that two-stream scat-
+tering cannot mimic the correct SZA dependence of reduced
+surface heating under cirrus.
+With greater reﬂection of sunlight, the atmospheric heat-
+ing above the cloud increases in all cases. With RRTMG-SW,
+Geosci. Model Dev., 10, 2525–2545, 2017
+www.geosci-model-dev.net/10/2525/2017/
+J. Hsu et al.: A radiative transfer module
+2539
+%                          
+0
+10
+20
+30
+40
+50
+Top of atmos. (out = +)
+102.6 W m-2
+SZA = 0°    1361 W m
+-2
+0
+2
+4
+6

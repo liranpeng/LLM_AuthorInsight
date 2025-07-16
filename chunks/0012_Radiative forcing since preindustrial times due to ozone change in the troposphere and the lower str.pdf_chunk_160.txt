@@ -1,0 +1,10 @@
+surface albedo.
+The University of L’Aquila radiative transfer model
+(“ULAQ-RTM”) is the same as was used in Pitari et
+al. (2002).
+The thermal infrared scheme is an absorptiv-
+ity/emissivity broad band model, explicitly including CO2,
+H2O, O3 and aerosols. For the solar spectrum a δ-Eddington
+code is used applying solar ﬂux absorption cross-sections and
+including Rayleigh and Mie scattering effects. Temperature
+and water vapor vertical proﬁles are those internally calcu-

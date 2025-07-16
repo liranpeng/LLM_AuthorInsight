@@ -1,0 +1,8 @@
+companying “correlated” mixing ratio ξ, are advected sep-
+arately. The latter is related to the former initial condition
+through a non-linear (polynomial) relation (black curve on
+the scatterplots; Figs. 11, 12, 13, and 14). For any Eulerian or
+semi-Lagrangian scheme known to the authors, scatter points
+will deviate from the pre-existing functional curve as the
+simulation progresses. In a purely Lagrangian scheme with
+no explicitly added mixing (for example, contour surgery)

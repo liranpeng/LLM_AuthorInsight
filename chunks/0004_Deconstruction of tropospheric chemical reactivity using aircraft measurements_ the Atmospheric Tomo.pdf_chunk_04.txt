@@ -1,0 +1,4 @@
+of the 10 s parcels. These parcels accurately sample tropospheric heterogeneity and allow us to partially decon-
+struct the spatial scales and variability that deﬁne tropospheric chemistry from composition to reactions. This
+paper provides a ﬁrst look at and analysis of the up-to-date MDS and RDS data including all four deployments
+(Prather et al., 2023, https://doi.org/10.7280/D1B12H).

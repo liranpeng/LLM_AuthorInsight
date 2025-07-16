@@ -1,0 +1,8 @@
+column perturbation of 0.2 DU over the Atlantic Ocean.
+For the global OH budget the effect of ship emissions is
+most important. Based on the small 5% perturbation it ac-
+counts for an OH-perturbation up to 2.5·104 molecules/cm3
+equivalent to about 0.8% relative to the base case. Since
+emissions of NOx largely occur in the pristine regions in
+the (sub-)tropics they efﬁciently lead to OH-formation and
+to additional ozone production. The consequent reduction of

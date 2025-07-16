@@ -1,0 +1,9 @@
+trates), HOOH, ROOH (CH3OOH and smaller contribution
+from C2H5OOH), HCHO, CH3CHO (acetaldehyde), C3H6O
+(acetone), CO, CH4, C2H6, alkanes (all C3H8 and higher),
+alkenes (all C2H4 and higher), aromatics (benzene, toluene,
+xylene), C5H8 (isoprene plus terpenes), plus temperature (T )
+and speciﬁc humidity (q). Zonal mean latitude by pressure
+plots of O3, CO, HCHO, NOx, PAN and q are shown in
+Fig. S1 in the Supplement.
+The implementation of this data stream of reactive species

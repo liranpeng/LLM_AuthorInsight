@@ -1,0 +1,9 @@
+www.atmos-chem-phys.net/18/10955/2018/
+S. A. Strode et al.: Forecasting carbon monoxide on a global scale
+10965
+Figure 8. MOPITT CO column for August 2016 overplotted with
+the regions shown in Fig. 10. Black rectangles indicate the regions
+where we analyze CO concentrations, and red rectangles indicate
+the regions used for biomass burning.
+to the higher percent contribution from African biomass
+burning. In contrast, the Northern Hemisphere ﬂights have

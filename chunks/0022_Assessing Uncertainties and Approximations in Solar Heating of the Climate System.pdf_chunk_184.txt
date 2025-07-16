@@ -1,0 +1,4 @@
+Here, we make recommendations based on the magnitude of error and the difficulty or extra computational 
+cost in improving the models. The levels of ranking include 0 (inconsequential errors), 1 (modest errors and 
+easy/cost-effective fix, or significant errors but hard to fix), 2 (significant errors and ready/cost-effective fix).
+1.	 Spherical, refracting atmosphere, level 2. Flat-atmosphere models have 1.9 W m−2 less incident sun-

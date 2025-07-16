@@ -1,0 +1,4 @@
+ozone, and temperature from 2005 through 2021, we calculate the atmospheric lifetime of N2O to be decreasing
+at a rate of −2.1 ± 1.2 %/decade. This decrease is occurring because the N2O abundances in the middle tropical
+stratosphere, where N2O is photochemically destroyed, are increasing at a faster rate than the bulk N2O in the
+lower atmosphere. The cause appears to be a more vigorous stratospheric circulation, which models predict to

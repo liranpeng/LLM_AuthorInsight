@@ -1,0 +1,8 @@
+coherent air mass to a heterogeneous mix of smaller features
+(Batchelor, 1952; Prather and Jaffe, 1990). Yet, simulating
+the photochemical changes in CH4 and O3 requires integra-
+tion over the daily cycle of photolytic rates, which change
+greatly and irregularly over the day based on the interac-
+tion of the sun and cloud systems. Unfortunately, there is no
+known approach to track and measure the 24 h net change in
+ozone or methane for an air parcel in the free troposphere.

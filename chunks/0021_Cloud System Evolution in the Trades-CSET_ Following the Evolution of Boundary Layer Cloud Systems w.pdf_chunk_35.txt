@@ -1,0 +1,7 @@
+processes in driving boundary layer decoupling and cloud breakup.
+•
+Provide comprehensive case studies and integrated data sets to evaluate and 
+improve process models, LES, and GCMs to describe and explain describe and 
+explain cloud system evolution in the trades.
+CSET was designed to describe and explain the evolution of the MBL aerosol, cloud, and 
+thermodynamic structures along trajectories within the north-Pacific trade-winds. The NSF/

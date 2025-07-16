@@ -1,0 +1,10 @@
+Article  PubMed  PubMed Central  Google Scholar 
+24. Jason Bryer, Kimberly Speerschneider (2016) Likert: Analysis and
+Visualization Likert Items
+25. R Core Team (2022) R: A Language and Environment for
+Statistical Computing.
+26. Diamond IR, Grant RC, Feldman BM et al (2014) Defining
+consensus: a systematic review recommends methodologic criteria
+for reporting of Delphi studies. J Clin Epidemiol 67:401–409.
+https://doi.org/10.1016/j.jclinepi.2013.12.002
+Article  PubMed  Google Scholar

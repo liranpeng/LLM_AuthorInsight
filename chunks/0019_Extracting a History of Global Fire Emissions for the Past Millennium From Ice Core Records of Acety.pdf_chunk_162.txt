@@ -1,0 +1,4 @@
+doi.org/10.1016/j.quascirev.2009.05.023
+Stein, O., & Rudolph, J. (2007). Modeling and interpretation of stable carbon isotope ratios of ethane in global chemical transport models.
+Journal of Geophysical Research, 112, D14308. https://doi.org/10.1029/2006JD008062
+Tzompa‐Sosa, Z. A., Mahieu, E., Franco, B., Keller, C. A., Turner, A. J., Helmig, D., et al. (2017). Revisiting global fossil fuel and biofuel

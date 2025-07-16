@@ -1,0 +1,11 @@
+Instrument
+Brief description
+Cloud radar
+Downward-looking PSL W-band (94 GHz) Doppler pulsed cloud radar to characterize clouds, precip-
+itation, and the ocean surface wave state
+Isotope analyzer
+Picarro (L2130-i) cavity ring-down laser spectrometer measuring stable isotopologues in water vapor
+(including water vapor mixing ratio)
+Microwave radiometer
+Stepped frequency microwave radiometer ProSensing Inc., measuring in six C-band frequencies to
+characterize surface wind speed and rain rate

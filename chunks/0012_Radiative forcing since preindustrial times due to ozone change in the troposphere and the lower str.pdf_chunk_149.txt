@@ -1,0 +1,65 @@
+for FRSGC UCI and UIO CTM2, respectively. However,
+Atmos. Chem. Phys., 6, 575–599, 2006
+www.atmos-chem-phys.net/6/575/2006/
+M. Gauss et al.: Radiative forcing due to ozone changes between 1850 and 2000
+593
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+−0.6
+−0.5
+−0.4
+−0.3
+−0.2
+−0.1
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+SW trop
+SW strat
+LW trop
+LW strat
+SW+LW trop
+SW+LW strat
+Wm−2
+Model
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+−0.6
+−0.5
+−0.4
+−0.3
+−0.2
+−0.1
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+SW trop
+SW strat
+LW trop
+LW strat
+SW+LW trop
+SW+LW strat
+Wm−2
+Model

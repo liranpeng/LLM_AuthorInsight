@@ -1,0 +1,10 @@
+Tracer and air mass coupling is through super-cycling.
+2.1.2
+“Swept-area” approach
+An alternative and perhaps more physically intuitive ap-
+proach to approximating the ﬂux divergence is to trace the
+area that is “swept” through an Eulerian cell wall in one
+time step – hence the name “swept area” approach, also re-
+ferred to as incremental remapping method (Dukowicz and
+Baumgardner, 2000), or semi-Lagrangian ﬂux-form ﬁnite-
+volume method (Lin and Rood, 1996). These methods are

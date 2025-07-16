@@ -1,0 +1,8 @@
+lowing the SSP3-7.0 and SSP3-7.0-lowNTCF scenarios for
+WMGHG and NTCF emissions (experiments ssp370 and
+ssp370-lowNTCF; see Fig. 1 and Table 4). Note that the
+ssp370 reference simulation is the same as in ScenarioMIP;
+it is therefore required that ScenarioMIP ssp370 is performed
+using the same model conﬁguration as for AerChemMIP. The
+climate and air quality signals will be derived by subtract-
+ing the experiment (“clean”; see Tables 4 and 5) from the

@@ -1,0 +1,8 @@
+indicate Southern Hemisphere points, triangles indicate Northern
+Hemisphere points, and squares indicate tropical points. The one-
+to-one line is overplotted in black.
+Both model simulations and measurements show polluted
+air with higher CO mixing ratios in the Northern Hemi-
+sphere than that in the Southern Hemisphere in August 2016.
+Over the northern hemispheric polar region, the observa-
+tions indicate highly polluted air with CO maxima occur-

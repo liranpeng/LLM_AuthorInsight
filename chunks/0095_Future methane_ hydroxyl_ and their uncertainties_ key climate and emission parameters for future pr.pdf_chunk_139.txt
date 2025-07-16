@@ -1,0 +1,8 @@
+spheric impacts, the 100-yr absolute GWP is δf τCH4Fe =
+2.76 mW yr m−2, compared to 0.087 mW yr m−2 for CO2.
+Thus, the methane GWP100 is 31.8. Our result is higher than
+several previous reports, generally near 25 (Forster et al.,
+2007; Fry et al., 2012), mainly because we include strato-
+spheric ozone effects, but also because the updated and
+longer methane lifetime used here (Prather et al., 2012).
+IPCC TAR recommended f = 1.4 (Prather et al., 2001),

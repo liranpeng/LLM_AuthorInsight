@@ -1,0 +1,22 @@
+SF6	
+sulphur hexafluoride (KP)
+NF3	
+nitrogen trifluoride (KP)
+CFC	
+chlorofluorocarbon (a class of compounds: CFCl3, CF2Cl2, …) 
+(MP, Montreal Protocol gas)
+HCFC	
+hydrochlorofluorocarbon1 (a class of compounds: HCFC-22, 
+HCFC-141b, …) (MP)
+CCl4	
+carbon tetrachloride (MP)
+CH3CCl3	 methyl chloroform (MP)
+1398
+Annex II	
+Climate System Scenario Tables
+AII
+Ozone and Aerosols, and their Precursors
+O3	
+ozone (both stratospheric and tropospheric)
+NOx	
+sum of NO (nitric oxide) and NO2 (nitrogen dioxide)

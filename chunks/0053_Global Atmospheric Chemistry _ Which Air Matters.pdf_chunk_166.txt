@@ -1,0 +1,9 @@
+112, D05304, https://doi.org/10.1029/2006jd007137, 2007.
+Barnes, E. A. and Fiore, A. M.: Surface ozone variability and the jet
+position: Implications for projecting future air quality, Geophys.
+Res. Lett., 40, 2839–2844, https://doi.org/10.1002/Grl.50411,
+2013.
+Bey, I., Jacob, D. J., Yantosca, R. M., Logan, J. A., Field,
+B. D., Fiore, A. M., Li, Q. B., Liu, H. G. Y., Mickley,
+L. J., and Schultz, M. G.: Global modeling of tropospheric
+chemistry with assimilated meteorology: Model description

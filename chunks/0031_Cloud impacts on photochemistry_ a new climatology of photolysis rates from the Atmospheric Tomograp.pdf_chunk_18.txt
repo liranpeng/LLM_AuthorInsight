@@ -1,0 +1,8 @@
+can match the observed statistics of J values. This approach
+gets to the core of atmospheric photochemistry by combining
+the range of assumptions and parameterizations for clouds
+in the models including, among others, cloud optical depths
+(CODs) and scattering phase functions, two-stream or multi-
+stream radiative transfer, cloud overlap, or even just paramet-
+ric correction factors.
+Section 2 describes the measurements and models, includ-

@@ -1,0 +1,8 @@
+schemes. Even contour plotting of solutions varies across
+publications despite the speciﬁc guidelines of Williamson
+et al. (1992). Said colloquially, “apples-to-apples” compari-
+son is not always straightforward despite the simplicity of the
+test (i.e., an analytical solution is known). This, among other
+things, motivated Lauritzen et al. (2012, hereafter referred
+to as LSPT2012) to propose a standard test case suite with
+speciﬁc guidelines for resolution and other transport model

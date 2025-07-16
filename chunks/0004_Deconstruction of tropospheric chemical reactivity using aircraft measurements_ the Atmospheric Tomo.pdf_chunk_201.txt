@@ -1,0 +1,9 @@
+OH and amplify the ffCH4.
+We can make a simple, ﬁrst-order estimate of this CO ad-
+justment to a 10 % CH4 increase. The sOH directly from the
+CH4 change averages −0.22 (Table 2, average of the Paciﬁc
+and Atlantic) or −2.2 % in the loss frequency of CH4. The
+change in L-CO from the 10 % CH4 increase is −1.9 % (Ta-
+ble 2, average of the Paciﬁc and Atlantic). If CO is in bal-
+ance between the sources and L-CO, then CO will increase
+by 1.9 %. The two-basin average sensitivity of L-CH4 to CO

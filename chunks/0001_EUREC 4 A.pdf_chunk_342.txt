@@ -1,0 +1,11 @@
+Nephelometer
+TSI 3563 nephelometer measuring aerosol light scattering and backscattering as a function of relative
+humidity by splitting light into 450, 550, and 700 nm wavelengths at dry and 80 % relative humidities
+(aerosol inlet)
+Photometer
+Radiance Research particle soot absorption photometer (PSAP) measuring light absorption at 467,
+530, and 660 nm (aerosol inlet)
+https://doi.org/10.5194/essd-13-4067-2021
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+4108
+B. Stevens et al.: EUREC4A

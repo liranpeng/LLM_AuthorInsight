@@ -1,0 +1,8 @@
+NO3 + hν →, with average values of 2 to 4 × 10−1 s−1. These two
+J values emphasize sunlight from 310 to 600 nm, and thus span the
+typical range of errors in tropospheric photolysis rates.
+CH4 (e.g., Jacob et al., 1993; Horowitz et al., 1998; Ito et al.,
+2009; Emmons et al., 2010), plus the formation of secondary
+organic aerosols (SOAs; e.g., Ito et al., 2007; Fu et al., 2008;
+Galloway et al., 2011). For most VOCs (and H2O2) photol-
+ysis is the dominant loss; see Fig. 4. Daily photolysis rates

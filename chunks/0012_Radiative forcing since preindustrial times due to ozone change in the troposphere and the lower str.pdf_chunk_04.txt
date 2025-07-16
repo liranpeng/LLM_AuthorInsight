@@ -1,0 +1,9 @@
+of Excellence, ozone changes between 1850 and 2000 are
+assessed for the troposphere and the lower stratosphere (up
+to 30 km) by a variety of seven chemistry-climate models
+and three chemical transport models. The modeled ozone
+changes are taken as input for detailed calculations of radia-
+tive forcing.
+When only changes in chemistry are considered (constant
+climate) the modeled global-mean tropospheric ozone col-
+umn increase since preindustrial times ranges from 7.9 DU

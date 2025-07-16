@@ -1,0 +1,5 @@
+leigh scattering by air (an important component in the visible region, see above) must also be approximated 
+in 2-stream codes, truncated from PRay = ¾(1 +cos2[Θ]) to PRay = 1, removing the forward-backward scat-
+tering lobe of the phase function to make it isotropic; this is implemented here as version SJ/Ray. All these 
+versions use the standard 8-stream scattering code. The δ-scaling and HG approximation tests here are run 
+without ice clouds to aid in comparisons with RRTMG.

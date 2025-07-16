@@ -1,0 +1,8 @@
+high-pollution events. When used to test a chemistry–climate
+model, more caution is needed.
+AQX events are deﬁned here in terms of the return time of
+such events for each cell (i.e., as in climate extremes) rather
+than as an absolute O3 threshold. Such deﬁnition clearly
+identiﬁes large-scale pollution episodes associated with stag-
+nant meteorological regimes. The AQX events (10 worst
+days per year = 97.3 percentile) contain a disproportionately

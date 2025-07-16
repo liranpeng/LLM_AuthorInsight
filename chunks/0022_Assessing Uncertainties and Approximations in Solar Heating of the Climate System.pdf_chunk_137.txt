@@ -1,0 +1,4 @@
+larger fraction of isotropic-equivalent scattering, similar to what happens with increased roughness in the 
+Bi-Yang crystals. All of these phase functions have similar asymptotic behavior. The Solar-J treatment of ice 
+clouds certainly needs to be updated (e.g., Bi & Yang, 2017; Heymsfield et al., 2013), but is solidly linked to 
+the optical properties of ice clouds, and is adequate for the comparisons here.

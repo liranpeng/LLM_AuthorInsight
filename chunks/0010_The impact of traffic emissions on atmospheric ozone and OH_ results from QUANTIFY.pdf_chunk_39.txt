@@ -1,0 +1,8 @@
+differnt emissions, one needs to minimize non-linearities in
+the chemistry calculations. The total removal of one emis-
+sion source could lead to responses of the chemical system
+such that the sum of the effects of each individual transporta-
+tion sector exceeds the effect of all trafﬁc emission sources
+switched off simultaneously. Furthermore the unscaled re-
+sponse of the chemical system is expected to be closer to the
+effect of realistic emission changes rather than a total emis-

@@ -1,0 +1,8 @@
+tosca, R.: Atmospheric budget of acetone, J. Geophys. Res., 107,
+4100, doi:10.1029/2001JD000694, 2002.
+John, J. G., Fiore, A. M., Naik, V., Horowitz, L. W., and Dunne, J.
+P.: Climate versus emission drivers of methane lifetime against
+loss by tropospheric OH from 1860–2100, Atmos. Chem. Phys.,
+12, 12021–12036, doi:doi:10.5194/acp-12-12021-2012, 2012.
+Karlsdottir, S. and Isaksen, I.: Changing methane lifetime: possible
+cause for reduced growth, Geophys. Res. Lett., 27, 93–96, 2000.

@@ -1,0 +1,9 @@
+mass coupling is through “super-cycling”.
+A similar approach has been taken in the scheme of SLFV-
+SL developed at LMD (Laboratoire de Météorologie Dy-
+namique, Paris, France) for a hexagonal icosahedral grid-
+based model. It uses simpliﬁed swept areas with simpliﬁed
+integration of linear reconstruction functions as in ICON-
+FFSL. Contrary to ICON-FFSL, the SLFV schemes base
+their reconstruction on averaging six gradients (or ﬁve for
+the pentagons) rather than a least-squares ﬁt. SLFV-SL uses a

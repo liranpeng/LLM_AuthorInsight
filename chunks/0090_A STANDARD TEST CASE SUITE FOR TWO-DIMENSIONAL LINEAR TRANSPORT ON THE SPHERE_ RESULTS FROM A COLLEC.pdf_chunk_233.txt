@@ -1,0 +1,10 @@
+ing insights by analyzing these data, and for brevity the his-
+tograms for this data are omitted (the data are available in
+the supplemental material). Except for CAM-FV and FAR-
+SIGHT, the divergent data are ordered similarly to 1λm in
+terms of magnitude (Fig. 3, top). Note that schemes based
+on FCT limiting in general improve accuracy when shape
+preservation is enforced, whereas schemes based on recon-
+struction limiting degrade the error norms.
+3.7
+Algorithmic considerations

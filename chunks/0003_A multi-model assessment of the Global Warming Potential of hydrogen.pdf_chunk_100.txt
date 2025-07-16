@@ -1,0 +1,7 @@
+ARTICLE
+COMMUNICATIONS EARTH & ENVIRONMENT |  (2023) 4:203 | https://doi.org/10.1038/s43247-023-00857-8 | www.nature.com/commsenv
+9
+additional uncertainty towards lower GWP values is likely when reporting larger
+uncertainty intervals unless the soil sink can be better constrained.
+Model description. Table 2 gives an overview of the models and how they are set
+up, and below is a detailed description of the individual models.

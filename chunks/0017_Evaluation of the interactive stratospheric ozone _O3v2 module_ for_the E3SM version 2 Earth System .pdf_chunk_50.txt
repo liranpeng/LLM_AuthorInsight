@@ -1,0 +1,8 @@
+monthly anomalies relative to the long-term average in Fig. 1. The
+OMI+MLS observations are for years 2005–2017. The model re-
+sults show long-term interannual variability and are from two differ-
+ent 13-year periods: E3SM data for 1995–2007 (dashed lines) and
+2002–2014 (solid lines) and UCI CTM data for 1992–2004 (dashed
+line) and 2005–2017 (solid line).
+total column ozone in ﬁgures similar to Fig. 1. The UCI CTM
+scores slightly better than EAM versions because of its su-

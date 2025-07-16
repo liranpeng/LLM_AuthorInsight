@@ -1,0 +1,9 @@
+deployment are ATom-1, 29 July–23 August 2016; ATom-2, 26 January–21 February 2017; ATom-3, 28 September–27 October 2017; and
+ATom-4, 24 April–21 May 2018.
+2.2
+Protocols
+The ATom observations used for the reactivity calculations
+here are taken from the Modeling Data Stream (MDS-2b) de-
+scribed in G2023 and available at Prather et al. (2023). When
+completing this analysis, it was found that the method of gap-
+ﬁlling for NOx did not take advantage of all the observations

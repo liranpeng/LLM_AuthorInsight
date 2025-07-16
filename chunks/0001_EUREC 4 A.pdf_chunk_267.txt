@@ -1,0 +1,9 @@
+12.0 µm and used to infer SST
+Core instrument
+The aircraft and in situ data system (aircraft state, temperature, humidity, and pressure)
+above and the ocean underneath was repeatedly probed using
+a wealth of instruments that either were running continuously
+or sampled discrete stations. At the end of the campaign, R/V
+Meteor headed for its next working area. Additional mea-
+surements were carried during this transit, and the vessel ar-
+rived in Ponta Delgada (Azores, Portugal) on 3 March 2020

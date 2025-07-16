@@ -1,0 +1,5 @@
+this well-known feature of the N2O budget derived from previous studies (Nevison et al., 2018; Thompson 
+et al., 2019; Tian et al., 2020).
+We investigate disruptions to the QBO, their impacts on N2O loss, and the models' ability to capture these 
+impacts. The models have trouble capturing the surface impact of anomalous QBOs which coincide with 
+strong, but opposite ENSO events (La Niña (2010/11) versus El Niño (2015/16)), which further confounds

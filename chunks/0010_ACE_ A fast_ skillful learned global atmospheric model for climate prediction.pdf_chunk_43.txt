@@ -1,0 +1,6 @@
+Perkins, Oliver Watt-Meyer, Christopher S. Bretherton, and Lucas M. Harris. Correcting
+a 200 km resolution climate model in multiple climates by machine learning from 25 km
+resolution simulations. Journal of Advances in Modeling Earth Systems, 14(9), September 2022.
+doi:10.1029/2022ms003219.
+[7] William Collins, Philip Rasch, Byron Boville, James McCaa, David Williamson, Jeffrey Kiehl,
+Bruce Briegleb, Cecilia Bitz, S.-J. Lin, Minghua Zhang, and Youngjiu Dai. Description of the

@@ -1,0 +1,9 @@
+5.3
+Developing climate statistics of AQX episodes
+The episode size distributions in Fig. S6 in the Supplement
+show clear differences across the years; however we need
+an objective measure of these differences. The Anderson–
+Darling (AD) test (Anderson and Darling, 1952) compares
+two CDFs (equivalently CCDFs) and gives a conﬁdence
+level that they occur from the same underlying and unknown
+distribution (the AD null hypothesis). The AD test is non-

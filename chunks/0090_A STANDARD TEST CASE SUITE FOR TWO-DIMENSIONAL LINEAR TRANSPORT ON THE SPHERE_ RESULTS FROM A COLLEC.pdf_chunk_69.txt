@@ -1,0 +1,10 @@
+2.1.4
+Dimensional splitting approach
+Instead of approximating swept area ﬂuxes rigorously in
+two dimensions, one may take an operator split approach,
+which has been successfully applied for orthogonal (Lin
+and Rood, 1996) and quasi-orthogonal grids (Putman and
+Lin, 2007). The advantage of such an approach is that only
+one-dimensional operators are needed. The formal accuracy,
+however, is limited to second-order with the splitting. The
+Lin and Rood (1996) scheme is used in NCAR’s Com-

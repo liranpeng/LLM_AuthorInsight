@@ -1,0 +1,8 @@
+ciﬁc basin, as well as 2D probability densities (PDs) for key
+species such as NOx (NO + NO2) versus HOOH. A large
+part of the model differences was attributed to the large dif-
+ferences found in chemical composition. We found that sin-
+gle transects from a model through the tropical Paciﬁc at dif-
+ferent longitudes produced nearly identical 2D PDs, but these
+PDs were distinctly different across models. This result sup-
+ported the premise that the ATom PDs would provide a useful

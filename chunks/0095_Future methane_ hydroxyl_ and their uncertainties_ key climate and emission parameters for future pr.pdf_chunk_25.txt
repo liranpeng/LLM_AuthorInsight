@@ -1,0 +1,8 @@
+resolution, but the vertical resolution in the boundary layer
+is reduced, so there are 57 layers total. Tropospheric chem-
+istry of the major gas-phase species involved in HOx, NOx,
+O3, and VOC reactions is simulated with the ASAD pack-
+age (Carver et al., 1997), with updates to the mechanism and
+kinetics (Tang and Prather, 2010). This mechanism includes
+84 reactions involving 33 species, making it simpler than the
+Oslo CTM3 chemical mechanism. As in Oslo CTM3, clouds

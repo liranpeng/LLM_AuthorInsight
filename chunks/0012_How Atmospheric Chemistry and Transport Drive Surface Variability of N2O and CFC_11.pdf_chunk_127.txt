@@ -1,0 +1,7 @@
+RUIZ ET AL.
+10.1029/2020JD033979
+13 of 16
+Figure 5.  The annual cycle of surface N2O/N2OX for the northern hemisphere (30°N–90°N; solid red line) and 
+the southern hemisphere (30°–90°S; dashed blue line). Simulations (top panel and bottom left) are of N2OX (zero 
+emissions), while the NOAA ESRL observations (bottom right) are of surface N2O (with emissions). The 12-month 
+running average of the global abundance for each data set was rescaled to 320 ppb. From there each month was

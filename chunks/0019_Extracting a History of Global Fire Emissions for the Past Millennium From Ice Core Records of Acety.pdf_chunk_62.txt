@@ -1,0 +1,17 @@
+A similar approach was used to evaluate emission scenarios of methane calculated using the one‐box model.
+Emissions of methane from biomass burning, microbial, and geologic sources were varied over a broad
+range. The resulting methane and δ13CH4 from each emission scenario were compared to ice core records
+of CH4 and δ13CH4 (Table S2). Emission scenarios were evaluated for deﬁned time periods by using the fol-
+lowing metrics:
+ΔCH4 ¼ m CH4
+½
+ −o CH4
+½
+
+
+
+o CH4
+½
+
+(4)
+Δδ13CH4 ¼

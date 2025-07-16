@@ -1,0 +1,8 @@
+(Group 1) and UCI (Group 2) have very similar CODs and
+CFs in the lower troposphere as shown in Fig. S6. They
+also use similar J-value codes including spectral and scat-
+tering data based on the Fast-J module. Yet, they have a
+factor of 2 difference in the frequency of nearly cloud-free
+sky as shown in Fig. 5. Compared to GMI, UCI shows an
+overall greater impact of clouds with 2 times larger fre-
+quency of cloud brightening in the upper troposphere and 2

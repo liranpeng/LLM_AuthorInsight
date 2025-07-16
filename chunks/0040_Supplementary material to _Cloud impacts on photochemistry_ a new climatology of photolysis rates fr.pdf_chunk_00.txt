@@ -1,0 +1,10 @@
+1 
+ 
+Supplementary Material for  
+ 
+Cloud impacts on photochemistry:  a new climatology of photolysis rates from the 
+Atmospheric Tomography mission  
+ 
+Samuel R. Hall1, Kirk Ullmann1, Michael J. Prather2, Clare M. Flynn2, Lee T. Murray3, Arlene M. Fiore4,5, 
+Gustavo Correa4, Sarah A. Strode6,7, Stephen D. Steenrod6,7, Jean-Francois Lamarque1, Jonathon Guth8, 
+Béatrice Josse8, Johannes Flemming9, Vincent Huijnen10, N. Luke Abraham11,12, Alex T. Archibald11,12

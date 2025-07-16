@@ -1,0 +1,8 @@
+ated variations between the individual models in that region
+range from 3.5 ppbv (LMDzINCA) to 6 ppbv (p-TOMCAT)
+at 250 hPa during July resulting in a standard deviation of
+2 ppbv. In the extratropics of the southern hemisphere the
+effect of summer convection is not as pronounced due to the
+hemispheric differences of the emissions.
+Interestingly, the interannual variability of the zonal
+mean ozone perturbations of around 0.5 ppbv (≈5%) for

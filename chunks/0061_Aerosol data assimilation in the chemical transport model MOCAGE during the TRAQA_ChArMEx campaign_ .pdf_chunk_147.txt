@@ -1,0 +1,10 @@
+ment is in northern summer with a good likelihood of having
+a cloud-free ﬁeld, and two overpasses per day were able to
+cover a signiﬁcant part of the control domain each day. Pos-
+sibly, a higher temporal resolution of data for assimilation
+could have a stronger effect on the model, especially during
+the winter-time.
+8
+Summary and conclusion
+In this study we present the development and validation of
+the MOCAGE-Valentina system for assimilating aerosol op-

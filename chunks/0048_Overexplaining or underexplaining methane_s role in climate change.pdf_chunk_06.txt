@@ -1,0 +1,46 @@
+Although there are many emission and climate
+processes that can change the amount of tropospheric
+OH and hence the rate of methane loss, neither model
+NOAA ESRL GMD April 2017 
+see Dlugokencky et al., 1994
+1850
+1800
+1750
+1700
+1650
+1600
+2010
+2020
+2000
+1990
+1980
+ CH4 global mean
+(mole fraction, ppb)
+SAR 
+(1995)
+FAR 
+(1990)
+AR4 
+(2007)
+TAR 
+(2001)
+AR5 
+(2013)
+AR6
+(2021)
+ IPCC Assessment Reports & Cut-off Dates
+Year
+CH3CCl3 decay 
+0.16
+0.17
+0.18
+0.19
+-10
+-5
+0
++5
+Rate (1/yr)
+Anomaly (%)
+A
+B
+C

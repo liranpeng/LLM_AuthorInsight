@@ -1,0 +1,12 @@
+the biogeochemical couplings involving aerosols and reac-
+tive gases.
+6
+Summary
+Advances in climate model development mean that for
+CMIP6 a larger set of climate models will include interactive
+simulation of aerosols than at the time of CMIP5, and many
+will include interactive chemistry of the troposphere and/or
+stratosphere. AerChemMIP has therefore been designed to
+quantify the effects of these NTCFs and reactive WMGHGs
+on climate and also on atmospheric composition and surface
+air quality.

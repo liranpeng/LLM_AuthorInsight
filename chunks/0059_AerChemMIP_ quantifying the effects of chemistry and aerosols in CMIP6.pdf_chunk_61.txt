@@ -1,0 +1,9 @@
+through changes in surface ozone and particulate matter. The
+effective radiative forcings are calculated from the net top
+of atmosphere (TOA) ﬂux difference between atmosphere-
+only simulations with identical SSTs but differing composi-
+tion (Forster et al., 2016; Pincus et al., 2016). The climate
+responses are calculated from the differences in climate be-
+tween atmosphere–ocean simulations with differing compo-
+sition.
+AerChemMIP is designed to quantify the climate effects

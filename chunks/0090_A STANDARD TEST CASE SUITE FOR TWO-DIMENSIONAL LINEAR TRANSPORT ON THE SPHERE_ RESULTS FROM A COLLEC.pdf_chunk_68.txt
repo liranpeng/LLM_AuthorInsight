@@ -1,0 +1,10 @@
+ing a stream function evaluated at mesh cell corners. Con-
+sequently, a constant density ﬁeld in a non-divergent ﬂow
+is preserved in the discretized CLAW scheme based on the
+advective form. Clawpack is not strictly a transport code,
+but is designed to solve more general non-linear hyperbolic
+problems. The problems presented here are ideally suited
+for AMRClaw, the spatially adaptive version of Clawpack
+(http://www.clawpack.org).
+2.1.4
+Dimensional splitting approach

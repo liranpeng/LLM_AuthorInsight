@@ -1,0 +1,8 @@
+for a day in mid-August using their standard treatment of
+clouds (designated all sky or cloudy here) and then a par-
+allel simulation with clouds and aerosols removed (desig-
+nated clear sky or clear). In addition to its correlated cloud-
+overlap model with multiple quadrature column atmospheres
+to calculate an average J value, UCI also contributed a
+model version using the B-averaging of cloud fractions (CFs)
+(Briegleb, 1992) used by most models, designated UCIb (see

@@ -1,0 +1,8 @@
+torical data being 5-year running means, except 2015 is a 3-year
+mean. Panel (a) includes scenarios used in IPCC AR3 and AR4
+reports, and panel (b) has AR5 scenarios. GHG amounts are from
+NOAA/ESRL Global Monitoring Division. O3 changes are not fully
+included, as they are not well measured, but its tropospheric changes
+are partially included via the effective CH4 forcing. Effective cli-
+mate forcing (Fe), MPTGs and OTGs are deﬁned in the Fig. 4 cap-
+tion.

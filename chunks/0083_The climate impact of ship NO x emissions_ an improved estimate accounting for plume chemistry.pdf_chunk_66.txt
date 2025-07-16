@@ -1,0 +1,6 @@
+e From modeling studies used in Table 2, plus Lawrence and Crutzen (1999), Dalsøren et al. (2007, 2009), and Hodnebrog et al. (2011). Emission inventories and perturbation
+magnitudes differ, but all assume instant dilution.
+f From observations of methyl chloroform (Prather et al., 2012).
+found to unrealistically concentrate ship emissions along
+narrow corridors and underestimate emissions in the trop-
+ics, as acknowledged in their work, both of which tend to

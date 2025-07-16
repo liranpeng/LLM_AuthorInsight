@@ -1,0 +1,8 @@
+L-CH4, L-CO) to change little. This is the case except for L-
+CH4 and L-CO for ATom-2 Atlantic 0–2 km.
+The PDs for the reactivities in each ocean base are shown
+in the eight panels of Fig. 55. The weighted mean reactivi-
+ties (ppb d−1) in each basin are given for ATom-1234 in the
+ﬁgure legend, with the v2b value followed by the v3 value.
+The PDs and mean values here are for 1 d only and thus dif-
+fer slightly from the 5 d averages analyzed in Sect. 3. Simi-

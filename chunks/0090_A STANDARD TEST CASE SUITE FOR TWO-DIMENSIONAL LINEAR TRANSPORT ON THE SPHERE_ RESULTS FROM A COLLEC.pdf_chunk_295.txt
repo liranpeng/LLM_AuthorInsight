@@ -1,0 +1,11 @@
+Geosci. Model Dev., 7, 105–145, 2014
+140
+P. H. Lauritzen et al.: Results from standard test case suite
+360/1λ and the corresponding truncation wave number is
+ntrunc = nx/2 −1.
+(A9)
+Thus, the linear grid is used (rather than the quadratic grid
+where ntrunc = nx/3 −1).
+For the 1.5◦simulations the truncation wave number is
+TL119, and dimensionless time step size is 5/120 and 5/600
+for CN = 5.2 and CN = 1.0, respectively. Similarly, for 0.75◦

@@ -1,0 +1,8 @@
+ence, since ACCMIP models calculate 24 ± 29 % increase
+in 2100 (Voulgarakis et al., 2012), compared to our assumed
+increase of 10 ± 20 %. Although we do not think future light-
+ning estimates from GCMs are robust (see above), assuming
+an equally large lightning change in the parametric model
+would lower τCH4×OH in 2100 by about 5 %, after includ-
+ing the methane feedback. The similar central estimates and
+ranges of τCH4×OH change in this work and ACCMIP, af-

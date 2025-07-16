@@ -1,0 +1,9 @@
+such the number of zonal grid points is 360/1λ. For the 1.5◦
+grid resolution, time steps of T/2400 and T/480 are used
+for the CN ≈0.2 and CN ≈1.2 simulations, respectively. For
+the 0.75◦grid resolution, the time steps T/7200 and T/960
+are used for the CN ≈0.2 and CN ≈1.2 simulations, respec-
+tively.
+There are no explicit diffusion parameters in the CAM-FV
+transport scheme. However, there is implicit diffusion from
+the PPM algorithm used with the Lin–Rood scheme (Lin and

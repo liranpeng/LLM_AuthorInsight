@@ -1,0 +1,8 @@
+Irvine chemistry transport model (UCI CTM) using the same
+stratospheric chemistry scheme but driven by European Cen-
+tre forecast ﬁelds for the same period. In terms of strato-
+spheric column ozone, O3v2 shows reduced mean bias and
+improved northern midlatitude variability, but it is not quite
+as good as the UCI CTM. As expected, SST-forced E3SMv1
+simulations cannot synchronize with observed quasi-biennial
+oscillations (QBOs), but they do show the typical QBO pat-

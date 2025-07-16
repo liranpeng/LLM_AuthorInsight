@@ -1,0 +1,12 @@
+posphere, where CH4 dominates the chemistry and controls
+much of the OH loss. The value of sOH drops to below −0.1
+in the upper troposphere, where cold temperatures make the
+OH + CH4 reaction very slow compared with the OH + CO
+reaction. The CH4 feedback factor describes the increase in
+the timescale for a CH4 perturbation relative to the OH life-
+time in steady state (i.e., the OH lifetime is the atmospheric
+burden divided by loss to OH reactions).
+ffCH4 =
+1
+1 + sOH
+(8)

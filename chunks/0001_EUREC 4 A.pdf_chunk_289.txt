@@ -1,0 +1,7 @@
+rect and indirect radiation, an inertial station to ﬁlter the ship motion, a refractometer for humidity, a
+LICOR LI-7500DS for fast CO2 and humidity measurements, fast measurements of wind, tempera-
+ture, humidity, and pressure, two GPS antennas, and a motion pack
+Isotope analyzer
+Picarro (L2140-i7) cavity ring-down laser spectrometer measuring stable isotopologues in water vapor
+(including water vapor mixing ratio)
+Isotope sampler

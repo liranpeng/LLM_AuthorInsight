@@ -1,0 +1,41 @@
+800
+1000
+L−CH4 (ppb/day)
+0
+2
+4
+6
+8
+x 10
+−3
+200
+400
+600
+800
+1000
+J−NO2 (/s)   
+Pressure (hPa)
+ 
+ 
+0
+1
+2
+3
+4
+x 10
+−5
+200
+400
+600
+800
+1000
+J−O1D (/s)   
+GFDL
+GISS
+GSFC
+GC
+NCAR
+UCI
+SP       TP       NP
+Figure 1. Different models’ proﬁles of reactivities (P -O3; L-O3; L-CH4; all ppb day−1) and photolysis rates (J-NO2; J-O1D; all s−1)
+calculated for the data stream of 14 880 air parcels. Models are identiﬁed by color (black, GFDL; red, GISS; blue, GSFC; green, GC;

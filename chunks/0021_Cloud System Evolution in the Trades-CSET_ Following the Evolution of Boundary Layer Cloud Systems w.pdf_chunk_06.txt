@@ -1,0 +1,5 @@
+Gulfstream V (GV) between Sacramento, CA and Kona, Hawaii between 1 July and 15 August 
+2015. The CSET observing strategy was to sample aerosol, cloud, and boundary layer properties 
+upwind from the transition zone over the North Pacific and to resample these areas two days later. 
+GFS forecast trajectories were used to plan the outbound flight to Hawaii with updated forecast 
+trajectories setting the return flight plan two days later. Two key elements of the CSET observing

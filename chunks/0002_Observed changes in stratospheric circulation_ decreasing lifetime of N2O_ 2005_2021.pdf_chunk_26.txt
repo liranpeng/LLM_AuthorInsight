@@ -1,0 +1,8 @@
+from a range of satellite measurements, including the MLS
+O3 used here that is driving the change in J-N2O. For the up-
+per stratospheric tropics (1–10 hPa), the generally observed
+O3 trend of order +1.0 %/decade to +1.6 %/decade is con-
+sistent with the vertical pattern and magnitude of the J-N2O
+trend. Another source of declining J-N2O is the reduction in
+photolysis cross sections from lower temperatures. We cal-
+culate that the relative change in J in this altitude region is

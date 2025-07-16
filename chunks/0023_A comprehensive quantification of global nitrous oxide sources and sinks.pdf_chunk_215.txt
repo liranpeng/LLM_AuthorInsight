@@ -1,0 +1,7 @@
+N2O emissions from croplands due to nitrogen fertilization based on NMIP and 
+SRNM. The grey columns show the amount of soybeans and corn exported by 
+Brazil. Data regarding beef and cereal product exports were adapted from the 
+ABIEC (beef) and FAOSTAT (soybean and corn) databases. Mmt yr−1 represents 
+millions of metric tons per year.
+Extended Data Fig. 10 | A comparison of anthropogenic N2O emissions and 
+atmospheric N2O concentrations in the unharmonized SSPs. An extension

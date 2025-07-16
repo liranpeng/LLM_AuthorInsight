@@ -1,0 +1,9 @@
+Dufour, A., Amodei, M., Ancellet, G., and Peuch, V.-H.: Observed
+and modelled “chemical weather” during ESCOMPTE, Atmos.
+Res., 74, 161–189, 2005.
+El Amraoui, L. and Siˇc, B.: MOCAGE direct aerosol run data
+for the period of the TRAQA campaign, ChArMEx database,
+available at: http://mistrals.sedoo.fr/ChArMEx/ (registration re-
+quired, last access: November 2016), doi:10.14768/MISTRALS-
+CHARMEX.1034, 2013.
+El Amraoui, L. and Siˇc, B.: MOCAGE assimilation aerosol run data

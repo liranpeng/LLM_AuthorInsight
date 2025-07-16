@@ -1,0 +1,4 @@
+the assimilation model run (b) and the difference between the direct and the assimilated model run (c). The units are in mass mixing ratios,
+with the values represented by colours identiﬁed in colour bars. In (b) the passes of the MODIS over the plume are marked by the triangles.
+The desert dust plume is followed from its sources in Africa to its weakening and dissolution in the Mediterranean Sea (d).
+(Desroziers et al., 2005) computed from the data of a month

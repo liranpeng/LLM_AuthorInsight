@@ -1,0 +1,4 @@
+%                                                                              
+%                                                                              
+Cirrus model:        Solar-J         E&C 92       Fu 96          Key 02
+Figure 6. Percent changes (%) in shortwave radiation energy budget relative to the aerosol-free clear sky (surface albedo of 0.06) caused by

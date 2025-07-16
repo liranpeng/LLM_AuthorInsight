@@ -1,0 +1,4 @@
+Journal of Geophysical Research: Atmospheres, 120, 12128–12142. https://doi.org/10.1002/2015JD023632
+Lin, Z. Y., Chen, N., Fan, Y. Z., Li, W., Stamnes, K., & Stamnes, S. (2018). New treatment of strongly Anisotropic scattering phase functions: 
+The delta-M plus method. Journal of the Atmospheric Sciences, 75(1), 327–336.
+Liou, K.-N. (1974). Analytic two-stream and four-stream solutions for radiative transfer. Journal of the Atmospheric Sciences, 31, 1473–1475.

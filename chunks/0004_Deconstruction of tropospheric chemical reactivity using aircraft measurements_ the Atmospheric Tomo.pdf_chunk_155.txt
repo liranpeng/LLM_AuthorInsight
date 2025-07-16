@@ -1,0 +1,9 @@
+ﬁles of NOx(v2b), NOxﬁt(v3), and HOOH for the three tropi-
+cal regions in Fig. 57. The central Paciﬁc is not much affected
+by the v2b–v3 update, but the eastern Paciﬁc and tropical At-
+lantic noticeably change. For Paciﬁc HOOH, we ﬁnd that the
+1–5 km peak is mostly in the eastern Paciﬁc and thus relate
+high levels of HOOH and related HOx activity to outﬂow
+from continents.
+The 2D curtain ﬁles for the Paciﬁc and Atlantic basins
+show the level of heterogeneity in NOx for ATom-1234 in

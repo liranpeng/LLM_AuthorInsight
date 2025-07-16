@@ -1,0 +1,10 @@
+National Laboratory, using NERSC award BER-ERCAP0024832.
+5
+References
+[1] Tom Beucler, Pierre Gentine, Janni Yuval, Ankitesh Gupta, Liran Peng, Jerry Lin, Sung-
+duk Yu, Stephan Rasp, Fiaz Ahmed, Paul A. O’Gorman, J. David Neelin, Nicholas J.
+Lutsko, and Michael Pritchard.
+Climate-invariant machine learning.
+arXiv, 2021.
+doi:10.48550/ARXIV.2112.08440.
+[2] Kaifeng Bi, Lingxi Xie, Hengheng Zhang, Xin Chen, Xiaotao Gu, and Qi Tian. Accurate

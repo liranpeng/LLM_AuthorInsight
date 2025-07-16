@@ -1,0 +1,8 @@
+systematic biases than coarse-resolution or established regional
+simulations12,13, and current data tends to cover short periods of
+time. Such datasets are also massive, difficult to transfer between
+data centers and frequently not produced on machines attached to
+significant AI computing resources like Graphical Processing Units
+(GPUs).
+In contrast, for regional simulation, using ML to conditionally
+generate km-scales is attractive. High-quality training data are

@@ -1,0 +1,7 @@
+are priorities to reduce uncertainties in bottom-up estimates. Atmos-
+pheric observations in underrepresented regions of the world and 
+better atmospheric transport models are essential to reduce uncer-
+tainty in top-down estimates, whereas more accurate activity data and 
+robust emission factors are critical for greenhouse-gas inventories (see  
+Methods for additional discussion on uncertainty).
+According to estimates from the Global N2O Model Intercompari-

@@ -1,0 +1,8 @@
+contributions to be −1 and −0.2 W m−2, respectively. We
+assume a small increase this century as global population
+rises and increasing aerosol emission controls in emerging
+economies tend to be offset by increasing development else-
+where, so aerosol + surface forcing is −1.5 W m−2 in 2100.
+The temporal shape of the historic aerosol forcing curve (Ta-
+ble A10) is from Hansen et al. (2011), which in turn was
+based on the Novakov et al. (2003) analysis of how aerosol

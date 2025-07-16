@@ -1,0 +1,8 @@
+independent datasets, conﬁrms the signiﬁcant positive effect
+of the AOD assimilation to the model. For example, the com-
+parison with AERONET data shows that the assimilation de-
+creased the bias in AOD (from 0.050 to 0.006) and increased
+the correlation (from 0.74 to 0.88).
+The TRAQA campaign provided independent 3-D data on
+aerosol concentration. The assimilation sometimes improved
+the modelled ﬁelds and sometimes had little effect. The best

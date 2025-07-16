@@ -1,0 +1,4 @@
+the updated ice optics versus the RRTMG(Fu) parameterization leads to more in-cloud heating by about 
+0.1 K per day and less reflection by about 3 W m−2 (their Figure 8). These results appear to correct much of 
+the error in ice-cloud heating found here and in LBYY and B2015, but they are difficult to understand or 
+consolidate with RRTMG simulations here because KIM uses their adaptation of RRTMG's 2-stream solver.

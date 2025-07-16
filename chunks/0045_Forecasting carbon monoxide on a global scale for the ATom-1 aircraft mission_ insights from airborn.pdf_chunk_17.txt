@@ -1,0 +1,9 @@
+2017; Wofsy et al., 2018) for comparison with the model
+forecasts and analyses.
+We take ATom-1 CO observations from the Harvard
+quantum cascade laser spectrometer (QCLS) instrument
+(Santoni et al., 2014), which has a history of successful
+measurements during the HIAPER Pole-to-Pole Observa-
+tions (HIPPO) campaign. Brieﬂy, the instrument uses a
+pulsed quantum cascade laser at 2160 cm−1 to measure
+absorption of CO through an astigmatic multi-pass sam-

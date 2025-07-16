@@ -1,0 +1,10 @@
+4103
+Table B8. MS-Merian.
+Instrument
+Brief description
+CTD casts
+Sea-Bird SBE-911 CTD mounted on a rosette system, operated up to full water depth, measuring
+vertical proﬁles of seawater temperature, salinity, ﬂuorescence, oxygen, and PAR
+Rosette bottle sampler
+Samples used for ocean-microbiology observations, including biogeochemical parameters (e.g., nutri-
+ents, chlorophyll a, particulate organic carbon and nitrogen, trace greenhouse gases), biogeochemical

@@ -1,0 +1,17 @@
+1986.
+Guth, J., Josse, B., Marécal, V., Joly, M., and Hamer, P.: First im-
+plementation of secondary inorganic aerosols in the MOCAGE
+version R2.15.0 chemistry transport model, Geosci. Model Dev.,
+9, 137–160, doi:10.5194/gmd-9-137-2016, 2016.
+Hess,
+M.,
+Koepke,
+P.,
+and
+Schult,
+I.:
+Optical
+Properties
+of Aerosols and Clouds: The Software Package OPAC,
+B. Am. Meteorol. Soc., 79, 831–844, doi:10.1175/1520-
+0477(1998)079<0831:OPOAAC>2.0.CO;2, 1998.

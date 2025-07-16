@@ -1,0 +1,19 @@
+Eq. (A12) (resp. Eq. A14), the reconstruction used to evalu-
+ate φ
+
+t, rk,i −V
+n+ 1
+2
+k,i
+1t
+2
+
+(resp. φi) is the one based on the
+control volume situated upwind to the edge. We present re-
+sults obtained with a CN equal to 0.8, but the scheme seems
+to work up to maximum CFL equal to 1.0.
+A15
+TTS-I
+The TTS-I scheme operates on a fully Lagrangian mesh. The
+initial grid is a centroidal Voronoi tessellation of the sphere,
+and its resolution is given in terms of number of polygons.

@@ -1,0 +1,8 @@
+high-resolution models as seen in Fig. 1, but the extent to
+which these models represent the key processes shaping the
+observed patterns is understudied.
+Characterizing atmospheric measurements of this chemi-
+cal heterogeneity speciﬁcally for testing models is problem-
+atic. Simple direct comparisons of atmospheric rivers, pol-
+lution or biomass burning plumes, and other structures in
+the troposphere or stratosphere are difﬁcult, even with mod-

@@ -1,0 +1,6 @@
+where the radar and lidar were used to characterize clouds in the boundary layer and 
+dropsondes were used to define boundary layer structure. Extensive observations of key 
+features of cloud system evolution were made—mesoscale precipitating cloud complexes, 
+gray cloud layers, and ultra clean layers at boundary layer top in areas far removed from 
+areas sampled on past aircraft missions.
+This project demonstrated the power of EOL Field Catalog II for mission planning, flight

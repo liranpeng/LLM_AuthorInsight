@@ -1,0 +1,8 @@
+OH in the atmosphere depend on other gases, most notably
+methane, nitrogen oxides (NOx), carbon monoxide (CO), and
+VOCs. All these processes are highly coupled and lead to che-
+mical feedback processes10. Oxidation of methane and VOCs by
+OH also provides an important atmospheric source of hydrogen.
+Similarly, the change in chemistry caused by both the uptake of
+OH and production of H in reaction (1) can lead to changes in
+ozone. In the troposphere the production of water vapor is neg-

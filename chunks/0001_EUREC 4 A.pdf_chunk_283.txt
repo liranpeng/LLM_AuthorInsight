@@ -1,0 +1,11 @@
+cused on the boundary layer, with all measurements collected
+below 1000 m altitude and the majority of observations oc-
+curring in the lowest 750 m of the atmosphere. Additional
+information on the RAAVEN, its capabilities, and the data
+collected during EUREC4A can be found in de Boer et al.
+(2021).
+B13
+MPCKs
+The Max Planck CloudKites were operated on R/V MS-
+Merian and R/V Meteor. Two different instrument boxes
+were ﬂown with the CloudKites, namely the MPCK+ (only

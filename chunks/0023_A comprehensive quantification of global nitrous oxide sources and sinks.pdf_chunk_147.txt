@@ -1,0 +1,7 @@
+burden and its rate of change during 1980–2016 were derived from 
+mean maritime surface mixing ratios of N2O (refs. 78,79) with a conversion 
+factor of 4.79 Tg N ppb−1 (ref. 80). Combining uncertainties in measuring 
+the mean surface mixing ratios78 and that of converting surface mix-
+ing ratios to a global mean abundance80, we estimate an uncertainty 
+in the burden of ±1.4%. Annual change in atmospheric abundance is 
+calculated from the combined NOAA and AGAGE record of surface

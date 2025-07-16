@@ -1,0 +1,9 @@
+a new standard test of cloud effects. The observations quan-
+tify how clouds alter photochemistry and are compared here
+with parallel analyses from nine global atmospheric chem-
+istry models.
+Since the early models of atmospheric chemistry, the sci-
+entiﬁc community has tried various approximations and ﬁxes
+for “those pesky clouds”. Overhead clouds can shadow the
+sun, resulting in diminished J values beneath and within the
+lower parts of thick clouds. Cloud scattering results in en-

@@ -1,0 +1,9 @@
+performed looking at the odds of 30-day mortality before 
+each delay to surgery threshold versus delay beyond this 
+threshold. All variables in the multivariable logistic regres-
+sion model were entered without exclusions for collinearity 
+[26]. Data were analysed using R version 3.6.2 (R Founda-
+tion for Statistical Computing, Vienna, Austria).
+Results
+A total of 12,223 patients were admitted with hip fractures 
+during the study period. Data were available for 10,659

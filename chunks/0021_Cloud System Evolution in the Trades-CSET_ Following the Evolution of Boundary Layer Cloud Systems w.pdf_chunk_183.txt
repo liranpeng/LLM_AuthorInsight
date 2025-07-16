@@ -1,0 +1,8 @@
+are from screenshots of the Field Catalog. The HSRL scattering returns are for the hour 
+stating at 1700 UTC. The GV flight path is shown by yellow line and aircraft location by red 
+dot. The UHAS particle concentrations and the median cloud droplet sizes from the cloud 
+probe are shown as functions of longitude and altitude on both the RF02 outbound and RF03 
+inbound flights.
+Albrecht et al.
+Page 32
+Bull Am Meteorol Soc. Author manuscript; available in PMC 2020 February 15.

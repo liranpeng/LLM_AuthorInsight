@@ -1,0 +1,8 @@
+percentages on the right side of the Likert bar plots correspond to the
+proportion of responses that were ranked "agree" or "strongly agree".
+The percentages on the left correspond to those ranked "disagree" or
+"strongly disagree", and the middle grey percentages to "neutral". Where
+responses are labelled as "missing", this relates to respondents selecting
+that they "cannot comment in [their] role", all questions mandated a
+response.
+Weight-bearing

@@ -1,0 +1,6 @@
+measurements across an eddy near 11◦N, with anti-cyclonic currents (at −5 m) shown by vectors, in Region C. Panel (b) shows time series
+of Tsea measurements by the different instruments. Probability density, p, of air–sea temperature differences measured by two SWIFT buoys
+between 04:00 UTC 4 February and 14:00 UTC 6 February (c).
+Ocean eddies, fronts, and ﬁlaments inﬂuence the atmo-
+sphere by perturbing air–sea surface ﬂuxes (Chelton and
+Xie, 2010; O’Neill et al., 2012) – a process that may

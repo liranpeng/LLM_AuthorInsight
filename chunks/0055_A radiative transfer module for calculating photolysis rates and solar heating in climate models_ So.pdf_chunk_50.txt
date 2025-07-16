@@ -1,0 +1,8 @@
+only below 2 km, while the cirrus example has non-zero ice-
+water content (IWC, g m−3) above 6 km and no liquid water
+anywhere. The total cloud water content (CWC, g m−3) and
+effective radius (re) are also listed in Table 3. Solar-J has
+default values for re: for cirrus, they are parameterized as
+re = 164 × IWC0.23 µm, based on a ﬁt to the data described
+in Heymsﬁeld et al. (2003). For liquid-water clouds, they
+are based loosely on observations of clean maritime stratus

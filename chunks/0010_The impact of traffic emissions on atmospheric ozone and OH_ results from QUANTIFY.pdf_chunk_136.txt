@@ -1,0 +1,8 @@
+4.4 TgN/yr in this study (see Table 1) and also in Fuglestvedt
+et al. (2008), but it is unlikely that this alone has caused the
+large differences. In addition the emission patterns of both
+ship emission data sets are very different. The distribution of
+the ship emissions in Eyring et al. (2007) and Stevenson et al.
+(2006) is based on the EDGAR3.2 dataset, where the emis-
+sions are mainly concentrated on the major shipping routes.
+The ship emissions used in QUANTIFY have been gener-

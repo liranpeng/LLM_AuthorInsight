@@ -1,0 +1,9 @@
+face ozone and particulate matter in addition to deposition of
+nitrate and sulfate and any interactions of atmospheric and
+land-use changes. CMIP6 will provide comprehensive infor-
+mation on the future large-scale evolution of atmospheric
+composition, thus updating the knowledge base used to man-
+age air pollution.
+The Aerosol and Chemistry Model Intercomparison
+Project, AerChemMIP, contributes to CMIP6 by diagnos-
+ing climate forcings and feedbacks involving NTCFs and

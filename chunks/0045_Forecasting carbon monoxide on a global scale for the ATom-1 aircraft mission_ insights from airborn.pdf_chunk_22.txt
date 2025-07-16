@@ -1,0 +1,9 @@
+215 hPa level with the recommended quality, status, preci-
+sion, and convergence criteria. Although MLS data overlap
+with ATom only at the highest ﬂight levels, MLS and MO-
+PITT provide complementary views of CO in the upper tro-
+posphere/lower stratosphere (UTLS) and lower troposphere,
+respectively. The MOPITT averaging kernels include some
+sensitivity to the 200 hPa level, implying a small overlap be-
+tween the MOPITT and MLS observations.
+The Moderate Resolution Imaging Spectroradiometer

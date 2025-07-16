@@ -1,0 +1,44 @@
+Atmos. Chem. Phys., 14, 7721–7739, 2014
+7728
+J. L. Schnell et al.: Skill in forecasting extreme ozone pollution episodes
+a)      MB − Winter (DJF) 
+     µ = 19 ± 6 ppb 
+ 
+ 
+b)      MB − Winter (DJF) 
+     µ = 18 ± 5 ppb 
+5
+10
+15
+20
+25
+30
+35
+40
+45
+c)      MB − Summer (JJA) 
+     µ = 30 ± 14 ppb 
+ 
+ 
+d)      MB − Summer (JJA) 
+     µ = 29 ± 8 ppb 
+5
+15
+25
+35
+45
+55
+65
+75
+e)      MCC − Winter (DJF) 
+     µ = 0.47 ± 0.13
+ 
+ 
+f)      MCC − Winter (DJF) 
+     µ = 0.61 ± 0.10
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8

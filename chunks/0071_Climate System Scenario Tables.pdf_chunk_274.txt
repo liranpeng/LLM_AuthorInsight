@@ -1,0 +1,25 @@
+1445
+Climate System Scenario Tables	
+Annex II
+AII
+Table AII.7.7 |  Global mean sea level rise (m) with respect to 1986–2005 at 1 January on the years indicated. Values shown as median and likely range; see Section 13.5.1.
+Year
+SRES A1B
+RCP2.6
+RCP4.5
+RCP6.0
+RCP8.5
+2007
+0.03 [0.02 to 0.04]
+0.03 [0.02 to 0.04]
+0.03 [0.02 to 0.04]
+0.03 [0.02 to 0.04]
+0.03 [0.02 to 0.04]
+2010
+0.04 [0.03 to 0.05]
+0.04 [0.03 to 0.05]
+0.04 [0.03 to 0.05]
+0.04 [0.03 to 0.05]
+0.04 [0.03 to 0.05]
+2020
+0.08 [0.06 to 0.10]

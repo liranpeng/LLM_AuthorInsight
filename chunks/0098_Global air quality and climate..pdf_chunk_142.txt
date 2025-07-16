@@ -1,0 +1,8 @@
+two.66 Narrowing this range likely requires better constraints
+on global NOx distributions;38,58 new space-based approaches
+may be particularly useful.302–308
+Black carbon mitigation is another approach under con-
+sideration to improve air quality and lessen global warming,
+with several emission control strategies identiﬁed30 but sub-
+stantial uncertainty remains regarding the varied roles by
+which black carbon aﬀects climate (Section 2.2). Recent

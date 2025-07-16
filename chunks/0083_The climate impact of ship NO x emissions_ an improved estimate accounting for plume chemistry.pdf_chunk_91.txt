@@ -1,0 +1,8 @@
+mate of the total RF from ship NOx is −4.0 ± 2.0 mW m−2.
+Our RF estimate derives from marginal (5 %) changes in
+ship NOx emissions. Scaling the marginal RF up to year
+2010 total emissions of 6.8 Tg(N) yr−1 (Eide et al., 2013)
+suggests an RF of −27.2 ± 13.6 mW m−2, but the average
+RF of all ship NOx emissions is likely about 20 % larger
+(−33 mW m−2) because of non-linearity in O3 production.
+Our best estimates of individual RF components have 1σ

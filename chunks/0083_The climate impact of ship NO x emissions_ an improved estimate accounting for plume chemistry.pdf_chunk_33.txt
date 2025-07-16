@@ -1,0 +1,12 @@
+36.7 ± 3.0b,c
+Myhre et al. (2011)
+30.1 ± 1.6b,c
+This work
+33.0 ± 4d
+a Calculated by removing all ship NOx emissions.
+b Derived from reported O3 burden and RF.
+c Calculated for 5 % perturbation to year 2000 ship NOx emissions.
+d Average of models used by Hoor et al. (2009) and Myhre et al. (2011).
+dlnτtotal/dE is the accompanying change in total at-
+mospheric CH4 lifetime, dF/d[O3] and dF/d[CH4] are
+the radiative efﬁciencies of tropospheric O3 and CH4,

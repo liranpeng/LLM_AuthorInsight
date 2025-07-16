@@ -1,0 +1,8 @@
+vapor. The model mean hydrogen GWP100 is 11.6 ± 2.8 (one
+standard deviation). The largest contribution is from changes in
+methane (44%), followed by ozone (38%) and stratospheric water
+vapor (18%). The reported GWP100 does not include any aerosol
+effects which are consistent with IPCC reporting. The number
+11.6 ± 2.8 (one standard deviation) is comparable to Warwick
+et al.16 (12 ± 6) and Hauglustaine et al.13 (12.8 ± 5.2, 90% con-
+ﬁdence interval), but twice as high as previously published

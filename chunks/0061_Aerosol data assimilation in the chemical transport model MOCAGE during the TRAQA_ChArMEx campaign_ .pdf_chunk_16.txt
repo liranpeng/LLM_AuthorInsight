@@ -1,0 +1,8 @@
+AOD by the National Aeronautics and Space Administration
+(NASA) Terra and Aqua satellites (Remer et al., 2005) with
+the 3-D CTM modelling of the major tropospheric aerosols.
+We use the variational 3-D-FGAT (ﬁrst guess at appropri-
+ate time) method (Andersson et al., 1998), which is imple-
+mented in the CTM using the PALM coupler (Buis et al.,
+2006; Massart et al., 2007, Projet d’Assimilation par Logi-
+ciel Multi-Méthodes). The assimilated ﬁelds can then be eval-

@@ -1,0 +1,9 @@
+activity of a well-measured air parcel.
+4.2
+Spatial heterogeneity of tropospheric chemistry
+A critical unknown for tropospheric chemistry modeling is
+what resolution is needed to correctly calculate the budgets
+of key gases. A similar question was addressed in Yu et
+al. (2016) for the isoprene oxidation pathways using a model
+with variable resolution (500, 250, and 30 km) compared
+to aircraft measurements; see also ship plume chemistry in

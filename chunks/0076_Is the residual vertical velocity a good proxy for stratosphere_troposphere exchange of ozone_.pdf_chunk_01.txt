@@ -1,0 +1,21 @@
+GeophysicalResearchLetters
+RESEARCH LETTER
+10.1002/2014GL061994
+Key Points:
+• O3 residual ﬂux by BDC does not sync
+with cross-tropopause O3 ﬂuxes
+• More accurate diagnostics of ozone
+STE are needed in climate-chemistry
+models
+• TC and LS methods are suitable for
+diagnosing STE of ozone
+Supporting Information:
+• Readme
+• Figure S1
+• Figure S2
+Correspondence to:
+J. Hsu,
+juno.hsu@uci.edu
+Citation:
+Hsu, J., and M. J. Prather (2014), Is
+the residual vertical velocity a good

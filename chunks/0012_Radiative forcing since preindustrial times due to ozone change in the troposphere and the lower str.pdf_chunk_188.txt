@@ -1,0 +1,9 @@
+phys. Res., 105, 8915–8930, 2000.
+Bojkov, R. D.: Surface Ozone during the 2nd half of the 19th cen-
+tury, J. Clim. Appl. Meteorol., 25(3), 343–352, 1986.
+Boville, B. A.: Middle atmosphere version of CCM2 (MACCM2):
+Annual cycle and interannual variability, J. Geophys. Res.,
+100(D5), 9017–9040, 1995.
+Carver, G. D., Brown, P. D., and Wild, O.: The ASAD atmospheric
+chemistry integration package and chemical reaction database,
+Computer Physics Communications, 105, 197–215, 1997.

@@ -1,0 +1,5 @@
+agreement with simulated long-lived trace gases. Stauffer et al. (2019) showed that changes in the observing 
+system in 1998 led to significant improvements in the MERRA-2 stratospheric circulation.
+2.4.  Decadal Trends and Variability in N2O Lifetime
+The lifetimes of the gases in Table 2 are simply the inverse of their global mean loss frequencies, shown 
+for the MLS period (2005–2018, ending in 2016 for LMDz5 and 2017 for UCI) and for the pre-MLS period

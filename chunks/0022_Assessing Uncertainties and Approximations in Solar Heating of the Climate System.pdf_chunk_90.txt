@@ -1,0 +1,5 @@
+modern studies have carried this further with extensive analysis of 2-stream versus exact solutions, using 
+a 128-stream RT code (LBYY) and Monte Carlo simulations (B2015), and we use them in our evaluation of 
+2-stream versus 8-stream solutions and errors in δ-scaling.
+4.1.  Phase Function Approximations for 2-Stream Assessed With 8-Stream Scattering
+The method designated δ-1 here adopts the commonly used Henyey-Greenstein (HG) phase function

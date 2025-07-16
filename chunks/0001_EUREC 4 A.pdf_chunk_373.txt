@@ -1,0 +1,10 @@
+CT sensors
+Sea-Bird SBE-37-SI measuring seawater temperature and conductivity (salinity) at a depth of 20 cm
+CT sensors
+Sea-Bird SBE-37-IM measuring seawater conductivity and temperature to infer ocean temperature
+and salinity at depths of 5 and 10 m
+Pressure sensor
+Honeywell integrated pressure transducer (IPT) measuring atmospheric pressure at a height of 50 cm
+Tilt compensated compass
+PNI TCM-2.5 measuring wind direction at a height of 50 cm
+Anemometer

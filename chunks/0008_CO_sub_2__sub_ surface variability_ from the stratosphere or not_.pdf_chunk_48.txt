@@ -1,0 +1,10 @@
+Foundation’s Atmospheric Chemistry Program (grant no. AGS-
+2135749).
+Review statement. This paper was edited by Ning Zeng and re-
+viewed by two anonymous referees.
+References
+Baker, D. F., Law, R. M., Gurney, K. R., Rayner, P., Peylin, P.,
+Denning, A. S., Bousquet, P., Bruhwiler, L., Chen, Y. H., Ciais,
+P., Fung, I. Y., Heimann, M., John, J., Maki, T., Maksyutov,
+S., Masarie, K., Prather, M., Pak, B., Taguchi, S., and Zhu,
+Z.: TransCom 3 inversion intercomparison: Impact of trans-

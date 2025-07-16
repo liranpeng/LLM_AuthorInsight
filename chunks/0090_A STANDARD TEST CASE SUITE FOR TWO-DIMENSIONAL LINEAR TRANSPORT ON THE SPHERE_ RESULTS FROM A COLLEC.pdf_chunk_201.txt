@@ -1,0 +1,4 @@
+ξ, respectively. First and third columns are for the unlimited schemes, and second and fourth columns are for the shape-preserving schemes.
+The ﬁrst two columns are for simulations at 1λ ≈1.5◦, and the last two columns are for 1λ ≈0.75◦. The scheme acronym is shown in the
+lower left corner of each scatterplot with the maximum Courant number (CN) appended. Above the scheme acronym the mixing diagnostics
+(“real” mixing ℓr, range-preserving unmixing ℓu, overshooting ℓo) are given.

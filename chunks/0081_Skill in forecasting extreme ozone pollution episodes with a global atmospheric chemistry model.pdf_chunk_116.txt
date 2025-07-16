@@ -1,0 +1,10 @@
+day is less than 0.10, we truncate the episode at the previous
+day and start a new episode on the current day. We do not ap-
+ply this secondary algorithm to the ﬁrst 2 or last 2 days of an
+episode, to provide ﬂexibility for formation and dissipation.
+In addition, this detaching can occur more than once as we
+follow the evolution of an episode.
+5
+Developing climatologies
+The grid-cell-average statistics for MDA8 developed here
+provide a climatology of surface O3 that can be used to test

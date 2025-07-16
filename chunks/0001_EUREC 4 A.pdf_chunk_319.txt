@@ -1,0 +1,10 @@
+are built by Liquid Robotics, Inc, with additional sensors in-
+tegrated by the Applied Physics Laboratory at the University
+of Washington for air–sea ﬂux calculations (Thomson and
+Girton, 2017).
+B19
+Surface drifters, OCARINA and PICCOLO
+Ten SVP-BSW (barometer–salinity–wind) drifters from Pa-
+ciﬁc Gyre were deployed from R/V Atalante from 23 Jan-
+uary to 4 February 2020. Each drifter had temperature and
+salinity measurements at three levels (0.50, 5, and 10 m) as

@@ -1,0 +1,5 @@
+are very diﬀerent from each other. In contrast, the residual ﬂuxes advected by the large-scale BDC across
+100 hPa remain similar.
+Section 4 summarizes our results, including the obvious recommendation that more accurate methods for
+diagnosing STE O3 ﬂuxes be adopted in CCMs. We demonstrate that the BD method relying solely on the
+residual vertical velocity fails to characterize the magnitude and also climate variability of the ﬂux. As illus-

@@ -1,0 +1,9 @@
+Data availability. The MDS-2b and RDS*-2b data for ATom 1,
+2, 3, and 4 are presented here as core ATom deliverables and
+are posted temporarily on the NASA ESPO ATom website (https:
+//espo.nasa.gov/atom/content/ATom, last access: 1 July 2022; Sci-
+ence team of the NASA Atmospheric Tomography Mission, 2021)
+Atmos. Chem. Phys., 23, 99–117, 2023
+https://doi.org/10.5194/acp-23-99-2023
+H. Guo et al.: Heterogeneity and chemical reactivity
+115

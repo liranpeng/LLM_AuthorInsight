@@ -1,0 +1,10 @@
+Sect. 3.5 and ﬁgures in the Supplement.
+3
+Reactivity across the models
+The difference in modeled reactivities for each parcel com-
+bines variations in cloud ﬁelds with basic differences in
+the chemical models (i.e., chemical mechanisms, numerical
+methods, photolysis treatment of cloudy and clear sky). The
+5-day means reduce the effect of cloud variations but leave
+the fundamental differences in the photochemical modules,
+www.atmos-meas-tech.net/11/2653/2018/

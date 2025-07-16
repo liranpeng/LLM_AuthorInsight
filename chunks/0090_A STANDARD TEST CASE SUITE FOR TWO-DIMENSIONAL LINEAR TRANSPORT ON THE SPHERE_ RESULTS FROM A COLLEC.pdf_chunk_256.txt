@@ -1,0 +1,12 @@
+gradients non-monotonically (e.g., “ad hoc” and “a posteri-
+ori” ﬁlters/limiters).
+www.geosci-model-dev.net/7/105/2014/
+Geosci. Model Dev., 7, 105–145, 2014
+136
+P. H. Lauritzen et al.: Results from standard test case suite
+4.4
+Ability of the transport scheme to transport
+“rough” distributions
+Discontinuous initial conditions were used to expose shape-
+preserving limiters as most unlimited schemes produce sig-
+niﬁcant unphysical oscillations (under- and overshoots).

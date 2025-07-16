@@ -1,0 +1,9 @@
+Atmos. Chem. Phys., 13, 285–302, 2013
+296
+C. D. Holmes et al.: Future methane, hydroxyl, and their uncertainties
+to 1980 levels around 2045 due to the decrease of long-
+lived halogenated gases (Newman et al., 2007; Austin and
+Scinocca, 2010; Eyring et al., 2010a), followed by GHG-
+driven ozone decreases through 2100 (Eyring et al., 2010a).
+We adopt this projection, adding uncertainty that grows to
+3 % of the total column in 2100. Lightning NOx emissions

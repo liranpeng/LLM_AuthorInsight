@@ -1,0 +1,8 @@
+The three core-model RMSDs are shown in bold.
+Inter-model differences are shown in the parcel-by-parcel
+root-mean-square (rms) differences for RDS-0 in Table 3.
+Even when models adopt standard kinetic rates and cross sec-
+tions (i.e., Burkholder et al., 2015), the number of species and
+chemical mechanisms included, as well as the treatment of
+families of similar species or intermediate short-lived reac-
+tion products, varies across models. For example, UCI con-

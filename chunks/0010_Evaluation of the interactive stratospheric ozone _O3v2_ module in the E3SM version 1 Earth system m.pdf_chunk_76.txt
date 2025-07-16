@@ -1,0 +1,9 @@
+means.
+Figure 6 illustrates the multi-year seasonal cycle of the
+STE ozone ﬂux in each hemisphere for O3v2 (red) and UCI
+(green). The annual mean values are similar in both models:
+in the NH (solid lines) these are 215 Tg O3 yr−1 for UCI and
+215 for O3v2, and in the SH (dashed) these are 190 and 170.
+The seasonal amplitude for UCI is, however, twice as large as
+that for O3v2. For O3v2 the NH STE ﬂux (solid lines) maxi-
+mizes in May and minimizes in December, while for UCI,

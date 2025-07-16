@@ -1,0 +1,8 @@
+calculations. The factors to correct for the transient response
+in the calculation of RF due to CH4 for ROAD in the B1
+scenario are 1.56 and 2.57 for 2025 and 2050, respectively.
+Figure 5 shows the resulting RF from the six models (en-
+semble mean and standard deviation) for each of the three
+transport sectors. Focusing on RF due to O3 (Fig. 5, top),
+there is clearly a large uncertainty in the magnitude of im-
+pact from AIR in the middle of this century. Although there

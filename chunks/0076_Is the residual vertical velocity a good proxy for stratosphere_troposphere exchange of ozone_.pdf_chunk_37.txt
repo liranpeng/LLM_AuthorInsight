@@ -1,0 +1,4 @@
+porting information text for more discussion). The direction of the O3 transport is shown in arrows of unit
+length. The positions of the diﬀerent isosurfaces are approximated from the monthly zonal mean values:
+e90 tropopause (black); 120 ppb and 250 ppb O3 surfaces (dark blue); potential vorticity (2 potential vortic-
+ity unit (PVU), wtih 1PVU = 10−6 (K m2)/(kg. sec) cyan); potential temperature at 380 K (green); and 100 hPa

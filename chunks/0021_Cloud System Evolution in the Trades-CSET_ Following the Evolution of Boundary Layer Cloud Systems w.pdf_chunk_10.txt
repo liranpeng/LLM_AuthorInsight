@@ -1,0 +1,5 @@
+turbulent mixing and the radiative impact on the surface associated with marine boundary 
+layer (MBL) clouds need to be adequately parameterized in large-scale models (Bony and 
+Dufrense, 2005). The inadequate representation of MBL cloud processes in large-scale 
+models continues to be a major contributor to model uncertainties in cloud feedback 
+representations-- particularly in subtropical anticyclone regions (Zhang et al. 2005, Wyant et

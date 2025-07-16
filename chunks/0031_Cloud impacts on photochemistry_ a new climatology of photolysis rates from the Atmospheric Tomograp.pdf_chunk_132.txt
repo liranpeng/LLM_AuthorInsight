@@ -1,0 +1,8 @@
+erage J value for the chemistry module, again reducing the
+occurrence of clear-sky J values. Thus, the result above (i.e.,
+that ﬁve models have about 50 % nearly clear-sky J values
+down to the surface) is inexplicable unless they have col-
+umn optical depths of 0.3 or very small effective cloud frac-
+tions. At some model resolution, probably of order tens of
+kilometers, the CAFS measurements may be a statistical rep-
+resentation over that grid, and our comparisons, even with

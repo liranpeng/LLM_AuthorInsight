@@ -1,0 +1,8 @@
+The most rigorous approach in this intercomparison, in
+terms of area approximation, is the Simpliﬁed Flux-Form
+CSLAM scheme (SFF-CSLAM, Lauritzen et al., 2011a; Ull-
+rich et al., 2013). For each cell the ﬂux areas are approxi-
+mated by tracing the end points (vertices) of each cell face
+upstream. The upstream translation of these points and the
+face vertices can be connected with straight lines (e.g., Harris
+et al., 2010) or parabola (in the latter case also the midpoint

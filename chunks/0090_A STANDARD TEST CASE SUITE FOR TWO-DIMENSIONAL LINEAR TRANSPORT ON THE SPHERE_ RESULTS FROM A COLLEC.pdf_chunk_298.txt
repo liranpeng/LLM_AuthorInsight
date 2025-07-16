@@ -1,0 +1,11 @@
+No additional diffusive terms were added.
+A14
+SLFV-SL/ML
+A14.1
+Spherical grid generation
+The schemes SLFV-SL and SLFV-ML are implemented on a
+spherical icosahedral-hexagonal grid (Sadourny et al., 1968).
+We start with a spherical icosahedron, consisting of 20 equi-
+lateral spherical triangles. To achieve the desired resolution
+the edges of these 20 spherical triangles are divided into
+N equal parts. Connecting these new points with great cir-

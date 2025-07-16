@@ -1,0 +1,9 @@
+norms are the same. This behavior was well described by
+Thuburn and Mclntyre (1997): “Shaping two tracer ﬁelds the
+same way does not imply shaping them the right way”. In
+other words, the mixing diagnostics emphasize a different
+aspect of accuracy than normalized error norms (in this case
+speciﬁed with 1λm).
+Effect of shape-preserving ﬁlter on mixing
+For all schemes ℓo is zero or close to zero when the shape-
+preserving ﬁlter is applied (as expected). With the excep-

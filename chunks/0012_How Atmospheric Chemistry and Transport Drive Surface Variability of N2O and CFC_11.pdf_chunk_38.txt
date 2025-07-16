@@ -1,0 +1,4 @@
+meteorology with prescribed fields for O(1D) and photolysis rates from a previous run (Remaud et al., 2018); 
+and UCI uses ECMWF Integrated Forecast System (IFS) pieced forecasts with a linearized stratospheric 
+chemistry including O3, N2O, and CH4 (Hsu & Prather, 2010; Prather et al., 2017).
+We design a CTM simulation whereby any variability in N2O in the stratosphere down to the surface will

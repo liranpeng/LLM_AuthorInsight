@@ -1,0 +1,7 @@
+(e.g., ±4% maximum range)? Basically, the MCF decay rate can
+be perturbed by (i) a change in the globally integrated concen-
+tration of OH times the reaction rate (a sensitive function of tem-
+perature), (ii) continuing emissions of MCF, and (iii) large-scale
+redistribution of mass of MCF by atmospheric transport.
+For i, a shift in the mean tropical temperatures (where most
+MCF and methane is destroyed) or a shift in the 4D correlation of

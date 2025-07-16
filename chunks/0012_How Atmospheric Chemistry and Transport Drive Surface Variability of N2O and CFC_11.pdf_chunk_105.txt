@@ -1,0 +1,4 @@
+the westerly phase is sustained for more than a year. None of the CTMs are able to capture this sustained 
+peak loss: GMI and UCI N2OX simulations show peak loss near the end of this period; while the LMDz5 
+N2OX simulations have peak loss near the beginning (Figure 2). For this 2010/11 anomaly, the modeled 
+F11X peak loss (GMI and UCI only) occurs about 1 year prior to the N2OX peak loss, which then coincides

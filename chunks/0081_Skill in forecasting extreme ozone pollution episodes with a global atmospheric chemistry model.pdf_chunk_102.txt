@@ -1,0 +1,10 @@
+errors.
+4.3
+Organized episodes of AQX events
+The AQX events often occur as clustered, multiday episodes
+with spatial extents of more than 1000 km (note that an event
+is a single identiﬁed AQX event and an episode is a grouping
+of AQX events). Figure 10 shows an example of one of the
+larger episodes of the 2005–2006 period for EU, 3–8 July
+2006. The episode, although not completely shown, is one
+of the largest observed, with a size of 1500 × 104 km2-days,

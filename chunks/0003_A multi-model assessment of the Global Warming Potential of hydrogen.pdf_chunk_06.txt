@@ -1,0 +1,8 @@
+in soils and atmospheric oxidation by the hydroxyl radical (OH).
+The largest term, and the largest uncertainty term in the atmo-
+spheric hydrogen budget is the soil uptake, which in most studies
+accounts for 65–85% of the total hydrogen sink4–6. The atmo-
+spheric lifetime of hydrogen, deﬁned as the total atmospheric
+burden divided by the total sinks, is about 2 years4.
+Any Earth-system perturbation that impacts tropospheric
+chemistry creates a complex chain of events that alter radiatively

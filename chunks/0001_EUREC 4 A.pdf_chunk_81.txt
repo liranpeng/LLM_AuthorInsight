@@ -1,0 +1,8 @@
+system operated from HALO (Mech et al., 2014; Schnitt
+et al., 2017). Handheld sun-photometer measurements were
+Figure 6. Vertical latent-heat (vaporization enthalpy) ﬂux as a func-
+tion of time and height above the platform as measured from the
+combination of water vapor Raman lidar (ARTHUS) and Doppler
+wind lidar aboard the R/V MS-Merian. The mean value over the 3 d
+period is 100 W m−2 at 200 m, and the ﬂuxes are positive through-
+out the sub-cloud layer.

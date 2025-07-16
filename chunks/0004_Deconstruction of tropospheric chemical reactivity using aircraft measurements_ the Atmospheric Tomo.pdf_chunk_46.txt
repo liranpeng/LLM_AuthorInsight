@@ -1,0 +1,50 @@
+30 %
+13 %
+T. Atlantic
+L-O3
+ATom-4
+1.93
+1.38
+3.17
+5.57
+7.71
+82 %
+29 %
+12 %
+https://doi.org/10.5194/essd-15-3299-2023
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+3306
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements
+Table 1. Continued.
+L-O3
+Reactivity
+Deployment
+Avg R
+Median R
+Avg R (ppb d−1) in
+Fraction of total R in
+(ppb d−1)
+(ppb d−1)
+top 50
+top 10
+top 3
+top 50
+top 10
+top 3
+Arctic
+L-O3
+ATom-1
+0.80
+0.70
+1.10
+1.71
+2.13
+69 %
+22 %
+8 %
+Arctic
+L-O3
+ATom-2
+0.04
+0.04
+0.06

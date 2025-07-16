@@ -1,0 +1,8 @@
+Stouffer, R. J., and Taylor, K. E.: Overview of the Coupled
+Model Intercomparison Project Phase 6 (CMIP6) experimen-
+tal design and organization, Geosci. Model Dev., 9, 1937–1958,
+doi:10.5194/gmd-9-1937-2016, 2016.
+Flato, G., Marotzke, J., Abiodun, B., Braconnot, P., Chou, S. C.,
+Collins, W., Cox, P., Driouech, F., Emori, S., Eyring, V., Forest,
+C., Gleckler, P., Guilyardi, E., Jakob, C., Kattsov, V., Reason, C.,
+and Rummukainen, M.: Evaluation of Climate Models, in: Cli-

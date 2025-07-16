@@ -1,0 +1,8 @@
+head, but none of the models come close to the CAFS fre-
+quency of these occurrences. In general and as expected, this
+brightening above and dimming below is more evident for
+J-NO2 than for J-O1D. Another feature that is somewhat
+consistent across models and observations is that the wings
+of the rlnJ distribution are wider in the North Paciﬁc than
+the Tropics. In the boundary layer, observations and mod-
+els show the reverse with greater cloud effects (dimming,

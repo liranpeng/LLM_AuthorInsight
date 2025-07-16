@@ -1,0 +1,9 @@
+value of 33±4 mW m−2 DU−1, based on the mean of recent
+studies (Table 1; Hoor et al., 2009; Myhre et al., 2011), rec-
+ognizing that radiative efﬁciency depends on the distribution
+of the O3 burden and that radiative transfer models differ by
+about 10 % (Myhre et al., 2011). While models assuming in-
+stant dilution of ship NOx were used to calculate the ozone
+radiative efﬁciency, we show below that the pattern of ship
+ozone perturbations is similar with the parametric plume as-
+sumption.

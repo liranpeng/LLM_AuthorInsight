@@ -1,0 +1,43 @@
+–6.1
+–4.5
+3.6
+(continued on next page)
+Notes:
+See notes for Table AII.7.1. For definition of regions, see Figure 11.23 and Fiore et al. (2012).
+Table AII.7.4 |  Surface particulate matter change (log10[PM2.5 (microgram/m3)]) from CMIP5/ACCMIP for continental regions 
+Africa
+Year 
+RCP2.6
+RCP4.5
+RCP6.0
+RCP8.5
+2000
+1.17 ± 0.23
+2030
+0.00
+0.04
+–0.01
+0.01
+2050
+–0.02
+–0.02
+0.01
+2100
+0.00
+–0.01
+–0.03
+–0.02
+Australia
+Year 
+RCP2.6
+RCP4.5
+RCP6.0
+RCP8.5
+2000
+0.65 ± 0.32
+2030
+–0.04
+0.03
+–0.01
+0.01
+2050

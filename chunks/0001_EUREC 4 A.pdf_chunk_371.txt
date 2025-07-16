@@ -1,0 +1,10 @@
+Inertial system
+MicroStrain IMU measuring surface waves from 5 Hz displacements (processed for hourly wave spec-
+tral parameters, Thomson et al., 2018)
+Weather sensors
+Vaisala WXT-536 measuring air temperature, humidity, pressure, rainfall, and wind at 1 m
+Weather sensors
+Airmar PB200 measuring wind speed and direction, air temperature, and air pressure at 1 m above
+surface
+CT sensors
+Aanderaa CT sensor measuring surface conductivity and temperature to infer ocean salinity and tem-

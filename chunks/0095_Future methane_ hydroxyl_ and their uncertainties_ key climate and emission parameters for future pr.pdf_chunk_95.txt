@@ -1,0 +1,10 @@
+4
+Historical (1980–2005) changes in CH4 lifetime
+Having established the ability of Eq. (3) to reconstruct
+τCH4×OH over 1997–2009 in CTMs, we now use it to ex-
+trapolate methane lifetime over several decades for which the
+CTMs have not been run. We begin with the historical period
+1980–2005, during which time the key atmospheric forcing
+variables have been relatively well observed by satellites and
+ground stations.
+In addition to the 5 climate and emission variables iden-

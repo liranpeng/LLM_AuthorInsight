@@ -1,0 +1,5 @@
+of HOLODEC are that the sample volume measured per second (about 43 cm3) is not speed 
+dependent and the effects produced by shattering from the aperture edges can be identified 
+and eliminated. Most significantly, it is possible to measure cloud droplet size distributions 
+from individual localized sample volumes with the largest dimension being 130 mm, instead 
+of an average over more than 10 m (e.g. for a measurement from CDP at 10 Hz), as well as

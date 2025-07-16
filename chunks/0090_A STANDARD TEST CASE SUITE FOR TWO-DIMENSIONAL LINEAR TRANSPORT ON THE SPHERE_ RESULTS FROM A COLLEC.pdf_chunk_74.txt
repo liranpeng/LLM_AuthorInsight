@@ -1,0 +1,15 @@
+on the form
+D
+Dt
+Z
+A(t)
+ρ φ dA = 0,
+(8)
+where D/Dt is the total or material derivative and A(t)
+is a Lagrangian volume for which, by deﬁnition, there
+is no ﬂux of mass across its boundaries. Lagrangian and
+semi-Lagrangian ﬁnite-volume schemes are also referred to
+as cell-integrated schemes (Nair and Machenhauer, 2002).
+In semi-Lagrangian ﬁnite-volume schemes, the same La-
+grangian areas are only traced/retained for one time step,
+whereas for fully Lagrangian schemes the cells move with

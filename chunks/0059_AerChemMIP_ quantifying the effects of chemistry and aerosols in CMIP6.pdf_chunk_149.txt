@@ -1,0 +1,8 @@
+the black carbon forcing efﬁciency.
+A source of confusion has been the aerosol optical thick-
+ness (AOT) diagnostics (e.g. Flato et al., 2013, Fig. 9.29) in
+CMIP models. Natural (particularly dust and sea-salt) and
+anthropogenic aerosols have been blended together in differ-
+ent ways in models. We request output to diagnose the differ-
+ent aerosol species contributions to total AOT, and to provide
+more insight into the reasons for differences in AOT between

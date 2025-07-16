@@ -1,0 +1,7 @@
+heavily on a priori estimates) in Africa, Southeast Asia, southern South 
+America, and over the oceans, owing to the paucity of observations in 
+these regions. The improvement of atmospheric transport models, 
+more accurate priors, and more atmospheric N2O measurements would 
+reduce uncertainty in further top-down estimates, particularly for 
+ocean and regional emissions.
+Bottom-up approaches are subject to uncertainties in various sources

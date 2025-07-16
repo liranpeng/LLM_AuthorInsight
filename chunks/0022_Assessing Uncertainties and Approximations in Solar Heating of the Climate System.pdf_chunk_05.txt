@@ -1,0 +1,4 @@
+these could impact the modeled climate. The simplifications are well known and most have published 
+studies evaluating them, but with individual studies it is difficult to compare. Here, we collect a wide 
+range of such simplifications in either radiative transfer modeling or atmospheric conditions and assess 
+potential errors within a consistent framework on climate-relevant scales. We build benchmarking

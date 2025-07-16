@@ -1,0 +1,6 @@
+(Boucher, 1998) to estimate the Legendre coefficient 5g2 (i.e., g2 = g1
+2), see Table 2. This coefficient becomes 
+the scaling factor f = g1
+2 and is used to calculate a reduced asymmetry factor g* = (g1 – f)/(1 – f) and reduced 
+τ*sca = (1 – f) τsca. This scaling, for example, is applied in the Mie expansion for liquid-water clouds of RRT-
+MG code used here. Another alternative, designated δ-2 (δ-M method with M = 2), uses the Mie phase func-

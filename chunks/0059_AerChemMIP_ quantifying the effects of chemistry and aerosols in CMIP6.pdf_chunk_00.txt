@@ -1,0 +1,8 @@
+Geosci. Model Dev., 10, 585–607, 2017
+www.geosci-model-dev.net/10/585/2017/
+doi:10.5194/gmd-10-585-2017
+© Author(s) 2017. CC Attribution 3.0 License.
+AerChemMIP: quantifying the effects of chemistry and aerosols in
+CMIP6
+William J. Collins1, Jean-François Lamarque2, Michael Schulz3, Olivier Boucher4, Veronika Eyring5, Michaela
+I. Hegglin1, Amanda Maycock6, Gunnar Myhre7, Michael Prather8, Drew Shindell9, and Steven J. Smith10

@@ -1,0 +1,10 @@
+output. The best results as expected occur when the shape of
+the vertical proﬁle is correctly simulated by the direct model.
+We also examine how the assimilation can inﬂuence the mod-
+elled aerosol vertical distribution. The results show that a 2-
+D continuous AOD assimilation can improve the 3-D verti-
+cal proﬁle, as a result of differential horizontal transport of
+aerosols in the model.
+1
+Introduction
+In recent years, the role of aerosols in the climate system

@@ -1,0 +1,24 @@
+141
+Here ⟨ρφ⟩i is the value of ρφ averaged in time from t to
+t+1t and over the ith edge composing 0. V
+n+ 1
+2
+k,i
+is the veloc-
+ity ﬁeld at time tn + 1t
+2 evaluated at the midpoint rk,i of the
+ith edge of cell k. Approximation Eq. (A12) is second-order
+accurate in time and in space. Finally, ⟨φ⟩is approximated in
+a semi-Lagrangian fashion:
+⟨φ⟩= φ
+
+t, rk,i −V
+n+ 1
+2
+k,i
+1t
+2
+
+.
+(A13)
+This approximation is second-order accurate in space and

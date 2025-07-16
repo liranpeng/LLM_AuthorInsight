@@ -1,0 +1,9 @@
+affect the UT globally. Therefore Table 5 also lists the ozone
+perturbations for the latitude band 30◦–60◦N. In the north-
+ern upper troposphere aircraft emissions on average account
+for 1.63% (scaled) to the ozone changes between 30◦–60◦N
+with maximum ozone perturbations of 4.2% (scaled). These
+values are lower than reported by Schumann (1997) and
+slightly less than in Gauss et al. (2006).
+A possible rea-
+son for the discrepancies are the different model resolu-

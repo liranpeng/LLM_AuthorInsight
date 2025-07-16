@@ -1,0 +1,32 @@
+The right y-axis shows the loss frequency (%/yr) of the total fixed burden when scaled to 320 ppb or 1,533 TgN. The O3 
+profiles use the 240 GHz channel, and temperature uses 118 GHz (16–90 km) and 239 GHz (9–16 km). MLS, Microwave 
+Limb Sounder; N2O, nitrous oxide; V3, version 3; V4, version 4.
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+11.8
+12.0
+12.2
+12.4
+12.6
+12.8
+13.0
+13.2
+13.4
+13.6
+N2O loss @ 320 ppb (TgN/yr)
+0.78
+0.80
+0.82
+0.84
+0.86
+0.88
+N2O loss (%/yr)
+N2O-640-V3
+N2O-640-V4
+N2O-190-V4
+Model name

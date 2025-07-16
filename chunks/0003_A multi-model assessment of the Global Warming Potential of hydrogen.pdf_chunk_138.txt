@@ -1,0 +1,7 @@
+55. Price, H. et al. Global budget of molecular hydrogen and its deuterium
+content: constraints from ground station, cruise, and aircraft observations. J.
+Geophys. Res. 112, https://doi.org/10.1029/2006JD008152 (2007).
+56. Gettelman, A. et al. The whole atmosphere community climate model version
+6 (WACCM6). J. Geophys. Res. 124, 12380–12403 (2019).
+57. Prather, M. J. et al. Global atmospheric chemistry–which air matters. Atmos.
+Chem. Phys. 17, 9081–9102 (2017).

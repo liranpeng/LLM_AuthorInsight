@@ -1,0 +1,9 @@
+scheme was run with semi-analytic trajectories, temporal
+errors (due to trajectory computations) are minimal. The
+asymptotic convergence rates for CSLAM are not affected
+by time step in this setup. Similar observations are made for
+the CCSRG.
+The SBC scheme is also a semi-Lagrangian scheme, and,
+contrary to the CSLAM setup, inexact trajectories were used.
+At lower resolutions the spatial errors dominate so the ab-
+solute errors increase with a decreased time step (similar

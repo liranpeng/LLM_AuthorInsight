@@ -1,0 +1,19 @@
+T k =
+1
+dpk
+Ik+1
+X
+i=Ik
+Ti dpi
+(3)
+where
+dpk =
+Ik+1
+X
+i=Ik
+dpi
+(4)
+and dpi and Ti are the pressure thickness and temperature of the i’th atmospheric layer in the original
+vertical coordinate and Ik is the index of the original vertical coordinate (fourth column of Table 2).
+The pressure thickness dpi = pi+1 −pi is computed by taking the difference between the vertical
+interface pressures given by Equation 2. The use of this finite volume vertical coordinate ensures

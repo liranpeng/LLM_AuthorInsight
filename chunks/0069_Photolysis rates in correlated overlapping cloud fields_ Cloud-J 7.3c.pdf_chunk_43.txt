@@ -1,0 +1,59 @@
+J-NO3
+J-O1D
+J-NO3
+G0
+MAX-RAN
+with
+MAX
+groups
+bounded by layers with CF = 0
+19
++2 %
++2 %
+21 %
+17 %
+6 %
+11 %
+G3
+3 MAX-RAN groups split at 1 km
+and at the ice-only cloud level
+21
++2 %
++2 %
+15 %
+15 %
+5 %
+7 %
+G6/.00
+6 MAX-COR groups, cc = 0.00
+169
+−1 %
+−1 %
+5 %
+4 %
+2 %
+3 %
+G6/.33
+6 MAX-COR groups, cc = 0.33b
+169
+G6/.99
+6 MAX-COR groups, cc = 0.99
+169
++2 %
++1 %
+11 %
+8 %
+4 %
+7 %
+Simple cloud models
+ICAs
+ClSky
+clear sky, ignore clouds
+1
++14 %
++10 %
+24 %
+20 %
+14 %
+23 %
+AvCld

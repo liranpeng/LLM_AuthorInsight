@@ -1,0 +1,14 @@
+5. ability of the transport scheme to preserve pre-existing
+functional relations between tracers,
+6. ability of the transport scheme to deal with divergent
+ﬂows (Nair and Lauritzen, 2010).
+These topics are discussed in separate sections below.
+3.1
+Numerical convergence rates: Gaussian hills
+The goal of this test is to estimate numerical convergence
+rates for the normalized error norms ℓi, which are referred to
+as Kun
+i
+for the unlimited scheme and (if applicable) Ksp
+i
+for

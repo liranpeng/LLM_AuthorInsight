@@ -1,0 +1,8 @@
+scale turbulence in the water column
+FerryBox system
+OceanPack FerryBox underway system that acquires pCO2 data from 6.5 m water depth
+Radiosondes
+Vaisala RS41-SGP radiosondes measuring atmospheric proﬁles (during ascent and descent) of tem-
+perature, relative humidity, pressure, wind direction, and wind speed
+Moving vessel proﬁler
+An AML Oceanographic MVP30-350 measuring vertical proﬁles of temperature, salinity, pressure,

@@ -1,0 +1,8 @@
+The third LOAC ﬂight (Fig. 9c) measured moderate
+aerosol concentrations coinciding with an air pollution
+episode. The assimilation model run matches well with the
+measured concentrations. The direct model run underesti-
+mates the concentrations only in lower levels. However,
+when compared with the assimilation model run, the assim-
+ilation changes the aerosol vertical proﬁle signiﬁcantly: the
+concentrations are increased much more in the lower levels,

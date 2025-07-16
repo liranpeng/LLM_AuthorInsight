@@ -1,0 +1,56 @@
+C = GFDL-AM3
+D = GISS-E2
+E = GMI-CTM
+F = UCI-CTM
+H2O  (%)
+0.01
+0.1
+1
+10
+H2O  (%)
+0.01
+0.1
+1
+10
+O3 (ppb)
+1
+10
+100
+1000
+0.001
+0.001
+O3 (ppb)
+1
+10
+100
+1000
+O3 (ppb)
+1
+10
+100
+1000
+0
+1
+2
+3
+4
+0
+1
+2
+3
+4
+0
+1
+2
+3
+4
+E
+A
+C
+B
+D
+F
+(a)
+(b)
+Figure 6. (a) Six modeled 2-D probability distributions for NOx vs. HOOH as weighted by air mass. These are the initial chemical abun-
+dances for each model and hence the same for A- and C-runs. All grid cells were binned at 20 per decade in species abundance (mole

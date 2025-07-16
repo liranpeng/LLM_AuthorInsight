@@ -1,0 +1,14 @@
+spheric
+N2O,
+Global
+Biogeochem.
+Cy.,
+21,
+GB3017,
+https://doi.org/10.1029/2006GB002755, 2007.
+Nevison, C. D., Dlugokencky, E., Dutton, G., Elkins, J. W., Fraser,
+P., Hall, B., Krummel, P. B., Langenfelds, R. L., O’Doherty,
+S., Prinn, R. G., Steele, L. P., and Weiss, R. F.: Exploring
+causes of interannual variability in the seasonal cycles of tro-
+pospheric nitrous oxide, Atmos. Chem. Phys., 11, 3713–3730,
+https://doi.org/10.5194/acp-11-3713-2011, 2011.

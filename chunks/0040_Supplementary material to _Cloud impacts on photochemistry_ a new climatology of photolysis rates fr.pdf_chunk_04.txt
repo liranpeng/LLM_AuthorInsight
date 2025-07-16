@@ -1,0 +1,4 @@
+instrument (red) and by two models (UCI & NCAR) using regular sampling over the two geographic blocks:  (1, 
+left) Tropical Pacific and (2, right) North Pacific.  The points represent the relative number of samples in each 0.10 
+interval of cos(SZA).  ATom flights in this region were generally centered about noon, and hence CAFs has a higher 
+proportion of high SZAs.  For most of the analysis here only J's with cos(sza) > 0.8 are used, and with this

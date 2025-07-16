@@ -1,0 +1,12 @@
+Rain imager
+Measuring precipitation particles sizes from 0.1 to 6.2 mm
+Core instrument
+The aircraft and in situ data system (aircraft state, temperature, humidity, and pressure)
+pling strategies, measurements, and data availability can be
+found in Quinn et al. (2020).
+B11
+BOREAL
+The BOREAL UAS was operated by BOREAL SAS
+(Toulouse, France) and the National Center for Meteorologi-
+cal Research (CNRM; Toulouse, France). During EUREC4A
+it ﬂew nine missions totaling 32 research ﬂight hours. Its ﬁrst

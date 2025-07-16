@@ -1,0 +1,8 @@
+random ICAs (18 times greater cost) are needed to achieve
+the accuracy of cloud quadrature.
+From the point of view of chemistry–climate models, large
+rms errors in Js cannot be tolerated because the chemistry is
+non-linear and such errors are not likely to average. In cli-
+mate models, there are threshold processes like aerosol and
+ozone heating preventing cloud formation (e.g., Koch and
+DelGenio, 2010), for which heating noise may not simply av-

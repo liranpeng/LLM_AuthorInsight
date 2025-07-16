@@ -1,0 +1,9 @@
+115
+CN for schemes implemented on non-isotropic grids. Again
+the reader is referred to the scheme-speciﬁc Appendix to ﬁnd
+time steps 1t corresponding to speciﬁc CNs at any of the
+three resolutions. Data used to make histograms are avail-
+able as supplemental material. The test case speciﬁcation
+consists of two analytical ﬂow ﬁelds (one non-divergent and
+one divergent) designed to deform initially well-resolved ini-
+tial conditions into thin ﬁlaments half way through the sim-

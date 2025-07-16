@@ -1,0 +1,5 @@
+cloud-top heights during both pointing directions. Its volume sampling is particularly suited 
+for characterizing light precipitation--a highly-localized and variable quantity (see, e.g., 
+Wood, 2005). Aircraft-based 95-GHz radar measurements have a proven track record for 
+advancing our understanding of the role of precipitation in MBL clouds (Vali et al., 1998; 
+Stevens et al., 2003; Wood et al., 2011a). Ground-based and airborne cloud radars have been

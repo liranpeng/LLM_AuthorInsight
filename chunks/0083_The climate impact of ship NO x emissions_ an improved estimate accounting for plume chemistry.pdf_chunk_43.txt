@@ -1,0 +1,8 @@
+for each plume dilution assumption. OPE is averaged over regions
+where ship NOx emissions exceed 104 molec m−2 s−1. Ozone col-
+umn changes (1 O3) are calculated from 5 % perturbations to full
+ship emissions, then multiplied by 20. Inset numbers give global
+averages.
+while values around 40 are found in the least-trafﬁcked areas
+of the equatorial Paciﬁc Ocean. Figure 3 shows zonal-mean
+OPE for the other plume assumptions. With the instant di-

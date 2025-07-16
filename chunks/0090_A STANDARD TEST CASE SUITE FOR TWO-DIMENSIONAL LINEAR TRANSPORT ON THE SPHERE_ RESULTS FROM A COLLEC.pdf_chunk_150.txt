@@ -1,0 +1,14 @@
+among the best performing schemes regarding 1λm (e.g.,
+UCISOM, LPM) perform poorly in terms of convergence
+rate. Had the test been run in a (high-resolution) asymptotic
+convergent regime, Ki and 1λm would most likely be in-
+versely related. However, as mentioned the test is designed
+to challenge schemes near the resolution limit rather than
+Geosci. Model Dev., 7, 105–145, 2014
+www.geosci-model-dev.net/7/105/2014/
+P. H. Lauritzen et al.: Results from standard test case suite
+119
+ 0
+ 0.5
+ 1
+ 1.5

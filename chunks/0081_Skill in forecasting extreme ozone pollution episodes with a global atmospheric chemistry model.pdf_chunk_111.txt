@@ -1,0 +1,3 @@
+Table 2. Domain mean number of air quality extreme events (AQX) deﬁned for the grid-cell interpolated MDA8 O3 series and the MDA8 O3
+concentration (ppb) corresponding to the 84th, 50th, and 16th percentiles for each month of the year and day of the week for the 2000–2009
+observations in the US and EU. The 84th- and 16th-percentile values are given relative to the 50th percentile. Correlation coefﬁcients (R2)

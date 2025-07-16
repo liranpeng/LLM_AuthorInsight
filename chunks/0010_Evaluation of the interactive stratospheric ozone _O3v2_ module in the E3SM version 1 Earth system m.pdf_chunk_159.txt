@@ -1,0 +1,8 @@
+P. K., Levelt, P. F., and Waters, J. W.: Tropospheric ozone deter-
+mined from Aura OMI and MLS: Evaluation of measurements
+and comparison with the Global Modeling Initiative’s Chemi-
+cal Transport Model, J. Geophys. Res.-Atmos., 111, D19303,
+https://doi.org/10.1029/2006JD007089, 2006.
+Ziemke, J. R., Oman, L. D., Strode, S. A., Douglass, A. R., Olsen,
+M. A., McPeters, R. D., Bhartia, P. K., Froidevaux, L., Labow, G.
+J., Witte, J. C., Thompson, A. M., Haffner, D. P., Kramarova, N.

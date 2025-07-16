@@ -1,0 +1,8 @@
+trend through August reﬂecting the changing solar declina-
+tion from 18◦to 12◦, but instances of highly variable cloud
+ﬁelds occur, even when averaged over 30◦in latitude.
+For J-O1D, ﬁve models (GFDL, GSFC, GC, NCAR, UCI)
+agree well over all pressures and latitude blocks, but NCAR
+is, unusually, 10 % higher only in the 20◦S–20◦N block.
+J-O1D from GISS is 80 % larger than other models for all
+pressure and latitude blocks, but this does not translate di-

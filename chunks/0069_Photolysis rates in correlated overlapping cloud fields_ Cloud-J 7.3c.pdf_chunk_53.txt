@@ -1,0 +1,8 @@
+(Joseph et al., 1976), and we scaled the optical depth of each
+cloud layer by a factor of 1−1.1P1/3, with a minimum value
+of 0.04. P1 (3 times the asymmetry factor) is the second term
+in the Legendre expansion of the scattering phase function
+for the cloud in that layer. The derived optical depth in each
+layer is calculated from the reduction in direct beam across
+the layer (Beer–Lambert law) and put into the single Fast-J
+calculation with the original cloud properties of that layer,

@@ -1,0 +1,8 @@
+tions using the UoR-RTM. This radiative transfer model was
+previously used in Berntsen et al. (1997), and in Forster and
+Shine (1997). UoR-RTM has calculated adjusted radiative
+forcing based on the ozone changes calculated by the ULAQ
+and CHASER model for the months of January, April, July,
+and October. The results are shown in Table 8 along with the
+corresponding UiO-RTM results. There is reasonably good
+agreement between the two radiative transfer models, espe-

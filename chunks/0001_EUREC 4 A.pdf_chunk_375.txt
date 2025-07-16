@@ -1,0 +1,16 @@
+Instrument
+Brief description
+CT sensors
+Sea-Bird SBE-37-SI measuring seawater temperature and conductivity (salinity) at a depth of 15 cm
+Pressure sensor
+Vaisala PTB110 barometer measuring atmospheric pressure at a height of 50 cm
+GPS
+To monitor the current at sea surface
+https://doi.org/10.5194/essd-13-4067-2021
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+4114
+B. Stevens et al.: EUREC4A
+Table B30. SURPACT drifters.
+Instrument
+Brief description
+CT sensors

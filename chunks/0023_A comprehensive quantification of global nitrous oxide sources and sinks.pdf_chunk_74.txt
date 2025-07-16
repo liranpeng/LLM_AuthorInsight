@@ -1,0 +1,60 @@
+RCP 8.5
+RCP 6.0
+RCP 4.5
+RCP 2.6
+b
+c
+d
+a
+Year
+Year
+2000
+2010
+2020
+2030
+2040
+2050
+2000
+2010
+2020
+2030
+2040
+2050
+Year
+Year
+310
+320
+330
+340
+350
+360
+370
+N2O concentration (ppb)
+AGAGE
+NOAA
+CSIRO
+RCP 8.5
+RCP 6.0
+RCP 4.5
+RCP 2.6
+310
+320
+330
+340
+350
+360
+370
+SSP 3–7.0
+SSP 4–3.4
+SSP 4–6.0
+SSP 1–1.9
+SSP 1–2.6
+SSP 2–4.5
+SSP 5–8.5
+AGAGE
+NOAA
+CSIRO
+N2O emission (Tg N yr–1)
+N2O concentration (ppb)
+N2O emission (Tg N yr–1)
+Fig. 4 | Historical and projected global anthropogenic N2O emissions and

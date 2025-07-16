@@ -1,0 +1,8 @@
+Nazarenko, L., Lamarque, J. F., Bowman, K., Milly, G., Ko-
+vari, B., Ruedy, R., and Schmidt, G. A.: Interactive ozone
+and methane chemistry in GISS-E2 historical and future
+climate simulations, Atmos. Chem. Phys., 13, 2653–2689,
+https://doi.org/10.5194/acp-13-2653-2013, 2013.
+Singh, H. B., Gregory, G. L., Anderson, B., Browell, E., Sachse,
+G. W., Davis, D. D., Crawford, J., Bradshaw, J. D., Tal-
+bot, R., Blake, D. R., Thornton, D., Newell, R., and Mer-

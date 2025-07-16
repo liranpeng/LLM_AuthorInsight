@@ -1,0 +1,6 @@
+tern change from δ-Eddington (2-stream) to δ-4SHE (4-stream), while the other three show a pattern indic-
+HSU AND PRATHER
+10.1029/2020MS002131
+12 of 24
+Figure 4.  Geographic map of model differences in solar heating terms (W m−2) averaged over 31 days in January at 00Z (sun over the Dateline), with columns 
+show (a) reflected flux, (b) atmospheric absorption and (c) surface absorption. Rows (i), (ii), and (iii) show the errors for δ-0, δ-2, and δ-1, respectively, calculated

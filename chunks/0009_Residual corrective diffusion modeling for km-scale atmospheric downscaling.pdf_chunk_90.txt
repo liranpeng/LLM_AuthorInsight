@@ -1,0 +1,9 @@
+learning trilemma with denoising diffusion GANs. In
+Internatiodnal Conference on Learning Representations (ICLR)
+(2022).
+28. Kodali, N., Abernethy, J., Hays, J. & Kira, Z. On convergence
+and stability of GANs. arXiv preprint arXiv:1705.07215 (2017).
+29. Salimans, T. et al. Improved techniques for training gans.
+Advances in neural information processing systems 29 (2016).
+30. Ho, J., Jain, A. & Abbeel, P. Denoising diffusion probabilistic
+models. In Proceedings of NeurIPS, 33, 6840–6851 (2020).

@@ -1,0 +1,10 @@
+those in the IUPAC Summary of March 2005. The model
+parameterizations of wet and dry deposition are described in
+Giannakopoulos et al. (1999).
+3.5
+UCI
+The UCI CTM is a 3-D eulerian chemistry-transport model
+driven by meteorological data from the ECMWF IFS version
+cycle 29r2 at T42L40 (see OsloCTM2). Tropospheric chem-
+istry is handled by ASAD software package (Carver et al.,
+1997), containing 38 species (28 transported) and 112 reac-

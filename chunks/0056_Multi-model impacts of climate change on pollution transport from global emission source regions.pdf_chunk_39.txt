@@ -1,0 +1,8 @@
+ing emissions (injected into the models at, or near, the sur-
+face) from GFED version 2 (van der Werf et al., 2006; http:
+//www.globalﬁredata.org/). The major source regions for an-
+thropogenic CO emissions are in the northern mid-latitudes
+with peak levels in East and South Asia (Fig. 1). Unlike the
+anthropogenic emissions, the biomass burning emissions fea-
+ture a strong seasonality, with high values over equatorial
+Africa during December–January–February (DJF), peak val-

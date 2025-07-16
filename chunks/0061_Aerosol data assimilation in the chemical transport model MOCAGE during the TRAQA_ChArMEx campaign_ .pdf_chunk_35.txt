@@ -1,0 +1,18 @@
+Ri inﬂuence the weighting of the terms Jb and Jo.
+To ﬁnd the optimal solution we minimize the cost function
+J by computing its gradient:
+∇J(δx) = B−1δx +
+N
+X
+i=0
+HT
+i R−1
+i (di −Hiδx).
+(2)
+After estimating the analysis increment δxa, we add it to
+the aerosol abundance at the beginning of the cycle. The
+model is then run over a cycle length (1 h) to obtain the anal-
+ysed trajectory. Its endpoint is used as the initial background
+ﬁeld for the next cycle.
+3.1
+Preconditioning

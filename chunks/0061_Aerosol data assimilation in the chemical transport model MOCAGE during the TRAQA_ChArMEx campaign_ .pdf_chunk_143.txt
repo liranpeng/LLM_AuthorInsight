@@ -1,0 +1,9 @@
+in assimilation. In addition, it is difﬁcult to deﬁne the model
+error covariance matrix in it. Another possibility would be
+to apply techniques of bias correction (e.g. Dee and Uppala,
+2008).
+The impact of the AOD assimilation on the model found
+in our study is coherent with ﬁndings of other studies (Zhang
+et al., 2008; Schutgens et al., 2010; Liu et al., 2011). Our ap-
+proach is the most similar to the approach used by Benedetti
+et al. (2009). We choose the same control variable, and the

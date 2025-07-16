@@ -1,0 +1,12 @@
+columns – one with clouds in both layers (f G1
+1
+= 15 %) and
+one with a cloud only in the upper layer L2 (f G1
+2
+= 5 %). For
+a MAX group, there can be several ICAs with cloud frac-
+tions, each with a unique combination of cloudy layers. The
+clear-sky column does not occur if any of the MAX layers
+has a cloud fraction of 100 %. For continuous cloud fractions,
+the number of ICAs equals the number of unique cloud frac-
+tions present (plus 1 if clear sky is present).

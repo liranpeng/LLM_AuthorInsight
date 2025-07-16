@@ -1,0 +1,8 @@
+responsible use.
+(6) What role will AI play in EVE?
+AI is one of EVE's core technologies. It can make models more
+performant and thereby fit for a greater purpose. It can also
+summarize and combine data to enable more salient interaction.
+EVE distinguishes between AI inside, to refer to what is done to help
+the models that create the training data perform better, and AI on
+top, which describes methods that learn from model output and

@@ -1,0 +1,6 @@
+2017) and atmospheric N2O concentration (dashed lines, during 1980–2017) 
+are from the AGAGE6 (green), NOAA5 (orange) and CSIRO (blue) networks. 
+Global mean growth rates were calculated with annual time steps and are 
+shown as 12-month moving averages. Growth rates are not calculated before 
+1995 owing to insufficient data and higher uncertainties on the measurements.
+Extended Data Fig. 2 | The methodology for data synthesis of the global N2O

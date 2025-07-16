@@ -1,0 +1,12 @@
+0.96 
+0.97 
+Surface annual cycle5 
+0.98 
+1.00 
+* Correlations coefficients are for years 2001-2016 to match the overlap 
+with the surface observations. 
+1 Figure 2b  
+2 Figure S2 
+3 Figures 3 and S3 
+4 Figure S4 
+5 Figure S5

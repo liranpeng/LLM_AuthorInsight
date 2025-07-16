@@ -1,0 +1,8 @@
+CO with 5 min binning is r = 0.69. Correlations for the Pa-
+ciﬁc, Atlantic, and North America are 0.72, 0.80, and 0.80,
+respectively, while the correlation for the Southern Ocean is
+0.053. The poor correlation for the Southern Ocean reﬂects
+the very low variability of CO in this region. The model per-
+forms far better at capturing the larger gradients present in
+the other regions. In general, the good agreement between
+model outputs and observations attests to the model forecast-

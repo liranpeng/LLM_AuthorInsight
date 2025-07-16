@@ -1,0 +1,5 @@
+are the basin-wide weighted averages for each deployment. The frequency of parcels with reactivities greater than the maximum shown are
+added to the last point.
+Figure 41. Probability density of L-O3 (ppb d−1) in the Paciﬁc and Atlantic basins for ATom-1234. See Fig. 40.
+Figure 42. Probability density of L-CH4 (ppb d−1) in the Paciﬁc and Atlantic basins for ATom-1234. See Fig. 40.
+Figure 43. Probability density of L-CO (ppb d−1) in the Paciﬁc and Atlantic basins for ATom-1234. See Fig. 40.

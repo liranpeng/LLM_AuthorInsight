@@ -1,0 +1,8 @@
+por, stratospheric ozone column, convective ﬂuxes, cloud op-
+tical depth, biomass burning emissions, and anthropogenic
+emissions. Perturbation magnitudes are chosen to be similar
+to the interannual variability or decadal trend of each vari-
+able (exact magnitudes in Table S2). Perturbations are ap-
+plied globally, except for stratospheric ozone, which is only
+perturbed over 40◦S–40◦N, where tropospheric OH produc-
+tion from UV photolysis of tropospheric O3 occurs. The con-

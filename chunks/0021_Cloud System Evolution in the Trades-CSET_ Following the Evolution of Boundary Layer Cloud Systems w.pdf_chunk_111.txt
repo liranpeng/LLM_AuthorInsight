@@ -1,0 +1,6 @@
+flight the boundary layer concentrations are reduced to about 410 cm−3 and the above 
+inversion concentrations are about 70 cm−3. But while the boundary layer values are 
+measured in the same air mass, there is no guarantee that the air above the inversion will 
+follow the same trajectory. Regardless, the CSET trajectory analyses are a rich source of 
+information for studying the evolution of aerosols and cloud and precipitation properties in 
+the transition process.

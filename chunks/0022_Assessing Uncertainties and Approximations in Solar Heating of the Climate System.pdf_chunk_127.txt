@@ -1,0 +1,8 @@
+-2
+mean error (-0.84)
+rms error (5.1)
+Journal of Advances in Modeling Earth Systems
+5.  Ice Cloud Optics
+Ice particles in cirrus or mixed-phase clouds come in a wide range of sizes and crystal habits (Kärcher 
+et al., 2014; Platt & Martin, 1997) with a dizzying array of optical properties (Mishchenko et al., 2016; Yang 
+et al., 2018). In part because of their importance in climate and remote sensing, ice clouds are an intense re-

@@ -1,0 +1,5 @@
+tant source of atmospheric heating. Likewise, Rayleigh scattering in the visible plays a minor role in photol-
+ysis rates but is an important source of reflected sunlight. A first-order estimate based simply on weighting 
+tropospheric extinction with solar flux has Rayleigh scatter (forward and back) of 123 W m−2, O3 absorption 
+of 2.7 W m−2, and surface reflection (ocean albedo = 0.05) of 36 W m−2. This should be a relatively easy 
+wavelength region to model accurately.

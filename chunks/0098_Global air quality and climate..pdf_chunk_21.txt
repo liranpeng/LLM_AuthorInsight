@@ -1,0 +1,8 @@
+globally.17,23 Exceptions include ammonia (NH3), which
+increases in nearly all scenarios and CH4, which ranges from
+a 30% decrease to a more than doubling by 2100 (Fig. 1). We
+emphasize that the assumption of aggressive air pollution
+measures implemented globally is a major caveat in the
+RCP-based projections, as the small range of possible air
+pollutant emission trajectories across the RCPs may not
+represent the true uncertainty in emission pathways.

@@ -1,0 +1,19 @@
+the O3 lifetime because the steady-state concentration is pro-
+portional to it: [O3]steady-state = P constantT A. This approxima-
+tion is valid only if
+dln[L-O3]
+dln[O3]
+≡1 and dln[P-O3]
+dln[O3]
+≡0,
+(4)
+but instead, from Table 4, for ATom-1 Atlantic we have
+dln[L-O3]
+dln[O3]
+≡1.01 and dln[P-O3]
+dln[O3]
+≡−0.41.
+(5)
+So, L-O3 is very close to linear in [O3], but P-O3 decreases as
+[O3] increases, and thus the net P minus L (Eq. 3) decreases
+Earth Syst. Sci. Data, 15, 3299–3349, 2023

@@ -1,0 +1,8 @@
+model with variable resolution (500, 250 and 30 km) com-
+pared to aircraft measurements; see also ship plume chem-
+istry in Charlton-Perez et al. (2009). ATom’s 10 s air parcels
+measure 2 km (horizontal) by 80 m (vertical) during most
+proﬁles. There are obviously some chemical structures below
+the 10 s air parcels we use here. Only some ATom measure-
+ments are archived at 1 Hz, and we examine a test case using
+1 s data for O3 and H2O for a mid-ocean descent between

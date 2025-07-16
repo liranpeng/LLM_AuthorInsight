@@ -1,0 +1,3 @@
+are differences relative to (minus) year 2000. The multi-model standard deviation is shown only for year 2000; it does not change much over time; and, representing primarily the spread in absolute 
+O3 columns, it is larger than the standard deviation of the changes across individual models (not evaluated here). SRES values are from TAR Appendix II. CLE/MFR scenarios are from Dentener et al. 
+(2005, 2006): CLE includes climate change, MFR does not. See Section 11.3.5.1.2.

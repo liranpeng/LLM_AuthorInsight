@@ -1,0 +1,10 @@
+parameterisations - uncertainties in global modelling, Atmos.
+Chem. Phys., 7, 4553–4568, 2007,
+http://www.atmos-chem-phys.net/7/4553/2007/.
+van Aardenne, J., Dentener, F., Olivier, J., Peters, J., and Ganzeveld,
+L.:
+The EDGAR3.2 Fast Track 2000 data set (32FT2000),
+www.mnp.nl/edgar/model/v32ft2000edgar/docv32ft2000, Joint
+Research Center, Institute for Environment and Sustainability
+(JRC-IES), Climate Change Unit, TP280, 21020 Ispra, Italy,
+2005.

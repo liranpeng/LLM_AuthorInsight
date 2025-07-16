@@ -1,0 +1,8 @@
+duced emissions (60 g km−1), then again carbon-offsetting
+schemes often estimate a 3-fold larger equivalent emission
+due to the inclusion of other factors.
+The environmental impact of the sondes is informed by
+life cycle analyses that Vaisala has commissioned for their
+radiosondes, as well as our own analysis. The life cycle anal-
+ysis identiﬁed “the production of the printed circuit board
+and the electricity used during the assembly [as having] the

@@ -1,0 +1,10 @@
+convex hull. This is particularly apparent in almost all low-
+resolution (1λ ≈1.5◦) scatterplots for the shape-preserving
+version of the schemes in Figs. 11–14 (second column).
+www.geosci-model-dev.net/7/105/2014/
+Geosci. Model Dev., 7, 105–145, 2014
+132
+P. H. Lauritzen et al.: Results from standard test case suite
+Considering ﬁnite-volume schemes at 1λ ≈1.5◦, it is ob-
+served that the scatter points make up a bow shape (ex-
+cept CSLAM-CN5.5). In addition to all being ﬁnite-volume-

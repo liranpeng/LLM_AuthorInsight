@@ -1,0 +1,8 @@
+with horizontal lidar (detected cloud boundaries denoted by red dots) and radar measurements.
+different scales and hence guided EUREC4A’s measurement
+strategy.
+On the particle scale, measurements were performed to
+characterize aerosols and to quantify how small-scale turbu-
+lence mixing processes inﬂuence droplet kinematic interac-
+tions and activation. Aerosol properties and turbulence both
+imprint themselves on the cloud microstructure and thereby

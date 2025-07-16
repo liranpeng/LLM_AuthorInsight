@@ -1,0 +1,8 @@
+quality policies are applied, leading to much reduced NTCF
+emissions. These perturbations are designed in collaboration
+with ScenarioMIP to ensure that the NTCF perturbations are
+consistent with the underlying storylines (see Sect. 3.2). A
+comparison of the reference and perturbation simulation will
+provide the background for understanding the effects of air
+quality policies over the next few decades. Analysis of re-
+sults from these simulations will be critical to understand

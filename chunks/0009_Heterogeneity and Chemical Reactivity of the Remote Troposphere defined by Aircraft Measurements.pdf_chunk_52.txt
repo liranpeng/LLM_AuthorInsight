@@ -1,0 +1,8 @@
+tiﬁed the problem with PSS-NOx. We had gathered enough
+information on how models agree, or disagree, with RDS-0
+and thus chose to assess MDS-1 with two of the models that
+closely agreed (GMI and UCI). The two models were very
+close in RDS-0 and also in RDS-1. We then found the prob-
+lems with the CO proxy and chose to use only the UCI model
+as a transfer standard for the change from MDS-1 to MDS-2
+(i.e., RDS-1 to RDS-2). This path avoided much extra work

@@ -1,0 +1,8 @@
+the 199 K threshold used in the UCI CTM because EAMv1
+with O3v1 had a much colder winter pole than the other mod-
+els. When EAMv1 is paired with O3v2, the Antarctic winter
+pole is warmer, and we ﬁnd that a PSC threshold of 197.5 K
+represents the best ozone hole performance (see Sect. 3.3).
+As a global climate model using observed SSTs as a
+lower boundary condition, EAM inevitably has difﬁculties
+in matching the meteorological conditions of the period, es-

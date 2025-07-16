@@ -1,0 +1,4 @@
+(W m−2) in each bin is denoted, and the reflected flux (%, red, above flux) for overhead sun, zero surface albedo, and an 
+optically thick ice-water cloud is also given. Average SSA is calculated from a flux-weighted refractive index for each 
+bin assuming spherical (Mie) particles, including for ice-water. The liquid particles have an effective radius of 12 µm; 
+and the ice particles, 48 µm. The black squares show values used in SJ/66b, where the resolution ranges from 0.05 µm

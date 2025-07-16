@@ -1,0 +1,9 @@
+cedure above to determine the ozone values at 25 equally
+spaced points in latitude and longitude within each cell and
+then use trapezoidal integration over the area, similar to
+block Kriging (Cressie, 1993). The 4-corner points are each
+Atmos. Chem. Phys., 14, 7721–7739, 2014
+www.atmos-chem-phys.net/14/7721/2014/
+J. L. Schnell et al.: Skill in forecasting extreme ozone pollution episodes
+7725
+shared with 4 grid cells, and the 12-edge points shared with

@@ -1,0 +1,10 @@
+in cloudy fractions of the grid box, they are asked to also
+www.geosci-model-dev.net/10/585/2017/
+Geosci. Model Dev., 10, 585–607, 2017
+598
+W. J. Collins et al.: AerChemMIP: quantifying the effects of chemistry and aerosols in CMIP6
+compute a clear-sky AOT (od550csaer) using clear-sky rela-
+tive humidities.
+Aerosol–cloud interactions are still among the most un-
+certain of forcing components. Here we have selected stan-
+dard parameters which are also used in the Cloud Feedback

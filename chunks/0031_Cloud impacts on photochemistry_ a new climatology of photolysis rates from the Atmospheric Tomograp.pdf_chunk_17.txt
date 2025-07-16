@@ -1,0 +1,8 @@
+ments made under clear skies or with uniform 1-D cloud
+layers for which an accurate solution can usually be calcu-
+lated. We introduce here the ability to use CAFS “all-sky”
+measurements made under a semi-objective sampling strat-
+egy (i.e., ATom’s tomographic proﬁling makes pre-planned
+slices through the troposphere, limited by available airports,
+diverting only for dangerous weather). We test the collective
+treatment of clouds and radiation in models insofar as they

@@ -1,0 +1,16 @@
+2.60 ± 0.22 ± 3 %
+P-O3 (ppb day−1)
+500–200 hPa
+0.35 ± 0.04 ± 10 %
+1.37 ± 0.18 ± 7 %
+1.78 ± 0.30 ± 4 %
+850–500 hPa
+0.36 ± 0.06 ± 9 %
+0.92 ± 0.08 ± 8 %
+1.46 ± 0.13 ± 2 %
+Surf–850 hPa
+0.32 ± 0.20 ± 9 %
+0.43 ± 0.09 ± 2 %
+2.34 ± 0.33 ± 3 %
+Results are from the UCI-CTM C-runs for 16 August and 1–31 August. The 155–233◦E domain includes 69
+longitudinal transects. All tropospheric grid cells in the domain are sampled equally and weighted by mass. The

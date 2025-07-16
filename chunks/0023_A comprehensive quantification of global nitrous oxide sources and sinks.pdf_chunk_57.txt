@@ -1,0 +1,6 @@
+Each subplot shows the emissions from five sub-sectors using bottom-up 
+approaches, followed by the sum of these five categories using bottom-up 
+approaches (blue) and the estimates from top-down approaches (yellow). 
+Bottom-up and top-down estimates of ocean emissions are shown at the 
+bottom left (from bottom to top, lighter to darker, the contributions from the 
+30°–90° N, 30° S–30° N and 90°–30° S regions). Error bars indicate the spread

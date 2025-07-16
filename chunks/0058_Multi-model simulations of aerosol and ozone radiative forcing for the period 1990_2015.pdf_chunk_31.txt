@@ -1,0 +1,8 @@
+riod, simulated by the six models GISS, OsloCTM2, NorESM,
+CESM-CAM5, EMEP and SPRINTARS.
+term measurements. In this study we restrict the comparison
+between the models and observations to surface ﬁne-mode
+particular matter, which we further show to have a similar
+trend as the total column aerosol optical depth (AOD). In the
+Supplement we show comparison of surface ozone between
+the models used in this study and observations. In addition,

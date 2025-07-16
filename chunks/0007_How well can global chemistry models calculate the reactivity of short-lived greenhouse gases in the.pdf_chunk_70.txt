@@ -1,0 +1,8 @@
+with L-CH4 being at lower altitude than L-O3 (all models
+except GISS). There is a region of top P -O3 parcels about
+40◦N that extends into the lower troposphere, although the
+shape varies across models. The vertical pattern of top-10 %
+parcels about 22◦S clearly varies across models with GISS-
+GC-UCI not selecting these parcels.
+Overlap of these three sets of parcels are quantiﬁed as
+Venn diagrams for each model in Fig. 6. Very few top-10

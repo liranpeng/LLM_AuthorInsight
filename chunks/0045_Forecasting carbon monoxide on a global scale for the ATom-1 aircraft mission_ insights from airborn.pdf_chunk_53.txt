@@ -1,0 +1,8 @@
+height of the biomass burning, which is a source of uncer-
+tainty. In addition, plumes in models tend to dissipate more
+quickly than in observations due to the numerical effects of
+limited model resolution (Eastham and Jacob, 2017).
+The non-BB contribution to CO in the Atlantic reﬂects
+a mixture of global sources. Asian sources make a no-
+table contribution to the non-BB CO variability in the trop-
+ics (ﬁrst half of the Ascension Island–Azores ﬂight), but

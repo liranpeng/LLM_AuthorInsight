@@ -1,0 +1,9 @@
+tions, and thus adopting these reduced-bin parameterizations
+will introduce new errors, but further research will be needed
+to determine whether these errors maybe an acceptable trade-
+off for speed gain.
+Many of these other parameterizations (e.g., Chou, 1992)
+are based only on water vapor and do not include the other
+trace gases that are represented in RRTMG-SW: O2 in the
+visible and infrared, CH4, and CO2. These gases add to the
+complexity of the RRTM-SW model, and thus we investigate

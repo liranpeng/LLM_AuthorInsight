@@ -1,0 +1,9 @@
+of Solar-J is 5 times that of RRTMG-SW for a single atmo-
+sphere, and if the cloud quadrature scheme for overlapping
+cloud ﬁelds (Neu et al., 2007; Prather, 2015) is applied to ei-
+ther code, the cost increases additionally by 2.8 times. We
+show that Solar-J can be optimized on GPUs and achieve
+speeds similar to RRTMG-SW. While this opens up great
+opportunities for the new generation of high-performance
+computers, it also complicates the simple implementation of
+Solar-J in a climate model.

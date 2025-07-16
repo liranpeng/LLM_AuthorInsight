@@ -1,0 +1,25 @@
+www.atmos-chem-phys.net/18/16809/2018/
+Atmos. Chem. Phys., 18, 16809–16828, 2018
+16812
+S. R. Hall et al.: Cloud impacts on photochemistry
+Table 1. Modeling photolysis and cloud ﬁelds.
+Short name
+Long name
+Cloud data (resolution) and
+date
+J values and cloud fraction
+(CF) treatment
+Model references, including
+J values
+GC
+GEOS-Chem
+Cloud CF + OD from MERRA-
+2; GC v11_01. (2.5◦× 2.0◦),
+16 Aug 2013
+Fast-J a
+v7.0,
+single-column,
+Briegleb averagingb
+Gelaro et al. (2017), Liu et
+al. (2006, 2009)
+GFDL

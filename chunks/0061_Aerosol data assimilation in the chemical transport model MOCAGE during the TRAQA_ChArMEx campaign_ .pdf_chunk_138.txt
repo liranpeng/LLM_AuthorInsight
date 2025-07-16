@@ -1,0 +1,8 @@
+transport processes are more important than for ozone, but
+the work of Jaumouillé et al. (2012) could give an idea of
+what to expect in the model from redeﬁning the construction
+of the matrices B and R. Moreover, it should be kept in mind
+that using a dense observation ﬁeld, like our MODIS super-
+observation ﬁeld, limits the effects of the spatial diffusion of
+the increment. This makes the covariances of the matrix B
+less important than in the case of sparse observations.

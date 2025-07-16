@@ -1,0 +1,7 @@
+Assessment Report, edited by: Stocker, T. F., Qin, D., Plattner,
+G.-K., Tignor, M., Allen, S. K., Boschung, J., Nauels, A., Xia, Y.,
+Bex, V., and Midgley, P. M., Cambridge, UK, 46-5-570, 2013.
+Collins, W. J., Lamarque, J.-F., Schulz, M., Boucher, O., Eyring, V.,
+Hegglin, M. I., Maycock, A., Myhre, G., Prather, M., Shindell,
+D., and Smith, S. J.: AerChemMIP: quantifying the effects of
+chemistry and aerosols in CMIP6, Geosci. Model Dev., 10, 585–

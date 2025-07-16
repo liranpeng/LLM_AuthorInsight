@@ -1,0 +1,8 @@
+Under RCP 8.5 the increase in global mean surface temper-
+ature between 2081 and 2100, relative to 1986–2005, is pro-
+jected to be 2.6–4.8 ◦C averaged across all (∼39) participat-
+ing GCMs (Collins et al., 2013). For the four models used
+here the global mean surface temperature change between
+1996–2005 and 2090–2099 is 3.1–4.6 ◦C.
+The CO-like tracer was implemented as a chemically in-
+ert species with monthly-varying emissions representing all

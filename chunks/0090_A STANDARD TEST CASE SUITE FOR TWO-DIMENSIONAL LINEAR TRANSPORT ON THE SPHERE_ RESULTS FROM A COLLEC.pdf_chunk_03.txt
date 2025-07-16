@@ -1,0 +1,7 @@
+10Deutscher Wetterdienst, Offenbach, Germany
+11University of California at Davis, Davis, California, USA
+12Institute of Numerical Mathematics, RAS, Moscow, Russia
+13Hydrometcentre of Russia, Moscow, Russia
+14National Institute of Water and Atmospheric Research, Lauder, New Zealand
+Correspondence to: P. H. Lauritzen (pel@ucar.edu)
+Received: 23 August 2013 – Published in Geosci. Model Dev. Discuss.: 23 September 2013

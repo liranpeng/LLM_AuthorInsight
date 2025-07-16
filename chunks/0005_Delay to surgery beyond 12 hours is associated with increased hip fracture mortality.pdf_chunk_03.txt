@@ -1,0 +1,5 @@
+12 h, 12–24 h, 24–72 h and over 72 h.
+Results  Time from admission to surgery was recorded for 10,659 patients, of these time of fall was available for 10,346 
+patients. Mean age was 82.2 years (sd 8.39) for the cohort and 30 day mortality was 6.20%.
+Odds of 30-day mortality was 1.43 (CI 1.057–1.988, p = 0.025) for delay to surgery from admission of over 12 h compared 
+to under 12 h. Odds ratios for 30-day mortality were not significant at any other time threshold. The odds of 30-day mortality

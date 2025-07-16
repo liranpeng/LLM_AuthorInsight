@@ -1,0 +1,9 @@
+K. J. Pringle,1,16 S. Schroeder,17 M. G. Schultz,17 D. T. Shindell,18 S. Szopa,19 O. Wild,20
+and P. Wind11
+Received 18 July 2008; accepted 12 August 2008; published 13 September 2008.
+[1]
+Fifteen chemistry-transport models are used to
+quantify, for the first time, the export of oxidised nitrogen
+(NOy) to and from four regions (Europe, North America,
+South Asia, and East Asia), and to estimate the uncertainty
+in the results. Between 12 and 24% of the NOx emitted is

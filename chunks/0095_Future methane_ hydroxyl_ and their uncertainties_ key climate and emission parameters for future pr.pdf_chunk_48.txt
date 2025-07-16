@@ -1,0 +1,8 @@
+2 networks differ by less than 1 % (0.1811 yr−1 for NOAA,
+0.1796 yr−1 for AGAGE), providing a strong constraint on
+the long-term global-mean OH and methane lifetime. This
+analysis, however, focuses on anomalies in the global de-
+cay rate, relative to each network’s own mean. Because the
+anomalies are attributed solely to tropospheric OH loss (see
+below) and for comparison to τCH4×OH, the decay anomalies
+are divided by r = 0.87 to account for the tropospheric OH

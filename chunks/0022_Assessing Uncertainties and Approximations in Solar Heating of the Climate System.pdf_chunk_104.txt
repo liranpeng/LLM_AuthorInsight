@@ -1,0 +1,5 @@
+The δ-scaling approximations studied here have largest impact on the reflected and surface fluxes rather 
+than atmospheric absorption.
+4.2.  2-Stream versus 8-Stream and Exact Scattering Solutions
+Here we assess the errors in 2-stream scattering by comparing with 8-stream solutions standard in So-
+lar-J using our metric. Fortunately, two key studies have carried this further with exact solutions, using

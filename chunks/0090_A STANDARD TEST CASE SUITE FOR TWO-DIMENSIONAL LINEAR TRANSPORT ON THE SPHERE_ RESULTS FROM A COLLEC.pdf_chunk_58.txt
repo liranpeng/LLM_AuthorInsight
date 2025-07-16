@@ -1,0 +1,44 @@
+based on minimization;
+hyperviscosity
+ICON-FFSL
+Flux-form ﬁnite volume
+FCT
+Yes
+–
+LPM
+Fully Lagrangian
+Lagrangian
+Yes
+–
+MPAS
+Flux-form ﬁnite volume
+FCT
+Yes
+–
+SBC
+Semi-Lagrangian grid point
+Fixer
+Yes
+–
+SFF-CSLAM
+Flux-form ﬁnite volume
+Slope-limited
+No
+“Extrapolation” in
+simpliﬁed ﬂux
+simpliﬁed ﬂux
+SLFV-SL
+Flux-form ﬁnite volume
+Slope-limited
+No
+“Extrapolation” in
+simpliﬁed ﬂux
+simpliﬁed ﬂux
+SLFV-ML
+Flux-form ﬁnite volume
+Slope-limited
+No
+“Extrapolation” in
+simpliﬁed ﬂux
+simpliﬁed ﬂux
+TTS-I

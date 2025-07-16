@@ -1,0 +1,10 @@
+in ARPEGE-Climat (V6.1) and LMDZ (V5A), Geosci. Model
+Dev., 11, 321–338, https://doi.org/10.5194/gmd-11-321-2018,
+2018.
+Shetter, R. E. and Müller, M.: Photolysis frequency measurements
+using actinic ﬂux spectroradiometry during the PEM-Tropics
+mission: Instrumentation description and some results, J. Geo-
+phys. Res., 104, 5647–5661, https://doi.org/10.1029/98JD01381,
+1999.
+Shetter, R. E., Cinquini, L., Lefer, B. L., Hall, S. R., and
+Madronich, S.: Comparison of airborne measured and calcu-

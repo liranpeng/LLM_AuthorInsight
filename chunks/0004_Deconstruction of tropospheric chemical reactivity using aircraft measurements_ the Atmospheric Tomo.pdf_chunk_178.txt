@@ -1,0 +1,35 @@
+32.1
+35.0
+35.2
+20 %
+9.2
+9.2
+11.1
+11.1
+48.0
+6.2
+8.2
+29.8
+4.8
+5.3
+8.8
+8.4
+5 %
+3.4
+2.5
+2.8
+1.7
+23.8
+3.1
+2.2
+4.1
+1.4
+1.5
+3.1
+1.2
+https://doi.org/10.5194/essd-15-3299-2023
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+3336
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements
+Figure 56. Vertical mean proﬁles (parts per trillion vs. pressure altitude) of NOx (v2b), NOxx (NOx v3), and HOOH over the Paciﬁc and
+Atlantic basins. Standard weighting (see text).

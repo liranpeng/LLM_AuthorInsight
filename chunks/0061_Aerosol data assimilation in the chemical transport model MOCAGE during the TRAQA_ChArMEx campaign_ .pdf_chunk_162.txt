@@ -1,0 +1,8 @@
+jevic, D., Brankovic, C., Gaffard, C., Hollingsworth, A., Jakob,
+C., Janssen, P., Klinker, E., Lanzinger, A., Miller, M., Rabier, F.,
+Simmons, A., Strauss, B., Viterbo, P., Cardinali, C., and Thépaut,
+J.-N.: The ECMWF implementation of three-dimensional varia-
+tional assimilation (3D-Var). III: Experimental results, Q. J. Roy.
+Meteor. Soc., 124, 1831–1860, doi:10.1002/qj.49712455004,
+1998.
+Attié, J.-L. et al.: Transport of Pollution and Air Quality experiment

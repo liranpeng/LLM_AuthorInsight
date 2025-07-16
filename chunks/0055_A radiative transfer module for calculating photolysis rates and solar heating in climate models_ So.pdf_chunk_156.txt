@@ -1,0 +1,8 @@
+tecture) tuning of ∼50 times more relative to the CPU time
+if a large number of column atmospheres (200+) were con-
+currently evaluated (Artico et al., 2015). Another effort used
+a ﬁeld-programmable gate array (FPGA) with the advantage
+that it applies to a single column calculation. The FPGA re-
+sulted in a ∼4 times greater speedup and a rather dramatic
+35 times more energy savings compared to the multicore pro-
+cessor computation (Rezaei et al., 2016). Fast-J was also op-

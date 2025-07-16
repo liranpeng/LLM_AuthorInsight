@@ -1,0 +1,8 @@
+may correspond to a different day. The AirBase data set is
+mostly biased low over all three percentiles, with greatest dif-
+ferences (below −10 ppb) for the 25th percentile in Alpine
+regions. In this case the area-weighted mean bias (MB) is
+−3.9 ± 3.1 ppb. After investigating the average altitude of
+stations for each network, we found this bias is possibly
+reﬂecting preferential station placement, as the mean alti-
+tude bias in the region of northern Italy and southern France

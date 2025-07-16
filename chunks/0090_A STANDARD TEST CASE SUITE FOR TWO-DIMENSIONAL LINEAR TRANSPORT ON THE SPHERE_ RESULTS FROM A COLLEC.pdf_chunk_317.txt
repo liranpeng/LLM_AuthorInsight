@@ -1,0 +1,8 @@
+tude or longitude from the equations for the regular latitude–
+longitude grid, and with nine-point Romberg integration for
+the cubed-sphere grid (preserves mass convergence in each
+grid cell to single-precision accuracy or better). The ﬂux over
+each time step is integrated analytically from the equations.
+UCISOM uses a single forward time step for any CN value,
+and is thus only ﬁrst-order accurate in time (i.e., forward
+Euler). The rate of convergence with increasing resolution

@@ -1,0 +1,8 @@
+JX or simply Fast-J (see Søvde et al., 2012; Telford et al.,
+2013; Sukhodolov et al., 2016), were based on the work
+of Fast-J2 (Bian and Prather, 2002) and the original Fast-J
+(Wild et al., 2000), separately optimizing the absorptions of
+photon ﬂuxes into 12 stratospheric bins (177–292 nm) and
+seven tropospheric bins (292–850 nm). Although this is the
+ﬁrst version of Solar-J, we retain the numbering of the re-
+leased versions of the core photolysis code. For simplicity,

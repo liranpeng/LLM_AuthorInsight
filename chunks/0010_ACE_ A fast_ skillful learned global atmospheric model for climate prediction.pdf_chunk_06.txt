@@ -1,0 +1,7 @@
+∗oliverwm@allenai.org
+†2023 summer intern at AI2
+Tackling Climate Change with Machine Learning: workshop at NeurIPS 2023.
+arXiv:2310.02074v2  [physics.ao-ph]  6 Dec 2023
+Here we present ACE (AI2 Climate Emulator)3, a neural network based atmospheric model which
+satisfies many of the criteria listed above. ACE uses the Spherical Fourier Neural Operator (SFNO)
+architecture [3] and is trained to emulate an existing physics-based atmospheric model with 6-hour

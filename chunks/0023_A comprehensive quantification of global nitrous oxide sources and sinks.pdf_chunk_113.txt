@@ -1,0 +1,7 @@
+from climate/CO2/land cover change including the effect of CO2, the 
+effect of climate, the post-deforestation pulse effect, and the long-term 
+effect of reduced mature forest area; (3) direct emissions from nitrogen 
+additions in the agricultural sector (‘agriculture’) including emissions 
+from direct application of synthetic nitrogen fertilizers and manure 
+(henceforth ‘direct soil emissions’), manure left on pasture, manure 
+management and aquaculture; (4) indirect emissions from anthropo-

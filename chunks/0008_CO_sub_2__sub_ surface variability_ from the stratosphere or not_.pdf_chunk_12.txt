@@ -1,0 +1,3 @@
+fourth-order in time). A 12-month running mean (thin dashed blue curve) is derived from the poly-ﬁt residuals and removes the annual cycle.
+The interannual variability (IAV, solid black curve) is derived from bandpass ﬁltering described in the text. The bandpass limits [0.20 0.80]
+are set to truncate periods longer than 5 years and shorter than 1.25 years. (d) Surface CO2 IAV (ppm) for SH extratropics. The SPO + CGO

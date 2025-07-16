@@ -1,0 +1,8 @@
+and involve several different forcing mechanisms, speciﬁ-
+cally aerosol–radiation interactions (previously denoted di-
+rect aerosol effect and semi-direct effect when allowing for
+rapid adjustments) and aerosol–cloud interactions (Boucher
+et al., 2013). Their forcing over the industrial era has substan-
+tial uncertainties, quantiﬁed in terms of a total aerosol forc-
+ing of −0.9 (−1.9 to −0.1) W m−2 (Boucher et al., 2013).
+The IPCC AR5 mainly relied on Shindell et al. (2013a) for

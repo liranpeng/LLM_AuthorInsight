@@ -1,0 +1,5 @@
+B.F. and G.P.P. conducted data analysis, synthesis and wrote the paper. R.L.T. led atmospheric 
+inversions teaming with M.P.C., D.B.M., P.K.P., K.C.W. and C.W.; H.T. led land biosphere 
+modelling teaming with P.C., H.S., S.Z., A.A., F.J., J.C., S.R.S.D., A.I., W.L., S.L., S.O., N.V., E.A.D. 
+and S.D.; P.S. led ocean biogeochemical modelling teaming with G.B., L.B., S.B., E.T.B., F.J. and 
+A.L.; P.R. led inland water and coastal modelling and synthesis teaming with B.D.E., G.G.L., R.L.,

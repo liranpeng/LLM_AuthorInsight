@@ -1,0 +1,8 @@
+from the input4MIPS GHG historical data set v1.2.0. Fol-
+lowing Cariolle et al. (1990), Linoz uses a parameterization
+for chlorine-induced ozone depletion based on temperature
+and sunlight thresholds intended to mimic chlorine activa-
+tion on polar stratospheric clouds (PSCs) at cold tempera-
+tures and the ensuing rapid photochemical loss of ozone. This
+model has proven robust and reasonably accurate (Déqué
+et al., 1994; McLinden et al., 2000; Eyring et al., 2013).

@@ -1,0 +1,4 @@
+Mlawer, E. J., Payne, V. H., Moncet, J. L., Delamere, J. S., Alvarado, M. J., & Tobin, D. C. (2012). Development and recent evaluation of the 
+MT_CKD model of continuum absorption. Philosophical Transactions of the Royal Society A-Mathematical Physical and Engineering 
+Sciences, 370(1968), 2520–2556.
+Mlawer, E. J., Taubman, S. J., Brown, P. D., Iacono, M. J., & Clough, S. A. (1997). Radiative transfer for inhomogeneous atmospheres:

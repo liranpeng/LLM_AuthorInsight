@@ -1,0 +1,6 @@
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+3326
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements
+Figure 38. Mean altitude proﬁle of the four reactivities (P-O3, L-O3, L-CH4, L-CO, ppb d−1) over Antarctica on ATom-34. All ATom 10 s
+parcels are weighted by the frequency of pressure sampling only. Troposphere-only parcels. See Fig. 37.
+Figure 39. Mean altitude proﬁle of the four reactivities (P-O3, L-O3, L-CH4, L-CO, ppb d−1) over the Southern Ocean (66–55◦S) on

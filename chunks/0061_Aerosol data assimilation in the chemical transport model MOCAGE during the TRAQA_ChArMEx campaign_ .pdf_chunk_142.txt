@@ -1,0 +1,9 @@
+bilities. One would be to add an additional term in the cost
+function where we would describe the errors of the model
+evolution (Tréemolet, 2006). This method can be used in the
+4-D-Var systems and, besides the implementation of the 4-D-
+Var method, it demands additional computational resources
+www.atmos-meas-tech.net/9/5535/2016/
+Atmos. Meas. Tech., 9, 5535–5554, 2016
+5550
+B. Siˇc et al.: Aerosol data assimilation in the CTM MOCAGE

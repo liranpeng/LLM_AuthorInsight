@@ -1,0 +1,8 @@
+In Fig. 3 we show the annual variation in the monthly mean
+near-surface mixing ratios for O3 and NO from the multi-model
+ensemble over six sub-regions as shown in Fig. 1 (dashed black
+lines), namely: Western Europe (4We20E, 40e56N), Eastern US
+(70e96W, 30e46N), East China (100e120E, 28e42N), West
+Africa (10We10E, 4e12N), India (68e90E, 5e35N) and ME/
+Turkey (30e50E, 22e38N). Comparisons are made between
+PRESENT, A1B 2025 and A1B 2050. In the majority of models

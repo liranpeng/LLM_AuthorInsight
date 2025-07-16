@@ -1,0 +1,9 @@
+two models OsloCTM2 and EMEP, the RF (changes only to
+the cloud albedo) was simulated. The differences in direct
+aerosol effect found here can largely be explained by differ-
+ences in the individual aerosol components, but a disentan-
+gling of aerosol–cloud interaction is more complex and av-
+erage differences across the models are not readily attributed
+(Boucher et al., 2013).
+The forcing of the total aerosol effect (the combined
+aerosol–radiation and aerosol–cloud interaction) based on

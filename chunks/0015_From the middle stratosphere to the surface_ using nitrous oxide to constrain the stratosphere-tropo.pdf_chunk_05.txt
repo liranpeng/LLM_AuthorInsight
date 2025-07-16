@@ -1,0 +1,17 @@
+Multiple terms: term1 term2
+red apples
+returns results with all terms like:
+Fructose levels in red and green apples
+Precise match in quotes: "term1 term2"
+"red apples"
+returns results matching exactly like:
+Anthocyanin biosynthesis in red apples
+Exclude a term with -: term1 -term2
+apples -red
+returns results containing apples but not red:
+Malic acid in green apples
+hits for
+Close
+Refine your search Hide refinement
+There are no results for your search term.
+Network problems

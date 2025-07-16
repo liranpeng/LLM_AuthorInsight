@@ -1,0 +1,8 @@
+addition, the CAFS data do not represent a true climatology
+due to ﬂight planning and ﬂight operations that tend to avoid
+strong convective features and thick cloud decks, particularly
+near the surface. Such biases can shift the distribution as well
+as widen it through noise, and this may explain some of the
+increased width of the CAFS peak and the 1 to 2 % offsets of
+the clear-sky peaks in Fig. 4. It is difﬁcult to select between
+Group 1 and 2 using CAFS. The CAFS clear-sky fraction

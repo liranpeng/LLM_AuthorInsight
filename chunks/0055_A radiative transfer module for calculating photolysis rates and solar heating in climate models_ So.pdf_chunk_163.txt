@@ -1,0 +1,10 @@
+the troposphere. If we can ﬁnd a way of treating the O2 heat-
+ing separately, then the effort to ﬁnd an abbreviated number
+of spectral intervals can focus on water vapor.
+5
+Conclusions
+We present a new solar radiation module. Solar-J version 7.5
+aims for consistent calculation of atmospheric photolysis and
+solar heating rates by combining the strengths of both Cloud-
+J and RRTMG-SW. In a chemistry–climate model, Solar-J
+supplies the needs of solar heating of the atmosphere and

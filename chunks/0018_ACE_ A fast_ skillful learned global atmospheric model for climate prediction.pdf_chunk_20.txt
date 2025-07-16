@@ -1,0 +1,5 @@
+formulate baselines using our physics-based model. Two cases will be considered: first a “reference"
+perfect emulator in which we compare members of the initial condition ensemble against each other,
+giving an upper bound on model skill. Because of the chaotic nature of the atmosphere and the
+limited duration (10 years) of our validation dataset, even a perfect emulator will have non-zero
+errors. Second, we run a difficult-to-beat 200 km “baseline”: the same physics-based FV3GFS model

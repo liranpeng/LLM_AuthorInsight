@@ -1,0 +1,8 @@
+(Boers et al., 1998; Gerber, 1996; Miles et al., 2000), with
+re = 9.6 µm at pressures greater than 810 hPa and increasing
+linearly to 12.7 µm at 610 hPa and above. When implemented
+in an atmospheric model, re will ideally be supplied by the
+atmospheric model driving Solar-J.
+Heating rates and the changes in the radiative energy bud-
+get due to clouds are evaluated with the clear-sky component
+subtracted. In both Solar-J and RRTMG-SW, when re and

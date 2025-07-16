@@ -1,0 +1,8 @@
+1-D radiative transfer over a range of ICAs, may be more
+consistent. At these scales, the problem of a strong zenith
+angle dependence remains (Tompkins and Giuseppe, 2007).
+Super-high-resolution models (∼1 km) are becoming avail-
+able in regional or nested-grid models (Kendon et al., 2012;
+Schwartz, 2014; Berthou et al., 2018), and one might hope
+that our problem is now solved because each single-column
+atmosphere (SCA) explicitly resolves cloud overlap, with

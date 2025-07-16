@@ -1,0 +1,7 @@
+on FAOSTAT, DLEM, and GFED4s estimates.
+Extended Data Fig. 6 | Global N2O emissions from natural soils, inland and 
+coastal waters and due to change in climate, atmospheric CO2 and nitrogen 
+deposition. a, Changes in global soil N2O fluxes due to changing CO2 and 
+climate. b, Global natural soil N2O emissions without consideration of land use 
+change (for example, deforestation) and without consideration of indirect 
+anthropogenic effects via global change (that is, climate, increased CO2 and

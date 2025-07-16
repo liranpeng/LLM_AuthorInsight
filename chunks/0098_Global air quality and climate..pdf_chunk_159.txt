@@ -1,0 +1,8 @@
+and SR; the Natural Environment Research Council to IAM;
+the DLR Earth System Model Validation (ESMVal) Project
+(VE, MR); New Zealand Ministry of Science and Innovation
+for funding and NIWA HPC facility (GZ). The CESM project
+is supported by the National Science Foundation and the
+Oﬃce of Science (BER) of the US Department of Energy.
+The National Center for Atmospheric Research is operated by
+the University Corporation for Atmospheric Research under

@@ -1,0 +1,32 @@
+Albrecht et al.
+Page 37
+Table 2:
+Dates for research flight couplets with latitude and longitude positions of trajectory start areas (blue circles) 
+and end areas (red circles) 2 days later plotted in Fig 5. Two sampling areas were identified on RF02-RF07. 
+Three were identified on RF08-RF15.
+Flight
+West Bound: WB
+East Bound: (EB)
+Dates
+Lat 1 (°N)
+Lon 1 (°E)
+Lat 2 (°N)
+Lon 2 (°E)
+Lat 3 (°N)
+Lon 3 (°E)
+RF02
+WB
+7/7/2015
+36.6
+−136.7
+34.0
+−141.6
+RF03
+EB
+7/9/2015
+28.6
+−133.9
+27.5
+−142.6
+RF04
+WB

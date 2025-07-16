@@ -1,0 +1,8 @@
+AOD values, different air masses enter and exit our trajec-
+tory based on their different transport velocities and direc-
+tions. Thus, aerosols that are assimilated at different places
+later can be gathered in one vertical proﬁle. Then, the con-
+tinuous multicycle assimilation can additionally amplify or
+reduce these differences in a proﬁle. In Fig. 10a and b, the
+change of the proﬁle shape is noticeable on 28 and 29 June
+when the plume is near the coast of Morocco. The assimila-

@@ -1,0 +1,9 @@
+most of the model difference is caused by models calculating
+different climatologies for the key species such as O3, CO,
+H2O, NOx, CH4, and T . When models use the same distri-
+bution of key species, they calculate nearly the same reactiv-
+ities even though their chemical models have a wide range of
+species and complexities.
+There remain uncertainties in kinetic rates and cross
+sections, yet models tend to use the same values (e.g.,
+Burkholder et al., 2020). Using a ﬁxed MDS chemical com-

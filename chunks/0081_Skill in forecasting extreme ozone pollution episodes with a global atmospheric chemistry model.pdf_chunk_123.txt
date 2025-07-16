@@ -1,0 +1,8 @@
+the CTM June had the most, with 2006 having slightly less
+events than the observations at 12 out of 20 events.
+The weekly cycle is also evident in both observational data
+sets. The largest values of AQX events, the 84th percentile,
+and the 50th percentile, generally occur at the end of the
+week (Friday, Saturday, Sunday), a phenomenon termed “the
+weekend effect” with lower values in the beginning of the
+week (Cleveland et al., 1974; Karl, 1978; Tonse et al., 2008;

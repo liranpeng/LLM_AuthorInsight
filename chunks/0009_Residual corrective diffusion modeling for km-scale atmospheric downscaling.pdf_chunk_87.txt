@@ -1,0 +1,9 @@
+europe. Monthly Weather Review 143, 813–827 (2015).
+Article  Google Scholar 
+21. Leinonen, J., Nerini, D. & Berne, A. Stochastic super-
+resolution for downscaling time-evolving atmospheric fields
+with a generative adversarial network. IEEE Transactions on
+Geoscience and Remote Sensing 59, 7211–7223 (2020).
+Article  Google Scholar 
+22. Price, I. & Rasp, S. Increasing the accuracy and resolution of
+precipitation forecasts using deep generative models. In

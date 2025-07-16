@@ -1,0 +1,8 @@
+before, and it is adapted for operational purposes since the
+data from the past are readily available. The third approach
+is to calculate diagnostics from an ensemble of runs with per-
+turbed emissions with homogeneous or heterogeneous corre-
+lation length scales. The main conclusion is that all methods
+signiﬁcantly improve the modelled ﬁeld, and that relative dif-
+ferences between different methods are small compared to
+the rate of improvement by assimilation. For aerosols, the

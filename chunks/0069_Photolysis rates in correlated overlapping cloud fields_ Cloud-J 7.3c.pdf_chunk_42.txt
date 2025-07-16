@@ -1,0 +1,22 @@
+longitudinal belt just above the Equator (T319L60 Cycle 36)
+Geosci. Model Dev., 8, 2587–2595, 2015
+www.geosci-model-dev.net/8/2587/2015/
+M. J. Prather: Photolysis rates in correlated overlapping cloud ﬁelds: Cloud-J 7.3c
+2591
+Table 1. Models for cloud overlap and approximation of ICAs including errors in J values.
+Cloud-overlap models to generate ICAs
+ICAsa
+avg err 0–1 km
+rms error 0–1 km
+rms error 0–16 km
+J-O1D
+J-NO3
+J-O1D
+J-NO3
+J-O1D
+J-NO3
+G0
+MAX-RAN
+with
+MAX
+groups

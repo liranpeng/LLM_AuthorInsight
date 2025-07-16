@@ -1,0 +1,10 @@
+implemented using the offline_dyn option for which the
+winds are held ﬁxed throughout the tracer time step, whereas
+in HOMME the winds are updated at every Runge–Kutta
+step.
+3.1.2
+Shape-preserving ﬁlters and convergence rates
+When examining the histograms for “optimal” convergence
+rates for ℓ2 and ℓ∞(Fig. 3 middle and lower, respectively), it
+is immediately apparent (with the exception of CLAW, FAR-
+SIGHT, SBC), and not surprising, that shape-preserving ﬁl-

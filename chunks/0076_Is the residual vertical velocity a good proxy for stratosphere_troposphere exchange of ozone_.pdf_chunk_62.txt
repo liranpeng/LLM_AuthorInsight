@@ -1,0 +1,5 @@
+adding the lowermost stratospheric mass tendency increases the correlation drastically to 0.82. Thus, small
+interannual variations in the lowermost stratospheric O3 mass (±25 Tg/yr) control the long-term variability
+of O3 STE for the stagnant circulation of C36.
+The residual O3 ﬂux, w∗O3, across 100 hPa (green dashed line) appears jagged in Figures 1h and 1i, despite
+being a 12 month average, with a low correlation to TC-e90 for both C29 (r = 0.36) and C36 (r = 0.06). The

@@ -1,0 +1,9 @@
+ness, while for NOx, whose PD uses log([NOx]), the legend
+lists just the mean value (ppt) and the mean log value (con-
+verted back to parts per trillion).
+G2023 in their Fig. 4 compared the ATom-1 PDs for NOx,
+HCHO, and HOOH with six CTM and CCM climatologies
+for August and showed some clearly divergent model results.
+We believe that these ATom PDs provide a valuable model
+metric and can be used to track down model errors. Here we
+compare the ATom-1234 PDs for CO, O3, RHw, and NOx be-

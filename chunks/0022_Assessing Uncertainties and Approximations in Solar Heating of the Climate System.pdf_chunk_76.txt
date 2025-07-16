@@ -1,0 +1,4 @@
+using SJ/noIR ranges from +5% (bottom) to +25% (top), with similar values for cirrus ice clouds. At the top 
+of a stratus cloud, SJ/66b heating rates are 1.8 K per day, while SJ/noIR calculates 2.3 K per day (both are 
+without IR gas absorption). We can include IR gas absorption in SJ and find that heating rates in the upper 
+layers of the stratus cloud are reduced by about a third because of the absorption by water vapor above the

@@ -1,0 +1,6 @@
+ing. However, further work is needed to fully understand those records in a quantitative sense.
+Data Availability Statement
+Acetylene and ethane ice core data are available online (https://doi.org/10.18739/A2J09W45H). The
+methane box model code and the ethane and acetylene emission search code are available online (at
+https://doi.org/10.7280/D14X2M).
+References

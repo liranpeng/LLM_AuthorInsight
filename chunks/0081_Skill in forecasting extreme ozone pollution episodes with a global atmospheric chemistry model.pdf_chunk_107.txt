@@ -1,0 +1,8 @@
+mean skill and 1σ are shown for each plot.
+we choose AQX events to be clustered if they are within a
+predeﬁned cutoff in both space and time. We use the Cheby-
+shev (maximum coordinate difference) distance metric and
+the single (nearest-neighbor) linkage criterion. We prescribe
+a cutoff value of 1 (i.e., events are not connected at greater
+than 1◦and 1 day ahead or behind). We recognize two ob-
+vious limitations to using this linkage method: (1) we have

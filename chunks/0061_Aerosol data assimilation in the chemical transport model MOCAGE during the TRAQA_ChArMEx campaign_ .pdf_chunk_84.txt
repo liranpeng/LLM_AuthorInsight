@@ -1,0 +1,10 @@
+tion model runs with SEVIRI observations over the whole
+control domain, and not only over the western Mediter-
+ranean. The majority of the observed points correspond to
+small AOD values where the direct model and the observa-
+tions agree well. For larger observed values, the scatter plots
+Atmos. Meas. Tech., 9, 5535–5554, 2016
+www.atmos-meas-tech.net/9/5535/2016/
+B. Siˇc et al.: Aerosol data assimilation in the CTM MOCAGE
+5543
+Table 2. Correlation (ρ), absolute bias (1) and root mean square

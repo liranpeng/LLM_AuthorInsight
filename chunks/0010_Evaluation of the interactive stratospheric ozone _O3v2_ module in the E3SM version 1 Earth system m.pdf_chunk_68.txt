@@ -1,0 +1,8 @@
+not record daily ozone values and cannot be assessed here.
+The O3v1 ozone hole area is generally about 30 % smaller
+than the observation (Fig. 5b) and also about 30 DU less deep
+than observed from August through November (Fig. 5c).
+O3v2 clearly matches the observations better both in terms of
+area and minimum value. The clear improvement with O3v2
+is the onset of the hole, where O3v1 shows almost a 2-week
+delay but O3v2 matches the observations. We must be careful

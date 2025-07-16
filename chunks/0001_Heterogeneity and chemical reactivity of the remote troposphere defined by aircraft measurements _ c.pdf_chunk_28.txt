@@ -1,0 +1,8 @@
+nitrate), CH3NO3, HOOH, CH3OOH, HCHO, CH3CHO (ac-
+etaldehyde), C3H6O (acetone), CO, CH4, C2H6, alkanes
+(C3H8 and higher), C2H4, aromatics (benzene, toluene, and
+xylene), and C5H8 (isoprene), plus temperature. Short-lived
+radicals (e.g., OH, HO2, and CH3OO) were initialized at
+small concentrations and quickly reached daytime values de-
+termined by the core species. The six CTM/CCMs over-
+wrote the chemical composition of a restart ﬁle, placing each

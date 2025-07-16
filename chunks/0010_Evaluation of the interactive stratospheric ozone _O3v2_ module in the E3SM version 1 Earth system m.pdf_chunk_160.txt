@@ -1,0 +1,8 @@
+A., Frith, S. M., Huang, L.-K., Jaross, G. R., Seftor, C. J., Deland,
+M. T., and Taylor, S. L.: Trends in global tropospheric ozone
+inferred from a composite record of TOMS/OMI/MLS/OMPS
+satellite measurements and the MERRA-2 GMI simulation , At-
+mos. Chem. Phys., 19, 3257–3269, https://doi.org/10.5194/acp-
+19-3257-2019, 2019.
+Geosci. Model Dev., 14, 1219–1236, 2021
+https://doi.org/10.5194/gmd-14-1219-2021

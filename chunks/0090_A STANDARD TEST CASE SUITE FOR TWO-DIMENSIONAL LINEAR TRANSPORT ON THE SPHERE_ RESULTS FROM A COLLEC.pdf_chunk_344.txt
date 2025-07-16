@@ -1,0 +1,10 @@
+ear transport on the sphere, Geosci. Model Dev., 5, 887–901,
+doi:10.5194/gmd-5-887-2012, 2012.
+LeVeque, R. J.: Finite Volume Methods for Hyperbolic Problems,
+Cambridge University Press, 2002.
+LeVeque, R. J.: CLAWPACK : Conservation Law Package, Version.
+4.3 (April 2006), available at: http://www.clawpack.org (last ac-
+cess: 15 September 2013), 2006.
+Lin, S.-J.: A “Vertically Lagrangian” Finite-Volume Dynamical
+Core for Global Models, Mon. Weather Rev., 132, 2293–2307,
+2004.

@@ -1,0 +1,8 @@
+thropogenic emission data from ECLIPSE for the 1990 to
+2015 period (Klimont et al., 2016; Stohl et al., 2015). Several
+updates and improvements compared to earlier emission data
+sets were included in this inventory (Klimont et al., 2016).
+The ECLIPSE emission data are shown in Fig. 1 over the pe-
+riod 1990–2015 and are compared to emission data used in
+Coupled Model Intercomparison Project Phase 5 (CMIP5)
+and to be used in CMIP6. Figure S1 in the Supplement

@@ -1,0 +1,7 @@
+radiative forcing via aerosol-radiation-cloud interactions. We
+have therefore calculated the direct and ﬁrst indirect radiative
+forcing of aerosols for the models where this was possible, shown
+as red bars in Fig. 3. In OsloCTM the global mean burden of
+sulfate decreases from hydrogen emissions, but aqueous phase
+reactions lead to more sulfate aerosols at low altitudes leading to a
+strengthening in the indirect aerosol effect and overall negative

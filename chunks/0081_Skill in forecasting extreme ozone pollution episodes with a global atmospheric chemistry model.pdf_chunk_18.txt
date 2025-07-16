@@ -1,0 +1,10 @@
+to assess climate-driven changes in extreme ozone pollution
+episodes.
+2
+Observations of surface O3 over the US and EU
+For our observations of surface O3 we use 10 years
+(2000–2009) of hourly surface O3 measurements from air
+quality networks in the United States and Europe (see Ta-
+ble 1 for summary of data sets). For the US we primarily use
+the EPA’s Air Quality System (AQS). The EPA’s Clean Air
+Status and Trends Network (CASTNET) is used for indepen-

@@ -1,0 +1,9 @@
+input data in ICOADS Release 2.5, buoy SST bias adjust-
+ments not present in version 3, updated ship SST bias adjust-
+ments using Hadley Nighttime Marine Air Temperature ver-
+www.earth-syst-dynam.net/8/577/2017/
+Earth Syst. Dynam., 8, 577–616, 2017
+598
+J. Hansen et al.: Young people’s burden: requirement of negative CO2 emissions
+sion 2 (HadNMat2), and revised low-frequency data ﬁlling
+in data-sparse regions using nearby observations. ERSST.v4

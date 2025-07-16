@@ -1,0 +1,10 @@
+also tested the effect of different model years (1997 and 2015
+versus reference year 2016), which varies the cloud cover and
+photolysis rates, and found an inter-year RMSD about half of
+that of the core model’s RMSD. Thus, there is a fundamental
+uncertainty in this approach due to the inability to specify the
+cloud/photolysis history seen by a parcel over 24 h, but it is
+less than the inter-model differences among the most similar
+models.
+2
+Introduction

@@ -1,0 +1,19 @@
+standard deviations of the observed trends. Models were sampled at the grid points of the network sites. For the models, periods 2000–2010
+and 1990–2010 were used for comparisons with US observations.
+# sites
+Observations
+Mean models
+(% yr−1)
+(% yr−1)
+Europe 2000–2010, based on EMEP networka
+13
+−2.9 (1.5)
+−2.4
+USA 2000–2009, based on IMPROVE networkb
+153
+−2.1 (2.07)
+−1.9
+USA 1989–2009, based on IMPROVE networkb
+59
+−1.5 (1.25)
+−1.3

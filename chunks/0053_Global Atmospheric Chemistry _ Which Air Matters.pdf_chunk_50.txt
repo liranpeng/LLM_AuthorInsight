@@ -1,0 +1,8 @@
+terms of 24 h average rates and hence the units of ppb per day.
+Reactivity deﬁned here requires sunlight; nighttime sources
+of OH from alkenes and isoprene via ozonolysis or nitrate
+radicals (Paulson and Orlando, 1996) are important primar-
+ily in continental air over emission sources. This calculation
+integrates over the diurnal cycle of photolysis rates driven by
+changing solar zenith angle, clouds, O3, and aerosol proﬁles,
+all of which are simulated in CTM–CCMs.

@@ -1,0 +1,9 @@
+settings. To facilitate this process further, we provide scripts
+for contour plots. Model developers are encouraged to use
+those scripts so that contour plots from different modeling
+groups can easily be compared.
+More challenging global idealized tests have been devel-
+oped since the efforts of Williamson et al. (1992) such as
+the highly deformational (moving) vortices on the sphere
+(Nair and Machenhauer, 2002; Nair and Jablonowski, 2008)
+and the “boomerang” ﬂows of Nair and Lauritzen (2010).

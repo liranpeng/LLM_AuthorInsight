@@ -1,0 +1,14 @@
+deﬁne a linear reconstruction of ρ and φ in each control vol-
+ume:
+ρk(r) = ρ + ∇kρ · (r −rk),
+(A15)
+φk(r) = φ + ∇kφ · (r −rk),
+(A16)
+respectively, where rk is the centroid of the kth control vol-
+ume. Indeed the area average of a quantity coincides with the
+value of that quantity at the centroid of the control volume,
+with second-order accuracy in space. As a consequence
+φ ≃ρφ
+ρ
+with the same accuracy.
+To compute the discrete gradient ∇kφ of any scalar ﬁeld φ

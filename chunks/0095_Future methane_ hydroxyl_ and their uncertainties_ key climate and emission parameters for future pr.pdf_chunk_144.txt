@@ -1,0 +1,8 @@
+a CTM or GCM, the advantage is that it can be rapidly ap-
+plied to many climate data sets or socioeconomic scenarios.
+Using the parametric model to reconstruct methane life-
+time for 1980–2005, we estimate 2.2±1.8 % decrease in
+τCH4×OH, in contrast to previous parametric approaches that
+suggested increases or no change. Our decrease is the same
+direction of change as previous CTM studies and consistent
+with methyl chloroform observations, but smaller in magni-

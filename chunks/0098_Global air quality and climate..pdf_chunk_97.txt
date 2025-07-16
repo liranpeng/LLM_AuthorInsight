@@ -1,0 +1,3 @@
+estimate surface O3 response over the TF HTAP continental regions to emission changes (C66); (3) spatial averages across a region, denoted by
+ﬁlled squares (E,186 I,244 K,242 M,220 Q,267 T,58 U,68 W,28 X,287 2286); (4) spatial ranges across a region as estimated with one model or combined
+across several individual modeling studies, denoted by dotted lines (B,278 D,283 F,224 G,8 H,239 J,223 K,242 L,245 P,286 R,363 S;246 V,29 Y,298

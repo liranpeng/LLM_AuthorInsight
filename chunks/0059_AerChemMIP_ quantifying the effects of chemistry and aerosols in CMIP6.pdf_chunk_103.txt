@@ -1,0 +1,8 @@
+reference. This signal is expected to be globally small (com-
+mensurate with a forcing of the order of 0.1 W m−2, although
+much larger locally), so at least three ensemble members for
+both SSP3-7 and SSP3-7-lowNTCF variants are requested
+as continuation from existing historical ensemble members.
+Where natural emissions are modelled interactively, these
+will vary with the evolving climate and will differ between
+ssp370 and ssp370-lowNTCF as the climate diverges.

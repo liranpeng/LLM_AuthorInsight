@@ -1,0 +1,8 @@
+Abstract. Measurements from actinic ﬂux spectroradiome-
+ters on board the NASA DC-8 during the Atmospheric To-
+mography (ATom) mission provide an extensive set of statis-
+tics on how clouds alter photolysis rates (J values) through-
+out the remote Paciﬁc and Atlantic Ocean basins. J values
+control tropospheric ozone and methane abundances, and
+thus clouds have been included for more than three decades
+in tropospheric chemistry modeling. ATom made four proﬁl-

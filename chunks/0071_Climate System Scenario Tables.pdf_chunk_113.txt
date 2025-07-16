@@ -1,0 +1,6 @@
+4.64 ± 1.34
+12.78 ± 1.35
+25.28 ± 2.73
+Notes:
+Decadal mean values (2010d = average of 2005–2014) are used for emissions because linear interpolation between decadal means conserves total emissions. Data are taken from RCP database 
+(Meinshausen et al., 2011a; http://www.iiasa.ac.at/web-apps/tnt/RcpDb) and may be different from yearly snapshots; for 2100 the average (2095–2100) is used. SRES A2 and B1 and IS92a are

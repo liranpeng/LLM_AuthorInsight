@@ -1,0 +1,54 @@
+4.22
+14.94
+28.44
+2100d
+–0.42
+4.13
+13.82
+28.77
+Table AII.2.1c |  Anthropogenic total CO2 emissions (PgC yr–1)
+1411
+Climate System Scenario Tables	
+Annex II
+AII
+Table AII.2.2 |  Anthropogenic CH4 emissions (Tg yr–1)
+Year
+RCP2.6
+RCP4.5
+RCP6.0
+RCP8.5
+A2
+B1
+IS92a
+RCP2.6&
+RCP4.5&
+RCP6.0&
+RCP8.5&
+PI
+202 ± 28
+202 ± 28
+202 ± 28
+202 ± 28
+2010total
+554 ± 56
+554 ± 56
+554 ± 56
+554 ± 56
+2010anthrop
+352 ± 45
+352 ± 45
+352 ± 45
+352 ± 45
+2010d
+322
+322
+321
+345
+370
+349
+433
+352 ± 45
+352 ± 45
+352 ± 45
+352 ± 45
+2020d

@@ -1,0 +1,9 @@
+A8.1
+More on hyperviscosity scaling
+In case of tracer advection, different amounts of artiﬁcial dis-
+sipation affect performance of the scheme in various ways.
+For example, with η = p + 1, the theoretical spatial conver-
+gence order is p + 1. If η < p + 1, convergence rates are ex-
+pected to be of the order of η. Bigger amounts of hypervis-
+cosity raise standard errors but improve preservation of pre-
+existing functional relations and ﬁlament preservation diag-

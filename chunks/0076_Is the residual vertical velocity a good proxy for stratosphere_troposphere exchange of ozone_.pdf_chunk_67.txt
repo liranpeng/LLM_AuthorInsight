@@ -1,0 +1,2 @@
+averaged over years 2000–2006 for C29 and 2000–2007 for C36, in units of Tg-O3 per year. The mean seasonal variations (S-RMS) are calculated from the 12 monthly means. The interannual
+variations (IA-RMS) are calculated from the annual ﬂuxes evaluated at each month using a 12 month running mean. The interannual correlation coeﬃcients (IA-r) are calculated relative to our

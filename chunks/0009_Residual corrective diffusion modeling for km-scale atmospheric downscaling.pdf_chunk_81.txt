@@ -1,0 +1,10 @@
+5. Lam, R. et al. Learning skillful medium-range global weather
+forecasting. Science 0, eadi2336 (2023).
+Google Scholar 
+6. Croitoru, F.-A., Hondru, V., Ionescu, R. T. & Shah, M.
+Diffusion models in vision: A survey. IEEE Transactions on
+Pattern Analysis and Machine Intelligence (2023).
+7. Chen, L. et al. Fuxi_ A cascade machine learning forecasting
+system for 15-day global weather forecast. npj Climate and
+Atmospheric Science 6, 190 (2023).
+Article  Google Scholar

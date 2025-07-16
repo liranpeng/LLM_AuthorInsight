@@ -1,0 +1,8 @@
+and Wolfe, G.: The Convective Transport of Active Species in the
+Tropics (CONTRAST) Experimen, B. Am. Meteor. Soc., 106–
+128, https://doi.org/10.1175/BAMS-D-14-00272.1, 2017.
+Pan, L. L., Wei, J. C., Kinnison, D. E., Garcia, R. R.,
+Wuebbles, D. J., and Brasseur, G. P.: A set of diagnostics
+for evaluating chemistry-climate models in the extratropical
+tropopause region, J. Geophys. Res.-Atmos., 112, D09316,
+https://doi.org/10.1029/2006jd007792, 2007.

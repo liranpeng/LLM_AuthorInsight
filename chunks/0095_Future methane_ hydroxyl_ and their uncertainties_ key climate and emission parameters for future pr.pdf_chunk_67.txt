@@ -1,0 +1,9 @@
+sequences of averaging region choice are discussed further
+in Sect. 3.3. Temperature and water vapor perturbations are
+restricted to the troposphere in Oslo CTM3, which includes
+full stratospheric chemistry, to avoid confounding changes in
+stratospheric ozone columns.
+Only variables with large sensitivity, large interannual
+changes, or both can explain the year-to-year τCH4×OH vari-
+ations identiﬁed in Fig. 1. Figure 3 shows the interannual
+changes of 5 key variables for 1997–2009. Water vapor,

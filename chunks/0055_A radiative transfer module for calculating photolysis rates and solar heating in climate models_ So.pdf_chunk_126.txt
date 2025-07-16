@@ -1,0 +1,8 @@
+look like Fu96. At very large SZA of 84◦, with most of the
+sunlight being scattered at least once within the cloud, the
+Solar-J model again looks like the largest τ, model EC92. To
+ﬁrst order, the Solar-J model is calculating the correct SZA
+dependence of the CRE by using both a more realistic scat-
+tering phase function and eight-stream scattering. The use of
+Mishchenko’s sample T-matrix phase function may not be a
+perfect choice for cirrus, but it is clearly more realistic than

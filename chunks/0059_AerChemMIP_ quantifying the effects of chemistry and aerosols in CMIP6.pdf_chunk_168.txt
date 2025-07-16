@@ -1,0 +1,9 @@
+model bias, but may also help to rank models with respect
+to their ability to capture critical variability (see for example
+SPARC CCMVal, 2010).
+The diagnostics requested represent a subset of the diag-
+nostics requested for the AeroCom and CCMI model com-
+parison activities. These include 2-D hourly (surface level
+ozone, PM2.5, and NO2), 3-D monthly mean concentrations
+of aerosol species, ozone and ozone precursors (including
+methane, CO, NO2, OH, and VOCs), column data (ozone),

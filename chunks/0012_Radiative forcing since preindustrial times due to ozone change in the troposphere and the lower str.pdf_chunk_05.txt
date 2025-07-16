@@ -1,0 +1,10 @@
+to 13.8 DU among the ten participating models, while the
+stratospheric column reduction lies between 14.1 DU and
+28.6 DU in the models considering stratospheric chemistry.
+The resulting radiative forcing is strongly dependent on the
+location and altitude of the modeled ozone change and varies
+between 0.25 Wm−2 and 0.45 Wm−2 due to ozone change in
+the troposphere and −0.123 Wm−2 and +0.066 Wm−2 due to
+the stratospheric ozone change.
+Correspondence to: M. Gauss
+(michael.gauss@geo.uio.no)

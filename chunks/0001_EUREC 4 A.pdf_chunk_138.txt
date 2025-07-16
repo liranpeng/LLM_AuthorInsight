@@ -1,0 +1,4 @@
+shown is the Lagrangian evolution of humidity, or backscatter features, with dashed arrows following the descent with time of features
+(white arrow in the upper panel: following RH feature; black arrow in the lower panel: following backscatter feature) being indicative of the
+magnitude of vertical velocity variations on different temporal scales. Gray bars on lower plots (at 21 h) are missing data.
+(aerosol front) near 21:00 UTC, which extends to the surface

@@ -1,0 +1,9 @@
+umn, and so we conclude that the scatter in J values and re-
+activities is driven primarily by the time-varying cloud ﬁelds.
+(The UCI CTM uses 3 h averaged cloud ﬁelds.) The O3 ten-
+dency (dO3/dt) has less scatter than any of the four reac-
+tivities (P-O3, L-O3, L-CH4, L-CO) because the production
+and loss co-vary with clouds and their net difference has less
+scatter.
+We expect the abundance of the reactive species to evolve
+over the 24 h period of the reactivity calculation, and this is

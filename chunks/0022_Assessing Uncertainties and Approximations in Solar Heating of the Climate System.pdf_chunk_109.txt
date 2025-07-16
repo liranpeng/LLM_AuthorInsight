@@ -1,0 +1,5 @@
+Unfortunately, we cannot compare with the LBYY climate model results (their Figure 6) because their 'clear 
+sky' includes, and clearly shows, the importance of northern continental pollution and southern ocean sea 
+salt aerosols in their 2-stream errors.
+Trying to separate the effects of δ-scaling errors from 2-stream errors for clouds, SJ/2S experiments (T1/
+R13) are carried out extending the phase-function scaling exercises (T1/R9-R12 and Figure 4). The dipole

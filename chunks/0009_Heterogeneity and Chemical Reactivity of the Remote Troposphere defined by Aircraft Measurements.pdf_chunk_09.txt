@@ -1,0 +1,8 @@
+from the 2 km ATom data, indicating that much of the het-
+erogeneity in tropospheric chemistry can be captured with
+current global chemistry models. Comparing the ATom reac-
+tivities over the tropical oceans with climatological statistics
+from six global chemistry models, we ﬁnd excellent agree-
+ment with the loss of O3 and CH4 but sharp disagreement
+with production of O3. The models sharply underestimate O3
+production below 4 km in both Paciﬁc and Atlantic basins,

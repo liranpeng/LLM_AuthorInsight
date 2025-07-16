@@ -1,0 +1,8 @@
+J., and Thoning, K. W.: Atmospheric Carbon Dioxide Dry Air
+Mole Fractions from the NOAA GML Carbon Cycle Cooperative
+Global Air Sampling Network, 1968–2020, Version: 2021-07-
+30, NOAA Global Monitoring Laboratory Data Repository [data
+set], https://doi.org/10.15138/wkgj-f215, 2021b.
+Engelen, R. J., Denning, A. S., Gurney, K. R., Law, R. M., Den-
+ning, A. S., Rayner, P. J., Baker, D., Bousquet, P., Bruhwiler, L.,
+Chen, Y. H., Ciais, P., Fan, S., Fung, I. Y., Gloor, M., Heimann,

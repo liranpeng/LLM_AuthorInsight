@@ -1,0 +1,8 @@
+https://doi.org/10.5194/acp-15-11773-2015, 2015.
+Dlugokencky, E. J., Crotwell, A. M., Mund, J. W., Crotwell, M.
+J., and Thoning, K. W.: Atmospheric Nitrous Oxide Dry Air
+Mole Fractions from the NOAA GML Carbon Cycle Coopera-
+tive Global Air Sampling Network, 1997–2020, Version: 2021-
+07-30, NOAA Global Monitoring Laboratory Data Repository
+[data set], https://doi.org/10.15138/53g1-x417, 2021a.
+Dlugokencky, E. J., Mund, J. W., Crotwell, A. M., Crotwell, M.

@@ -1,0 +1,9 @@
+vergent wind ﬁeld so that the modeler is forced to consider
+the coupling between air density and tracer mass (at least
+when using ﬁnite-volume type schemes), which is a neces-
+sary step in developing a transport scheme for realistic atmo-
+spheric/oceanographic applications.
+The idealized transport scheme testing discussed above
+assesses simulation accuracy in a single-tracer setup. For
+a range of climate and climate–chemistry problems, it
+is also considered important that schemes do not disrupt

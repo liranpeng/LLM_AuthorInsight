@@ -1,0 +1,8 @@
+as a possible underestimation of AOD in the model, and this
+is taken into account in the covariance matrices error deﬁ-
+nitions. Therefore, the possibly smaller AOD values of the
+background are compensated by a higher percentage for the
+error of the model. In addition, it is considered that it is better
+to have overestimated errors in the matrix B than vice versa
+(Talagrand, 2003).
+Covariances of the background error matrix, which inﬂu-

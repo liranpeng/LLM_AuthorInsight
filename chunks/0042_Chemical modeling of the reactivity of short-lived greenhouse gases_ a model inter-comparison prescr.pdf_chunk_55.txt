@@ -1,0 +1,8 @@
+We have selected (italics) those entries that seem anoma-
+lous as also found in Fig. 3. For example, average P-O3
+ranges from 0.77 to 0.84 ppb day−1 for ﬁve models but is
+1.40 ppb day−1 for GISS. Likewise, average L-O3 ranges
+from 1.44 to 1.54 ppb day−1 for 4 models, but is 0.83 for
+GFDL and 2.25 ppb day−1 for GISS. The rms differences
+with respect to the reference case favors the three models
+that deﬁne that case, but also shows that GFDL and NCAR

@@ -1,0 +1,6 @@
+FARSIGHT-CN1.0
+FARSIGHT-CN10.4
+UCISOM-CS-CN1.0
+Fig. 1. Convergence plots for ℓ2 (ﬁrst and third rows) and ℓ∞(second and fourth rows) for the unlimited (ﬁrst column) and shape-preserving
+(second column) versions of schemes based on cubed-sphere and two-patch grids. Optimal convergence rates are based on linear least-square
+regressions to this data. Thin grey lines on each plot show slopes of second- and third-order convergence (top and bottom, respectively).

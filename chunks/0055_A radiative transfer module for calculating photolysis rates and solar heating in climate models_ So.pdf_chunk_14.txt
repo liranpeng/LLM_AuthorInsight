@@ -1,0 +1,8 @@
+and reﬂection of sunlight over the full spectrum. Scattering
+and absorption by large aerosols (dust) and clouds are impor-
+tant for heating rates at these longer wavelengths. The long-
+term goal is to develop Solar-J as a single module for climate
+models, albeit with increased computational cost, delivering
+photolysis rates and more accurate shortwave heating rates,
+particularly for aerosol and cloud radiative forcing.
+As ﬁner grid resolutions and massively parallel comput-

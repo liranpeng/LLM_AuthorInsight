@@ -1,0 +1,9 @@
+this was restrictive, and we adopted the simpler notation here
+but still beginning with version 0. With MDS-0, we chose to
+gap-ﬁll using correlations with CO to estimate the variability
+Atmos. Chem. Phys., 21, 13729–13746, 2021
+https://doi.org/10.5194/acp-21-13729-2021
+H. Guo et al.: Heterogeneity and chemical reactivity of the remote troposphere
+13733
+of the missing measurement over the gap. The science team
+then rejected PSS-NOx as a proxy, and we reverted to the

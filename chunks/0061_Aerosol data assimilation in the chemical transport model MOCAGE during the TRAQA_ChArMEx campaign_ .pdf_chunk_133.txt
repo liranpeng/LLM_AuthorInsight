@@ -1,0 +1,8 @@
+the high AOD values in the model. This directly affects the
+analyses, and is later reﬂected in the forecasts.
+To regulate this feature, one of the possible and the sim-
+plest (ad hoc) approaches would be to limit the observa-
+tion error in the matrix R up to a ﬁxed value, which would
+give more weight to observations in the case of high ob-
+served AOD. This would have a partial effect, only inﬂuenc-
+ing observations above a certain AOD, and in the case of

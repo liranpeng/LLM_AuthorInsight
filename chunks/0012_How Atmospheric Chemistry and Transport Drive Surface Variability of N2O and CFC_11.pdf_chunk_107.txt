@@ -1,0 +1,5 @@
+MLS N2O loss is well matched in both GMI and UCI simulations, and further, the F11X losses parallel those 
+of N2O. The sustained westerlies during 2016/18 produce a broad peak of N2O loss that is well matched by 
+GMI and UCI. The UCI simulation ended during this anomaly but appears to capture the first half of the 
+peak loss. GMI was able to capture this anomaly in its entirety, but unfortunately, the LMDz5 simulation 
+ended before the anomaly began.

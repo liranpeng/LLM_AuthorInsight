@@ -1,0 +1,8 @@
+come less important for L-CH4 and L-O3, but even more
+important for P-O3. This unusual feature adds a new dimen-
+sion to diagnosing and understanding model differences. The
+reactivity weighting of the CO distribution does not show
+anything unusual. The NOx 1-D plots show that L-CH4 is
+more heavily weighed to low NOx values than is L-O3, but
+P-O3 is weighted strongly to the higher NOx abundances
+(> 10 ppt) as expected. The HCHO reactivity weights in the

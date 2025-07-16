@@ -1,0 +1,8 @@
+impacts on climate and air quality. To date, all estimates of
+RF due to ship NOx come from models that assume instant
+dilution (Eyring et al., 2010).
+Large-eddy simulations at various spatial resolutions sug-
+gest the errors in surface O3 and OH enhancements caused
+by instant dilution of ship emissions in global CTMs are as
+large as 60 % (Charlton-Perez et al., 2009), although some
+Gaussian plume models ﬁnd larger errors in northern hemi-

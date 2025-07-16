@@ -1,0 +1,7 @@
+tered light. In terms of reflected light, LBYY show large dipole errors with SZA in reflected flux for δ-Ed-
+dington scaling. Fortunately, δ-scaling appears to have little impact on atmospheric heating. There is no 
+assessment here because any solution requires multi-stream scattering, a more formidable task.
+HSU AND PRATHER
+10.1029/2020MS002131
+20 of 24
+Journal of Advances in Modeling Earth Systems

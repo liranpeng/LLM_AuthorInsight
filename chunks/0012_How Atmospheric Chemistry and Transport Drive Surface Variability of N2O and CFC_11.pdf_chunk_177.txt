@@ -1,0 +1,20 @@
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+ 
+(b) 
+Figure S1.  Total burden of (a) N2O and N2OX in TgN-N2O and (b) F11/F11X in Tg F11 for each 
+dataset. Black is NOAA HATS observations (4.79 Tg N of N2O/ppb and 22.33 Tg F11 of F11/ppb; Volk 
+et al., 1997, Prather et al., 2012). All other lines depict the different CTM simulations. X-tracers are 
+simulations of N2O and F11 in the absence of surface emissions and shown in solid lines, while N2O and

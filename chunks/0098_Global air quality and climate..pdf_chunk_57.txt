@@ -1,0 +1,8 @@
+elimination of BC sources would reduce global surface tem-
+peratures by 0.5 to 1 K. Shindell et al.3 simulated the eﬀect of
+implementing a range of air quality measures that control the
+emissions of BC-containing particles and O3 precursor species
+and estimate 0.19 K avoided warming by 2050. They found
+that reducing BC emissions resulted in greater reductions in
+warming from the semi-direct eﬀect than reductions in cooling
+from the indirect eﬀect, although they note that the magnitude

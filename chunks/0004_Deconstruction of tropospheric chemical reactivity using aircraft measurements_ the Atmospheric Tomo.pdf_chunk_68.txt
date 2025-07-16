@@ -1,0 +1,7 @@
+occurrence at 10◦latitude by 100 hPa bins and by cosine (latitude). For the high-latitude sections – Arctic (66◦N–90◦N), Southern Ocean (66–55◦S), and Antarctica
+(90–66◦S) – parcels are weighted only by frequency of occurrence in 100 hPa bins.
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+https://doi.org/10.5194/essd-15-3299-2023
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements
+3309
+Starting with the Paciﬁc and Atlantic basins, we see that

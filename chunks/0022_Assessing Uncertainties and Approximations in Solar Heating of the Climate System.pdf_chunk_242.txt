@@ -1,0 +1,3 @@
+Paynter, D., & Ramaswamy, V. (2014). Investigating the impact of the shortwave water vapor continuum upon climate simulations using 
+GFDL global models. Journal of Geophysical Research: Atmospheres, 119(18), 10720–10737. https://doi.org/10.1002/2014JD021881
+PhotoComp (2010). In V. Eyring, T. G. Shepherd, & D. W. Waugh (Eds.), Chapter 6 in SPARC CCMVal report on evaluation of chemistry-cli-

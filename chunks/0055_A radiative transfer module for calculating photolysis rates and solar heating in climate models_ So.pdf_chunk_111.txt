@@ -1,0 +1,8 @@
+longer wavelength bins (S25–S27) are fully absorbed in the
+uppermost part of the cloud (τ < 1), while the shorter wave-
+lengths (S19–S24) penetrate the cloud to scattering optical
+depths of order τ ∼8. RRTMG consistently calculates lower
+in-cloud rates; see below. It is possible that Solar-J’s greater
+heating in stratus clouds may change the dynamics of stratus
+clouds relative to a model using RRTMG-SW (Harrington et
+al., 2000). At low sun (SZA = 84◦), Solar-J calculates 4 %

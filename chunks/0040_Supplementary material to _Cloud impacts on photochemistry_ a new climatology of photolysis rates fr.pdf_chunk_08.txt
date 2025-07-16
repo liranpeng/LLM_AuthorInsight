@@ -1,0 +1,10 @@
+from a single day, or just the ATom flight track for several days (e.g., GFDL, explains the lack of smoothness).  
+Differences here can explain only some of the spread in clear-sky J-O1D values in Figure 2.  
+ 
+ 
+ 
+ 
+4 
+ 
+Figure S4.  Effects of clear sky (blue points), simple averaged clouds (gray points), and fractional cloud overlap (the 
+reference case, 1:1 dashed line) using the UCI CTM.  X-axis is the same as the Y-axis, but for the reference model

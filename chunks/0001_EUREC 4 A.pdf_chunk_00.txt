@@ -1,0 +1,8 @@
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+https://doi.org/10.5194/essd-13-4067-2021
+© Author(s) 2021. This work is distributed under
+the Creative Commons Attribution 4.0 License.
+EUREC4A
+Bjorn Stevens1, Sandrine Bony2, David Farrell3, Felix Ament4,1, Alan Blyth5, Christopher Fairall6,
+Johannes Karstensen7, Patricia K. Quinn8, Sabrina Speich9, Claudia Acquistapace10,
+Franziska Aemisegger11, Anna Lea Albright2, Hugo Bellenger2, Eberhard Bodenschatz12,

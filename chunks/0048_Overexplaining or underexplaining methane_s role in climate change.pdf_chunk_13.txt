@@ -1,0 +1,7 @@
+spheric models show that MCF decay responds to the observed
+changes in tropical temperatures and water vapor, increasing in a
+warmer, wetter world. Also, the feedback of the primary isotope of
+methane on OH is well established (3, 28–30), and it increases the
+impact of emissions by 40% compared with the lifetime derived
+from MCF decay. The difficulty lies in deciding which of the many
+3D model results provides the most useful priors.

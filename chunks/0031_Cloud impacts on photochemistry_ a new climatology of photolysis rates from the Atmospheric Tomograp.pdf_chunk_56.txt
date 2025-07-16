@@ -1,0 +1,8 @@
+data is shown in Fig. S5 with the probability of occurrence
+of the cloudy : clear ratio deﬁned as ln(J-cloudy/J-clear) and
+designated rlnJ. Each curve is normalized to unit area, with
+the y axis being probability per 0.01 bin (∼1 %) in rlnJ.
+We expect that enhancements in Js occur above clouds
+and diminishments below, and this is shown in Fig. S5. In
+the marine boundary layer (900 hPa–surface), there are a
+greater number of rlnJ < −0.10, with fewer rlnJ > 0.00. In the

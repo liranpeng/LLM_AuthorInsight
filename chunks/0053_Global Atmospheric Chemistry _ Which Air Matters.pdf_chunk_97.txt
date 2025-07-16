@@ -1,0 +1,8 @@
+heterogeneity (Köppe et al., 2009).
+A much more difﬁcult problem is that of representative-
+ness: i.e., how much of the Paciﬁc basin must one sample
+to get joint-probability distributions similar to that of the
+whole basin? Can aircraft-measured heterogeneity be com-
+pared with models that do not follow the exact ﬂight route
+for the exact period of measurements (e.g., Hsu et al., 2004)?
+This latter question is critical if we are to use the ATom

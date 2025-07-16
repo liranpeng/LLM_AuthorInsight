@@ -1,0 +1,11 @@
+Isotope sampler
+Sampling system for measuring stable isotopologues in rain and seawater
+Pyranometer
+SPN1 Delta-T SNC radiometer measuring global and diffuse radiation
+Hypersp. radiometer
+ROX JBC hyperspectral radiometer measuring global, reﬂected, and diffuse spectral radiation from
+350 to 950 nm
+GNSS
+Global Navigational Satellite System (GNSS) antennas and receivers for measuring underway colum-
+nar water vapor content
+Aethalometer

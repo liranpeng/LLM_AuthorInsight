@@ -1,0 +1,8 @@
+Unfortunately, while investigating sensitivities and uncer-
+tainties in the RDS for a future study, we found an inconsis-
+tency between the reported concentrations of both pernitric
+acid (HNO4) and peroxyacetyl nitrate (PAN) with respect
+to the chemical kinetics used in the models. High concen-
+trations (attributed to instrument noise) were reported under
+conditions where the thermal decomposition frequency was
+> 0.4 per hour in the lower troposphere (> 253 K for HNO4

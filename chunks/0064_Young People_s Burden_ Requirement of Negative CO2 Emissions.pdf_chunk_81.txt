@@ -1,0 +1,9 @@
+central result agrees well with the model-based climate sen-
+sitivity estimate of 3 ◦C for 2 × CO2 (Rohling et al., 2012b),
+with an uncertainty that is arguably 1 ◦C or less (Hansen et
+al., 2013b).
+The ocean has great heat capacity (thermal inertia), so it
+takes decades to centuries for Earth’s surface temperature to
+achieve most of its fast-feedback response to a change in
+climate forcing (Hansen et al., 1985). Thus, Earth has only
+partly responded to the human-made increase in GHGs in the

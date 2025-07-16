@@ -1,0 +1,7 @@
+interannual variation of the detrended transportation induced ozone perturbation based on E39/C. Note that the data on display are scaled to
+100% to allow the comparison to the interannual variability deduced from E39/C.
+Atmos. Chem. Phys., 9, 3113–3136, 2009
+www.atmos-chem-phys.net/9/3113/2009/
+P. Hoor et al.: Trafﬁc emissions: impact on ozone and OH
+3121
+Fig. 4. As Fig. 3, but for the zonal mean in ppbv (scaled to 100%). Solid contours show the perturbation relative to the mean unperturbed

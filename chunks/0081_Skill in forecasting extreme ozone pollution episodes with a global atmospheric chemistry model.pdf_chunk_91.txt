@@ -1,0 +1,8 @@
+events based strictly on absolute concentrations (Dawson et
+al., 2008; Nolte et al., 2008; Zanis et al., 2011).
+We deﬁne AQX events based on the local PDF of O3 con-
+centrations, rather than based on exceeding a concentration
+threshold. This enables us to identify linked extreme events
+whose absolute magnitudes evolve over space and time. For
+example, Fig. 8 shows daily MDA8 O3 for June 2002 in
+four grid cells in the Midwest and eastern US (Chicago, IL;

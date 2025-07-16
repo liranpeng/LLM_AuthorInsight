@@ -1,0 +1,26 @@
+Median = 78 ppb
+CTM (Exact)    
+Median = 79 ppb
+0
+10 20 30 40 50 60 70 80 90 100
+−30
+−20
+−10
+0
+10
+20
+30
+40
+Percentile
+MDA8 O 3 (ppb) 
+d)                    EU Summer (JJA)
+ 
+ 
+OBS − Median = 42 ppb
+CTM (NOT Exact) 
+Median =  70 ppb
+CTM (Exact)     
+Median =  71 ppb
+Figure 7. PDFs of surface MDA8 O3 (ppb) for the observations and
+CTM binned at every 5th percentile for years 2005–2006. PDFs of
+the CTM are shown for both independent (NOT Exact) and concur-

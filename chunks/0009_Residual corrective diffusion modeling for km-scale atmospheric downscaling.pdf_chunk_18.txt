@@ -1,0 +1,7 @@
+a Random Forest (RF) and the regression step of CorrDiff (UNet).
+Using the same 12 low-resolution input channels we fit an RF for
+each of the 4 output channels with 100 trees and the default
+hyperparameters. The RF is applied independently at each
+horizontal location similar to a 1 × 1 convolution. While crude, this
+RF provides a simple (and easily tuned) baseline for the
+performance of the UNet. To ensure the best performance for each

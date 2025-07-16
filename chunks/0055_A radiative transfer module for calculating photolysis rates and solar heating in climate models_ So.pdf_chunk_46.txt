@@ -1,0 +1,8 @@
+means, as well as the Mie-derived values for Q, SSA, and g.
+The relative importance of cloud heating in each bin can be
+estimated by multiplying the solar energy by the absorbing
+fraction, SWatt×(1−SSA). One ﬁnds that absorption for bins
+S1–S20 is negligible, that both types of clouds and strato-
+spheric sulfate aerosols have large absorption in bins S25–
+S27, and that ice-water clouds have large absorption per op-
+tical depth in bins S21–S24 while liquid-water clouds do not.

@@ -1,0 +1,8 @@
+CO2 data and focus our efforts on that time series. The chal-
+lenge is to extract the CO2 IAV signal in the 2–5-year period
+range. A simple 12-month running mean is great for remov-
+ing the annual cycle but leaves the large-amplitude decadal
+periods (blue dashed line in Fig. 1c). I select bandpass ﬁlter-
+ing, while recognizing that this method can produce spuri-
+ous results, especially at the edges. After several false starts
+https://doi.org/10.5194/esd-13-703-2022

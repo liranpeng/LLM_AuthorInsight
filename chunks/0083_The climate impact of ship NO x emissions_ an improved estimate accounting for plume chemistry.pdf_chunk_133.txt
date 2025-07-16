@@ -1,0 +1,8 @@
+GEOS-Chem global chemistry transport model, Atmos. Chem.
+Phys., 11, 11707–11722, doi:10.5194/acp-11-11707-2011, 2011.
+Vinken, G. C. M., Boersma, K. F., van Donkelaar, A., and Zhang,
+L.: Constraints on ship NOx emissions in Europe using GEOS-
+Chem and OMI satellite NO2 observations, Atmos. Chem. Phys.,
+14, 1353–1369, doi:10.5194/acp-14-1353-2014, 2014.
+von Glasow, R., Lawrence, M. G., Sander, R., and Crutzen, P. J.:
+Modeling the chemical effects of ship exhaust in the cloud-

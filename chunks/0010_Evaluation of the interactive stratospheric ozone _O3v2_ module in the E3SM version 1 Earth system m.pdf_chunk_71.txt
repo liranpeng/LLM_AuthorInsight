@@ -1,0 +1,8 @@
+mean ozone ﬂux based on proxy relationships with other
+trace gases, and this approach gives us a broad range of
+400–600 Tg O3 yr−1 (Murphy and Fahey, 1994; McLinden et
+al., 2000; Olsen et al., 2001, 2004; Hsu et al., 2005). Unfor-
+tunately, using satellite data to resolve the STE ozone ﬂux is
+difﬁcult. For example, Hsu et al. (2005) identiﬁed a large ap-
+parently isolated column ozone anomaly (1.7 Tg O3) as seen
+by satellite during an STE event in the eastern Paciﬁc; the

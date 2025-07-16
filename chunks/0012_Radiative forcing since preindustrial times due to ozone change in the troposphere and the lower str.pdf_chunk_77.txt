@@ -1,0 +1,12 @@
+sented elsewhere.
+al., 1992). Finally, CHASER used HadSST data for its prein-
+dustrial and present runs.
+With respect to stratospheric change since 1850, the mod-
+els can be divided into four groups related to the different
+model set-ups described in the previous section.
+Models
+with detailed stratospheric chemistry (ULAQ, DLR E39C,
+NCAR MACCM, and UIO CTM2) let the stratosphere re-
+spond freely to changing ozone precursors and ozone de-
+pleting substances.
+Simpliﬁed calculations were used

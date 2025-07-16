@@ -1,0 +1,5 @@
+Cloud-J v7.3, single-column,
+Briegleb averaging
+Cloud data include cloud fraction (CF), in-cloud ice/liquid water path and effective radius, or in-cloud ice/liquid optical depth (OD in the visible).
+a Fast-J versions here are based on Bian and Prather (2002) with updates, including standard tables for cloud optical properties and simpliﬁed estimate of effective radius. Cloud
+C1 refers to Deirmendjian liquid cloud size distribution from the Fast-J data tables (Wild et al., 2000).

@@ -1,0 +1,8 @@
+Revised: 31 July 2015 – Accepted: 5 August 2015 – Published: 14 August 2015
+Abstract. A new approach for modeling photolysis rates
+(J values) in atmospheres with fractional cloud cover has
+been developed and is implemented as Cloud-J – a multi-
+scattering eight-stream radiative transfer model for solar ra-
+diation based on Fast-J. Using observations of the vertical
+correlation of cloud layers, Cloud-J 7.3c provides a practi-
+cal and accurate method for modeling atmospheric chem-

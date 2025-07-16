@@ -1,0 +1,8 @@
+in each model layer. The “% clear” is the sum of fractions (%) with
+log10(total COD) < −0.5; and the “< log(OD)>” is the average of
+log10(total COD) > −0.5. The cloud ﬁelds come from the ECMWF
+IFS cycle 38 system run at T159L60N160 resolution. On average
+the number of ICAs per cell in the tropical block is about 170, al-
+though individual cells may have > 1000. In spite of the high, 40–
+60 % fraction of clear columns, the quadrature-averaged J values
+usually include some cloudy fraction.

@@ -1,0 +1,7 @@
+of the global burned area64,65.
+(c) Indirect emissions from anthropogenic nitrogen additions. Data 
+were obtained from various sources and considered as nitrogen depo-
+sition on land and ocean (‘Nitrogen deposition on land’ and ‘Nitrogen 
+deposition on ocean’), as well as the nitrogen leaching and runoff from 
+upstream (‘Inland and coastal waters’). The emission from ‘Nitrogen 
+deposition on ocean’ was provided in ref. 67, whereas emission from

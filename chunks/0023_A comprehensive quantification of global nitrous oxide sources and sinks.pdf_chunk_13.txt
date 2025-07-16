@@ -1,0 +1,7 @@
+flux measurements, nutrient budget modelling and process-based 
+modelling for land and ocean fluxes. The top-down approaches com-
+bine measurements of N2O mole fractions with atmospheric transport 
+models in statistical optimization frameworks (inversions) to constrain 
+the sources. Here we constructed a total of 43 flux estimates, includ-
+ing 30 using bottom-up approaches, 5 using top-down approaches, 
+and 8 other estimates using observation and modelling approaches

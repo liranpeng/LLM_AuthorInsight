@@ -1,0 +1,8 @@
+these, forcing efﬁciencies may be established to be used for
+the interpretation of transient simulations.
+Characterising the atmospheric forcing in transient sim-
+ulations of a fully coupled model poses problems, because
+the climate system response alters cloud cover, lapse rates,
+and even cryosphere and land surface properties. To ﬁrst or-
+der and for most components atmospheric forcing is propor-
+tional to the amount of the species perturbing the pristine

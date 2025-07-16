@@ -1,0 +1,8 @@
+lution 1λ0. Then for other resolutions the hyperviscosity co-
+efﬁcient is calculated similarly to Eq. (A2). Note that ν is not
+tuned for every single simulation in this study. In more de-
+tail, after p is deﬁned, we specify scaling η and whether the
+shape-preserving limiter is used. For the reasons explained
+below (Sect. A8.1), if the limiter is off, we set η = p + 1.
+Limited simulations are conﬁgured with η = 3.0 for p = 3
+and η = 4.0 for p = 6. Next, the best ν0 is chosen for one

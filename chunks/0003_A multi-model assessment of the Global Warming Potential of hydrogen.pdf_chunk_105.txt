@@ -1,0 +1,6 @@
+land model (each land type separately).
+UCI CTM. UCI CTM57 is a ﬂexible global chemistry-transport model that is closely
+related to the OsloCTM. Presently, it uses ECMWF Integrated Forecast System
+meteorology in the native T159L60N80 grid (~1.1°). The tropospheric chemistry is
+moderate, with about 30 species, and the stratospheric chemistry uses a 5-species
+(O3, NOy, N2O, CH4, H2O) linearized chemistry. The control run is simulated with

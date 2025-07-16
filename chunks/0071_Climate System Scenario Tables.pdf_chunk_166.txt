@@ -1,0 +1,37 @@
+RCP& emissions and uncertainties tabulated above. For RCP& the PI, year 2011 and year 2010 values are based on observations. RCP models used slightly different PI abundances than recommended 
+here (Table AII.1.1, Chapter 2).
+1423
+Climate System Scenario Tables	
+Annex II
+AII
+Table AII.4.3 |  N2O abundance (ppb)
+Year
+RCP2.6
+RCP4.5
+RCP6.0
+RCP8.5
+A2
+B1
+IS92a
+RCP2.6&
+RCP4.5&
+RCP6.0&
+RCP8.5&
+PI
+272
+272
+272
+272
+270 ± 7
+270 ± 7
+270 ± 7
+270 ± 7
+2011obs
+324 ± 1
+324 ± 1
+324 ± 1
+324 ± 1
+2000
+316
+316
+316

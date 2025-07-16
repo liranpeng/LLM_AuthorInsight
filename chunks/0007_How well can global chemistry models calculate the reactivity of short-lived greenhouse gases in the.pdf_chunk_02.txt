@@ -1,0 +1,8 @@
+6Atmospheric Chemistry, Observations and Modeling Laboratory, National Center for
+Atmospheric Research, Boulder, CO 80301, USA
+Correspondence: Michael J. Prather (mprather@uci.edu)
+Received: 20 December 2017 – Discussion started: 5 February 2018
+Revised: 11 April 2018 – Accepted: 19 April 2018 – Published: 7 May 2018
+Abstract. We develop a new protocol for merging in situ
+measurements with 3-D model simulations of atmospheric
+chemistry with the goal of integrating these data to identify

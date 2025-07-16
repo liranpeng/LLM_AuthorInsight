@@ -1,0 +1,6 @@
+relative to the mid-troposphere, and this can be traced to lower NOx levels than observed. Attaching photochem-
+ical reactivities to measurements of chemical species allows for a richer, yet more constrained-to-what-matters,
+set of metrics for model evaluation. This paper presents a corrected version of the paper published under the
+same authors and title (sans “corrected”) as https://doi.org/10.5194/acp-21-13729-2021.
+Preface
+While continuing our analysis of the NASA Atmospheric To-

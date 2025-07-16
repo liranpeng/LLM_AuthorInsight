@@ -1,0 +1,8 @@
+ing, the quasi-boomerang has a strong central line with a neg-
+ative slope. With P-O3, a much broader range is seen and the
+peak occurrence shifts to lower HOOH values and somewhat
+even to lower NOx values. With L-CH4, the line disappears
+and a galaxy-like pattern widens the range of parcels, picking
+up lower NOx values in two spiral arms. The L-O3 weighting
+is similar to L-CH4, and differences are discernable only in
+small features. Clearly, species other than NOx and HOOH

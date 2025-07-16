@@ -1,0 +1,5 @@
+N2O driven only by stratospheric loss. The comparison with observations is limited here, as we did not 
+model surface emissions, and we rely on comparisons with the more extensive study of the annual N2O 
+cycle by Nevison et al. (2004). We conclude in Section 5 with a discussion of how this work can provide an 
+innovative model-measurement STE test.
+The overall goal of developing more accurate quantification of STE here is to derive a best estimate of the

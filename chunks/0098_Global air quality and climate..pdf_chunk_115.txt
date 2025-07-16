@@ -1,0 +1,9 @@
+sources and sinks from the biosphere. These CMIP5/ACCMIP
+results are a ﬁrst overview; further analysis is in progress.
+4.1
+Ozone
+Projected changes in surface O3 for the near-term (2030 and
+2050) due to changes solely in climate or solely in emissions of O3
+precursors show some general patterns across the globe (Fig. 3).
+The largest surface O3 changes under the recently developed
+RCP (2.6, 4.5, 6.0, and 8.5) emission pathways are much smaller

@@ -1,0 +1,9 @@
+chemically driven changes in lifetime.
+There is an additional oddity in this analysis. We ﬁnd
+that the production of NO (+3.9 %/decade) is increasing
+more quickly than the burden (+2.9 %/decade) but not as
+quickly as N2O loss (+5.0 %/decade), although the uncer-
+tainties overlap. This is expected because NO production
+peaks lower in the stratosphere and the rapid increase in loss
+above 10 hPa (∼32 km) produces proportionally much less
+NO (see P2015, Fig. 1). Reduced NO production relative to

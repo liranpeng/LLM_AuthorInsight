@@ -1,0 +1,10 @@
+Weather sensors
+Airmar 120WX weather station measuring wind velocity, air temperature (measurement height 1.5 m)
+Weather sensors
+Rotronic HC2A-S3, Rotronic MP402H 082000, and Rotronic AC1003 measuring air temperature and
+humidity (measurement height 1 m)
+Ocean state
+Valeport miniCTD measuring sea surface temperature and conductivity (mounted through Caravela’s
+hull, measurement depth 0.2 m)
+Acoustic Doppler current
+proﬁler

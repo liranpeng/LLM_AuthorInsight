@@ -1,0 +1,8 @@
+876–888, 2005.
+Nair, R. D., Choi, H. W., and Tufo, H. M.: Computational aspects
+of a scalable high-order discontinuous Galerkin atmospheric dy-
+namical core, Comput. Fluids, 38, 309–319, 2009.
+Neale, R. B., Chen, C.-C., Gettelman, A., Lauritzen, P. H., Park,
+S., Williamson, D. L., Conley, A. J., Garcia, R., Kinnison, D.,
+Lamarque, J.-F., Marsh, D., Mills, M., Smith, A. K., Tilmes, S.,
+Vitt, F., Cameron-Smith, P., Collins, W. D., Iacono, M. J., Easter,

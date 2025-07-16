@@ -1,0 +1,7 @@
+motivated work in climate services to “downscale” models with
+much reduced (100 km) granularity to a finer scale. Hence the
+phrase “local granularity, globally” emphasizes the importance of
+the kilometer scale for impacts, globally; for observations whose
+footprint is often on a local scale, globally; and for how important
+climate processes (ocean eddies, boundary currents, overflows and
+throughflows, orographic effects, and atmospheric convection)

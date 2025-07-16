@@ -1,0 +1,4 @@
+wavelengths, Quarterly Journal of the Royal Meteorological Society, 141, 727–738, https://doi.org/10.1002/qj.2385
+Räisänen, P. (2002). Two-stream approximations revisited: A new improvement and tests with GCM data. Quarterly Journal of the Royal 
+Meteorological Society, 128, 2397–2416. https://doi.org/10.1256/qj.01.161
+Räisänen, P., Barker, H. W., Khairoutdinov, M. F., Li, J., & Randall, D. A. (2004). Stochastic generation of subgrid-scale cloudy columns for

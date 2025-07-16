@@ -1,0 +1,4 @@
+transport of N2O-depleted air to the surface. This work identifies a distinct QBO signal originating from the 
+stratosphere that appears in both observed and modeled surface N2O. These results are a 20-year follow-on 
+to the Hamilton and Fan (2000) original work that showed a QBO-forced signal in surface N2O but lacked 
+the satellite data, surface observations, and modern CTM capabilities to confirm it. If we use the QBO signal

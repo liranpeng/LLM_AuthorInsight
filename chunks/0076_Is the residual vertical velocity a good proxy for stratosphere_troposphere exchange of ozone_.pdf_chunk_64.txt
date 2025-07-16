@@ -1,0 +1,43 @@
+HSU AND PRATHER
+©2014. American Geophysical Union. All Rights Reserved.
+6
+Geophysical Research Letters
+10.1002/2014GL061994
+Table 1. Net Stratosphere-Troposphere Exchange (STE) of O3 by Hemisphere (Tg/yr) Calculated Using a Variety of Diagnostic Methods Within a Chemistry-Transport Model Simulationa
+NH Cycle 29
+NH Cycle 36
+SH Cycle29
+SH Cycle 36
+Methodology
+Flux
+S-
+IA-
+IA-r
+Flux
+S-
+IA-
+IA-r
+Flux
+S-
+IA-
+IA-r
+Flux
+S-
+IA-
+IA-r
+TC e90-tropopause
+301
+153
+22
+1.00
+239
+115
+7
+1.00
+233
+95
+11
+1.0
+198
+86
+9

@@ -1,0 +1,9 @@
+is not dominating, we indeed see that the shape-preserving
+schemes produce range-preserving unmixing.
+Quantiﬁcation of mixing
+The quantiﬁcation of mixing, ℓi, i = “r”, “u”, “o”, is de-
+picted in Fig. 15 using a histogram. The purpose of this
+ﬁgure is to show how ℓi varies among schemes at the res-
+olutions 1.5◦and 0.75◦as well as to observe how shape-
+preserving ﬁlters affect ℓi for each individual scheme. The
+histogram is ordered according to “minimal” resolution 1λm

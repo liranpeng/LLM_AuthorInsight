@@ -1,0 +1,8 @@
+reactions in the upper troposphere where thermal decompo-
+sition in inconsequential. It is possible that some of the high
+concentrations of HNO4 and PAN in the lower troposphere
+are real and that we are missing this large source of NOx
+with the RDS∗protocol, but there are no obvious sources of
+these species in the remote oceanic regions that would pro-
+duce enough to match the thermal loss. Both this problem
+and its solution do not affect the initial NOx. This revised

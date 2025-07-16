@@ -1,0 +1,11 @@
+we discuss the current range in modeling cloud effects and
+how new observational constraints can be developed and
+used to build better models.
+2
+Measuring and modeling J values under realistic
+cloudy skies
+Here, we focus on two J values: O3 + hv →O2 + O(1D)
+designated J-O1D and NO2 + hv →NO + O(3P) designated
+J-NO2. These J values are the most important in driving
+the reactive chemistry of the lower atmosphere, and each
+emphasizes a different wavelength region with response to

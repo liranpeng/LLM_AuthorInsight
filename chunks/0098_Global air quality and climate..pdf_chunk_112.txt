@@ -1,0 +1,8 @@
+gases and short-lived pollutants. We consider here projections
+for regional air quality driven by changes in climate and
+anthropogenic emissions, both separately (Fig. 3 and 4) and
+combined (Fig. 5 and 6). We focus on the multi-model surface
+O3 and PM estimates based on the RCP scenarios:16–22 the
+transient climate simulations with interactive chemistry con-
+ducted by several CCMs in support of the Fifth phase of the
+Coupled Model Intercomparison Project (CMIP5;289 lines and

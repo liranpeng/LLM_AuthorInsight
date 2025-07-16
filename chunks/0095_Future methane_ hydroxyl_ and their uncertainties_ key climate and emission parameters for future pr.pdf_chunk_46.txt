@@ -1,0 +1,13 @@
+ties are smoothed with a 12-month running average. Note anomalies
+in τCH4×OH and decay rate have opposite sign.
+For each network, we calculate decay rates of MCF
+from monthly average concentrations provided by each
+network
+(NOAA:
+ftp://ftp.cmdl.noaa.gov/hats/solvents/
+CH3CCl3/ﬂasks/GCMS/CH3CCL3 GCMS ﬂask.txt,
+last
+access: 6 August 2012; AGAGE: http://agage.eas.gatech.
+edu/data archive/agage/gc-md/monthly/, last access: 4 April
+2012). For site i and month t the observed decay rate (yr−1)
+is

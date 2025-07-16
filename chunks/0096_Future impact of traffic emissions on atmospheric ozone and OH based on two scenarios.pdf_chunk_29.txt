@@ -1,0 +1,10 @@
+zontal resolution and 31 vertical layers were used for
+the simulations.
+3. OsloCTM2 (Gauss et al., 2003a; Søvde et al., 2008) was
+operated by the University of Oslo and set up with both
+tropospheric and stratospheric chemistry, T42 horizon-
+tal resolution, and 60 vertical layers.
+4. The CCM model LMDz-INCA (Hauglustaine et al.,
+2004; Folberth et al., 2006) was operated by LSCE with
+a horizontal resolution of 3.75◦× 2.5◦and 19 vertical
+layers.

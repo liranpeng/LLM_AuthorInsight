@@ -1,0 +1,10 @@
+Salcedo, 2017), beyond the scope here.
+4.2
+Sensitivity of rlnJ to small cloud optical depth
+To relate total COD to a shift in rlnJ, the UCI off-line pho-
+tolysis module Cloud-J was run for marine stratus (CF = 1)
+with a range of total CODs from 0.01 to 100. The cloud
+was located at about 900 hPa and rlnJ evaluated at 300 hPa.
+The plot of rlnJ vs. log COD for a range of SZAs is shown
+in Fig. S8. A 10 % enhancement (rlnJ = +0.10) occurs at
+COD = 5 for J-O1D and COD = 3 for J-NO2, demonstrat-

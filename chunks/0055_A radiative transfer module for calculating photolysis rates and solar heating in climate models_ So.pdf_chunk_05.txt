@@ -1,0 +1,8 @@
+scattering. Discrepancies with the cirrus cloud using any of
+RRTMG-SW’s three different parameterizations are as large
+as about 20–40 % depending on the solar zenith angles and
+occur throughout the atmosphere.
+Effectively, Solar-J has combined the best components of
+RRTMG-SW and Cloud-J to build a high-ﬁdelity module for
+the scattering and absorption of sunlight in the Earth’s at-
+mosphere, for which the three major components – wave-

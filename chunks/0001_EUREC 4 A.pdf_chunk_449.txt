@@ -1,0 +1,8 @@
+properties and origin, Atmos. Chem. Phys., 16, 14107–14130,
+https://doi.org/10.5194/acp-16-14107-2016, 2016.
+Wirth, M., Fix, A., Mahnke, P., Schwarzer, H., Schrandt, F., and
+Ehret, G.: The airborne multi-wavelength water vapor differen-
+tial absorption lidar WALES: system design and performance,
+Appl. Phys. B, 96, 201–213, 2009.
+Wulfmeyer, V., Turner, D. D., Baker, B., Banta, R., Behrendt, A.,
+Bonin, T., Brewer, W. A., Buban, M., Choukulkar, A., Dumas, E.,

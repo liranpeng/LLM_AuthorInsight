@@ -1,0 +1,8 @@
+elled aerosol vertical distribution. To obtain an extensive
+validation dataset, we choose the 2012 summer ﬁeld cam-
+paign of TRAQA (TRAnsport à longue distance et Qual-
+ité de l’Air dans le bassin méditerranéen) and centre our
+modelling on the western Mediterranean basin. The TRAQA
+campaign was a pre-ChArMEx (CHemistry and AeRosol
+MEditerranean EXperiment) experiment with the objective
+to characterize the air quality in the western Mediterranean

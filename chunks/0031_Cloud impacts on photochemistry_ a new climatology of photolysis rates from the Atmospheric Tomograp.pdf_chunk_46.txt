@@ -1,0 +1,8 @@
+blocks, the global model data are archived with this paper.
+A quick look at J-cloudy (all sky) proﬁles of J-O1D
+and J-NO2 for CAFS (Fig. S2) shows a basic pattern also
+seen in models. Both Js are larger in the upper troposphere
+where the direct sunlight is more intense, but in the North
+Paciﬁc, larger cloud cover and more scattered light almost
+reverses this pattern with enhanced Js at lower altitudes
+(> 600 hPa). Comparing the variances of J-cloudy (CAFS)

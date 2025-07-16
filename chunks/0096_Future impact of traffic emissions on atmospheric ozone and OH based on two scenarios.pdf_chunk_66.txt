@@ -1,0 +1,11 @@
+5.32 (± 0.56)
+0.331 (± 0.11)
+3.3
+Methane lifetime
+Relative changes in methane lifetime due to reaction with
+OH are presented in Table 3 (see Table A1 for results from
+individual models) for perturbations in each transport sec-
+tor and each year. Monthly mean CH4 and OH ﬁelds were
+used for the calculation, and the resulting lifetime changes
+were scaled from a 5 % perturbation to a 100 % perturba-
+tion by multiplying with a factor of 20 (Grewe et al., 2010).

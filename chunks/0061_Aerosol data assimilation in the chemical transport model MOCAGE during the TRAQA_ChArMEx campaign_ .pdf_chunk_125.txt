@@ -1,0 +1,8 @@
+trajectory. However, the proﬁle shape also evolves consid-
+erably: at different moments the plume maxima are shifting
+their peak heights, and the different layers are changing their
+relative densities. The change of the proﬁle shape is visible
+on a large part of the plume trajectory, which means that this
+can be an important feature of a multi-day AOD assimilation.
+There are different effects that the assimilation can have
+on the proﬁle shape. While following the plume based on the

@@ -1,0 +1,9 @@
+doi:10.5194/bg-9-527-2012, 2012.
+Kanakidou, M., Seinfeld, J. H., Pandis, S. N., Barnes, I., Dentener,
+F. J., Facchini, M. C., Van Dingenen, R., Ervens, B., Nenes, A.,
+Nielsen, C. J., Swietlicki, E., Putaud, J. P., Balkanski, Y., Fuzzi,
+S., Horth, J., Moortgat, G. K., Winterhalter, R., Myhre, C. E.
+L., Tsigaridis, K., Vignati, E., Stephanou, E. G., and Wilson,
+J.: Organic aerosol and global climate modelling: a review, At-
+mos. Chem. Phys., 5, 1053–1123, doi:10.5194/acp-5-1053-2005,
+2005.

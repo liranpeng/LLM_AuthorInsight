@@ -1,0 +1,8 @@
+cations, Concurr. Comp.-Pract. E., 18, 231–245, 2006.
+Cai, Y., Snider, J. R., and Wechsler, P.: Calibration of the pas-
+sive cavity aerosol spectrometer probe for airborne determina-
+tion of the size distribution, Atmos. Meas. Tech., 6, 2349–2358,
+doi:10.5194/amt-6-2349-2013, 2013.
+Collins, W. D., Rasch, P. J., Eaton, B. E., Khattatov, B. V., Lamar-
+que, J.-F., and Zender, C. S.: Simulating aerosols using a chem-
+ical transport model with assimilation of satellite aerosol re-

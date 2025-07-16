@@ -1,0 +1,8 @@
+doi:10.5194/gmd-9-1937-2016, 2016a.
+Eyring, V., Righi, M., Lauer, A., Evaldsson, M., Wenzel, S., Jones,
+C., Anav, A., Andrews, O., Cionni, I., Davin, E. L., Deser, C.,
+Ehbrecht, C., Friedlingstein, P., Gleckler, P., Gottschaldt, K.-D.,
+Hagemann, S., Juckes, M., Kindermann, S., Krasting, J., Kunert,
+D., Levine, R., Loew, A., Mäkelä, J., Martin, G., Mason, E.,
+Phillips, A. S., Read, S., Rio, C., Roehrig, R., Senftleben, D.,
+Sterl, A., van Ulft, L. H., Walton, J., Wang, S., and Williams,

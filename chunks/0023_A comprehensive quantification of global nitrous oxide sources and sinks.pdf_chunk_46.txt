@@ -1,0 +1,81 @@
+−0.6
+1.1
+Anthropogenic total
+5.6
+3.6
+8.7
+6.2
+3.9
+9.7
+6.7
+4.1
+10.3
+7.3
+4.2
+11.4
+Natural fluxes
+Natural soils baseline
+5.6
+4.9
+6.6
+5.6
+4.9
+6.5
+5.6
+5.0
+6.5
+5.6
+4.9
+6.5
+Ocean baseline
+3.6
+3.0
+4.4
+3.5
+2.8
+4.4
+3.5
+2.7
+4.3
+3.4
+2.5
+4.3
+Natural (inland waters, estuaries, coastal zones)
+0.3
+0.3
+0.4
+0.3
+0.3
+0.4
+0.3
+0.3
+0.4
+0.3
+0.3
+0.4
+Lightning and atmospheric production
+0.4
+0.2
+1.2
+0.4
+0.2
+1.2
+0.4
+0.2
+1.2
+0.4
+0.2
+1.2
+Surface sink
+−0.01
+0.00
+−0.3
+−0.01
+0.00
+−0.3
+−0.01
+0.00
+−0.3
+−0.01
+0.00
+−0.3

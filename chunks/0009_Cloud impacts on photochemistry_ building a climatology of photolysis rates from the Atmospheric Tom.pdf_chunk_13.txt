@@ -1,0 +1,8 @@
+3-D world, a sunlit adjacent cloud that is not overhead can
+increase J values. It is nigh impossible to specify the 3-D
+cloud ﬁelds at ∼1 km scale along the ATom ﬂight paths or
+any similar mission: 3-D high-resolution cloud ﬁelds on this
+are available, but these are limited to CloudSat–CALIPSO
+afternoon overpasses extended to 200 km wide swaths (see
+Barker et al., 2011; Miller et al., 2014). Anyway, none of
+the standard global models can deal with such a 3-D radia-

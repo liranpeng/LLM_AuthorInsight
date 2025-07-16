@@ -1,0 +1,8 @@
+Munro, D. R., Nabel, J. E. M. S., Nakaoka, S., O’Brien, K.,
+Olsen, A., Omar, A. M., Ono, T., Pierrot, D., Poulter, B., Rö-
+denbeck, C., Salisbury, J., Schuster, U., Schwinger, J., Séférian,
+R., Skjelvan, I., Stocker, B. D., Sutton, A. J., Takahashi, T., Tian,
+H., Tilbrook, B., van der Laan-Luijkx, I. T., van der Werf, G.
+R., Viovy, N., Walker, A. P., Wiltshire, A. J., and Zaehle, S.:
+Global Carbon Budget 2016, Earth Syst. Sci. Data, 8, 605–649,
+https://doi.org/10.5194/essd-8-605-2016, 2016.

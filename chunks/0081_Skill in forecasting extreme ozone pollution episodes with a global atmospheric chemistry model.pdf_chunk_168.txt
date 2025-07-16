@@ -1,0 +1,9 @@
+of extreme precipitation return levels, J. Am. Stat. Assoc., 102,
+824–840, doi:10.1198/016214506000000780, 2007.
+Cressie, N. A. C.: Statistics for spatial data, J. Wiley, New York,
+1993.
+Dawson, J. P., Racherla, P. N., Lynn, B. H., Adams, P. J., and Pan-
+dis, S. N.: Simulating present-day and future air quality as cli-
+mate changes: model evaluation, Atmos. Environ., 42, 4551–
+4566, doi:10.1016/j.atmosenv.2008.01.058, 2008.
+Dennis, R., Fox, T., Fuentes, M., Gilliland, A., Hanna, S., Hogrefe,

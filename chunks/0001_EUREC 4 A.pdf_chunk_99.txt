@@ -1,0 +1,10 @@
+sketch of the campaign as a whole. Additional details de-
+scribing the activities of speciﬁc platforms, or groups of plat-
+forms, are being described in complementary data papers,
+and a full listing of the deployed instrumentation is presented
+in Appendix B.
+3.1
+Testing hypothesized cloud-feedback mechanisms
+As described by Bony et al. (2017), EUREC4A was con-
+ceived as a way to test the hypothesis that enhanced mix-
+ing of the lower troposphere desiccates clouds at their base,

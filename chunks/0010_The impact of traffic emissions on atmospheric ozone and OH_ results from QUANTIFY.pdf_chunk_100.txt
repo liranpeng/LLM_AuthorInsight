@@ -1,0 +1,68 @@
+occur at different locations resulting in different orders between the transportation sectors).
+global
+1000–800 hPa
+300–200 hPa
+MEAN
+σ
+%
+scaled
+MEAN
+σ
+%
+scaled
+ROAD
+−43.5
+11.0
+−0.14
+−2.89
+−58.5
+15.0
+−0.047
+−0.95
+SHIP
+−60.0
+13.0
+−0.20
+−3.99
+−56.0
+10.5
+−0.045
+−0.91
+AIR
+−15.0
+3.5
+−0.05
+−1.0
+−44.5
+23.0
+−0.036
+−0.72
+ALL
+−118.5
+22.0
+−0.39
+−7.9
+−160.
+28.5
+−0.13
+−2.61
+30◦–60◦N
+1000–800 hPa
+300–200 hPa
+ROAD, mean
+−77
+20
+−0.18
+−3.66
+−89.5
+21.0
+−0.075
+−1.5
+SHIP, mean
+−83.5
+18
+−0.22
+−4.47
+−61.0
+11.5
+−0.05

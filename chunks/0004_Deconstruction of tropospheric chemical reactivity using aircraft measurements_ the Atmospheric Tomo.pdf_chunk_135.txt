@@ -1,0 +1,9 @@
+achieve equal sampling with altitude and latitude. Flags 4, 5,
+and 6 are more worrisome as these long-gap or missing-ﬂight
+methods cannot be evaluated for accuracy. In MDS v3, the
+chemical species with > 10 % of parcels with ﬂags 4, 5, and6
+are HNO4, CH3OOH, C2H6, alkanes, C2H4, alkenes, C2H2,
+all alkyl nitrates, and SF6. Fortunately, the only one of these
+https://doi.org/10.5194/essd-15-3299-2023
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+3326

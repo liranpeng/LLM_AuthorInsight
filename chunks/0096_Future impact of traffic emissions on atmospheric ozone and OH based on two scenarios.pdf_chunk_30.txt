@@ -1,0 +1,10 @@
+layers.
+5. The UCI CTM (Wild et al., 2003; Hsu et al., 2005) was
+implemented by the University of California, and run
+with T42 horizontal resolution and 40 vertical layers.
+The model includes both tropospheric and stratospheric
+chemistry – the latter being calculated using a linearized
+ozone scheme (Linoz).
+6. MOCAGE (Teyss`edre et al., 2007) was operated by
+M´et´eo-France and used at a resolution of T21 hori-
+zontally, and 60 vertical layers. Both tropospheric and

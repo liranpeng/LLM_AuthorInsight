@@ -1,0 +1,8 @@
+and the availability of the MODIS observations for each day
+of the ﬂight. The data availability helps to understand the
+most recent impact of the observations in the model, but one
+should carefully regard it since it does not reﬂect the inﬂu-
+ence of the assimilated observations during the days prior to
+the ﬂights.
+During ﬂight A (Fig. 8a), aerosol concentrations are rather
+low, except for the anthropogenic pollution around Toulouse

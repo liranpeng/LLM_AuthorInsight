@@ -1,0 +1,6 @@
+average decay rate (dashed gray line) is labeled in percentage on the right axis.
+Note that a 5% anomaly sustained for 1 y would cause a 10 ppb change in CH4.
+aDepartment of Earth System Science, University of California, Irvine, CA 92697; and bDepartment of Earth, Ocean and Atmospheric Science,
+Florida State University, Tallahassee, FL 32306
+Author contributions: M.J.P. designed research; and M.J.P. and C.D.H. wrote the paper.
+The authors declare no conflict of interest.

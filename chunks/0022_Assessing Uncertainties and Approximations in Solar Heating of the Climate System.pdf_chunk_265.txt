@@ -1,0 +1,9 @@
+open IFS cycle 38r1 run at T159N80L60 using the native Gaussian grid for atmospheric 
+physics (about 1.1° horizontal with 60 layers).  We take the archived 3-hour averages of 
+the atmospheric column data: pressure on the layer edges; temperature, water vapor, 
+cloud fraction, cloud liquid water content, cloud ice water content in each layer.  A 
+ 
+ 
+2 
+ 
+standard ozone climatology is used.  Cloud effective radii (liquid and ice) and scattering

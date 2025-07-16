@@ -1,0 +1,8 @@
+important at 100–200 hPa in the tropics, can be ignored. How
+reactivities can be calculated for an air parcel, is found in
+P2017 and the Supplement to this paper.
+From the early model and measurement assessments that
+were initiated to support the stratospheric ozone assessments
+(NAP, 1984; NASA, 1993), through to the most recent multi-
+model evaluations of atmospheric chemistry to be used in
+upcoming climate assessments (Eyring et al., 2006; Collins

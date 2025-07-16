@@ -1,0 +1,5 @@
+tropopause with a 3 month delay and collecting the O3 ﬂuxes every time step across 100 hPa or similar layer
+will capture the lagged hemispheric cross-tropopause O3 ﬂux.
+In a more stagnant stratosphere (C36) the coupling is not as strong and is mostly lost in the irregular buﬀer-
+ing capacity of the lowermost stratospheric air mass. To understand this, one can look at the components
+of the O3 budget in the LS method (see Figure 1j). Note that the 100 hPa ﬂux for the LS domain is calcu-

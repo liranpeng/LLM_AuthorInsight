@@ -1,0 +1,6 @@
+precipitation structures.
+More recent regional observational and modeling studies have also focused on the MBL 
+cloud, aerosol, and precipitation structures within the MBL in the cloud regimes associated 
+with the transition. During the VAMOS Ocean-Cloud-Atmosphere-Land Study Regional 
+Experiment (VOCALS-REx, 2008) a comprehensive study was made of the aerosol-cloud-
+and precipitation properties of stratocumulus clouds in the southeastern Pacific (Wood et al.,

@@ -1,0 +1,6 @@
+which represents the maximal effect throughout the year.
+When examining the seasonal distribution of the ER for 2025
+and 2050 simulated using the A1B emission estimates (not shown),
+the strong mitigation practices associated with NTS emissions for
+both Europe and the USA means that ER values typically reach
+between 0.7 and 1.1 (i.e.) somewhat lower than the maximal values

@@ -1,0 +1,8 @@
+made efforts to assimilate aerosols in the models. These
+efforts are mainly focused on assimilating satellite data,
+usually aerosol optical depth (AOD), since satellites pro-
+vide continuous aerosol observations on the global scale
+and yield a large number of individual observations, which
+is desirable for assimilation systems. Many studies have
+used variational data assimilation techniques. For exam-
+ple, a 3-D-VAR system for assimilating AOD data was

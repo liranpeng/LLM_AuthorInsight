@@ -1,0 +1,1 @@
+wall-clock time compared to EAMv3, highlighting its potential as a powerful and efficient tool for tackling other computationally intensive problems in climate science.

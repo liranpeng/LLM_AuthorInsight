@@ -1,0 +1,41 @@
+2-D probability distributions for O3 vs. H2O as weighted by air mass. This color-bar scale differs slightly from other 2-D plots. See (a).
+www.atmos-chem-phys.net/17/9081/2017/
+Atmos. Chem. Phys., 17, 9081–9102, 2017
+9094
+M. J. Prather et al.: Global atmospheric chemistry – which air matters
+HOOH (ppb)
+0.01
+0.1
+1
+10
+HOOH (ppb)
+0.01
+0.1
+1
+10
+NOx (ppt)
+0.1
+1
+10
+100
+1000
+NOx (ppt)
+0.1
+1
+10
+100
+1000
+0
+1
+2
+3
+4
+0
+1
+2
+3
+4
+wrt AIR
+P-O3   0.71 ppb d-1
+L-CH4   0.84 ppb d-1
+L-O3   1.81 ppb d-1

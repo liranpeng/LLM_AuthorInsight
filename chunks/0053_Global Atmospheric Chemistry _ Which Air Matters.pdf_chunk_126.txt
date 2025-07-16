@@ -1,0 +1,57 @@
+period 1–31 August shows trends in some domains as the sun moves southward, and this was removed with a line
+ﬁt to calculate the standard deviation over the month. Results for the A-runs (not shown) differ in mean and
+standard deviation by a few percent.
+HOOH (ppb)
+0.01
+0.1
+1
+10
+HOOH (ppb)
+0.01
+0.1
+1
+10
+NOx (ppt)
+0.1
+1
+10
+100
+1000
+0
+1
+2
+3
+4
+NOx (ppt)
+0.1
+1
+10
+100
+1000
+NOx (ppt)
+0.1
+1
+10
+100
+1000
+0
+1
+2
+3
+4
+0
+1
+2
+3
+4
+E
+F
+A
+B
+D
+C
+A = CAM4-Chem
+B = GEOS-Chem
+C = GFDL-AM3
+D = GISS-E2
+E = GMI-CTM

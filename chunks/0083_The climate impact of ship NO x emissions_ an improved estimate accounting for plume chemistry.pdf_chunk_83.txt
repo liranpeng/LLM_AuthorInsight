@@ -1,0 +1,8 @@
+the major axis of variability in the model ensemble, indicat-
+ing global (not ship) inventory differences could contribute
+substantially to the ensemble spread presumably by generat-
+ing background atmospheres with different levels of NOx and
+HOx precursors. The CMIP5 inventory prescribes more CO
+emissions (610 vs. 580 Tg(CO) yr−1) and slightly less NOx
+emissions (27.2 vs. 27.6 Tg(N) yr−1) with large changes in
+their spatial distributions. These emission differences tend to

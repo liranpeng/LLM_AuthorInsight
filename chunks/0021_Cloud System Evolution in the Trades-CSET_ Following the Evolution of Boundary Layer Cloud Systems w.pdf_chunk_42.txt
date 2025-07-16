@@ -1,0 +1,5 @@
+aerosol measurements were made using a Ultra-High Sensitivity Aerosol Spectrometer 
+(UHSAS) that samples particles in the nominal range of 0.06-1.0 microns (but reduced to 
+0.075-1.0 microns for CSET). A Condensation Nuclei (CN) counter gives the total aerosol 
+concentrations greater than a threshold of about 10 nanometers. The cloud particle 
+distributions were measured with a cloud droplet probe (CDP) and the precipitation sized

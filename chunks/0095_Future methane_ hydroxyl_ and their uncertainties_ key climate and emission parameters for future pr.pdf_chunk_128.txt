@@ -1,0 +1,8 @@
+climate and emission components are zero or negative, with
+water vapor having the largest effect (−12.9±3.1 %). Strato-
+spheric ozone and lightning NOx contribute little to τCH4×OH
+changes, but they make a signiﬁcant contribution to the un-
+certainty. MAGICC predicts similar τCH4×OH changes to the
+parametric model because its temperature response is simi-
+lar to the combined effects of temperature and water vapor
+in our work, and sensitivities to the other dominant terms –

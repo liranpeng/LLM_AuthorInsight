@@ -1,0 +1,21 @@
+with undiagnosed hip fractures may well cope at home for a 
+Table 3   Odds of 30-day mortality for delay to surgery from time of admission
+Number in dataframe = 10,659, Number in model = 10,145, Missing = 514, AIC = 4018.1, C-statistic = 0.761, H&L = Chi-sq(8) 9.27 (p = 0.320)
+Dependent: 30-day mortality
+Alive
+Dead
+OR (univariable)
+OR (multivariable)
+Age
+Mean
+81.9 (8.4)
+85.7 (7.8)
+1.062 (1.051–1.074, p < 0.001)
+1.038 (1.026–1.051, p < 0.001)
+Sex
+Male
+2408 (91.4%)
+227 (8.6%)
+–
+–
+Female

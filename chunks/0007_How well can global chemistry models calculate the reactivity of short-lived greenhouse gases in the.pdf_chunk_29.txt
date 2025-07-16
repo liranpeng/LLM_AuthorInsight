@@ -1,0 +1,8 @@
+stream, each model calculates reactivities using the same
+chemical initialization but beginning with 5 different days in
+August: 1, 6, 11, 16, and 21. This 5-day variance gives us a
+measure of the uncertainty due to cloud variability, is similar
+across models, and thus provides a lower limit on the detec-
+tion of model–model differences, i.e., a measure of “as good
+as it gets” in this comparison.
+Several uncertainties are not answered with the standard

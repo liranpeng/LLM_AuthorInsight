@@ -1,0 +1,9 @@
+moments, J. Geophys. Res., 91, 6671–6681, 1986.
+Price, C. and Rind, D.: A simple lightning parameterization for
+calculating global lightning distributions, J. Geophys. Res., 97,
+9919–9933, 1992.
+Rogers, H., Teyssedre, H., Pitari, G., Grewe, V., van Velthoven,
+P., and Sundet, J.: Model intercomparison of the transport of
+aircraft-like emissions from sub- and supersonic aircraft, Meteo-
+rol. Z., 151–159, 2002.
+Sausen, R., Isaksen, I., Grewe, V., Schumann, U., Hauglustaine,

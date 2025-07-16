@@ -1,0 +1,8 @@
+and 11) close to the model mean of 11.6 ± 2.8 with the models’
+own soil sinks.
+Our results are derived by perturbing the surface concentration
+of hydrogen. To assess the sensitivity of our results to this setup,
+we also perform emission perturbations using the GFDL and
+OsloCTM models. In GFDL-emi, GFDL has been perturbed with
+200 Tg yr−1 anthropogenic hydrogen emissions, fully coupled for
+50 years (as described in17). We have also run OsloCTM with

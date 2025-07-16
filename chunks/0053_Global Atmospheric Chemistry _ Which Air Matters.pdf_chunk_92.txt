@@ -1,0 +1,8 @@
+ing the chemical budgets in these models and hence the evo-
+lution of the atmosphere.
+Given the number of key species, the joint-probability dis-
+tributions are multidimensional, but for the most part we
+view them in 1-D or 2-D graphs. There is a history of com-
+paring models and measurements using such graphs (Hoor
+et al., 2002; Hsu et al., 2004; Engel et al., 2006; Pan et al.,
+2007; Strahan et al., 2007; Parrington et al., 2013; Gaudel et

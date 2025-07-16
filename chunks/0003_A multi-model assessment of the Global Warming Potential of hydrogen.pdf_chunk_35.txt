@@ -1,0 +1,14 @@
+numbers14,15 which did not consider changes in the stratosphere.
+The GWP100 values for each component are provided in Sup-
+plementary Table 6. In this study we report GWP100 as it is the
+ofﬁcial emission metric for United Nations Framework Con-
+vention on Climate Change (UNFCCC). We have also calculated
+other
+time
+horizons;
+GWP20
+(37.3 ± 15.1)
+and
+GWP500
+(3.31 ± 0.98) (Supplementary Table 8). By reducing short-lived
+climate forcers (SLFCs), such as hydrogen, there is potential to

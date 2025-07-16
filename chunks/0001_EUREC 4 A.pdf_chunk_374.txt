@@ -1,0 +1,16 @@
+Anemometer
+Gill WindSonic two-axis ultrasonic anemometer measuring wind speed at a height of 50 cm
+GPS
+To monitor the current at sea surface
+Table B28. SVP-BRST drifters.
+Instrument
+Brief description
+HRSST thermistor
+Digital high-resolution thermistor measuring seawater temperature at a depth of 15 cm
+Pressure sensor
+Vaisala PTB110 barometer measuring atmospheric pressure at a height of 50 cm
+GPS
+To monitor the current at sea surface
+Table B29. SVP-BSC drifters.
+Instrument
+Brief description

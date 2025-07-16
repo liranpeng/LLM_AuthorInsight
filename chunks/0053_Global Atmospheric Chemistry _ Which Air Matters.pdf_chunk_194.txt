@@ -1,0 +1,9 @@
+10-5191-2010, 2010.
+Kiley, C. M., Fuelberg, H. E., Palmer, P. I., Allen, D. J., Carmichael,
+G. R., Jacob, D. J., Mari, C., Pierce, R. B., Pickering, K. E.,
+Tang, Y. H., Wild, O., Fairlie, T. D., Logan, J. A., Sachse, G. W.,
+Shaack, T. K., and Streets, D. G.: An intercomparison and evalu-
+ation of aircraft-derived and simulated CO from seven chemical
+transport models during the TRACE-P experiment, J. Geophys.
+Res.-Atmos., 108, 8819, https://doi.org/10.1029/2002jd003089,
+2003.

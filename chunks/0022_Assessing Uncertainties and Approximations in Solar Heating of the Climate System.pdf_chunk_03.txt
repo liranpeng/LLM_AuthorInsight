@@ -1,0 +1,4 @@
+certainties within a single climate-relevant framework. Where more accurate physics or numerical solutions 
+are known, we can estimate the error in current RT codes, and where there is fundamental uncertainty, we can 
+estimate the potential for error using different methods for framing the problem.
+The solar heating module Solar-J (Hsu et al., 2017; hence H2017) is embedded in our chemistry-transport

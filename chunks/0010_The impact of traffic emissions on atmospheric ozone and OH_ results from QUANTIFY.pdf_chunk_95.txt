@@ -1,0 +1,9 @@
+face ozone shows a similar zonal and temporal distribution
+as for road.
+Globally the effect of ship emissions on ozone in the
+boundary layer is larger than those from road emissions,
+whereas both are almost equal in the upper troposphere (Ta-
+ble 5). Notably in the upper troposphere aircraft emissions
+do not dominate the annual mean global effect between 200–
+300 hPa. Their inﬂuence is rather concentrated to latitudes
+poleward of 30◦N (see Fig. 6) whereas road and ship trafﬁc

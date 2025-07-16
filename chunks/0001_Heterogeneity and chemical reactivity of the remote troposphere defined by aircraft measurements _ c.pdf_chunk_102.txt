@@ -1,0 +1,7 @@
+cause of differing OH : HO2 ratios with altitude. Large P-O3
+https://doi.org/10.5194/acp-23-99-2023
+Atmos. Chem. Phys., 23, 99–117, 2023
+108
+H. Guo et al.: Heterogeneity and chemical reactivity
+Figure 1. Sorted reactivities (P-O3, L-O3, and L-CH4, in ppb d−1; three successive rows) for the Paciﬁc and Atlantic domains (53◦S–
+60◦N, two columns) of ATom-1. Each parcel is weighted, including cosine (latitude); see text. Results from six models using MDS-0 and

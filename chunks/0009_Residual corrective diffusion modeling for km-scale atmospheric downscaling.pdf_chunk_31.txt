@@ -1,0 +1,7 @@
+Supplementary Section 7 for additional context. The standard
+deviation across our ensemble of 32 generated CorrDiff samples
+(second column from the left) is roughly 20% of the magnitude of
+the ensemble mean (left column). The CorrDiff prediction for an
+arbitrary ensemble member (last sample; 32nd member; third
+column from the left) is useful to compare to the target data (right
+column). However, due to the stochastic nature of the generation,

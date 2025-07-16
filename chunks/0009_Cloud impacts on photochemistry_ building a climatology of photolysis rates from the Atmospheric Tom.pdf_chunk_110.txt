@@ -1,0 +1,9 @@
+peak distributions at rlnJ ∼0 appear to be basically incorrect
+since averages over these model resolutions (> 0.5◦) should
+reduce clear-sky occurrence. There is probably a sweet spot
+in model resolution at about 20 km where the model statis-
+tics, even with 1-D RT, should match the observed statistics.
+4.4
+Ocean surface albedo
+We chose our Paciﬁc blocks for this comparison to avoid
+large aerosol contributions and to be oceanic to avoid large

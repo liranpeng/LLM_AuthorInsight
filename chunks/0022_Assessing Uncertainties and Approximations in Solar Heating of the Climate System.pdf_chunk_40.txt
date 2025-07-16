@@ -1,0 +1,6 @@
+Approximations in the Radiative Transfer Models
+Journal of Advances in Modeling Earth Systems
+3.  Solar-J Spectral Model and Band Resolution
+Practical RT solutions for the complex absorption features of atmospheric gases require selecting a limited 
+number of representative wavelengths or wavelength bands for the calculation. Ideally, one picks as broad 
+a band as possible that has nearly the same attenuation of sunlight across all wavelengths and can be accu-

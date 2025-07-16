@@ -1,0 +1,11 @@
+4.3
+Testing model climatologies
+The ATom data set provides a unique opportunity to test
+CTMs and CCMs in a climatological sense. In this sec-
+tion, we compare ATom-1 data and the six models’ chemical
+statistics for mid-August used in P2017. The ATom proﬁles
+cannot be easily compared point by point with CCMs, and we
+use statistical measures of the three reactivities in the three
+tropical basins: mean proﬁles in Fig. 3 and PDs in Fig. 5.
+4.3.1
+Proﬁles

@@ -1,0 +1,9 @@
+www.atmos-chem-phys.net/17/2709/2017/
+Atmos. Chem. Phys., 17, 2709–2720, 2017
+2720
+G. Myhre et al.: Multi-model simulations of aerosol due to anthropogenic emission changes
+Brokopf, R., Fast, I., Kinne, S., Kornblueh, L., Lohmann, U., Pin-
+cus, R., Reichler, T., and Roeckner, E.: Atmospheric component
+of the MPI-M Earth System Model: ECHAM6, J. Adv. Model.
+Earth Syst., 5, 146–172, 2013.
+Stevenson, D. S., Young, P. J., Naik, V., Lamarque, J.-F., Shindell,

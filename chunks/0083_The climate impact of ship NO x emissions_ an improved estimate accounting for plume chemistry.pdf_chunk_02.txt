@@ -1,0 +1,8 @@
+mates of the chemical impact and radiative forcing (RF) of
+ship NOx have generally assumed that plumes of ship ex-
+haust are instantly diluted into model grid cells spanning
+hundreds of kilometers, even though this is known to produce
+biased results. Here we improve the parametric representa-
+tion of exhaust-gas chemistry developed in the GEOS-Chem
+chemical transport model (CTM) to provide the ﬁrst estimate
+of RF from shipping that accounts for sub-grid-scale ship

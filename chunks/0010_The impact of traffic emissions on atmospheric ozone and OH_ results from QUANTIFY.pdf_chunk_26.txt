@@ -1,0 +1,8 @@
+For further details see Endresen et al. (2007).
+Aircraft emissions are based on the AERO2K dataset (Eyers
+et al., 2004) including the emissions from military aviation.
+The emissions for each transport sector are given in Table 1.
+Non-trafﬁc emissions used in the present modelling exer-
+cise are based on the latest release of the EDGAR32FT2000
+emission inventory (van Aardenne et al., 2005; Olivier
+et al., 2005) including emissions of greenhouse gases and

@@ -1,0 +1,8 @@
+3 and 4 are presented here as core ATom deliverables and are
+now posted on the NASA ESPO ATom website (https://espo.nasa.
+gov/atom/content/ATom, Science team of the NASA Atmospheric
+Tomography Mission, 2021). This publication marks the public
+release of the reactivity calculations for ATom 2, 3 and 4, but
+we have not yet analyzed these data, and thus users should be
+aware and report any anomalous features to the lead authors via
+haog2@uci.edu and mprather@uci.edu. Details of the ATom mis-

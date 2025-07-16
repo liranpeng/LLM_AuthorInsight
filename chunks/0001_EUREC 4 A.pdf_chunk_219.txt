@@ -1,0 +1,10 @@
+the trajectory data for the 59 mobile platforms deployed
+during EUREC4A. Trajectories are described by the latitude
+and longitude (and altitude or depth as applicable) of each
+platform as a function of time. Airborne platforms are seg-
+mented by ﬂight. The data are freely available on the AERIS
+archive (https://doi.org/10.25326/165, Stevens, 2021). The
+EUREC4A ﬁlm is freely available on the AERIS archive
+(https://doi.org/10.25326/224, Lena et al., 2021).
+6
+Conclusions

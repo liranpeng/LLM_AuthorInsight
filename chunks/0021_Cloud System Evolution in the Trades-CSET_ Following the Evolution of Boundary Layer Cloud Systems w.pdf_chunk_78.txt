@@ -1,0 +1,5 @@
+Once in Kona, there would be another mission planning meeting the afternoon between 
+flight days. During this meeting, updated trajectory end points were used to set the flight 
+track back to Sacramento, using 12 UTC day-before-return-flight analysis and forecasts and 
+the outbound flight path. For the RF10 July 27 example shown in Fig 3, the beginning and 
+end points of the 9 trajectories selected for the sampling sequence are shown in Fig. 3b.

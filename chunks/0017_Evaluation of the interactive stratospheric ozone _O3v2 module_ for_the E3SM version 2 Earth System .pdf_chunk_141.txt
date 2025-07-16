@@ -1,0 +1,15 @@
+Geosci. Model Dev., 14, 1219–1236, 2021
+https://doi.org/10.5194/gmd-14-1219-2021
+Q. Tang et al.: Interactive stratospheric ozone (O3v2) in E3SM
+1235
+ity in the troposphere, Atmos. Chem. Phys., 20, 6417–6433,
+https://doi.org/10.5194/acp-20-6417-2020, 2020.
+McLinden, C. A., Olsen, S. C., Hannegan, B., Wild, O.,
+Prather, M. J., and Sundet, J.: Stratospheric ozone in 3-
+D models: A simple chemistry and the cross-tropopause
+ﬂux,
+J.
+Geophys.
+Res.-Atmos.,
+105,
+14653–14665,

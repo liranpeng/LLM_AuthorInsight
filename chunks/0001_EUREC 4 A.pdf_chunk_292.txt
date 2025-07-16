@@ -1,0 +1,9 @@
+Volume sampler
+Echo PUF TCR Tecora measuring particle mass concentrations and chemical composition
+Thermosalinograph
+SBE-21 and SBE38 thermosalinographs measuring near-surface seawater temperature, conductivity,
+and ﬂuorescence (to infer salinity and chlorophyll)
+pCO2
+LICOR LI-7000 measuring system for pCO2 and f CO2
+CTD casts
+SBE-911 Plus CTD for conductivity, temperature, and pressure measurements, a SBE-43 dissolved-

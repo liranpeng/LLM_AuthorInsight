@@ -1,0 +1,9 @@
+ilation. The MODIS L2 data are assimilated with a model
+resolution of about 0.2◦and a 1 h assimilation cycle over the
+region covering northern Africa, the Mediterranean basin and
+southern Europe for the period of the TRAQA campaign in
+the northern summer of 2012.
+The assimilated model ﬁelds show greatly improved
+aerosol representation compared to the independently ob-
+served datasets, including the 3-D distributions. The com-
+parison with SEVIRI and AERONET AOD observations, as

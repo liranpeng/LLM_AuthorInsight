@@ -1,0 +1,3 @@
+Table 5. Globally averaged ozone perturbations (unscaled) by transport mode for the lower and upper troposphere in pptv. Also given is the
+maximum percentage change relative to the unperturbed case. Scaled percentage values are give in italics. The analysis is also shown for the
+latitude band of 30◦–60◦N indicating zonal mean as well as maximum perturbations (note that the relative and absolute perturbations can

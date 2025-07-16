@@ -1,0 +1,8 @@
+The top two rows in Fig. 4 give the fraction of samples for
+which rlnJ > 0.3 on the right side of each plot; the bottom
+row gives, on the left side, the fraction for which rlnJ < −0.3.
+The categorization of models and measurements is not sim-
+ple as many models have shifting magnitudes of this large-
+scale brightening or dimming. A few models consistently
+lack these large changes in Js (GC, GMI), and a few always
+have them (NCAR, UCIb). Large CAFS values are clearly

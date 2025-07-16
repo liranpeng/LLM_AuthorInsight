@@ -1,0 +1,9 @@
+tions are photon weighted, and for heating rates the cross
+sections should be energy weighted (W m−2). Fortunately,
+the energy-weighted O3 cross section, 1.91×10−21 cm2, dif-
+fers little from the photon-weighted one (with the result of
+< 0.04 K day−1 difference in clear-sky stratospheric heat-
+ing).
+RRTMG-SW has nine large bins extending to wavelengths
+longer than the end point of Cloud-J, and we adopt the ﬂux-
+weighted average optical properties of clouds and aerosols

@@ -1,0 +1,8 @@
+stands for root-mean-square error.
+et al., 2019) does not support this application. More impor-
+tantly, our goal here is to test the free-running climate model.
+As we have learned, with changes to physics modules in
+an ESM there are climate surprises. The reduced heating in
+the midlatitude and high-latitude lower stratosphere changed
+the stability (N2) of the region and altered the transmis-
+sion of waves into the stratosphere, which in turn altered

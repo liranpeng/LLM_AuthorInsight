@@ -1,0 +1,19 @@
+(2b)
+where NO2 + hν →NO + O and O + O2 →O3
+(2c)
+O2 + hν →O + O(x2)
+(2d)
+L-O3 : O3 + OH →O2 + HO2
+(3a)
+O3 + HO2 →HO + O2 + O2
+(3b)
+O(1D) + H2O →OH + OH
+(3c)
+J-O1D : O3 + hν →O(1D) + O2
+(4)
+J-NO2 : NO2 + hν →NO + O
+(5)
+Models also reported the change in O3 over 24 h, and these
+match the P-O3 minus L-O3 values over the Paciﬁc basin
+(a focus of this study). The models showed a wide range
+in the three Rs average proﬁles across latitudes over the Pa-

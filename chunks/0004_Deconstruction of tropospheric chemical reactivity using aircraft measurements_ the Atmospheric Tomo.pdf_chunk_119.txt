@@ -1,0 +1,12 @@
+tude change over the troposphere. Thus, we recommend that
+relative humidity over liquid water (RHw, %) be used to de-
+tect bias. See the statistics on critical species and RHw in the
+next section.
+5
+Key ATom species and NOx version 3
+5.1
+NOx version 3 and MDS ﬂags
+When completing this paper’s analysis of the reactivi-
+ties (Sect. 3) and re-examining the problems with NOx
+(NO2+ NO) proﬁling that led to MDS version 2b (described
+in G2023), we re-examined the NOx long-gap interpolation.

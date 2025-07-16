@@ -1,0 +1,9 @@
+from sub-optimal convergence to asymptotic convergence
+rates at different resolutions. Some models converge at full
+order for ℓ2 already at the lower end of the resolution
+range for which we assess numerical convergence (e.g.,
+CAM-FV, CCSRG, CSLAM, HEL, HEL-ND, FARSIGHT-
+CN10.4, SBC, SFF-CSLAM3, UCISOM, UCISOM-CS),
+whereas other schemes reach “optimal” convergence rates
+at ﬁner resolutions (e.g., CLAW, CAM-SE, FARSIGHT-
+CN1.0, HOMME, SFF-CSLAM4, SLFV-ML/SL, MPAS,

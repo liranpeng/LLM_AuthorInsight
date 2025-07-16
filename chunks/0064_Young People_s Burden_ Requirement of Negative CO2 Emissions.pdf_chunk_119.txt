@@ -1,0 +1,8 @@
+CO2 as a function of the fossil fuel emission scenario. Fortu-
+nately, the convenient dynamic-sink pulse-response function
+version of the well-tested Bern carbon cycle model (Joos et
+al., 1996) does a good job of approximating more detailed
+models, and it produces a good match to observed industrial-
+era atmospheric CO2. Thus, we use this relatively simple
+model, described elsewhere (Joos et al., 1996; Kharecha and
+Hansen, 2008, and references therein), to examine the effect

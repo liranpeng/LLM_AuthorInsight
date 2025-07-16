@@ -1,0 +1,8 @@
+Paciﬁc, which is understandable since that longitude includes
+Papua New Guinea and eastern tropical Australia. Most im-
+portantly, the differences for 165–210◦E are less than those
+across the six models (Fig. 7a). We need to develop an objec-
+tive measure for comparing 2-D plots between models and
+ATom measurements and for judging if their differences are
+within the range of representativeness. Fortunately, the ﬁt-
+ted ellipses provide a remarkably simple approach to evalu-

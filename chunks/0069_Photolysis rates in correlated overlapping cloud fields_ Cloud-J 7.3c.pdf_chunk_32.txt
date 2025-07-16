@@ -1,0 +1,12 @@
+1 −F G1(1 −gG1F G2)/(1 −F G2).
+(28)
+All of these formulae also work if F G1 > F G2 and if F G1 = 0
+or 1 (same for F G2). A special case of MAX-COR is MAX-
+RAN when cc = 0. With the cloud fractions binned into 10
+intervals, then the number of ICAs for MAX-COR or MAX-
+RAN models scales as 10NG, where NG is the number of
+MAX groups.
+2.5
+J value errors
+Our recommended cloud-overlap model uses the informa-
+tion on vertical correlations (Pincus et al., 2005; Naud and

@@ -1,0 +1,8 @@
+Key chemical species for tropospheric reactivity
+The reactivity of an air parcel is deﬁned here as a daily aver-
+age of the rates affecting critical species, in this case, ozone
+(O3); a greenhouse gas and air quality threat; and methane
+(CH4), the second most important emitted greenhouse gas af-
+ter CO2. Methane is emitted mostly through human activities
+but also naturally; and it is lost primarily (> 80 %) through
+reaction with the hydroxyl radical (OH) in the troposphere

@@ -1,0 +1,5 @@
+phase function are as specified in the CTM photolysis code Cloud-J (Neu et al., 2007; 
+Prather, 2015).  The heating rates reported here are calculated for the IFS fields of 
+January 2015.  Cloud fields change every 3 hours, and the solar zenith changes every 
+hour, giving 744 hourly data for January.  The OSA code generously provided by 
+Séférian was modified slightly:  the diffuse albedo was not used as Solar-J calculates

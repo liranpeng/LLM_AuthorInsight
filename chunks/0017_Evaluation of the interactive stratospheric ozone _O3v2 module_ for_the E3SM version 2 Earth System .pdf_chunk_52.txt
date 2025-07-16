@@ -1,0 +1,10 @@
+and highlight different aspects of the chemistry–climate sys-
+tem. For example, case [2] may highlight errors in using a
+pieced-forecast meteorology (UCI) as opposed to one from a
+continuously solved dynamical core (EAM).
+3.2
+Stratospheric ozone proﬁles
+The distribution of O3 within the stratosphere is important
+not only as a diagnostic of chemistry and transport but also
+as the driver of stratospheric heating. We thus choose a met-
+ric based on the Aura MLS observations of the monthly zonal

@@ -1,0 +1,8 @@
+of Taiwan and is based on Weather Research and Forecasting (WRF)
+model simulations. The data are licensed under the Creative
+Commons Attribution-NonCommercial-NoDerivatives 4.0
+International (CC BY-NC-ND 4.0) license. All figures, tables, and
+results presented in this paper are derived from this dataset.
+Code availability
+The code for reproducing the results presented in this paper is
+publicly available through NVIDIA Modulus under the Apache 2.0

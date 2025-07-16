@@ -1,0 +1,8 @@
+dent evaluation as described in Sect. 2.3. For EU we combine
+EMEP (Hjellbrekke et al., 2013) and the European Environ-
+ment Agency’s AirBase network except in Sect. 2.4, where
+we compare these two independent but overlapping data sets.
+The AirBase data set includes information on the zoning type
+of the stations (e.g., rural, suburban, urban, trafﬁc), and we
+choose to use all but the trafﬁc stations for the most complete
+and representative data, a decision corroborated by Pirovano

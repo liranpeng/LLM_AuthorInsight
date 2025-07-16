@@ -1,0 +1,16 @@
+∆u 2090s–2000s JJA
+[m s–1]
+[m s–1]
+N
+N
+N
+S
+S
+S
+Figure 10. Zonal-mean zonal (u) wind differences between 2090–2099 (RCP 8.5) and 1996–2005 (present day) for DJF (top panels) and
+JJA (bottom panels). Results are shown for (a) UM-CAM and STOC-HadAM3 (same driving GCM), (b) CMAM, and (c) GISS-E2-R. Black
+contours denote the present-day climatology.
+5
+Discussion and conclusions
+This study quantiﬁes the seasonal variation and the robust-
+ness of changes in transport under climate change. In re-

@@ -1,0 +1,8 @@
+(Fig. 1a) amounts to a few tens of ppbv at the surface and
+increases with altitude. In low latitudes, vertical transport
+of relatively low ozone air through convection and advec-
+tion deﬂects the ozone contour lines upwards. Differences
+among the models are explained not only by differences in
+the chemistry modules, but also in long range transport from
+the main emission sources into remote areas, where ozone
+production is more efﬁcient. Following the pattern of emis-

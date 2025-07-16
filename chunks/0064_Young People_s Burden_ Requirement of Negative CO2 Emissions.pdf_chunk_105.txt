@@ -1,0 +1,8 @@
+present GHG scenarios. We examine forcings of IPCC Spe-
+cial Report on Emissions Scenarios (IPCC SRES, 2000) used
+in the 2001 AR3 and 2007 AR4 reports (Fig. 8a) and RCP
+scenarios (Moss et al., 2010; Meinshausen et al., 2011a) used
+in the 2013 IPCC AR5 report (Fig. 8b). We include the “al-
+ternative scenario” of Hansen et al. (2000) in which CO2 and
+CH4 emissions decline such that global temperature stabi-
+lizes near the end of the century.10 We use the same radiation

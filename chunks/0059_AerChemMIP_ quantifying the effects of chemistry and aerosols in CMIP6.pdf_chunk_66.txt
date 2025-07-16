@@ -1,0 +1,8 @@
+the same levels of sophistication activated in the chemistry
+and aerosol schemes, and with the AerChemMIP diagnostics
+as speciﬁed in Sect. 4. It is likely that groups will ﬁrst spin up
+their model to pre-industrial conditions without interactive
+chemistry. This would then be followed by a shorter spin-
+up with fully interactive chemistry for as long as is needed
+to ensure the chemistry does not introduce any additional
+drift. This process will be quicker if the non-chemistry spin-

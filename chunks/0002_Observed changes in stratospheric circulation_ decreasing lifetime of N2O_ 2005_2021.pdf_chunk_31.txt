@@ -1,0 +1,8 @@
+satellite measurements, which are not believed to be drift-
+ing (Livesey et al., 2021; Froidevaux et al., 2022). The key
+comparison is Fig. 16 of Livesey et al. (2021). In the tropics
+(20◦S–20◦N) there could be a small positive drift in MLS
+V5 N2O versus ACE-FTS N2O for the period 2005–2010 in
+the range 3–30 hPa, but for the later period 2010–2019, there
+is no drift, or even a negative drift at 30 hPa and below. This
+change with altitude may explain the small or negative trend

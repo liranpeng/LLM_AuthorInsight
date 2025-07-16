@@ -1,0 +1,9 @@
+factor that could contribute to the difference between the
+modelled and the assimilated curve is a possible declining
+effect with time of previous assimilation cycles on the as-
+similated curve.
+During ﬂight C (Fig. 8c), the aircraft ﬂew directly through
+the desert dust plume. The concentrations are elevated over
+a wide range of heights. The assimilation model run signif-
+icantly improves the aerosol number concentration, by hav-
+ing it close to the measured ones for most of the ﬂight path

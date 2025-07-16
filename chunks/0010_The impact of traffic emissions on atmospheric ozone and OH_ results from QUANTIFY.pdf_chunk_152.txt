@@ -1,0 +1,9 @@
+olution used here (Rogers et al., 2002).
+All models simulate much stronger forcings for ship emis-
+sions compared to Eyring et al. (2007) which is most likely
+due to the very different distribution of the emissions, but
+also due to lower emission estimates of NOx as stated in
+the previous section. Fuglestvedt et al. (2008) obtain forc-
+ings of 32±9 mWm−2 for ozone and −43±13 mWm−2 for
+methane, which both cover the range of our individual model
+Atmos. Chem. Phys., 9, 3113–3136, 2009

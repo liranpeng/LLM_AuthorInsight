@@ -1,0 +1,12 @@
+restriction the number of CAFS measurements is 11,504 (block 1) and 4,867 (block 2).  
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+Figure S2.  Mean CAFs profiles of J-O1D (left) and J-NO2 (right) from ATom-1 made under all-sky conditions for 
+high-sun conditions, cos(sza) > 0.8.  The 3 geographic blocks shown here are the standard blocks 1 (blue, Tropical 
+Pacific, 20 ºS – 20 ºN x 160 ºE – 240 ºE), and 2 (red, North Pacific, 20 ºN – 50 ºN x 170 ºE – 225 ºE, plus a global

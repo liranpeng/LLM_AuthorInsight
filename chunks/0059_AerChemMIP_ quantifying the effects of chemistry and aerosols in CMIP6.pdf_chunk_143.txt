@@ -1,0 +1,8 @@
+al., 2012). This allows characterisation of the radiative forc-
+ing of the aerosol–radiation interaction and separation of it
+from the aerosol–cloud interactions and rapid adjustments.
+This is strongly recommended for the reference historical
+simulation and ERF time-slice experiments aimed at diag-
+nosing aerosol forcing, but is not essential if it is not possible
+to implement. Combined with additional RFMIP diagnostics,
+this will generate a fairly complete forcing characterisation.

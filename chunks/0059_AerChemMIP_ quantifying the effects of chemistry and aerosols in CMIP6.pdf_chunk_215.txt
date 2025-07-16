@@ -1,0 +1,9 @@
+set, B. H., Myhre, G., Andrews, T., Pincus, R., and Schulz,
+M.: Recommendations for diagnosing effective radiative forcing
+from climate models for CMIP6, J. Geophys. Res.-Atmos., 121,
+12460–12475, doi:10.1002/2016JD025320, 2016.
+Fujimori, S., Hasegawa, T., Masuia, T., Takahashia, K., Herran, D.
+S., Dai, H., Hijioka, Y., and Kainuma, M.: SSP3: AIM implemen-
+tation of Shared Socioeconomic Pathways, Global Environmen-
+tal Change, 42, 268–283, doi:10.1016/j.gloenvcha.2016.06.009,
+2017.

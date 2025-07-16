@@ -1,0 +1,4 @@
+0.75). For C29 the simulated vertical ﬂux (wO3NH) across 100 hPa is also highly correlated (r = 0.85) and
+matches even better (r = 0.97) when computed with a 3 month lag for TC-e90. For C36 this vertical ﬂux is
+weakly correlated (r = 0.41) but greatly improves (r = 0.76) with a 3 month lag as for C29. Thus, in a fast
+circulation (C29), interannual variability of O3 ﬂuxes is strongly coupled between the top of the LMS and the

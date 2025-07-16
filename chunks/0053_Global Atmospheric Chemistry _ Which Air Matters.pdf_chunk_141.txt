@@ -1,0 +1,67 @@
+ating the similarities and differences in these different tran-
+Atmos. Chem. Phys., 17, 9081–9102, 2017
+www.atmos-chem-phys.net/17/9081/2017/
+M. J. Prather et al.: Global atmospheric chemistry – which air matters
+9095
+HOOH (ppb)
+0.01
+0.1
+1
+10
+HOOH (ppb)
+0.01
+0.1
+1
+10
+NOx (ppt)
+0.1
+1
+10
+100
+1000
+150oE
+165o E
+180o E
+195o E
+210o E
+0
+1
+2
+3
+4
+(a) C: mid-Paciﬁc
+NOx (ppt)
+0.1
+1
+10
+100
+1000
+NOx (ppt)
+0.1
+1
+10
+100
+1000
+0
+1
+2
+3
+4
+0
+1
+2
+3
+4
+HOOH (ppb)
+0.01
+0.1
+1
+10
+HOOH (ppb)
+0.01
+0.1
+1
+10
+NOx (ppt)
+0.1
+1

@@ -1,0 +1,45 @@
+GFDL
+AM3
+CCM
+NCEP (nudged)
+CCM
+Arlene Fiore
+C180 × L48
+GISS
+GISS-E2.1
+CCM
+daily SSTs, nudged to MERRA
+Parcel
+Lee Murray
+2◦× 2.5◦× 40 L
+GSFC
+GMI-CTM
+CTM
+MERRA
+Parcel
+Sarah Strode
+1◦× 1.25◦× 72 L
+GC
+GEOS-Chem
+CTM
+MERRA-2
+Parcel
+Lee Murray
+2◦× 2.5◦× 72 L
+NCAR
+CAM4-Chem
+CCM
+MERRA
+CCM
+Jean-Francois Lamarque
+0.47◦× 0.625◦× 52 L
+UCI
+UCI-CTM
+CTM
+ECMWF IFS Cy38r1
+Parcel
+Michael Prather
+T159N80 × L60
+2
+Chemistry models and simulations
+The six global chemistry models here are basically the same

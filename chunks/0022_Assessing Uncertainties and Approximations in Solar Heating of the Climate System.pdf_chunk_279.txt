@@ -1,0 +1,14 @@
+Table 2. 
+SJ/δ1/2S 
+SJ/δ1 with 2-stream RT solver. 
+SJ/δ1ice 
+SJ standard, but with δ-1 scaling of ice clouds only. 
+SJ/δ2 
+SJ with all cloud optical depths and phase functions changed to δ-2 scaling, see text and 
+Table 2. 
+SJ/HG 
+SJ with all cloud phase functions changed to Henyey-Greenstein, see text and Table 2. 
+SJ/OSA 
+SJ with OSA a function of wavelength, incident angle (including scattered light) and 
+surface wind.   
+AER4.0

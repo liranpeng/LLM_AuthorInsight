@@ -1,0 +1,9 @@
+aging, and it needs to be veriﬁed with the ATom-2, 3, and
+4 data.
+The spatial structures and variability of reactivity as sam-
+pled by the ATom tropical transects (central Paciﬁc, eastern
+Paciﬁc, and Atlantic) are presented as nine panels in Fig. 2.
+Here, the UCIZ RDS*-2 reactivities are averaged and plot-
+ted in 1◦latitude by 200 m thick cells, comparable to some
+global models (e.g., GMI, NCAR, and UCI). We separate the
+eastern Paciﬁc (121◦W, research ﬂight (RF) 1) from the cen-

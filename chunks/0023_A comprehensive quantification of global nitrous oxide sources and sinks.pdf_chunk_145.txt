@@ -1,0 +1,7 @@
+conversion from natural vegetation to croplands or pastures, DLEM 
+uses a similar strategy to that used in ref. 72 and ref. 77 to simulate its 
+influences on carbon and nitrogen cycles. Moreover, through using 
+the sites of field observation from ref. 20 and ref. 75, we estimated N2O 
+emission from secondary tropical forests based on the algorithm: 
+y = 0.0084x + 0.2401 (R2 = 0.44). x indicates secondary forest age and 
+y indicates the ratio of secondary forest N2O emission over that of a

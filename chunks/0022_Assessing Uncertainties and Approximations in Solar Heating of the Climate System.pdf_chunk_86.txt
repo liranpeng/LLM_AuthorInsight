@@ -1,0 +1,4 @@
+ta-Eddington methods for solving the RT problem (Joseph et al., 1976) approximate this phase function as 
+a forward delta function plus a two-term expansion of the phase function, P0 and P1, see Table 2. M-stream 
+RT methods (Lin et al., 2018; W. J. Wiscombe, 1977) extend this to include the first M terms in the Legendre 
+expansion. All of these methods reduce the coefficient of P1 from 3g1 to a lesser value 3g* (g* is often called

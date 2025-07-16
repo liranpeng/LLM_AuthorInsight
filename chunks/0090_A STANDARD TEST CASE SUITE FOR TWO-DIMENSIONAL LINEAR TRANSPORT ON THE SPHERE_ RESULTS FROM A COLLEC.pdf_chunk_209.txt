@@ -1,0 +1,3 @@
+there are two columns of data. The left column is for the unlimited scheme, and the right column contains data for the shape-preserving
+version of the scheme (if applicable). The height of each colored column (green ℓr, yellow ℓu, red ℓo) is the ratio between ℓi, i ∈[“r”, “u”,
+“o”] for the scheme in question normalized by the ℓi for CSLAM (CN5.5) at 1λ = 1.5◦. Note that the y axis scale are different. The stacked

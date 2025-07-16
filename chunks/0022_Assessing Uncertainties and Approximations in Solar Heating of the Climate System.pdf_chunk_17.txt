@@ -1,0 +1,5 @@
+studies that we briefly review. Bringing these together with common climate metric allows for the broad 
+comparison here. Section 8 reviews our findings from Sections 3 through 7 and makes priority recommen-
+dations for improving climate models' solar heating codes.
+For most cases here, we find global mean absolute errors, or uncertainties, ranging from 0.5 to 5 W m−2 
+with larger systematic latitudinal or root-mean-square errors. Such error levels are likely to shift ESMs into

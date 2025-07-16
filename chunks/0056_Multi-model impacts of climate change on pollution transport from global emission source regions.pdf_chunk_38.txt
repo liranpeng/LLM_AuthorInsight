@@ -1,0 +1,9 @@
+are signiﬁcantly different, a Student’s t test was performed
+using the 10 years of annual data for each period for each
+model grid cell; a p value < 0.05 was used to determine sta-
+tistical signiﬁcance.
+The Task Force on Hemispheric Transport of Air Pol-
+lution (TF-HTAP, 2010) CO-tracer emissions data set was
+used in ACCMIP, which consists of annual-mean anthro-
+pogenic emissions for the year 2001 from the RETRO project
+(Schultz and Rast, 2007) and monthly average biomass burn-

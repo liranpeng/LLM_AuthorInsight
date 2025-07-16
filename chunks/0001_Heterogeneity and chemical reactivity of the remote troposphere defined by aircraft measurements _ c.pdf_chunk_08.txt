@@ -1,0 +1,4 @@
+deployments 1 through 4. Six models calculated the O3 and CH4 photochemical tendencies from this modeling
+data stream for ATom 1. We ﬁnd that 80 %–90 % of the total reactivity lies in the top 50 % of the parcels and
+25 %–35 % in the top 10 %, supporting previous model-only studies that tropospheric chemistry is driven by
+a fraction of all the air. Surprisingly, the probability densities of species and reactivities averaged on a model

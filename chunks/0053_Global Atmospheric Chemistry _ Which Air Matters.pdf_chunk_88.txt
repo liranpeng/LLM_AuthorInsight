@@ -1,0 +1,8 @@
+the A- and C-runs (not shown) conﬁrms that these two runs
+have almost identical J’s as expected since these changes in
+ozone and aerosols over 24 h between these two simulations
+will have a small impact on regional average J’s.
+While the A-run is clearly asking the modeling groups to
+make some rather uncomfortable code modiﬁcations, these
+tend to be at the very high level of disabling entire compo-
+nents. Other approaches for indirectly comparing chemical

@@ -1,0 +1,6 @@
+upstream and downstream of the transition zone. The lidar and cloud radar remained critical 
+components of the low-level sampling. These two sampling modes were necessary, since the 
+GV would not have the range to do all the sampling at low levels. With about half of the 
+flight flown at a higher altitude, the GV flights from California to Hawaii were possible.
+a. Instrumentation
+A full suite of probes on the GV were used for in situ measurements of aerosol, cloud,

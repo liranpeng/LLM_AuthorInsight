@@ -1,0 +1,5 @@
+cloud deck; this difference is much less with high cirrus clouds. The relative differences between 9 bins and 
+66 infrared bands (i.e., 5%–25%) should remain. Cloud heating errors at this level are likely to affect the 
+lifetime and stability of clouds (Wood, 2012). Overall these results are similar to LZL's liquid clouds and 
+confirm that ice clouds also need to be corrected.
+In terms of our climate metrics (e.g., global zonal-mean heating rates for January in Figure 1b), SJ/noIR

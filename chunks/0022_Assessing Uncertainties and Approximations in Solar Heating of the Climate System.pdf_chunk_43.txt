@@ -1,0 +1,5 @@
+reproduce, within a specified error, results from spectrally resolved models using thousands of wavelength 
+intervals and calculations.
+Solar-J's underlying spectral model and scattering code is Fast-J, which is used for chemical photolysis 
+rates and thus requires a reference solar spectrum in photons cm−2 s−1 and photon-weighted average cross 
+sections. With the added capabilities for cloud overlap and solar heating, Fast-J has become Cloud-J (M.

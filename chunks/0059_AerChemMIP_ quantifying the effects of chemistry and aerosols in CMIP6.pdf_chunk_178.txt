@@ -1,0 +1,10 @@
+DAMIP to increase the ensemble size to at least three mem-
+bers.
+www.geosci-model-dev.net/10/585/2017/
+Geosci. Model Dev., 10, 585–607, 2017
+600
+W. J. Collins et al.: AerChemMIP: quantifying the effects of chemistry and aerosols in CMIP6
+The DAMIP historical experiments use the pre-industrial
+as the control and have one class of species evolving at a
+time (e.g. hist-aer parallels historical, but with only aerosol
+forcing evolving), with all others ﬁxed to pre-industrial lev-

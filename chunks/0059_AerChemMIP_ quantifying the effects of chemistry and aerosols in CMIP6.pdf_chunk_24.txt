@@ -1,0 +1,10 @@
+overall goal of quantifying the role of aerosols and reactive
+gases in climate forcing.
+1.2
+Previous work
+The contribution of tropospheric ozone precursors to radia-
+tive forcing (through changes in ozone and methane) has
+been considered in successive IPCC assessments since IPCC
+(1994) and the Second Assessment Report (IPCC, 1996),
+where a combination of 2-D and 3-D chemistry models was
+used (PhotoComp in Olson et al., 1997). A more rigorous in-

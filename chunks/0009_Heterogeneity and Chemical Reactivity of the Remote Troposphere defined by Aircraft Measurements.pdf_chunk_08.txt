@@ -1,0 +1,8 @@
+that tropospheric chemistry is driven by a fraction of all the
+air. In other words, accurate simulation of the least reactive
+50 % of the troposphere is unimportant for global budgets.
+Surprisingly, the probability densities of species and reactiv-
+Published by Copernicus Publications on behalf of the European Geosciences Union.
+13730
+H. Guo et al.: Heterogeneity and chemical reactivity of the remote troposphere
+ities averaged on a model scale (100 km) differ only slightly

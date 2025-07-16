@@ -1,0 +1,8 @@
+ERFs of gases and aerosols will be derived in the 30-year
+long ﬁxed SST simulations (see Sect. 3) by investigating
+clear-sky and all-sky shortwave and longwave ﬂuxes at the
+top of the atmosphere and at the surface. In the same simula-
+tions a range of auxiliary variables are requested which char-
+acterise emissions, 3-D mass or molar mixing ratios, aerosol
+optical properties and cloud properties to complement the
+radiative ﬂuxes with actual composition diagnostics. With

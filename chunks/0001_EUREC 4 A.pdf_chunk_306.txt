@@ -1,0 +1,10 @@
+UV spectral sensor
+The TriOS OPUS spectral sensor was mounted on the CTD rosette to acquire full-depth proﬁles of
+nitrate and nitrite
+Acoustic Doppler current
+proﬁler
+Teledyne RDI 300kHz lowered ADCP mounted on the CTD rosette to survey full-depth ocean currents
+and acoustic backscatter
+Acoustic Doppler current
+proﬁler
+Teledyne RDI ADCP 38 kHz and 75kHz were mounted in the hull of the ship (75 kHz) and in the ship

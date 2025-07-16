@@ -1,0 +1,8 @@
+All tests above were based on traditional error norms com-
+puted at time t = T when the ﬂow, in the absence of any nu-
+merical errors, has advected the distributions back to their
+initial position and shape. As discussed in Lauritzen and
+Thuburn (2012), the ﬁrst half of the simulation, where rel-
+atively well-resolved features collapse in scale (at t = T /2
+the initial condition cosine bells have been deformed into
+thin ﬁlaments), is typical for atmospheric ﬂow. The second

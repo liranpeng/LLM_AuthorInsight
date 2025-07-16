@@ -1,0 +1,56 @@
+ozone (O3(CH4)) for different transport sectors and years. Note that the history of emissions has been taken into account, and that the fully
+scaled perturbations were used.
+TM4
+p-TOMCAT
+OsloCTM2
+O3
+CH4
+O3(CH4)
+total
+O3
+CH4
+O3(CH4)
+total
+O3
+CH4
+O3(CH4)
+total
+AIR 2025A1B
+22.1
+−17.7
+−6.46
+−2.06
+48.4
+−21.3
+−7.77
+19.4
+24.6
+−10.5
+−3.82
+10.3
+AIR 2050A1B
+52.1
+−40.7
+−14.9
+−3.49
+83.1
+−40.8
+−14.9
+27.3
+49.9
+−23.9
+−8.74
+17.3
+SHIP 2025A1B
+26.6
+−48.0
+−17.5
+−38.9
+21.9
+−42.2
+−15.4
+−35.6
+40.6
+−43.7
+−16.0
+−19.1

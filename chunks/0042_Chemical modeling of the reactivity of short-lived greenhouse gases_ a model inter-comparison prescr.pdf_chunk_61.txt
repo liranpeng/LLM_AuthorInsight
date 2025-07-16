@@ -1,0 +1,9 @@
+models (using each model’s 5-day mean as its reference case,
+Table S3). Also, the slope decreases from about 1.01 to 0.96
+through August as expected with declining photolysis rates
+in the north.
+The rms difference across the ﬁve days is also a measure of
+how well the 5-day parcel mean can represent the true chemi-
+cal model. Assuming that the cloud variability is random, the
+5-day means with respect to other models are not really dif-
+ferent unless that model–model rms exceeds some fraction

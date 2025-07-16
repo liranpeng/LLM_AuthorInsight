@@ -1,0 +1,8 @@
+estimates for 2000 by 2050. This reduction in NTS is then subse-
+quently offset by the growth in regional shipping emissions
+resulting in no net decreases in the number of exceedences over the
+timeline. Again, taking differences in the ER ratios between the A1B
+and A1B_HIGH simulations reveals that there is an increase in the
+exceedence area of w2%, which equates to a larger area than that
+for the ME/Turkey due to the size of each respective region.
+5. Conclusions

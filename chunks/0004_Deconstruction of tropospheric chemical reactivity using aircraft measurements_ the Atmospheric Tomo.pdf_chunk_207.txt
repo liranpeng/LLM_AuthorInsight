@@ -1,0 +1,7 @@
+middle of the Paciﬁc Ocean and Atlantic Ocean basins, from
+the perspective of their net chemical reactivities based on ob-
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+https://doi.org/10.5194/essd-15-3299-2023
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements
+3345
+Figure 67. Two-dimensional curtain plots of the linearized loss frequency for O3 (1/T T in units of per day) for the ATom-1 Paciﬁc and

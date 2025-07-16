@@ -1,0 +1,8 @@
+tropopause (Hansen et al., 1997; Forster and Shine, 1997).
+The balance between the LW and SW forcings is strongly
+dependent on the altitude of the ozone change, primarily be-
+cause of the height dependence of the LW. For ozone de-
+pletion in the middle stratosphere, due to the infrared opac-
+ity of the atmosphere between the mid-stratosphere and the
+tropopause, the LW forcing will be much weaker than in the
+lower stratosphere. Figure 7 shows the annual-mean radia-

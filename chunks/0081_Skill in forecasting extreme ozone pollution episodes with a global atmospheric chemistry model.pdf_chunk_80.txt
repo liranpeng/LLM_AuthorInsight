@@ -1,0 +1,9 @@
+is quite good (Fig. 6g–h) because in this case the variabil-
+ity is driven synoptically by buildup of regional pollution:
+MCC = 0.60 ± 0.16 for the US and 0.55 ± 0.19 for EU. In
+addition, the bias for each month of the year at three rep-
+resentative percentiles (84th, 50th, and 16th) can be derived
+from Table S2 in the Supplement.
+3.2
+Developing objective measures of model biases
+While evaluation of the central tendency of a model provides

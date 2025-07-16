@@ -1,0 +1,11 @@
+Grid Federation (ESGF) as soon as the output is submitted
+to the CMIP archive so that evaluation results can be made
+available at a time much faster than in CMIP5 (Eyring et al.,
+2016c). This will include the evaluation of chemistry and
+aerosols in the CMIP DECK and CMIP6 historical simula-
+tions.
+5
+Relations to other MIPs
+AerChemMIP is self-contained in so far as the questions
+posed can be answered by running only the experiments
+listed here, the DECK, and historical. For a full analysis of

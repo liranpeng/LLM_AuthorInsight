@@ -1,0 +1,10 @@
+length integration, scattering, and averaging over cloud ﬁelds
+– all have comparably small errors. More accurate solutions
+with Solar-J come with increased computational costs, about
+5 times that of RRTMG-SW for a single atmosphere. There
+are options for reduced costs or computational acceleration
+that would bring costs down while maintaining improved ﬁ-
+delity and balanced errors.
+1
+Introduction
+A major challenge in simulating the Earth’s climate is the

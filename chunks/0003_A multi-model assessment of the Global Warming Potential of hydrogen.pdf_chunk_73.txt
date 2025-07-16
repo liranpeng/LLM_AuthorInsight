@@ -1,0 +1,6 @@
+centrations of methane per methane ﬂux (ppb (CH4) (Tg(CH4) yr−1)−1) in
+PERT_CH4 with the calculated methane ﬂux in PERT_H2. The methane radiative
+forcing is calculated by the increase in surface concentration converted using a
+concentration-to-forcing factor of 0.448 mW m−2 ppb−1,44 and adjustment term of
+−14%33 to calculate Effective Radiative Forcing (ERF). While Supplementary
+Table 3 summarizes the total changes in atmospheric composition and effective

@@ -1,0 +1,67 @@
+it is not possible to disentangle the separate imprint of these
+changes on the CO-tracer distributions.
+www.atmos-chem-phys.net/17/14219/2017/
+Atmos. Chem. Phys., 17, 14219–14237, 2017
+14232
+R. M. Doherty et al.: Multi-model impacts of climate change on pollution transport
+pressure [hPa]
+10
+10
+10
+10
+10
+10
+0
+10
+1
+30
+30
+30
+CMAM DJF  U
+ 
+ 
+60
+30
+0
+30
+60
+100
+200
+300
+400
+500
+600
+700
+800
+900
+[m/s]
+5
+4
+3
+2
+1
+0
+1
+2
+3
+4
+5
+10
+10
+10
+10
+10
+10
+10
+30
+30
+pressure [hPa]
+GISS JJA  U
+ 
+ 
+90S
+60S
+30S
+EQ 
+30N
+60N

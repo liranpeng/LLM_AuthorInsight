@@ -1,0 +1,10 @@
+deck)
+Doppler lidar
+For measuring atmospheric velocities and backscatter to infer cloud-base height and boundary layer
+turbulence (O2 deck)
+Cloud radar
+Vertically pointing W-band (95 GHz) Doppler cloud radar measuring vertical proﬁles of non-
+precipitating and lightly precipitating clouds up to 4.2 km with 30 m resolution (O2 deck)
+Radon detector
+Dual-ﬂow loop two-ﬁlter radon (222Rn) detector (O3 deck)
+Weather sensors

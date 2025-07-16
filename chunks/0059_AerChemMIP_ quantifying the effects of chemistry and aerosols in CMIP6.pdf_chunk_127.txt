@@ -1,0 +1,8 @@
+1850 ﬁxed SST piClim-control as for the time-slice ERFs.
+Each experiment parallels the 30-year control, except that
+the emission ﬂuxes from an interactive parameterisation are
+doubled (see Table 7). For models that do not interactively
+parameterise particular emissions, the ﬂuxes from the 1850
+climatological dataset should be doubled.
+The radiative perturbation from these experiments will
+give ERF per Tg yr−1 change in emissions. When scaled by

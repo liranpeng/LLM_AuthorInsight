@@ -1,0 +1,10 @@
+Turbulence probe
+Multihole probe measuring vertical and horizontal winds at 30 Hz to characterize turbulence and ﬂuxes
+Radar altimeter
+To characterize the sea state, including wave height, speed, and direction; 1 Hz
+Weather sensors
+Measuring temperature, pressure, and relative humidity
+Solar radiometer
+Solar irradiance and broadband solar ﬂux (400 to 1100 nm); 1 Hz
+Camera
+High-resolution visible camera looking forward and down to characterize clouds and the sea state

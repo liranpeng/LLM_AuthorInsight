@@ -1,0 +1,8 @@
+timate variability in the southern latitudes. There is no clear
+separation of O3v2 and O3v1 with this metric. The decadal
+variability of this QBO-like interannual variability is seen for
+different periods of the same model that differ by up to 20 %
+in SD. We cannot expect agreement with observations for a
+climate simulation to be better, and thus both O3v1 and O3v2
+can be considered a match. The large pre-OMI to post-OMI
+shift in UCI SDs may be caused by the ECMWF data as-

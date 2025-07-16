@@ -1,0 +1,10 @@
+(Ritchie et al., 1995). A simple global mass ﬁx scheme based
+on a variational formulation by Sun and Sun (2004) is used.
+Shape preservation is enforced by a quasi-monotone scheme
+by Nair et al. (1999). The quasi-monotone scheme is an im-
+proved version of Sun et al. (1996) that applies the Bermejo
+and Staniforth (1992) ﬁlter.
+2.4
+Lagrangian parcel methods
+Instead of periodically (every time step for FARSIGHT
+and SBC) remapping between a Lagrangian and Eulerian

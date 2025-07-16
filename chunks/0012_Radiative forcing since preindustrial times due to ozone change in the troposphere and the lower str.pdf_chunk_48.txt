@@ -1,0 +1,32 @@
+Atmos. Chem. Phys., 6, 575–599, 2006
+580
+M. Gauss et al.: Radiative forcing due to ozone changes between 1850 and 2000
+Table 1. Description of models.
+Number/Name/Type
+Institute
+Investigator(s)
+Domain/Resolution
+Underlying GCM/Meteorology
+1
+University of L’Aquila
+D. Iachetti
+22.5◦lon×10◦lat
+ULAQ-GCM (Pitari, 1993;
+ULAQ
+G. Pitari
+26 levels
+Pitari et al., 2002)
+CCM
+E. Mancini
+sfc – 0.04 hPa
+2
+DLR Oberpfaffenhofen,
+V. Grewe
+T30 (3.8◦×3.8◦)
+GCM (ECHAM)
+DLR E39C
+Germany
+39 levels
+CCM
+sfc – 10 hPa
+3

@@ -1,0 +1,8 @@
+scale, but intense, rain showers, a potentially far-reaching
+idea given the importance of rain for linking processes at dif-
+ferent scales in the atmosphere (e.g., Sect. 3.2). The analysis
+further documents self-similar (power law) scaling between
+19 and 1900 km with a slope of −2.3. There is evidence of a
+scale break at around 25 km. Surface quasi-geostrophic tur-
+bulence generally predicts a slope of −5/3 or steeper (Callies
+and Ferrari, 2013; Rocha et al., 2016; Lapeyre, 2017).

@@ -1,0 +1,20 @@
+1870–2014
+Control run from the E3SMv1 DECK
+O3v2 AMIP-type
+1990–2014
+O3v2 test run
+UCI CTM
+1990–2017
+Same as O3v2 but using ECMWF circulation and a 199 K PSC T threshold
+O3v2 F2010
+0001–0005
+Cess control experiment
+O3v2 F2010+4K SST
+0001–0005
+Cess experiment with +4K SST
+site to evaluate model simulations. Table 2 lists the details of
+the observational data used here.
+3
+Performance metrics for stratospheric ozone
+simulations
+One of our goals is to establish a set of standard climate

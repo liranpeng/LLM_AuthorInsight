@@ -1,0 +1,8 @@
+Numerically Stable Algorithm for Discrete-Ordinate-Method
+Radiative-Transfer in Multiple-Scattering and Emitting Layered
+Media, Appl. Optics, 27, 2502–2509, 1988.
+Sukhodolov, T., Rozanov, E., Ball, W. T., Bais, A., Tourpali, K.,
+Shapiro, A. I., Telford, P., Smyshlyaev, S., Fomin, B., Sander,
+R., Bossay, S., Bekki, S., Marchand, M., Chipperﬁeld, M. P.,
+Dhomse, S., Haigh, J. D., Peter, T., and Schmutz, W.: Evalua-
+tion of simulated photolysis rates and their response to solar ir-

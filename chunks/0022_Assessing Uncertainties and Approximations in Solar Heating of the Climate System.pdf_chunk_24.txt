@@ -1,0 +1,7 @@
+ue of solar flux (in both photons cm−2 s−1 and Watts m−2) and cross sections (cm2). SJ adds 9 broad infra-
+red (IR) bands (0.78–12.2 μm, bins #19–27) taken directly from the RRTMG-SW version 4.0 code (Clough 
+et al., 2005; Mlawer et al., 1997). These 9 IR bands plus the overlap bin #18 (0.485–0.778 µm) contain a total 
+HSU AND PRATHER
+10.1029/2020MS002131
+2 of 24
+Journal of Advances in Modeling Earth Systems

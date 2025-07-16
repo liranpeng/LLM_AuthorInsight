@@ -1,0 +1,4 @@
+TC values), and on the consequent LMS domains (compare three LS values). The diﬀerences between TC
+and LS methods reﬂect ﬂuxes in the tropics where the LMS domains typically do not reach to the equator.
+For the TC method, the 120 ppb or 250 ppb O3 isosurfaces reach above the true tropical tropopause (see
+Prather et al. [2011] and Considine et al. [2008]) or here the e90-tropopause, and thus, the O3 production from

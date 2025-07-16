@@ -1,0 +1,4 @@
+intervals. RCPn.n^ lifetimes are from ACCMIP results (Voulgarakis et al., 2013) scaled to 11.2 ± 1.3 yr for year 2000; the ACCMIP mean and standard deviation in 2000 are 9.8 ± 1.5 yr. Projected 
+ACCMIP values combine the present day uncertainty with the model standard deviation of future change. Note that the total atmospheric lifetime of CH4 must include other losses (e.g., stratosphere, 
+surface, tropospheric chlorine), and for 2010 it is 9.1 ± 0.9 yr, see Chapter 8, Section 11.3.5.1.1.
+1433

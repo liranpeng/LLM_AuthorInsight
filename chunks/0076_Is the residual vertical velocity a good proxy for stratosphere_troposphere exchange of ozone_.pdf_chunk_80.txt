@@ -1,0 +1,6 @@
+O3 (e.g., overhead column O3), and thus, there is a need to accurately diagnose this key component of the
+tropospheric O3 budget.
+References
+Abalos, M., F. Ploeger, P. Konopka, W. J. Randel, and E. Serrano (2013), Ozone seasonality above the tropical tropopause: Reconciling the
+Eulerian and Lagrangian perspectives of transport processes, Atmos. Chem. Phys., 13(21), 10,787–10,794.
+Andrews, D., J. Holton, and C. Leovy (1987), Middle Atmosphere Dynamics, 481 pp., Acad. Press Inc., Orlando, Fla.

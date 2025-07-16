@@ -1,0 +1,8 @@
+how it opens a window focusing speciﬁcally on the photo-
+chemical modules embedded in 3-D models.
+Overall, the models show surprisingly good agreement on
+calculating the reactivity (P -O3, L-O3, L-CH4) and photol-
+ysis rates (J-NO2, J-O1D) in air parcels. We can identify
+unique features in each model: e.g., UCI’s high J-NO2 val-
+ues; GSFC’s lower P -O3 at high reactivity; GISS’s inverted
+results for L-O3 vs. L-CH4; GFDL and NCAR’s large scat-

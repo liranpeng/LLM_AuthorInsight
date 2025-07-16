@@ -1,0 +1,8 @@
+highly variable with deployment, showing that ATom-14 (the
+more reactive periods) lacks dry air with RHw < 20 %, con-
+sistent with the sensitivity to H2O and the high reactivities
+noted above. For convenience in model comparisons, a tabu-
+lated version of the CO, O3, and RHw PDs, giving values for
+the 5th, 20th, 50th, 80th, and 95th percentiles for each basin
+and deployment, is provided in Table 5.
+The use of two-dimensional PDs for species as a way of

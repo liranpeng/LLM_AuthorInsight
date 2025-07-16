@@ -1,0 +1,8 @@
+tosca, R. M., Novelli, P. C., Jones, N. B., and Rinsland, C. P.:
+Global budget of CO, 1988–1997: Source estimates and valida-
+tion with a global model, J. Geophys. Res.-Atmos., 112, 3713–
+3736, https://doi.org/10.1029/2007JD008459, 2007.
+Eastham, S. D. and Jacob, D. J.: Limits on the ability of
+global Eulerian models to resolve intercontinental transport
+of chemical plumes, Atmos. Chem. Phys., 17, 2543–2553,
+https://doi.org/10.5194/acp-17-2543-2017, 2017.

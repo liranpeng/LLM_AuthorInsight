@@ -1,0 +1,4 @@
+pare in Figure 6b our T-matrix expansion with those calculated from the Bi-Yang database used in LBYY. 
+Our hexagonal T-matrix fits within the class of ice crystals from Bi-Yang except for the extremely forward 
+peaked 10-plates example, which has the greatest difference from a sphere: the ratio of maximum diameter 
+to effective diameter is 7.5 versus 1.2 for droxtals. As expected, our irregular T-matrix phase function has a

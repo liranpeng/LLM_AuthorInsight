@@ -1,0 +1,5 @@
+2877–2889.
+Wild, O., Zhu, X., & Prather, M. J. (2000). Fast-J: Accurate simulation of in- and below-cloud photolysis in tropospheric chemical models. 
+Journal of Atmospheric Chemistry, 37(3), 245–282.
+Wiscombe, W. J. (1977). Delta-M method - rapid yet accurate radiative flux calculations for strongly asymmetric phase functions. Journal 
+of the Atmospheric Sciences, 34(9), 1408–1422.

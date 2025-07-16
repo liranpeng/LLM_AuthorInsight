@@ -1,0 +1,46 @@
+0.79
+–
+–
+0.71
+0.04
+0.42
+0.73
+–
+tot. trafﬁc
+11.91
+31.9
+8.04
+16.07
+83.36
+36.6
+17.6i
+86.6i
+29.84i
+–
+–
+Non-trafﬁc
+27.1e
+341.3e
+100.3e
+21.9
+447.4
+76.13
+27.1
+341.3
+100.3
+19.3
+275.6
+biogenic, soil
+6.89j
+48.2
+340.5
+5
+100
+772
+–
+–
+–
+9.4
+77.3
+aRoad emissions: Borken and Steller (2006), bShip emissons: Endresen et al. (2007), cAircraft emssions: Eyers et al. (2004), dEmission
+inventory developed within ACCENT (Atmospheric Climate Change: The European Network of Excellence) and GEIA (Global Emissions

@@ -1,0 +1,8 @@
+hemispheres, the artiﬁcial tracers called aoa_nh and nh_50:
+the ﬁrst one with a uniform source (1 year/year), constant in
+space and time, above the surface layer, 30–50◦N; the second
+one applying a uniform surface mixing ratio (100 pbbv), 30–
+50◦N, with a 50-day exponential decay (see the deﬁnitions in
+the CCMI-1 data request at http://blogs.reading.ac.uk/ccmi/
+data-requests-and-formats/). In the coupled troposphere–
+stratosphere system, climate will affect tropospheric compo-

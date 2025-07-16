@@ -1,0 +1,7 @@
+88 Tg yr−1 17,37, and future work should narrow down this large
+uncertainty. Current global atmospheric models treat this soil
+removal in a simpliﬁed way and need a more sophisticated
+treatment of soil sink, but it is limited by the resolution. One way
+to narrow the uncertainty range in the soil sink would be to get a
+better estimate of the other sources and sinks of hydrogen.
+In our model set-up, the models diagnose their own soil sink to

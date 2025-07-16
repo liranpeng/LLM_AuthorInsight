@@ -1,0 +1,9 @@
+ter accounting for different lightning assumptions, demon-
+strates that our simple parametric model represents the ma-
+jor chemistry-climate interactions and uncertainties affecting
+methane in current GCMs. This supports using the paramet-
+ric model for climate scenarios where a large ensemble of
+GCMs with chemistry is not available and too costly to gen-
+erate.
+Figure 6 and Table 4 decompose the net τCH4×OH changes
+in 2100 into components due to each climate and emission

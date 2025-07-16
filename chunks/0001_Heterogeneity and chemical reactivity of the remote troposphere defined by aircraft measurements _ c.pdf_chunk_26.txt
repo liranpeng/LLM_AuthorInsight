@@ -1,0 +1,9 @@
+tolysis rates. Our goal is to create a robust understanding of
+the chemical statistics including the reactivities with which to
+test and evaluate the free-running CCMs, and thus we do not
+try to model the speciﬁc period of the ATom deployments.
+Others may use the ATom data with hindcast CTMs to test
+forecast models, but here we want to build a chemical clima-
+tology.
+The ﬁrst hard test of the A runs came with the second
+ATom modeling paper (“How well can global chemistry

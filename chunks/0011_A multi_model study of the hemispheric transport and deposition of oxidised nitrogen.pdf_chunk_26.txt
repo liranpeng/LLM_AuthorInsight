@@ -1,0 +1,8 @@
+NOy in the receptor region divided by the size of the
+perturbation of NOx emissions in the source region, which
+we define to be the ‘‘sensitivity’’. Although the absolute
+change in the deposition of NOy in a receptor region will
+depend on the size of the emission perturbation, the sensi-
+tivity will be independent of the emission perturbation,
+assuming a linear response from the models. The annual
+and seasonal mean sensitivities for each receptor region

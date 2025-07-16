@@ -1,0 +1,11 @@
+GHG simulation (as historical, but only the WMGHG forc-
+ings evolve).
+The transient ERFs for each species or group of species
+will be diagnosed by subtracting the top of atmosphere and
+surface radiative ﬂuxes in the perturbed runs from those in
+histSST. For models without interactive chemistry, histSST-
+piNTCF and histSST-piAer are identical, and the same ozone
+climatology as histSST should be used.
+3.2
+Future simulations (in support of science question
+2.2)

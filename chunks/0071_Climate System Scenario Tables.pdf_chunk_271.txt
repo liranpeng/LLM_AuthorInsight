@@ -1,0 +1,11 @@
+2.75
+3.47
+2090d
+1.76
+1.96
+2.54
+3.05
+3.84
+Notes:
+This spread in the model ensembles (as shown in Figures 11.26a and 12.5, and discussed in Section 11.3.6) is not a measure of uncertainty. For the AR5 assessment of global mean surface 
+temperature changes and uncertainties see: Section 11.3.6.3 and Figure 11.25 for the near-term (2016–2035) temperatures; and Section 12.4.1 and Tables 12.2–3 for the long term (2081–2100).

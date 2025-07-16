@@ -1,0 +1,6 @@
+extending up to 70 km. The horizontal resolution is 1.25° in latitude and 2.5° in
+longitude. The GCM winds are nudged towards ECMWF ERA-5 meteorology for
+the period 2000–2020 by applying at each time step a correction term to the GCM
+u and v wind components with a relaxation time of 2.5 h60,64. INCA includes a
+state-of-the-art CH4-NOx-CO-NMHC-O3 tropospheric photochemistry60,65.
+Chemical species and reactions speciﬁc to the middle atmosphere are also included

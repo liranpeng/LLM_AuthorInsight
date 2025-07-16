@@ -1,0 +1,32 @@
+assimilation of the AOD and lidar proﬁles as possibly com-
+plimentary datasets.
+9
+Data availability
+The
+MOCAGE,
+PCASP
+and
+LOAC
+TRAQA
+data
+are
+available
+on
+the
+ChArMEx
+database
+at
+http://mistrals.sedoo.fr/ChArMEx/ with subsequent DOI:
+the MOCAGE direct run data (doi:10.14768/MISTRALS-
+CHARMEX.1034)
+(El
+Amraoui
+and
+Siˇc,
+2013),
+the
+MOCAGE assimilation run data (doi:10.14768/MISTRALS-
+CHARMEX.1449) (El Amraoui and Siˇc, 2016), the PCASP
+TRAQA
+data
+(doi:10.6096/MISTRALS-ChArMEx.998)

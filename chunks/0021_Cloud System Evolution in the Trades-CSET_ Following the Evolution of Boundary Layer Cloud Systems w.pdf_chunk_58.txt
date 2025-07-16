@@ -1,0 +1,5 @@
+distinguish between different aerosol types (Burton et al. 2011). On the GV the laser 
+transmitter and telescope can be manually oriented to face either upward or downward (see 
+Fig. 2) through windows on the top and bottom of the fuselage.
+The first three Doppler spectral moments from the HCR, and the backscatter and extinction 
+cross-section from the HSRL were combined to retrieve drizzle drop size distributions while

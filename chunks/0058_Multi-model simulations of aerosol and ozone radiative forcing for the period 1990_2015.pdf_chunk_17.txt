@@ -1,0 +1,10 @@
+study to perform aerosol and ozone forcing simulations over
+the 1990–2015 period with their standard conﬁguration, but
+using updated emission inventories and more consistent di-
+agnostics. Here, we present the resulting evolution of aerosol
+and ozone abundances at the regional level and the resulting
+radiative forcing. In particular, the aim is to quantify the re-
+cent changes in radiative forcing and how those compare to
+the values reported in the IPCC AR5.
+2
+Methods

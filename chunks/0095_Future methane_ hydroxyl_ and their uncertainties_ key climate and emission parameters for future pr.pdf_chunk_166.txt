@@ -1,0 +1,8 @@
+Guenther, A., Karl, T., Harley, P., Wiedinmyer, C., Palmer, P. I.,
+and Geron, C.: Estimates of global terrestrial isoprene emissions
+using MEGAN (Model of Emissions of Gases and Aerosols from
+Nature), Atmos. Chem. Phys., 6, 3181–3210, 2006,
+http://www.atmos-chem-phys.net/6/3181/2006/.
+Held, I. M. and Soden, B. J.: Robust responses of the hydrological
+cycle to global warming, J. Climate, 19, 5686–5699, 2006.
+Hess, P. and Mahowald, N.: Interannual variability in hindcasts of

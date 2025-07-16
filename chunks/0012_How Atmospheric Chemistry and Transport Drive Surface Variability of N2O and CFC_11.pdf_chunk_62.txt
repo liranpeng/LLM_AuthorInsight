@@ -1,0 +1,7 @@
+Journal of Geophysical Research: Atmospheres
+1, 2005 to July 1, 2018 and has a mean loss frequency of 0.84%/yr, corre-
+sponding to a lifetime of 119 years. This lifetime is only slightly longer 
+than the 117 years (118 years when rescaled to 320 ppb) reported in P2015 
+for the period 2005–2010. The three models show different decadal shifts 
+in N2O lifetime over the extended period: UCI has a clear long-term in-
+crease (i.e., decreasing N2O loss); LMDz5 has a small decrease; and GMI

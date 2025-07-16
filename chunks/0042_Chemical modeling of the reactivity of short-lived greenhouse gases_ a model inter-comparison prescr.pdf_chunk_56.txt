@@ -1,0 +1,14 @@
+are close to the reference case for P -O3, but farther away for
+L-O3 and L-CH4 probably caused by their T and q values
+(see later).
+Atmos. Meas. Tech., 11, 2653–2668, 2018
+www.atmos-meas-tech.net/11/2653/2018/
+M. J. Prather et al.: Reactivity of short-lived greenhouse gases
+2659
+Table 3. Average reactivities and standard deviations with respect to the reference case (average of three models).
+Reactivity
+P-O3 (ppb day−1)
+L-O3 (ppb day−1)
+L-CH4 (ppb day−1)
+J-NO2 (× 10−3 s−1)
+J-O1D (× 10−5 s−1)

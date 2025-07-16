@@ -1,0 +1,7 @@
+W m−2 averaged over Solar-J and RRTMG-SW for each region. Note that different y-axis scales have been used for large SZAs.
+the scattered light has only one angle, and thus the above-
+cloud heating (second row of Fig. 6) is strictly proportional to
+the top-of-atmosphere increases. With Solar-J, the reﬂected
+light is calculated at four zenith angles with the ﬂux at larger
+zenith angles producing more heating (i.e., longer slant path
+through the atmosphere). This is most apparent in the case

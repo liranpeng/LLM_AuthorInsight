@@ -1,0 +1,8 @@
+rms differences in J-values for GISS and NCAR are surpris-
+ing. Collectively, we should reexamine this variability in all
+the models to ascertain its cause. In general, the slopes of the
+individual vs. reference model for reactivities are close to 1
+(Table S2) because the slope is determined by the large gra-
+dients with latitude and pressure that most models agree on.
+In comparing individual days vs. 5-day mean, it is encour-
+aging that this slope averages 1 ± 0.04 for all reactivities and

@@ -1,0 +1,8 @@
+ing at the 50th percentile. In Fig. 1 the agreement across all
+models (except GISS) is clear, indicating that the conclu-
+sion in P2018 (i.e., that most global chemistry models agree
+on the O3 and CH4 budgets if given the chemical composi-
+tion) also holds for the ATom-measured chemical composi-
+tion. Comparing the dashed brown (UCI, RDS-0) and black
+(UCIZ, RDS*-2) lines, we ﬁnd that the shift from MDS-0 to
+MDS-2b plus the new RDS* (HNO4 + PAN) protocol pro-

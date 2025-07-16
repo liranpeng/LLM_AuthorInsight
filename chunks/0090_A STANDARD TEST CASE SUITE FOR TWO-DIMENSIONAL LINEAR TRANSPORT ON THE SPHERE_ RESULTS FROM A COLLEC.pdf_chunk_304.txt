@@ -1,0 +1,28 @@
+the boundary of the control volume and A() the area of the
+control volume.
+SLFV-SL
+In Eq. (A10), decomposing the boundary 0 into Nk edges
+and integrating Eq. (A10) with respect to time, one gets
+A() (ρφt+1
+k
+−ρφt
+k) = −
+Nk
+X
+i=1
+⟨ρφV⟩i · ˆni 1t d0
+(A11)
+≃−
+Nk
+X
+i=1
+⟨ρ⟩i⟨φ⟩i V
+n+ 1
+2
+k,i
+· ˆni 1t d0.
+(A12)
+Geosci. Model Dev., 7, 105–145, 2014
+www.geosci-model-dev.net/7/105/2014/
+P. H. Lauritzen et al.: Results from standard test case suite
+141

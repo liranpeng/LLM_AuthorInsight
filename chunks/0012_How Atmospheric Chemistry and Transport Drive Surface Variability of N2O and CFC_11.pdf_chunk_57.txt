@@ -1,0 +1,4 @@
+MLS period. These disagreements may stem from known transport problems in the MERRA-2 subtropical 
+lower stratospheric circulation (Coy et al., 2016; Manney et al., 2017) that also affects upwelling rates to the 
+tropical middle stratosphere where N2O is destroyed. In addition, Douglass et al. (2017) showed that the 
+MERRA-2 transport circulation had time-dependent biases prior to the Aura MLS period that caused poor

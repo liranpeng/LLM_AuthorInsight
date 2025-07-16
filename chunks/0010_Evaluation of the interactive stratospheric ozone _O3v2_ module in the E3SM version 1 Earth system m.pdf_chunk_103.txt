@@ -1,0 +1,8 @@
+produced in all three models are close to that observed. The
+STE ozone ﬂux resolved by month–latitude in O3v2 is no-
+tably different from that in the UCI model, but we have no
+observations to evaluate the two, except for the global mean
+ﬂux where the two models agree. It would be interesting to
+run EAM as an ofﬂine CTM driven by reanalysis winds, but
+the existing EAM nudging capability (Sun et al., 2019; Tang
+Figure 10. Comparison of global uncentered RMSE (1981–2005)

@@ -1,0 +1,8 @@
+balance, measured in W m−2. For example, Earth absorbs about
+240 W m−2 of solar energy, so if the Sun’s brightness increases 1 %
+it is a forcing of +2.4 W m−2.
+3Climate sensitivity is the response of global average surface
+temperature to a standard forcing, with the standard forcing com-
+monly taken to be doubled atmospheric CO2, which is a forcing of
+about 4 W m−2 (Hansen et al., 2005).
+4IPCC (2013) ﬁnds that 2 × CO2 equilibrium sensitivity is likely

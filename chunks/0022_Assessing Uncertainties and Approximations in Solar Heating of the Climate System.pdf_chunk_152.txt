@@ -1,0 +1,4 @@
+et al., 2010; Naud et al., 2008; Oreopoulos et al., 2012; Pincus et al., 2005), MAX-COR defines 6-layer group-
+ings by altitude range. Because decorrelation is small across the vertical range of each group, we assume 
+MAX overlap within each group and a decorrelation of the overlap of each MAX group with its neighbor. 
+Adopting terminology of climate community, MAX-COR is effectively a MAX-EXP algorithm. By quantiz-

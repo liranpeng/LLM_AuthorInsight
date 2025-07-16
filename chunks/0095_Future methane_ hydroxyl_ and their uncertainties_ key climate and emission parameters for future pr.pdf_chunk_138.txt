@@ -1,0 +1,9 @@
+efﬁciency of 42 mW m−2 DU(O3)−1) (Ramaswamy et al.,
+2001).
+Accounting for both direct and indirect effects, the
+methane RF efﬁciency, Fe, is 620 mW m−2 ppm(CH4)−1
+in steady-state. A 1 Tg pulse emission of methane raises
+the atmospheric abundance by δ = 0.364 ppb, which de-
+cays at a rate f τCH4, where f = 1.34 is the methane feed-
+back on its lifetime. We use τCH4 = 9.14 yr (Prather et al.,
+2012). Neglecting delays between emission time and strato-

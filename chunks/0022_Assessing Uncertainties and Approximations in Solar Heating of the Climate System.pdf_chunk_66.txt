@@ -1,0 +1,4 @@
+The standard Solar-J cloud optics, based on average refractive indices (H2017), should probably be re-cal-
+culated with the Mie calculation at fine wavelength intervals and then with flux-averaging of SSA, Q, and 
+g1:7, as in Edwards and Slingo (1996). Looking forward, however, we should not have bands or sub-bins with 
+such large variations in refractive index. The narrow bands have smaller changes in refractive index across

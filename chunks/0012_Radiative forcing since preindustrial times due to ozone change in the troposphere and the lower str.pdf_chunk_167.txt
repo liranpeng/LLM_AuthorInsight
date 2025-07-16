@@ -1,0 +1,8 @@
+The model includes a detailed, on-line chemistry
+scheme with about 80 chemical species and 400 chemical
+reactions. Two different model versions were used. In the
+“standard” model, natural and anthropogenic emissions are
+largely based on Wang et al. (1998). Monthly mean ﬂuxes
+of ozone and NOy across the model tropopause are speciﬁed
+as in Wang et al. (1998). Like most other chemistry models,
+the “standard” model overestimates preindustrial ozone con-

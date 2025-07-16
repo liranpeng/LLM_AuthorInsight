@@ -1,0 +1,6 @@
+based weather prediction architectures [23] and adaptations of Fourier Neural Operators for arbitrary
+geometric discretizations have been proven in low dimensional settings that could be readily extended
+to SFNO [14].
+Vertical coarse-graining
+After the horizontal regridding is done for all variables, anticipating the
+requirements for precise mass and energy conservation, we vertically integrate the 3D variables (air

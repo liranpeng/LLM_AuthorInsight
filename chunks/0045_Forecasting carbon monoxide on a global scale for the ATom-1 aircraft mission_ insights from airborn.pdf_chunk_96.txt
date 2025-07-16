@@ -1,0 +1,8 @@
+values are also below the median over New Zealand and
+the eastern and central tropical Paciﬁc, but the relatively low
+variability of these regions makes this less of a concern for
+the representativeness of the ATom measurements. The IAV
+of these regions is larger for the MOPITT 700 hPa level, and
+2016 lies slightly below the 25th percentile for this level.
+The regionally averaged 500 nm AOT from MODIS
+(Fig. 11) shows similar features to the MOPITT column. The

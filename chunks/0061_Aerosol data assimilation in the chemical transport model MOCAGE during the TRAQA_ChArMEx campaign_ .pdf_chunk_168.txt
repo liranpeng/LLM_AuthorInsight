@@ -1,0 +1,10 @@
+icosahedral aerosol transport model, Environ. Pollut., 195, 319–
+329, doi:10.1016/j.envpol.2014.06.021, 2014.
+Daley, R.: Atmospheric data analysis, No. 2, Atmospheric and
+Space Science Series, Cambridge University Press, 1993.
+De Leeuw, G., Kinne, S., Léon, J.-F., Pelon, J., Rosenfeld, D.,
+Schaap, M., Veefkind, P. J., Veihelmann, B., Winker, D. M.,
+and von Hoyningen-Huene, W.: Retrieval of aerosol properties,
+www.atmos-meas-tech.net/9/5535/2016/
+Atmos. Meas. Tech., 9, 5535–5554, 2016
+5552

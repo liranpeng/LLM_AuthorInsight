@@ -1,0 +1,11 @@
+Weather sensors
+Vaisala HMT335 transmitter measuring air temperature and humidity, and Vaisala PTB220 barometer
+to measure atmospheric pressure (bow mast)
+Pyranometer
+Eppley PSP measuring shortwave 295–2800 nm irradiance (bow mast)
+Pyrgeometer
+Eppley PIR measuring downward longwave irradiance 4–50 µm (bow mast)
+Inertial system
+Mast and ship motions (bow mast)
+Ceilometer
+Vaisala CL31 ceilometer measuring vertical proﬁles of backscatter from refractive index gradients,

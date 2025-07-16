@@ -1,0 +1,8 @@
+opposite direction with high abundances (> 200 ppt) favoring
+L-CH4 and L-O3 but lower ones favoring P-O3, probably be-
+cause the lower ones are from the upper troposphere where
+colder temperatures suppress both L-CH4 and L-O3 (Fig. 3).
+The results from the full probability distribution (Fig. 5) are
+mostly represented in the central statistics of Table S5. The
+reactivity weighting adds a new dimension to the diagnostics,
+and after the ATom dataset becomes available it would be

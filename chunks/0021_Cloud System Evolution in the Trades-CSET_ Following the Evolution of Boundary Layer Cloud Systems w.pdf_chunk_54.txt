@@ -1,0 +1,8 @@
+al. 2004). During precipitating conditions, either (a) the fall velocity of precipitating drops 
+can be removed from the measured Doppler velocity corrected for the aircraft motion to 
+retrieve the vertical air motion or (b) the method proposed by Luke and Kollias (2013) that 
+uses the higher order moments of radar Doppler spectrum to distinguish between the echoes 
+Albrecht et al.
+Page 8
+Bull Am Meteorol Soc. Author manuscript; available in PMC 2020 February 15.
+NASA Author Manuscript

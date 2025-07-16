@@ -1,0 +1,8 @@
+mospheric CH4 causes tropospheric ozone (O3) and strato-
+spheric water vapor to increase (Myhre et al., 2013). Uncer-
+tainties, discussed by Myhre et al. (2013), are typically 10–
+15 % for GHG forcings. The aerosol forcing uncertainty, de-
+scribed by a probability distribution function (Boucher et al.,
+2013), is of order 50 %. Our estimate of aerosol plus surface
+albedo forcing (−1.2 W m−2) differs from the −1.5 W m−2
+8Our GHG forcings, calculated with formulae of Hansen et

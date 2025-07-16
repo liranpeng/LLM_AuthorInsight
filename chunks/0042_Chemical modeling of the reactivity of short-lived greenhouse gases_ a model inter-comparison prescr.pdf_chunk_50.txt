@@ -1,0 +1,6 @@
+magenta, NCAR; cyan, UCI). Latitude bands are identiﬁed by line style (solid, 20◦S–20◦N; dotted, 50–20◦S; dashed, 20–50◦N). Averages
+are over the ﬁve simulated dates in August, and all parcels are weighted equally.
+in L-CH4. From these scatter plots, we can say that the four
+models are remarkably consistent, that GFDL is similar but
+should reexamine their L-O3 diagnostic, and that GISS has a
+“uniqueness” in its L-O3 vs. L-CH4 relationship as well as

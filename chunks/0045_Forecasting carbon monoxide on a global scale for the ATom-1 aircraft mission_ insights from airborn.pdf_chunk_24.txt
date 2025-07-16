@@ -1,0 +1,10 @@
+assurance.
+2.3
+Model description
+We use chemical forecasts and analyses from the GEOS-5
+forward processing (FP) system to quantify the contribution
+of different emission sources to the observed CO distribution
+and to identify the origin of observed plumes. A global model
+is necessary for this analysis since CO is transported globally.
+The FP stream from the Global Modeling and Assimilation
+Ofﬁce (GMAO) generates GEOS-5 forecast products as well

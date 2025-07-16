@@ -1,0 +1,43 @@
+± 6:3  103
+± 1:0  102
+0.6
+Model ensemble
+Soil sink ðσsoilsinkÞ
+Tg
+yr
+± 15
+± 25
+18
+Expert judgment based on
+literature (ref. 5 and 17)
+Atmospheric loss of H2 ðσatmlossÞ
+Tg
+yr
+± 3:0
+± 5:0
+3.7
+Model ensemble
+Radiative efﬁciency of CH4 ðσrCH4 Þ
+W
+m2ppb
+± 7:7  105
+± 1:3  104
+33
+Direct change in CH4 concentrations
+ðσΔCH4dirÞ
+Tg
+yr
+± 1:1
+± 1:8
+1.2
+Model ensemble
+CH4 feedback factor ðσffCH4 Þ
+± 0:07
+± 0:12
+0.1
+27
+Forcing changes in stratospheric H2O
+(σAGWPτ H2O)
+W
+m2kg
+± 2:0  102

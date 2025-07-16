@@ -1,0 +1,8 @@
+2003): the percentage for the background errors is twice as
+large as for the observation errors. The developments of an
+inorganic secondary aerosol module in MOCAGE are carried
+in parallel with the developments on the AOD assimilation
+system (Guth et al., 2015). This has a beneﬁcial effect in the
+model and consequently, is expected to improve the analy-
+sis after its inclusion in the assimilation module. To take into
+account the model uncertainties, there are also other possi-

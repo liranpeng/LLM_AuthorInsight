@@ -1,0 +1,7 @@
+6 NASA Goddard Space Flight Center, Greenbelt, MD, USA 
+7 Universities Space Research Association (USRA), GESTAR, Columbia, MD, USA 
+8 Centre National de Recherches Météorologiques, CNRS-Météo-France, UMR 3589, Toulouse, France 
+9 European Centre for Medium-Range Weather Forecasts, Reading, UK 
+10 Royal Netherlands Meteorological Institute, De Bilt, the Netherlands 
+11 Department of Chemistry, University of Cambridge, Cambridge, U.K. 
+12 National Centre for Atmospheric Science, U.K.

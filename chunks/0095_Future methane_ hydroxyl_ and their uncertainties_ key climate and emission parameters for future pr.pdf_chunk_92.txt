@@ -1,0 +1,14 @@
+[7]
+Anthropogenic emissions
+CMIP5
+[3]
+RCP 8.5
+[7]
+(NOx, CO, VOC)
+CH4 abundance
+CMIP5
+[4]
+this workc
+a [1] Bosilovich et al. (2011), [2] Stolarski and Frith (2006), [3] Schultz et al. (2008); Eyring et al. (2010b);
+Lamarque et al. (2010); Lee et al. (2010), [4] CMIP5 historical GHG recommendations, Meinshausen et
+al. (2011b) [5] Ensemble of 35 CMIP5 models (Climate Explorer, http://climexp.knmi.nl/, accessed 18

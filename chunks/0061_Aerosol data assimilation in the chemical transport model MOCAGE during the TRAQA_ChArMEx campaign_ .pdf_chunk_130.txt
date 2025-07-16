@@ -1,0 +1,9 @@
+2500 m above sea level, for the starting location of 42.33◦N, 5.08◦E and the starting time of 6 July 2012 at 11:00 UTC.
+7
+Discussion
+Results presented in this paper show that the AOD data
+assimilation is an efﬁcient technique to improve modelled
+aerosol ﬁelds. Assimilated ﬁelds have better statistical per-
+formances than the direct model run in comparison with the
+assimilated observations, and with independent AOD obser-
+vations and in situ measurements. The uncertainties in the

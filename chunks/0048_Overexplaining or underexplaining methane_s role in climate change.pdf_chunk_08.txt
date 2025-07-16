@@ -1,0 +1,6 @@
+1983–2017, showing both monthly (red diamonds) and annual (thick black line)
+averages (https://www.esrl.noaa.gov/gmd/ccgg/trends_ch4/; downloaded on April
+1, 2017). Thin vertical lines denote the end of the data record for each IPCC
+assessment. (C) The observed decay rate (1/y) of methylchloroform (CH3CCl3)
+calculated following ref. 22 for 2000–2016, showing monthly (blue dots with
+uncertainty) and 12-mo running average (thick black line). The anomaly about the

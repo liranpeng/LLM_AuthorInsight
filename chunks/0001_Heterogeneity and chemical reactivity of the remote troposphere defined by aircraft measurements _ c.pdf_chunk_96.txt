@@ -1,0 +1,8 @@
+serves most of the variability. Lines in Fig. S2 demark 400 m
+in altitude, and most of the variability occurs on this larger,
+model-resolved scale. Figure S2b shows the 10 s reactivities
+during that descent and also indicates that much of the vari-
+ability occurs at 400 m vertical scales. A more quantitative
+example using all the tropical ATom reactivities is shown in
+comparisons with probability densities below (Fig. 5).
+How important is it for the models to represent the ex-

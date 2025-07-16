@@ -1,0 +1,8 @@
+mesh, one may also trace the Lagrangian parcels through-
+out the integration (e.g., Chorin and Marsden, 2000; Cottet
+and Koumoutsakos, 2000) similar to the Lagrangian ﬁnite-
+volume method described above (TTS-I). This method is re-
+ferred to as the Lagrangian particle method, and its imple-
+mentation in this intercomparison will be referred to as LPM
+(Bosler, 2013). Apart from different remapping to Eulerian
+grids, LPM is similar to HEL without diffusion (i.e., HEL-

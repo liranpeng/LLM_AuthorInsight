@@ -1,0 +1,8 @@
+mensionally split approach. This is similar to splitting for Eu-
+lerian ﬂuxes. However, the dimensional splitting is not along
+coordinate axes but along Lagrangian translations of coordi-
+nate axes. Hence we refer to this approach as ﬂow-dependent
+dimensional splitting. The upstream area is then effectively
+approximated using line segments that are parallel to the co-
+ordinate axes (see, for example, Fig. 2 in Lauritzen et al.,
+2006) so that the two-dimensional remapping problem is cast

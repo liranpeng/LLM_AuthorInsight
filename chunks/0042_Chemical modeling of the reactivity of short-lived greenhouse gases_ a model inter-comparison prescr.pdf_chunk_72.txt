@@ -1,0 +1,9 @@
+tics. The Venn overlap diagrams will become more interest-
+ing with an observational data stream as they point to the
+co-occurrence of unusual atmospheric parcels.
+At what level do the models agree on the hot, top-10 %
+parcels? We use the reference case deﬁned above and sort
+each reactivity to identify the top-10 %, retain those parcel
+numbers and compare across models. Table S6 gives each
+model’s overlap of their top-X % parcels in terms of the per-
+www.atmos-meas-tech.net/11/2653/2018/

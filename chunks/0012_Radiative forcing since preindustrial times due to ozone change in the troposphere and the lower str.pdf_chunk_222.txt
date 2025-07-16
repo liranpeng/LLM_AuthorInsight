@@ -1,0 +1,9 @@
+31 123–31 135, 1998.
+Washington, W. M., Weatherly, J. W., Meehl, G. A., Semtner, A. J.,
+Bettge, T. W., Craig, A. P., Strand, W. G., Arblaster, J., Wayland,
+V. B., James, R., Zhang, Y.: Parallel climate model (PCM) con-
+trol and transient simulations, Clim. Dyn., 16, 755–774, 2000.
+Wild, O. and Prather, M. J.: Excitation of the primary tropospheric
+chemical mode in a global CTM, J. Geophys. Res., 105, 24 647–
+24 660, 2000.
+Wild, O., Sundet, J. K., Prather, M. J., Isaksen, I. S. A., Akimoto,

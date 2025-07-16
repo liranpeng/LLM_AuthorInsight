@@ -1,0 +1,8 @@
+S., Koch, D., Kristjansson, J. E., Krol, M., Lauer, A., Lamarque,
+J. F., Lesins, G., Liu, X., Lohmann, U., Montanaro, V., Myhre,
+G., Penner, J., Pitari, G., Reddy, S., Seland, O., Stier, P., Take-
+mura, T., and Tie, X.: An AeroCom initial assessment – optical
+properties in aerosol component modules of global models, At-
+mos. Chem. Phys., 6, 1815–1834, doi:10.5194/acp-6-1815-2006,
+2006.
+Kirtman, B., Power, S. B., Adedoyin, J. A., Boer, G. J., Bojariu,

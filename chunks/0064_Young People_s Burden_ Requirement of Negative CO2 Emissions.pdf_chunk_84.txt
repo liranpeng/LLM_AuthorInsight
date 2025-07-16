@@ -1,0 +1,10 @@
+imbalance is 0.95 W m−2, which is reasonably consistent
+with the observed 0.75 ± 0.25 W m−2. If we instead take
+the aerosol + surface albedo forcing as −1.5 W m−2, as es-
+timated by Hansen et al. (2005), the net climate forcing is
+2.2 W m−2 and the forcing not responded to is 0.65 W m−2,
+which is also within the observational error of Earth’s energy
+imbalance.
+4.2
+Slow climate feedbacks
+Large glacial-to-interglacial climate oscillations occur on

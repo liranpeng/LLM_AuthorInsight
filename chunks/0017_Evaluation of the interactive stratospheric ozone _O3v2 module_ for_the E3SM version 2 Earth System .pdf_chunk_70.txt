@@ -1,0 +1,10 @@
+namical conditions associated with the winter polar vortex
+are similar in both EAM versions and remain relatively iso-
+lated from the changes in the ozone chemistry, unlike the
+changes in the lower stratospheric dynamics caused by the
+O3v1–O3v2 changes near the tropopause discussed below.
+3.4
+STE ozone ﬂux
+With O3v2 the E3SM model is able to diagnose the STE
+ozone ﬂux (Tg O3 per year), which is a key budget term
+for tropospheric O3. We can place constraints on the global

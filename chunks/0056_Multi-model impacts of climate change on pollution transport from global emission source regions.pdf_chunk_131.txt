@@ -1,0 +1,10 @@
+Edited by: Stefano Galmarini
+Reviewed by: three anonymous referees
+References
+Abalos, M., Randel, W., Kinnison, D., and Garcia, R.: Using
+the artiﬁcial tracer e90 to examine present and future UTLS
+tracer transport in WACCM, J. Atmos. Sci., 74, 3383–3403,
+https://doi.org/10.1175/JAS-D-17-0135.1, 2017.
+Allen, R. J., Norris, J. R., and Kovilakam, M.: Inﬂuence
+of anthropogenic aerosols and the Paciﬁc decadal oscil-
+lation on tropical belt width, Nat. Geosci., 7, 270–274,

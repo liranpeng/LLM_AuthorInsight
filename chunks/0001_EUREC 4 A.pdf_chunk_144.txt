@@ -1,0 +1,10 @@
+4084
+B. Stevens et al.: EUREC4A
+Figure 14. Sub-cloud layer lidar wind versus height above the R/V
+Meteor. Panel (a) shows the value of the wind speed in the sub-
+cloud layer, above 200 m. Fluctuations of the near-surface wind
+speed from a 3-hourly running mean value (b) are shown with an
+expanded vertical scale. The lower time series (c) shows the ratio
+of the wind speed at 40 m (the lowest remotely sensed level) to its
+value at 200 m.
+observations have enhanced knowledge of their occurrence

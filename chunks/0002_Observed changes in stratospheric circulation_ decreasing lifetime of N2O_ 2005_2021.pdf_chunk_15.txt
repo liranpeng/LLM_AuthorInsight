@@ -1,0 +1,12 @@
+ever, these layers have a negligible impact on N2O loss be-
+cause very little of the critical ultraviolet radiation reaches
+below 100 hPa. Each latitude proﬁle is weighted by the area
+of the Earth ±2◦latitude on either side except for latitudes 1
+(90–82◦S) and 43 (82–90◦N). For each column we calculate
+the proﬁle of N2O loss from photolysis (J-N2O) and reaction
+with the electronically excited atomic oxygen O(1D) from
+the three reactions.
+N2O + hv →N2 + O
+(R1)
+N2O + O(1D) →N2 + O2
+(R2)

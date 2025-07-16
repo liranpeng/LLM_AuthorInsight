@@ -1,0 +1,4 @@
+Clough, S. A., Shephard, M. W., Mlawer, E., Delamere, J. S., Iacono, M., Cady-Pereira, K., et al. (2005). Atmospheric radiative transfer mod-
+eling: A summary of the AER codes. Journal of Quantitative Spectroscopy and Radiative Transfer, 91(2), 233–244.
+Coakley, J. A., & P. Chylek (1975) The two-stream approximation in radiative transfer: Including the angle of the incident radiation, Jour-
+nal of the Atmospheric Sciences, 32(2), 409–418.

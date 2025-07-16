@@ -1,0 +1,8 @@
+two-sample Anderson-Darling test as an alternative to the
+Kolmogorov-Smirnoff test, J. Appl. Quant. Meth., 6, 1–17, 2011.
+Falke, S. R.: Mapping air quality: Spatial estimation of pollutant
+concentrations from point monitoring data, D.Sc. Thesis, Wash-
+ington University, St. Louis, Missouri, 1999.
+Fiore, A., Jacob, D., Bey, I., Yantosca, R., Field, B., Fusco, A., and
+Wilkinson, J.: Background ozone over the United States in sum-
+mer: origin, trend, and contribution to pollution episodes, J. Geo-

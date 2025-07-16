@@ -1,0 +1,9 @@
+why it has so much scatter in L-O3 and L-CH4 (see discus-
+sion of T and q later); GFDL has similar scatter (see T and
+q) but also has a low-bias in L-O3; and GISS has many dif-
+ferences that can be examined. As a cross-model question,
+are the above-the-line (UCI) and below-the-line (GSFC) dif-
+ferences in P -O3 and L-CH4 related to the same pattern in
+J-NO2?
+A simple summary of these statistics – averages and rms
+differences relative to the reference case – is given in Table 3.

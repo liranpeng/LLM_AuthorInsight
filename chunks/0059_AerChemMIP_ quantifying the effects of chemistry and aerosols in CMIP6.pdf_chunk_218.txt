@@ -1,0 +1,8 @@
+Phys., 6, 575–599, doi:10.5194/acp-6-575-2006, 2006.
+Ghan, S. J., Liu, X., Easter, R. C., Zaveri, R., Rasch, P. J., Yoon, J.-
+H., and Eaton, B.: Toward a minimal representation of aerosols
+in climate models: Comparative decomposition of aerosol direct,
+semi-direct and indirect radiative forcing, J. Clim., 25, 6461–
+6476, doi:10.1175/JCLI-D-11-00650.1, 2012.
+Ghan, S., Wang, M., Zhang, S., Ferrachat, S., Gettelman, A., Gries-
+feller, J., Kipling, Z., Lohmann, U., Morrison, H., Neubauer,

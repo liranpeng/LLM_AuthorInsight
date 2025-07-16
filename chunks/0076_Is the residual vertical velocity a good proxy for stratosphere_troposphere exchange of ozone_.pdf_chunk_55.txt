@@ -1,0 +1,5 @@
+O2 photolysis wrongly reduces the net STE into the troposphere, biasing the net STE to lower values. This
+sometimes does not show up in the LS sequence (C29 NH), but in other cases, the LMS domain has similar
+biases. The use of an O3 isosurface is thus not preferred. In the NH, but not SH, seasonal amplitude (S-rms) is
+larger for e90 than either O3 surface and truly reﬂects the seasonality of STE.
+3.2. Interannual Variability in the Northern Hemisphere

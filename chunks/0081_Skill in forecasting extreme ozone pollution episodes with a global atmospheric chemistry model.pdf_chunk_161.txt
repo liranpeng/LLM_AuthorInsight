@@ -1,0 +1,8 @@
+rected for. One could remove a linear trend from the station
+observations prior to their use in the interpolation or calculate
+a ﬁt to the O3 precursor emissions over the decade and ad-
+just the data year by year. In terms of AQX events, one could
+deﬁne them on a year-by-year basis and look at size only;
+however the absolute interannual variability over a decade
+remains a very important test of the models.
+The Supplement related to this article is available online

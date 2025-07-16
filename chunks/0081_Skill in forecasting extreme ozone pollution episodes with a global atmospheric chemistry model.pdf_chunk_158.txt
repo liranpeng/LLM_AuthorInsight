@@ -1,0 +1,8 @@
+quality simulated by the chemistry–climate models is cen-
+tered on the size and duration of AQX episodes and their
+interannual variability. This is a bias-free test as shown with
+the UCI CTM, and should be able to identify when more bad
+years occur in a decade under a future climate, independent
+of global changes in baseline levels of pollutants. Our statis-
+tics will be used to test the chemistry–climate models used in
+the recent IPCC assessment (CMIP5/ACCMIP).

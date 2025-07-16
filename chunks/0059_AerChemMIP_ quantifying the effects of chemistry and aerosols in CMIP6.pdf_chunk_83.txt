@@ -1,0 +1,8 @@
+For models without interactive chemistry, hist-piNTCF and
+hist-piAer are identical and the same ozone climatology as
+historical should be used. Note that the climate signal from
+aerosols and reactive gas perturbations will include biogeo-
+chemical feedbacks via climate impacts on emissions, chem-
+istry and transport of constituents, which requires further ex-
+periments and diagnostics described below in Sect. 3.4.
+The total simulation years requested for this set of experi-

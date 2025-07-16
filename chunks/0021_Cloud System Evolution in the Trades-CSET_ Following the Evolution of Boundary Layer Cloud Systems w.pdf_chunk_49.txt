@@ -1,0 +1,5 @@
+and their associated precipitation structures. The first three Doppler spectra moments 
+(reflectivity, mean Doppler velocity and spectral width) calculated using the pulse-pair 
+technique were displayed in real-time on the aircraft and recorded and archived for 
+processing. In addition, the raw data that give phase and amplitude from the inphase (I) and 
+quadrature-phase (Q) signals for each pulse were recorded and archived for each flight.

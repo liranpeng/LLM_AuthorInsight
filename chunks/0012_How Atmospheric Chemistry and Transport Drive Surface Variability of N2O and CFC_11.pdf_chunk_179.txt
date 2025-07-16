@@ -1,0 +1,8 @@
+middle-left show the decaying tracer N2OX; the middle-right panel is the NOAA ESRL surface N2O, 
+and the bottom panels show the decaying tracer F11X. Each plot is normalized by subtracting its mean 
+rate of change during the overlap period (years 2001-2016), The global mean rate of change and 
+standard deviation are shown in the top caption of each panel.  Note, the scale of the F11X colorbar is 
+twice the magnitude of the N2O/N2OX colorbar. 
+ 
+ 
+3

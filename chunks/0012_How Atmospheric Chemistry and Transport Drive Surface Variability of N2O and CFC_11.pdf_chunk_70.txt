@@ -1,0 +1,4 @@
+and decays without sources (see supplementary Figure S1b). LMDz5 did not simulate F11X. With no equiv-
+alent stratospheric observational counterpart, we cannot compare the modeled stratospheric loss with ob-
+servations. F11X responds to stratospheric circulation changes in the lower stratosphere with loss occurring 
+in the tropics about 8 km below that of N2O. Although N2O must be transported through the lower strato-

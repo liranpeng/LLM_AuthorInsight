@@ -1,0 +1,10 @@
+Bergmann, Dan}, title = {Interactive
+Photochemistry in Earth System Models to Assess
+Uncertainty in Ozone and Greenhouse Gases. Final
+report}, institution = {Univ. of California,
+Irvine, CA (United States)}, annote = {Atmospheric
+chemistry controls the abundances and hence
+climate forcing of important greenhouse gases
+including N2O, CH4, HFCs, CFCs, and O3.
+Attributing climate change to human activities
+requires, at a minimum, accurate models of the

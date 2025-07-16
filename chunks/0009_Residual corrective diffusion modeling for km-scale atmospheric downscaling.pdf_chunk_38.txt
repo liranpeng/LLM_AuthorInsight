@@ -1,0 +1,7 @@
+frontal boundaries across more samples in Supplementary
+Section 7.1, which reveals that CorrDiff consistently adjusts the
+winds, temperature and radar reflectivity at the front, but that its
+skill in sharpening frontal gradients exhibits case-to-case variability.
+Examining the UNet cross sections (blue lines in all these figures)
+we find that its predictions often fall within the range of one
+standard deviation from the mean of CorrDiff predictions. However,

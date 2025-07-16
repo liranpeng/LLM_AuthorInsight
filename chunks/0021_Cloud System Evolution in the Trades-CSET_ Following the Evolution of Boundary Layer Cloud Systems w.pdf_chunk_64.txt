@@ -1,0 +1,6 @@
+Atmospheric Profiling System (https://www.eol.ucar.edu/observing_facilities/avaps-
+dropsonde-system). In-situ data collected from the sondes’ sensors were transmitted back in 
+real time to an onboard aircraft data system via radio link. Input for times and locations of 
+the drop releases were sent from the flight scientist on the GV to the CSET home base in 
+Sacramento where an operator these would send instructions to the GV to trigger the sonde 
+launches at the designated points.

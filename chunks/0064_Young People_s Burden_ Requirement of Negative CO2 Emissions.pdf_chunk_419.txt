@@ -1,0 +1,8 @@
+(last access: January 2017), 2016.
+van Vuuren, D. P., Edmonds, J., Kainuma, M., Riahi, K., Thomson,
+A., Hibbard, K., Hurtt, G. C., Kram, T., Krey, V., Lamarque, J.-
+F., Masui, T., Meinshausen, M., Nakicenovic, N., Smith, S. J.,
+and Rose, S. K.: The representative concentration pathways: an
+overview, Climatic Change, 109, 5–31, 2011.
+Vial, J., Dufresne, J. L., and Bony, S.: On the interpretation of inter-
+model spread in CMIP5 climate sensitivity estimates, Clim. Dy-

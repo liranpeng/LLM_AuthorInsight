@@ -1,0 +1,8 @@
+relationships are applied to the measured and modeled spec-
+tra. The strong connection between measurement and model
+has been established in past campaigns (Shetter et al., 2002,
+2003; Hofzumahaus et al., 2004). The ATom CAFS data
+set used here is a value-added product beyond the standard
+ATom output (Wofsy et al., 2018), and it is archived with this
+paper. Only data from the ﬁrst deployment, ATom-1, were
+available when this paper was being prepared.

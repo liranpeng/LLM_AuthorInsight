@@ -1,0 +1,8 @@
+istry. The combination of the new maximum-correlated cloud
+groups with the integration over all cloud combinations by
+four quadrature atmospheres produces mean J values in an
+atmospheric column with root mean square (rms) errors of
+4 % or less compared with 10–20 % errors using simpler
+approximations. Cloud-J is practical for chemistry–climate
+models, requiring only an average of 2.8 Fast-J calls per
+atmosphere vs. hundreds of calls with the correlated cloud

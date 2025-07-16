@@ -1,0 +1,11 @@
+ing skill and suggest the suitability of using GEOS-5 forecast
+products to guide the design and execution of aircraft cam-
+paigns.
+4
+Source contributions to the global CO distribution
+4.1
+Global CO distribution
+Figure 4 compares CO from GEOS-5 to the QCLS CO ob-
+servations for the ATom-1 circuit including the 11 total ﬂight
+segments. The GEOS-5 CO is taken from the analysis closest
+to the midpoint of the ﬂight time and interpolated to the ﬂight

@@ -1,0 +1,18 @@
+aerosol tracks and 2D satellite images of ship
+tracks. The power of experimental data in
+enhancing knowledge of aerosol-cloud interactions
+is in particular emphasized by studying key
+aerosol microphysical and optical properties as
+observed through their mixing in cloud-like
+environments.}, doi = {10.2172/2430132}, url =
+{https://www.osti.gov/biblio/2430132}, place =
+{United States}, year = {2023}, month = {11}}
+🗎 Copy to clipboard
+Export 
+•  Endnote
+•  RIS
+•  CSV/Excel
+•  XML
+•  JSON
+Share 
+•

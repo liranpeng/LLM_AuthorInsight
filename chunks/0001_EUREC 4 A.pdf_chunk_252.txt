@@ -1,0 +1,11 @@
+All-sky camera
+Vertically operating visible (hemispheric) and infrared camera to infer cloud coverage
+Disdrometer
+Eigenbrodt ODM470 optical sensor measuring droplet size distributions
+Particle counter
+Size-resolved CCN measurements (CCN-100, DMT vs. CPC 5.412 – GRIMM)
+Particle counter
+CPC (TSI 3750) measuring total aerosol/condensation nuclei (CN) concentration (d > 10 nm)
+Particle sizer
+SMPS (GRIMM 5.420) measuring aerosol/CN size distribution (10 to 1000 nm)
+Particle sizer

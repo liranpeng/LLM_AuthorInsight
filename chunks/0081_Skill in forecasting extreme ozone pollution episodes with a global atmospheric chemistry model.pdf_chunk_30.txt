@@ -1,0 +1,9 @@
+clustered data more like a single site (Wackernagel, 2003).
+Since many observation sites in the US and EU data sets
+are located in close proximity to one another, some form of
+www.atmos-chem-phys.net/14/7721/2014/
+Atmos. Chem. Phys., 14, 7721–7739, 2014
+7724
+J. L. Schnell et al.: Skill in forecasting extreme ozone pollution episodes
+declustering is desired in our interpolation. Isaaks and Sri-
+vastava (1989) note that, when the effect of data clustering

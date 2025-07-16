@@ -1,0 +1,21 @@
+135
+Table 3. Data potentially relevant for computational efﬁciency. Columns are scheme acronym, width of halo or computational stencil to
+update tracer value, number of stages for multi-step time-stepping algorithms (right-hand side evaluations), CN time step restriction (“Lips-
+chitz” is a ﬂow-dependent time step limitation), and what information can be reused for each additional tracer.
+Scheme
+Width of halo
+# stages
+Max. CN
+Reuse
+CAM-FV
+3
+1
+Lipschitz
+Trajectories
+CAM-SE
+1
+3
+0.26
+None
+CCSRG
+2

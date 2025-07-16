@@ -1,0 +1,5 @@
+Journal of Geophysical Research: Atmospheres
+Newman, P. (2020). NASA, G. The quasi-biennial oscillation (QBO). Retrieved from https://acd-ext.gsfc.nasa.gov/Data_services/met/qbo/
+qbo.html
+Newman, P. A., Coy, L., Pawson, S., & Lait, L. R. (2016). The anomalous change in the QBO in 2015–2016. Geophysical Research Letters, 
+43(16), 8791–8797. https://doi.org/10.1002/2016gl070373

@@ -1,0 +1,6 @@
+over 50 km × 50 km subdomains labeled “A” to “D” are compared to large-eddy simulation. The large-eddy simulation employed a 100 m
+mesh, doubly periodic horizontal boundary conditions, and horizontally homogeneous mean forcing is estimated from measurements in the
+vicinity of subdomain “D”.
+sium entitled “From BOMEX to EUREC4A”. The sympo-
+sium brought together a varied audience, including regional
+and international scientists, EUREC4A participants, and stu-

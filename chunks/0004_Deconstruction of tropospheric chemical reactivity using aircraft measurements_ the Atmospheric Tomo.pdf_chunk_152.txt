@@ -1,0 +1,10 @@
+and then v3 (solid lines). See Fig. 40.
+5.3
+Distribution of the key ATom species
+We examine the distribution of key species over the Paciﬁc
+Ocean and Atlantic Ocean basins with mean proﬁles of NOx
+(v2b), NOxﬁt (v3), and HOOH in Fig. 56. In the Paciﬁc, the
+impact of v3 NOx (labeled NOxx) is to reduce some high val-
+ues in ATom-34 and make ATom-234 almost identical in the
+Paciﬁc. ATom-1 NOx remains much smaller than the other
+Earth Syst. Sci. Data, 15, 3299–3349, 2023

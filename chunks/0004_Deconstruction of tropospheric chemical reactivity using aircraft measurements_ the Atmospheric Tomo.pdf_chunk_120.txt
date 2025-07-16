@@ -1,0 +1,8 @@
+There were long stretches of these gaps (ﬂag = 4) and miss-
+ing ﬂight data (ﬂag = 5) that resulted in critical ﬂight seg-
+ments being ﬁlled with mean proﬁle data. These gaps are
+caused by the lack of NO2 rather than NO measurements as
+shown in Fig. 49 (four ATom deployments multiplied by two
+ocean basins). The number of proﬁles with NO data but no
+NO2 data (red dots) is extensive and covers some key regions
+(e.g., the lower troposphere in the Atlantic in ATom-2 or the

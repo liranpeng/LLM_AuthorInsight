@@ -1,0 +1,19 @@
+¯S = exp
+ n
+X
+i=1
+(Si · lnSi)
+, n
+X
+i=1
+(Si)
+!
+,
+(6)
+where n is the number of episodes and Si is the size of the
+episode. Equation (6) was chosen over the simple arithmetic
+mean to reduce the inﬂuence of the numerous small episodes
+while giving more weight to larger episodes.
+The majority of AQX events are grouped into large-area,
+multiday clusters that we deﬁne as AQX episodes. The com-
+plementary cumulative distribution function (CCDF = 1 mi-

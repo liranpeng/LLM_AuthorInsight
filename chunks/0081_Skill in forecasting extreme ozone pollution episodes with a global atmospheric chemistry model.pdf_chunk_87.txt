@@ -1,0 +1,8 @@
+rent sampling (Exact). Left column (a, c) is US and right column
+(b, d) is EU. Top row (a, b) shows the PDFs for winter months
+(DJF), and bottom row (c, d) for summer months (JJA). The me-
+dian of each PDF was subtracted prior to plotting and is listed in the
+legend.
+From Fig. 7 we conclude (correctly) that during summer the
+CTM has a uniform bias of +30 ppb over the full range about
+the median (−15 to +20 ppb), but that during winter it has

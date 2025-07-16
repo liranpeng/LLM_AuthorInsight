@@ -1,0 +1,8 @@
+tury is a drop in climate forcing of −0.23 W m−2 (Prather et
+al., 2013). Protocol amendments that add other gases such as
+HFCs are important; forcings of these gases are small today,
+but without the protocol their potential for growth is possibly
+as large as +0.2 W m−2 (Prather et al., 2013).
+We conclude that a 0.25 W m−2 decrease in climate forc-
+ing by non-CO2 GHGs is plausible, but requires a dra-
+matic change from the growing abundances of these gases

@@ -1,0 +1,8 @@
+the 32 383 parcels of ATom-1. The mean errors in placement
+are very small, and even the root-mean-square error (RMSE)
+is modest (±1.7◦latitude, ±5.7◦longitude, ±15.3 hPa).
+The CTM or CCM is run for 24 h without advection, con-
+vection, or other mixing and without wet scavenging or dry
+deposition or emissions. These requirements are critical be-
+cause otherwise the air parcel’s evolution would depend on
+the composition of neighboring cells, which are unknown

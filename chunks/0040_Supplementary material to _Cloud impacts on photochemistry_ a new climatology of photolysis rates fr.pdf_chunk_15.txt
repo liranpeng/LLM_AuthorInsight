@@ -1,0 +1,8 @@
+enhancement (rlnJ = 0.05) occurs at COD = 2 for J-O1D and COD = 1 for J-NO2, demonstrating the greater 
+sensitivity of J-NO2 to clouds.  
+ 
+ 
+ 
+Figure S8.  Probability distribution of the natural log of the ratio of J-values calculated using an interactive ocean 
+surface albedo (OSA) to J-values using a fixed albedo.  J-O1D values (left) and J-NO2 values (right) assume clear 
+skies for both OSA and fixed-albedo.  This format is similar to Figure 4.  The interactive OSA model includes a

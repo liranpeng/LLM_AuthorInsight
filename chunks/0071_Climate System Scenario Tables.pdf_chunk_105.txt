@@ -1,0 +1,10 @@
+–0.150
+0.073
+0.040
+0.050
+0.030
+–0.125
+Notes:
+See Figure 8.18, also Sections 8.1 and 11.3.6.1. To get the total ERF (effective radiative forcing) all components can be summed. Small negative values for CO2 prior to 1800 are due to uncertainty 
+in PI values. GHG other* includes only WMGHG. Aerosol is the sum of direct and indirect effects. LUC includes land use land cover change. Contrails combines aviation contrails (~20% of total) 
+and contrail-induced cirrus. Values are annual average.

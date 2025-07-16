@@ -1,0 +1,8 @@
+resolution. Nevertheless, the O3 and CH4 responses to 5 %
+increases in ship NOx emissions are unchanged from the
+ﬁner resolution. Given this resolution independence, we con-
+duct additional sensitivity tests at coarse resolution for com-
+putational expediency. A previous version of the model (9-
+01-02) differs by less than 10 % in terms of ship NOx per-
+turbations from the current version, despite improvements
+to wet scavenging, sea-salt aerosol, and stratospheric chem-

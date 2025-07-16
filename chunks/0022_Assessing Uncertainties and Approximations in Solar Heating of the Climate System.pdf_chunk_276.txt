@@ -1,0 +1,6 @@
+SJ/CLIRAD Solar-J with IR bands replaced with CLIRAD model: 0.70-1.22, 1.22-2.27, and 2.27-
+10.0 µm, each with 10 absorption sub-bins for each band (Chou and Suarez, 1996).  The 
+edge of the IR transition is shifted from 778 to 700 nm and cross section in bin 18 are 
+adjusted.  Only water vapor is included in the IR bands. 
+SJ/LLNL 
+The IR bands are replaced by the 3 large LLNL bands: 0.69–0.86, 0.86–2.27, and 2.27–

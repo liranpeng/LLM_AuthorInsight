@@ -1,0 +1,6 @@
+from ocean to land and global energy flows in reanalyses. Journal of Climate, 24(18):4907–4924,
+September 2011. doi:10.1175/2011jcli4171.1.
+[20] UFS Community. Unified forecast system (UFS). UFS, Oct 2020. doi:10.5281/zenodo.4460292.
+[21] Warren M. Washington and Claire L. Parkinson. An Introduction to Three-Dimensional Climate
+Modeling. University Science Books, Sausalito, CA, 2005.
+[22] D. Watson-Parris, Y. Rao, D. Olivié, Ø. Seland, P. Nowack, G. Camps-Valls, P. Stier, S. Bouabid,

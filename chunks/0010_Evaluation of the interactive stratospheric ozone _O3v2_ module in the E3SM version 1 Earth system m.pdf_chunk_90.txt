@@ -1,0 +1,9 @@
+for O3v1, and red dots for O3v2. Smaller numbers mean bet-
+ter simulations.
+For the global comparisons (Fig. 10), at the top-of-
+atmosphere (TOA) the radiation variables (Fig. 10a–c) are
+similar or slightly better for O3v2 than for O3v1. At the sur-
+face, the precipitation (Fig. 10d), surface air temperature over
+land (Fig. 10e), and zonal wind stress over ocean (Fig. 10f)
+remain relatively unchanged, except slight degradations for
+surface air temperature over land during March–May and for

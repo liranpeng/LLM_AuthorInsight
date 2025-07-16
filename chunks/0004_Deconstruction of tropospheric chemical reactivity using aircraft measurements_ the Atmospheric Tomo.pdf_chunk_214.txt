@@ -1,0 +1,7 @@
+CH4]/dln[CH4] −1, for the Paciﬁc and Atlantic basins, and (c, d) the CH4 lifetime feedback factor ffCH4 = 1/(1 + sOH) for the same.
+pre-ATom deployment papers (P2017 and P2018) is still the
+best method for calculation of diel-averaged rates. The ATom
+method of inserting the observed chemical composition of
+10 s parcels into global chemistry models to calculate reac-
+tion rates (RDS) remains a compromise: integrating without
+sources or sinks means that NOx and alkanes decrease over

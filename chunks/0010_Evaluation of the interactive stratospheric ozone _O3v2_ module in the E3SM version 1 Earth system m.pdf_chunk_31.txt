@@ -1,0 +1,9 @@
+2.3
+Evaluating models versus observations
+The observational metrics used here are (i) monthly zonal
+mean stratospheric column ozone (SCO), (ii) monthly aver-
+aged ozone proﬁles in the stratosphere, and (iii) daily geo-
+graphically resolved total column ozone (TCO) following the
+evolution of the Antarctic ozone hole. To avoid confounding
+potential errors in the stratosphere with those in the tropo-
+sphere, we take the uncommon approach of comparing only

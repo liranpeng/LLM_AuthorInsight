@@ -1,0 +1,8 @@
+possible, but here we want to compare the “natural” Js used
+in their full-scale simulations (e.g., Lamarque et al., 2013)
+and thus leave each model to its native atmospheres, spectral
+data, algorithms, and approximations.
+The models show a much tighter match in J proﬁles un-
+der clear-sky conditions (Fig. 2). Typically, eight of the mod-
+els fall within 10 % of their collective mean proﬁle. Some
+models are obviously different in J-clear (GISS and MOCA

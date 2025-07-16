@@ -1,0 +1,17 @@
+Top 10 % Rs from ref model
+J−O1D (/s)   
+ 
+ 
+GFDL
+GISS
+GSFC
+GC
+NCAR
+UCI
+Figure 7. Modeled Reactivity and J-values for 5-day mean parcels plotted using the top-10 % in the reference case in ascending order along
+the x axis. The black dashed monotonically increasing line is the reference case parcels.
+posphere) have better agreement than the top-10 % J-NO2
+which are more sensitive to clouds.
+3.5
+Assumptions and uncertainties in the experiment
+design

@@ -1,0 +1,4 @@
+A stronger Brewer-Dobson circulation indeed means a larger downward O3 ﬂux. However, the increase
+does not scale linearly across all time scales because the eddy transport and the irregular buﬀering through
+the change in the lowermost stratospheric volume mass are also important factors for determining where
+and when STE of O3 takes place. With a stronger BDC in the simulation driven by ECMWF-IFS cycle 29r1

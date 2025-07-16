@@ -1,0 +1,8 @@
+NOx, methane, and CO. These levels are likely to change in the
+future and may also inﬂuence the climate impacts of hydrogen,
+making it stronger or weaker. For instance, Warwick et al.16 ﬁnds
+that a reduction in CO, NOx, and VOC emissions alongside
+increases in hydrogen leads to smaller increase in methane due to
+a reduction in OH, but that the total response is complex and
+strongly scenario dependent. Future work should explore these
+dependencies further, including changes in co-emitted species

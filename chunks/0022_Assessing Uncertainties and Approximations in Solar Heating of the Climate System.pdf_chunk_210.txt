@@ -1,0 +1,5 @@
+1463–1478.
+Barker, H. W., Kato, S., & Wehr, T. (2012). Computation of solar radiative fluxes by 1D and 3D methods using cloudy atmospheres inferred 
+from A-train satellite data. Surveys in Geophysics, 33, 657–676. https://doi.org/10.1007/s10712-011-9164-9
+Barker, H. W. & Li, J. (2019). Accelerating radiative transfer calculations for high-resolution atmospheric models. Quarterly Journal of the 
+Royal Meteorological Society, 145, 2046–2069.

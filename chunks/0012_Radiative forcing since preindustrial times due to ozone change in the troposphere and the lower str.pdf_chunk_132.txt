@@ -1,0 +1,6 @@
+only (i.e. “2 minus 1c”, except LMDzINCA, UM CAM, and STOCHEM HadAM3, for which “2 minus 1b” is shown). The radiative forcing
+calculation is made by the UiO-RTM and the tropopause level is based on the NCEP year 2000 reanalysis.
+and the solar scheme is a multi-stream model using the dis-
+crete ordinate method (for more details see Myhre et al.,
+2000). Temperature, water vapor, surface albedo, and cloud
+data are taken from the European Centre for Medium-range

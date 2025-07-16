@@ -1,0 +1,8 @@
+jections and predictability, in Climate Change 2013: The Phys-
+ical Science Basis, chapter 11, IPCC WGI Contribution to the
+Fifth Assessment Report, 2013.
+Lamarque, J.-F., Emmons, L. K., Hess, P. G., Kinnison, D. E.,
+Tilmes, S., Vitt, F., Heald, C. L., Holland, E. A., Lauritzen,
+P. H., Neu, J., Orlando, J. J., Rasch, P. J., and Tyndall, G.
+K.: CAM-chem: description and evaluation of interactive at-
+mospheric chemistry in the Community Earth System Model,

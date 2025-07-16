@@ -1,0 +1,9 @@
+within the range of the distribution function of Boucher et
+al. (2013).
+Positive net forcing (Fig. 4) causes Earth to be temporarily
+out of energy balance, with more energy coming in than go-
+ing out, which drives slow global warming. Eventually Earth
+will become hot enough to restore planetary energy balance.
+However, because of the ocean’s great thermal inertia (heat
+capacity), full atmosphere–ocean response to the forcing re-
+quires a long time: atmosphere–ocean models suggest that

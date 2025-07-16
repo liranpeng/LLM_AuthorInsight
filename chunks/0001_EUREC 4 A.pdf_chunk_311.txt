@@ -1,0 +1,10 @@
+GNSS
+Global Navigational Satellite System (GNSS) antennas and receivers for measuring underway colum-
+nar water vapor content
+Particle sizer
+SMPS (TSI 3080) measuring aerosol/CN size distribution (10 to 420 nm)
+Micro Rain Radar
+A 24 GHz meteorological radar proﬁler for Doppler spectra of hydrometeors and multiple parameters
+related to rain
+Cloud radar
+RPG FMCW94 cloud radar to characterize the atmospheric state and clouds (including precipitation

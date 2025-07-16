@@ -1,0 +1,9 @@
+underestimate O3 production. Figure 5 also shows three RFs
+estimates derived from our previous analysis of CH4 lifetime
+(Holmes et al., 2013). Two of these estimates lie within the
+cluster of literature values and are based on CTMs that as-
+sume instant dilution, while the outlying third estimate based
+on an earlier version of GEOS-Chem with ﬁxed OPE demon-
+strates that plume chemistry signiﬁcantly inﬂuences the cli-
+mate impact of ships.
+In this work, the short-lived O3 and CH4 RFs with para-

@@ -1,0 +1,7 @@
+the CTMs simulate an artificial tracer N2OX like that in Hamilton and Fan (2000). N2OX is initialized as 
+N2O at the beginning of the simulations, has the same stratospheric chemical loss frequency as N2O, has no 
+sources or emissions, and thus decays at a semi-regular rate of about 0.8%/yr (see Figure 1 for loss frequency 
+and supplementary Figure S1a for change in burden (TgN) of N2O versus N2OX). With the decaying N2OX 
+RUIZ ET AL.
+10.1029/2020JD033979
+4 of 16

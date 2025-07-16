@@ -1,0 +1,10 @@
+m All anthropogenic NOx emission occurring on land, including combustion, agriculture, and waste.
+deﬁned as
+α = d ln(τCH4×OH)/d ln(F).
+(2)
+As such, α can be interpreted as the percent change in
+τCH4×OH resulting from a 1 % increase in F.
+Table 2 reports sensitivities for the evaluated climate and
+emission variables. These variables include most of those
+identiﬁed in the literature as important inﬂuences on tropo-
+spheric OH and τCH4×OH variability: temperature, water va-

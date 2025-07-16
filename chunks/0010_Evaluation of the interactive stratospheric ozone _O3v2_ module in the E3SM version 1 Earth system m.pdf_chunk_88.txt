@@ -1,0 +1,8 @@
+deterioration of other parts. The more physical representa-
+tions of processes do not necessarily lead to better model per-
+formance against observations. Therefore, it is critical to en-
+sure that the O3v2 scheme does not cause signiﬁcant degra-
+dation of the simulated mean climate or the climate sensitiv-
+ity. Here we apply the same diagnostic to examine the overall
+climate performance as was used in the E3SMv1 overview
+papers (Golaz et al., 2019; Caldwell et al., 2019). In this

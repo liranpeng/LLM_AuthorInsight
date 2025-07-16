@@ -1,0 +1,8 @@
+tem models. The goal is to take a time stream of species-
+rich, high-resolution (100–300 m), spatially sparse observa-
+tions, such as from an aircraft mission (e.g., ATom, 2017),
+and have the current 3-D global or regional models use that
+observed data directly to evaluate chemical reactivity in each
+parcel. With this protocol, we avoid model artifacts in the
+data stream, such as occur in assimilated data, but must ac-
+www.atmos-meas-tech.net/11/2653/2018/

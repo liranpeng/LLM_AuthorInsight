@@ -1,0 +1,5 @@
+each band and will be minorly affected by the method of averaging. SJ/66b is the Solar-J variant using these 
+66 narrow bands.
+Lu et al. (2011: LZL) noted that RRTM's wide infrared bands average over both reflecting and absorbing 
+wavelengths in clouds. LZL use a correlated k-distribution that combines the line-by-line water vapor with 
+the continuum liquid-water cloud optical properties to produce a set of sorted cloud + vapor bins within

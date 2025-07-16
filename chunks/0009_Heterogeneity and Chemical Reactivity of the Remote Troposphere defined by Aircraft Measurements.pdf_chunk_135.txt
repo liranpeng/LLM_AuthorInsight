@@ -1,0 +1,10 @@
+Atmos. Chem. Phys., 21, 13729–13746, 2021
+13744
+H. Guo et al.: Heterogeneity and chemical reactivity of the remote troposphere
+sults have been examined by a co-author, but no clear causes
+have been identiﬁed as of this publication. The problem goes
+beyond just the implementation of the RDS protocol, as it
+shows up in the model climatology (Figs. 4 and 5, also in
+P2017).
+Decadal-scale shifts in the budgets of O3 and CH4 are
+likely to be evident through the statistical patterns of the key

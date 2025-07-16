@@ -1,0 +1,8 @@
+(e.g., ref. 8) or dynamically downscaled meteorology (e.g.,
+ref. 219 and 220).
+Approaches (1) and (2) provide valuable process-level
+relationships that can be used to evaluate the present-climate
+simulations in the modeling systems under Approach (3).
+Caution is needed when applying air pollution relationships
+with meteorological variables on small spatial scales to project
+air quality responses to future climate change since the sensi-

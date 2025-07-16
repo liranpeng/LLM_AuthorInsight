@@ -1,0 +1,8 @@
+nus cumulative distribution function) of the percentage of the
+total areal extent of all events as a function of episode size
+is shown in Fig. 11. For years 2005–2006 and gridded US
+observations, about 74 % of all events occurred in episodes
+greater than 100 × 104 km2-days and about 31 % in episodes
+greater than 1000 × 104 km2-days; for the CTM, the corre-
+sponding fractions are 66% greater than 100 × 104 km2-days
+and 37 % greater than 1000 × 104 km2-days (Fig. 11a). For

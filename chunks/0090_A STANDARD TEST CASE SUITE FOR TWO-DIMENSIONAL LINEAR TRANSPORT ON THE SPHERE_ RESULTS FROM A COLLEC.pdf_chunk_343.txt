@@ -1,0 +1,8 @@
+port schemes: desirable properties and a semi-Lagrangian view
+on ﬁnite-volume discretizations, in: Numerical Techniques for
+Global Atmospheric Models, edited by: Lauritzen, P. H., Nair,
+R. D., Jablonowski, C., and Taylor, M., Lecture Notes in Compu-
+tational Science and Engineering, Springer, 2011, 80, 185–250,
+2011b.
+Lauritzen, P. H., Skamarock, W. C., Prather, M. J., and Tay-
+lor, M. A.: A standard test case suite for two-dimensional lin-

@@ -1,0 +1,10 @@
+content, liquid water path, and rain rate
+Pyrgeometer
+Kipp and Zonen CGR4 sensor measuring hemispheric broadband downwelling longwave (4.5 to
+42 µm) radiative ﬂuxes
+Pyranometer
+Kipp and Zonen CMP21 sensor measuring hemispheric broadband downwelling and diffuse short-
+wave (0.285 to 2.8 µm ) radiative ﬂuxes
+Pyrheliometer
+Kipp and Zonen CHP1 sensor measuring direct normal shortwave (0.2 to 4 µm) radiative irradiance
+All-sky camera

@@ -1,0 +1,9 @@
+Ofﬁce of Biological & Environmental Research under grant num-
+ber SC0006747. Thanks to Francis Witt (NCAR) for the software
+engineering support in implementing the test case suite in CAM-SE.
+Support for James Kent and Christiane Jablonowski was provided
+by the DOE grants DE-FG02-07ER64446 and DE-SC0006684.
+Geosci. Model Dev., 7, 105–145, 2014
+www.geosci-model-dev.net/7/105/2014/
+P. H. Lauritzen et al.: Results from standard test case suite
+143

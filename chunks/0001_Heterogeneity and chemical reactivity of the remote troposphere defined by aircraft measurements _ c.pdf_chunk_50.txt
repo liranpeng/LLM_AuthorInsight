@@ -1,0 +1,8 @@
+vational data indicative of industrial or biomass burning pol-
+lution or atmospheric processing (HCN, CH3CN, SF6, rela-
+tive humidity, aerosol surface area (four modes), and cloud
+indicator). We choose 10 s averages for our air parcels as a
+compromise and because the 10 s merged data are a standard
+product (Wofsy et al., 2018). A few instruments measure at
+1 s intervals, but the variability at this scale is not that differ-
+ent from 10 s averages (Fig. S2). Most of the key species are

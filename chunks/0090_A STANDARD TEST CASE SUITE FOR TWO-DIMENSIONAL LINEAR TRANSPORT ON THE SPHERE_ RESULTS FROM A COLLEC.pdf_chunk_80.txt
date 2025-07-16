@@ -1,0 +1,8 @@
+when the slope limiter for shape preservation is applied.
+Note that casting the scheme in ﬂux form allows for ﬂux
+limiters such as FCT that can obviously not be used in
+the Lagrangian form (e.g., Lauritzen et al., 2011b). Since
+CSLAM integrates over fewer overlap areas than its ﬂux-
+form version, it is more efﬁcient in its Lagrangian form. The
+CSLAM version used in this comparison was implemented
+on an equiangular gnomonic cubed-sphere grid. CSLAM

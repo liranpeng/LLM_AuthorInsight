@@ -1,0 +1,7 @@
+temperature, specific total water, eastward wind and northward wind) from the original 63 vertical
+layers to 8 layers. The reference model FV3GFS uses a hybrid sigma-pressure vertical coordinate
+(e.g. Figure 3.1 of [7]) where the pressure at vertical layer interface k is defined by:
+pk = ak + bkps
+(2)
+where ak and bk are constant coefficients and ps is the surface pressure. We also use a hybrid
+sigma-pressure vertical coordinate for ACE, but subselect the ak and bk coordinates from FV3GFS

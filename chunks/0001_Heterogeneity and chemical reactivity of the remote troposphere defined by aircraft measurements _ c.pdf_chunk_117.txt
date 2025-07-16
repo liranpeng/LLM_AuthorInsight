@@ -1,0 +1,8 @@
+For these species, the ATom–model agreement is generally
+good. If anything, the models tend to have too much HOOH.
+ATom shows systematically large occurrences of low HOOH
+(50–200 ppt, especially in the central Paciﬁc), indicating,
+perhaps, that convective or cloud scavenging of HOOH is
+more effective than is modeled. HCHO shows reasonable
+agreement in the Atlantic, but in both the central and eastern
+Paciﬁc, the modeled low end (< 40 ppt) is simply not seen in

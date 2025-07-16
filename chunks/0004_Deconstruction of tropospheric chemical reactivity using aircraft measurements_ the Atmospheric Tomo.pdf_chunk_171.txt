@@ -1,0 +1,9 @@
+Figure 55. Probability density of the four reactivities (P-O3, L-O3, L-CH4, L-CO; ppb d−1) in (left) Paciﬁc and (right) Atlantic basins.
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+https://doi.org/10.5194/essd-15-3299-2023
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements
+3335
+Table 5. Probability densities of three key quantities for the tropical oceans: (a) CO (ppb), (b) O3 (ppb), and (c) RHw (%).
+(a)
+Central Paciﬁc (30◦S–30◦N)
+Eastern Paciﬁc (0–30◦N)

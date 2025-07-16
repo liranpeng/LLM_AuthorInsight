@@ -1,0 +1,10 @@
+ACE: A fast, skillful learned global atmospheric model
+for climate prediction
+Oliver Watt-Meyer∗, Gideon Dresdner, Jeremy McGibbon, Spencer K. Clark, Brian Henn,
+Matthew E. Peters, and Christopher S. Bretherton
+Allen Institute for Artificial Intelligence (AI2), Seattle, USA
+James Duncan†
+Graduate Group in Biostatistics, University of California, Berkeley USA
+Noah D. Brenowitz, Karthik Kashinath, Michael S. Pritchard, and Boris Bonev
+NVIDIA, Santa Clara, USA
+Abstract

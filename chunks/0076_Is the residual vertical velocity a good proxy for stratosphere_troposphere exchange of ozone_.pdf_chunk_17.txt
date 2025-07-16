@@ -1,0 +1,4 @@
+dances are much larger in the stratosphere [Gettelman et al., 1997]. If it is a good measure, one can calculate
+this term in conjunction with the breathing of the LMS to relate to the cross-tropopause ﬂuxes as in Hegglin
+and Shepherd [2009]. Validation of the BD method is examined here because this approach not only assumes
+that eddy transports (from horizontal or vertical zonal asymmetry) are negligible for bringing ozone to

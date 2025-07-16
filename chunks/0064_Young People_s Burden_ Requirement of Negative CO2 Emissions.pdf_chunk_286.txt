@@ -1,0 +1,20 @@
+Gas
+Oil
+Coal
+→
+Cement
+↓
+Flaring
+-1
+-1
+-1
+-1
+-1
+-1
+Figure A1. CO2 emissions from fossil fuels and cement use based on Boden et al. (2017) through 2014, extended using BP (2016) energy
+consumption data. Panel (a) is log scale and (b) is linear. Growth rates r in (a) for an n-year interval are from (1 + r)n with end values being
+3-year means to minimize noise.
+Figure A2.
+www.earth-syst-dynam.net/8/577/2017/
+Earth Syst. Dynam., 8, 577–616, 2017
+604

@@ -1,0 +1,8 @@
+diction begins with the best estimate of present-day (2010)
+methane budget, including natural (202 ± 35 Tg yr−1) and
+anthropogenic (352 ± 45 Tg yr−1) emissions and lifetimes
+for loss by tropospheric OH (11.2 ± 1.3 yr), tropospheric
+Cl (200±100 yr), stratospheric reactions (120 ± 24 yr), and
+soil uptake (150 ± 50 yr) (Prather et al., 2012). The scenario
+speciﬁes future anthropogenic methane emissions and we as-
+sume natural emissions could change ±20 % (1σ) by 2100

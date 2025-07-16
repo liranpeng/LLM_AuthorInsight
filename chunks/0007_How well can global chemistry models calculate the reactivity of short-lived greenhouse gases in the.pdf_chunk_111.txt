@@ -1,0 +1,9 @@
+model–model differences.
+Using day-to-day and year-to-year variability in a single
+model, we can deﬁne a lower limit to the differences, which
+is essentially the noise in this protocol, such that models
+are not distinguishably different. For the most part, we ﬁnd
+that the GSFC, GC and UCI models fall into this “indistin-
+guishable from one another” class because their differences
+are within a factor of 2 of the estimated noise level. This
+grouping may be explained in part by the common heritage

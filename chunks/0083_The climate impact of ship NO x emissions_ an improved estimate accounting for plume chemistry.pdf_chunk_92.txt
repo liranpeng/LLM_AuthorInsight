@@ -1,0 +1,8 @@
+(68 %) conﬁdence intervals of ±20 to ±30 %. The largest
+contribution to this uncertainty arises from differing abun-
+dances of photochemical oxidants in the background atmo-
+sphere, which when entrained into ship plumes can alter
+their chemistry. Global emissions and model formulation
+both contribute to these differences in the background at-
+mosphere. Further reductions in RF uncertainty are therefore
+unlikely without stronger observational constraints on radi-

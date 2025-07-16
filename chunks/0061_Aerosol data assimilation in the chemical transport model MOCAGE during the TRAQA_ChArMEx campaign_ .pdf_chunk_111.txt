@@ -1,0 +1,9 @@
+Figure 7. Scatter plots of aerosol optical depths (where colours
+represent the number of points) from the independent observation
+dataset (AERONET) and the simulations: the direct model run (a)
+and the assimilation model run (b). In each panel, correlation (ρ),
+absolute bias (1), root mean square error (RMSE) and standard de-
+viation (σ) are noted. The included data correspond to the period of
+the TRAQA campaign from 25 June until 13 July 2012, and covers
+all stations presented in Fig. 5.
+6.5

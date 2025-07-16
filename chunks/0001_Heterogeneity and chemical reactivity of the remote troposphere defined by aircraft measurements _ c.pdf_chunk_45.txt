@@ -1,0 +1,8 @@
+data (air parcels) for the key reactive species. The MDS is
+based on direct observations and interpolation methods to ﬁll
+gaps as documented in the Supplement. Using version 0 of
+the MDS, we have six chemical models calculating the 24 h
+reactivities, producing a reactivity data stream (RDS version
+0) using protocols noted in the Prologue (P2017) and de-
+scribed further in Sect. 3.2. There, we describe the updated
+modeling protocol RDS* necessary to address measurement

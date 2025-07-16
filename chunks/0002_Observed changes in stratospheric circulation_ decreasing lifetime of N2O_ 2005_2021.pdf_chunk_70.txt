@@ -1,0 +1,9 @@
+https://doi.org/10.1002/2015JD023267, 2015.
+Ruiz, D. J., Prather, M. J., Strahan, S. E., Thompson, R.
+L., Froidevaux, L., and Steenrod, S. D.: How atmospheric
+chemistry and transport drive surface variability of N2O
+and CFC-11, J. Geophys. Res.-Atmos., 126, e2020JD033979,
+https://doi.org/10.1029/2020JD033979, 2021.
+Schwartz, M., Livesey, N., Read, W., and Fuller, R.: MLS/Aura
+Level 3 Monthly Binned Temperature on Assorted Grids V005,
+Greenbelt, MD, USA, Goddard Earth Sciences Data and Infor-

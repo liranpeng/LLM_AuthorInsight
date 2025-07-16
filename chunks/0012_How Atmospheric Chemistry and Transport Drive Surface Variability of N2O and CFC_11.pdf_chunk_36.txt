@@ -1,0 +1,8 @@
+RUIZ ET AL.
+10.1029/2020JD033979
+3 of 16
+Journal of Geophysical Research: Atmospheres
+2.2.  Chemistry-Transport Modeling of N2O – Methods
+For models, we identified three CTMs that could simulate stratospheric loss of N2O using prescribed histor-
+ical meteorology for the MLS period, see Table 1: the Goddard Space Flight Center (GSFC) Global Modeling 
+Initiative (GMI) CTM, the Laboratoire de Météorologie Dynamique, Zoom, Version 5 (LMDz5) CTM, and

@@ -1,0 +1,18 @@
+way for limiting near term climate change (Shindell et al.,
+2012). These reactivities are deﬁned in terms of the follow-
+ing speciﬁc rates:
+CH4 + OH →CH3 + H2O,
+(R1)
+HO2 + NO →NO2 + OH,
+(R2a)
+RO2 + NO →NO2 + RO,
+(R2b)
+O3 + OH →O2 + HO2,
+(R3a)
+O3 + HO2 →HO + O2 + O2,
+(R3b)
+O(1D) + H2O →OH + OH.
+(R3c)
+L-O3 is rate (R1); P -O3 is rates (R2a and b); L-O3 is
+rates (R3a–c). All of the analysis here occurs at pressures
+> 200 hPa and thus the P-O3 term from photolysis of O2,

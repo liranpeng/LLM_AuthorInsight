@@ -1,0 +1,10 @@
+real time.
+2.3
+Instrument clusters
+EUREC4A set itself apart from past ﬁeld studies both through
+new types of measurements, as performed by individual plat-
+forms, but also through the quantity or clustering of certain
+instruments. Instrument clustering means using similar in-
+struments across a number of platforms so as to improve the
+statistical characterization of air masses and their evolution.
+The ability to make such measurements enables estimates

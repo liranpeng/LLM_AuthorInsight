@@ -1,0 +1,7 @@
+Météorologie Dynamique general circulation model: Description and
+background tropospheric chemistry evaluation. J. Geophys. Res. 109, https://
+doi.org/10.1029/2003JD003957 (2004).
+61. Hauglustaine, D. A., Balkanski, Y. & Schulz, M. A global model simulation of
+present and future nitrate aerosols and their direct radiative forcing of climate.
+Atmos. Chem. Phys. 14, 11031–11063 (2014).
+62. Krinner, G. et al. A dynamic global vegetation model for studies of the coupled

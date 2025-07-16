@@ -1,0 +1,8 @@
+shape-preserving limiters affect the scatter shape in different
+ways. It was observed that minimal resolution 1λm is not
+necessarily a good proxy for how well a scheme maintains
+pre-existing functional relations between tracers. From the
+results it is quite clear that the mixing diagnostics measure
+a different aspect of accuracy compared to conventional er-
+ror norms. In particular, they may be used assess if a shape-
+preserving ﬁlter makes the solution more physically realiz-

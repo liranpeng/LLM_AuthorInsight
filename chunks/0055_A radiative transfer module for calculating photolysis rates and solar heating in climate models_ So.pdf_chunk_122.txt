@@ -1,0 +1,7 @@
+Solar-J and from the three RRTMG-SW parameterizations for which τ is delta scaled. (d) Cirrus cloud heating rate proﬁles (K day−1) at an
+SZA of 0◦.
+ponents (reﬂected at top of atmosphere, absorbed in above-
+cloud atmosphere, in-cloud atmosphere, below-cloud atmo-
+sphere, and absorbed at the surface) are shown as a set of
+20 bar charts in Fig. 6. The CRE percent changes relative to
+clear sky are shown as four color bars representing Solar-J

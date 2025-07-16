@@ -1,0 +1,4 @@
+as other physical processes such and precipitation and scavenging of trace species (e.g., Neu & Prather, 
+2012). If we can specify the cloud overlap in terms of separated independent column atmospheres (ICAs, 
+with multiple 1-D RT solutions) or in terms of 3-D cloud fields (a 3-D RT problem) then we can evaluate the 
+errors of different RT methods for case studies using highly accurate methods. One challenge lies in devel-

@@ -1,0 +1,8 @@
+ensemble of models can be used to establish consequences
+for air quality. Most interest is on particulate matter con-
+centrations and high ozone peaks. Since air pollution stan-
+dards have been deﬁned as exceedances for a given time
+window, we request hourly data at surface level for some
+few key substances, such as ozone, PM2.5 and NO2. From
+these frequencies of daily maximum, diurnal cycles in dif-
+ferent climate regimes, boundary layer characteristics can be

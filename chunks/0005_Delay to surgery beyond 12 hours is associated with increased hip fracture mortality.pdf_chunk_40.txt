@@ -1,0 +1,17 @@
+1.351 (1.036–1.794, p = 0.032)
+1.433 (1.057–1.988, p = 0.025)
+After 24 h versus within 24 h
+1.290 (1.101–1.511, p = 0.002)
+1.128 (0.948–1.341, p = 0.172)
+After 48 h versus within 48 h
+1.366 (1.056–1.743, p = 0.015)
+1.015 (0.765–1.329, p = 0.914)
+After 72 h versus within 72 h
+1.437 (0.915–2.154, p = 0.095)
+0.872 (0.526–1.375, p = 0.575)
+Delay to surgery from fall
+OR (univariable)
+OR (multivariable)
+After 12 h versus within 12 h
+1.614 (1.118–2.429, p = 0.015)
+1.550 (1.026–2.459, p = 0.048)

@@ -1,0 +1,8 @@
+diagnostic (Figs. 10 and 11), we compute the uncentered
+RMSE relative to observations for the E3SM models and
+30 CMIP5 AMIP models with the PCMDI Metrics Package
+(PMP) (Gleckler et al., 2016). The E3SM simulations cover
+the period of 1995–2014, while the CMIP5 ensemble cov-
+ers the years 1981–2005. The spatial RMSE of the annual
+and four seasonal averages for nine variables are presented
+as boxes and whiskers for the CMIP5 ensemble, blue dots

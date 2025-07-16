@@ -1,0 +1,9 @@
+for the historical period 1990–2017.
+To study the circulation-driven IAV of CO2, including
+STE, I focus on the Southern Hemisphere (SH) because
+ﬂuctuations in the large biosphere-driven seasonality in the
+Northern Hemisphere (NH) (Fig. 1a and b) will obscure any
+stratosphere-driven IAV there. The UCI CTM uses ECMWF
+integrated forecast ﬁelds at 1.1◦horizontal resolution and
+has proven quite successful in simulating the historical IAV
+of surface N2O, ozone columns, and the Antarctic ozone

@@ -1,0 +1,4 @@
+scaled by 1/(2L+1) for Mie, T-matrix, Bi-Yang and some HG expansions. Where possible, values are calcu-
+lated for Reff = 48 µm and 600 nm. In the Mie calculation, the difference between liquid and ice water is 
+small as expected, but the T-matrix coefficient drops quickly (becoming more isotropic), but then levels off, 
+becoming more forward peaked than the Mie at L > 5 for hexagonal ice and L > 7 for irregular ice. The HG

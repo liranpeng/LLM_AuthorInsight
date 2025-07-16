@@ -1,0 +1,8 @@
+the ﬂow throughout the integration or at least for multiple
+time steps. Each sub-category of (semi-)Lagrangian ﬁnite-
+volume schemes is discussed in a separate section below.
+Conservation of mass in (semi-)Lagrangian ﬁnite-volume
+schemes is based on the physical constraint that the integral
+of mass over the Lagrangian areas at time level n and n + 1
+must match. This physical constraint is more rigorous than
+the requirement for mass conservation in ﬂux-form schemes,

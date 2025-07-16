@@ -1,0 +1,26 @@
+the SH, which is not often used for model evaluation. A more
+serious uncertainty analysis focusing on the SH sources and
+sinks, the annual and IAV cycles, and their trends would help
+solidify our knowledge of the carbon cycle.
+Code and data availability. All
+data
+and
+code
+used
+in
+this
+analysis
+are
+placed
+in
+the
+archive
+at
+datadryad.org:
+https://doi.org/10.7280/D1N10J
+(Prather,
+2022).
+All
+ﬁgures
+and their tabulated data are included.
+Competing interests. The author has declared that there are no

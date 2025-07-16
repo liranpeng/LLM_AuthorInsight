@@ -1,0 +1,8 @@
+11 bins (177–291 nm) are optimized around the Schumann–
+Runge bands of O2 and the Hartley bands of O3, and the
+next 7 bins are optimized for tropospheric photolysis (291–
+778 nm). The bins were chosen to have relatively uniform
+opacities for the principal absorbing species O2 and O3
+across the wavelengths in each bin. In some cases, this in-
+cludes combining different wavelength regions on either side
+of the O3 maximum cross section near 255 nm. Effectively,

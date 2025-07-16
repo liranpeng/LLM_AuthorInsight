@@ -1,0 +1,8 @@
+day’s 1800 ppb CH4), but the IPCC projections of RCP2.6
+reduce this to −0.2 W m−2 (Kirtman et al., 2013).
+Observed atmospheric CH4 amount (Fig. A13a) is diverg-
+ing on the high side of these optimistic scenarios. The down-
+ward offset (∼20 ppb) of CH4 scenarios relative to obser-
+vations (Fig. A13a) is due to the fact that RCP scenarios
+did not include a data adjustment that was made in 2005 to
+match a revised CH4 standard scale (E. Dlugokencky, per-

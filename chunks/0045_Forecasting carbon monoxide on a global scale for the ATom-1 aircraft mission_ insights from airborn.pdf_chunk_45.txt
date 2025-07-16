@@ -1,0 +1,48 @@
+www.atmos-chem-phys.net/18/10955/2018/
+S. A. Strode et al.: Forecasting carbon monoxide on a global scale
+10959
+Table 2. Mean and standard deviations in CO along Atlantic and Paciﬁc ﬂight tracks.
+Region
+Flight
+Obs
+Obs
+Model
+Model
+mean
+SD
+mean
+SD
+(ppb)
+(ppb)
+(ppb)
+(ppb)
+Eastern
+1. Palmdale–Palmdale
+75
+14
+77
+19
+Paciﬁc
+2. Palmdale–Anchorage
+100
+40
+88
+16
+Paciﬁc
+3. Anchorage–Kona
+85
+36
+81
+18
+4. Kona–Pago Pago
+61
+5.1
+63
+5.5
+5. Pago Pago–Christchurch
+55
+11
+57
+6.1
+Southern
+6. Christchurch–Punta Arenas

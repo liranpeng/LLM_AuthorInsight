@@ -1,0 +1,8 @@
+tion. Other higher order schemes that are formally third-order
+(MPAS), fourth-order (HOMME-p3, SFF-CSLAM4), and
+seventh-order (HOMME-p6) do not converge at the asymp-
+totic rate at the lower end of the resolution range. The effect
+of hyperviscosity coefﬁcient on convergence rates for spec-
+tral element advection can be observed by comparing CAM-
+SE and HOMME-p3 (Fig. 1). Another fact contributing to the
+discrepancy is the fact that in CAM-SE the transport test is

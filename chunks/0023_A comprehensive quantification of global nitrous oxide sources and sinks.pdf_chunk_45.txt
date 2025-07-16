@@ -1,0 +1,83 @@
+1.2
+0.6
+2.1
+1.3
+0.7
+2.2
+Perturbed fluxes from 
+climate/CO2/land 
+cover change
+CO2 effect
+−0.2
+−0.3
+0.0
+−0.2
+−0.4
+0.0
+−0.3
+−0.5
+0.1
+−0.3
+−0.6
+0.1
+Climate effect
+0.4
+0.0
+0.8
+0.5
+0.1
+0.9
+0.7
+0.3
+1.2
+0.8
+0.3
+1.3
+Post-deforestation 
+pulse effect
+0.7
+0.6
+0.8
+0.7
+0.6
+0.8
+0.7
+0.7
+0.8
+0.8
+0.7
+0.8
+Long-term effect of 
+reduced mature forest 
+area
+−0.8
+−0.8
+−0.9
+−0.9
+−0.8
+−1.0
+−1.0
+−0.9
+−1.1
+−1.1
+−1.0
+−1.1
+Subtotal
+0.1
+−0.4
+0.7
+0.1
+−0.5
+0.7
+0.2
+−0.4
+0.9
+0.2
+−0.6
+1.1
+Anthropogenic total
+5.6
+3.6
+8.7
+6.2
+3.9

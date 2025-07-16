@@ -1,0 +1,7 @@
+block ellipse for the other model is shown as a thin black dashed line.
+sects and are plotted in Fig. S8c, d. For both models C and F
+we see that the central Paciﬁc single transects (165, 180, 195,
+210◦E) with overlapping ellipses match the full block of data
+(150–210◦E). In terms of overlapping area, the single tran-
+sects overlap the full block at the 86–94 % level, whereas the
+150◦E transect is distinctly different with overlap of only 42

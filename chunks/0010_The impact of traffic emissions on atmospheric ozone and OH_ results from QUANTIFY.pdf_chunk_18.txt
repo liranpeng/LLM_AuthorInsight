@@ -1,0 +1,10 @@
+credible evaluation of the present-day atmospheric effects by
+trafﬁc and to estimate the uncertainties of model results. This
+study focuses on the global impact of trafﬁc exhaust emis-
+sions on the current chemical state of the atmosphere. The
+climatological implications and future projections are sub-
+ject of followup studies.
+2
+Emissions and simulation setup
+Emissions for the three transport sectors road, shipping and
+air trafﬁc were replaced in the EDGAR data base with re-

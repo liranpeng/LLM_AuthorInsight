@@ -1,0 +1,7 @@
+moisture and momentum must be predicted to enable assessment of climate sensitivity and coupling
+with other components such as the ocean. Appropriate forcings should be used—e.g. sea surface
+temperature (SST) in the case of an atmosphere-only model. Its long-term averages should be
+unbiased compared to a reference dataset. Finally, the model’s performance must generalize across a
+broad range of plausible SST distributions and CO2 concentrations.
+∗oliverwm@allenai.org
+†2023 summer intern at AI2

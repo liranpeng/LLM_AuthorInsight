@@ -1,0 +1,8 @@
+the inclusion of CO2-depleted stratospheric air in column
+CO2 calculations (Nassar et al., 2011; Deng et al., 2015;
+Frankenberg et al., 2016; Pandey et al., 2016). For exam-
+ple, Le Quéré et al. (2018) are concerned with how emissions
+will mix throughout the troposphere and the stratosphere, but
+not how stratospheric air will come back down to the sur-
+face. Only studies of the CO2 triple-oxygen isotope signature
+(117O) are concerned with accurate STE ﬂuxes, recognizing

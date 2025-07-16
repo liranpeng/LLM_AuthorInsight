@@ -1,0 +1,12 @@
+resolved coherent weather phenomena – frontal systems and
+typhoons.
+3. 3.
+CorrDiff is sample-efficient, learning effectively from just 3
+years of data.
+4. 4.
+CorrDiff on a single GPU is at least 22 times faster and 1,300
+times more energy efficient than the numerical model used to
+produce its high-resolution training data, which is run on 928
+CPU cores, see Supplementary Section 7.3 for details.
+Results
+In this Section CorrDiff downscaling is compared with the input and

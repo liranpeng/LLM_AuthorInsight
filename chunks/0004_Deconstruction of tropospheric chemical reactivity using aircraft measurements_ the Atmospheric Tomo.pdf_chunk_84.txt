@@ -1,0 +1,10 @@
+3.3
+Mean altitude proﬁles
+Given the inherent synoptic variability plus the large seasonal
+shifts in chemical reactivity across the Paciﬁc and Atlantic
+basins seen in the individual proﬁles (Figs. 6–13), one might
+ask how useful or representative the four ATom transects are
+for testing model statistics. Because the 53◦S–60◦N Paciﬁc
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+https://doi.org/10.5194/essd-15-3299-2023
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements

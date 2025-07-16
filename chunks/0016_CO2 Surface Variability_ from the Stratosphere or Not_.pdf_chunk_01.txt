@@ -1,0 +1,5 @@
+Accepted: 12 March 2022 – Published: 5 April 2022
+Abstract. Fluctuations in atmospheric CO2 can be measured with great precision and are used to identify
+human-driven sources as well as natural cycles of ocean and land carbon. One source of variability is the strato-
+sphere, where the inﬂux of aged CO2-depleted air can produce ﬂuctuations at the surface. This process has been
+speculated to be a potential source of interannual variability (IAV) in CO2 that might obscure the quantiﬁcation

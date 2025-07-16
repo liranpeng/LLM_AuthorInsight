@@ -1,0 +1,18 @@
+key terms in the continuity equation and, further, that P-O3
+is constant, while L-O3 is linear in [O3].
+https://doi.org/10.5194/essd-15-3299-2023
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+3340
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements
+Figure 60. Two-dimensional Paciﬁc and Atlantic curtain proﬁles for ATom-1234 of HOOH.
+d[O3]
+dt
+= PO3 −LO3 = P constant
+−[O3]
+L-O3
+[O3]
+
+= P constant −[O3]
+T A
+(3)
+The approximate timescale, T A = [O3]/L-O3, is often called

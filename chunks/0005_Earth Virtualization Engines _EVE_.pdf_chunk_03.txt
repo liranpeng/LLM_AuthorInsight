@@ -1,0 +1,23 @@
+on advanced data products and uncertainty characterisation
+Promote your work
+Journal statistics
+Journal metrics
+Abstracted & indexed
+Article level metrics
+FAQs
+Contact
+XML harvesting & OAI-PMH
+•  
+•  
+ 
+Article  
+1. Articles
+2. Volume 16, issue 4
+3. ESSD, 16, 2113–2122, 2024
+Multiple terms: term1 term2
+red apples
+returns results with all terms like:
+Fructose levels in red and green apples
+Precise match in quotes: "term1 term2"
+"red apples"
+returns results matching exactly like:

@@ -1,0 +1,10 @@
+clouds on J values seen in Fig. 3 will have a correspondingly
+large impact on global tropospheric chemistry (see Liu et al.,
+2009).
+3
+The statistical distribution of J-cloudy to J-clear
+The average ratio of J-cloudy to J-clear (Fig. 3) provides
+only a single measure of the impact of clouds. The CAFS
+data provide a more acute measure by sampling the range of
+cloud effects (enhance or diminish J values) and their fre-
+quency of occurrence. A quick look at this range in CAFS

@@ -1,0 +1,38 @@
+compacted scatter plots. GISS is unique with much larger
+spread in both P -O3 and L-O3 but a compressed distribution
+Atmos. Meas. Tech., 11, 2653–2668, 2018
+www.atmos-meas-tech.net/11/2653/2018/
+M. J. Prather et al.: Reactivity of short-lived greenhouse gases
+2657
+Table 2. RMS differences of 5-day mean parcels across model pairs.
+Model
+GFDL
+GISS
+GSFC
+GC
+NCAR
+UCI
+U2015
+U1997
+P -O3 = 0.79 ppb day−1
+GFDL
+0
+0.87
+0.20
+0.15
+0.15
+0.16
+0.15
+0.16
+GISS
+0
+0.76
+0.83
+0.81
+0.80
+0.80
+0.79
+GSFC
+0
+0.14
+0.17

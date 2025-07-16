@@ -1,0 +1,29 @@
+https://doi.org/10.5067/Aura/MLS/DATA2005, 2015.
+Strode,
+S.
+A.
+and
+Pawson,
+S.:
+Detection
+of
+carbon
+monoxide
+trends
+in
+the
+presence
+of
+interannual
+vari-
+ability,
+J.
+Geophys.
+Res.-Atmos.,
+118,
+12257–12273,
+https://doi.org/10.1002/2013JD020258, 2013.
+Strode, S. A., Liu, J., Lait, L., Commane, R., Daube, B. C., Wofsy,
+S. C., Conaty A., Newman, P., and Prather, M. J.: ATom: Ob-
+served and GEOS-5 Simulated CO Concentrations with Tagged
+Tracers for ATom-1. ORNL DAAC, Oak Ridge, Tennessee,

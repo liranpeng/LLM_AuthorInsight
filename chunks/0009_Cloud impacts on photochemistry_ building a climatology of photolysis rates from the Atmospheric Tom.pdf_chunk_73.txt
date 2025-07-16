@@ -1,0 +1,8 @@
+sentative sampling from the models that would be repeatable
+over time. It was not possible to acquire month-long or multi-
+year diagnostics from all the models, and so with the avail-
+able model results (24 h from a day in mid-August) we sub-
+sample the broad tropical Paciﬁc block (20◦S–20◦N × 160–
+240◦E) into a west (160–200◦E), east (200–240◦E), and
+dateline (175–185◦E) block. The results of these subsampled
+statistics are shown for J-NO2 in Fig. S7a (100–300 hPa)

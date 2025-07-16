@@ -1,0 +1,28 @@
+SLFV-ML
+2
+2
+1
+Coefﬁcients for gradients
+TTS-I
+1
+1
+Lipschitz
+Trajectories, weights
+UCISOM
+3
+1
+Lipschitz
+None
+UCISOM-CS
+3
+1
+Lipschitz
+None
+diagnostics assess and their usefulness. This could provide
+guidance for future transport scheme developers and facili-
+tate their development process. Below is a list of the differ-
+ent tests and a short summary of what aspects of accuracy the
+test/diagnostics shed light on.
+4.1
+Numerical order of convergence (Gaussian hills
+initial condition)

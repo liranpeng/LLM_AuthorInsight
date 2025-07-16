@@ -1,0 +1,17 @@
+OBS
+CTM
+03 Jul 2006
+04 Jul 2006
+05 Jul 2006
+06 Jul 2006
+07 Jul 2006
+08 Jul 2006
+Interp. Mask
+Non−Event
+Event
+Figure 10. Six days (3–8 August 2006) of a large AQX episode in
+EU. Left column is the observations and right column is the CTM.
+cell and were separated by a full day. We avoid problems as-
+sociated with latitudinal variations by developing statistical
+measures that are independent of resolution (see Sect. 5.2).
+Since we want to characterize AQX episodes by their size,

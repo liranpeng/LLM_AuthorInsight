@@ -1,0 +1,7 @@
+NVIDIA, Santa Clara, USA
+Abstract
+Existing ML-based atmospheric models are not suitable for climate prediction,
+which requires long-term stability and physical consistency. We present ACE (AI2
+Climate Emulator), a 200M-parameter, autoregressive machine learning emulator
+of an existing comprehensive 100-km resolution global atmospheric model. The
+formulation of ACE allows evaluation of physical laws such as the conservation

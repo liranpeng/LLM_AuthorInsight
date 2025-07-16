@@ -1,0 +1,9 @@
+doi:10.1016/j.jcp.2012.02.016, 2012.
+Tomita, H., Tsugawa, M., Sato, M., and Goto, K.: Shallow water
+model on a modiﬁed icosahedral grid by using spring dynamics,
+J. Comput. Phys., 174, 579–613, 2001.
+Ullrich, P. A., Lauritzen, P. H., and Jablonowski, C.: Geometrically
+Exact Conservative Remapping (GECoRe): Regular latitude-
+longitude and cubed-sphere grids., Mon. Weather Rev., 137,
+1721–1741, 2009.
+Ullrich, P. A., Lauritzen, P. H., and Jablonowski, C.: Some con-

@@ -1,0 +1,8 @@
+cluded all anthropogenic and natural emissions while in the
+perturbation simulations, all emitted species of the respec-
+tive trafﬁc sector were reduced by 5 % in accordance with
+the QUANTIFY methodology (Hoor et al., 2009; Grewe et
+al., 2010). It should be noted that the approach of deriving
+the sensitivity of the atmospheric chemical composition to
+each emission category by using a small perturbation has
+limitations in the calculation of contributions, but is suitable

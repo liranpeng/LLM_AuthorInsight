@@ -1,0 +1,7 @@
+upper-stratospheric water qT
+0 (Figure 9). This run has been extended to 100 years with no sign of
+instability or long-term drift (Figure 10). However, there are unrealistically large annual variations
+in certain fields, such as global mean precipitation rate.
+Climate biases
+With long-term stability comes the possibility of quantitatively evaluating climate
+biases. Figure 2 shows the time-averaged bias in the spatial pattern of surface precipitation rate. ACE

@@ -1,0 +1,8 @@
+mean as the reference (Table S7). Cloud variations across the
+ﬁve days lead to overlaps for the top-10 % parcels ranging
+from 78 to 92 % at best. NCAR has similar self-overlaps for
+P -O3 but only 58 to 72 % for L-O3 and L-CH4, because
+the modeled T and q changes with each day in August and
+greatly reduces the overlap of the hot parcels. This further
+supports T and q as being important drivers of L-O3 and L-
+CH4. The use of 5-day calculations with varying cloud ﬁelds

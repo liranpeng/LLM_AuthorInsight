@@ -1,0 +1,22 @@
+15
+20
+25
+30
+Temperature Change [K]
+Altitude [km]
+Global−Mean
+ 
+ 
+ULAQ
+DLR_E39C
+NCAR_MACCM
+CHASER
+STOCHEM_HadGEM1
+UM_CAM
+Fig. 4. Annually and globally averaged zonal-mean temperature
+change (K) between 1850 and 2000 as represented by the difference
+“2 minus 1”. For UM CAM “2 minus 1d” is shown.
+difference “2 minus 1c” only.
+Also in the CHASER and
+RFSGC UCI models the stratospheric ozone reduction ap-
+pears to get slightly less severe when taking into account the

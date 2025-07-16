@@ -1,0 +1,4 @@
+compared to cycle 36r1, the NH mean and seasonal variability of O3 STE are about 20–40% larger, but the
+interannual variability is larger by a factor of 3–4. Most importantly between these two simulations, the tem-
+poral variation for the residual ﬂuxes driven the BDC remains similar to each other but very diﬀerent for
+all other O3 ﬂuxes. Such diﬀerences are also likely to occur across diﬀerent CCM models, if we apply accu-

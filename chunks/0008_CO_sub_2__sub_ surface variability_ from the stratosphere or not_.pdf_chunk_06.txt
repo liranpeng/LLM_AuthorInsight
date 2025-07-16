@@ -1,0 +1,9 @@
+stratosphere only in connection with CH4 and N2O, not with
+CO2.
+The possibility of a true STE-driven IAV CO2 signal,
+raised by Gaubert et al. (2019), has not been seriously in-
+vestigated. For the most part, when studies investigate the
+stratospheric inﬂuence on CO2 source inversions, they are
+not concerned about STE ﬂuxes directly but other factors that
+degrade the results: e.g., gradients across the tropopause, the
+effective tropospheric air mass diluting surface emissions, or

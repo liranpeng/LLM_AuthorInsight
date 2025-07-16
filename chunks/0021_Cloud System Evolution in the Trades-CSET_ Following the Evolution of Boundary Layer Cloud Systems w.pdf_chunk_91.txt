@@ -1,0 +1,5 @@
+(optically thin) layered clouds. The extent of aerosol, cloud, drizzle and boundary layer 
+sampling that was made over open areas of the North Pacific along 2-day trajectories during 
+CSET is unprecedented and will enable focused modeling and process studies of cloud 
+system evolution and the role of aerosol-cloud-precipitation interactions in that evolution.
+Synoptic conditions during CSET were consistent with normal summertime conditions over

@@ -1,0 +1,56 @@
+171
+94
+11
+0.93
+wO3 100 hPa surface
+311
+316
+29
+0.85
+238
+246
+11
+0.41
+224
+147
+12
+0.36
+166
+118
+7
+0.35
+w∗O3 100 hPa surface
+537
+431
+51
+0.36
+446
+383
+42
+0.06
+237
+98
+51
+−0.12
+147
+78
+31
+−0.13
+w∗O3 > 0@ 100 hPa surface
+1244
+849
+64
+0.32
+1069
+748
+62
+0.12
+1098
+391
+100
+−0.13
+917
+357
+118
+−0.27
+aResults are based on two multiyear meteorologies from cycle 29r1 and cycle 36r1 of the ECMWF IFS forecasts running in the UCI CTM. Mean ﬂuxes (Flux) are integrated for each hemisphere,

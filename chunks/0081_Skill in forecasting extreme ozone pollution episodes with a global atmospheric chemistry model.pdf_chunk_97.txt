@@ -1,0 +1,7 @@
+Cincinati, OH
+Rural VA
+New York City, NY
+Figure 8. Time series (1 July–1 August 2002) of surface MDA8 O3 (ppb) for four grid cells in the US observations encompassing from west
+to east: Chicago, IL; Cincinnati, OH; rural area, VA; and New York City, NY. The colored arrows on the left denote the O3 concentration
+corresponding to an AQX event (97.3 percentile) for each location, calculated with respect to years 2000–2009.
+arbitrary, and such choices can have undesirable results in

@@ -1,0 +1,9 @@
+the satellite observations. Thus, for STE ﬂux as a function of
+latitude and month, we compare across models (in this case
+with the UCI CTM).
+In O3v2 the net STE ozone ﬂux is calculated from the loss
+in the near-surface (lowest 4) atmospheric layers. Ozone is
+conserved in the rest of the troposphere and thus the STE ﬂux
+is taken up by these lowest layers. It is resolved geographi-
+cally and monthly but because of the tropospheric transport
+from tropopause to lowest layers, the STE ozone ﬂux di-

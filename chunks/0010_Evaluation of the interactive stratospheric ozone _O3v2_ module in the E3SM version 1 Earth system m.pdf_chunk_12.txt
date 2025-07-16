@@ -1,0 +1,8 @@
+duces a reasonable ozone climatology, including seasonal
+and interannual variability (McLinden et al., 2000; Hsu et
+al., 2005; Hsu and Prather, 2009). In the ﬁrst use of Linoz
+in E3SMv1, the O3v1 module prescribed tropospheric ozone
+based on decadal monthly zonal mean latitude-by-pressure
+data from the input4MIPS Ozone data set v1.0 (Hegglin et
+al., 2016) and calculated stratospheric ozone interactively
+with Linoz v2. O3v1 resulted in unphysical ozone distribu-

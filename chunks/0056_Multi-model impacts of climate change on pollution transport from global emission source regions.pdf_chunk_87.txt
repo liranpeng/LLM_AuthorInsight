@@ -1,0 +1,8 @@
+5 × 10−3 kgm−2 s−1; ∼10–30 %) that is slightly larger for
+UM-CAM and STOC-HadAM3 than the other two CCMs
+(Figs. 6 and 7). Absolute and relative changes in convec-
+tive mass ﬂuxes between winter and summer are similar (not
+shown). This reduction occurs both in the tropics and in the
+extratropics, extending to about 40◦N and 40◦S. The UM-
+CAM and STOC-HadAM3 CCMs also feature strong de-
+creases in convection centred at 60◦N and 60◦S extending

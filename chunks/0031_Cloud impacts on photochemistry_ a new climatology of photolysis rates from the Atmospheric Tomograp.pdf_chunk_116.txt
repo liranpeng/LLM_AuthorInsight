@@ -1,0 +1,8 @@
+of the range in conditions, there is no single offset, but we
+have a probability distribution whose width in rlnJ due to a
+range of surface albedo has a magnitude that affects the in-
+terpretation of measurement–model differences. For high sun
+(SZA = 0–40◦), choosing an optimal ﬁxed albedo of 0.06 re-
+sults in little mean bias, although individual errors are about
+±2 %. This error is based on conditions for cos(SZA) > 0.8.
+If the ﬁxed albedo differs from this optimum (e.g., 0.00 or

@@ -1,0 +1,12 @@
+CH4, N2O and O3. c O3: half of troposphere O3 forcing + stratosphere O3 forcing from IPCC (2013). d TA + SA: tropospheric
+aerosols and surface albedo forcings combined. e Volcano: volcanic forcing is zero when there are no stratospheric aerosols.
+Annual data are available at http://www.columbia.edu/~mhs119/Burden/.
+Earth Syst. Dynam., 8, 577–616, 2017
+www.earth-syst-dynam.net/8/577/2017/
+J. Hansen et al.: Young people’s burden: requirement of negative CO2 emissions
+603
+1850
+1900
+1950
+2000
+ .1

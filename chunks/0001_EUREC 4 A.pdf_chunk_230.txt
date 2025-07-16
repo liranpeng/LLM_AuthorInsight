@@ -1,0 +1,9 @@
+but this is likely minor.
+We estimated that 200 people traveled to EUREC4A. If
+each is further assumed to have ﬂown 15 000 km (about the
+round-trip distance from Frankfurt to Grantley Adams Inter-
+national Airport in Barbados) in economy class, then we can
+adopt an emission estimate of 75 gCO2km−1 per passenger
+(from Atmosfair for a non-stop ﬂight with an Airbus 340–
+500). This 200×15000 km×75 gCO2km−1 = 225 000 kg of
+CO2 emissions. More modern aircraft have substantially re-

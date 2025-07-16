@@ -1,0 +1,8 @@
+tions to the total NTCF emissions (hist-piNTCF) or aerosol
+component (hist-piAer) start at the same point in the 1850
+control as historical with the anthropogenic emissions ﬁxed
+at that point. Perturbations to the halocarbon ODSs branch
+from the historical run at 1950 with chloroﬂuorocarbon and
+hydrochloroﬂuorocarbon concentrations ﬁxed at that point
+(hist-1950HC), as speciﬁed in Table 1.
+The individual climate signals from the proposed pertur-

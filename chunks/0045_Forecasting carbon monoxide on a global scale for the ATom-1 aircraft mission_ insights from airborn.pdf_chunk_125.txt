@@ -1,0 +1,8 @@
+Sachse, G., and Webster, C.: Validation of Aura Microwave
+Limb Sounder O3 and CO observations in the upper troposphere
+and lower stratosphere, J. Geophys. Res.-Atmos., 113, D15S02,
+https://doi.org/10.1029/2007JD008805, 2008.
+Logan, J., Megretskaia, I., Nassar, R., Murray, L., Zhang, L., Bow-
+man, K., Worden, H., and Luo, M.: Effects of the 2006 El Nino
+on tropospheric composition as revealed by data from the Tropo-
+spheric Emission Spectrometer (TES), Geophys. Res. Lett., 35,

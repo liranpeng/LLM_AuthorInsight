@@ -1,0 +1,10 @@
+1968.
+Skamarock, W. C. and Gassmann, A.: Conservative Transport
+Schemes for Spherical Geodesic Grids: High-Order Flux Opera-
+tors for ODE-Based Time Integration, Mon. Weather Rev., 139,
+2962–2975, 2011.
+Skamarock, W. C. and Klemp, J. B.: A time-split nonhydrostatic
+atmospheric model for weather research and forecasting applica-
+tions, J. Comput. Phys., 227, 3465–3485, 2008.
+Skamarock, W. C., Klemp, J. B., Duda, M. G., Fowler, L. D.,
+Park, S.-H., and Ringler, T. D.: A Multiscale Nonhydrostatic

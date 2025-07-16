@@ -1,0 +1,9 @@
+grate for 24 h as it normally does in a way that the chemistry
+in each grid cell depends minimally on any of the grid cells
+around it.
+We thus propose an A-run mode (named after the ATom
+mission) for the CTMs–CCMs in which individual parcel
+reactivities can be calculated, albeit with some simplifying
+approximations. Consistent with our deﬁnition of reactivity,
+we consider only ATom parcels that are tropospheric. The
+A-runs disable processes that connect and mix air parcels.

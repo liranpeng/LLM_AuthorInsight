@@ -1,0 +1,8 @@
+and sulfate aerosols from 17 aircraft missions and calculated
+statistics (mean, median, quartiles) but only compared with
+the modeled means. The HIAPER Pole-to-Pole Observations
+(HIPPO) aircraft mission (Wofsy, 2011) was a precursor to
+ATom with regular proﬁling of the mid-Paciﬁc including
+high-frequency 10 s sampling that identiﬁed the small scales
+of variability throughout the troposphere. HIPPO measure-
+ments were limited in species, lacking O3, NOx and many

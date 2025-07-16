@@ -1,0 +1,1 @@
+reproduces the atmospheric response to El Niño variability and global trends of temperature over the past 80 years. However, its sensitivities to separately changing sea surface temperature and carbon dioxide are not entirely realistic.

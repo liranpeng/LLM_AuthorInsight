@@ -1,0 +1,8 @@
+(CAM version 4.0 and prior versions). According to the
+documentation in RRTMG-SW, Key’s parameterization was
+taken from the Mie-calculated spherical shapes of ice parti-
+cles from the Streamer radiative transfer codes (Key, 2002)
+and thus should be similar to the Solar-J approximation. The
+two-stream solution to the radiative transfer problem, as im-
+plemented in RRTMG-SW, requires that the scattering op-
+tical depth (τscat) be reduced with what is described as the

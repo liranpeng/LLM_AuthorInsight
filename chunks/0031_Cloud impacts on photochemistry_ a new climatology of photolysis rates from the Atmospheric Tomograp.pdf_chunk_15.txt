@@ -1,0 +1,8 @@
+device Actinic Flux Spectroradiometer; Shetter and Müller,
+1999; Petropavlovskikh et al., 2007) from the ﬁrst ATom de-
+ployment (29 July through 23 August 2016). We build up
+statistics of the observed J value relative to that calculated
+for a clear sky under similar conditions. The chemical reac-
+tivity of the troposphere (see Prather et al., 2017) is generally
+proportional to these changes in J values, and thus modeling
+of the variability of clouds is critical for modeling the life-

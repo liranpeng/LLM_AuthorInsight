@@ -1,0 +1,8 @@
+basin (Attié et al., 2016). The validation data not only include
+the TRAQA measurements (in situ aircraft and balloon mea-
+surements of size-resolved and speciated aerosols), but also
+different remote-sensed AOD observations from the ground
+(Aerosol Robotic Network, AERONET; Holben et al., 1998)
+and satellite (Spinning Enhanced Visible and InfraRed Im-
+ager, SEVIRI; Thieuleux et al., 2005b).
+This paper is organized as follows. In Sect. 2 we de-

@@ -1,0 +1,7 @@
+moon pool (38 kHz) to provide water currents and backscatter information from close to the surface
+to more than 1 000 m depth; surveyed in an underway mode
+Thermosalinograph
+Sea-Bird SBE-45/SBE-38 measuring temperature and salinity underway from about 6.5 m water depth
+Microstructure sonde
+Sea & Sun Technology microstructure probe MSS 90 measuring the micro-scale temperature, pres-
+sure, conductivity, and shear to determine the micro-scale water stratiﬁcation and the strength of small-

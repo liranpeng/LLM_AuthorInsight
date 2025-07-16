@@ -1,0 +1,8 @@
+While the CTM τCH4×OH anomalies are consistently within
+the observational uncertainty for both the AGAGE and
+NOAA networks (shaded region of Fig. 2), the year-to-
+year changes in the models generally do not correlate with
+the MCF data. Residual anthropogenic or ocean emissions
+could account for some MCF decay anomalies, but only if
+these emissions change abruptly from year to year. Emission
+anomalies of about 4 Gg yr−1 would be required to cause the

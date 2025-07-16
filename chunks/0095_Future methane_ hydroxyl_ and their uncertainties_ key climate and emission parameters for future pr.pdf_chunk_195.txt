@@ -1,0 +1,8 @@
+ter, J., Liu, E., Bosilovich, M. G., Schubert, S. D., Takacs, L.,
+Kim, G.-K., Bloom, S., Chen, J., Collins, D., Conaty, A., Da
+Silva, A., Gu, W., Joiner, J., Koster, R. D., Lucchesi, R., Molod,
+A., Owens, T., Pawson, S., Pegion, P., Redder, C. R., Reichle,
+R., Robertson, F. R., Ruddick, A. G., Sienkiewicz, M., and
+Woollen, J.: MERRA: NASA’s Modern-Era Retrospective Anal-
+ysis for Research and Applications, J. Climate, 24, 3624–3648,
+doi:10.1175/JCLI-D-11-00015.1, 2011.

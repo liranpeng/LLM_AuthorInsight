@@ -1,0 +1,4 @@
+not linearly scalable with resolution. We believe that a MAX-COR or MAX-EXP algorithm is likely the most 
+stable and scalable deterministic ICA generator for vertical cloud decorrelation algorithms. The RRTMG 
+v4.0 code available at the time of this study uses primarily MAX-RAN cloud overlap, but the new v5.0 code 
+includes an EXP-RAN option. Thus, our comparisons of cloud-overlap results with the RRTMG code are

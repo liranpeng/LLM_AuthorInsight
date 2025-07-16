@@ -1,0 +1,10 @@
+variables are identical meaning the inter-model differences
+shown mostly relate to either difference in the model res-
+olution and/or chemistry rather than atmospheric transport.
+Model descriptions have been given in H2011 and are brieﬂy
+summarized here:
+1. TM4 (Williams et al., 2010) was operated by KNMI and
+applied at a horizontal resolution of 3◦× 2◦and with 34
+vertical layers.
+2. The p-TOMCAT model (O’Connor et al., 2005) was im-
+plemented by the University of Cambridge. T21 hori-

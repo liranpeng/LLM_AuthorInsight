@@ -1,0 +1,8 @@
+emission parameters for future predictions, Atmos. Chem. Phys.,
+13, 285–302, doi:10.5194/acp-13-285-2013, 2013.
+Hoor, P., Borken-Kleefeld, J., Caro, D., Dessens, O., Endresen,
+O., Gauss, M., Grewe, V., Hauglustaine, D., Isaksen, I. S. A.,
+Jöckel, P., Lelieveld, J., Myhre, G., Meijer, E., Olivie, D., Prather,
+M., Schnadt Poberaj, C., Shine, K. P., Staehelin, J., Tang, Q.,
+van Aardenne, J., van Velthoven, P., and Sausen, R.: The im-
+pact of trafﬁc emissions on atmospheric ozone and OH: re-

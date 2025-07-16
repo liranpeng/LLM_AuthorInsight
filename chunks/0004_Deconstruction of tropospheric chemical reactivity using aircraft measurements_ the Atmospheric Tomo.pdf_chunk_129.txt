@@ -1,0 +1,4 @@
+occurrence. Methods (a) and (b) are very close but are not identical, while method (c) is clearly different. For any of the large S values
+(|S| > 0.1), the differences between (a) and (b) are < 1 %, except for dln[P-O3]/dln[T ]. As an example, the (a), (b), and (c) values in the
+Paciﬁc are 0.715, 0.694, and 0.811 for dln[P-O3]/dln[T ](/10), 0.764, 0.764, and 0.796 for dln[L-CH4]/dln[CH4], and −0.304, −0.305,
+and −0.311 for dln[P-O3]/dln[O3].

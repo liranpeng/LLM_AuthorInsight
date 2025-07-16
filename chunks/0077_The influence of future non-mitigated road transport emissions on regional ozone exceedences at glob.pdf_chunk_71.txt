@@ -1,0 +1,8 @@
+5. Conclusions
+In this study we have used a multi-model ensemble of large-
+scale atmospheric chemistry models, which adopts the realistic
+SRES A1B emission scenario and a “policy-failure” scenario (A1B
+HIGH) for road trafﬁc emissions (RTE), to differentiate the effects of
+unmitigated road trafﬁc emissions on regional air quality for
+various global regions. Analysing the regional trends in RTE NOx
+estimates provided in the pessimistic SRES emission scenarios,

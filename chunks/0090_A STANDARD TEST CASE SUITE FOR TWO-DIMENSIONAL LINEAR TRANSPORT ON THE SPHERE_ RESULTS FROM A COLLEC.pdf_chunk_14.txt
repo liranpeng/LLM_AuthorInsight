@@ -1,0 +1,8 @@
+Despite the high degree of deformation in the (moving)
+vortex test problem, in particular when simulated beyond
+the original speciﬁcation of simulation length (Kent et al.,
+2012; Pudykiewicz, 2011), it has an analytical solution. The
+“boomerang” ﬂows, on the other hand, do not have easily
+accessible analytical solutions until the end of the speci-
+ﬁed simulation time. Contrary to most idealized tracer trans-
+port test cases, Nair and Lauritzen (2010) proposed a di-

@@ -1,0 +1,5 @@
+studies (pp. 17). UCRL-ID (129949).
+Hall, S. R., Ullmann, K., Prather, M. J., Flynn, C. M., Murray, L. T., Fiore, A. M., et al. (2018). Cloud impacts on photochemistry: Building 
+a climatology of photolysis rates from the atmospheric tomography mission. Atmospheric Chemistry and Physics, 18(22), 16809–16828. 
+https://doi.org/10.5194/acp-18-16809-2018
+Ham, S.-H., Kato, S., Barker, H. W., Rose, F. G., & Sun-Mack, S. (2015). Improving the modelling of short-wave radiation through the use

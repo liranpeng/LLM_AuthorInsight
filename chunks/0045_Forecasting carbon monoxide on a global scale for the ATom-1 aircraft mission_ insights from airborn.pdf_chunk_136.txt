@@ -1,0 +1,8 @@
+USA, https://doi.org/10.3334/ORNLDAAC/1604, 2018.
+van der Werf, G. R., Randerson, J. T., Giglio, L., Collatz, G. J.,
+Kasibhatla, P. S., and Arellano Jr., A. F.: Interannual variability
+in global biomass burning emissions from 1997 to 2004, Atmos.
+Chem. Phys., 6, 3423–3441, https://doi.org/10.5194/acp-6-3423-
+2006, 2006.
+van der Werf, G. R., Randerson, J. T., Giglio, L., van Leeuwen, T.
+T., Chen, Y., Rogers, B. M., Mu, M., van Marle, M. J. E., Morton,

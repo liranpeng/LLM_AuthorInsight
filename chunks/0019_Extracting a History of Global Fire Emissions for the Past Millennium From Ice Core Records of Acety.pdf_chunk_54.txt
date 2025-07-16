@@ -1,0 +1,7 @@
+Sensitivity ¼ abundance over polar region
+emissions
+(1)
+in units of pmol mol−1/Tg year−1. Acetylene and ethane levels were calculated from model output by inte-
+grating the mass of each compound and the mass of air from the surface to roughly 500 hPa over the polar
+regions (60–90°N for Greenland and 60–90°S for Antarctica). Acetylene levels in each high latitude region
+are relatively uniform, consistent with global chemistry transport modeling (Nicewonger et al., 2020).

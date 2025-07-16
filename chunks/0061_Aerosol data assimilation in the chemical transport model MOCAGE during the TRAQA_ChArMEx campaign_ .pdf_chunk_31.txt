@@ -1,0 +1,9 @@
+3
+Description of data assimilation system
+The data assimilation system used in this study is MOCAGE-
+Valentina, developed jointly by Météo-France and CER-
+FACS (Centre Européen de Recherche et de Formation
+Avancée en Calcul Scientiﬁque). The assimilation algorithm
+used is 3-D-FGAT (3-D ﬁrst guess at appropriate time; Fisher
+and Andersson, 2001; Massart et al., 2010), which is a com-
+promise between the 3-D-Var and 4-D-Var methods. Obser-

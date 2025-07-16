@@ -1,0 +1,5 @@
+transition areas sampled during CSET. These clouds are both physically and optically thin. 
+In addition, to the extensive lidar and radar observations during CSET, the GV made several 
+direct penetrations of the veill clouds during CSET that allowed for a characterization of the 
+properties of the clouds and the aerosols in the vicinity of the clouds.
+The clean layers near cloud top are clearly shown on several of the flights (Wood et al,

@@ -1,0 +1,27 @@
+µ = 0.61 ± 0.10
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+g)      MCC − Summer (JJA) 
+     µ = 0.60 ± 0.16
+ 
+ 
+h)      MCC − Summer (JJA) 
+     µ = 0.55 ± 0.19
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+Figure 6. Top two rows (a, b, c, d) show the model mean bias (MB
+= CTM minus observed) of surface MDA8 O3 (ppb) calculated us-
+ing independent sampling. Bottom two rows (e, f, g, h) show the
+model correlation coefﬁcient (MCC). Left column (a, c, e, g) is the

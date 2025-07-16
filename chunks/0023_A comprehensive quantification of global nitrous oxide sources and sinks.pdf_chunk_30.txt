@@ -1,0 +1,6 @@
+however, has been partly offset by an increase in soil N2O emissions 
+attributed to the temporary increase in emissions after deforestation 
+(the post-deforestation pulse effect) and to background emissions from 
+converted croplands or pastures21 (see Methods; Extended Data Fig. 7).
+From the ensemble of process-based land model emissions15,16, we esti-
+mate a global agricultural soil emission factor of 1.8% (1.3%–2.3%), which

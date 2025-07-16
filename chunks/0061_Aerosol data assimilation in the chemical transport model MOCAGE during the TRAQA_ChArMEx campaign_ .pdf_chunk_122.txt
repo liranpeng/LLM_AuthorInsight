@@ -1,0 +1,9 @@
+MODIS directly observes the plume each day during the con-
+sidered period (MODIS passes are marked by triangles in
+Fig. 10b), and these observations in the assimilation model
+run have a considerable impact on the plume. When com-
+paring the direct model run (Fig. 10a) and the assimilation
+Atmos. Meas. Tech., 9, 5535–5554, 2016
+www.atmos-meas-tech.net/9/5535/2016/
+B. Siˇc et al.: Aerosol data assimilation in the CTM MOCAGE
+5547

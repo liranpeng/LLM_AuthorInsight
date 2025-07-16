@@ -1,0 +1,8 @@
+“Global and regional assessment of intercontinental transport of air
+pollution: results from HTAP, AQMEII and MICS”. It is not associ-
+ated with a conference.
+Acknowledgements. Ruth M. Doherty and Ian A. MacKen-
+zie acknowledge the ARCHER UK National Supercomputing
+Service (http://www.archer.ac.uk) and funding under the UK
+Natural Environment Research Council grant NE/I008063/1,
+NE/M003906. Guang Zeng acknowledges the contribution of

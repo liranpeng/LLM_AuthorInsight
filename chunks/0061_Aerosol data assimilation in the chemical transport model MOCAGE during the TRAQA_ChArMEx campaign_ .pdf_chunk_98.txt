@@ -1,0 +1,8 @@
+measured at the ﬂight end. The aircraft ﬁrst visited the area of
+the Gulf of Genoa where, because of no available AOD ob-
+servations, the direct model run and the assimilation model
+run show the same aerosol concentrations. The variability in
+that part of the ﬂight is well simulated, with slightly higher
+modelled aerosol concentrations at these heights than what
+is measured. Later, on the way to Toulouse, with more avail-
+able satellite observations, the assimilation model run low-

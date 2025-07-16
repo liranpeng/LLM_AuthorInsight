@@ -1,0 +1,8 @@
+inﬂuence each bin. The increment could be weighted by dif-
+ferent quantities, like number or mass concentration, or ex-
+tinction coefﬁcient. The real contribution of different aerosol
+types in the increment is unknown, and we can only rely on
+the model information. In this way, all repartition weights
+based on the model stay biased in a similar way compared
+to the real repartition weights, regardless of the choice of the
+repartition. Considering all possible choices and the charac-

@@ -1,0 +1,8 @@
+ulation exposure, so stations are more readily placed in the
+valleys, where the population is greater). The bias could also
+reﬂect interpolation errors at the edge of the EMEP domain,
+as there are far fewer stations than in AirBase. Differences
+between AirBase and EMEP are much smaller in the 50th
+and 95th cases, with MBs of −2.7 ± 1.9 and −1.7 ± 2.2 ppb,
+respectively. The biases could also be due the cumulative
+production of O3 as polluted air disperses since the EMEP

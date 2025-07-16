@@ -1,0 +1,7 @@
+the basic structure of the lower atmosphere in the trades
+(Riehl et al., 1951; Malkus, 1958; Augstein et al., 1974;
+https://doi.org/10.5194/essd-13-4067-2021
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+4082
+B. Stevens et al.: EUREC4A
+Figure 12. Aerosol characteristics measured in the Tradewind Alley highlight two periods (31 January to 6 February and 9–12 February) of

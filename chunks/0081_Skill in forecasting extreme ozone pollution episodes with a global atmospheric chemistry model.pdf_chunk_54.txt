@@ -1,0 +1,31 @@
+www.atmos-chem-phys.net/14/7721/2014/
+Atmos. Chem. Phys., 14, 7721–7739, 2014
+7726
+J. L. Schnell et al.: Skill in forecasting extreme ozone pollution episodes
+A
+B
+C
+84° W 
+82° W 
+80° W 
+78° W 
+76° W 
+74° W 
+72° W 
+36° N 
+38° N 
+40° N 
+42° N 
+44° N 
+ 
+ 
+25
+35
+45
+55
+65
+75
+85
+Figure 3. Surface O3 MDA8 (ppb) on 11 August 2005 over a
+section of the US and Canada. Values from the individual EPA
+AQS stations are overlain on the grid-cell-average interpolated here

@@ -1,0 +1,9 @@
+b) 95th percentile, (c, d) 25th percentile, and (e, f) their difference
+(95th minus 25th) calculated with respect to years 2005–2006. Left
+column (a, c, e) shows results for the US and the right column for
+EU (b, d, f). Note the change in color bars from (a, b) to (c, d, e, f).
+2.4
+Comparison of overlapping observational O3
+networks
+The grid-cell-average O3 MDA8 product developed here pro-
+vides a ready comparison of the two independent but over-

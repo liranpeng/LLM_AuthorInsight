@@ -1,0 +1,9 @@
+actinic ﬂux includes direct and diffuse light, which depends
+on all the neighboring CAs out to tens of kilometers. Adja-
+cent clouds can either increase or decrease the scattered sun-
+light at the measurement site depending on the location of
+the sun.
+By including cloud fractional coverage from the meteo-
+rological models, and attempting in various ways to describe
+cloud overlap, the models here recognize that the atmosphere
+is not horizontally homogeneous. Yet, for cost effectiveness

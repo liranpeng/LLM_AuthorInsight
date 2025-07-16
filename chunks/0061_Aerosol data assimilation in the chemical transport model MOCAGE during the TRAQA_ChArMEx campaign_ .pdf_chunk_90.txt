@@ -1,0 +1,8 @@
+the stations as marked on the colour bar.
+tion of the event is well simulated by both the direct model
+run and the assimilation model run in all stations, but the
+intensity is underestimated in the direct model run (Fig. 2).
+However, the assimilation model run matches the outbreak
+intensity well. The second, smaller desert dust event at the
+end of the TRAQA period is only observed at southern sta-
+tions. Similarly, the assimilation model run corrects its inten-

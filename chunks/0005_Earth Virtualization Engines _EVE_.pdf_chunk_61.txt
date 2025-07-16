@@ -1,0 +1,7 @@
+advanced weather- and climate-related AI models, a great many
+organizations and agencies collect and disseminate other forms of
+climate-related data (e.g., from satellites, networks of ground
+sensors, gliders, floats, and drones to integrative ecosystem super-
+sites) that could greatly enhance this training. EVE will demonstrate
+how interoperability of data and software co-proximate to the
+computational capacity needed for the requisite machine learning

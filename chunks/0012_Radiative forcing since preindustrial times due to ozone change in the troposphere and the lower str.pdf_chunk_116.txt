@@ -1,0 +1,11 @@
+of the stratosphere, and the ozone loss leads to a de-
+crease in solar absorption.
+Consistent with these con-
+siderations, all models calculate a general cooling of the
+stratosphere and a warming of the troposphere since prein-
+dustrial times.
+The annually averaged global-mean tem-
+perature increase in the surface layer amounts to 1.25 K
+(ULAQ), 0.62 K (DLR E39C), 0.36 K (NCAR MACCM),
+0.21 K (CHASER), 1.59 K (STOCHEM HadGEM1), and
+0.70 K (UM CAM), which is in reasonable agreement with

@@ -1,0 +1,10 @@
+have been used for this purpose.
+Mixing diagnostics at ﬁxed resolution and “minimal”
+resolution
+An apparent ﬁrst question about the histograms in Fig. 15
+(upper and middle) is whether the amount of “real” mixing
+for the unlimited schemes decreases with increased “mini-
+mal” resolution (1λm), which is used for the ordering of
+the mixing data. In general that is the case; there is a gen-
+eral trend for a monotonic decrease in ℓr going from left
+Geosci. Model Dev., 7, 105–145, 2014

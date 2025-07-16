@@ -1,0 +1,4 @@
+quadrature column atmospheres (QCAs) each with a fractional area to represent the distribution of ICAs. 
+The full-wavelength RT solutions are completed for each QCA (Neu et al., 2007). See Figure S3 for a global 
+picture of the average frequency of occurrence of the 4 QCA bins for January 2015. Cloud quadrature does 
+a very good job of averaging over the ICAs with net bias errors of ∼1% in solar intensity and rms errors of

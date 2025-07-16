@@ -1,0 +1,4 @@
+double correlated-K for water vapor and liquid water within the RRTM bands may be difficult when ice 
+water is added (which it must be) since the absorption features are shifted in wavelength from those of 
+liquid water. Our finding like Edwards and Slingo (1996) is that most of this error is simply failure to 
+resolve the widely different SSA within each broad RRTM band. We suggest it is time to drop the RRTM

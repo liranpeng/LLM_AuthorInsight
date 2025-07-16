@@ -1,0 +1,8 @@
+bined. The analysis can be extended to the Atlantic. CAFS
+or similar measurements from other aircraft missions could
+also be added. Other tasks involve tightening the spread
+in rlnJ by looking for potential measurement–model noise
+(e.g., aircraft–sun orientation, sun–cloud geometries) and by
+improving the TUV clear-sky modeling (e.g., a more ac-
+curate ocean surface albedo derived from observed surface
+wind, chlorophyll, SZA). An unresolved issue is how to treat

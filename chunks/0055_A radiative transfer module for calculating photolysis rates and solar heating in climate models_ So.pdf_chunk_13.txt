@@ -1,0 +1,8 @@
+we will refer to Cloud-J, not Fast-J, as the starting point of
+Solar-J throughout the text. The accurate treatment of cloud
+and aerosol scattering has been an essential requirement for
+atmospheric chemistry modeling, and Cloud-J or alterna-
+tive models (fast-TUV, Tie et al., 2003) are used standardly
+in global chemistry models. Solar-J is an extension of the
+Cloud-J wavelength range (0.18–0.8 µm) out to 12 µm and in-
+cludes an eight-stream scattering solution for the absorption

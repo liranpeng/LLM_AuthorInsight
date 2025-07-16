@@ -1,0 +1,10 @@
+have high scores for and clearly separates the two models,
+but we will need to add some other models to see how well it
+works outside of Linoz chemistry.
+3.3
+Antarctic ozone hole
+The statistics of the evolution of the Antarctic ozone hole
+since 1990 have been driven primarily by dynamical vari-
+ations because the chlorine levels driving ozone depletion
+inside the Antarctic winter vortex have evolved slowly but
+have always been above the threshold for creating an ozone

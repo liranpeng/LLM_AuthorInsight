@@ -1,0 +1,8 @@
+primary production), and molecular analyses (e.g., microbial community structure)
+of the wind/waves and rainfall. Five barometer–temperature
+drifters from Paciﬁc Gyre were deployed from R/V MS-
+Merian from 21 January to 4 February 2020. Each drifter
+measured temperature at 20 cm depth and barometric sea
+level pressure. Each drifter had a 6 m long drogue centered
+at a depth of 15 m. The drifters used Iridium SBD telemetry
+and a 50-channel GPS system (including WAAS correction),

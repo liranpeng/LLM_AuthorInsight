@@ -1,0 +1,9 @@
+below).
+In deﬁning the A-runs, we have thus created some biases
+in the reactivities relative to the C-runs. Examination of the
+NOx and HOx budgets of parallel A- and C-runs shows two
+obvious differences. The A-runs lack emissions. Over the
+remote ocean basins, the most important emission is NOx
+(lightning, shipping, aviation). Thus A-runs show a 24 h de-
+cline in NOx abundances compared with the C-runs, result-
+ing in generally lower P-O3. The A-runs also lack scaveng-

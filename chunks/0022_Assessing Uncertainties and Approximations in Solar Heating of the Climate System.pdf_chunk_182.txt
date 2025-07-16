@@ -1,0 +1,7 @@
+racy of solar radiation in climate models. We began this study with the hope of comparing Solar-J directly 
+to AER's RRTMG version 4.0 code, and thus we ran both codes within our chemistry-transport model to 
+HSU AND PRATHER
+10.1029/2020MS002131
+19 of 24
+Journal of Advances in Modeling Earth Systems
+integrate over forecast modeled atmospheres. We became quickly humbled when even the clear-sky differ-

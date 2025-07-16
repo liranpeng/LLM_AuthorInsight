@@ -1,0 +1,35 @@
+0
+1
+2
+3
+Height (km)
+0
+5
+10
+15
+20
+(a) IWC (g m )
+-3
+0
+10
+20
+30
+40
+50
+(b) Reff (μm)
+0
+0.5
+1
+(c) Overhead τ @600 nm
+Solar-J
+Ebert & Curry (92)
+Fu (1996)
+Key (2002)
+-0.5
+0
+0.5
+1
+1.5
+(d) Cloud heating (K day -1) @ SZA = 0°
+Figure 5. (a) Proﬁles of ice-water content (IWC, g m−3) and (b) effective radius (re, µm) as prescribed for both Solar-J and RRTMG-SW.
+The in-cloud region, about 4–18 km, is enclosed by two horizontal dashed lines. (c) Proﬁles of cumulative optical depth τ at 600 nm from

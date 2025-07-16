@@ -1,0 +1,8 @@
+E3SMv1_O3v2/, last access: 18 February 2021.
+Taylor, K. E., Williamson, D., and Zwiers, F.: The sea surface tem-
+perature and sea ice concentration boundary conditions for AMIP
+II simulations, PCMDI Report No. 60, available at: https://pcmdi.
+llnl.gov/report/pdf/60.pdf (last access: 6 December 2020), 2000.
+Taylor, K. E., Stouffer, R. J., and Meehl, G. A.: An Overview of
+CMIP5 and the Experiment Design, B. Am. Meteorol. Soc., 93,
+485–498, https://doi.org/10.1175/BAMS-D-11-00094.1, 2012.

@@ -1,0 +1,4 @@
+has 1.7 W m−2 more atmospheric heating than SJ/66b, while SJ/CLIRAD/noIR, with only three IR bands, 
+has 3.8 W m−2 more (T1/R7&8). Coarse wavelength resolution of cloud absorption clearly results in more 
+in-cloud heating balanced almost equally by less reflection and surface absorption. Our global monthly val-
+ues are about 20 times lower than LZL's case study of a very thick low cloud with overhead sun, and this is

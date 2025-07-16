@@ -1,0 +1,10 @@
+L. K. Gohar and K. P. Shine acknowledge NERC grant
+NER/L/S/2001/00661.
+V. Grewe thanks E. Roeckner from the Max-Planck Institute for
+Meteorology, Hamburg for providing sea surface temperatures from
+a coupled ECHAM5/OM simulation and the DKRZ (Deutsches
+Klimarechenzentrum) for providing computing facilities.
+Edited by: V. Fomichev
+References
+Berntsen, T. K., Isaksen, I. S. A., Myhre, G., Fuglestvedt, J. S.,
+Stordal, F., Larsen, T. A., Freckleton, R. S., and Shine, K. P.:

@@ -1,0 +1,8 @@
+costs that can be readily incorporated in atmospheric chem-
+istry models. This computer code is a major expansion of
+Fast-J (Wild et al., 2000; Bian and Prather, 2002; Neu et al.,
+2007) and is presented here as Cloud-J version 7.3c. Cloud-J
+contains Fast-J and thus continues that numbering sequence,
+for which Fast-J 7.2 was the last released version. Fast-J has
+gone through several variants: Fast-J began with 7 bands, full
+scattering, for the troposphere; Fast-J2 added 11 bands, ab-

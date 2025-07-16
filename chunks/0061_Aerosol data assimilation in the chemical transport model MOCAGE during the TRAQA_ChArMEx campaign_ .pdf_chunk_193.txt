@@ -1,0 +1,9 @@
+elling using a diffusion equation, Q. J. Roy. Meteor. Soc., 134,
+1425–1438, 2008.
+Parrish, D. F. and Derber, J. C.: The National Meteorological
+Center’s spectral statistical-interpolation analysis system, Mon.
+Weather Rev., 120, 1747–1763, 1992.
+Piguet B. and Perrin T.: ATR Core in-situ measurements –
+TRAQA, ChArMEx database, available at: http://mistrals.sedoo.
+fr/ChArMEx/ (registration required, last access: November
+2016), doi:10.6096/MISTRALS-ChArMEx.998, 2013.

@@ -1,0 +1,10 @@
+since all reanalysis or forecast wind ﬁelds have their own un-
+certainties, especially when it comes to residual transport that
+controls the ozone distribution.
+2.2
+Model simulations
+The model simulations analyzed in this study are summa-
+rized in Table 1. The control simulation uses one of the
+three Atmospheric Model Intercomparison Project (AMIP)
+type simulations (see Golaz et al., 2019 for more details)
+forced with prescribed SSTs and sea ice concentrations (the

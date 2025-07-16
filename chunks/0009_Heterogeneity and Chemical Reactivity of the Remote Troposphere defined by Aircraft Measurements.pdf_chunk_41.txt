@@ -1,0 +1,9 @@
+3.1
+The modeling data stream (MDS)
+The ATom mission was designed to collect a multi-species,
+detailed chemical climatology that documents the spatial pat-
+terns of chemical heterogeneity throughout the remote tropo-
+sphere. Figure S1 in the Supplement maps the 48 research
+ﬂights, and the Supplement has tables summarizing each
+ﬂight. We required a complete set of key species in each
+air parcel to initialize the models that calculate the CH4 and

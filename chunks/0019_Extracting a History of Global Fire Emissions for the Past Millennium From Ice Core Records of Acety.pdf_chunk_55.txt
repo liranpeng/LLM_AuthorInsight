@@ -1,0 +1,5 @@
+Therefore, using the average mixing ratios in these regions is representative of the average mixing ratios
+over Greenland and Antarctica. Sensitivities were computed for emissions from biomass burning (from
+several different regions), biofuels, fossil fuels, and geologic emissions (Table 1).
+3.2. Modeling: Methane and 13CH4 Box Model
+A one‐box steady state atmospheric box model based on Nicewonger et al. (2018) was used to calculate

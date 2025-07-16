@@ -1,0 +1,5 @@
+Journal of Advances in Modeling Earth Systems
+8.	 Multi-stream scattering, level 2. From the experiments here and the careful error analysis of B2015 
+and LBYY, it is clear that 2-stream scattering is a major source of error in many codes, including RRT-
+MG-SW. 2-Stream RT codes uniformly underestimate atmospheric heating rates by more than 2 W m−2. 
+They appear to have bias errors in reflected flux that depend on surface albedo. 2-stream requires some

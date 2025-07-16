@@ -1,0 +1,5 @@
+For the Southern Hemisphere (SH), a similar progression is seen. Thus, the eddy ﬂux (though not explicitly
+calculated here) is a major part of the STE O3 ﬂux.
+To evaluate the residual ﬂuxes, we compare the seasonality of the hemispheric residual ﬂuxes across the
+100 hPa surface (solid line in Figure 1d) with that of the simulated hemispheric ﬂuxes across the same sur-
+face (dashed line in Figure 1d). The simulated O3 ﬂux peaks in the winter for both NH and SH similar to the

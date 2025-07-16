@@ -1,0 +1,7 @@
+models peak to peak amplitude ranges from 0.51 to 0.75 with a June–August minimum; while the observed 
+RUIZ ET AL.
+10.1029/2020JD033979
+12 of 16
+Figure 4.  Correlation coefficients between surface N2O residuals (NOAA N2O minus modeled N2OX from Figure S2) 
+and Niño 3.4 index at each latitude for years 2001–2016. The offset represents the lag between residuals and the Niño 
+3.4 index (i.e., −12 offset = N2O residualJan2000 vs. the Niño IndexJan2001). Before the residuals were calculated, the

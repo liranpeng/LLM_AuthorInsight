@@ -1,0 +1,22 @@
+the most important bins for cirrus cloud heating. At these
+wavelengths, EC92 has the largest absorption τabs, about 0.3,
+followed by Solar-J’s 0.21.
+Cloud heating rate proﬁles at an SZA of 0◦are shown
+in Fig. 5d, and the large range clearly reﬂects the τabs for
+S25–S27. The cirrus CRE for four SZAs and for ﬁve com-
+www.geosci-model-dev.net/10/2525/2017/
+Geosci. Model Dev., 10, 2525–2545, 2017
+2538
+J. Hsu et al.: A radiative transfer module
+10 -3
+0
+1
+2
+3
+Height (km)
+0
+5
+10
+15
+20
+(a) IWC (g m )

@@ -1,0 +1,15 @@
+(13)
+σres(a)
+=
+σ(a′
+ff)/σ(a′
+ff)
+g
+(14)
+This “residual” rescaling includes a factor σ(a′
+ff)
+g, the geometric mean of σ(a′
+ff) across all variables,
+so that the standard deviations of the rescaled variables stay scattered about 1.
+Figure 12 shows the “residual” rescaling factors σres(a) of all variables a. The range is about a factor
+of 30, with the surface pressure being up-weighted the most relative to the “full field” normalization.

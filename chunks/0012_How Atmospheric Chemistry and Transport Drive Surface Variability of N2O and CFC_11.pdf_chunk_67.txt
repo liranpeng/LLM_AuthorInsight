@@ -1,0 +1,5 @@
+changes, but the GMI model used full chemistry that did. A simple linear trend fit shows that MLS and UCI 
+agree in overall trend, while LMDz5 and GMI are different, but we find little statistical significance in these 
+differences given the short length of the record.
+Solar cycle variations in the UV-flux change N2O photolysis directly, in addition to changing O3. The so-
+lar-cycle driven O3 changes in the upper stratosphere are small over the MLS period, estimated to be +1%

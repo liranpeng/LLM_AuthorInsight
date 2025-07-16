@@ -1,0 +1,13 @@
+permitted use, you will need to obtain permission directly from the
+copyright holder. To view a copy of this licence, visit http://
+creativecommons.org/licenses/by-nc-nd/4.0/.
+Reprints and permissions
+About this article
+[image]
+Cite this article
+Mardani, M., Brenowitz, N., Cohen, Y. et al. Residual corrective
+diffusion modeling for km-scale atmospheric downscaling. Commun
+Earth Environ 6, 124 (2025). https://doi.org/10.1038/
+s43247-025-02042-5
+Download citation
+•  Received: 22 December 2023

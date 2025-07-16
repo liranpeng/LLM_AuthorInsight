@@ -1,0 +1,10 @@
+grid cell square (∼2500 column atmospheres) could achieve
+10 times greater or faster speedups for Solar-J and be ap-
+propriate for a massively parallel climate simulation (e.g.,
+32 000 nodes for a 50 km global grid). With such speedups,
+Solar-J costs would be comparable or possibly less than those
+of the current RRTMG-SW and thus become a marginal cost
+in the climate simulation.
+4.3
+Other parameterizations for wavelength bins
+Solar-J uses its own optimization of wavelength bins at ultra-

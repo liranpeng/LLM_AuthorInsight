@@ -1,0 +1,4 @@
+Some recent efforts have updated the RRTMG options for ice clouds. Zhao et al. (2018) combined more real-
+istic mixtures of ice crystals (Baum et al., 2011) with the Yang library of optical properties for a wide range 
+of wavelengths, sizes and habits (Bi & Yang, 2017; Yang et al., 2013) to create a new Baum-Yang ice cloud 
+model for RRTMG(BY). We checked our ice cloud optics against Zhao et al.'s tables and found consistent

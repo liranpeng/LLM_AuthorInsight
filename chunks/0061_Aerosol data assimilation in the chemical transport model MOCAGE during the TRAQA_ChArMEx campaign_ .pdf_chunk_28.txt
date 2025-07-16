@@ -1,0 +1,8 @@
+que et al. (2010) for both domains (Global and MEDI02).
+This inventory is deﬁned monthly, and harmonized for the
+year 2000 (Lamarque et al., 2010). Biomass burning (BB)
+sources of BC and OC aerosols are introduced into the model
+with a daily frequency from the Global Fire Assimilation
+System (GFAS) version 1.1 (Kaiser et al., 2012). The GFAS
+assimilates the ﬁre radiative power observed by MODIS, cor-
+rects the cloud cover gaps, ﬁlters anthropogenic and vol-

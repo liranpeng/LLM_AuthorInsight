@@ -1,0 +1,4 @@
+channels and version algorithms). The mean difference between V3 (P2015; green) and V4 products for the 
+old N2O (640 GHz; blue) channel is 2%, while the mean difference between V3 640 GHz (P2015; green) and 
+the new updated V4 190 GHz channel (red) is much smaller during the overlapping period (2005–2010). 
+This disagreement is well within the MLS uncertainty range in N2O of 3%–5% (one-sigma). Interannual

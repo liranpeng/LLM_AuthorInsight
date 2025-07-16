@@ -1,0 +1,8 @@
+each with its own mixture of species and each with its own
+chemical production and/or loss rates that are designated here
+as reactivities: P-O3, L-O3, L-CH4, and L-CO (see Prather
+et al., 2017, 2018, and hence P2017 and P2018). A reactivity
+is calculated as the 24 h integration of a reaction rate or the
+sum of several reaction rates that describe budgets of species
+in units of parts per billion (10−9 mole fraction) per day. In
+this paper we continue our efforts to deconstruct global tro-

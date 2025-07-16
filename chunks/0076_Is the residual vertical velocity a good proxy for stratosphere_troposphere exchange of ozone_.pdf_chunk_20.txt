@@ -1,0 +1,4 @@
+reference (as TC-e90 ﬂux) for comparison against all other diagnosed STE ﬂuxes. In section 3.1, we examine
+the pathway by which O3 enters the LMS and crosses several tropopause-like surfaces. We ﬁnd that ozone
+enters the LMS from middle to high latitudes predominantly during the winter season. The transport then
+turns more horizontal and equatorward and crosses the tropopause surfaces at midlatitudes/subtropics

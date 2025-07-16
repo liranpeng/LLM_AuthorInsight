@@ -1,0 +1,49 @@
+900
+10000
+1
+4
+2
+3
+J-O3(1D)   (10    s  )
+0
+2
+4
+6
+J-NO2   (10    s  )
+B
+C
+D
+A
+E
+F
+-5
+-3
+B
+C
+D
+A
+E
+F
+(a)
+(b)
+-1
+-1
+Figure
+4.
+Modeled
+24 h
+average
+J-values
+for
+O3 +
+hv = > O(1D) + O2
+(a,
+s−1)
+and
+NO2 + hv = > NO + O
+(b,
+s−1) for the tropical Paciﬁc (20◦S–20◦N, 150–210◦E). See Fig. 3
+and Table 1 for model codes.
+cause P-O3 depends on the less-frequent high-NOx regions.
+Assembling a representative sampling of P-O3 at the same
+% level as L-O3 will be slightly more difﬁcult. Such single-

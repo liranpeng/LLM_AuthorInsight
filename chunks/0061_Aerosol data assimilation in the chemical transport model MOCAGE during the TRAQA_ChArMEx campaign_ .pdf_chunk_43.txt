@@ -1,0 +1,12 @@
+teristics of our system, we decided to keep the relative mass
+contributions of all bins constant (24 bins including 6 size
+bins of all 4 aerosol types). After the analysis increment is
+calculated, it is repartitioned to the different bins in the model
+according to their background fractions of the total aerosol
+mass.
+Atmos. Meas. Tech., 9, 5535–5554, 2016
+www.atmos-meas-tech.net/9/5535/2016/
+B. Siˇc et al.: Aerosol data assimilation in the CTM MOCAGE
+5539
+3.3
+The observation operator

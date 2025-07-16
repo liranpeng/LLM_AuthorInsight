@@ -1,0 +1,8 @@
+P., Golaz, J.-C., Mahajan, S., Singh, B., Tang, Q., Wang, H.,
+Yoon, J.-H., Zhang, K., and Zhang, Y.: Understanding Cloud
+and Convective Characteristics in Version 1 of the E3SM At-
+mosphere Model, J. Adv. Model. Earth Sy., 10, 2618–2644,
+https://doi.org/10.1029/2018MS001350, 2018.
+Young, P. J., Naik, V., Fiore, A. M., Gaudel, A., Guo, J., Lin, M. Y.,
+Neu, J. L., Parrish, D. D., Rieder, H. E., Schnell, J. L., Tilmes, S.,
+Wild, O., Zhang, L., Ziemke, J. R., Brandt, J., Delcloo, A., Do-

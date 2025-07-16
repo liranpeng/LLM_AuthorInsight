@@ -1,0 +1,45 @@
+∆CO-tracer 2090s–2000s
+JJA
+EQ 30 N
+60 N 90 N
+30 S
+60 S
+90 S
+EQ 30 N
+60 N 90 N
+30 S
+60 S
+90 S
+EQ 30 N
+60 N 90 N
+30 S
+60 S
+90 S
+EQ 30 N
+60 N 90 N
+30 S
+60 S
+90 S
+EQ 30 N
+60 N 90 N
+30 S
+60 S
+90 S
+EQ 30 N
+60 N 90 N
+30 S
+60 S
+90 S
+EQ 30 N
+60 N 90 N
+30 S
+60 S
+90 S
+EQ 30 N
+60 N 90 N
+30 S
+60 S
+90 S
+Figure 3. Same as Fig. 2 but for boreal summer (JJA).
+(Fig. 2). Note that, while the CO-tracer distribution patterns
+are fairly similar between the models, there are some differ-

@@ -1,0 +1,8 @@
+sion using lidar observations, Atmos. Chem. Phys., 8, 2869–
+2884, doi:10.5194/acp-8-2869-2008, 2008.
+Zhang, J., Reid, J. S., Westphal, D. L., Baker, N. L., and Hyer, E. J.:
+A system for operational aerosol optical depth data assimila-
+tion over global oceans, J. Geophys. Res.-Atmos., 113, D10208,
+doi:10.1029/2007JD009065, 2008.
+Atmos. Meas. Tech., 9, 5535–5554, 2016
+www.atmos-meas-tech.net/9/5535/2016/

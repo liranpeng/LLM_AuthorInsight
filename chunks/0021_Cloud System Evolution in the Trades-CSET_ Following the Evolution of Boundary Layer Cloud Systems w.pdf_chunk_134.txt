@@ -1,0 +1,6 @@
+Research is funded by the National Science Foundation. NCEP Reanalysis data were provided by the NOAA/OAR/
+ESRL PSD, Boulder, Colorado, USA, from their Web site at https://www.esrl.noaa.gov/psd/
+References
+Ackerman AS, Kirkpatrick MP, Stevens DE, and Toon OB, 2004: The impact of humidity above 
+stratiform clouds on indirect aerosol climate forcing. Nature, 432, 1014–1017. [PubMed: 15616559] 
+Albrecht BA, Jensen MP, and Syrett WJ, 1995: Marine boundary layer structure and fractional

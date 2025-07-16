@@ -1,0 +1,7 @@
+are derived from atmospheric MCF abundances at NOAA and
+AGAGE surface stations (Montzka et al., 2000; Prinn et al., 2005),
+with an uncertainty (shaded) given by the 16th to 84th percentile
+range (±1σ) of decay rates across stations within each network,
+and adjusted by the tropospheric OH fraction of total MCF loss. All
+data are shown as anomalies relative to their own 2004–2010 mean
+(2004–2008 for NOAA data). Models, observations, and uncertain-

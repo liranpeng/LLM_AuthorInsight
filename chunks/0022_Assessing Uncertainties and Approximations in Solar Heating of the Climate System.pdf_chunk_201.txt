@@ -1,0 +1,4 @@
+er reflection and less surface absorption, similar to other approaches, including more exotic approaches 
+(J. K. P. Shonk & Hogan, 2008) that add a second, thinner extension around the primary cloud. The range 
+of approaches reflects the basic uncertainty in mapping climate model cloud data (cloud fraction and 
+cloud water content) into 3D fields of clouds. For the 1D, or quasi-1D (R. J. Hogan & Bozzo, 2018) RT

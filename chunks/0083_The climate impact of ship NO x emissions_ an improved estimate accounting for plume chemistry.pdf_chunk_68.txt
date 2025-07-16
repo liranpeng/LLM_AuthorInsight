@@ -1,0 +1,8 @@
+metric plume chemistry are +3.4 and −5.7 mW m−2, respec-
+tively, for emissions of 1 Tg(N) yr−1. With instant dilution,
+the RF components are close to the central estimate from past
+literature and about 40 % larger than our best estimate: +5.3
+and −8.5 mW m−2. The ﬁxed OPE model, unlike the others,
+predicts that warming from short-lived O3 (+3.8 mW m−2)
+exceeds the CH4 cooling (−2.2 mW m−2) because instantly
+converting NOx emissions to HNO3 neglects its direct effect

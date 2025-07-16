@@ -1,0 +1,10 @@
+remain dominant drivers of methane lifetime throughout the
+21st century, we use this parametric model to make new pro-
+jections of methane abundance and its uncertainty through
+2100. Finally, the perturbation tests also enable a new esti-
+mate of the ozone contribution to methane radiative forcing
+and global warming potential.
+2
+Model descriptions
+We diagnose methane lifetime due to tropospheric OH,
+τCH4×OH, from multi-year simulations in 3 different CTMs:

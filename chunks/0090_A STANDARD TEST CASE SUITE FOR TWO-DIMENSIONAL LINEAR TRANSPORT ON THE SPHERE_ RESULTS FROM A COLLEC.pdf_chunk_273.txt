@@ -1,0 +1,12 @@
+rounding cell-averaged values.
+A6
+FARSIGHT
+See White and Dongarra (2011) for scheme details.
+A7
+HEL(-ND)
+HEL and HEL-ND use the same settings as for CSLAM. The
+ﬁlter parameters are the same in HEL and HEL-ND: both
+are run without ﬁlters in the underlying ﬁrst-order version of
+CSLAM. The number of Lagrangian parcels are equal to the
+number of grid cells, and the parcels “survive” for the total
+duration of the simulation. They are initialized at the grid cell

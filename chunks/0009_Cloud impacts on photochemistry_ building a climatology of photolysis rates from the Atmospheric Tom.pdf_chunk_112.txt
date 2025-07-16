@@ -1,0 +1,8 @@
+CAFS measurement. Work on the CAFS / TUV calibration
+seeks to achieve this zero bias, and it continues beyond the
+cutoff date of the ATom-1 data used here. The OSA affects
+our 2 Js differently: for J-O1D with peak photolysis about
+305 nm, the OSA under typical conditions (SZA = 20◦, sur-
+face wind = 10 m s−1, chlorophyll = 0.05 mg m−3) is 0.038,
+while for J-NO2 with peak photolysis at 380 nm, the OSA is
+0.048. OSA depends critically on the incident angle of radi-

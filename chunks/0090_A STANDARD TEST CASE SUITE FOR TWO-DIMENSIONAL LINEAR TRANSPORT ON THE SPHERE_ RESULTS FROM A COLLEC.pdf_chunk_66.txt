@@ -1,0 +1,8 @@
+as a scheme that propagates information (i.e., waves) ﬁrst
+in a direction normal to a given cell interface, and then in
+a direction transverse to this interface effectively approxi-
+mating “swept area” ﬂuxes (see, e.g., Fig. 5.22 in Durran,
+2010). CLAW is based on a ﬁrst-order donor cell upwind
+method (ﬁrst-order waves) composed of one-dimensional
+ﬂux-divergence operators with “correction” terms to take
+into account traverse ﬂow of waves and/or higher order

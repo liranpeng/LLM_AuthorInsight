@@ -1,0 +1,8 @@
+al. (2018). All the E3SMv1 simulations in the present study
+are performed with EAMv1 forced by monthly mean sea
+surface temperatures (SSTs) at the standard 1◦horizontal
+resolution and 72 vertical layers, extending from the sur-
+face to 60 km (∼0.1 hPa) with a 600 m vertical resolution
+near the tropopause (see Fig. 1 of Xie et al., 2018). The
+ﬁrst EAMv1 ozone package (termed O3v1) uses a prescribed
+decadal monthly mean climatology from the input4MIPS

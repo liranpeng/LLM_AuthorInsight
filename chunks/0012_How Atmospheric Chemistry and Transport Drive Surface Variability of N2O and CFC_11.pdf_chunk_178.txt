@@ -1,0 +1,17 @@
+F11 with emissions are shown as dashed lines. In panel (a), the UCI N2OX, N2O, and F11X* are 
+rescaled to an initial burden of 1520 TgN-N2O.  The initial value of UCI F11X in panel (b) is rescaled to 
+match the burden of GMI F11X on Jan 1990 to highlight the slightly smaller decay rate.   
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure S2.  Surface N2O, N2OX and F11X interannual rate of change (%/yr). The top panels and

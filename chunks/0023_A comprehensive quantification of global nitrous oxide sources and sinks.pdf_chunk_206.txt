@@ -1,0 +1,9 @@
+nutrient budget model; the dashed lines represent the minimum and maximum 
+values.
+Article
+Extended Data Fig. 5 | Global N2O emission from other direct 
+anthropogenic sources. a, Emission from fossil fuel combustion based on 
+EDGAR v4.3.2 and GAINS estimates. b, Emission from industry based on EDGAR 
+v4.3.2 and GAINS estimates. c, Emission from waste and waste water based on 
+EDGAR v4.3.2 and GAINS estimates. d, Emission from biomass burning based 
+on FAOSTAT, DLEM, and GFED4s estimates.

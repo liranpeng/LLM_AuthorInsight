@@ -1,0 +1,4 @@
+Title: Errors in Calculating Solar Heating of the Climate System
+
+Abstract:
+In calculating solar radiation, climate models make many approximations to the known physics of radiative transfer. These simplifying parameterizations are made to reduce computational cost and ena...

@@ -1,0 +1,8 @@
+tial values control the chemical evolution of the air parcels.
+Knowing the correct multi-species patterns, and how differ-
+ent models succeed or fail in reproducing them, will give de-
+velopers the largest leverage in improving the chemical and
+physical processes in the models. A critical issue in preparing
+such a chemical climatology is representativeness, i.e., just
+how well do the observations represent the region in which
+they were made and how well should the models match the

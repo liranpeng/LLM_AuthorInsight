@@ -1,0 +1,8 @@
+Computational expense
+Training time for each seed was about 63 hours on four NVIDIA-A100s.
+Running inference on a single A100 requires about one second of wall clock time per simulated day.
+For comparison, the reference simulation ran on 96 cores of AMD EPYC 7H12 processors and took
+∼77 seconds per simulated day. The 2x coarser resolution baseline ran on 24 cores in ∼45 seconds
+per simulated day.
+4
+Conclusions and future work

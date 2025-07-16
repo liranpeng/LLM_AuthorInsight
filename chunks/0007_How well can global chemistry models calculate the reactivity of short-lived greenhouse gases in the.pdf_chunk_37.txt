@@ -1,0 +1,10 @@
+3.1
+Average proﬁles
+Altitude proﬁles of reactivities and J-values averaged over
+24 h, 5 days in August, and latitude blocks (50–20◦S, 20◦S–
+20◦N and 20–50◦N) are shown in Fig. 1 (6 models, 3 blocks,
+18 proﬁles per panel). As expected for August, the 50–20◦S
+values are very low, while the 20◦S–20◦N and 20–50◦N
+ones are equally high. This basic latitude-season pattern
+holds across all models. The variability across the ﬁve sepa-
+rate days in the UCI model (Fig. S2) is primarily a smooth

@@ -1,0 +1,8 @@
+ting L-CH4 (ppb/d) versus HCHO (ppt) for the three tropical
+regions where most of the CH4 loss occurs. The relationship
+is linear, with slopes ranging from 4 to 6 per day, but the
+Atmos. Chem. Phys., 21, 13729–13746, 2021
+https://doi.org/10.5194/acp-21-13729-2021
+H. Guo et al.: Heterogeneity and chemical reactivity of the remote troposphere
+13743
+Figure 6. Scatterplot of L-CH4 (ppb/d) versus HCHO (ppt) for ATom 1 in the three tropical regions shown in Fig. 3. The air parcels are

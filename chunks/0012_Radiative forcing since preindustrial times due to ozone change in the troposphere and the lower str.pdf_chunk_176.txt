@@ -1,0 +1,20 @@
+Table 9. Annually and globally averaged adjusted radiative forc-
+ing calculated by the Harvard GISS-RTM (Wm−2) based on ozone
+changes calculated in two different experiments with the Harvard-
+GISS chemical transport model. Details about the “standard” and
+“tuned” experiments are given in the text.
+DU T
+SW T
+LW T
+Net T
+Harvard-GISS standard
+11.8
+0.11
+0.27
+0.38
+Harvard-GISS tuned
+19.4
+0.18
+0.50
+0.68
+creased humidity in the troposphere. We also note that con-

@@ -1,0 +1,4 @@
+thick-cloud averaging enabled the UK climate model to run successfully with four broad bands for solar 
+RT, but that model and a 24-band model still had large errors compared to their 220-band reference model. 
+How does this problem look with the RRTMG bands? Figures 3a and 3b shows the SSA of typical ice- and 
+liquid-water clouds over the infrared spectrum. The refractive indices for ice and liquid water are similar but

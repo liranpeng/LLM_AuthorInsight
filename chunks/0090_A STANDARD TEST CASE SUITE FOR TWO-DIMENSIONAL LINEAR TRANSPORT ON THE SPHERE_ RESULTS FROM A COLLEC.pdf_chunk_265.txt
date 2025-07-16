@@ -1,0 +1,8 @@
+with 20 % reduction (20 % fewer points than on a regular
+latitude–longitude grid with the same resolution at the Equa-
+tor). The grids are constructed with the algorithm of Fadeev
+(2013). The grid reduction starts from approximately 45◦N/S
+(see Tolstykh and Shashkin, 2012, for grid statistics and
+pictures). Semi-analytical trajectories (Nair and Lauritzen,
+2010) are used. For the 1.5◦and 0.75◦resolutions, a non-
+dimensional time step of T/110 and T/220, respectively, is

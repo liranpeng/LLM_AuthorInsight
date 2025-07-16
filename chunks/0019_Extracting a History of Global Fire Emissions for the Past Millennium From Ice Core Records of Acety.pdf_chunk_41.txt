@@ -1,0 +1,7 @@
+the isotopic values of the biogenic and biomass burning methane sources
+as plants are using more depleted δ13C in their photosynthetic process, but
+these changes are well characterized (Rubino et al., 2013). The large
+kinetic isotope effect associated with reaction of CH4 with chlorine atoms
+introduces another source of uncertainty in the preindustrial methane iso-
+tope budget that has not been addressed in previous studies (Ferretti
+et al., 2005; Lassey et al., 2007; Nicewonger et al., 2018).

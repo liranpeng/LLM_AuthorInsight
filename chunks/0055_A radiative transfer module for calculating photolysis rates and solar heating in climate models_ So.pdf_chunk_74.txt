@@ -1,0 +1,9 @@
+ing the Solar-J (and Cloud-J) band edge to 442 nm should be
+investigated.
+These differences, particularly the 412–442 nm interval,
+explain most of the total budget difference where, overall,
+Solar-J reﬂects 4 W m−2 (4 %) less back to space, absorbs
+2 W m−2 (6 %) less in the stratosphere, 3 W m−2 (1 %) more
+in the troposphere, and 3 W m−2 (1/2 %) more at the surface.
+For SZAs of 21 and 62◦(Table 5), Solar-J continues to reﬂect
+3–4 W m−2 less energy back to space, but at a large SZA of

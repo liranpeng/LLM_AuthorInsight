@@ -1,0 +1,2 @@
+absolute value is shown for year 2000. All other years are differences relative to (minus) year 2000. The multi-model standard deviation is shown only for year 2000; it does not change much over 
+time; and, representing primarily the spread in absolute O3 column, it is larger than the standard deviation of the changes (not evaluated here). All models used the same projections for ozone-

@@ -1,0 +1,10 @@
+surface albedo change are estimated from historical scenarios
+of emissions and land use. Oscillatory and intermittent natural
+forcings (solar irradiance and volcanoes) are excluded. CFCs
+include not only chloroﬂuorocarbons, but all Montreal Protocol
+trace gases (MPTGs) and other trace gases (OTGs). Uncertainties
+(for 5–95 % conﬁdence) are 0.6 W m−2 for total GHG forcing and
+0.9 W m−2 for aerosol forcing (Myhre et al., 2013).
+3
+Global climate forcings and Earth’s energy
+imbalance

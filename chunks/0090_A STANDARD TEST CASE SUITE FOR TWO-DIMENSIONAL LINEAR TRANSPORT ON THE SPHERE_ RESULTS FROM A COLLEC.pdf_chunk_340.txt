@@ -1,0 +1,10 @@
+Intercomparison Project: Tracer Transport Test Cases, Q. J. Roy.
+Meteor. Soc., doi:10.1002/qj.2208, online ﬁrst, 2013.
+www.geosci-model-dev.net/7/105/2014/
+Geosci. Model Dev., 7, 105–145, 2014
+144
+P. H. Lauritzen et al.: Results from standard test case suite
+Kuo, H. and Williams, R. T.: Semi-Lagrangian Solutions to the In-
+viscid Burgers Equation, Mon. Weather Rev., 118, 1278–1288,
+1990.
+Lauritzen, P. H.: A stability analysis of ﬁnite-volume advection

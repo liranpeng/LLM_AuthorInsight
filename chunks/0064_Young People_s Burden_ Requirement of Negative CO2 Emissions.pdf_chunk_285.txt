@@ -1,0 +1,63 @@
+603
+1850
+1900
+1950
+2000
+ .1
+1.0
+10.0
+Coal
+Oil
+Gas
+Cement
+Flaring
+Total
+Global fossil-fuel CO2 annual emissions
+Emissions (PgC yr   )
+4.6 % yr
+←
+→
+1.0 % yr
+←
+→
+4.8 % yr
+←
+→
+1.5 % yr
+←
+→
+2.6 % yr
+↓
+(00−15)
+
+
+(1850−1913)
+(1913−45)
+(1945−73)
+(1973−2000)
+(a)
+1900
+1920
+1940
+1960
+1980
+2000
+  0
+  2
+  4
+  6
+  8
+ 10 (b)  Global fossil-fuel CO2 annual emissions
+Gas
+Oil
+Coal
+→
+Cement
+↓
+Flaring
+-1
+-1
+-1
+-1
+-1
+-1

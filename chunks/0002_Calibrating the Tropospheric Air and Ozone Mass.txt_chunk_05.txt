@@ -1,0 +1,1 @@
+tropopause based on sonde pressures is 70–80 ppb; but that for ozone is 80–90 ppb, implying that the CTM tropopause ozone values are too large. This approach of calibrating an age‐of‐air tropopause can be readily applied to other models and possibly used with observed age‐of‐air tracers like sulfur hexafluoride.

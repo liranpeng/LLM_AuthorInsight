@@ -1,0 +1,10 @@
+2010.
+Prather, M. and Jaffe, A. H.: Global Impact of the Antarctic Ozone
+Hole – Chemical Propagation, J. Geophys. Res.-Atmos., 95,
+3473–3492, 1990.
+Prather, M., Flynn, C., Fiore, A., Correa, G., Strode, S. A.,
+Steenrod, S., Murray, L., and Lamarque, J.-F.: ATom: Sim-
+ulated Data Stream for Modeling ATom-like Measurements.
+ORNL DAAC, Oak Ridge, Tennessee, USA, available at:
+https://doi.org/10.3334/ORNLDAAC/1597, last access: 1 May
+2018.

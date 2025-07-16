@@ -1,0 +1,8 @@
+Atmos. Chem. Phys., 14, 7721–7739, 2014
+www.atmos-chem-phys.net/14/7721/2014/
+doi:10.5194/acp-14-7721-2014
+© Author(s) 2014. CC Attribution 3.0 License.
+Skill in forecasting extreme ozone pollution episodes with a global
+atmospheric chemistry model
+J. L. Schnell1, C. D. Holmes1, A. Jangam1,*, and M. J. Prather1
+1Department of Earth System Science, University of California, Irvine, CA 92697-3100, USA

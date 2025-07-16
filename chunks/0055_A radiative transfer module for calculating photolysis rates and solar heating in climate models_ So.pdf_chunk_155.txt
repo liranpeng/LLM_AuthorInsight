@@ -1,0 +1,11 @@
+4.3 below.
+4.2
+Computer science options
+A proﬁling of the Solar-J code shows that the Fast-J
+core, consisting of a scattering matrix generator and block-
+tridiagonal solver, is the dominant cost. These two subrou-
+tines are already well optimized in terms of single CPU
+multi-threading; however, porting Fast-J to computers with
+graphical processing units (GPUs) has shown promise for
+greater speed. One effort targeted a single GPU and demon-
+strated speedups via CUDA (Compute Uniﬁed Device Archi-

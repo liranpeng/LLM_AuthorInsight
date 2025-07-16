@@ -1,0 +1,8 @@
+seen in the 12-month running mean. The SMO IAV is calcu-
+lated in the same way and plotted alongside the SPO+CGO
+IAV in Fig. 1d. The IAVs for N2O observations as well as the
+modeled eCO2 and sCO2 scenarios use the same processing.
+For monthly N2O surface observations, also from NOAA
+ESRL (Dlugokencky et al., 2021a), I focus on SH extratrop-
+ics using SPO and CGO, plus three other sites: S30 – west-
+ern Paciﬁc cruise at 30◦S, 168◦E; USH – Tierra del Fuego,

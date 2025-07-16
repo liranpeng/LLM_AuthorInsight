@@ -1,0 +1,8 @@
+neous reactivities can be inferred from measurements of re-
+active chemical species and the radiation ﬁeld combined with
+laboratory cross sections and reaction rate coefﬁcients, e.g.,
+Olson et al. (2012). Attempts to follow the chemical evolu-
+tion of air parcels with aircraft measurements is limited and
+quasi-Lagrangian at best (Nault et al., 2016). Even the con-
+cept of isolated Lagrangian parcels is limited, since parcels
+shear and mix rapidly as they go from a large, chemically

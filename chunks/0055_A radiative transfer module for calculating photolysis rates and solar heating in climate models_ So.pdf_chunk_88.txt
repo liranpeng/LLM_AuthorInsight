@@ -1,0 +1,65 @@
+290.27
+-Stratosphere
+0.06
+1.66
+0.16
+1.30
+37.91
+-Troposphere
+7.84
+18.56
+7.01
+9.26
+252.36
+Surface
+14.88
+0.03
+4.69
+2.22
+966.08
+www.geosci-model-dev.net/10/2525/2017/
+Geosci. Model Dev., 10, 2525–2545, 2017
+2534
+J. Hsu et al.: A radiative transfer module
+0
+5
+10
+15
+20
+25
+30
+35
+Vertical height (km)
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+Solar-J (solid-dot thin lines)
+RRTMG-SW (dashed thick lines)
+(a)
+Clear-sky heating in the stratosphere
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+20
+25
+30
+35
+40
+45
+50
+55
+(b)

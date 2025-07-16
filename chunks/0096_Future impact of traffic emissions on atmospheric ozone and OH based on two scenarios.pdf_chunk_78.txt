@@ -1,0 +1,8 @@
+CH4 RF is described in Berntsen et al. (2005) and consists of
+ﬁrst multiplying the changes in methane lifetime (presented
+in Table 3) with the estimated CH4 concentrations from IPCC
+(2001). A feedback factor of 1.4 was used to take into ac-
+count the impact of CH4 changes on its own lifetime (IPCC,
+2001). Next, linearized CH4 speciﬁc forcings of 0.33 and
+0.31 mW m−2 ppbv−1 were applied, assuming background
+CH4 mixing ratios of 2114 and 2400 ppbv for 2025 and 2050

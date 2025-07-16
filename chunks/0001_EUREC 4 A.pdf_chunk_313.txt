@@ -1,0 +1,7 @@
+water vapor mixing ratio, aerosol particle backscatter, and extinction coefﬁcients at up to 10 Hz and
+7.5 m as well as range resolution
+Wind lidar
+Doppler lidar (1 Hz temporal and 30 m range resolution) for the proﬁling of vertical wind and particle
+backscatter coefﬁcient as well as boundary layer depth and cloud-base height
+Wind lidar
+Scanning Doppler lidar operated in the six-beam staring mode for the proﬁling of horizontal wind,

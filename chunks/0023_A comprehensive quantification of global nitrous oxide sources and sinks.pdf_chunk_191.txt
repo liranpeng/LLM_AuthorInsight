@@ -1,0 +1,5 @@
+grant no. NNX13AL12G; S.B. was supported by the EC H2020 with the CRESCENDO project 
+(grant no. 641816) and by the COMFORT project (grant no. 820989), and also acknowledges 
+the support of the team in charge of the CNRM-CM climate model; F.Z. acknowledges the 
+support from the National Natural Science Foundation of China (41671464). Supercomputing 
+time was provided by the Météo-France/DSI supercomputing center. P.K.P. is partly supported

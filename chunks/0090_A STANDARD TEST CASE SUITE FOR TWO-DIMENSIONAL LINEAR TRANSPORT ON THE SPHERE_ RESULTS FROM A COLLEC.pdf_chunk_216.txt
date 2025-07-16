@@ -1,0 +1,8 @@
+That said, a scheme may still exhibit non-shape-preserving
+behavior inside the range of the initial conditions that will
+not be accounted for in ℓo but rather in ℓu. As expected, all
+unlimited versions of the schemes show overshooting mix-
+ing of varying amounts. For all the ﬁnite-volume schemes,
+the scatter points in the overshooting mixing category seem
+to gather around the extension of the straight line making up
+the lower boundary of the convex hull, almost as an exten-

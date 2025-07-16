@@ -1,0 +1,8 @@
+scale cascade from near grid scale to the sub-grid scale (Kent
+et al., 2012). Similar tests, such as many solid-body revo-
+lutions of a large constant plateau spanning many cells, can
+be used for “tuning” shape-preserving ﬁlters so that the peak
+tracer abundance does not decay linearly (if applicable) de-
+spite the initial plateau and analytic solution being very well
+resolved (Appendix A16).
+It is the purpose of this paper to provide a library of bench-

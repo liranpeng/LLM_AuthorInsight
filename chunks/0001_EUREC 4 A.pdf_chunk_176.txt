@@ -1,0 +1,8 @@
+questions that could not be addressed with data from ear-
+lier ﬁeld studies. For instance, what resolution is required for
+atmospheric models with an explicit (ﬂuid-dynamical) rep-
+resentation of clouds and convection to represent the ver-
+tical structure of the lower troposphere, and its interaction
+with mesoscale vertical motion and upper-ocean variability,
+within the observational uncertainty? The ﬁne scale of the
+EUREC4A measurements also makes it possible to quan-

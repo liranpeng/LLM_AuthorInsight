@@ -1,0 +1,5 @@
+Atmos. Chem. Phys., 18, 16809–16828, 2018
+16814
+S. R. Hall et al.: Cloud impacts on photochemistry
+Figure 2. Proﬁles of clear-sky J-O1D and J-NO2 for the tropical and North Paciﬁc blocks. See Fig. 1. CAFS here refers to TUV Js modeled
+at each point along the ﬂight path. The UCI and UCIb models are not separable since both have the same clear-sky Js. The spread in J-NO2

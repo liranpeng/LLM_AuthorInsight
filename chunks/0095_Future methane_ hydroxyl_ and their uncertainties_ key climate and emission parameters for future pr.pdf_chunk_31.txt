@@ -1,0 +1,9 @@
+cause some VOC species are not simulated in all models.
+Lightning NOx emissions also differ between models be-
+cause they are calculated from underlying meteorology, as
+described below.
+Table 1 summarizes emissions of key species. We use
+the RCP inventory for anthropogenic emissions for year
+2000, repeating in each simulated year (Lamarque et al.,
+2010; van Vuuren et al., 2011). This inventory provides
+monthly gridded emissions of NOx, CO and speciated VOCs

@@ -1,0 +1,12 @@
+ozone against satellite observations and including UCI CTM
+simulations is shown in Sect. 3. A detailed look at O3v2 ver-
+sus O3v1 including present-day climate simulation and cli-
+mate sensitivity is given in Sect. 4. Discussion and conclu-
+sions are in Sect. 5.
+2
+Experimental design
+2.1
+Model description
+The overall description of E3SMv1 is provided in Golaz et
+al. (2019). The atmospheric component (EAM version 1)
+of E3SMv1 is described in Rasch et al. (2019) and Xie et

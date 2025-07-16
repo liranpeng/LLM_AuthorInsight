@@ -1,0 +1,4 @@
+Figure 2. Curtain plots for P-O3 (0–6 ppb/d), L-O3 (0–6 ppb/d) and L-CH4 (0–3 ppb/d) showing the proﬁling of ATom-1 ﬂights in the central
+Paciﬁc (RF 3, 4 and 5), eastern Paciﬁc (RF 1) and Atlantic (RF 7, 8 and 9). Reactivities are calculated with the UCI model using MDS-2 and
+the new RDS∗protocol (UCI RDS∗-2). The 10 s air parcels are averaged into 1◦latitude and 200 m altitude bins.
+10◦of latitude. The high P-O3 regions tend to be much more

@@ -1,0 +1,8 @@
+is surely an improvement in the record during the past half
+century, when spatial and temporal data coverages are best.
+On the other hand, the largest changes between v3 and v4
+are in 1939–1945, coinciding with World War II and changes
+in the mix of data sources. Several hot spots appear in the
+Southern Hemisphere ocean during WWII in the v4 data, and
+then disappear after the war (Fig. A3c). These hot spots co-
+incide with the locations of large SST changes between v3

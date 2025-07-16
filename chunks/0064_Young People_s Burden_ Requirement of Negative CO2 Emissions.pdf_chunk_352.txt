@@ -1,0 +1,8 @@
+Jackson, R. B., Jonas, M., Kriegler, E., Littleton, E., Lowe, J. A.,
+Milne, J., Shrestha, G., Smith, P., Torvanger, A., and Wiltshire,
+A.: Simulating the Earth system response to negative emissions,
+Environ. Res. Lett., 11, e095012, https://doi.org/10.1088/1748-
+9326/11/9/095012, 2016.
+Joos, F., Bruno, M., Fink, R., Stocker, T. F., Siegenthaler, U.,
+Le Quere, C., and Sarmiento, J. L.: An efﬁcient and accurate
+representation of complex oceanic and biospheric models of an-

@@ -1,0 +1,4 @@
+The full range of models (given only for historical period for AOD and AAOD) is large and systematic in that models tend to scale relative to one another. Historical estimates for different RCPs vary 
+because of the models included. RCP4.5 included the full set of CMIP5 models contributing aerosol results (21). The standard deviation of the models is 28% (AOD) and 62% (AAOD) (N. Mahowald, 
+CMIP5 archive; Lamarque et al., 2013; Shindell et al., 2013). See Sections 11.3.5.1.3 and 11.3.6.1.
+1430

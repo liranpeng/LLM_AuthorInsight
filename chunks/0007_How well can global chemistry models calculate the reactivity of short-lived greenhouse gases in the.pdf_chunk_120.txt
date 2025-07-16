@@ -1,0 +1,8 @@
+B., Taylor, M. A., and Tolstykh, M. A.: A standard test case suite
+for two-dimensional linear transport on the sphere: results from
+a collection of state-of-the-art schemes, Geosci. Model Dev., 7,
+105–145, https://doi.org/10.5194/gmd-7-105-2014, 2014.
+Morgenstern, O., Hegglin, M. I., Rozanov, E., O’Connor, F. M.,
+Abraham, N. L., Akiyoshi, H., Archibald, A. T., Bekki, S.,
+Butchart, N., Chipperﬁeld, M. P., Deushi, M., Dhomse, S. S.,
+Garcia, R. R., Hardiman, S. C., Horowitz, L. W., Jöckel, P.,

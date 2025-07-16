@@ -1,0 +1,8 @@
+2015). These adjustments are in principle independent of sur-
+face temperature changes (although in practical model con-
+ﬁgurations the land surface temperature will also respond).
+The contribution of such rapid adjustments to the change in
+Earth’s energy budget following a perturbation of a radia-
+tively active species can be incorporated into an effective ra-
+diative forcing (ERF) (Myhre et al., 2013a; Boucher et al.,
+2013; Sherwood et al., 2015), which has been shown to be a

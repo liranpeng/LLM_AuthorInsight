@@ -1,0 +1,8 @@
+Shindell, D. T., Skeie, R. B., Sudo, K., Szopa, S., Takemura, T.,
+and Zeng, G.: Global air quality and climate, Chem. Soc. Rev.,
+41, 6663–6683, doi:10.1039/c2cs35095e, 2012.
+Gelfand, A. E., Zhu, L., and Carlin, B. P.: On the change of sup-
+port problem for spatio-temporal data, Biostatistics, 2, 31–45,
+doi:10.1093/biostatistics/2.1.31, 2001.
+Hjellbrekke, A.-G., Solberg, S., and Fjæraa, A. M.: Ozone mea-
+surements 2011, EMEP/CCC-Report 3/2013, 0-7726, Tech.

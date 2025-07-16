@@ -1,0 +1,6 @@
+possible errors in reanalysis meteorology, ozone column observations, or emission inputs. All data are anomalies with respect to their 2000–
+2005 means. The anthropogenic (anthro) NOx component combines the separate effects of land, ship, and aircraft emissions. See Fig. S6 for
+uncertainties in each component.
+and Isaksen, 2000; Dentener et al., 2003; Stevenson et al.,
+2005; Hess and Mahowald, 2009; John et al., 2012; Naik et
+al., 2012). This is an improvement over previous paramet-

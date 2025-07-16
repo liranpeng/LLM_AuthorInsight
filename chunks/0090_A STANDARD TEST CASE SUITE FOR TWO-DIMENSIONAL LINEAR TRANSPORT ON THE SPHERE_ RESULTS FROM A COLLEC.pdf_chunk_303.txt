@@ -1,0 +1,17 @@
+SLFV-SL and SLFV-ML employ a multi-dimensional exten-
+sion of Van Leer-type slope limiter discussed in Dukowicz
+and Kodis (1987).
+A14.2
+SLFV scheme description
+Since there is currently no publication documenting the
+SLFV schemes, a brief description is given here. The
+schemes are based on the ﬂux-form continuity Eq. (1) in-
+tegrated over a control volume :
+A() ∂ρφ
+∂t
+= −
+I
+0
+ρφV d0.
+(A10)
+Here ρφ is the average of ρφ over a control volume  , 0

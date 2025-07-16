@@ -1,0 +1,8 @@
+initial condition)
+For inﬁnitely smooth initial conditions, convergence data are
+examined in the resolution range [3◦, 0.3◦]. This range was
+deliberately chosen so that the ﬁelds may only be marginally
+resolved at the low resolution end of this resolution range.
+It was observed how different schemes converge throughout
+the resolution range at their formal convergence rate and how
+other schemes reach asymptotic convergence rates at higher

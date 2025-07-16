@@ -1,0 +1,9 @@
+and 2. The schemes have been grouped according to imple-
+mentation grid. An accompanying histogram (Fig. 3, middle)
+depicts the convergence rate for ℓi, i = 2,∞. The ordering
+of the data in the histogram will become clear as we discuss
+“minimal” resolution in the next section. For the convergence
+study the CN is held ﬁxed. The labels on the convergence
+plots and histograms include the CN appended to the scheme
+acronym.
+The histogram graphically depicts the range of conver-

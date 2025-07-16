@@ -1,0 +1,9 @@
+and < 0.3 for J-NO2. A COD ∼1 is not that large since these
+clouds are highly forward scattering and have an isotropic-
+equivalent optical depth that is 5 times smaller.
+4.3
+Averaging over clouds affects clear-sky fraction
+Comparison of the CAFS-ATom measurements of J values
+with modeled ones presents a fundamental disconnect, but
+one that we must work through if we are to test the J values
+in our chemistry–climate models with measurements. A

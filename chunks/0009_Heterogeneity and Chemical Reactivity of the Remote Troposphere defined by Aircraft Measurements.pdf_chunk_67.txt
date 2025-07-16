@@ -1,0 +1,33 @@
+according to their local thermal decomposition frequencies; see text. See additional statistics in Table S8.
+Atmos. Chem. Phys., 21, 13729–13746, 2021
+https://doi.org/10.5194/acp-21-13729-2021
+H. Guo et al.: Heterogeneity and chemical reactivity of the remote troposphere
+13735
+Table 3. Cross-model rms differences (RMSDs as a percentage of
+mean) for the three reactivities.
+P-O3
+F0AM
+GC
+GISS
+GMI
+NCAR
+UCI
+F0AM
+48 %
+95 %
+45 %
+55 %
+42 %
+GC
+48 %
+78 %
+26 %
+42 %
+32 %
+GISS
+95 %
+78 %
+81 %
+72 %
+75 %
+GMI

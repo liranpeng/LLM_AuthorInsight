@@ -1,0 +1,9 @@
+597
+tion of A-train satellite data in numerical models, the COSP
+system has been developed that allows simulation of the
+signal that CloudSat and Cloud-Aerosol Lidar and Infrared
+Pathﬁnder Satellite Observation (CALIPSO) would see in
+a model-generated world. A better understanding of cloud–
+aerosol interactions may be possible if models add spe-
+ciﬁc diagnostic aerosol calls, which would allow analysis
+together with the COSP diagnostic package output. Of par-

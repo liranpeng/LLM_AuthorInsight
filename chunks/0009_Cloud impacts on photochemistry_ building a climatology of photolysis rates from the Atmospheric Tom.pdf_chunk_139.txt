@@ -1,0 +1,17 @@
+Edited by: Yves Balkanski
+Reviewed by: William Collins and two anonymous referees
+References
+Atkinson, R., Baulch, D. L., Cox, R. A., Crowley, J. N., Hamp-
+son, R. F., Hynes, R. G., Jenkin, M. E., Rossi, M. J., and
+Troe, J.: Evaluated kinetic and photochemical data for atmo-
+spheric chemistry: Volume I – gas phase reactions of Ox, HOx,
+NOx and SOx species, Atmos. Chem. Phys., 4, 1461–1738,
+https://doi.org/10.5194/acp-4-1461-2004, 2004.
+ATom:
+Measurements
+and
+modeling
+results
+from
+the
+NASA

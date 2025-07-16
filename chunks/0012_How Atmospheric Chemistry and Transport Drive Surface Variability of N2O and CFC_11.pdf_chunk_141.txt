@@ -1,0 +1,13 @@
+Science Foundation (NRT-1633631). 
+The authors gratefully acknowledge 
+the work of the MLS team in producing 
+the Level 2 data sets that enabled our 
+MLS-related analyses; Ryan Fuller 
+(MLS team) assisted in the creation of 
+the N2O monthly zonal mean data files 
+used here. Work at the Jet Propulsion 
+Laboratory, California Institute of 
+Technology, was performed under 
+contract with the National Aeronautics 
+and Space Administration. The LMDz 
+modeling results were funded through

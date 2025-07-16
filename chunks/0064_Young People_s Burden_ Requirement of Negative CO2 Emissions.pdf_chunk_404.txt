@@ -1,0 +1,8 @@
+Lerner, J., Lo, K. K., Matthews, E. E., Menon, S., Miller, R.
+L., Oinas, V., Oloso, A. O., Perlwitz, J. P., Puma, M. J., Put-
+man, W. M., Rind, D., Romanou, A., Sato, M., Shindell, D.
+T., Sun, S., Syed, R. A., Tausnev, N., Tsigaridis, K., Unger,
+N., Voulgarakis, A., Yao, M.-S., and Zhang, J.: Conﬁgura-
+tion and assessment of the GISS ModelE2 contributions to
+the CMIP5 archive, J. Adv. Model. Earth Syst., 6, 141–184,
+https://doi.org/10.1002/2013MS000265, 2014.

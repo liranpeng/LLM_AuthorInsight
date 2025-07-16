@@ -1,0 +1,7 @@
+2.21 and 2.22, and also Figure 11.24a. Confidence intervals (5 to 95% for HadCRUT4 only) take into account measurement, sampling, bias and coverage uncertainties. Also shown are temperature 
+increases between the CMIP5 reference period (1986–2005) and four earlier averaging periods, where 1850–1900 is the early instrumental temperature record. Uncertainties in these temperature 
+differences are 5 to 95% confidence intervals.
+1410
+Annex II	
+Climate System Scenario Tables
+AII

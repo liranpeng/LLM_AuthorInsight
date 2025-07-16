@@ -1,0 +1,10 @@
+bbAfrica
+bbSAm
+bbNAm
+nbOther
+nbEuro
+nbNAm
+nbAsia
+Figure 5. The contribution of each tagged CO tracer over the Paciﬁc in the (a) upper and middle troposphere (pressure < = 850 hPa) and (b)
+lower troposphere (pressure > 850 hPa). Data from multiple ﬂights over the region between 120◦E and 110◦W are included, with each bar
+representing data averaged over a 5◦latitude bin. Shaded bars represent non-BB CO from Asia (orange), N. America (purple), Europe (red),

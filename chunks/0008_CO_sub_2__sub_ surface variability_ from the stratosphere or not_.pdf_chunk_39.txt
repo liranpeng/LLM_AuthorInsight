@@ -1,0 +1,9 @@
+the growth and decay of tropical biomass transported equally
+to both hemispheres (Keeling and Graven, 2021). The chal-
+lenge lies in the phasing and which region leads or lags in
+change. Unfortunately, the bandpass IAVs in this analysis do
+not seem able to accurately determine the phase at a level up
+to 1 year.
+The Samoan site SMO provides a valuable but very chal-
+lenging record of CO2 and other trace gases having dominant
+NH emissions, such as chloroﬂuorocarbons (Cunnold et al.,

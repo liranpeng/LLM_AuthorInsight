@@ -1,0 +1,11 @@
+model used operationally for the region surrounding Taiwan.
+Details follow. The key contributions of this paper are:
+1. 1.
+A physics-inspired, two-step approach termed Corrective
+Diffusion (CorrDiff), which simultaneously learns mappings
+between low- and high-resolution weather data across
+multiple variables with high fidelity alongside new channel
+synthesis.
+2. 2.
+For the case studies considered, CorrDiff adds physically
+realistic improvements to the representation of under-

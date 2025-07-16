@@ -1,0 +1,8 @@
+struction of air pollutants and short-lived greenhouse gases.
+The NASA Atmospheric Tomography Mission (ATom, 2017;
+Wofsy et al., 2018), in its charge to measure the chemical re-
+activity over the remote ocean basins, has measured J values
+while proﬁling the troposphere (0–12 km). These measure-
+ments reveal a statistical pattern of J values over different
+geographic, altitude and cloud regimes, which directly chal-
+lenges current atmospheric chemistry models and provides

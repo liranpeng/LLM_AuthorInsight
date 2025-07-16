@@ -1,0 +1,8 @@
+Geosci. Model Dev., 10, 2525–2545, 2017
+https://doi.org/10.5194/gmd-10-2525-2017
+© Author(s) 2017. This work is distributed under
+the Creative Commons Attribution 3.0 License.
+A radiative transfer module for calculating photolysis rates and
+solar heating in climate models: Solar-J v7.5
+Juno Hsu1, Michael J. Prather1, Philip Cameron-Smith2, Alex Veidenbaum3, and Alex Nicolau3
+1Department of Earth System Science, University of California Irvine, Irvine, California, 92697, USA

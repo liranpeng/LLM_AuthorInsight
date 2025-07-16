@@ -1,0 +1,8 @@
+Scenarios with linearly growing CO2 extraction at rates re-
+quired to yield 350 or 450 ppm airborne CO2 in 2100 are in
+Fig. 11b and d. These forcings and the assumed climate re-
+sponse function deﬁne expected global temperature for the
+entire industrial era considered here (Fig. 12). We extended
+the global temperature calculations from 2100 to 2200 by
+continuing the % yr−1 change in CO2 emissions. In the cases
+with CO2 extraction we kept the GHG climate forcing ﬁxed

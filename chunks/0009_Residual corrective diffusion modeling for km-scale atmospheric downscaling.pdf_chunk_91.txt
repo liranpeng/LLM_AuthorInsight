@@ -1,0 +1,9 @@
+31. Dhariwal, P. & Nichol, A. Diffusion models beat gans on
+image synthesis. In Proceedings of NeurIPS, 34, 8780–8794
+(2021).
+32. Addison, H., Kendon, E., Ravuri, S., Aitchison, L. & Watson, P.
+A. Machine learning emulation of a local-scale UK climate
+model. arXiv preprint arXiv:2211.16116 (2022).
+33. Hatanaka, Y., Glaser, Y., Galgon, G., Torri, G. & Sadowski, P.
+Diffusion models for high-resolution solar forecasts. arXiv
+preprint arXiv:2302.00170 (2023).

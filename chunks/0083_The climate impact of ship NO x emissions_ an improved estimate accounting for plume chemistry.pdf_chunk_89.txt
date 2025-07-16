@@ -1,0 +1,9 @@
+tent with available data. With parametric plume chemistry,
+OPE from ship NOx is 30 % smaller than under instant dilu-
+tion. Methane perturbations from ship NOx are likewise re-
+duced 30 %. Parametric plume chemistry also increases the
+global atmospheric CH4 lifetime compared to instant dilu-
+tion, which brings the model closer to observations, bit it is
+still too short.
+Our best estimate of the ship NOx RF from the short-lived
+O3 increase is +3.4 ± 0.85 mW m−2 for steady-state emis-

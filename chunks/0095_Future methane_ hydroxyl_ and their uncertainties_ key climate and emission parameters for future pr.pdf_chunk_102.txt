@@ -1,0 +1,18 @@
+1980
+1985
+1990
+1995
+2000
+2005
+−6
+CH4
+Temperature
+Water vapor
+O3 column
+L-NOx
+Biomass burning
+Anthro−NOx
+Anthro−CO
+Anthro−VOC
+Fig. 5. Recent historical τCH4×OH variation (left) and its component causes (right). Lifetime reconstructed in this work from Eq. (3), with
+components shown at right. Shaded region shows ±σ uncertainty propagated from adopted parameter ranges in Table 2, but not including

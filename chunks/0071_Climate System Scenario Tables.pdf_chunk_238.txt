@@ -1,0 +1,7 @@
+2.40 ± 0.46
+3.73 ± 0.56
+4.56 ± 0.70
+7.02 ± 0.92
+Table AII.6.10 |  Total anthropogenic plus natural ERF (W m–2) from CMIP5 and CMIP3, including historical
+Notes:
+CMIP5 historical and RCP results (Forster et al., 2013) are shown with CMIP3 SRES A1B results (Forster and Taylor, 2006). The alternative results for 1986–2005 with CMIP5 are derived from: all

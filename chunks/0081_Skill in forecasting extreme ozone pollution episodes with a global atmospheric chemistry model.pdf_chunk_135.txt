@@ -1,0 +1,5 @@
+Atmos. Chem. Phys., 14, 7721–7739, 2014
+7734
+J. L. Schnell et al.: Skill in forecasting extreme ozone pollution episodes
+Table 3. Climatology of O3 air quality and extreme episodes (AQX) observations over the US and EU (2000–2009). Each grid cell has AQX
+events deﬁned as the 100 worst days per decade, except for AQXyr, which is normalized to have 10 events per year. The mean AQX size ( ¯S)

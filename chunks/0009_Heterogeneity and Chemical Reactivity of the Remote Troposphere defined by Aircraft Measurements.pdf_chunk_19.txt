@@ -1,0 +1,9 @@
+try to model the speciﬁc period of the ATom deployments.
+Others may use the ATom data with hindcast CTMs to test
+forecast models, but here we want to build a chemical clima-
+tology.
+The ﬁrst hard test of the A runs came with the second
+ATom modeling paper (“How well can global chemistry
+models calculate the reactivity of short-lived greenhouse
+gases in the remote troposphere, knowing the chemical com-
+position”, Prather et al., 2018, hence P2018). The UCI CTM

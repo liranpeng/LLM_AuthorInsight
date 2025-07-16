@@ -1,0 +1,7 @@
+considering annual changes in all factors during 1860–2016.
+Article
+Extended Data Fig. 9 | Direct soil emissions and agricultural product trades 
+in Brazil. a, The red line shows the ensemble direct N2O emissions from 
+livestock manure based on EDGAR v4.3.2, GAINS and FAOSTAT, the sum of 
+‘manure left on pasture’ and ‘manure management’. The grey columns show the 
+amount of beef exported by Brazil. b, Orange line shows the ensemble direct

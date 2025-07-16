@@ -1,0 +1,4 @@
+troposphere, tracks the net change in O3 on the tropospheric side of a tropopause-like isosurface for each
+tropospheric grid column; (2) The lowermost stratosphere method (LS method hereafter) infers the net
+hemispheric ﬂuxes across the extratropical tropopause by calculating all other terms of the O3 budget
+within the lowermost stratosphere (LMS, from the tropopause isosurface to a standard upper level such as

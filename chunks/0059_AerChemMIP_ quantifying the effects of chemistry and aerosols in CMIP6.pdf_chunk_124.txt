@@ -1,0 +1,8 @@
+with the concentrations (for WMGHGs) or emissions (for
+short-lived species) of the selected species set to present-day
+(2014) values (Table 6). The WMGHG experiments should
+allow as complete a representation of the chemical effects on
+aerosol oxidation, tropospheric and stratospheric ozone, and
+stratospheric water vapour as the models are capable of. Note
+that in this setup methane concentrations are ﬁxed and do not
+respond to changes in oxidation rate. The ozone ERF esti-

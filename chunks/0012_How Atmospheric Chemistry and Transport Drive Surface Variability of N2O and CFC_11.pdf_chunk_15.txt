@@ -1,0 +1,4 @@
+years of observation and provide a more critical evaluation of the stratospheric influence on surface N2O.
+This work uses three independent chemistry transport models (CTMs) that calculate N2O stratospheric loss 
+and compares them with the loss calculated directly from NASA's Aura Microwave Limb Sounder (MLS) 
+satellite observations using a photochemical box model as in Prather et al. (2015). We design new tracer

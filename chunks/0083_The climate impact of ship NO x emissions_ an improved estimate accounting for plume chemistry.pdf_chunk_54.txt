@@ -1,0 +1,6 @@
+d[O3]/dE and dFO3/dE are calculated from steady-state 5 % perturbations to ship NOx emissions on top of the base
+emission inventory.
+b Emissions as described in Sect. 2. Ship NOx emissions are 5.0 Tg(N) yr−1.
+c Holmes et al. (2013) used GEOS-Chem version 9-01-02, while this work uses version 9-01-03.
+d Conﬁgured as described by Holmes et al. (2013), using representative concentration pathway (RCP) emissions for year
+2000. These include 5.4 Tg(N) yr−1 from ships.

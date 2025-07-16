@@ -1,0 +1,27 @@
+has errors, the sorting by observed percentiles will always re-
+sult in a shallower curve, which may not even be monotonic.
+Atmos. Chem. Phys., 14, 7721–7739, 2014
+www.atmos-chem-phys.net/14/7721/2014/
+J. L. Schnell et al.: Skill in forecasting extreme ozone pollution episodes
+7729
+0
+10 20 30 40 50 60 70 80 90 100
+−15
+−10
+−5
+0
+5
+10
+15
+20
+Percentile
+MDA8 O3 (ppb) 
+a)                    US Winter (DJF)
+ 
+ 
+OBS − Median = 31 ppb
+CTM (NOT Exact)
+Median = 49 ppb
+CTM (Exact)    
+Median = 48 ppb
+0

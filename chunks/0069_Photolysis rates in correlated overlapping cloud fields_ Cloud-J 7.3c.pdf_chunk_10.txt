@@ -1,0 +1,8 @@
+merging maximally overlapped groups that are correlated
+with each other (MAX-COR), is deﬁned in Sect. 2, where the
+impact of cloud-overlap models on photolysis rates (J val-
+ues) is also shown. Cloud-overlap models generate statistics
+that lead to a large number of weighted independent col-
+umn atmospheres (ICAs), where the number is too large to
+be used directly to calculate photolysis or heating rates in
+global models. Section 3 looks at the simpliﬁed cloud models

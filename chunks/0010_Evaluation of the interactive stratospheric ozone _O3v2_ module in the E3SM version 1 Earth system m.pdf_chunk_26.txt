@@ -1,0 +1,8 @@
+pecially in the stratosphere, including the jet positions, inter-
+annual winter warmings, and the quasi-biennial oscillation
+(QBO). Fortunately, we can use the UCI CTM to provide a
+reference because it runs the same O3v2 chemistry package
+and uses European Centre (EC) 3-hourly forecast ﬁelds from
+their T159L60 Integrated Forecast System (1.1◦horizontal
+resolution) over the same time period (Prather et al., 2017).
+The UCI CTM does not necessarily have the correct transport

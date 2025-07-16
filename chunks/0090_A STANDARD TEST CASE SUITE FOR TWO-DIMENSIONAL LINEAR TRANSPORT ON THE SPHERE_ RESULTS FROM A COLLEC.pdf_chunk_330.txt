@@ -1,0 +1,8 @@
+2003–2012, 1988.
+Cottet, G.-H. and Koumoutsakos, P.: Vortex Methods: Theory and
+Practice, Cambridge University Press, 1st Edn., 2000.
+Dennis, Fournier, A., Spotz, W. F., St-Cyr, A., Taylor, M. A.,
+Thomas, S. J., and Tufo, H.: High-Resolution Mesh Convergence
+Properties and Parallel Efﬁciency of a Spectral Element Atmo-
+spheric Dynamical Core, Int. J. High Perform. Comput. Appl.,
+19, 225–235, doi:10.1177/1094342005056108, 2005.

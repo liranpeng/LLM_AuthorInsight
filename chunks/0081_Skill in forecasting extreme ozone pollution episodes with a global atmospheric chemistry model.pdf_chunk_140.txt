@@ -1,0 +1,9 @@
+2◦= 1 day). The resulting episode size CCDFs are shown
+in Fig. 11 (red) and are extremely similar to the 1◦× 1◦case.
+This is encouraging for CCM comparisons. From our 1◦× 1◦
+CTM simulation (black) we ﬁnd too many small episodes,
+but the correct likelihood for the larger episodes that com-
+prise about 50 % of all AQX events. This test does not use
+the hindcast, exact-day matching and thus should be a robust
+climate statistic that can test CCMs in the CMIP5 archive.
+5.3

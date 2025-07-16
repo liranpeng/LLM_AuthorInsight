@@ -1,0 +1,12 @@
+−15
+−10
+−5
+0
+5
+10
+DU
+Model
+Stratospheric change
+Fig. 3. Change (DU) in the annual-mean (a) tropospheric ozone column and (b) stratospheric ozone column up to 30 km between 1850 and
+2000. Blue bars: “2 minus 1c”, reﬂecting chemical change. Red bars: “1c minus 1”, reﬂecting climate change only. Model numbering as in
+Table 1. “2 minus 1b” is shown instead of “2 minus 1c” for LMDzINCA, UM CAM, and STOCHEM HadAM3. “1b minus 1d” is shown

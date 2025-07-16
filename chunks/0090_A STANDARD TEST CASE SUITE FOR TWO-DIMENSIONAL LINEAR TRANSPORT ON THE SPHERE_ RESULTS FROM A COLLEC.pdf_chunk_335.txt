@@ -1,0 +1,21 @@
+doi:10.1175/MWR-D-13-00002.1, 2013.
+Evans, K. J., Lauritzen, P. H., Mishra, S. K., Neale, R. B., Tay-
+lor, M. A., and Tribbia, J. J.: AMIP Simulation with the CAM4
+Spectral Element Dynamical Core, J. Climate, 26, 689–709,
+doi:10.1175/JCLI-D-11-00448.1, 2013.
+Fadeev, R. Y.: Algorithm for Reduced Grid Generation on
+a
+Sphere
+for
+a
+Global
+Finite-Difference
+Atmospheric
+Model,
+Comput.
+Math.
+Mathemat.
+Phys.,
+53,
+237–252,
+doi:10.1134/S0965542513020073, 2013.

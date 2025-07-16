@@ -1,0 +1,50 @@
+2.21
+2.31
+63 %
+14 %
+5 %
+T. Atlantic
+J-O1D
+ATom-2
+1.61
+1.63
+1.99
+2.36
+2.45
+62 %
+15 %
+5 %
+T. Atlantic
+J-O1D
+ATom-3
+1.58
+1.55
+1.97
+2.33
+2.40
+63 %
+15 %
+5 %
+T. Atlantic
+J-O1D
+ATom-4
+1.46
+1.55
+1.88
+2.10
+2.18
+65 %
+15 %
+5 %
+https://doi.org/10.5194/essd-15-3299-2023
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+3308
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements
+Table 1. Continued.
+J-O1D
+J value
+Deployment
+Avg J
+Median J
+Avg J (1 × 10−5 s−1) in
+Fraction of total J in

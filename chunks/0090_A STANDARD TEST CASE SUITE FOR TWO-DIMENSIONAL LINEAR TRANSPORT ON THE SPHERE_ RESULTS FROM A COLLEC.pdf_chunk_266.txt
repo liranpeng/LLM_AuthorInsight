@@ -1,0 +1,12 @@
+used for the CN ≈5.7 simulations. The time steps T/600 and
+T/1200, respectively, are used for CN ≈1.0 runs.
+A4
+CLAW
+The sphere grid used for the computations is described in
+Calhoun et al. (2008) and is based on a novel mapping
+Geosci. Model Dev., 7, 105–145, 2014
+www.geosci-model-dev.net/7/105/2014/
+P. H. Lauritzen et al.: Results from standard test case suite
+137
+that transforms a single logically rectangular uniform
+Cartesian grid to the sphere. Our grid is similar to the

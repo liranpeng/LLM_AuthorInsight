@@ -1,0 +1,16 @@
+UoR-RTM
+0.085
+0.106
+0.281
+−0.215
+0.366
+−0.110
+the net tropospheric forcing in the CCMs, while a negative
+contribution is added to the stratospheric radiative forcing.
+3.3
+Results from additional radiative transfer models
+Two additional radiative transfer models are applied to allow
+for a better estimate of the model spread due to different as-
+sumptions made in the radiative transfer calculations, such
+as cloud distributions, temperatures, tropopause heights, and
+surface albedo.

@@ -1,0 +1,9 @@
+2011), the actual atmospheric sensitivity to ship NOx, likely
+lies somewhere between the GEOS-Chem and UCI CTM re-
+sults.
+Ship NOx emissions also explain the divergence of GEOS-
+Chem and the UCI CTM in their temperature sensitivities.
+Over land, both models predict similar reduction in τCH4×OH
+in response to warming. Over the oceans, however, GEOS-
+Chem predicts longer τCH4×OH at higher temperatures while
+the UCI CTM predicts the opposite. In the presence of ship

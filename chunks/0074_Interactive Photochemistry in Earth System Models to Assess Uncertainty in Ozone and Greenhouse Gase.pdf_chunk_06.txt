@@ -1,0 +1,12 @@
+doi.org/10.2172/1163479
+🗎 Copy to clipboard
+Prather, Michael J., Hsu, Juno, Nicolau, Alex, et
+al., "Interactive Photochemistry in Earth System
+Models to Assess Uncertainty in Ozone and
+Greenhouse Gases. Final report," (2014), https://
+doi.org/10.2172/1163479
+🗎 Copy to clipboard
+@techreport{osti_1163479, author = {Prather,
+Michael J. and Hsu, Juno and Nicolau, Alex and
+Veidenbaum, Alex and Smith, Philip Cameron and
+Bergmann, Dan}, title = {Interactive

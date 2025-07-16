@@ -1,0 +1,9 @@
+angle of attack, sideslip, attitude and acceleration, temperature, and humidity, primarily for wind esti-
+mation
+Inertial system
+VectorNav VN-300 INS to measure aircraft position, attitude, acceleration, inertial velocities, static
+pressure, and inertial motion unit, with integrated GPS
+Infrared thermometer
+Melexis IR thermometers measuring surface and sky brightness temperatures in a narrow ﬁeld of view
+for sensing surface temperature and cloud presence
+Turbulence probe

@@ -1,0 +1,9 @@
+for use in CMIP6: a dataset of harmonized emissions trajectories through the end of the 
+century. Geosci. Model Dev. 12, 1443–1475 (2019).
+4.	
+Davidson, E. A. Representative concentration pathways and mitigation scenarios for 
+nitrous oxide. Environ. Res. Lett. 7, 024005 (2012).
+5.	
+Hall, B., Dutton, G. & Elkins, J. The NOAA nitrous oxide standard scale for atmospheric 
+observations. J. Geophys. Res. D 112, D09305 (2007).
+6.

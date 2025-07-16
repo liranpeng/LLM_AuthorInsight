@@ -1,0 +1,19 @@
+how hard it will be to control them (Davidson, 2012) and
+identiﬁes N2O as a looming threat to climate stabilization.
+Data availability. The raw data used here were downloaded
+from the sites and at the dates speciﬁed (https://gml.noaa.gov/
+webdata/ccgg/trends/n2o/n2o_mm_gl.txt,
+Dlugokencky,
+2022;
+https://disc.gsfc.nasa.gov/datasets/ML3MBN2O_005/summary,
+Lambert
+et
+al.,
+2021;
+https://disc.gsfc.nasa.gov/datasets/
+ML3MBT_005/summary,
+Schwartz
+et
+al.,
+2021a;
+https:

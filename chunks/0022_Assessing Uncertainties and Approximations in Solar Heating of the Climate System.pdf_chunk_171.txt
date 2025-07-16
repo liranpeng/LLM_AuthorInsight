@@ -1,0 +1,4 @@
+Algorithm for Radiative Transfer through Cloud Sides code as a new operational 2-stream RT code for the 
+ECMWF models (R. J. Hogan & Bozzo, 2018). This code includes first-order 3D elements by coupling the 
+2-stream column solutions across the three elements in each layer. H. W. Barker and Li (2019) investigate 
+how to average the solar heating over a domain consisting of many columns by using more frequent RT cal-

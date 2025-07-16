@@ -1,0 +1,8 @@
+global to regional models to assess future climate impacts on
+surface ozone levels in the United States, J. Geophys. Res., 113,
+D14307, doi:10.1029/2007JD008497, 2008.
+Padoan, S., Ribatet, M., and Sisson, S.: Likelihood-based inference
+for max-stable processes, J. Am. Stat. Asscoc., 105, 263–277,
+doi:10.1198/jasa.2009.tm08577, 2010.
+Pierce, T., Hogrefe, C., Rao, S. T., Porter, P. S., and Ku, J. Y.:
+Dynamic evaluation of a regional air quality model: Assessing

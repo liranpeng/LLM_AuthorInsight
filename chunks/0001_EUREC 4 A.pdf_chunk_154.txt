@@ -1,0 +1,5 @@
+eddy ﬁeld derived from satellite altimetry (Pujol et al., 2016). Eddy contours are detected automatically by the TOEddies algorithm (Laxenaire
+et al., 2018). The position of subsurface eddies (200 to 600 m deep) as identiﬁed from the eddy detection method (Nencioli et al., 2010)
+applied to vector currents measured by SADCPs are shown by red circles. A subsurface eddy freshwater anomaly is indicative of South
+Atlantic origins.
+A wide array of instruments deployed from all four

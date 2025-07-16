@@ -1,0 +1,5 @@
+band structure and re-group a set of non-contiguous narrower bands into a single group with similar 
+cloud SSA, and then redo the correlated-K for water vapor within that new group. This would probably 
+not increase the computational cost of the RT code, but does involve substantial new research.
+6.	 Rayleigh scattering, level 0. Forcing Rayleigh scattering to be isotropic, as required in current 2-stream 
+codes, is inconsequential.

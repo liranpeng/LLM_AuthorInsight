@@ -1,0 +1,8 @@
+the US is about 104 km2, while that in EU northern latitudes
+is about 0.6 × 104 km2. From size we can estimate two addi-
+tional metrics – mean daily areal extent (km2) and duration
+(days) of the episode. Since we only want the effective du-
+ration (i.e., the time frame that includes the majority of the
+episode), we do not take the total duration from ﬁrst to last
+day. Instead, we deﬁne the duration of the peak episode to be
+2 times the weighted standard deviation of the time indices,

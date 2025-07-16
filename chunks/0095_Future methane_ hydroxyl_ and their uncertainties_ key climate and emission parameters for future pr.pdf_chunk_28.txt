@@ -1,0 +1,9 @@
+rology, which has been degraded to 2◦× 2.5◦and 47 layers
+for the CTM. GEOS-5 data are available only after 2004,
+however, so we also simulate 1997–2009 using MERRA
+meteorology at 4◦× 5◦and 47 layers. Temporal resolution
+in GEOS-5 (MERRA) is 6 h (3 h) for most meteorological
+quantities and 3 h (1 h) for surface quantities and mixing
+depth.
+The tropospheric chemistry mechanism in GEOS-Chem,
+as recently updated by Mao et al. (2010), consists of 104

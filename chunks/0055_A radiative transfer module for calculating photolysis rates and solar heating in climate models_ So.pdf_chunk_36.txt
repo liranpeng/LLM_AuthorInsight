@@ -1,0 +1,8 @@
+over wavelengths for bins S1–S11 does not reach the tropo-
+sphere in signiﬁcant amounts, and hence the optical prop-
+erties of bin S12 are used for S1–S11 for simplicity. For the
+ﬁrst 18 bins, optical properties are weighted by the solar pho-
+ton ﬂux (photons cm−2 s−1), and for the last 9 bins they are
+weighted by the solar energy ﬂux (W m−2). These refractive
+indices are combined with a Mie scattering code and a model
+for the size distribution of particles to calculate the effective

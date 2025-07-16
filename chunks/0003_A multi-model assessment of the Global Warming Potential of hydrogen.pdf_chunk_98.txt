@@ -1,0 +1,7 @@
+relative contribution to the total uncertainty for each term, and the source for the
+spread can be found in Table 1 below. For the soil sink speciﬁcally, we report a
+symmetric uncertainty range of ±15 Tg yr−1 around our model mean of
+59 Tg yr−1. This does not completely cover the interval stated in Ehhalt and
+Rohrer5. If we assume that the interval in Ehhalt and Rohrer5 of 60 þ30
+20 Tg yr−1 is a
+90% conﬁdence interval (this is not explicitly stated in the paper), the range is well

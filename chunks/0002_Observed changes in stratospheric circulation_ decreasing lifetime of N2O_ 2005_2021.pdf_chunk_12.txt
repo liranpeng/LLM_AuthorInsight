@@ -1,0 +1,8 @@
+(0.04 % of data at 0.01 hPa) occur at the minimum in the O3
+proﬁle and are replaced with the mean value of 0.2 ppm, with
+negligible impact on photolysis rates. The negative N2O val-
+ues are slightly more frequent (about 0.1 % of data at 32 and
+22 hPa but 1.6 % at 0.5 hPa, where the mean value is 2.3 ppb).
+We do not wish to inﬂate the N2O loss by replacing nega-
+tive values with large positive ones, so we opt for the safest
+choice and just replace negative N2O values with 1 ppb, again

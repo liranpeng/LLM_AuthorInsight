@@ -1,0 +1,8 @@
+els using the historical meteorology and chemical emissions,
+because of slight phase errors in the location of large-scale
+gradients or laminae (e.g., Reid et al., 1998; Manney et al.,
+1998; Wild et al., 2003; Kiley et al., 2003; Allen et al., 2004;
+Schoeberl et al., 2007; Elguindi et al., 2010). The other type
+of chemistry models, the chemistry–climate models (CCMs),
+are our means of understanding future air pollution (Prather
+et al., 2003; Mickley et al., 2004; Jacob and Winner, 2009;

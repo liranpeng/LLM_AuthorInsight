@@ -1,0 +1,32 @@
+W/m2
+Mean
+DSWRFsfc
+Downward shortwave radiative flux at surface
+W/m2
+Mean
+DLWRFsfc
+Downward longwave radiative flux at surface
+W/m2
+Mean
+P
+Surface precipitation rate (all phases)
+kg/m2/s
+Mean
+∂T W P
+∂t
+
+adv
+Tendency of total water path from advection
+kg/m2/s
+Mean
+LHF
+Surface latent heat flux
+W/m2
+Mean
+SHF
+Surface sensible heat flux
+W/m2
+Mean
+A
+Data preprocessing
+The complete list of input and output variables used for ACE is given in Table 1. A schematic

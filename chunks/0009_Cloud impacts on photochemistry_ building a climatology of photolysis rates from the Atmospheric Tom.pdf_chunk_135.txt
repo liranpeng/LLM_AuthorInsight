@@ -1,0 +1,10 @@
+archived at the Oak Ridge National Laboratory DAAC. This also
+includes the 3 s CAFS from all ATom-1 research ﬂights. See Hall
+et al. (2018); https://doi.org/10.3334/ORNLDAAC/1651. The data
+analysis and plotting codes, as MATLAB scripts, are also archived
+there.
+www.atmos-chem-phys.net/18/16809/2018/
+Atmos. Chem. Phys., 18, 16809–16828, 2018
+16824
+S. R. Hall et al.: Cloud impacts on photochemistry
+Supplement. The supplement related to this article is available

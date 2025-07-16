@@ -1,0 +1,5 @@
+systems [2, 5, 11, 13, 16] have reported results for forecasts up to only 14 days—with notable
+exceptions of [3, 23]—and instabilities or unphysical artifacts often occur for longer simulations.
+We claim the requirements of an ML-based atmospheric model for climate prediction are as follows.
+Such a model should maintain realistic weather variability and be stable for indefinite periods.
+Conservation of mass, moisture and energy is key. Surface and top-of-atmosphere fluxes of energy,

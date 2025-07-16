@@ -1,0 +1,8 @@
+ulation (t = T /2, where T is the period). Thereafter the de-
+formational part of the ﬂow reverses so that the tracer dis-
+tributions return to their initial condition at t = T . The de-
+formational ﬂow is superimposed on a constant zonal ﬂow
+to challenge the schemes further and to guarantee that er-
+rors do not cancel when the deformational ﬂow reverses. The
+initial conditions are based on distributions ranging from in-
+ﬁnitely smooth surfaces to discontinuous slotted cylinders.

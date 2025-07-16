@@ -1,0 +1,8 @@
+drops off with altitude as does COD, but peaks at 10–20 %
+near 200 hPa corresponding to large-scale cirrus. Some of
+these differences in COD and CF are large enough to ex-
+plain model differences, but there is no clear pattern between
+J values and clouds as noted in Sect. 3.2. A more thor-
+ough analysis and comparison of the modeled cloud struc-
+tures would involve the full climate models and satellite data
+(Li et al., 2015; Tsushima et al., 2017; Williams and Bodas-

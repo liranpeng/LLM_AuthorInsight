@@ -1,0 +1,7 @@
+deforestation emission of N2O and shaded areas show minimum and maximum 
+estimates.
+Extended Data Fig. 8 | Global simulated N2O emission anomaly due to 
+climate effect and global annual land surface temperature anomaly during 
+1901–2016. Global N2O emission anomalies are the ensemble of six process-based 
+land biosphere models in NMIP. The temperature data were obtained from the 
+CRU-NCEP v8 climate dataset (https://vesg.ipsl.upmc.fr). a, The correlation

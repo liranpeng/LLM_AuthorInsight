@@ -1,0 +1,5 @@
+cloudiness transition observed in the CSET study area. The CSET observations provide a 
+unique data set for studying the heavy precipitation events observed in these clouds and the 
+aerosol-cloud-precipitation interactions involved in these mesoscale complexes.
+The mesoscale systems sampled are also rich in different types of aerosol cloud interactions. 
+A feature that was frequently observed during CSET was optically thin veil clouds that were

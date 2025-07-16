@@ -1,0 +1,8 @@
+from pre-industrial to present day have resulted in a direct RF
+of nearly 0.1 W m2. Spracklen et al.88 estimate that if a
+substantial fraction of global SOA burden is from anthropo-
+genic activity, the aerosol direct forcing is larger (0.26 
+0.15 W m2), and they further estimate a cloud albedo eﬀect of
+0.6 W m2. O’Donnell et al.47 use simulations with and
+without SOA for year 2000 meteorological conditions to
+estimate an overall climate impact of 0.09 W m2, which

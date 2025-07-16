@@ -1,0 +1,8 @@
+for Modeling Aerosol-Cloud Interactions, Mon. Weather Rev.,
+137, 632–644, doi:10.1175/2008MWR2626.1, 2009.
+Plumb, R. A.: Tracer interrelationships in the stratosphere, Rev.
+Geophys., 45, RG4005, doi:10.1029/2005RG000179, 2007.
+Prather, M. J.: Numerical advection by conservation of second-
+order moments, J. Geophys. Res., 91, 6671–6681, 1986.
+Prather, M. J., Zhu, X., Strahan, S. E., Steenrod, S. D., and Ro-
+driguez, J. M.: Quantifying errors in trace species transport mod-

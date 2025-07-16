@@ -1,0 +1,6 @@
+sion 6) General Circulation Model59 and the INCA (INteraction with Chemistry
+and Aerosols, version 5) model60,61. The interaction between the atmosphere and
+the land surface is ensured through the coupling of LMDZ with the ORCHIDEE
+(ORganizing Carbon and Hydrology In Dynamic Ecosystems, version 1.9) dyna-
+mical vegetation model62. In the present conﬁguration, we use the Standard Physics
+parameterization of the GCM63. The model includes 39 hybrid vertical levels

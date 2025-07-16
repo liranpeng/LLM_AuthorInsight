@@ -1,0 +1,8 @@
+to their objectives. Note that, for consistency, the concentra-
+tions of chemically and radiatively active species should be
+the same in the radiation and chemistry schemes. Tables 1 to
+6 list the minimum model conﬁgurations required for each
+experiment. The sufﬁx “CHEMT” or “CHEMS” indicates in-
+teractive tropospheric or stratospheric chemistry is the min-
+imum needed for these experiments. The sufﬁx “AER” indi-
+cates that interactive aerosols are needed. For models without

@@ -1,0 +1,10 @@
+one model.
+4.2
+Zonal mean ozone perturbation
+The zonal mean ozone perturbation for the integrated traf-
+ﬁc emissions (Fig. 4) shows the largest effect in the north-
+ern subtropics/lower-middle latitudes. In the northern hemi-
+sphere boundary layer the mean ozone perturbation peaks at
+5.5 ppbv in mid latitudes at 40–50◦N during summer de-
+creasing to less than 3 ppbv during winter. The perturba-
+tion mixing ratio peaks in the upper troposphere/lower strato-

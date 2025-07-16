@@ -1,0 +1,8 @@
+ated standard deviations (given in brackets after each value)
+give an indication of the spread in model results. The largest
+impacts of each region on another are EU on EA (2.4%),
+NA on EU (2.1%), SA on EA (6.4%) and EA on NA
+(1.3%). These proportions should be compared with the
+amounts of NOy exported. For example, SA exports 20% of
+the NOx emitted, of which 32% is deposited in EA. The
+scatter in the model results is most likely to be due to

@@ -1,0 +1,6 @@
+altered. The altitude sampling is based on the proposed ∼90 h of ﬂight time, ∼180 proﬁles taking ∼35 min for each pair of climb-descend,
+and 5 min spent each proﬁle in the marine boundary layer. For up-to-date information on the ATom mission and deployments, see https:
+//espo.nasa.gov/missions/atom/content/ATom.
+runs) that enables global chemistry models to readily use
+high-frequency measurements from aircraft campaigns like
+the NASA ATom mission to calculate the chemical reactivity

@@ -1,0 +1,8 @@
+bein, A., Kollias, P., Kubota, T., Nakajima, T., Nakajima, T. Y.,
+Nishizawa, T., Ohno, Y., Okamoto, H., Oki, R., Sato, K., Satoh,
+M., Shephard, M. W., Velázquez-Blázquez, A., Wandinger, U.,
+Wehr, T., and van Zadelhoff, G. J.: The EarthCARE Satellite: The
+next step forward in global measurements of clouds, aerosols,
+precipitation, and radiation, B. Am. Meteorol. Soc., 96, 1311–
+1332, 2015.
+Jensen, J. B. and Nugent, A. D.: Condensational growth of drops

@@ -1,0 +1,8 @@
+eruptions and solar irradiance changes had large changes
+during the period; see Prather et al. (2013) and particularly
+their Table AII.1.2. In particular, volcanic eruptions cause
+strong negative forcing on a timescale of a few years. The
+natural forcing due to volcanic and solar irradiance changes
+was found to be −0.16 (−0.27 to −0.06) W m−2 over the
+period 1998–2011 (Myhre et al., 2013b). Whereas previous
+studies indicated almost zero change in forcing of aerosol

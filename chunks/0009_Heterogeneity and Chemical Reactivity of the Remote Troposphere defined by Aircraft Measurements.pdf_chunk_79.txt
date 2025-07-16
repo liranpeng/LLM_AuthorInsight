@@ -1,0 +1,12 @@
+range of model formulations using differing levels of chem-
+ical complexity shows this approach is robust. The different
+protocols for calculating reactivities as well as the uncer-
+tainty in cloud ﬁelds appear to have a small impact on the
+https://doi.org/10.5194/acp-21-13729-2021
+Atmos. Chem. Phys., 21, 13729–13746, 2021
+13736
+H. Guo et al.: Heterogeneity and chemical reactivity of the remote troposphere
+Table 4. ATom data ﬁles used here.
+Primary aircraft data
+Formatting and content
+Comments

@@ -1,0 +1,4 @@
+MLS, but the new GMI model matches MLS. The GMI chemistry has not changed much, but the P2015 GMI 
+was run with MERRA Goddard Earth Observing System, Version 5 (GEOS-5) circulation, while the current 
+GMI uses MERRA-2 circulation. Based on P2015 (their Figure 3), these different loss rates are not caused by 
+differences in photochemistry between the GMI simulations, but rather the circulation's ability to maintain

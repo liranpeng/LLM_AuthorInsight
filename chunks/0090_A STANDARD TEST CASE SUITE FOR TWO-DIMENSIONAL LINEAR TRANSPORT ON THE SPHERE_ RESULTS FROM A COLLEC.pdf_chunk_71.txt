@@ -1,0 +1,9 @@
+iters are applied in the one-dimensional PPM reconstruc-
+tions. Since the limiters are applied to the PPM operators that
+are one-dimensional, over- and undershoots are only elimi-
+nated along coordinate directions and not in the transverse
+direction. Hence, CAM-FV is only approximately shape-
+preserving. Air–tracer coupling is through “super-cycling”.
+For a stability analysis of the Lin and Rood (1996) scheme,
+see Lauritzen (2007).
+Another dimensionally split transport scheme in Eulerian

@@ -1,0 +1,8 @@
+which is documented in Skamarock and Klemp (2008).
+Two-dimensional least-squares-ﬁt polynomials are used to
+evaluate the higher order spatial derivatives needed to can-
+cel the leading-order truncation error terms of the stan-
+dard second-order centered formulation. As in Wicker and
+Skamarock (2002), the third-order formulation is equivalent
+to the fourth-order formulation plus an additional diffusion
+term that is proportional to the Courant number (CN). An

@@ -1,0 +1,9 @@
+Vermote, E., Reagan, J., Kaufman, Y., Nakajima, T., Lavenu,
+F., Jankowiak, I., and Smirnov, A.: AERONET Aerosol Optical
+Depth Level 2.0 Data, AERONET, Goddard Space Flight Center,
+available at: http://aeronet.gsfc.nasa.gov/ (last access: November
+2016), 2012.
+Hsu, N. C., Tsay, S.-C., King, M. D., and Herman, J. R.: Deep Blue
+retrievals of Asian aerosol properties during ACE-Asia, IEEE T.
+Geosci. Remote, 44, 3180–3195, 2006.
+Hsu, C., Remer, L., Mattoo, S., and Chu, A.: MODIS Atmosphere

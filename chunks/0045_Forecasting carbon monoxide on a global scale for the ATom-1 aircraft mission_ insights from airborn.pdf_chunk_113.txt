@@ -1,0 +1,9 @@
+mos. Chem. Phys., 13, 4707–4721, https://doi.org/10.5194/acp-
+13-4707-2013, 2013.
+Blunden, J. and Arndt, D. S. (Eds.): State of the Climate in 2015, B.
+Am. Meteorol. Soc., 97, S5–S6, 2016.
+Darmenov, A. and da Silva, A.: The Quick Fire Emissions
+Dataset (QFED): Documentation of versions 2.1, 2.2 and 2.4,
+NASA/TM-2015-104606, Vol. 38, 1–212, 2015.
+Deeter, M. N., Martínez-Alonso, S., Edwards, D. P., Emmons, L. K.,
+Gille, J. C., Worden, H. M., Sweeney, C., Pittman, J. V., Daube,

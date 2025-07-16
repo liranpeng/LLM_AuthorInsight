@@ -1,0 +1,7 @@
+been reversed in order to show O3 reductions, arising from a 5 % decrease in emissions, as positive numbers.
+In contrast to the similarity in the global distribution of O3
+impacts, large differences can be seen regarding the magni-
+tude of the zonal mean impacts in 2050 A1B versus 2050 B1
+and 2000. While H2011 showed that zonal mean O3 due to
+aircraft could reach up to 5 ppbv (ensemble mean) at north-
+ern mid- and high latitudes during summer in 2050 under the

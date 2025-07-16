@@ -1,0 +1,4 @@
+for all incident solar direct and diffuse radiation. OSA varies greatly with incident angle and somewhat 
+with wavelength, wind speed, and chlorophyll concentrations (Z. Jin et al., 2004; 2011; Li et al., 2006; Taylor 
+et al., 1996 and see Figure S4). Recently, this interactive parameterization of OSA (Z. H. Jin et al., 2011) has 
+been implemented in two Earth system models (Séférian et al., 2018) and shown to better match satellite

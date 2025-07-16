@@ -1,0 +1,8 @@
+et al., 2013) referred to as SFF-CSLAM3 and SFF-CSLAM4,
+respectively. Shape preservation in SFF-CSLAM is enforced
+by reconstruction function-limiting (slope-limiting); more
+speciﬁcally the maxima and minima are identiﬁed within
+each element, and the reconstruction function is scaled to
+ﬁt within the minimum and maximum of the neighboring
+cell-average values (Barth and Jespersen, 1989). Since sim-
+pliﬁed ﬂux-area integration is used, reconstruction functions

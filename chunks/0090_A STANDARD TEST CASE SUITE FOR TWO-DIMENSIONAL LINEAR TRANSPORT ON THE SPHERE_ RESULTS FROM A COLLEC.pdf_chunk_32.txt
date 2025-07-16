@@ -1,0 +1,13 @@
+ipated in this intercomparison is given within the category
+each scheme has been assigned to. Below, the scheme de-
+scriptions are grouped according to scheme category irre-
+spective of discretization grid. For in-depth details on the
+algorithms, we refer to their respective publications; speciﬁc
+scheme conﬁgurations used in this intercomparison are given
+in the Appendix.
+2.1
+Flux-form ﬁnite volume
+Typically, ﬂux-form Eulerian or ﬂux-form semi-Lagrangian
+schemes are based on the form
+∂(ρφ)
+∂t

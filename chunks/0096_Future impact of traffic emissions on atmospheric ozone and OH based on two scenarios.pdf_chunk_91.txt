@@ -1,0 +1,9 @@
+110 mW m−2, but the NOx emissions used in that study were
+also higher.
+The emission scenarios show a smaller spread for SHIP,
+and therefore the differences in the future O3 RF due to ship-
+ping are also smaller (Fig. 5, top). In 2050, the O3 RF due
+to shipping is estimated to be in the range from 25 (± 9.6)
+to 37 (± 14) mW m−2, depending on the scenario, compared
+to 22 (± 7.7) mW m−2 in 2000. Skeie et al. (2009) calculated
+substantially stronger impacts for 2050 with the range 36–

@@ -1,0 +1,9 @@
+gration length to reach stable results, while CCMs have per-
+formed a multi-year integration with sufﬁcient spin-up and
+reported means from 5 to 10 years of simulation (exclud-
+ing spin-up) representing a climatology for the year to sim-
+ulate. An exception is UM CAM, which has reported data
+for a single year following a sufﬁcient spin-up time.
+All
+models have reported ozone changes from the surface up
+to 30 km, except LMDzINCA, STOCHEM HadGEM1, and

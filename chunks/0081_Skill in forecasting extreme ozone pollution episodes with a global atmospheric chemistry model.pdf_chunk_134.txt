@@ -1,0 +1,9 @@
+needs to be determined as we have differing resolution across
+CCMs and the climatology is a useful model diagnostic only
+if it is robust across different model resolutions. We create
+a 2◦× 2◦data set (typical of CCM resolution) using simple
+means of the MDA8 concentrations from the 1◦× 1◦obser-
+vational data set. AQX events and episodes are deﬁned as
+www.atmos-chem-phys.net/14/7721/2014/
+Atmos. Chem. Phys., 14, 7721–7739, 2014
+7734

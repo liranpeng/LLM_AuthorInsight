@@ -1,0 +1,11 @@
+previous version
+Oslo CTM3
+UCI CTM
+zero net RF
+Figure 5. Steady-state RF (mW m−2) from O3 and CH4 caused
+by ship NOx emissions. Values are scaled to emissions of
+1 Tg(N) yr−1. Dashed lines link estimates that are made with 5 %
+increases in ship NOx (ﬁlled squares) to others made with the same
+plume dilution and chemistry assumption (open squares). These
+other estimates use CMIP5 emissions, a previous GEOS-Chem
+model version, and complete removal of ship NOx emissions. The

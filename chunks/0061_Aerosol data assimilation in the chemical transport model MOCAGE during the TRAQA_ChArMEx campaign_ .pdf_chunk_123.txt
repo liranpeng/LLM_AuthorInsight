@@ -1,0 +1,4 @@
+5547
+Figure 8. Aerosol number concentration (cm−3) from the PCASP instrument on board the ATR aircraft (black line) compared with the direct
+model run (blue line) and the assimilation model run (red line) for three different ﬂights: ﬂight A on 26 June 2012 (a), ﬂight B on 27 June
+2012 (b) and ﬂight C on 29 June 2012 (c). The altitude of the aircraft is also given for all three ﬂights. In addition, the maps of ﬂight tracks

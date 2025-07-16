@@ -1,0 +1,8 @@
+sage, J. Phys. Oceanogr., 46, 601–620, 2016.
+Rollo, C., Kinne, S., Kidane, A., Schlenczek, O., Schröder, M.,
+Grosz, R., Sandiford, S., Raeke, A., Makuch, P., Gollop, J., Neu-
+berger, A., de Groot, G., Meyer, M., Los, S., Chilinski, M.,
+Ubele, A. A., Baranowski, D., Morfa-Avalos, Y., von Arx, J.,
+Worbes, L., Nowak, J., Helfer, K., Kalesse, H., Ibáñez-Landeta,
+A., Siddle, E., Baier, K., Szkolka, W., Mohr, W., Schirmacher, I.,
+and Röttenbacher, J.: EUREC4A Campaign, Cruise No. M161,

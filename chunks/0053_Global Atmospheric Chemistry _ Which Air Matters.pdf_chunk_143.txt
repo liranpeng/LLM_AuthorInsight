@@ -1,0 +1,10 @@
+150oE
+  165oE
+  180oE
+  195oE
+  210oE
+(c)
+(d)
+Figure 8. AIR-weighted 2-D probability distributions for NOx vs. HOOH averaged over tropical Paciﬁc block (150–210◦E, 20◦S–20◦N,
+0–12 km) and for different single-longitude transects from 150–210◦E, shown for models (a) C (GFDL-AM3) and (b) F (UCI-CTM). The
+ﬁtted 2-D ellipses are shown for the full block (thick black line) and ﬁve longitude transects (colored lines) for models (c) C and (d) F. The

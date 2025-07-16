@@ -1,0 +1,6 @@
+the impact of hydrogen onto OH as estimated from a pure hydrogen perturbation
+run as described in17. OsloCTM-emi ran with the same emissions ﬁles as used in
+GFDL-emi, but with a smaller perturbation of 14 Tg yr−1 (a doubling of the
+anthropogenic emissions). Note that for OsloCTM-emi, the hydrogen at the
+surface, and hence also burden, is slightly larger in CTRL compared to the
+prescribed ﬁelds used in the concentration-driven run. The increase in methane

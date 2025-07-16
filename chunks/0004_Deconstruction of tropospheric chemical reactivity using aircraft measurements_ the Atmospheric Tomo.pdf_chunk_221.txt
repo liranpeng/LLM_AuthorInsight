@@ -1,0 +1,9 @@
+vides some core data that we feel should become a standard
+part of CCM evaluations and intercomparisons.
+The other ATom information, which is important to un-
+derstand for tropospheric chemistry but is not readily a met-
+ric, is the unusual large-scale air masses (20◦in latitude) of
+high reactivity that are clearly transient events most likely of
+continental origin: ATom-3 southern tropical Atlantic large
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+https://doi.org/10.5194/essd-15-3299-2023

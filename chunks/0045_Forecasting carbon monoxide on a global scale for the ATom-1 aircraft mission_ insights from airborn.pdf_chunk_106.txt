@@ -1,0 +1,9 @@
+the Southern Hemisphere. Plumes of elevated CO from both
+biomass burning and non-BB sources led to observations of
+enhanced CO during ATom-1.
+We use satellite observations of CO from MOPITT and
+MLS and AOT from MODIS to assess whether August 2016,
+the period sampled by ATom-1, is typical or atypical in the
+context of IAV in the satellite record (2000–2016). MOPITT
+and MLS show that CO in the lower and upper troposphere,
+respectively, were below average in August 2016 compared

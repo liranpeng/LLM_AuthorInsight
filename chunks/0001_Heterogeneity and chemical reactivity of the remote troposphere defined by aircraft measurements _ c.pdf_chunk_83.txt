@@ -1,0 +1,11 @@
+24 h. Reactivities are given for 5 d separated by
+5 d in the middle of each deployment, plus the
+5 d mean.
+Results from newest UCI CTM version
+(UCIZ) run with RDS* protocol (PAN
+and HNO4 decay) and using MDS-2b.
+NaN’s only for ﬂight 46.
+tion products, varies across models. For example, UCI con-
+siders about 32 reactive gases, whereas GC and GMI have
+over 100, and F0AM has more than 600. The other major dif-
+ference across models is photolysis, with models having dif-

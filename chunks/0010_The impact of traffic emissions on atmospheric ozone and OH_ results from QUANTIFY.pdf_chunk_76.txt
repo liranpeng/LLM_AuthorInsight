@@ -1,0 +1,8 @@
+To assess the interannual variability of the signal we com-
+pared the transport induced ozone changes to a ten year tran-
+sient simulation of E39/C. As can be seen from Fig. 3(bot-
+tom) the trafﬁc induced perturbation signal simulated by
+E39/C over the ten years period is on the order of 0.8 DU
+and 1.2 DU in January and July, respectively. Largest vari-
+ations occur in coastal regions, where synoptic variability
+leads to advection of either relatively clean maritime air or

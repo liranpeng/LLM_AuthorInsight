@@ -1,0 +1,8 @@
+3D model results provides the most useful priors.
+In terms of deriving the change in methane loss frequency, one
+can prefer the most straightforward result, that is, that the decay
+rate of MCF (Fig. 1C) is simply a measure of the change in OH loss
+frequency. This Occam’s razor principle (lex parsimoniae) has the
+fewest assumptions and makes it more readily tested and falsified.
+What assumptions are needed for this MCF decay to include
+larger changes in the OH loss frequency than those observed

@@ -1,0 +1,8 @@
+model (GCM) applications (RRTMG-SW). Solar-J success-
+fully matches RRTMG-SW’s tropospheric heating proﬁle in
+a clear-sky, aerosol-free, tropical atmosphere. We compare
+both codes in cloudy atmospheres with a liquid-water stratus
+cloud and an ice-crystal cirrus cloud. For the stratus cloud,
+both models use the same physical properties, and we ﬁnd a
+systematic low bias of about 3 % in planetary albedo across
+all solar zenith angles caused by RRTMG-SW’s two-stream

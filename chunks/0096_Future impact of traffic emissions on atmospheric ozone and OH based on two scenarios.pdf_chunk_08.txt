@@ -1,0 +1,9 @@
+net RF from ROAD is temporary and induced by the strong
+decline in ROAD emissions prior to 2050, which only af-
+fects the methane cooling term due to the longer lifetime
+of CH4 compared to O3. The O3 RF from AIR in 2050 is
+Published by Copernicus Publications on behalf of the European Geosciences Union.
+12212
+Ø. Hodnebrog et al.: Future impact of trafﬁc emissions
+strongly dependent on scenario and ranges from 19 ± 6.8 (B1
+ACARE) to 61 ± 14 mW m−2 (A1B). There is also a consid-

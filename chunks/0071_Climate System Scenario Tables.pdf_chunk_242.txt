@@ -1,0 +1,11 @@
+–1.7
+2100
+–4.2
+–3.0
+–2.8
+1.9
+11.9
+–2.5
+Notes:
+HTAP results are from Wild et al. (2012) and use the published O3 sensitivities to regional emissions from the HTAP multi-model study (HTAP 2010) and scale those O3 changes to the RCP emission 
+scenarios. The ±1 standard deviation (68% confidence interval) over the range of 14 parametric models is shown for year 2000 and is similar for all years. Results from the SRES A2 and B1 scenarios

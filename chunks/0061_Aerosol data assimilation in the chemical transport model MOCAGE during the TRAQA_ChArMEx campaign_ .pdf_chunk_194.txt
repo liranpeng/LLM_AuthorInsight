@@ -1,0 +1,8 @@
+2016), doi:10.6096/MISTRALS-ChArMEx.998, 2013.
+Rasch, P. J., Collins, W. D., and Eaton, B. E.: Understanding the In-
+dian Ocean Experiment (INDOEX) aerosol distributions with an
+aerosol assimilation, J. Geophys. Res.-Atmos., 106, 7337–7355,
+doi:10.1029/2000JD900508, 2001.
+Remer, L. A., Kaufman, Y., Tanré, D., Mattoo, S., Chu, D., Mar-
+tins, J. V., Li, R.-R., Ichoku, C., Levy, R., Kleidman, R., Eck,
+T., Vermote, D., and Holben, B.: The MODIS aerosol algo-

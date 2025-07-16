@@ -1,0 +1,8 @@
+is missing from the 3D models.
+The Bayesian models used in these new papers reduce the
+available observations into hemispheric averages (24, 25), which
+makes their complex statistical methods computationally tracta-
+ble. However, the spatial distributions of methane, its isotopes,
+and MCF may contain additional information that can distinguish
+between the alternative scenarios and provide causal explana-
+tions for the inferred OH trends. For example, 3D global atmo-

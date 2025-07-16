@@ -1,0 +1,8 @@
+Abstract. Over the past few decades, the geographical distri-
+bution of emissions of substances that alter the atmospheric
+energy balance has changed due to economic growth and air
+pollution regulations. Here, we show the resulting changes to
+aerosol and ozone abundances and their radiative forcing us-
+ing recently updated emission data for the period 1990–2015,
+as simulated by seven global atmospheric composition mod-
+els. The models broadly reproduce large-scale changes in

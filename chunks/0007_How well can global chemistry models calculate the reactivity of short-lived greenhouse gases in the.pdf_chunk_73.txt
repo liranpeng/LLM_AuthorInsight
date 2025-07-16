@@ -1,0 +1,70 @@
+www.atmos-meas-tech.net/11/2653/2018/
+Atmos. Meas. Tech., 11, 2653–2668, 2018
+2662
+M. J. Prather et al.: Reactivity of short-lived greenhouse gases
+0
+0.5
+1
+0
+0.5
+1
+Fraction of parcels
+Cumulative R
+0.9
+0.95
+1
+0.8
+0.9
+1
+Fraction of parcels
+Cumulative R
+0
+0.5
+1
+0
+0.5
+1
+Fraction of parcels
+0.9
+0.95
+1
+0.8
+0.9
+1
+Fraction of parcels
+0
+0.5
+1
+0
+0.5
+1
+Fraction of parcels
+0.9
+0.95
+1
+0.8
+0.9
+1
+Fraction of parcels
+ 
+ 
+ 
+ 
+GFDL
+GISS
+GSFC
+GC
+NCAR
+UCI
+U2015
+U1997
+GFDL
+GISS
+GSFC
+GC
+NCAR
+UCI
+U2015
+U1997
+(a)
+(b)

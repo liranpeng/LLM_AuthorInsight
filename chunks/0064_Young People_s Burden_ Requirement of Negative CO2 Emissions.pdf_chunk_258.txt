@@ -1,0 +1,9 @@
+it is difﬁcult to attribute the magnitude of the rise to tropical
+wetlands alone (Saunois et al., 2017).
+A9
+CO2 emissions in historical period
+For land use CO2 emissions in the historical period, we use
+the values labeled Houghton/2 by Hansen et al. (2008), which
+were shown in the latter publication to yield good agreement
+with observed CO2. We use fossil fuel CO2 emissions data
+for 1850–2013 from Boden et al. (2016). BP (2016) fuel con-

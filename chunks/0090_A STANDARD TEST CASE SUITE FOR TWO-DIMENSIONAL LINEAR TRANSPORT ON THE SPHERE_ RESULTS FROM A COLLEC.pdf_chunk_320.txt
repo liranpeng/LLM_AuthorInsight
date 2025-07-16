@@ -1,0 +1,9 @@
+here used L = 2.
+While limiter L = 3 can eliminate ripples on both sides of
+sharp gradients, it leads to a linear decline of the peak tracer
+abundance, even when the tracer has a large constant plateau
+that is resolved by many cells, as in the slotted cylinder. A
+simple test of UCISOM is done with a constant plateau of
+tracer value (110 tracer units in 12 × 12 cells) embedded in
+a background (10 units on a cylinder of circumference 32
+cells) and moving diagonally round the cylinder. After sev-

@@ -1,0 +1,8 @@
+set of global aerosol (mostly ofﬂine) models for AR4 and
+AR5. The complex path from precursor emissions to aerosol
+loads, to optical and cloud-perturbing properties, to ﬁnally
+forcing has been simulated with well-documented diversity
+(Schulz et al., 2006; Myhre et al., 2013b; Ghan et al., 2016).
+More recently, aerosol forcing was quantiﬁed in ACCMIP,
+with many models using the same setups as used in CMIP5.
+These results were combined with additional simulations un-

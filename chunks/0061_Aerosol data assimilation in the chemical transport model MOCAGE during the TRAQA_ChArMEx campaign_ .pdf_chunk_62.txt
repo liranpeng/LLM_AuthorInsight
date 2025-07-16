@@ -1,0 +1,12 @@
+1993). Modelled and observed AODs are then on the same 2-
+D grid, and the maximal number of observations per 1 h slot
+over the whole domain is reduced in this way from ≈80 000
+to ≈15 000. MODIS data from the Terra and Aqua platforms
+are separated in time, except at high latitudes (not used here),
+and all AODs are binned in the MEDI02 grid at 5 min inter-
+vals.
+5
+Independent observations for evaluation
+5.1
+SEVIRI
+SEVIRI (Spinning Enhanced Visible and InfraRed Im-

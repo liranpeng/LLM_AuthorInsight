@@ -1,0 +1,7 @@
+some disagreement in detailed patterns and positioning should be
+expected. The similarity between the first and the third columns
+highlights the role of the mean UNet prediction in forming large-
+scale coherent structures, such as the positioning of rainbands
+within typhoon Haikui (2023), top row, and frontal systems, bottom
+row. The additional fine-scale structure reflecting the stochastic
+physics contributed by the diffusion model is seen in the third

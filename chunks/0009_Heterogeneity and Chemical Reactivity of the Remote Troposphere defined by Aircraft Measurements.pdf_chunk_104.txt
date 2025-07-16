@@ -1,0 +1,6 @@
+https://doi.org/10.5194/acp-21-13729-2021
+H. Guo et al.: Heterogeneity and chemical reactivity of the remote troposphere
+13739
+Figure 3. Mean proﬁles of reactivity (rows: P-O3, L-O3, L-CH4 in ppb/d) in three domains (columns: C. Paciﬁc, 30◦S–30◦N by 180–210◦E;
+E. Paciﬁc, 0–30◦N by 230–250◦E; Atlantic, 30◦S–30◦N by 326–343◦E). Air parcels are cosine(latitude)-weighted. ATom-1 (gray) results
+are from Fig. 2, while model results are taken from the August climatologies in Prather et al. (2017).

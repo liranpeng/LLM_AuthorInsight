@@ -1,0 +1,7 @@
+posites use only the standard six QBO cycles and we address the anomalous 2010 QBO in Section 3.3.
+RUIZ ET AL.
+10.1029/2020JD033979
+9 of 16
+Journal of Geophysical Research: Atmospheres
+The Ray et al. (2020) study showed QBO impacts at the surface for CFC-11 and N2O, using a chemistry-cli-
+mate model that was tied to the historical meteorology only by nudged winds in the tropical stratosphere.

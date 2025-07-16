@@ -1,0 +1,8 @@
+also.
+16
+Figure 12: The standard deviation of normalized variables using the “residual” scaling strategy.
+Table 1 gives meaning of each variable.
+17
+Figure 13: Four metrics evaluated on models which use (blue) full field normalization and (olive)
+residual normalization, shown as a function of training step and reported once per epoch. The
+metrics are (top-left) RMSE of 1-step ps prediction on validation data, (top-right) RMSE of ps after

@@ -1,0 +1,8 @@
+and/or the photochemical components.
+Photolysis rates (J-values) are the driving force for reac-
+tivity, and we include also a comparison of the 24 h average
+J’s (Reactions 2d and 3c) in Fig. 4. The model spread in J-
+NO2 is 20 % and likely due to differences in cloud cover as
+well as the photolysis module in the model. The wide, factor-
+of-2 range in J-O3(1D) cannot be simply explained through
+differences in clouds or ozone; for example, a 20 % reduc-

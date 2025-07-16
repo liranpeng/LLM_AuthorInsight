@@ -1,0 +1,8 @@
+sea surface temperature and sea ice concentration distribu-
+tions for two 10-year periods: present day (“acchist” simu-
+lations) as represented by a period centred on the year 2000
+(1996–2005) and a future projection under the latest IPCC
+Representative Concentration Pathway (RCP) RCP 8.5 sce-
+nario for 2090–2099. Note that each modelling group de-
+rived their own set of sea surface temperature and sea ice
+ﬁelds, typically from a closely related coupled-ocean GCM.

@@ -1,0 +1,4 @@
+an isosurface in artiﬁcial tracer e90 representing the tropopause. Hemispheric ﬂuxes derived from the ozone
+mass budget of the lowermost stratosphere yield similar results. Use of the Brewer-Dobson residual
+vertical velocity as a scaled proxy for ozone ﬂux, however, fails to capture the interannual variability. Thus,
+the common notion that the strength of stratospheric overturning circulation is a good measure for global

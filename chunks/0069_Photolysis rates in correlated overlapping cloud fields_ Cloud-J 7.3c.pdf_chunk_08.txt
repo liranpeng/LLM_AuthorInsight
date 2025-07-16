@@ -1,0 +1,8 @@
+imally overlapped groups (MAX) that were randomly over-
+lapped relative to one another (MAX-RAN) (Briegleb, 1992;
+Feng et al., 2004). A more accurate description of cloud over-
+lap is that clouds are highly correlated (i.e., maximally over-
+lapped) when they are vertically near each other, but they
+become randomly overlapped when separated by greater dis-
+tances. The cloud decorrelation length is the vertical distance
+over which the overlap e-folds to random. From a range of

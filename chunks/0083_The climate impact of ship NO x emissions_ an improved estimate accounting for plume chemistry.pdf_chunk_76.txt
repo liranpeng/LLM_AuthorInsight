@@ -1,0 +1,8 @@
+timate uncertainties using the common approach of model
+ensembles. Instead we develop conﬁdence intervals by prop-
+agating uncertainties through Eqs. (2)–(3). Among the en-
+semble of models with instant dilution, the 1σ ranges of
+(d[O3]/dE) and (dlnτtotal/dE) are 20 % of their respective
+means. Assuming the same proportional uncertainty for these
+factors with parametric plume chemistry, and the 1σ ranges
+for other factors given in Sect. 2.2, the 1σ conﬁdence inter-

@@ -1,0 +1,8 @@
+spheric Model (NICAM) and Rubin et al. (2016) in the En-
+semble Navy Aerosol Analysis Prediction System/Data As-
+similation Research Testbed (ENAAPS-DART) system.
+In this study, we describe the development of the AOD as-
+similation module in the chemistry transport model (CTM)
+MOCAGE (e.g. Josse et al., 2004; Siˇc et al., 2015, Modèle de
+Chimie Atmosphérique à Grande Echelle). Our goal is to as-
+similate the regular daily global mapping of the 2-D column

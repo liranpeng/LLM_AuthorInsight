@@ -1,0 +1,9 @@
+were calculated for each model; these individual results
+were then used to calculate the multi-model mean sensitivity
+and standard deviations.
+[12] When the source and receptor regions are the same,
+subtracting the sensitivity from 1 gives the fraction of NOy
+that is exported; these export fractions are shown in Figure 2
+for each season, using multi-model mean values. In the four
+regions shown in Figure 1, almost all of the NOx emissions
+result from anthropogenic activities, even with a 20%

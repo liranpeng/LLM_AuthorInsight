@@ -1,0 +1,8 @@
+M., Higuchi, K., John, J., Maki, T., Maksyutov, S., Masarie, K.,
+Peylin, P., Prather, M., Pak, B. C., Sarmiento, J., Taguchi, S.,
+Takahashi, T., and Yuen, C. W.: On error estimation in atmo-
+spheric CO2 inversions, J. Geophys. Res.-Atmos., 111, D14199,
+https://doi.org/10.1029/2006jd007428, 2006.
+Frankenberg, C., Kulawik, S. S., Wofsy, S. C., Chevallier, F.,
+Daube, B., Kort, E. A., O’Dell, C., Olsen, E. T., and Oster-
+man, G.: Using airborne HIAPER Pole-to-Pole Observations

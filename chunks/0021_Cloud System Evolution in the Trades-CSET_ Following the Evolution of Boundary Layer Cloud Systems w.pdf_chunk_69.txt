@@ -1,0 +1,6 @@
+full list). The satellite products were available in near real time from the Field Catalog and 
+were instrumental for flight planning and for in-flight updates during the missions. All 
+satellite product images produced during CSET are available in the playback mode with the 
+Field Catalog Maps application.
+3. Observing Strategy and Mission Operations
+The general sampling strategy employed in CSET was to use the GV to sample clouds and

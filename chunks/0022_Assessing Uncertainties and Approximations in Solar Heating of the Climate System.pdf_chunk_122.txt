@@ -1,0 +1,4 @@
+2-stream scattering consistently underestimates the atmospheric absorption by clouds. The RRTMG(δ-scal-
+ing, 2-stream) minus SJ(8-term Mie or ice scattering phase function, 8-stream) comparison clearly show less 
+heating by liquid clouds below 6 km altitude (Figure 5a), Results in Figure 5a used the full-phase-function 
+SJ (T1/R14), and if we use SJ/δ1 (T1/R15) as the reference, differences are similar. But if we go to our

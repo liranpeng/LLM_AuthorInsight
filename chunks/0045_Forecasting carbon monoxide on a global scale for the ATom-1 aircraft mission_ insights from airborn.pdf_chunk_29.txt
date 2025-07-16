@@ -1,0 +1,8 @@
+clude day-to-day and interannual variability, but the non-BB
+sources and the OH ﬁelds use monthly means and lack daily-
+scale variability and interannual variability. Table 1 presents
+the August emission inputs for the major regions considered.
+CO emissions are then scaled up by 20 % for fossil fuels and
+11 % for biomass burning to account for CO production from
+co-emitted VOCs, since VOCs are not explicitly carried in
+the GEOS-5 FP chemical mechanism. This approach was de-

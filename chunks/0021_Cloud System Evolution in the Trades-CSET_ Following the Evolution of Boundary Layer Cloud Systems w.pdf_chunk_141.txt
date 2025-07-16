@@ -1,0 +1,7 @@
+20 pp.
+Bretherton CS, Wood R, George RC, Leon D, Allen G, and Zheng X, 2010b: Southeast Pacific 
+stratocumulus clouds, precipitation and boundary layer structure sampled along 20 S during 
+VOCALS-REx, Atmos. Chem. Phys, 10, 15921–15962.
+Bretherton CS, Blossey PN, and Jones CR (2013), Mechanisms of marine low cloud sensitivity to 
+idealized climate perturbations: A single-LES exploration extending the CGILS cases, J. Adv. 
+Model. Earth Syst, 5, 316–337, doi:10.1002/jame.20019.

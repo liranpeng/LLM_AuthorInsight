@@ -1,0 +1,8 @@
+ern Mediterranean basin. The assimilated model run is eval-
+uated independently against a range of aerosol properties (2-
+D and 3-D) measured by in situ instruments (the TRAQA
+size-resolved balloon and aircraft measurements), the satel-
+lite Spinning Enhanced Visible and InfraRed Imager (SE-
+VIRI) instrument and ground-based instruments from the
+Aerosol Robotic Network (AERONET) network. The eval-
+uation demonstrates that the AOD assimilation greatly im-

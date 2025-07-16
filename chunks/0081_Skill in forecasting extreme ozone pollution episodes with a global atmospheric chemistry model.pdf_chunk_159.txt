@@ -1,0 +1,8 @@
+the recent IPCC assessment (CMIP5/ACCMIP).
+One advantage of the approach here is that it can be read-
+ily applied to satellite observations. The regridding allows
+for somewhat sparse measurements resulting from day-to-
+day cloud obscuration to be ﬁlled to a regular grid with a
+measure of the quality of the prediction (QP). Our deﬁnition
+of AQX events takes into account natural gradients in aerosol
+optical depth or tropospheric ozone column.

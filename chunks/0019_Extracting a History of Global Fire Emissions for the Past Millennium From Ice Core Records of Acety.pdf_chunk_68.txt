@@ -1,0 +1,23 @@
+0.21 years); τCl is the lifetime of ethane due to chlorine oxidation, which is calculated based on the
+methane lifetime due to chlorine loss and the ratio of kethane/kmethane to chlorine:
+τCl ¼
+200 years
+kethane
+kmethane
+0
+B
+B
+@
+1
+C
+C
+A ¼ 0:35 years
+(7)
+where 200 years is the methane lifetime due to a 5% total loss from chlorine oxidation, and kethane/kmethane
+is the relative ratio between the reaction rates of ethane and methane to chlorine. The τtotal becomes
+1
+τtotal
+¼
+1
+0:21 year þ
+1

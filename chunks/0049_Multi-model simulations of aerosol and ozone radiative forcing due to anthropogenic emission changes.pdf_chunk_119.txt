@@ -1,0 +1,8 @@
+remote aerosol distributions to representation of cloud–aerosol
+interactions in a global climate model, Geosci. Model Dev., 6,
+765–782, doi:10.5194/gmd-6-765-2013, 2013.
+Wang, R., Tao, S., Balkanski, Y., Ciais, P., Boucher, O., Liu, J. F.,
+Piao, S. L., Shen, H. Z., Vuolo, M. R., Valari, M., Chen, H.,
+Chen, Y. C., Cozic, A., Huang, Y., Li, B. G., Li, W., Shen, G.
+F., Wang, B., and Zhang, Y. Y.: Exposure to ambient black car-
+bon derived from a unique inventory and high-resolution model,

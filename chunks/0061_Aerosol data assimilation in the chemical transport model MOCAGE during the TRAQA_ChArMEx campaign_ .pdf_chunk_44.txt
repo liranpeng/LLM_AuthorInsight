@@ -1,0 +1,15 @@
+5539
+3.3
+The observation operator
+The assimilation of AOD in MOCAGE-Valentina requires
+the development of an observation operator (H), which trans-
+forms the control variable from the model space, i.e. the to-
+tal 3-D concentration, into the observation space, i.e. AOD.
+The AOD (τ) is calculated by taking into account bin number
+concentrations (nbin) of all bins (types included) at a certain
+model level and the optical properties of individual species
+calculated by the Mie code:
+Hx =
+X
+bin
+X

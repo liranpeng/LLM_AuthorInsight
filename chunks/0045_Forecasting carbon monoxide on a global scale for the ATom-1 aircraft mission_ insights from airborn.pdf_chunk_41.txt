@@ -1,0 +1,8 @@
+mate of the observed standard deviation of the CO on the
+Palmdale–Anchorage (Fig. S4) and Anchorage–Kona ﬂights
+(Table 2). In addition to biases in emissions, observations
+often show ﬁne-scale structures too small for the model to
+resolve (Hsu et al., 2004), and underestimating the concen-
+trations in strong plumes is a common problem for global
+models (e.g., Heald et al., 2003). Either biases in emissions
+or insufﬁcient vertical or horizontal model resolution may

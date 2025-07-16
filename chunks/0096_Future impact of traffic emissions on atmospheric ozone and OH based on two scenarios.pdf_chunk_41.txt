@@ -1,0 +1,8 @@
+effects of including plume chemistry, the possible overesti-
+mation of O3 production due to the neglect of plume pro-
+cesses should be kept in mind when interpreting the results
+presented in the subsequent sections.
+Consistent with the studies of Hoor et al. (2009), Myhre et
+al. (2011) and H2011, the results for O3 and OH (Sects. 3.1–
+3.2) are shown unscaled, i.e. the direct effect of a 5 % emis-
+sion perturbation, while CH4 lifetime changes and RF calcu-

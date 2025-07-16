@@ -1,0 +1,4 @@
+skies (T1/R6) and with liquid clouds using δ-1 scaling for both models (T1/R13).
+Under clear sky conditions (no clouds, no aerosols) the only scaling in SJ/2s is to make Rayleigh scattering 
+isotropic, which has negligible effects as noted above (T1/R17). The pattern of 2-stream errors (Figure S2, 
+left column) is unusual, with reflected flux being much larger in regions with high surface albedo (Antarc-

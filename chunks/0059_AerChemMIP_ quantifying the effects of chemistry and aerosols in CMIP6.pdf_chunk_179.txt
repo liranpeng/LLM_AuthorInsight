@@ -1,0 +1,8 @@
+els. In contrast, AerChemMIP uses historical as the control
+and ﬁxes one class of species at a time to pre-industrial levels
+(e.g. hist-piAer).
+The DAMIP hist-stratO3 run has only stratospheric ozone
+evolving, using either the prescribed CMIP6 ozone dataset
+(Hegglin et al., 2017) or ozone output from the previous his-
+torical run. In the troposphere ozone is ﬁxed to pre-industrial
+levels. The equivalent experiment for the models with strato-

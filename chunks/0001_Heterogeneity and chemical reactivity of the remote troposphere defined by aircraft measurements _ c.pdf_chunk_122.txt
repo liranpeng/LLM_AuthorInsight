@@ -1,0 +1,6 @@
+111
+Figure 3. Mean altitude proﬁles of reactivity (rows: P-O3, L-O3, L-CH4 in ppb d−1) in three domains (columns: C. Paciﬁc, 30◦S–30◦N
+by 180–210◦E; E. Paciﬁc, 0–30◦N by 230–250◦E; Atlantic, 30◦S–30◦N by 326–343◦E; ranges are the model blocks). Air parcels are
+cosine (latitude)-weighted. ATom-1 (gray) results are from Fig. 2, while model results are taken from the August climatologies in Prather et
+al. (2017).
+10 s data was calculated (gray lines connecting open gray cir-

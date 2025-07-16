@@ -1,0 +1,8 @@
+be 1λm for the unlimited scheme.
+The “minimal” resolutions for the different schemes are
+depicted graphically in the histogram in Fig. 3 (top row).
+First of all, the 1λm range is from approximately 1/10◦to
+over 2◦resolution. This is a remarkable difference in reso-
+lution to achieve the same “quality” solution. In Fig. 3 the
+same ordering is used for the histograms, making it easier
+to compare “optimal” convergence rates visually with “min-

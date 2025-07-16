@@ -1,0 +1,4 @@
+in the NH QBO composite (except for LMDz5 having twice the amplitude), and thus the disagreement with 
+the observations may be caused by the predominantly NH emissions and their annual cycle disrupting the 
+QBO composite. These results are part of the Taylor statistics (standard deviation, root-mean-square error, 
+and correlation coefficients) for the models versus observations (NOAA) given in supplementary Table S1.

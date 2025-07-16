@@ -1,0 +1,10 @@
+quadratic nature of our S values by recalculating with 1 =
+20 %, but the results hardly changed, and so we are in a linear
+regime. The second-order cross-species terms are potentially
+more interesting. We calculate these from a coupled 10 %
+perturbation of two different variables.
+SXY ≡S (X + 10%, Y + 10%) −S (X + 10%, Y)
+−S (X, Y + 10%)
+(2)
+We calculated these cross terms only for X = O3, NOx, CO,
+CH4, Q, and T , using ATom-1 only as in Table 2. Table 3

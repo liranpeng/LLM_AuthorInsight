@@ -1,0 +1,22 @@
+untuned O3v2 used the PSC T threshold of 193 K from O3v1, but because of its warmer winter poles, the PSC T threshold was increased to
+197.5 K.
+Geosci. Model Dev., 14, 1219–1236, 2021
+https://doi.org/10.5194/gmd-14-1219-2021
+Q. Tang et al.: Interactive stratospheric ozone (O3v2) in E3SM
+1233
+Code availability. The
+E3SM
+model
+is
+described
+in
+de-
+tail
+at
+https://e3sm.org/
+(last
+access:
+29
+August
+2020,
+E3SM team, 2020) and the source codes are available at:

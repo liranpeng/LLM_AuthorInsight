@@ -1,0 +1,54 @@
+−0.32
+0.27
+−0.093
+FRSGC UCI
+0.081
+0.20
+0.22
+−0.13
+0.30
+0.066
+Table 6. As Table 5, but taking into account both chemical and climate change, i.e. “2 minus 1”. For the UM CAM model “2 minus 1d” is
+shown.
+SW T
+SW S
+LW T
+LW S
+Net T
+Net S
+ULAQ
+0.079
+0.13
+0.27
+−0.19
+0.35
+−0.059
+DLR E39C
+0.069
+0.13
+0.20
+−0.16
+0.27
+−0.027
+NCAR MACCM
+0.077
+0.11
+0.24
+−0.13
+0.32
+−0.019
+CHASER
+0.084
+0.07
+0.24
+−0.20
+0.33
+−0.126
+STOCHEM HadGEM1
+0.079
+0.24
+0.33
+UM CAM
+0.105
+0.36
+0.46

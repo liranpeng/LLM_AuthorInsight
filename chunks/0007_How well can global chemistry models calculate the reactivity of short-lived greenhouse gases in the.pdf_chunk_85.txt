@@ -1,0 +1,62 @@
+Overall, the top-10 % J-O1D parcels (all in uppermost tro-
+www.atmos-meas-tech.net/11/2653/2018/
+Atmos. Meas. Tech., 11, 2653–2668, 2018
+2664
+M. J. Prather et al.: Reactivity of short-lived greenhouse gases
+0
+500
+1000
+0
+1
+2
+3
+4
+5
+6
+P−O3  (ppb/day)
+0
+500
+1000
+0
+2
+4
+6
+8
+10
+L−O3  (ppb/day)
+0
+500
+1000
+0
+1
+2
+3
+Top 10 % Rs from ref mode
+L−CH4 (ppb/day)
+0
+500
+1000
+5
+6
+7
+8
+9
+10
+x 10
+−3
+Top 10 % Rs from ref model
+J−NO2 (/s)   
+0
+500
+1000
+1
+2
+3
+4
+x 10
+−5
+Top 10 % Rs from ref model
+J−O1D (/s)   
+ 
+ 
+GFDL

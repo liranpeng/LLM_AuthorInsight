@@ -1,0 +1,10 @@
+tropical regions, and the simple chemical statistics for these
+ﬂights alone are probably enough to identify measurement-
+model discrepancies. For the HOx-related species, the mod-
+els match the ﬁrst-order statistics from ATom. In terms of
+using ATom statistics as a model metric, it is encouraging
+that where individual models tend to deviate from their peers,
+they also deviate from the ATom-1 PDs.
+4.3.3
+Probability densities
+Mean proﬁles do not reﬂect the heterogeneity seen in Fig. 2,

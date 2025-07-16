@@ -1,0 +1,8 @@
+Cozic, A., and Paugam, R.: Parameterization of plume chem-
+istry into large-scale atmospheric models: Application to air-
+craft NOx emissions, J. Geophys. Res.-Atmos., 114, D19302,
+doi:10.1029/2009jd011873, 2009.
+Dahlmann, K., Grewe, V., Ponater, M., and Matthes, S.: Quantify-
+ing the contributions of individual NO(x) sources to the trend
+in ozone radiative forcing, Atmospheric Environment, 45, 2860–
+2868, doi:10.1016/j.atmosenv.2011.02.071, 2011.

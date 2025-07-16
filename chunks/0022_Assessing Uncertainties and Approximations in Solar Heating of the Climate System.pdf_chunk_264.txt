@@ -1,0 +1,7 @@
+and as adapted to our last visible band (485-778 nm). In some test cases using alternative 
+spectral models LLNL and CLIRAD, we have further reduced this latter band to 485-700 
+nm to match the IR bands of these two models.  
+ 
+The solar heating codes Solar-J and RRTMG-SW are included as modules within the UC 
+Irvine chemistry-transport model (UCI CTM, Prather et al., 2017).  The UCI CTM is 
+coupled with meteorological fields from the European Centre Integrated Forecast System,

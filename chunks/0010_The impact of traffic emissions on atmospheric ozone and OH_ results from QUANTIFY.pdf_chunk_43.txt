@@ -1,0 +1,62 @@
+Tiedke
+Tiedke
+Lightning
+Meijer et al. (2001)
+Price and Rind
+Price and Rind
+Price and Rind, modiﬁed
+Price and Rind
+Grewe et al. (2001)
+Transp. Species
+26
+35
+76
+66
+28
+12
+Total Species
+42
+51
+98
+96
+38
+37
+Gas phase reactions
+68+16
+112+27
+163+47
+291+51
+90+22
+107
+Het. reactions
+2
+1
+7
+4
+0
+8
+Strat. Chem.
+no
+no
+yes
+no
+LINOZ
+yes
+NMHC Chemistry
+yes, CBM4
+yes
+yes
+yes
+yes
+no
+Lightning NOx(TgN/yr)
+5
+5
+5
+2
+5
+5
+References
+van Noije et al. (2006a,b)
+O’Connor et al. (2005)
+Gauss et al. (2003),

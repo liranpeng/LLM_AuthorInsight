@@ -1,0 +1,5 @@
+over January 2015 (744 hourly data) with root mean square differences accumulated hourly. All results use the UCI CTM and the T159L60 (∼1.1 º × 1.1 º) 
+ECMWF forecast fields developed by U. Oslo from the Open-IFS system (M. J. Prather et al., 2017; Søvde et al., 2012).
+Table 1 
+Errors in the Three Primary Components of the Solar Radiation Budget (Reflected Sunlight, Atmospheric Absorption, Surface Absorption in W m−2) for a Range of 
+Approximations in the Radiative Transfer Models

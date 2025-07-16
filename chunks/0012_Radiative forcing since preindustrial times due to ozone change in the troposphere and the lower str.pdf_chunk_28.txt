@@ -1,0 +1,8 @@
+lying GCM (STOCHEM HadAM3) or from European Cen-
+tre for Medium-range Weather Forecasts (ECMWF) data
+(UIO CTM2 and FRSGC UCI), while the CCMs calculate
+the model meteorology on-line and account for couplings be-
+J. F., van Noije, T., Pitari, G., Prather, M. J., Pyle, J., Rast, S.,
+Rodriguez, J., Sanderson, M., Savage, N., Shindell, D., Strahan, S.,
+Sudo, K., Szopa, S., Wild, O., and Zeng, G.: Ozone air quality in
+2030: a multi-model assessment of risks for health and vegetation,

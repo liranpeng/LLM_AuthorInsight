@@ -1,0 +1,9 @@
+R. L., Sengupta, M., Mitrescu, C., Hawkins, J. D., and Vonder
+Haar, T. H.: Estimating three-dimensional cloud structure via
+statistically blended satellite observations, J. Appl. Meteor. Cli-
+matol., 53, 437–455, https://doi.org/10.1175/JAMC-D-13-070.1,
+2014.
+Morcrette, J.-J. and Fouquart, Y.: The overlapping of cloud layers in
+shortwave radiation parameterizations, J. Atmos. Sci., 43, 321–
+328, 1986.
+Morgenstern, O., Braesicke, P., O’Connor, F. M., Bushell, A.

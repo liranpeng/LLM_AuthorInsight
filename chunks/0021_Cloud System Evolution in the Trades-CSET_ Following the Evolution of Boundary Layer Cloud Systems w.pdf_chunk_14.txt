@@ -1,0 +1,7 @@
+NASA Author Manuscript
+NASA Author Manuscript
+structure containing cumulus clouds with greatly reduced cover capped by a weaker and 
+more diffuse inversion.
+Cloud top entrainment is one of the key processes driving the stratocumulus-to-cumulus 
+transition. The MBL deepening associated with entrainment causes decoupling: the 
+separation of the MBL into two distinct layers with limited exchange between them.

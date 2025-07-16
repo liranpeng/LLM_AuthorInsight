@@ -1,0 +1,9 @@
+Prather, M. J.: Lifetimes and eigenstates in atmospheric chemistry,
+Geophys. Res. Lett., 21, 801–804, 1994.
+Prather, M. J.: Natural modes and time scales in atmospheric chem-
+istry: theory, GWPs for CH4 and CO, and runaway growth, Geo-
+phys. Res. Lett., 23, 2597–2600, 1996.
+Prather, M. J.: Tropospheric O3 from photolysis of O2, Geophys.
+Res. Lett., 36, L03811, https://doi.org/10.1029/2008GL036851,
+2009.
+Prather, M. J., Zhu, X., Flynn, C. M., Strode, S. A., Ro-

@@ -1,0 +1,8 @@
+cubed-sphere grid in that it is made up of N ×N grid patches
+stretched to ﬁt the sphere. Whereas the cubed-sphere uses
+six square patches, our grid consists of two square patches,
+one for each hemisphere, as shown in Fig. A1. For all
+tests, we used 2N × N grids with resolutions in the range
+N = (30,60,120,240,480,960), corresponding to angles
+λ = 90/N = (3.0◦,1.5◦,0.75◦,0.375◦,0.1875◦,0.09375◦).
+For the tests involving a minimum effective angle, we used

@@ -1,0 +1,8 @@
+J. M., Strahan, S., Wang, M. H., and Feng, Y.: Uncertainties
+in global aerosol simulations: Assessment using three mete-
+orological data sets, J. Geophys. Res.-Atmos., 112, D11212,
+doi:10.1029/2006JD008216, 2007.
+MacIntosh, C. R., Allan, R. P., Baker, L. H., Bellouin, N., Collins,
+W., Mousavi, Z., and Shine, K. P.: Contrasting fast precipitation
+responses to tropospheric and stratospheric ozone forcing, Geo-
+phys. Res. Lett., 43, 1263–1271, 2016.

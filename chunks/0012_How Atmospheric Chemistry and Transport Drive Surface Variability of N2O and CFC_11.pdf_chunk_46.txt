@@ -1,0 +1,4 @@
+sink) and real (observed) N2O (driven by surface emissions and a stratospheric sink). N2OX is a pure decay 
+mode tracer (lifetime is a true e-fold; see Prather, 1998), whereas loss of N2O is kept at steady state due to 
+emissions. This results in N2OX having a greater stratospheric abundance and greater stratospheric loss 
+by about 2% when compared to a surface-driven N2O with the same mean tropospheric abundance. For

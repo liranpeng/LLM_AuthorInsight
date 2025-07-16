@@ -1,0 +1,4 @@
+UCI and GMI F11X mean loss frequencies (%/yr; Figure 2b) and lifetimes (Table 2) are compared with each 
+other and N2OX. The behavior of the N2OX and F11X losses are similar, but not identical: for GMI the cc 
+of N2OX versus F11X is 0.38 for years 2001–2016; and for UCI, it is 0.37 (see Table S2). For both models, the 
+F11X mean loss frequency and amplitude is about twice that of N2OX. This increased loss frequency puts

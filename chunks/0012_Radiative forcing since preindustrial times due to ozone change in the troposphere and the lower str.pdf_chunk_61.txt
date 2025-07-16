@@ -1,0 +1,9 @@
+tropical region. However, there are a number of limitations
+to this inter-comparison.
+Firstly, the low-latitude surface
+measurements are made primarily in remote areas rather
+than in the most prominent biomass burning areas, which
+may account for the systematic higher modeled ozone
+values. Secondly, the horizontal pattern of the emissions is
+not changing with time, except for the seasonal cycle for
+biomass burning and represents in most cases a speciﬁc

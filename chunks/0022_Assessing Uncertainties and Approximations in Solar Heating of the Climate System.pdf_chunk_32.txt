@@ -1,0 +1,61 @@
+HSU AND PRATHER
+10.1029/2020MS002131
+4 of 24
+row
+Models
+Error being estimated
+Mean difference (Wm−2)
+RMS difference (Wm−2)
+refl.
+Atm.
+Surf.
+refl.
+Atm.
+Surf.
+Spectroscopy errors for infrared and visible gas absorption with clear sky
+R1
+B1–B0
+SJ/CLIRAD v. SJ
++0.94
+−5.68
++4.73
+1.4
+8.4
+7.0
+R2
+B2–B0
+SJ/LLNL v. SJ
++0.53
+−7.66
++7.13
+1.2
+12.0
+11.0
+R3
+B3–B0
+SJ/RRX v. SJ
++0.03
+−0.24
++0.21
+0.0
+0.4
+0.3
+R4
+RR0–B0
+AER4.0 v. SJ
++1.30
+−0.47
+-0.82
+1.9
+0.8
+1.4
+R5
+B4–B0
+SJ/hrv v. SJ
++0.34
+−0.46
++0.12
+-
+-
+-
+R6

@@ -1,0 +1,5 @@
+used to characterize the vertical velocity structure of stratocumulus clouds (e.g. Lothon et al. 
+2004; Ghate et al. 2010) and of shallow cumulus clouds (e,g, Geerts and Miao, 2005; Ghate 
+et al., 2011; Wang and Geerts, 2012). During non-precipitating conditions (reflectivity < −15 
+dBZ) when the cloud droplets have negligible fall velocity, the measured Doppler velocity 
+corrected for the aircraft motion can be used as a proxy for the vertical air motion (Lothon et

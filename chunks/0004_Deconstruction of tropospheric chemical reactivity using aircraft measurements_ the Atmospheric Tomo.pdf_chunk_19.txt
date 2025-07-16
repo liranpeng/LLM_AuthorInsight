@@ -1,0 +1,5 @@
+https://doi.org/10.5194/essd-15-3299-2023
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements
+3301
+Figure 1. Map of ATom-1234 ﬂights noting the research ﬂight number for each deployment. The ﬂight sequence is counterclockwise, starting
+at Palmdale, CA. The ﬁrst research ﬂight of each deployment is the transect from CA nearly to the Equator along 121◦W. The dates of each

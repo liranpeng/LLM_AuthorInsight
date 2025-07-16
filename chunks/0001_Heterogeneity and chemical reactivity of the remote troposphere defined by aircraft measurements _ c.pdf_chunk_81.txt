@@ -1,0 +1,15 @@
+(a) netCDF ﬁle containing regularly spaced
+10 s observations for ATom-1 (32 383 records),
+ATom-2
+(33 424
+records),
+ATom-3
+(40 176
+records), and ATom-4 (40 511 records), 146 494
+in total. Includes physical ﬂight data (11), chem-
+ical data (39), miscellaneous data including cor-
+rected HNO4 and PAN (6), and ﬂag data (50).
+Regular formatting; all data gap-ﬁlled
+with ﬂags to identify the method and
+extent of ﬁlling; NaN’s only for ﬂight
+46; for use in modeling of the chem-

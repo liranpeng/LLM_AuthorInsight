@@ -1,0 +1,8 @@
+a sample of 640 tropical atmospheres where the generated
+number of ICAs per grid cell ranged from 1 to 3500 and av-
+eraged 170. Compared to the exact answer deﬁned by sepa-
+rate calculations with all the weighted ICAs, cloud quadra-
+ture achieves rms errors in instantaneous cell-averaged Js of
+0 to 3 % throughout the troposphere, with most levels being
+0–1 %. When Cloud-J is run selecting random ICAs (using
+all wavelengths for each ICA, not the McICA approach), 50

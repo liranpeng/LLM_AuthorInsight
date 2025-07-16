@@ -1,0 +1,6 @@
+split into the lower troposphere (0–4 km pressure altitude, red dots) where most of the reactivity lies and middle–upper troposphere (4–12 km,
+blue). A simple linear ﬁt to all data is shown (thin black line), and the slope is given in units of 1 d.
+models show a large relative drop in O3 production below
+2 km over the tropical oceans, but ATom shows an increase
+(C.Pac.), no change (E.Pac.), or a much lesser drop (Atl.). We
+traced this result to the lack of NOx at 20–60 ppt levels in the

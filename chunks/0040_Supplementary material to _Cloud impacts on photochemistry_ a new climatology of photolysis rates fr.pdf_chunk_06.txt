@@ -1,0 +1,4 @@
+block (black, 55 ºS – 55 ºN, all longitudes, including the Atlantic).  Each 3-sec observation is averaged with equal 
+weight in 100-hPa pressure bins.  The standard deviation for block 1 (blue, *) is shown along with that from the 
+corresponding TUV model calculation for clear sky (blue, o). The patterns here are expected:  J-O1D is sensitive to 
+O3 absorption and hence has higher upper-tropospheric values in the tropics; J-NO2 is more sensitive to cloud

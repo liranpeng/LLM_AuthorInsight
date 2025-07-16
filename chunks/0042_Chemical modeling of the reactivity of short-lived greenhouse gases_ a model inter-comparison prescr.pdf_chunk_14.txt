@@ -1,0 +1,8 @@
+parison that uses prescribed initial chemical composition of
+air parcels, which we refer to as the modeling data stream.
+We presuppose that we can accurately measure or other-
+wise know atmospheric composition, and then ask if mod-
+els calculate the same global chemical budgets for ozone
+and methane. Our approach eliminates many of the factors
+that drive model differences and allows us to focus on the
+photochemical reactivities as integrated over a day. Instanta-

@@ -1,0 +1,15 @@
+Rood, 1996). CAM-FV also makes use of a ﬁlling algorithm
+to ensure positivity.
+A2
+CAM-SE
+The resolution in CAM-SE is speciﬁed through the number
+of elements (NE) in each coordinate direction on one cubed-
+sphere panel and the number of quadrature points (NP) in
+each coordinate direction of an element. The average resolu-
+tion (in degrees) near the Equator is
+1λ =
+90◦
+NE(NP −1).
+(A1)
+In CAM-SE, NP is set to 4.
+The hyperviscosity coefﬁcients are 3.8 × 1016 m4 s−1,

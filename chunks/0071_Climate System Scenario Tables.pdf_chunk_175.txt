@@ -1,0 +1,18 @@
+the methodology of Prather et al. (2012), updated for uncertainty in lifetime and scenario changes in OH using Holmes et al. (2013) and ACCMIP results (Stevenson et al., 2013; Voulgarakis et al., 
+2013). Projected RCP& abundances are best estimates with 68% confidence range as uncertainties. See also notes Tables AII.4.2 and AII.5.9.
+1425
+Climate System Scenario Tables	
+Annex II
+AII
+Table AII.4.9 |  HFC-32 abundance (ppt)
+Year
+RCP2.6
+RCP4.5
+RCP6.0
+RCP8.5
+A2
+B1
+RCP2.6&
+RCP4.5&
+RCP6.0&
+RCP8.5&

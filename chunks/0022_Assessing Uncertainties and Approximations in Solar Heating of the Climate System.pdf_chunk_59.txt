@@ -1,0 +1,5 @@
+computed with 5–10 broad bands and probably does not need the 20 g-points of RRTMG. One must remem-
+ber that clouds and aerosols are also important for the 721 W m−2 in the UV-VIS. Clouds have little spectral 
+dependence in the UV-VIS and can thus be calculated accurately with very broad bands. Aerosols extinction 
+often scales inversely with wavelength (see Figure 2) and thus aerosol radiative forcing of climate needs to 
+be resolved by the broad band structure and not with g-points.

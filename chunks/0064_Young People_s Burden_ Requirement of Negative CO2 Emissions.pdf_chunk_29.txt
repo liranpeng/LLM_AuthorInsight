@@ -1,0 +1,8 @@
+consideration of slow feedbacks in our analysis and discus-
+sion, even though precise speciﬁcation of their magnitude
+and timescales is not possible. We present updates of GHG
+observations and ﬁnd a notable acceleration during the past
+decade of the growth rate of GHG climate forcing. For fu-
+ture fossil fuel emissions we consider both the representa-
+tive concentration pathway (RCP) scenarios used in Climate
+Model Intercomparison Project 5 (CMIP5) IPCC studies, and

@@ -1,0 +1,5 @@
+pairs and the LS-e90 pair, and is nearly zero for the other two LS pairs. In contrast, the residual O3 ﬂuxes con-
+trolled by the large-scale BDC between these two cycles appear well correlated at the value of 0.9. Hence
+transport within the LMS, below 100 hPa, is very sensitive to the forecast model here.
+4. Discussion and Conclusion
+This work presents a self-consistent calculation of the net O3 STE using a range of currently applied methods.

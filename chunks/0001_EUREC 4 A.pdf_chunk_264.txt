@@ -1,0 +1,13 @@
+velocity, and Doppler spectrum
+Isotopic analyzer
+Picarro (L2130-i) cavity ring-down laser spectrometer measuring stable isotopologues in water vapor
+(including water vapor mixing ratio)
+Humidity sensor
+WVSS2 absolute humidity sensor (tunable diode laser absorption)
+Humidity sensor
+LICOR 7500 hygrometer
+Humidity sensor
+Campbell krypton hygrometer KH20 measuring humidity ﬂuctuations
+Humidity sensor
+1011 C Buck dew point hygrometer
+Humidity sensor

@@ -1,0 +1,18 @@
+spheric Heating Perturbations, J. Atmos. Sci., 66, 1347–1365,
+https://doi.org/10.1175/2008JAS2758.1, 2009.
+Stauffer, R. M., Thompson, A. M., Oman, L. D., and Strahan, S. E.:
+The Effects of a 1998 Observing System Change on MERRA-2-
+Based Ozone Proﬁle Simulations, J. Geophys. Res. Atmos., 124,
+7429–7441, https://doi.org/10.1029/2019JD030257, 2019.
+Sun,
+J.,
+Zhang,
+K.,
+Wan,
+H.,
+Ma,
+P.-L.,
+Tang,
+Q.,
+and
+Zhang, S.: Impact of Nudging Strategy on the Climate Rep-

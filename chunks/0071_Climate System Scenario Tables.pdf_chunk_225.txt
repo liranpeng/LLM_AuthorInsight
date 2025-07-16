@@ -1,0 +1,42 @@
+0.116
+0.069
+0.047
+0.159
+2090
+0.124
+0.074
+0.047
+0.171
+2100
+0.126
+0.080
+0.046
+0.182
+Notes:
+See Table 8.3, 8.A.1, Section 11.3.5.1.1. ERF is calculated from RCP published abundances (Meinshausen et al., 2011a; http://www.iiasa.ac.at/web-apps/tnt/RcpDb) and AR5 radiative efficiencies 
+(Chapter 8).
+Table AII.6.5 |  ERF from all PFCs and SF6 (W m–2)
+Year
+Historical
+RCP2.6
+RCP4.5
+RCP6.0
+RCP8.5
+  2011*
+0.009
+2010
+0.009
+0.009
+0.010
+0.009
+2020
+0.012
+0.011
+0.013
+0.012
+2030
+0.014
+0.013
+0.017
+0.015
+2040

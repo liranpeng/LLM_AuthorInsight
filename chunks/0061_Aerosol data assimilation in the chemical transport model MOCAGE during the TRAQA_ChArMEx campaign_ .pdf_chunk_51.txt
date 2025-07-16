@@ -1,0 +1,8 @@
+enough information is available to explicitly estimate all cor-
+relation members, nor is there enough memory to store them,
+the matrix B is modelled as an operator. To estimate the prod-
+uct of the matrix B and a vector, MOCAGE-Valentina uses
+the integration of a generalized diffusion-type equation in a
+reduced space (Weaver and Courtier, 2001).
+The observation error covariance deﬁnes the observation
+and representativeness errors. In our study we neglect the

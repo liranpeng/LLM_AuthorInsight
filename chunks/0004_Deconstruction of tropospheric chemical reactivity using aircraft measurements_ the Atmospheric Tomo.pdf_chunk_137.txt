@@ -1,0 +1,6 @@
+ATom-1234. All ATom 10 s parcels are weighted by the frequency of pressure sampling only. Troposphere-only parcels. See Fig. 34.
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+https://doi.org/10.5194/essd-15-3299-2023
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements
+3327
+Figure 40. Probability density of P-O3 (ppb d−1) in the Paciﬁc and Atlantic basins (53◦S–60◦N) for ATom-1234. Values in the legend

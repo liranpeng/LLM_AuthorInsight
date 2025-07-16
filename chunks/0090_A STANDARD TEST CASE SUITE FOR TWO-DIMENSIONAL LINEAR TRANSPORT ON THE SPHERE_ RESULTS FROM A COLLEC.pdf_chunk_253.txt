@@ -1,0 +1,8 @@
+To assess absolute errors and to challenge the schemes with
+a slightly less smooth initial condition (C1), modelers were
+asked which resolution was needed to provide solutions at
+a certain level of accuracy (deﬁned in terms of a root mean
+square error norm). This resolution was referred to as “min-
+imal resolution” (1λm). The range of 1λ varied from ap-
+proximately 0.1◦to more than 2◦. The schemes have been
+ordered according to increasing 1λm when other accuracy

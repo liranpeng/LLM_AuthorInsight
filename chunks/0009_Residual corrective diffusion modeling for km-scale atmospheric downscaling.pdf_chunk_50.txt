@@ -1,0 +1,8 @@
+the mean but also generates the distribution, producing fine-scale
+details stochastically. This approach is akin to the decomposition of
+physical variables into their mean and perturbations, common
+practice in fluid dynamics, e.g.39.
+Through extensive testing in the region of Taiwan, the model is
+shown to produce reasonably realistic power spectra and
+probability distributions of all target variables. The diffusion
+component of CorrDiff is found to be especially important for the

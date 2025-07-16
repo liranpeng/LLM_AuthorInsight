@@ -1,0 +1,9 @@
+τCH4×OH by generating 105 monte carlo realizations of
+Eq. (3), allowing all parameters, αi, and lightning to vary
+independently within their uncertainties. This does not ac-
+count for possible errors in emissions, ozone observations,
+or meteorological assimilation that are difﬁcult to quantify.
+(See Fig. S6 for uncertainties in τCH4×OH due to each com-
+ponent.)
+Our reconstructed τCH4×OH has annual variability of 1–
+2 % over the 1980–2005 period. Reductions in τCH4×OH

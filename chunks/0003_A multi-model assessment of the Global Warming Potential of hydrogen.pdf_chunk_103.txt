@@ -1,0 +1,6 @@
+position of the components are calculated. For hydrogen the dry deposition or soil
+sink scheme used are Sanderson et al.54 that takes into account soil moisture effect
+on dry-deposition velocities for different vegetation types, no uptake when snow
+covers the ground and a reduced rate for cold surfaces according to Price et al.55.
+The dry-deposition values are scaled in the concentration-driven run so that the
+estimated total emission is ~32 Tg yr−1 similar to what was used in Paulot et al.17.

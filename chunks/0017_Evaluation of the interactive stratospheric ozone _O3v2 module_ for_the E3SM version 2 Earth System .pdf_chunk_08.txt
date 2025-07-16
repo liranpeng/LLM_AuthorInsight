@@ -1,0 +1,8 @@
+mation for ozone. Ozone is a short-lived reactive gas, is not
+directly emitted, has many sources and sinks in the atmo-
+sphere, and maintains sharp gradients at dynamical bound-
+aries. Running a detailed atmospheric chemistry model for
+ozone, including both stratospheric and tropospheric chem-
+ical regimes, within a climate model is costly, often pro-
+hibitively so, and thus most climate simulations adopt a mean
+climatological distribution of ozone based on present-day ob-

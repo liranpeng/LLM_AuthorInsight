@@ -1,0 +1,9 @@
+Figure S1 in the Supplement shows the regions included in
+each tagged tracer. Bian et al. (2013) used observations of
+dichloromethane and acetonitrile from the ARCTAS mission
+to validate the anthropogenic and biomass burning CO trac-
+ers, respectively.
+Daily-varying biomass burning emissions come from the
+Quick Fire Emission Dataset (QFED) version 2 (Darmenov
+and da Silva, 2015), which is based on ﬁre radiative power
+from the MODIS instrument. Thus the BB emissions in-

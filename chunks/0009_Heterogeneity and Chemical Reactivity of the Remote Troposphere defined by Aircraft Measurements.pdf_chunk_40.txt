@@ -1,0 +1,12 @@
+do provide a valid chemistry metric for global models with
+1◦resolution. It also presents some examples where ATom
+measurements and modeling can test the chemical relation-
+ships and may address the cause of differences in the O3 and
+CH4 budgets currently seen across the models. With this pa-
+per we release the full ATom MDS-2 from all four deploy-
+ments, along with the updated RDS∗reactivities from the
+UCI model.
+3
+Models and data
+3.1
+The modeling data stream (MDS)

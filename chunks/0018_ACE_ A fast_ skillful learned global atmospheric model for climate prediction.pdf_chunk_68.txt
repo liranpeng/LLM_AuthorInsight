@@ -1,0 +1,59 @@
+FV3GFS simulation. pref
+k
+is the pressure at model layer interfaces assuming ps = 1000hPa.
+k
+ak [Pa]
+bk [unitless]
+Ik
+pref
+k
+[hPa]
+0
+64.247
+0.0
+0
+0.642
+1
+5167.14603
+0.0
+18
+51.7
+2
+12905.42546
+0.01755
+26
+147
+3
+13982.4677
+0.11746
+31
+257
+4
+12165.28766
+0.2896
+36
+411
+5
+8910.07678
+0.49806
+41
+587
+6
+4955.72632
+0.72625
+47
+776
+7
+2155.78385
+0.88192
+53
+903
+8
+0.0
+1.0
+63
+1000
+Table 3:
+SFNO hyperparameters.
+Names correspond to the definition of the Spherical-
+FourierNeuralOperatorNet class found here:

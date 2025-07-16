@@ -1,0 +1,8 @@
+[image]
+The power spectra and distributions are compared for an
+interpolated ERA5 input, CorrDiff, RF, UNet, and target (WRF).
+These results reflect reductions over space, time and for CorrDiff
+across 32 different samples per each time. Left: power spectra for
+kinetic energy (a), 2-m temperature (b) and radar reflectivity (c).
+Right: distributions of 10-m windspeed, (d), 2-m temperature (e)
+and radar reflectivity (f). Radar reflectivity is not included in the

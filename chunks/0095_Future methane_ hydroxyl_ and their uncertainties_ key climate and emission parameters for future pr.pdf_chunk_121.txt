@@ -1,0 +1,8 @@
+have been estimated in past work to grow 5–50 % by the
+late 21st century (Wu et al., 2008), but these predictions are
+highly speculative due to poor mechanistic understanding of
+present-day global ﬂash rates. GHG-driven climate warming
+tends to reduce convection globally (Held and Soden, 2006),
+but could intensify convection in some regions (Del Genio
+et al., 2007), so the total effect on lightning is unclear. In
+this work we assume 10 % increase by 2100, but allow broad

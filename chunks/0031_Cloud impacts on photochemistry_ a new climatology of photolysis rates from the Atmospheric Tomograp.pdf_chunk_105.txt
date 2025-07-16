@@ -1,0 +1,7 @@
+depth (COD) based on method of implementing fractional clouds:
+Cloud-J independent column atmospheres (ICAs, blue dots); sim-
+ple cloud averaging over each cell (COD × CF, green dots) and
+B-averaging (COD × CF3/2, orange dots). The 600 nm COD for
+two large regions (tropical Paciﬁc, 20◦S–20◦N × 160–240◦E, and
+North Paciﬁc, 20–50◦N × 170–225◦E. is collected for 16 Au-
+gust 2016 from eight 3 h averages of COD and cloud fraction (CF)

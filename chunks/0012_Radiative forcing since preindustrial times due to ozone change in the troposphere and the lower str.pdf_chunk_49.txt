@@ -1,0 +1,47 @@
+DLR E39C
+Germany
+39 levels
+CCM
+sfc – 10 hPa
+3
+NCAR Boulder
+J.-F. Lamarque
+5◦lon×4◦lat
+GCM (NCAR)
+NCAR MACCM
+52 levels
+CCM
+sfc – 85 km
+4
+FRSGC/JAMSTEC
+K. Sudo
+T42 (2.8◦×2.8◦)
+GCM (CCSR/NIES)
+CHASER
+32 levels
+CCM
+sfc – 3 hPa
+5
+UK Met Ofﬁce
+M. Sanderson
+3.8◦lon×2.5◦lat
+GCM (HadGEM)
+STOCHEM HadGEM1
+B. Collins
+20 levels
+CCM
+sfc – 40 km
+6
+Cambridge University
+G. Zeng
+3.8◦lon×2.5◦lat
+GCM (UKMO Uniﬁed
+UM CAM
+J. Pyle
+19 levels
+Model version 4.5)
+CCM
+sfc – 4.6 hPa
+7
+IPSL/LSCE
+D. Hauglustaine

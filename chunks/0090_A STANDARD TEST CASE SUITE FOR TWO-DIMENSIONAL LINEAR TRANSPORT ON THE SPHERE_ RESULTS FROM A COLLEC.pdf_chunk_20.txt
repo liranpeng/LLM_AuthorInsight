@@ -1,0 +1,8 @@
+mark results for the LSPT2012 standard test case suite. The
+data were provided by the participants of the 2011 workshop
+on transport schemes held at the National Center for Atmo-
+spheric Research (NCAR) in Boulder (Colorado, USA), 30–
+31 March 2011. The large ensemble of schemes that partici-
+pated in this intercomparison may help shed light on how the
+different tests and diagnostics discriminate between schemes
+and expose particular types of numerical errors. A list of

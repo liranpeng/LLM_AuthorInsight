@@ -1,0 +1,10 @@
+and pressure given in the 10 s merges of the ATom measure-
+ments.
+3.1
+Analysis of CO along the meridional ﬂight tracks
+We compare CO from GEOS-5 to the QCLS CO obser-
+vations for speciﬁc ﬂights, using the 10 s merge ﬁles. The
+GEOS-5 CO is taken from the 3-D ﬁeld at the time closest
+to the midpoint of the ﬂight and interpolated in space to the
+ﬂight track. The ATom ﬂight tracks are shown in Fig. S3. Al-
+though we brieﬂy discuss the other ﬂights as well, we focus

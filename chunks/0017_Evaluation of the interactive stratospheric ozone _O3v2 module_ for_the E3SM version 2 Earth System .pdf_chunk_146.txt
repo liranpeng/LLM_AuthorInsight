@@ -1,0 +1,8 @@
+dell, D. T., and Wofsy, S. C.: Global atmospheric chemistry
+– which air matters, Atmos. Chem. Phys., 17, 9081–9102,
+https://doi.org/10.5194/acp-17-9081-2017, 2017.
+Raes, F., Liao, H., Chen, W.-T., and Seinfeld, J. H.: Atmospheric
+chemistry-climate feedbacks, J. Geophys. Res.-Atmospheres,
+115, D12121, https://doi.org/10.1029/2009JD013300, 2010.
+Rasch, P. J., Xie, S., Ma, P.-L., Lin, W., Wang, H., Tang, Q., Bur-
+rows, S. M., Caldwell, P., Zhang, K., Easter, R. C., Cameron-

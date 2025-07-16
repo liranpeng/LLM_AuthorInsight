@@ -1,0 +1,9 @@
+Krol, M. and Lelieveld, J.: Can the variability in tropospheric
+OH be deduced from measurements of 1,1,1-trichloroethane
+(methyl chloroform)? J. Geophys. Res.-Atmos., 108, 4125,
+doi:10.1029/2002JD002423, 2003.
+Krol, M. and van Weele, M.: Implications of variations in photodis-
+sociation rates for global tropospheric chemistry, Atmos. Envi-
+ron., 31, 1257–1273, 1997.
+Labrador, L. J., von Kuhlmann, R., and Lawrence, M. G.: Strong
+sensitivity of the global mean OH concentration and the tropo-

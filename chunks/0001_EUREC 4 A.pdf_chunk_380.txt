@@ -1,0 +1,10 @@
+0.60, 0.85, 1.15, and 1.6 m) to infer the friction velocity u∗, the wave peak period, and the roughness
+aerodynamic length z0
+Inertial platform
+Xsens MTi-G IMU measuring time and accelerations at 50 Hz through gyroscopes, accelerometers,
+magnetometers, a GPS, and a barometer at a height of 0.1 m
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+https://doi.org/10.5194/essd-13-4067-2021
+B. Stevens et al.: EUREC4A
+4115
+Video supplement. A ﬁlm documenting EUREC4A activities, by

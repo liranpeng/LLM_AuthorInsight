@@ -1,0 +1,8 @@
+suaq, Greenland. Figure 2 shows the Atlantic ﬂights from
+Punta Arenas to Ascension Island to the Azores to Kanger-
+lussuaq. GEOS-5 has an excellent simulation of background
+CO values seen on these ﬂights, with the mean values falling
+within 2 ppb of the observations (Table 2), while the mean
+observed values for each ﬂight shift from 69 to 101 to 88 ppb.
+The observations show plumes of high CO intersecting the
+ﬂight track on all three ﬂights. GEOS-5 also shows plumes

@@ -1,0 +1,9 @@
+ing and thus accumulate more HNO3 and HOx precursors
+like HOOH, affecting L-CH4. No other simple objective ap-
+proach has been found, and we must accept and document
+these biases in the A-runs.
+An examination of how the A- and C-runs differ is shown
+in Fig. 2 using the UCI-CTM’s 1-D probability distribu-
+tions of six key species (NOx, HNO3, HNO4, PAN, HCHO,
+HOOH) for the central tropical Paciﬁc. The initial distribu-
+tion for both runs (12 h local solar time at 180◦E, black

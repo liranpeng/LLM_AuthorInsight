@@ -1,0 +1,8 @@
+be typical of the last decade. The models were then run for
+24 h and the rates and reactivities diagnosed for both C-runs
+and A-runs. All models have different resolutions, ranging
+from 0.5 to 2◦. All model statistics (key variables, reactivi-
+ties, plus 24 h average photolysis rates) were stored globally.
+This analysis examines a north–south transect ﬂight over the
+Paciﬁc Ocean basin as in the NASA ATom ﬂights but greatly
+expands the region to include more grid cells: six domains

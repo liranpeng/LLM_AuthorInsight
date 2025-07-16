@@ -1,0 +1,36 @@
+5
+Wrong
+Population
+5
+Wrong Study
+5
+No Control
+9
+Feasibility Study
+1
+Protocol Study
+56
+Wrong Outcome
+5
+Not BCT
+36
+Records identified through
+database searching
+(n = 33,813)
+Additional records identified
+through other sources
+(n = 1)
+Duplicates removed
+(n = 13,458)
+Records screened
+(n = 20,356)
+Records excluded
+(n = 20,198)
+Full-text articles assessed for
+eligibility
+(n = 158)
+Studies included
+(n = 9)
+Fig. 1   PRISMA flow diagram of study selection
+421
+MUSCULOSKELETAL SURGERY (2024) 108:417–429

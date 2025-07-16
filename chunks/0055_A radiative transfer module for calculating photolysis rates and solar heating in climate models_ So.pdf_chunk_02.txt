@@ -1,0 +1,8 @@
+both solar heating and photochemistry in Earth system mod-
+els. Solar-J is a spectral extension of Cloud-J, a standard in
+many chemical models that calculates photolysis rates in the
+0.18–0.8 µm region. The Cloud-J core consists of an eight-
+stream scattering, plane-parallel radiative transfer solver with
+corrections for sphericity. Cloud-J uses cloud quadrature to
+accurately average over correlated cloud layers. It uses the
+scattering phase function of aerosols and clouds expanded

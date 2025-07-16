@@ -1,0 +1,5 @@
+shown because we have results from six models. Results from the updated MDS-2b are shown (UCIZ*) using the using the current UCI CTM model UCIZ and the
+RDS* protocol that preprocesses the MDS-2b initializations with a 24 h decay of HNO4 and PAN according to their local thermal decomposition frequencies; see text.
+See additional statistics in Table S8.
+to the measured parcel is initialized with all the core reactive
+species needed for a regular chemistry simulation. The model

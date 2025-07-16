@@ -1,0 +1,5 @@
+culations but for an objectively selected sub-sample of the atmospheres therein based on the cloud distribu-
+tions (Partitioned Gauss–Legendre Quadrature). This exciting approach shares many features with Solar-J 
+QCAs (used for ICAs within a single cell), such as producing small rms errors relative to random sampling.
+7.  Ocean Surface Albedo
+Climate models often assume that the ocean surface albedo (OSA) is constant in the visible, typically 0.06

@@ -1,0 +1,8 @@
+gases and aerosols may affect the temperature response to a
+given WMGHG concentration level. Better exploration and
+documentation of the changes in atmospheric composition
+in a changing climate is of interest for many other purposes
+such as choosing among different air quality mitigation op-
+tions or understanding perturbations to ecosystems and bio-
+geochemical cycles. Finally, uniform evaluation of the mod-
+els will expose systematic biases and better constrain our

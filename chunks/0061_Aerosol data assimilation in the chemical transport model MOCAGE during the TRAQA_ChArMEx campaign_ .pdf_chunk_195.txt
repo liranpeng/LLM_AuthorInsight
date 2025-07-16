@@ -1,0 +1,9 @@
+rithm, products, and validation, J. Atmos. Sci., 62, 947–973,
+doi:10.1175/JAS3385.1, 2005.
+Renard J.-B.: LOAC – TRAQA – Martigues, ChArMEx database,
+available at: http://mistrals.sedoo.fr/ChArMEx/ (registration re-
+quired, last access: November 2016), doi:10.6096/MISTRALS-
+ChArMEx.833, 2012.
+Renard, J.-B., Dulac, F., Berthet, G., Lurton, T., Vignelles, D.,
+Jégou, F., Tonnelier, T., Thaury, C., Jeannot, M., Couté, B.,
+Akiki, R., Mineau, J.-L., Verdier, N., Mallet, M., Gensdarmes, F.,

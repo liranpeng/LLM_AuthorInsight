@@ -1,0 +1,16 @@
+HALO
+235 493
+Includes ferry from Oberpfaffenhofen, Germany.
+TO
+33 850
+Not including ferry from Panama.
+P-3
+267 806
+Assuming 20 h of ferry and 95 ﬂight hours.
+Sum
+629 497
+sions were composed of a transit leg to the circle ﬂown at
+an altitude of about 2.5 km, two or three box patterns (rect-
+angles of 15 km by 120 km) near cloud base, two L patterns
+within the sub-cloud layer (near the top and the middle of the
+layer, cross-wind and along-wind), and a surface leg (altitude

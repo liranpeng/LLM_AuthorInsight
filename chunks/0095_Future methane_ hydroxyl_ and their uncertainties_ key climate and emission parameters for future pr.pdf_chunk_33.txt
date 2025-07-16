@@ -1,0 +1,8 @@
+of the climatological biomass burning emissions provided in
+the RCP inventory because ﬁres are a major cause of year-
+to-year variability in tropospheric OH (Duncan et al., 2003;
+Manning et al., 2005; Dalsoren et al., 2006). Biogenic emis-
+sions of isoprene, CO, and other VOCs are from a MEGAN
+climatology for the 2000s decade (Guenther et al., 2006).
+Anthropogenic, biogenic, and biomass burning emission data
+are provided at 0.5◦× 0.5◦resolution. GEOS-Chem includes

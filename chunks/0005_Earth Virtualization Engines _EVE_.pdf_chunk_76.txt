@@ -1,0 +1,8 @@
+innovatively develop and maintain infrastructure, etc., the reality of
+limited human and financial resources means that fewer centers,
+each with a higher profile, are advantageous.
+(9) How much power would an EVE
+center consume, and is this sustainable?
+EVE's use of high-performance computing requires substantial
+electricity resources. Based on the practice at some of the world's
+leading supercomputing facilities, it is estimated that each EVE

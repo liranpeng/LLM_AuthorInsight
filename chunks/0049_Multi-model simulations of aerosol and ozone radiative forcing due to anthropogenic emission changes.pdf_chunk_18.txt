@@ -1,0 +1,10 @@
+the values reported in the IPCC AR5.
+2
+Methods
+The seven global models participating in the present study
+are described in Table 1. Participating modelling groups are
+from the European Union project ECLIPSE1 (Stohl et al.,
+2015) and those joining an open call for collaborating groups.
+The model set-up to derive forcing varies between the mod-
+els: from ﬁxed meteorology, to one meteorological year, to
+ﬁxed sea surface temperatures. All models use identical an-

@@ -1,0 +1,8 @@
+simple emission growth rate changes that help evaluate the
+plausibility of needed emission changes. We use a Green’s
+function calculation of global temperature with canonical cli-
+mate sensitivity for each emissions scenario, which yields the
+amount of CO2 that must be extracted from the air – effec-
+tively the climate debt – to return atmospheric CO2 to less
+than 350 ppm or limit global warming to less than 1.5 ◦C
+above preindustrial levels. We discuss alternative extraction

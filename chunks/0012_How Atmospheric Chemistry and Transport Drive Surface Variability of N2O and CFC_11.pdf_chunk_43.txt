@@ -1,0 +1,24 @@
+N2O-640-V3
+N2O-640-V4
+N2O-190-V4
+Model name
+Meteorology
+Resolution
+years
+Reference
+GSFC GMI CTM
+MERRA-2
+1°; 72 layers
+1980–2018
+Strahan et al. (2016)
+LMDz5 CTM
+ERA Interim
+1.25° × 3.75°; 39 layers
+1995–2016
+Thompson et al. (2014)
+UCI CTM
+ECMWF IFS Cy38r1
+1.1°; 57 layers
+1990–2017
+Prather et al. (2017)
+Abbreviations: CTM, chemistry transport model; ECMF, European Center for Medium-Range Weather Forecasts;

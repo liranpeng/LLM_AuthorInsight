@@ -1,0 +1,8 @@
+assessment approach would be to evaluate each of them sep-
+arately using observations and an ensemble of models (e.g.,
+HTAP, 2010; Kirtman et al., 2013). This paper focuses on
+factor (3), providing clear measures of bias and skill in global
+chemistry models run in hindcast mode, and developing cli-
+matologies that can be used to test climate models and to
+detect a climatic shift in AQX episodes.
+The approach developed here establishes a reliable method

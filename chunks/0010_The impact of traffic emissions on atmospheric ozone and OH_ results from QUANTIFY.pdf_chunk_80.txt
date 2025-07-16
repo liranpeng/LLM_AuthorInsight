@@ -1,0 +1,9 @@
+located in the tropical boundary layer.
+For the southern hemisphere the models calculate the
+strongest absolute effect on the ozone mixing ratio also for
+the upper troposphere, although the changes relative to the
+unperturbed case maximize in the marine boundary layer. In
+the southern hemisphere, both, absolute and relative changes
+are about 50% lower than in the northern hemisphere. The
+effect on ozone in the southern boundary layer is only about
+2 ppbv during January and July.

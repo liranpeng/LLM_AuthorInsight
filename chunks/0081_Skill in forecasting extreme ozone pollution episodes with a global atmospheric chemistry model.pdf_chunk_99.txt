@@ -1,0 +1,9 @@
+events. With this deﬁnition a random model is expected to
+correctly identify 2.7 % of events. This metric does not take
+into account the geographic pattern or persistence of AQX,
+for which we apply clustering algorithms (see Sect. 4.4).
+Skill here is calculated over all months of both years (2005–
+2006), although almost all AQX events occur from May to
+September.
+Figure 9 shows the geographic pattern of CTM skill for US
+and EU domains. For the US it is 24.4 ± 12 % (standard devi-

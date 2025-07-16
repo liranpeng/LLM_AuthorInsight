@@ -1,0 +1,9 @@
+2021-175, in review, 2021.
+Delanoë, J., Protat, A., Vinson, J.-P., Brett, W., Caudoux, C.,
+Bertrand, F., Parent du Chatelet, J., Hallali, R., Barthes, L., Haef-
+felin, M., and Dupont, J.-C.: BASTA: A 95-GHz FMCW Doppler
+Radar for Cloud and Fog Studies, J. Atmos. Ocean. Tech., 33,
+1023–1038, 2016.
+Denby, L.: Discovering the Importance of Mesoscale Cloud Or-
+ganization Through Unsupervised Classiﬁcation, Geophys. Res.
+Lett., 47, 1097–10, 2020.

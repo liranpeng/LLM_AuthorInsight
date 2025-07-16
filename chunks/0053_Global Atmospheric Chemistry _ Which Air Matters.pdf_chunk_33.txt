@@ -1,0 +1,8 @@
+CCMs can be altered slightly to calculate the reactivity of air
+parcels using the native grid cells of the model and a pre-
+scribed initialization of the key chemical species. This ap-
+proach allows the CTMs–CCMs to be run using either model
+data or observations, or a mixture of both. In Sect. 4 we de-
+rive multi-dimension probability distributions for these key
+variables over a suitable latitude–longitude–pressure domain
+using grid-cell values from several CTMs–CCMs. Tables of

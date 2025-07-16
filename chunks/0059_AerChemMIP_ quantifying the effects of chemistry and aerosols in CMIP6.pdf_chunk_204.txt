@@ -1,0 +1,8 @@
+Geosci. Model Dev., 10, 585–607, 2017
+602
+W. J. Collins et al.: AerChemMIP: quantifying the effects of chemistry and aerosols in CMIP6
+son, D., Mancini, E., Manzini, E., Marsh, D., Matthes, S., Na-
+gashima, T., Newman, P., Nielsen, J., Pawson, S., Pitari, G.,
+Plummer, D., Rozanov, E., Schraner, M., Scinocca, J., Semeniuk,
+K., Shepherd, T., Shibata, K., Steil, B., Stolarski, R., Tian, W.,
+and Yoshiki, M.: Multimodel projections of stratospheric ozone

@@ -1,0 +1,10 @@
+tern seen in column ozone. This new O3v2 E3SMv1 model
+mostly retains the same climate state and climate sensitivity
+as the previous version, and we recommend its use for other
+climate models that still use ozone climatologies.
+1
+Introduction
+Accurate simulation of past climate evolution and projections
+of future climate rely on correct representation of the green-
+house gases (GHGs), including ozone. Simulating climate
+change driven by ozone is challenging for chemistry trans-

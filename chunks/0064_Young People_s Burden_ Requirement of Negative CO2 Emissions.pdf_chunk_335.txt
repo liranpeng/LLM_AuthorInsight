@@ -1,0 +1,20 @@
+Environ.
+Res.
+Lett.,
+11,
+034009,
+https://doi.org/10.1088/1748-9326/11/3/034009, 2016.
+Hansen, J., Russell, G., Lacis, A., Fung, I., Rind, D., and
+Stone,
+P.:
+Climate
+response
+times:
+Dependence
+on
+cli-
+mate sensitivity and ocean mixing, Science, 229, 857–859,
+https://doi.org/10.1126/science.229.4716.857, 1985.
+Hansen, J., Sato, M., Ruedy, R., Lacis, A., and Oinas, V.: Global
+warming in the twenty-ﬁrst century: An alternative scenario, P.
+Natl. Acad. Sci. USA, 97, 9875-9880, 2000.

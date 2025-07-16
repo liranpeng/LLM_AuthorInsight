@@ -1,0 +1,8 @@
+direct model in the case of a desert dust outbreak come pri-
+marily from the uncertainties in the desert dust emissions.
+The dust emission into the atmosphere is a threshold process,
+which is very sensitive to uncertainties in the wind ﬁeld. The
+small changes in wind can produce signiﬁcant differences in
+the emitted quantities. The AOD assimilation proved to be a
+technique capable of reducing the effects of such uncertain-
+ties in the modelled aerosol ﬁelds.

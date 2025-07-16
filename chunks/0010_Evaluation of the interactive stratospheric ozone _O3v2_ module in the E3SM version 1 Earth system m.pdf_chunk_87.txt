@@ -1,0 +1,11 @@
+the extratropics when compared to the tropics and even larger
+poleward of 60◦where tropopause variability is greater. The
+O3v2 tropopause is generally higher by up to 10 hPa than that
+of O3v1 except during a few months over the poles (i.e., July
+and August in the Antarctic and December in the Arctic).
+4.2
+Climate impact
+4.2.1
+Mean climate
+Model development often experiences the dilemma of im-
+proving some parts of the model performance at the cost of

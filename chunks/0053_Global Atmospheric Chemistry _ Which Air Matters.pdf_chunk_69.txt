@@ -1,0 +1,8 @@
+and longitude chosen as close as possible but maintaining a
+unique cell for each parcel. ATom parcels in adjacent grid
+cells may represent air masses separated by a few km instead
+of the grid-cell size of order 100 km. A high density of ATom
+parcels in a region will be placed in the correct latitude and
+pressure cells but may be strung out in longitude cells. The
+parcel will use the mole fraction of key species, water va-
+por (q) and temperature (T ) as measured, but will adopt the

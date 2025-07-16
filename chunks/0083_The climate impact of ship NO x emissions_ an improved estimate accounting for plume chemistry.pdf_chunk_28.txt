@@ -1,0 +1,8 @@
+not through dispersion rates (Verzijlbergh et al., 2009). The
+global CTM with updated plume chemistry has up to 3 % less
+NOx and 1 % less O3 in the marine boundary layer compared
+to the earlier parameterization. Therefore, comparisons of the
+CTM to observations over the North Atlantic and North Pa-
+ciﬁc oceans shown by Vinken et al. (2011; their Figs. 4, 5) are
+unchanged. Speciﬁcally, in regions that are impacted by ship
+emissions but outside distinct plumes, the parametric plume

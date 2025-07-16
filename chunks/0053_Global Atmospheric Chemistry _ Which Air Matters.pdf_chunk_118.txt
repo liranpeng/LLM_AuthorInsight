@@ -1,0 +1,8 @@
+pared with other models. Some of the reduced tropical reac-
+tivity in D may be caused by more low clouds in the tropics,
+and this is apparent in the more rapid fall off in J-O3(1D)
+compared with other models (Fig. 4); yet models B and D
+(not A and D as found in L-O3 and P-O3) have much higher
+values of J-O3(1D). With the ATom A-run approach we will
+be able to remove differences caused by the widely ranging
+chemical climatologies of species (e.g., seen in Figs. 5, 6, 8)

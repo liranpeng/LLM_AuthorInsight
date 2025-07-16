@@ -1,0 +1,23 @@
+to be independent (see Chapters 2 and 8).
+Year
+AR5
+CCMVal-2
+1960
+0.0
+1980
+–0.033
+2000
+–0.079
+  2011*
+–0.05
+2050
+–0.055
+2100
+–0.075
+Table AII.6.7a |  ERF from stratospheric O3 changes since 1850 (W m–2)
+Notes:
+AR5 results are from Chapter 8, see also Sections 11.3.5.1.2, 11.3.6.1. CCMVal-2 results (Cionni 
+et al. 2011) are the multi-model average (13 chemistry–climate models) running a single 
+scenario for stratospheric change: REF-B2 scenario of CCMVal-2 with SRES A1B climate scenario.
+Year
+AR5

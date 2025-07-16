@@ -1,0 +1,14 @@
+EA
+0.5 (0.3)
+1.3 (0.8)
+1.0 (0.4)
+88.1 (5.7)
+aSensitivities are expressed as percentages; see text for definition. The
+values given here were calculated using annual mean results from 15
+models. The standard deviations are given in brackets.
+Figure 2.
+Export fractions of NOy from each HTAP
+region, for each season, Winter (pink), Spring (blue),
+Summer (green) and Autumn (yellow). The values shown
+are ensemble (15-model) means; see text for details.
+L17815

@@ -1,0 +1,5 @@
+determination. J. Appl. Meteorol. Climatol, 53, 990–1011, doi:10.1175/JAMC-D-13-081.1.
+Soden BJ, and Vecchi GA, 2011: The vertical distribution of cloud feedback in coupled ocean-
+atmosphere models. Geophys. Res. Lett, doi: 10.1029/2011GL047632
+Stevens B, Duan J, McWilliams JC, Munnich M and Neelin JD, 2002: Entrainment, Rayleigh friction 
+and boundary layer winds over the tropical Pacific. J. Climate, 15, 30–44.

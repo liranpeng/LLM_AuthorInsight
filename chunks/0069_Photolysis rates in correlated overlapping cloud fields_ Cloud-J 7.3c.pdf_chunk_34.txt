@@ -1,0 +1,8 @@
+cloud layers within a decorrelation length are highly corre-
+lated with one another and thus form a MAX group. When
+such MAX groups are adjacent they have a mean separation
+of one decorrelation length, and we choose a cloud corre-
+lation factor of cc = 0.33, similar to 1 e-fold. When there
+is a clear-sky gap between a pair of G6 layers, the MAX
+groups are separated by more than one decorrelation length;
+thus, we reduce the factor cc with successive multiples (i.e.,

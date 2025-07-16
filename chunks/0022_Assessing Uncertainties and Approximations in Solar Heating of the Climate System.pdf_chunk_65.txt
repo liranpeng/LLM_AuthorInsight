@@ -1,0 +1,4 @@
+optics: the four thin colored lines represent four crystal habits (droxtals, 8-columns, 10-plates, small bullet 
+rosettes, all with roughness value of 003) that have a wide range of geometries (maximum to effective diam-
+eter ratios of 1.2, 3.3, 7.6 and 2.5 respectively). The SSA is primarily a function of Reff and refractive index, 
+and the Mie approach fits within the range of crystal habits.

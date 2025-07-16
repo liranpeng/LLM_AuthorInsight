@@ -1,0 +1,33 @@
+Fourth order
+108
+For eff. res.
+Convergence
+3
+No limiter
+0.9◦
+8.9 × 1013
+Fourth order
+259.2
+Mixing
+3
+Optim. limiter
+0.8◦
+4.7 × 1014
+Third order
+230.4
+Convergence
+6
+No limiter
+1.7◦
+2.1 × 1014
+Seventh order
+240
+Mixing
+6
+Optim. limiter
+1.2◦
+4.6 × 1013
+Fourth order
+172.8
+Table A2. Target resolution in degrees (column 1), grid identiﬁer (column 2), average resolution 1λave (column 3), total number of cells nc
+(column 4), and the time step applied to achieve a Courant number of CN ≈0.4 (column 5).

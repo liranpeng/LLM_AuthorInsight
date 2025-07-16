@@ -1,0 +1,10 @@
+tion methods and errors reported by Cai et al. (2013). The
+reported Poisson counting error is in the range 5–15 %. The
+high-frequency instrument data are averaged into 1 min in-
+tervals for model comparison, with a horizontal resolution of
+about 8 km at cruise speed.
+5.3.2
+LOAC
+Finally, we also use data from LOAC (Light Optical Particle
+Counter) instruments (Renard et al., 2015) collected during
+TRAQA. LOAC is a light aerosol optical counter measur-

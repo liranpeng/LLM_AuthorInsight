@@ -1,0 +1,9 @@
+shift into the convex hull, the mixing is categorized as “real”
+mixing.
+Associated with each area are mixing diagnostics that
+quantify the mixing in terms of normalized distances from
+the pre-existing functional curve (Fig. B1 in LSPT2012): ℓr
+for “real mixing”, ℓu for range-preserving unmixing, and ℓo
+for overshooting (for deﬁnitions of ℓi, i = “r”, “u”, and “o”,
+see Lauritzen and Thuburn, 2012). Following LSPT2012 the
+ℓi is computed half way through the simulation, t = T/2,

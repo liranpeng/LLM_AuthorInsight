@@ -1,0 +1,8 @@
+tently close, within a factor of 2 of this limit. For L-O3 and
+L-CH4, any pair of GSFC-GC-UCI fall within this range,
+while GFDL, GISS and NCAR are a factor of 5–10 above
+it. For the two CCMs this is likely caused by their use of
+different T and q’s, while for GISS it probably lies in the
+chemical model. For P -O3, only the pair GC-UCI is within a
+factor of 2, but GFDL-GSFC-GC-UCI form a distinct cluster.
+The J-values, J-O1D (O3+ hv = > O2+ O(1D)) and J-NO2

@@ -1,0 +1,10 @@
+108,
+4304,
+doi:10.1029/2002JD002623, 2003.
+Gauss, M., Isaksen, I., Lee, D., and Sovde, O.: Impact of aircraft
+NOx emissions on the atmosphere – tradeoffs to reduce impact,
+Atmos. Chem. Phys., 6, 1529–1548, 2006,
+http://www.atmos-chem-phys.net/6/1529/2006/.
+Giannakopoulos, C., Chipperﬁeld, M., Law, K., and Pyle, J.: Vali-
+dation and intercomparison of wet and dry deposition schemes
+using 210Pb in a global three-dimensional off-line chemical

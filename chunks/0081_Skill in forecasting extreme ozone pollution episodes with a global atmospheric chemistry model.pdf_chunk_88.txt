@@ -1,0 +1,8 @@
+serious errors beyond the median bias of +17 ppb probably
+related to the baseline tropospheric O3. If we had done this
+as a climatology comparison, we would have completely re-
+versed this diagnosis. We show maps of model bias as cal-
+culated using independent and concurrent sampling and their
+difference at ﬁve representative percentiles (5th, 25th, 50th,
+75th, and 95th) for the US and EU in Figs. S3 and S4 in the
+Supplement, respectively. Biases at the 5th percentile calcu-

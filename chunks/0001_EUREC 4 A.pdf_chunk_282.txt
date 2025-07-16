@@ -1,0 +1,8 @@
+from the National Oceanic and Atmospheric Administration
+(NOAA). During EUREC4A it ﬂew 38 missions spanning
+20 d and totaling 77 ﬂight hours. Its ﬁrst ﬂight was on 24 Jan-
+uary and its ﬁnal ﬂight was on 15 February 2020. It typi-
+cally ﬂew two ﬂights per day, with one occurring in the mid-
+morning and one in the mid-afternoon. It is an electric, ﬁxed-
+wing remotely piloted aircraft system and operates with an
+endurance of approximately 2.5 h. Flights were primarily fo-

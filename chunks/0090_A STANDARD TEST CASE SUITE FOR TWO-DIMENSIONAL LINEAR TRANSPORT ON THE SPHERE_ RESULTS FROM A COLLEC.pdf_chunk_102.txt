@@ -1,0 +1,9 @@
+linear Gaussian grid (thus larger truncation wave number)
+gives better accuracy for the same number of grid points,
+especially at low resolutions.
+Trajectories are computed using the traditional method
+based on bilinear interpolation along great circles (Stani-
+forth and Côté, 1991). A two-time-level scheme (Temper-
+ton and Staniforth, 1987) is implemented for efﬁciency. It
+is conﬁrmed that the two-time-level scheme gives exactly the
+same results as the three-time-level scheme used by Enomoto

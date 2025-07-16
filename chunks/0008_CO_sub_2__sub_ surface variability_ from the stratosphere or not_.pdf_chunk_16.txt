@@ -1,0 +1,10 @@
+studies of Ruiz et al. (2021) with parallel model simulations
+of CO2 to place constraints on the CO2 IAV caused by atmo-
+spheric circulation, ﬁnding that this effect is a clear but minor
+perturbation in driving the observed IAV of CO2.
+2
+Methods and analysis
+I investigate the CO2 IAV and its causes using surface CO2
+observations from 1985 through 2020, surface N2O observa-
+tions from 1997 through 2020, and tracer simulations from
+the UC Irvine chemistry-transport model (CTM) simulations

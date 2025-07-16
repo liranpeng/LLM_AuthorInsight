@@ -1,0 +1,11 @@
+Runge–Kutta integration.
+A16
+UCISOM(-CS)
+UCISOM uses a regular latitude–longitude grid, and
+UCISOM-CS uses a gnomonic cubed sphere with resolu-
+tion deﬁned as in Eq. (A5). The CN ≈5.5 simulations use
+non-dimensional time steps 1t = 5/T where T = 120 and
+T = 240 for 1.5◦and 0.75◦resolutions, respectively; for
+CN ≈1.0, the time steps are T = 624 and T = 1248; and
+for CN ≈0.8, the time steps are T = 780 and T = 1560.
+The mass ﬂux across grid edges is integrated exactly in lati-

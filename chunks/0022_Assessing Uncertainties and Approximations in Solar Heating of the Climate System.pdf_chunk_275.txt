@@ -1,0 +1,8 @@
+fractions), which does not invoke cloud-overlap and ICAs.   SJ can be run in flat, 
+spherical, refractive, and geometric options.  SJ by default uses a constant ocean surface 
+albedo (OSA = 0.06) but can invoke OSA to be of function of wavelength, incident 
+angle (including scattered light) and surface wind.   
+SJ/RAN 
+SJ run with MAX-RAN cloud overlap. 
+SJ/RRX 
+The 78 IR sub-bins are replaced with the RRTM-SW benchmark code’s 144 sub-bins.

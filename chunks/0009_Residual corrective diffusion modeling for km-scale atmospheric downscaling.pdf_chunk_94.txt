@@ -1,0 +1,9 @@
+40. Ho, J. & Salimans, T. Classifier-free diffusion guidance. arXiv
+preprint arXiv:2207.12598 (2022).
+41. Karras, T. et al. Guiding a diffusion model with a bad version
+of itself. arXiv [cs.CV] (2024). 2406.02507.
+42. Salimans, T. & Ho, J. Progressive distillation for fast sampling
+of diffusion models. In International Conference on Learning
+Representations (2021).
+43. Zheng, H., Nie, W., Vahdat, A., Azizzadenesheli, K. &
+Anandkumar, A. Fast sampling of diffusion models via

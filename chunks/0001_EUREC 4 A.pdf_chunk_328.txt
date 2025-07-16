@@ -1,0 +1,9 @@
+acoustic absorption (black carbon concentration)
+Air sampler
+Locomotive air sampler measuring concentrations of larger (PM10) aerosol particles
+Wind lidar
+WINDCUBE WLS70 wind lidar measuring vertical wind proﬁles for the 100–2000 m range
+Wind lidar
+WINDCUBE V2 wind lidar measuring vertical wind proﬁles for the 40–250 m range
+Eddy covariance
+A 4 m outrigger in front of the Meteor and one high up in the main mast close to the operational

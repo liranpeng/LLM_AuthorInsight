@@ -1,0 +1,4 @@
+To calibrate the climate metric used here to assess errors and uncertainties, we test a sequence of solar RT 
+codes that represents successively improved spectroscopy and modeling of water vapor lines in the infrared. 
+Our reference code, the standard Solar-J version (H2017, denoted SJ), uses Cloud-J (M. J. Prather, 2015) 
+spectroscopic data for the ultraviolet and visible wavelengths (0.18–0.78 µm, bins #1–18) with a single val-

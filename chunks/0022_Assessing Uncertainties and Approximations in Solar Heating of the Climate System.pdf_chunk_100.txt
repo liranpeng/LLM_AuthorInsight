@@ -1,0 +1,4 @@
+quence δ-0 to δ-2 to δ-1, respectively, in order of decreasing scaling factors. Looking at the region with SZA < 
+40° (inside the green oval), we see that the error in reflected flux is positive and greatest for δ-0 and decreas-
+es along the sequence. Similar dipole patterns as a function of zenith angle can be seen in Figure 2 of LBYY 
+with the relative errors about 20% for thin liquid clouds (optical depth, τ < 1) to about 5% for thicker clouds

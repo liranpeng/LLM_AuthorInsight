@@ -1,0 +1,9 @@
+Prather, M. J., Zhua, X., Strahan, S. E., Steenrod, S. D., and
+Rodriguez, J. M.: Quantifying errors in trace species trans-
+port modeling, P. Natl. Acad. Sci. USA, 105, 19617–19621,
+doi:10.1073/pnas.0806541106, 2008.
+Prather, M., Holmes, C., and Hsu, J.: Reactive greenhouse
+gas scenarios: Systematic exploration of uncertainties and
+the role of atmospheric chemistry, Geophys. Res. Lett., 39,
+doi:10.1029/2012GL051440, 2012.
+Price, C. and Rind, D.: Modeling global lightning distributions in

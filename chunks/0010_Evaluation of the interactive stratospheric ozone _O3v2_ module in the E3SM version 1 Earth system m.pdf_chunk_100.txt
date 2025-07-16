@@ -1,0 +1,10 @@
+delity of either the mean climate or the climate sensitivity of
+the simulation.
+5
+Discussion and conclusions
+The E3SMv1 model has built capabilities for climate mod-
+elling of the water cycle, biogeochemistry, and cryosphere
+(Golaz et al., 2019; Rasch et al., 2019). In a next-stage de-
+velopment that focuses on atmospheric chemistry, we re-
+examined the current model’s treatment of ozone (O3v1) and
+found some errors in the design that led to unphysically large

@@ -1,0 +1,14 @@
+able (overshooting unmixing should be exactly zero; range-
+preserving unmixing should decrease) and how much real
+mixing the ﬁlter introduces.
+4.6
+Ability of transport scheme to deal with divergent
+ﬂows
+To force the modeler to consider density of air and tracer
+mass coupling (at least for ﬁnite-volume type schemes), a
+divergent ﬂow ﬁeld is considered.
+Appendix A
+Exact experimental settings
+A1
+CAM-FV
+CAM-FV uses the regular latitude–longitude grid, and as

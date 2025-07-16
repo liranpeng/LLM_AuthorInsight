@@ -1,0 +1,23 @@
+taine et al. (2004)
+8
+STOCHEM HadAM3
+CTM
+Turned off
+Collins et al. (1997)
+Stevenson et al. (2004)
+9
+UIO CTM2
+CTM
+n.a.
+Sundet (1997)
+10
+FRSGC UCI
+CTM
+n.a.
+Wild and Prather (2000),
+Wild et al. (2003)
+simulated general circulation is partly driven by sea surface
+temperatures, which are ﬁxed to climatology in the models.
+This affects the NAO index, El Nino phenomenon, and
+other meteorological features, which in turn characterize
+long-range transports and thus atmospheric composition.

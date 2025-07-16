@@ -1,0 +1,9 @@
+that AI, in particular AI on top, is not merely a part of EVE: it is one
+of the main reasons why EVE is necessary.
+(7) Does EVE aim to replace existing
+modeling activities?
+No. EVE complements and enhances these existing activities. EVE
+models will simulate the globe with local granularity on timescales
+of decades to centuries, something existing models cannot do. This
+will help improve more coarse-grained global models used to
+explore processes operating on longer timescales, which EVE

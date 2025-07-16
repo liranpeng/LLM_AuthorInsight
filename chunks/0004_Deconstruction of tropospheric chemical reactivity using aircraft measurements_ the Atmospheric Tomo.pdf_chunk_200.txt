@@ -1,0 +1,9 @@
+justment to other key species that will occur in response
+to the decadal decay of a CH4 perturbation. The correct
+way to model this is to run CTM and/or CCM perturba-
+tion + control sequences for several years with different CH4
+lower-boundary conditions (e.g., Holmes, 2018). During this
+time other species, speciﬁcally CO, which is the other major
+sink of OH radicals, will adjust to the CH4-driven changes
+in OH. The CO change, an increase, will then further reduce
+OH and amplify the ffCH4.

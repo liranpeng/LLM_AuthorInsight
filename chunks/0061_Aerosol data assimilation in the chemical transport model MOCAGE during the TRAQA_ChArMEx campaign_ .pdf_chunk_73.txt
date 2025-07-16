@@ -1,0 +1,7 @@
+criterion is reached, or when the maximum number of iter-
+Figure 1. Scatter plots of aerosol optical depths (where colours rep-
+resent the number of points) of assimilated MODIS observations
+and the 1 h assimilation forecast (ﬁrst guess) (a), and the assimila-
+tion analysis (b) for each 1 h assimilation window (both runs start
+from the same assimilated conditions of 1 h before). In each panel,
+correlation (ρ), absolute bias (1), root mean square error (RMSE)

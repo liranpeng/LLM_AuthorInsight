@@ -1,0 +1,9 @@
+follow the RETRO vertical distribution (Schultz et al., 2008),
+which injects 35 % of equatorial emissions and 45 % of bo-
+real emissions above the boundary layer. In a sensitivity test
+we inject all biomass burning into the lowest model layer in
+Oslo CTM3.
+Lightning NOx emissions are calculated with similar
+methods in all 3 CTMs, with UCI CTM and Oslo CTM3 us-
+ing identical algorithms. In all models, these emissions are
+derived from cloud-top heights in the underlying meteorol-

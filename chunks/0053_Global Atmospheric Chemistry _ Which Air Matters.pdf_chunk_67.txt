@@ -1,0 +1,9 @@
+enging modules must be turned off because in many mod-
+els the scavenging depends on the vertical distribution of the
+species.
+In this A-mode, the remaining connection of the reactivity
+calculation with neighboring grid cells is through the pho-
+tolysis rates, which require proﬁles of clouds, aerosol layers,
+and ozone. It is impossible to prescribe all these data over
+the diurnal cycle for each parcel from observations, and thus
+we must rely on the CTM–CCM to generate a suitably re-

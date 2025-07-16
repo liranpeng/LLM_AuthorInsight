@@ -1,0 +1,9 @@
+to assimilate observations from different instruments at the
+same time. The aerosol observations from space are avail-
+able from various instruments located on different satellites,
+which can provide different spatial and temporal coverage
+and resolutions. Combining complementary data from differ-
+ent instruments could improve the system performance, but
+the possible inter-instrument biases would need to be care-
+fully considered.
+In addition, the same or even bigger positive effect of the

@@ -1,0 +1,11 @@
+which would imply an even larger GWP, but since f depends
+on τCH4 the two must be chosen consistently. Uncertainty in
+the GWP is difﬁcult to assess without further modeling and
+analysis of stratospheric impacts, but it is likely ±20% or
+larger.
+7
+Conclusions
+Over 1997–2009, the three CTMs in this work exhibit com-
+mon variability in methane lifetime, which is also shared
+by other published model studies. The simulated τCH4×OH
+anomalies generally lie within the constraints provided by

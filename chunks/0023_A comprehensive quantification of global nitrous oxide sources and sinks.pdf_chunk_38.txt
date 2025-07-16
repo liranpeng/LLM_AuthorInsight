@@ -1,0 +1,6 @@
+climate, CO2 or land cover; green, emissions from natural sources. The 
+anthropogenic and natural N2O sources are derived from bottom-up estimates. 
+The blue arrows represent the surface sink and the observed atmospheric 
+chemical sink, of which about 1% occurs in the troposphere. The total budget 
+(sources + sinks) does not exactly match the observed atmospheric 
+accumulation, because each of the terms has been derived independently and

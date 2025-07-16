@@ -1,0 +1,4 @@
+to sort the near infrared and infrared absorption lines of water vapor and other greenhouse gases into bins 
+of similar opacity, designated g-points in RRTMG. Both methods select broad wavelength bands where the 
+opacities of more continuum absorbers like clouds and aerosols can be treated as a constant. The art here 
+lies in selecting the minimum number of total bins, each requiring a separate RT calculation, which can still

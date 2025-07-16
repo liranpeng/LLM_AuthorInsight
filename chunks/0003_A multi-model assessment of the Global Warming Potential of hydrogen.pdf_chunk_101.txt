@@ -1,0 +1,6 @@
+OsloCTM3. OsloCTM352 covers the troposphere and the stratosphere, with com-
+prehensive chemistry in both regions. The model is driven by 3-hourly meteor-
+ological forecast data by the Open Integrated Forecast System (OpenIFS, cycle 38
+revision 1) at the European Centre for Medium-Range Weather Forecasts
+(ECMWF) and the horizontal resolution is ~2.25 × 2.25° with 60 vertical layers
+ranging from the surface and up to 0.1 hPa. The model includes 174 components

@@ -1,0 +1,8 @@
+variable. For emission terms, all uncertainty comes from the
+sensitivity parameter since the scenario emissions are taken
+as given, while uncertainty in other terms is a combina-
+tion of possible errors in the forcing variable and sensitiv-
+ity. Methane feedback has the largest inﬂuence, with an indi-
+vidual contribution of +28.9 ± 7.4 %. NOx emission reduc-
+tions over land also force τCH4×OH upwards (+11.2±2.5 %),
+which is opposite to NOx inﬂuence in recent decades. Other

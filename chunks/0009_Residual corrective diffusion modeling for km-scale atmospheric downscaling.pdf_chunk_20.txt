@@ -1,0 +1,10 @@
+Kullback-Leibler divergence as opposed to optimizing for MAE loss
+optimized by the UNet (see Supplementary Section 2.2.2). In
+Supplementary Table S3 we show that pooled scores (CRPS and
+MAE) tell a similar story.
+Table 1 Deterministic and probabilistic skills: MAE and CRPS
+scores evaluated from 205 date and time combinations taken
+randomly from the out-of-sample year (2021)
+Full size table
+Spectra and distributions
+Relative to deterministic baselines, CorrDiff significantly improves

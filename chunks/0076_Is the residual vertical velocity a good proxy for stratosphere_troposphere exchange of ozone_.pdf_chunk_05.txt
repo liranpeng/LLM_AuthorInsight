@@ -1,0 +1,6 @@
+STE does not apply to O3. Climatic variability in the modeled O3 ﬂux needs to be diagnosed directly rather
+than indirectly through the overturning circulation.
+1. Introduction
+The primary oxidant of the troposphere is O3. Its reaction with H2O generates hydroxyl radicals (OH) that
+destroy pollutants and clean the lower atmosphere [Logan et al., 1981; Thompson, 1992]. Increases in
+tropospheric O3 over the industrial era make it the third most important greenhouse gas after CO2 and CH4

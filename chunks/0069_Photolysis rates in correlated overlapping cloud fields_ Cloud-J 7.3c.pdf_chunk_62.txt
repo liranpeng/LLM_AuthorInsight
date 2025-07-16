@@ -1,0 +1,8 @@
+cal species, cross sections including quantum yields are pa-
+rameterized as a function of wavelength (ν) and tempera-
+ture (T ) (e.g., Atkinson et al., 2008; Sander et al., 2011).
+In this case, Fast-J calculates solar-ﬂux-weighted, average
+cross sections for each wavelength bin (Wild et al., 2000;
+Bian and Prather, 2002). These tables are created for a set of
+ﬁxed T ’s, and then the cross section used for each bin in each
+atmospheric layer is interpolated in T . Many VOCs have

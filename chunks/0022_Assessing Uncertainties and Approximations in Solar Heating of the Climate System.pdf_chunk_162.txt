@@ -1,0 +1,6 @@
+Tripleclouds has not been implemented in Solar-J, and its primary use is in the RT codes of the ECMWF (R. 
+J. Hogan & Bozzo, 2018) and ACCESS (Franklin et al., 2013).
+The cloud overlap assumption is clearly an important source of error. Shonk and Hogan  (2010, hence 
+SH2010) demonstrated this using 4 months of ERA-40 data and cloud optics similar to the January IFS cloud 
+data used in Solar-J here. SH2010s calculation using Tripleclouds showed that EXP-RAN produced about 
+HSU AND PRATHER

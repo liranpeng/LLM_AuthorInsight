@@ -1,0 +1,10 @@
+on the scale of these episodes as a new data set to evaluate
+CCMs (Sect. 5.3) and opening a novel test of whether climate
+change alters theses extreme episodes.
+5.1
+Weekly and annual cycles
+The well-known weekly and annual cycles (Bruntz et al.,
+1974) in MDA8 O3 concentrations are summarized for our
+decadal data sets in Table 2, where we combine typical mea-
+sures (16th, 50th, 86th percentiles in ppb) with AQX fre-
+quencies (based on 100 per decade). Higher percentiles are

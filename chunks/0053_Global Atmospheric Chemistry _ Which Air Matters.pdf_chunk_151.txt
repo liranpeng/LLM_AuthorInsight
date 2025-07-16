@@ -1,0 +1,9 @@
+ent in another (e.g., L-CH4 in B and C vs. L-O3).
+– It is hard to ﬁnd a consistent pattern in P-O3; we at-
+tribute these model differences to wide variations in
+NOx abundances over the remote Paciﬁc.
+– J-values in the tropics, particularly J-O(1-D) (Reac-
+tion 3d), differ widely across the six models; this is un-
+expected considering the general agreement with pho-
+tolysis model comparisons (PhotoComp, 2010) and in-
+dicates that implementation of the photolysis codes in

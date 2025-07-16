@@ -1,0 +1,41 @@
+Cosine annealing (single cycle)
+Number of epochs
+30
+Batch size
+4
+Exponential moving average decay rate
+0.9999
+10
+rs0
+rs1
+rs2
+rs3
+rs4
+run
+rs0
+rs1
+rs2
+rs3
+rs4
+run
+0.0
+0.5
+1.0
+T₇ [K]
+0
+2
+TWP [mm]
+rs0
+rs1
+rs2
+rs3
+rs4
+run
+RMSE of time-mean
+Figure 6: Time-mean RMSE (Equation 6) of T7 and TWP = 1
+g
+P
+k qT
+k dpk computed over a single
+10-year inference for five ML models which differ only in initialization random seed.
+proportional to the area of a grid cell. Then the three metrics of interest are:

@@ -1,0 +1,13 @@
+y
+
+
+EF
+g trace gas
+kg dry matter
+
+
+(9)
+where H is the ﬁre history, E is the emissions history based on the ice core data, and EF is the trace gas
+speciﬁc emission factor. For this calculation we used boreal and non‐boreal biome‐weighted emission fac-
+tors for acetylene and ethane, and a globally weighted emission factor for methane, assuming the same
+Figure 3. (a–h) Biomass burning scenarios for acetylene (blue), ethane (green), and methane (black) for various

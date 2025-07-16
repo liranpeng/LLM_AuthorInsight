@@ -1,0 +1,8 @@
+O3]/dln[O3], (c) dln[L-O3]/dln[O3], and (d) dln[L-CH4]/dln[NOx]. All ATom-1 parcels, including continental data, are plotted as small
+black dots; the basin-mean values for the Paciﬁc as large red dots; and the Atlantic as large blue dots.
+species that has a signiﬁcant impact on the RDS (|S| ∼0.1)
+is CH3OOH.
+5.2
+Updated version-3 reactivities
+We did not have the resources to repeat all the calcula-
+tions (5 d averages, sensitivities) with version-3 NOx and so

@@ -1,0 +1,9 @@
+J. Atmos. Sci., 33, 2452–2459, https://doi.org/10.1175/1520-
+0469(1976)033<2452:TDEAFR>2.0.CO;2, 1976.
+Key, J.: Streamer Version 3.0, User’s Guide, 107 pp., 2002.
+Khairoutdinov, M., Randall, D., and DeMott, C.: Simulations of
+the Atmospheric General Circulation Using a Cloud-Resolving
+Model as a Superparameterization of Physical Processes, J. At-
+mos. Sci., 62, 2136–2154, https://doi.org/10.1175/JAS3453.1,
+2005.
+Koch, D. and Del Genio, A. D.: Black carbon semi-direct effects

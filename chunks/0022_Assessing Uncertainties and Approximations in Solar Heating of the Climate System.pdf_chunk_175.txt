@@ -1,0 +1,7 @@
+Solar-J lower boundary condition is 2nd-order in finite-difference RT solution and has not changed since 
+the original Fast-J documentation (Wild et al., 2000). The interactive OSA requirement that each angle has 
+a different albedo required a rewrite of the 2nd-order lower boundary condition. The Fast-J Feautrier solver 
+for scattered light (see Equations 9 & 19 of Wild et al., 2000) uses odd-even (leap-frog) first-order finite-dif-
+ference equations, solving at the lower boundary for jn.
+
+

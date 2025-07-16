@@ -1,0 +1,4 @@
+We find that the large error in ice cloud heating is due to 2-stream methods and not scaling methods. When 
+we truncate the ice-cloud phase function with δ-1 scaling (SJ/δ1ice vs. SJ, T1/R18) we find very small differ-
+ences in reflection or atmospheric heating (Figure S2, right column). The SJ ice-cloud phase functions are 
+consistent with the Y2013 library, and so if Baek and Bae are to correct much of the ice-cloud errors within

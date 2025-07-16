@@ -1,0 +1,8 @@
+semi-Lagrangian and Eulerian schemes.
+One such diagnostic is the ﬁlament diagnostic that is de-
+signed to diagnose how well the thin ﬁlaments that develop
+at t = T /2 are preserved. It takes advantage of the fact that
+in continuous space the area spanned by tracer values larger
+than some threshold value is conserved for a non-divergent
+ﬂow ﬁeld. The ﬁlament diagnostic, ℓf (for a mathematical
+deﬁnition of ℓf, see LSPT2012), is designed to quantify how

@@ -1,0 +1,8 @@
+and Wang, Y. Q.: Data assimilation of dust aerosol observations
+for the CUACE/dust forecasting system, Atmos. Chem. Phys., 8,
+3473–3482, doi:10.5194/acp-8-3473-2008, 2008.
+Pagowski, M. and Grell, G. A.: Experiments with the assimilation
+of ﬁne aerosols using an ensemble Kalman ﬁlter, J. Geophys.
+Res.-Atmos., 117, D21302, doi:10.1029/2012JD018333, 2012.
+Pannekoucke, O. and Massart, S.: Estimation of the local diffusion
+tensor and normalization for heterogeneous correlation mod-

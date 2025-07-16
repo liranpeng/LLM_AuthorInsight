@@ -1,0 +1,8 @@
+ager) geostationary observations over oceans are retrieved
+at 550 nm by Thieuleux et al. (2005b). The ICARE data
+centre operationally implemented this algorithm and makes
+AOD data available on its website (www.icare.univ-lille1.fr).
+This product was evaluated against other satellite products
+and AERONET measurements by Thieuleux et al. (2005b)
+and Breon et al. (2011). The instrument makes an image of
+the whole Earth disk every 15 min as seen from the equato-

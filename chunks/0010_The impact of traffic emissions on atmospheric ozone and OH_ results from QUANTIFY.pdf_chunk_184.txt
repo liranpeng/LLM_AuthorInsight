@@ -1,0 +1,9 @@
+the Modular Earth Submodel System (MESSy), Atmos. Chem.
+Phys., 6, 3603–3609, 2006,
+http://www.atmos-chem-phys.net/6/3603/2006/.
+Law, K. and Nisbet, E.: Sensitivity of the methane growth rate to
+changes in methane emissions from natural gas and coal, J. Geo-
+phys. Res., 101, 14 387–14 397, 1996.
+Law, K., Plantevin, P., Shallcross, D., Rogers, H., Pyle, J., Grouhel,
+C., Thouret, V., and Marenco, A.: Evaluation of modelled O3 us-
+ing MOZAIC data, J. Geophys. Res., 103, 25 721–25 737, 1998.

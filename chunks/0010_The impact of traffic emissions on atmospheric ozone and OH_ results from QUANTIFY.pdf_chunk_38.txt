@@ -1,0 +1,8 @@
+3117
+Fig. 2. Comparison of the small perturbation approach (5% emission reduction) and later scaling to a total removal of the respective trafﬁc
+emission based on the simulations of p-TOMCAT. The plots indicate the difference of the ozone perturbation from both approaches.
+2.1
+Small perturbations and scaling
+As mentioned above, for this study a small perturbation-
+approach was chosen for two main reasons: Since one focus
+of the analysis is a direct comparison of the impact of the

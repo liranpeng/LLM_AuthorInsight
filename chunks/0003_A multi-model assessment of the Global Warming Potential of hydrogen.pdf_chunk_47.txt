@@ -1,0 +1,16 @@
+(σAGWPτ H2O)
+W
+m2kg
+± 2:0  102
+± 3:4  102
+0.04
+Model ensemble
+Forcing changes in stratospheric O3
+(σAGWPτ O3)
+W
+m2kg
+± 1:2  102
+± 1:9  102
+0.02
+Model ensemble
+The percentage uncertainties are calculated using the same method as Table 7SM.8 of ref. 47, meaning that each percentage contribution is root square summed. We present 1σ uncertainties (68%

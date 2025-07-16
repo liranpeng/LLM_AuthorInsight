@@ -1,0 +1,8 @@
+responding dip in CO concentrations. GEOS-5 predicts a
+plume of enhanced CO due to N. American emissions around
+11Z of the Azores–Kangerlussuaq ﬂight that is not seen in
+the observations (Fig. 2f, i). A similar error is made in the
+Kangerlussuaq–Minneapolis ﬂight (Fig. S5). This could be
+due either to an error in the assumed N. American sources or
+to misplacement of the plume by the model. A large overes-
+timate of CO at the end of the Minneapolis–Palmdale ﬂight

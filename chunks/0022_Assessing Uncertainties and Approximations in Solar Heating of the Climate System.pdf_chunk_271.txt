@@ -1,0 +1,17 @@
+radiation code every hour.    
+ 
+ 
+4 
+ 
+ 
+ 
+Figure S3. Frequency of occurrence for each of the four QCA bins using MAX-COR 
+overlap for the January 2015 case study here. The QCAs are binned by 600 nm total 
+cloud optical depth (liquid+ ice water: 0 – ½; ½ – 4; 4 – 30; >30.  For each time step, the 
+fractional area assigned to each QCA is calculated and then averaged over the month to 
+give a frequency that sums to 1.00 over the 4 QCAs.  
+ 
+ 
+ 
+ 
+5

@@ -1,0 +1,35 @@
+as a light cross (X) to compare with the pink/red circles. (c) Profile of in-cloud rates for stratus (optical depth OD = 12, 
+liquid water) and cirrus (OD = 2, ice water) from SJ/noIR and SJ/66b (also no IR gas absorption by design) for overhead 
+sun and surface albedo of 0.05.
+0
+0.5
+1
+1.5
+2
+900
+910
+920
+930
+940
+950
+heating rate (K/hr)
+pressure (hPa)
+cloud top
+cloud bottom
+STRATUS
+  OD = 12
+SJ/66b
+SJ (RRTMG)
+0.2
+0.4
+0.6
+200
+210
+220
+230
+240
+250
+cloud top
+cloud bottom
+heating rate (K/hr)
+CIRRUS

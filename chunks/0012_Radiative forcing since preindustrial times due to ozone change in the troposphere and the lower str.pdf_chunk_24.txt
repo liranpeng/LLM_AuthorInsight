@@ -1,0 +1,8 @@
+schemes, parameterizations of sub-scale processes and mi-
+crophysics, and meteorological data. Some of the models
+take into account climate change, while others use the same
+meteorology for both time slices. Some of the models in-
+clude detailed chemistry for both the troposphere and the
+stratosphere, while others focus on the troposphere only.
+The spatial distribution of radiative forcing is calculated
+for the ten sets of model data by three different radia-

@@ -1,0 +1,4 @@
+Pincus, R., & Stevens, B. (2013). Paths to accuracy for radiation parameterizations in atmospheric models. Journal of Advances in Modeling 
+Earth Systems, 5, 225–233. https://doi.org/10.1002/jame.20027
+Platnick., S., Meyer., K., King, M. D., Wind, G., Amarasinghe, N., Marchant, B., et al. (2017). The MODIS cloud optical and microphys-
+ical products: Collection 6 updates and examples from Terra and Aqua. IEEE Transactions on Geoscience and Remote Sensing, 55(1),

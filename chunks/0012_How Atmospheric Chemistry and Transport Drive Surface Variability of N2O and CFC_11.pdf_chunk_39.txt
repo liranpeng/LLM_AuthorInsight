@@ -1,0 +1,4 @@
+be driven completely by stratospheric loss and atmospheric transport. If emissions are used to maintain the 
+observed N2O, then the surface variability will also be determined by the location and magnitude of those 
+emissions, confounding the stratospheric signal. Resetting lower-boundary N2O to observations does not 
+get around this constraint since it is effectively a surface source. To isolate the stratospheric N2O signal,

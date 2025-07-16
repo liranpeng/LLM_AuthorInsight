@@ -1,0 +1,8 @@
+the ATom data. Also, the models are missing a strong HCHO
+peak at 300 ppt in the eastern Paciﬁc, probably convection-
+related, speciﬁc to that time period. Thus, in terms of these
+HOx precursors, the model climatologies appear to be at least
+as reactive as the ATom data.
+While the ATom-1 data in Fig. 4 are limited to single tran-
+sects, the model NOx discrepancies apply across the three
+tropical regions, and the simple chemical statistics for these

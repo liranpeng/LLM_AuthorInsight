@@ -1,0 +1,11 @@
+Sect. 5.
+2
+Data sets and methods
+In the ACCMIP model intercomparison, four global CCMs
+included a CO-like tracer emitted from global sources:
+UM-CAM, GISS-E2-R, CMAM, and STOC-HadAM3.
+A description of these models, including their chemistry,
+transport, and conﬁguration, can be found in Lamarque
+et al. (2013) and Young et al. (2013). The horizontal resolu-
+tion of the models varied between 1.875◦by 2.5◦and 5◦by
+5◦. Two of the models, UM-CAM and STOC-HadAM3, have

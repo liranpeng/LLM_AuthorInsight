@@ -1,0 +1,8 @@
+1-D RT codes of RRTMG-SW or Solar-J. Comparisons be-
+tween Solar-J and RRTMG-SW for clouds in Sect. 3 are done
+with a single 1-D plane-parallel, ICA-like atmosphere (i.e.,
+100 % cloud fraction in each cloud layer), an idealized case.
+Although the different approaches for fractional cloud
+cover were not directly tested here, it is worth looking at
+how Solar-J and RRTMG might treat cloud ﬁelds in cli-
+mate models. The Monte Carlo ICA (McICA; Pincus et al.,

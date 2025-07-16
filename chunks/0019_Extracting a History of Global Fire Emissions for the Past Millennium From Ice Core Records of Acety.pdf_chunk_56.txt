@@ -1,0 +1,4 @@
+methane mixing ratios and the δ13CH4 isotopic signature for a range of emission scenarios. The model
+includes emissions from biogenics (wetlands and agriculture), biomass and biofuel burning, and geologic
+outgassing. Sources were assigned a 13C/12C ratio based on the modern inventory from Schwietzke
+et al. (2016) with the biomass burning, biofuel burning, and biogenic sources adjusted by 1.8‰ to account

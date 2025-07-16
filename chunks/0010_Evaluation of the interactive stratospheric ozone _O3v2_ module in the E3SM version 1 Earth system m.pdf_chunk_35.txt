@@ -1,0 +1,14 @@
+Antarctic ozone hole area (deﬁned as TCO < 220 DU) and
+minimum TCO in the Southern Hemisphere (SH). In this
+study, we use the data obtained from the Ozone Watch web-
+https://doi.org/10.5194/gmd-14-1219-2021
+Geosci. Model Dev., 14, 1219–1236, 2021
+1222
+Q. Tang et al.: Interactive stratospheric ozone (O3v2) in E3SM
+Table 1. List of simulation conﬁgurations and periods and a brief explanation of their purposes.
+Setting
+Years
+Purpose
+O3v1 AMIP-type
+1870–2014
+Control run from the E3SMv1 DECK

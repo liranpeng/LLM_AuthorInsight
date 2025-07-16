@@ -1,0 +1,12 @@
+different models may be inconsistent.
+– Probability distributions for the tropics show robust dif-
+ferences with clear outliers, different models are singled
+out for different species (model A for CO and O3, D
+for HCHO and NOx), and surprisingly the water vapor
+shows a large range across models.
+– Reactivity-weighted
+probability
+distributions
+show
+shifts that might be expected, based on L-CH4 and L-O3
+occurring primarily in the lower mid-troposphere and

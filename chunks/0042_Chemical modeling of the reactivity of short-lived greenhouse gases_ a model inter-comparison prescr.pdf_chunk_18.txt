@@ -1,0 +1,8 @@
+ﬁcial since real air parcels constantly move and mix with
+their environment. Statistical comparison of A-run reactiv-
+ities from the six models with those using the standard 3-D
+versions is examined in P2017, and shows agreement with
+some minor biases due to the A-run formulation.
+The participating models and the modeling data stream are
+described in Sect. 2. This effort was completed before the re-
+lease of the ATom aircraft data (ATom, 2017) and thus we use

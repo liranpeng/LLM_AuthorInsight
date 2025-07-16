@@ -1,0 +1,4 @@
+Journal Applied Meteorology and Climatology, 54: 996–1008, https://doi.org/10.1175/JAMC-D-14-0227.1
+Barker, H. W. (2008). Representing cloud overlap with an effective decorrelation length: An assessment using CloudSatand CALIPSO data. 
+Journal of Geophysical Research: Atmospheres, 113, D24205. https://doi.org/10.1029/2008JD010391
+Barker, H. W., Cole, J. N. S., Li, J., Yi, B., & Yang, P. (2015). Estimation of errors in two-stream approximations of the solar radiative transfer

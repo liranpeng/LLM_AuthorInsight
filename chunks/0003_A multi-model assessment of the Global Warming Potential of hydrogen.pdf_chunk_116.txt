@@ -1,0 +1,13 @@
+of this code https://github.com/ciceroOslo/Hydrogen_GWP on github, released under
+the Apache-2.0 license.
+Received: 17 February 2023; Accepted: 19 May 2023;
+References
+1.
+Novelli, P. C. Atmospheric hydrogen mixing ratios from the NOAA GMD
+carbon cycle cooperative global air sampling network. 1988–2005 (NOAA/
+ESRL) (2006).
+2.
+Patterson, J. D. et al. Atmospheric history of H2 over the past century
+reconstructed from South pole ﬁrn air. Geophys. Res. Lett. 47, e2020GL087787
+(2020).
+3.

@@ -1,0 +1,18 @@
+is an intermediate source of atomic O in many tropospheric
+reactions, and its net production and loss is determined in the
+long term by the breaking and reforming of the O–O bond
+originating with molecular oxygen. Chemical reactions are
+traditionally grouped into production (P-O3, ppb day−1),
+HO2 + NO →NO2 + OH,
+(R2a)
+RO2 + NO →NO2 + RO,
+(R2b)
+where NO2 + hν →NO + O and O + O2 →O3,
+(R2c)
+O2 + hν →O + O(×2),
+(R2d)
+and loss (L-O3, ppb day−1).
+O3 + OH →O2 + HO2,
+(R3a)
+O3 + HO2 →HO + O2 + O2,
+(R3b)

@@ -1,0 +1,10 @@
+namical online scheme, which depends on the wind intensity
+and surface characteristics. The scheme is based on Marti-
+corena et al. (1997). It covers Africa, Arabia and the Mid-
+dle East (13–36◦N, 17◦W–77◦E), where input soil proper-
+ties and aerodynamical surface parameters have a resolution
+of 1◦× 1◦(Marticorena et al., 1997), and north-eastern Asia
+(35.5–47◦N, 73–125◦E) with the input parameter resolution
+of 0.25◦× 0.25◦(Laurent et al., 2006).
+3
+Description of data assimilation system

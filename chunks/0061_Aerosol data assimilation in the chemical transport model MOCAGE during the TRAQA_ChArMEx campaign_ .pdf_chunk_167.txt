@@ -1,0 +1,8 @@
+trievals: Methodology for INDOEX, J. Geophys. Res.-Atmos.,
+106, 7313–7336, doi:10.1029/2000JD900507, 2001.
+Courtier, P., Thépaut, J.-N., and Hollingsworth, A.: A strategy for
+operational implementation of 4D-Var, using an incremental ap-
+proach, Q. J. Roy. Meteor. Soc., 120, 1367–1387, 1994.
+Dai, T., Schutgens, N. A., Goto, D., Shi, G., and Nakajima, T.: Im-
+provement of aerosol optical properties modeling over Eastern
+Asia with MODIS AOD assimilation in a global non-hydrostatic

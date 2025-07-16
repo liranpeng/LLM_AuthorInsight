@@ -1,0 +1,8 @@
+clude (a) top-of-atmosphere (TOA) net radiation, TOA (b) short-
+wave and (c) longwave cloud radiative effects, (d) precipitation,
+(e) surface air temperature over land, (f) zonal wind stress over
+ocean, (g) 200 and (h) 850 hPa zonal wind, and (i) 500 hPa geopo-
+tential height. CRE stands for cloud radiative effects, DJF stands for
+December–February, MAM stands for March–April, JJA stands for
+June–August, SON stands for September–November, and RMSE
+stands for root-mean-square error.

@@ -1,0 +1,8 @@
+in two general ways: directly by recycling HO2 and RO2 back
+to OH, which increases the OH / HO2 ratio and reduces the
+HOx sink via HO2 self reaction; and indirectly by increas-
+ing O3, which is a primary source of OH through photolysis
+in the presence of water vapor. We deﬁne a time-averaged
+CH4 oxidation efﬁciency (MOE) similar to OPE above, as
+1L(CH4)/1L(NOx). The MOE is 0.42 in the ﬁrst 5 h of
+plume aging, as calculated by the parametric plume chem-

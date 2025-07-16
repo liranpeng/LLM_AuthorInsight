@@ -1,0 +1,4 @@
+Nevison et al. (2004) showed the annual minimum of F11 occurred 1 month before that of N2O in the SH 
+(Cape Grim) due to the influence of N2O sources. Since our model simulations do not have emissions or in-
+terhemispheric gradients driven by emissions, we find that the variations in F11 and N2O are almost perfect-
+ly correlated (see discussion above and Table S2). A more detailed study of QBO- or STE-related diagnostics

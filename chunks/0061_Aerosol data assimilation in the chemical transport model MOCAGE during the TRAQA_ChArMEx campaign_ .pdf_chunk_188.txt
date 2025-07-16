@@ -1,0 +1,9 @@
+4352, doi:10.1029/2002JD002821, 2003.
+Martet, M., Peuch, V.-H., Laurent, B., Marticorena, B., and Berga-
+metti, G.: Evaluation of long-range transport and deposition of
+desert dust with the CTM MOCAGE, Tellus B, 61, 449–463,
+2009.
+Marticorena, B., Bergametti, G., Aumont, B., Callot, Y., N’doumé,
+C., and Legrand, M.: Modeling the atmospheric dust cycle: 2.
+Simulation of Saharan dust sources, J. Geophys. Res.-Atmos.,
+102, 4387–4404, doi:10.1029/96JD02964, 1997.

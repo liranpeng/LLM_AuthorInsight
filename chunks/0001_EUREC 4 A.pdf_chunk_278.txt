@@ -1,0 +1,15 @@
+Instrument
+Brief description
+Hygrometer
+Buck 1011c cooled-mirror hygrometer measuring humidity at 1 Hz
+Thermometer
+Non-de-iced and de-iced Rosemount probes measuring temperature at 0.7 Hz
+Pyrgeometer
+Eppley pyrgeometer measuring longwave irradiance 4–50 µm
+Pyranometer
+Eppley pyranometer measuring shortwave irradiance 0.295–2.8 µm
+Infrared thermometer
+Heimann IR thermometer measuring temperature at 10 Hz
+Camera
+Forward camera mounted in the cockpit
+Turbulence probe

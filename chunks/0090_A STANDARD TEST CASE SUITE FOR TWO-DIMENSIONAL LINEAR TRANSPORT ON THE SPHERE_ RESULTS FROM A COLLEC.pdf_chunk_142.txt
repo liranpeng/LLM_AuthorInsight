@@ -1,0 +1,8 @@
+at CN = 0.2 and CN = 0.6 (Fig. 2, row 3 and 4). Contrary
+to the semi-Lagrangian schemes, the solutions achieved with
+longer time steps have larger errors throughout the resolu-
+tion range. Since ICON-FFSL is based on a low-order spa-
+tial reconstruction function, it is unlikely that the error is
+dominated by time-truncation errors throughout the resolu-
+tion range. Rather it appears more likely that the larger CN
+errors are due to the simpliﬁed ﬂux approximation for which

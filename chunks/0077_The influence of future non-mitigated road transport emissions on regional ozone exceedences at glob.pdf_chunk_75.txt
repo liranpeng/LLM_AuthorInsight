@@ -1,0 +1,29 @@
+Middle East
+Asia
+PRESENT
+0.116
+0.160
+0.396
+0.086
+A1B 2025
+0.092
+0.040
+0.342
+0.232
+A1B_HIGH 2025
+0.112
+0.076
+0.401
+0.248
+A1B 2050
+0.083
+0.000
+0.310
+0.225
+A1B_HIGH 2050
+0.088
+0.000
+0.326
+0.238
+Fig. 6. The ER values for 2000 for the Middle East/Turkey (top left) and Asian (bottom left) regions as calculated in the multi-model ensemble. The changes in the ER for 2025
+(middle) and 2050 (right) for the A1B scenario are also shown for each region.

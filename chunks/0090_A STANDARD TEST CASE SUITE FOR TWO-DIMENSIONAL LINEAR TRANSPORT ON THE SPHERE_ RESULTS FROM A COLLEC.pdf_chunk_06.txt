@@ -1,0 +1,8 @@
+for climate and climate–chemistry applications. In addition,
+algorithmic considerations that may be important for com-
+putational efﬁciency are reported on. The latter is inevitably
+computing platform dependent.
+The ensemble of results from a wide variety of schemes
+presented here helps shed light on the ability of the test case
+suite diagnostics and ﬂow settings to discriminate between
+algorithms and provide insights into accuracy in the context

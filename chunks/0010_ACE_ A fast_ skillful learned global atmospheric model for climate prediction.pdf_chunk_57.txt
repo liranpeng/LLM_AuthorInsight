@@ -1,0 +1,38 @@
+zs
+Surface height of topography
+m
+Invariant
+fl
+Land grid cell fraction
+−
+Invariant
+fo
+Ocean grid cell fraction
+−
+Snapshot
+fsi
+Sea-ice grid cell fraction
+−
+Snapshot
+Diagnostic (output only)
+Symbol
+Description
+Units
+Time
+USWRFtoa
+Upward shortwave radiative flux at TOA
+W/m2
+Mean
+ULWRFtoa
+Upward longwave radiative flux at TOA
+W/m2
+Mean
+USWRFsfc
+Upward shortwave radiative flux at surface
+W/m2
+Mean
+ULWRFsfc
+Upward longwave radiative flux at surface
+W/m2
+Mean
+DSWRFsfc

@@ -1,0 +1,34 @@
+european-air-quality-database-7
+*CASTNET stations are used only as a validation data set and are not included in the interpolation over the US.
+ 120 ° W 
+ 110 ° W 
+ 100 ° W 
+  90 ° W 
+  80 ° W 
+  70 ° W 
+25 ° N 
+ 30 ° N 
+ 35 ° N 
+ 40 ° N 
+ 45 ° N 
+ 50 ° N 
+a)     µ  = 44 ± 7 ppb
+ 10 ° W 
+  0 °   
+ 10 ° E 
+ 20 ° E 
+ 30 ° E 
+ 40 ° N 
+ 50 ° N 
+ 60 ° N 
+ 70 ° N 
+b)     µ  = 35 ± 6 ppb
+ 
+ 
+15
+25
+35
+45
+55
+65
+Figure 1. Location of surface-O3-monitoring stations and their

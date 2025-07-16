@@ -1,0 +1,9 @@
+mid-latitudes, CO-tracer mixing ratios are largest in boreal
+spring and in the southern mid-latitudes in boreal autumn.
+Elsewhere CO-tracer mixing ratios have a fairly uniform sea-
+sonal cycle.
+During winter, large CO-tracer mixing ratios are found
+near the Equator, with decadal-average values of more than
+60 ppb extending from the surface to ∼700 hPa and up to
+40 ppb in the mid-upper tropical troposphere in all four
+CCMs (Fig. 2). In summer, CO-tracer mixing ratios are lower

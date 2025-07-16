@@ -1,0 +1,9 @@
+DLR E39C, and CHASER in the stratosphere in high south-
+ern latitudes.
+Local maxima in the deviation are also seen in the tropical
+tropopause region, which is largely inﬂuenced by convective
+processes. Convection, in turn is treated differently by the
+models, which contributes to the different behavior of the
+models in that region. Also, small shifts in the tropopause
+height lead to large relative deviations in the zonal mean dis-
+tribution in the upper troposphere/lower stratosphere region.

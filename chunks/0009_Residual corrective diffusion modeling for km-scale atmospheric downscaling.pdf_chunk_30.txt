@@ -1,0 +1,7 @@
+Figure 3 illustrates the variability of the generated radar reflectivity
+field on four separate dates corresponding to distinct Taiwanese
+weather events. Two dates are chosen randomly (Fig. 3e–l). The
+other two correspond to dates where coherent events such as
+typhoon (Fig. 3a–d) and frontal event (Fig. 3m–p) are present; these
+dates are further analyzed in the following sections and more
+examples of both of these phenomena are provided in the

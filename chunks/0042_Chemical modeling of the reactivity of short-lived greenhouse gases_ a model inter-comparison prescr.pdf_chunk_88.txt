@@ -1,0 +1,8 @@
+8–10 % of the average reactivity, which is about half of that
+across the three models used in the reference case. Using this
+criterion (< 20 %) for distinctness, we effectively have only
+four independent distinctly different models here: GFDL,
+GISS, NCAR and the GSFC–GC–UCI group. The four mod-
+els all differ from one another at the 30–100 % level of the
+UCI year-to-year variations. However, in terms of the over-
+all average reactivities (Table 3), the different years of the

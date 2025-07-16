@@ -1,0 +1,5 @@
+21 sub-bins (denoted SJ/LLNL). The CLIRAD code (Chou & Suarez, 1999, revised with HITRAN 2012 data), 
+used until recently by the Goddard Space Flight Center climate model, has three IR bands (0.70–10.0 μm) 
+including a total of 30 sub-bins (denoted SJ/CLIRAD).
+We compare these codes by running their SJ variants with only water vapor as an absorber in the IR and 
+clear skies (no clouds or aerosols, see Figure 1a). Compared to SJ, SJ/CLIRAD, and SJ/LLNL have about 5

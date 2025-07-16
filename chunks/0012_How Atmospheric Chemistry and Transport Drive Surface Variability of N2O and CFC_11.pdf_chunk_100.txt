@@ -1,0 +1,4 @@
+With GMI and UCI also running tracer F11X, we assemble similar diagnostics for surface F11X and find 
+surprising results (see supplementary Figure S3 and Table S2). The surface patterns for F11X match those 
+of their N2OX counterparts nearly exactly but with twice the amplitude. The cc values of F11X versus N2OX 
+within each model range from 0.96 to 1.00 for the annual, QBO composite, or the 2010 anomalous QBO

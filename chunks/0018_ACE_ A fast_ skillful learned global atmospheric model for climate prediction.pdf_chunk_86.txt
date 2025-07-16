@@ -1,0 +1,9 @@
+violation is up to magnitude 0.4 mm/day.
+We also consider the conservation of global dry air mass. Surface pressure due to dry air only is
+pdry
+s
+= ps −g · TWP.
+(8)
+On the timescales we are considering, there is no flux of dry air mass through the top of atmosphere
+or through the Earth’s surface. Therefore, the global mean surface pressure due to dry air should
+remain exactly constant. Indeed this is the case for the reference model. The right panel of Figure 11

@@ -1,0 +1,4 @@
+In terms of phasing between the hemispheres, GMI has the best NH-SH phase shift, keeping opposite signs 
+in the hemispheres, while LMDz5 and UCI (both using ECMWF products) have much less phase shift 
+between hemispheres. The observed NH-SH difference in amplitude is only matched by UCI, indicating 
+that LMDz5's meteorological fields have distinctly different STE fluxes, at least in the NH over a QBO cycle.

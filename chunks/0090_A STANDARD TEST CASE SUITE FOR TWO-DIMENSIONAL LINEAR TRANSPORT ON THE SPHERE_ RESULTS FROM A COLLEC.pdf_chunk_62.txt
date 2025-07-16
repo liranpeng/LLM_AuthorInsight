@@ -1,0 +1,8 @@
+is limited; the theoretical stable CN limitation for linear re-
+construction functions is 0.5 (Fig. 3 middle; Lauritzen et al.,
+2011a). However, in practice ICON is stable up to CN of
+approximately 0.8. The reconstruction polynomial is ﬁrst-
+order (linear), and the coefﬁcients are estimated using a con-
+servative and weighted least squares reconstruction method
+(Ollivier-Gooch and van Altena, 2002). Shape preservation
+in ICON-FFSL is obtained by using FCT, and tracer–air-

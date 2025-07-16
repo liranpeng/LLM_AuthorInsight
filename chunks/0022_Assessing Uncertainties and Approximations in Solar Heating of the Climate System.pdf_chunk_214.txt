@@ -1,0 +1,6 @@
+55(1), 128–134.
+Briegleb, B. P. (1992). Delta-Eddington approximation for solar-radiation in the NCAR community climate model. Journal of Geophysical 
+Research, 97(D7), 7603–7612.
+Chandrasekhar, S. (1950). Radiative transfer (pp. 393). Oxford University Press.
+Chou, M.-D., & Suarez, M. J. (1999). A solar radiation parameterization (CLIRAD-SW) developed at Goddard climate and radiation branch 
+for atmospheric studies. NASA Technical Memorandum NASA/TM-1999-104606, 15, 48.

@@ -1,0 +1,8 @@
+violet and visible wavelengths (0.18 to 0.8 µm), which is
+based on previously established experience with O2 and O3
+cross sections and the need to calculate accurate J values.
+We accept that RRTMG-SW and its parent code RRTM rep-
+resent current best practice and accuracy in characterizing
+the absorption of infrared sunlight (0.8 to 12 µm) in the
+Earth’s atmosphere and have adopted the RRTMG-SW code
+exactly for bins and all gaseous absorbers. Solar-J’s compu-

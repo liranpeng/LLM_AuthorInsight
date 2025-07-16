@@ -1,0 +1,8 @@
+sphere and gross primary productivity, Sci. Rep.-UK, 7, 13180,
+https://doi.org/10.1038/S41598-017-12774-W, 2017.
+McNorton, J. R., Bousserez, N., Agustí-Panareda, A., Balsamo, G.,
+Choulga, M., Dawson, A., Engelen, R., Kipling, Z., and Lang, S.:
+Representing model uncertainty for global atmospheric CO2 ﬂux
+inversions using ECMWF-IFS-46R1, Geosci. Model Dev., 13,
+2297–2313, https://doi.org/10.5194/gmd-13-2297-2020, 2020.
+Nakazawa, T.: Current understanding of the global cycling of car-

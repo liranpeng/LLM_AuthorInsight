@@ -1,0 +1,44 @@
+RCP2.6
+RCP4.5
+RCP6.0
+RCP8.5
+2000
+0.71 ± 0.11
+2030
+–0.05
+–0.04
+–0.04
+–0.03
+2050
+–0.10
+–0.05
+–0.07
+2100
+–0.11
+–0.11
+–0.09
+–0.12
+South Asia
+Year 
+RCP2.6
+RCP4.5
+RCP6.0
+RCP8.5
+2000
+1.02 ± 0.11
+2030
+0.04
+0.02
+0.03
+0.05
+2050
+–0.05
+0.07
+0.00
+2100
+–0.16
+–0.24
+–0.06
+–0.11
+Notes:
+Decadal average of the log10[PM2.5] values are given only where results include at least four models from either ACCMIP or CMIP5. Results are from A. Fiore and V. Naik based on Fiore et al. (2012)

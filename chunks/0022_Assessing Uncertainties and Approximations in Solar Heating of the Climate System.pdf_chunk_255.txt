@@ -1,0 +1,4 @@
+Quantitative Spectropscoy, 112(2011), 2630–2637.
+Szépszó, G. V., & Carver, S. G. (2019). Using the ECMWF OpenIFS model and state-of-the art training techniques in meteorological educa-
+tion. Advances in Science and Research, 16, 39–47.
+Taylor, J. P., Edwards, J. M., Glew, M. D., Hignett, P., & Slingo, A. (1996). Studies with a flexible new radiation code. II: Comparisons

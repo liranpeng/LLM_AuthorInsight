@@ -1,0 +1,7 @@
+backward process. Our experiments indicated that these
+requirements hindered learning and compromised sample fidelity 
+53. This issue is particularly relevant for the downscaling task,
+which must account for large spatial shifts, correct biases in static
+features like topography, and synthesize entirely new channels like
+radar reflectivity. By comparison, the task of super-resolution in
+natural images is much simpler, as it typically involves local

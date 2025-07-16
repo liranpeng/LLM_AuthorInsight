@@ -1,0 +1,8 @@
+models (GC, GFDL, GISS, GMI, UKCA) show a dom-
+inant peak at rlnJ ∼0 while the large-cloud-effects mod-
+els (IFS, MOCA, NCAR, UCI, UCIb) have extensively en-
+hanced J values with large fractions at +25 % or more. In
+the marine boundary layer (surface–900 hPa), this pattern is
+reversed with a sharp edge for all models at rlnJ ∼+0.03,
+and the large-cloud-effects models showing more dimin-
+ished J values. CAFS / TUV has its own pattern, which is

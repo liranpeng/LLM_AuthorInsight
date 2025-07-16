@@ -1,0 +1,8 @@
+Model Intercomparison Project (CFMIP) and which allow
+for a 3-D characterisation of cloud fraction, cloud liquid wa-
+ter path and cloud as well as ice number concentrations. The
+ﬁxed SST approach can be further applied with additional
+radiation calls to diagnose the various aerosol–cloud effects
+(Ghan et al., 2012). Most models will provide all-sky and
+clear-sky radiative ﬂuxes, by computing ﬂuxes with a re-
+peated double call to the radiation routine neglecting cloud

@@ -1,0 +1,44 @@
+Units
+Time
+Tk
+Air temperature
+K
+Snapshot
+qT
+k
+Specific total water (vapor + condensates)
+kg/kg
+Snapshot
+uk
+Windspeed in eastward direction
+m/s
+Snapshot
+vk
+Windspeed in northward direction
+m/s
+Snapshot
+Ts
+Skin temperature of land or sea-ice
+K
+Snapshot
+ps
+Atmospheric pressure at surface
+Pa
+Snapshot
+Forcing (input only)
+Symbol
+Description
+Units
+Time
+DSWRFtoa
+Downward shortwave radiative flux at TOA
+W/m2
+Mean
+Ts
+Skin temperature of open ocean
+K
+Snapshot
+zs
+Surface height of topography
+m
+Invariant

@@ -1,0 +1,9 @@
+Weather Rev., 117, 102–129, 1989.
+Wiscombe, W. J.: Mie scattering calculations: advances in tech-
+nique and fast, vector-speed computer codes, Atmospheric Anal-
+ysis and Prediction Division, National Center for Atmospheric
+Research, 1979.
+Wiscombe, W. J.: Improved Mie scattering algorithms, Appl. Opt.,
+19, 1505–1509, 1980.
+Yumimoto, K., Uno, I., Sugimoto, N., Shimizu, A., Liu, Z., and
+Winker, D. M.: Adjoint inversion modeling of Asian dust emis-

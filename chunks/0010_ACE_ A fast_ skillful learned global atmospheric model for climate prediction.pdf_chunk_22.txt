@@ -1,0 +1,6 @@
+2.4
+Random seed ensemble
+Because long-term climate skill is not entirely constrained by the 6-hour prediction that is our training
+objective, we train an ensemble of 5 models which vary only in terms of their initialization random
+seed. Although validation loss is very similar between the models and all models are capable of stable
+10-year forecasts, the magnitude of climate biases varies by up to a factor of 4 (depending on output

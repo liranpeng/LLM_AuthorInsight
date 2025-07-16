@@ -1,0 +1,8 @@
+(Fig. 10). The lidar–radar synergy will provide, for each
+ATR box, the cloud fraction and the distribution of cloud
+geometric and optical properties at cloud base. The second,
+vertically pointing ATR cloud radar allows a characteriza-
+tion of the aspect ratio of clouds, which may help infer the
+mesoscale circulations within the cloud ﬁeld. These mea-
+surements, associated with new methods developed to es-
+timate the cloud-base mass ﬂux (Vogel et al., 2020), and

@@ -1,0 +1,6 @@
+launches at the designated points.
+b. Supporting tools and observations
+A key element of CSET was the EOL Field Catalog II (http://catalog.eol.ucar.edu/cset). The 
+Field Catalog was used extensively for mission planning, real-time access to aircraft 
+observations and satellite products during the missions, and for posting reports of mission 
+planning, operations, and summaries. The catalog was used for documentation of the

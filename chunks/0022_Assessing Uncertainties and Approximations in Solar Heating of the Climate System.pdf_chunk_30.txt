@@ -1,0 +1,3 @@
+sub-bins. Differences are relative to standard Solar-J (SJ). RRTM refers to the very high-resolution (SJ/RRX in Table S1); CLIRAD and LLNL, to the courser 
+resolutions (SJ/CLIRAD and SJ/LLNL). (b) All sky with averaged clouds and no infrared (IR) gas absorption, emphasizing the resolution of cloud absorption. 
+Differences are relative to SJ-66b (high-resolution infrared bins for clouds). SJ/noIR has the standard 9 IR RRTMG bands, and SJ/CLIRAD/noIR has 3. (c)

@@ -1,0 +1,11 @@
+extends more to values <0; and that the N. Pacific for <900 hPa has a large number of cloud enhanced J-values (rlnJ 
+>0).  The CAFS data were binned at 0.01 rlnJ and smoothed with a 1-2-1 filter six times. 
+ 
+ 
+ 
+ 
+6 
+ 
+ 
+Figure S6.  Averaged cloud optical depth (COD, at ~600 nm and per 100 hPa) and cloud fraction (CF) over the two 
+geographic blocks studied here blocks (Tropical Pacific, 20 ºS – 20 ºN x 160 ºE – 240 ºE, and North Pacific, 20 ºN –

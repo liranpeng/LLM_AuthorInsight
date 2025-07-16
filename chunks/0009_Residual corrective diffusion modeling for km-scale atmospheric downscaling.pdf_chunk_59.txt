@@ -1,0 +1,12 @@
+optimization techniques44,45.
+If some of the above challenges in the model are resolved, several
+potential extensions of the proposed method are worth
+consideration by the community:
+1. 1.
+Downscaling coarse-resolution medium-range forecasts: This
+requires addressing lead time-dependent forecast errors in the
+input, enabling a comprehensive evaluation of simultaneous
+bias correction and downscaling, and adding temporal
+coherence and km-scale prediction and data assimilation
+capabilities.
+2. 2.

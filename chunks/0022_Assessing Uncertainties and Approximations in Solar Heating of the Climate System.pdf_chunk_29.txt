@@ -1,0 +1,5 @@
+HSU AND PRATHER
+10.1029/2020MS002131
+3 of 24
+Figure 1.  Monthly zonal mean flux differences (W m−2) as a function of latitude for January 2015 with three vertical panels showing reflected, atmospheric 
+absorption, and net surface heating (top down). (a) Case study for H2O-gas absorption and clear sky, comparing models with different numbers of infrared

@@ -1,0 +1,4 @@
+between UCI and GMI carries over to F11X in proportion to the mean loss frequency. Thus, the systematic 
+UCI-GMI difference in annual mean tropical upwelling is consistent throughout the stratosphere. The most 
+obvious N2OX-F11X disagreement occurs in 2010, with the F11X peak loss reached nearly a full year before 
+the corresponding N2OX peak loss. Interestingly, the timing of this F11X peak in GMI and UCI agree with

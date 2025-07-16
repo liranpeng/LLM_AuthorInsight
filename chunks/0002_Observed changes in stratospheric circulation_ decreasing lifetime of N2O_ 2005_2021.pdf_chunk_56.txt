@@ -1,0 +1,8 @@
+References
+Abalos, M., Calvo, N., Benito-Barca, S., Garny, H., Hardiman, S.
+C., Lin, P., Andrews, M. B., Butchart, N., Garcia, R., Orbe, C.,
+Saint-Martin, D., Watanabe, S., and Yoshida, K.: The Brewer–
+Dobson circulation in CMIP6, Atmos. Chem. Phys., 21, 13571–
+13591, https://doi.org/10.5194/acp-21-13571-2021, 2021.
+Bernath P. F., Steffen J., Crouse J., and Boone C. D.: Sixteen-year
+trends in atmospheric trace gases from orbit, J. Quant. Spectrosc.

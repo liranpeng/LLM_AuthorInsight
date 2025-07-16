@@ -1,0 +1,6 @@
+deployments. The cross marks the mean (in log space), and the ellipse is ﬁtted to the rotated PD having the smallest semi-minor axis. The
+semi-minor and semi-major axes are 2 standard deviations of PD in that direction. The ellipses from ATom-2 (red), ATom-3 (blue) and
+ATom-4 (dark green) are also plotted in the ATom-1 quadrant.
+largest reactivities (0–4 km, 1–3 ppb/d) are not so well corre-
+lated with HCHO.
+As is usual with new model intercomparison projects, we

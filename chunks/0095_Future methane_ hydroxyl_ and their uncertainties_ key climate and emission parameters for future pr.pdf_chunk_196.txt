@@ -1,0 +1,9 @@
+doi:10.1175/JCLI-D-11-00015.1, 2011.
+Sauvage, B., Martin, R. V., van Donkelaar, A., Liu, X., Chance, K.,
+Jaegle, L., Palmer, P. I., Wu, S., and Fu, T. M.: Remote sensed and
+in situ constraints on processes affecting tropical tropospheric
+ozone, Atmos. Chem. Phys., 7, 815–838, doi:10.5194/acp-7-815-
+2007, 2007.
+Schultz, M. G., Heil, A., Hoelzemann, J. J., Spessa, A., Thon-
+icke, K., Goldammer, J. G., Held, A. C., Pereira, J. M. C.,
+and van het Bolscher, M.: Global wildland ﬁre emissions

@@ -1,0 +1,8 @@
+sity underestimated by the direct model run. The stations in
+the east, like in Lampedusa and Cyprus, were not inﬂuenced
+by these dust events. They are mostly inﬂuenced by sea salt
+aerosols, and the data assimilation also has a positive im-
+pact here. The assimilation model run, with only two MODIS
+overpasses per day, also shows improved hourly variations of
+AOD in these stations. These variations are not clearly visi-
+ble in the model direct run, but they are present in AERONET

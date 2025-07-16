@@ -1,0 +1,10 @@
+i
+for
+the shape-preserving version of the scheme, where i = 2,∞.
+Gaussian hills and the non-divergent ﬂow ﬁeld are used for
+the initial conditions. Normalized error norms are computed
+after one period (T ) when the analytical solution is readily
+available. The initial condition is inﬁnitely smooth (C∞) so
+that the smoothness of the initial condition is not a limiting
+factor for numerical convergence rates. With C1 initial condi-
+tions, for example, one cannot necessarily expect to achieve

@@ -1,0 +1,8 @@
+value, with a secondary peak above 1 ppb d−1. The very low
+values of L-CH4 simply reﬂect the sampling of the upper tro-
+posphere, where the OH + CH4 rate coefﬁcient proportional
+to exp(−1775/T ) is very small. Thus, the L-CO PD, which
+is also proportional to OH, peaks at higher values. Restrict-
+ing our PDs to the three tropical regions (Figs. 44–47), we
+ﬁnd some distinct deployments (e.g., low P-O3 in the central
+Paciﬁc for ATom-1, high P-O3 in the tropical Atlantic for

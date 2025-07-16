@@ -1,0 +1,9 @@
+in an appropriate grid cell of each model, turns off processes
+that mix adjacent grid cells, and integrates the 3-D model for
+24 h (see P2017). The photochemical module is thus depen-
+dent only on the chemical mechanism and the diurnal cycle
+of photolysis rates, which are driven in turn by temperature,
+water vapor, solar zenith angle, clouds, possibly aerosols and
+overhead ozone, which are calculated as they would be in
+each model.
+Typical 3-D multi-model evaluations cannot separate dif-

@@ -1,0 +1,8 @@
+Most of the CCMs included stratospheric chemistry only,
+while the newer generation CCMs available now encom-
+pass both tropospheric and stratospheric chemistry, with a
+few of these models being coupled to an ocean (John et al.,
+2012; Lamarque et al., 2013; Shindell et al., 2013c; Morgen-
+stern et al., 2016). The most recent comprehensive assess-
+ment of the performance of these CCMs regarding strato-
+spheric and tropospheric chemistry and dynamics is cur-

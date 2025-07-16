@@ -1,0 +1,5 @@
+for CMIP6 (BB4CMIP) based on merging satellite observations with proxies and ﬁre models (1750–2015). Geoscientiﬁc Model
+Development, 10, 3329–3357. https://doi.org/10.5194/gmd‐10‐3329‐2017
+Vuille, M., Burns, S. J., Taylor, B. L., Cruz, F. W., Bird, B. W., Abbott, M. B., et al. (2012). A review of the South American monsoon history
+as recorded in stable isotopic proxies over the past two millennia. Climate of the Past, 8, 1309–1321. https://doi.org/10.5194/cp‐8‐1309‐
+2012

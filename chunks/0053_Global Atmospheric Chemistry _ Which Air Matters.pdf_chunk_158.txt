@@ -1,0 +1,8 @@
+J-values are being measured by ATom and can be analyzed
+on a case-by-case basis (Palancar et al., 2011) to assess the
+role of clouds in determining instantaneous reactivity. To be
+useful as a climatology, the models would need to develop
+statistics on how the observed J-values (with clouds) devi-
+ated from clear-sky (modeled) values, thus checking if the
+photolysis effect of the cloud statistics in the models is sim-
+ilar that observed. In this case ATom is probably one of the

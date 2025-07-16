@@ -1,0 +1,11 @@
+mass conservation (Taylor and Fournier, 2010). Time step-
+ping in HOMME is via an explicit three-stage strong sta-
+bility preserving Runge–Kutta method. For shape preserva-
+tion φ = (ρφ)
+ρ
+is recovered after each Euler time step in the
+Runge–Kutta method. The quasi-monotone limiter (shape-
+preserving ﬁlter) for φ is based on an optimization problem
+with equality and inequality constraints (Taylor et al., 2009;
+Guba et al., 2013).
+There is a signiﬁcant dependency of the simulation quality

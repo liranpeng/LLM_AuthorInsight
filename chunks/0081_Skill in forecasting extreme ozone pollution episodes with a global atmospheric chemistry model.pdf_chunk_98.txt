@@ -1,0 +1,10 @@
+some cases (e.g., Coles, 2001). While the top 2.7 % of O3
+MDA8 may seem extreme, most of these events occur during
+the summer, and hence the AQX events are essentially the
+upper 10 % of summer days. In general, the wider the range
+for deﬁning an extreme event, the easier it will be for the
+model to simulate.
+4.2
+Skill of the CTM
+We deﬁne the skill of the CTM for each grid cell as the per-
+centage of events that match the day of the observed AQX

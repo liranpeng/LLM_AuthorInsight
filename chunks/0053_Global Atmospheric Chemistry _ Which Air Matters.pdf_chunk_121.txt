@@ -1,0 +1,48 @@
+P-O3 (Mmol d-1 bin-1)
+(d) Air (petamol bin
+)
+-1
+L-CH4 (Mmol d-1 bin-1)
+0.5
+5
+1
+10
+50
+100
+500
+NOX (ppt)
+0.2
+0.4
+0.6
+0
+0.1
+0.2
+0.3
+0
+0.1
+0.2
+0.3
+0.4
+0
+0.2
+0.4
+0.6
+0.8
+0
+2.5
+25
+250
+0.5
+1.0
+B
+C
+D
+A
+E
+F
+L-O3 (Mmol d-1 bin-1)
+P-O3 (Mmol d-1 bin-1)
+(b) AIR (petamol bin-1)
+L-CH4 (Mmol d-1 bin-1)
+L-O3 (Mmol d-1 bin-1)
+Figure 5. Six modeled 1-D probability distributions for O3, CO, NOx, and HCHO, where the air parcels have been weighted by air mass

@@ -1,0 +1,9 @@
+AII.2: Anthropogenic Emissions
+Table AII.2.1a: Anthropogenic CO2 emissions from fossil fuels and 
+other industrial sources (FF) (PgC yr–1)
+Table AII.2.1b: Anthropogenic CO2 emissions from agriculture, ­forestry,
+land use (AFOLU) (PgC yr–1)
+Table AII.2.1c: Anthropogenic total CO2 emissions (PgC yr–1)
+Table AII.2.2: Anthropogenic CH4 emissions (Tg yr–1)
+Table AII.2.3: Anthropogenic N2O emissions (TgN yr–1)
+Table AII.2.4: Anthropogenic SF6 emissions (Gg yr–1)

@@ -1,0 +1,8 @@
+reported as 10 s values, with some being averaged or sampled
+at 30 s or longer such as ∼90 s for some ﬂask measurements.
+Throughout ATom, gaps occur in individual species on a
+range of timescales due to calibration cycles, sampling rates,
+or instrument malfunction. The generation of the MDS uses
+a range of methods to ﬁll these gaps and assigns a ﬂag index
+to each species and data point to allow users to identify di-
+rect measurements and methods used for gap-ﬁlling. Where

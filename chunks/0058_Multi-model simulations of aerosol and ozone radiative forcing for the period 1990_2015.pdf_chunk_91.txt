@@ -1,0 +1,8 @@
+Lamarque, J.-F., Gettelman, A., Morrison, H., Vitt, F., Conley,
+A., Park, S., Neale, R., Hannay, C., Ekman, A. M. L., Hess, P.,
+Mahowald, N., Collins, W., Iacono, M. J., Bretherton, C. S., Flan-
+ner, M. G., and Mitchell, D.: Toward a minimal representation
+of aerosols in climate models: description and evaluation in the
+Community Atmosphere Model CAM5, Geosci. Model Dev., 5,
+709–739, doi:10.5194/gmd-5-709-2012, 2012.
+Liu, X. H., Penner, J. E., Das, B. Y., Bergmann, D., Rodriguez,

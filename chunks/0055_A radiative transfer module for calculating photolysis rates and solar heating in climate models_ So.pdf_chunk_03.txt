@@ -1,0 +1,8 @@
+to eighth order and thus avoids isotropic-equivalent approx-
+imations prevalent in most solar heating codes. The spectral
+extension from 0.8 to 12 µm enables calculation of both scat-
+tered and absorbed sunlight and thus aerosol direct radiative
+effects and heating rates throughout the Earth’s atmosphere.
+The Solar-J extension adopts the correlated-k gas ab-
+sorption bins, primarily water vapor, from the shortwave
+Rapid Radiative Transfer Model for general circulation

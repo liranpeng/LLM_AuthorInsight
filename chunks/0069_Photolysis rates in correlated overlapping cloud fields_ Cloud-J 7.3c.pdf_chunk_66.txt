@@ -1,0 +1,8 @@
+PropAld: propionaldehyde, GlyAld: glycol aldehyde, ActAld: ac-
+etaldehyde, MEKeto: methylethyl ketone, MeVK: methylvinyl ke-
+tone, MeOOH: CH3OOH, MeAcr: methacrolein, MeNO3: methyl
+nitrate, and PAN: peroxyacetyl nitrate.
+photolysis cross sections (for dissociation) are a function of
+wavelength, temperature, and pressure (P), typically of the
+form A(T,v)/(1 + B(T,v)P), where A and B can be ratio-
+nal polynomial functions of T and ν (see Sander et al., 2011).

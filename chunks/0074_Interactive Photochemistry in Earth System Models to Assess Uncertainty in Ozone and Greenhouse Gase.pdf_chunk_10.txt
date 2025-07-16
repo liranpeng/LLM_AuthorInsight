@@ -1,0 +1,25 @@
+stratospheric climate and ozone abundances. From
+the UCI side, this proposal also helped LLNL
+develop a CAM-Superfast Chemistry model that was
+implemented for the IPCC AR5 and contributed
+chemical-climate simulations to CMIP5.}, doi =
+{10.2172/1163479}, url = {https://www.osti.gov/
+biblio/1163479}, place = {United States}, year =
+{2014}, month = {11}}
+🗎 Copy to clipboard
+Export 
+•  Endnote
+•  RIS
+•  CSV/Excel
+•  XML
+•  JSON
+Share 
+•  
+ Facebook
+•  
+ Twitter / X
+•  
+ LinkedIn
+•  
+ Email
+Save

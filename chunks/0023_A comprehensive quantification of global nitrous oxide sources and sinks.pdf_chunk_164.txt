@@ -1,0 +1,8 @@
+tion are still lacking, although we have accounted for N2O emissions due 
+to the drainage of organic soils (histosols) obtained from FAOSTAT and 
+GAINS databases28,41. Recent evidence shows that permafrost thawing97 
+and the freeze–thaw cycle98 contribute to increasing N2O emissions; 
+however, are not well established in the current estimates of the global 
+N2O budget.
+Statistics
+The Mann–Kendall test in R-3.4.4 was used to assess the significance

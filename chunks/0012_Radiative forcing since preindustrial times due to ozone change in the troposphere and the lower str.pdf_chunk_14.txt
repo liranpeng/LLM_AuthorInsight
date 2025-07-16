@@ -1,0 +1,8 @@
+altitude (Wang and Sze, 1980; Lacis et al., 1990; Forster and
+Shine, 1997; Hansen et al., 1997) and the horizontal distri-
+bution (Berntsen et al., 1997) of the ozone change. There
+are inadequate observations of the changes in tropospheric
+ozone on a global scale, even for recent decades, and this
+necessitates the use of models to estimate the changes. As
+ozone exhibits a highly spatially inhomogeneous distribu-
+tion, 3-D atmospheric models have been applied to estimate

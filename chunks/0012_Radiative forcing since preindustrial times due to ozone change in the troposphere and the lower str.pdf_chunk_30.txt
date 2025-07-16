@@ -1,0 +1,9 @@
+(ULAQ, DLR E39C, NCAR MACCM, and UIO CTM2).
+In CHASER, stratospheric ozone trends are prescribed us-
+ing the method of Randel and Wu (1999) with effec-
+tive equivalent stratospheric chlorine loadings correspond-
+ing to the speciﬁcations of this experiment (see Sect. 2.2).
+FRSGC UCI uses linearized ozone chemistry following Mc
+Linden et al. (2000). The other models prescribe or nudge
+ozone based on climatological data.
+Detailed evaluations of the models used in this study are

@@ -1,0 +1,8 @@
+semble of six different atmospheric chemistry models, each
+simulating the atmospheric chemical composition in a possi-
+ble high emission scenario (A1B), and with emissions from
+each transport sector reduced by 5 % to estimate sensitivities.
+Our results are compared with optimistic future emission sce-
+narios (B1 and B1 ACARE), presented in a companion paper,
+and with the recent past (year 2000). Present-day activity in-
+dicates that anthropogenic emissions so far evolve closer to

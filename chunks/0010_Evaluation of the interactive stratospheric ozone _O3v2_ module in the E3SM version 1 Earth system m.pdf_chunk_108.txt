@@ -1,0 +1,11 @@
+thus to maintain the same region of ozone depletion as O3v1
+Geosci. Model Dev., 14, 1219–1236, 2021
+https://doi.org/10.5194/gmd-14-1219-2021
+Q. Tang et al.: Interactive stratospheric ozone (O3v2) in E3SM
+1231
+Figure 11. The same as Fig. 10 but for 50–90◦S.
+we had to adjust the PSC threshold temperature from 193 to
+197.5 K.
+Beyond just ozone, we reviewed other climate diagnos-
+tics from EAMv1 O3v2, applying the same diagnostics as
+in the E3SMv1 overview papers (Golaz et al., 2019; Rasch

@@ -1,0 +1,10 @@
+for these bins as an extension to Cloud-J v7.4 to become
+Solar-J v7.5. Figure 1 shows the overlap of the spectral bins
+of Fast-J v7.3, Solar-J v7.5, and RRTMG-SW. Also shown is
+the revised Cloud-J v7.4 for which the long-wavelength edge
+of bin 18 has been shortened from 850 to 778 nm to match
+www.geosci-model-dev.net/10/2525/2017/
+Geosci. Model Dev., 10, 2525–2545, 2017
+2528
+J. Hsu et al.: A radiative transfer module
+the transition to RRTMG bins. The ﬂux-weighted cross sec-

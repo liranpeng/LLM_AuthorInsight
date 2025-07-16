@@ -1,0 +1,56 @@
+CH4 
+ 
+1760
+1760
+1750
+1740
+1750
+1760
+1760
+1760 1745 1760
+ 
+ 
+ 
+ 
+N2O 
+ 
+316
+316
+316
+300
+291
+-
+315
+- 
+315 
+316
+ 
+ 
+ 
+ 
+CO2 
+ 
+369 
+(278)
+376 
+(280)
+368
+(280)
+350
+-
+345
+(280)
+370
+(280)
+367
+(280)
+- 
+- 
+- 
+- 
+-
+-
+1) Only total emission numbers are available. 
+For this study it was decided that all models use their own
+emission inventories for the year 2000 simulations (see Ta-
+ble 2), as these inventories are well-tested for each model to

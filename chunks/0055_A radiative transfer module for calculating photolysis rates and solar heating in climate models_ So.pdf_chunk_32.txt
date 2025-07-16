@@ -1,0 +1,8 @@
+have no sub-bins. The transition bin S18 combines Cloud-
+J’s uniform treatment of Chappuis-band O3 absorption with
+four small non-overlapping sub-bins (17.5 out of a total of
+608.7 W m−2) to include RRTMG’s H2O and O2 absorptions
+from their bins B24–B25. These four sub-bins have strong
+cross sections with their own distinct optical depth struc-
+tures, and they do not overlap with the major O3 absorp-
+tion in bin S18. The rest of the non-ozone sub-bins (weak

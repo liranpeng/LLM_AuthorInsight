@@ -1,0 +1,8 @@
+L-CH4 (ppb d−1) versus HCHO (ppt) for the three tropical
+regions where most of the CH4 loss occurs. The relationship
+is linear but with a lot of scatter and has slopes ranging from
+3.5 to 4.4 per day over the three tropical regions, but for the
+largest reactivities (0–4 km, 1–3 ppb d−1), L-CH4 is not so
+well correlated with HCHO.
+As is usual with new model intercomparison projects, we
+have an opportunity to identify model “features” and iden-

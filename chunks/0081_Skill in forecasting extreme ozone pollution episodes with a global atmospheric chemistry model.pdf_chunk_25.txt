@@ -1,0 +1,10 @@
+10 yr (2000–2009) mean MDA8 (ppb) for (a) US (EPA AQS) and
+(b) EU (combined EMEP and AirBase). The mask for interpolating
+the 1◦× 1◦grid cells is also shown, with light gray indicating cells
+with QP < 0.67 used here (see text).
+2.1
+Choosing a method for interpolating grid-cell
+averages
+We develop an interpolation scheme that provides grid-cell-
+average values of surface O3 over the US and EU domains,
+essential to compare observations to a gridded model. Our

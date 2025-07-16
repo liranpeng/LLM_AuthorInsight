@@ -1,0 +1,68 @@
+HEL-ND-CN5.5
+HOMME-p3-CN0.26
+HOMME-p6-CN0.13
+FARSIGHT-CN1.0
+FARSIGHT-CN10.4
+UCISOM-CS-CN1.0
+ 0
+ 20
+ 40
+ 60
+ 80
+ 100
+ 120
+ 140
+ 
+0.2
+ 
+0.4
+0.6
+0.8
+1.0
+lf
+τ
+1.5°, unlimited and shape-preserving
+ 0
+ 20
+ 40
+ 60
+ 80
+ 100
+ 120
+ 140
+ 
+0.2
+ 
+0.4
+0.6
+0.8
+1.0
+lf
+τ
+0.75°, unlimited and shape-preserving
+Reg. lat-lon
+SBC-CN1.0
+SBC-CN5.2
+UCISOM-CN0.8
+UCISOM-CN5.5
+CAM-FV-CN0.2
+CAM-FV-CN1.2
+CCSRG-CN1.0
+CCSRG-CN5.7
+ 0
+ 20
+ 40
+ 60
+ 80
+ 100
+ 120
+ 140
+ 
+0.2
+ 
+0.4
+0.6
+0.8
+1.0
+lf
+τ

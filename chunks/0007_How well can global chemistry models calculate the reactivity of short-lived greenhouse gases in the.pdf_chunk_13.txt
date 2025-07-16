@@ -1,0 +1,8 @@
+tential causes of differences in model-simulated distributions
+of chemical tracers are many. The numerical algorithms and
+parameterizations for the transport, mixing, and thus disper-
+sion of emissions is clearly one cause (Prather et al., 2008;
+Lauritzen et al., 2014; Orbe et al., 2016); while photochemi-
+cal mechanisms that produce and destroy species are another
+(Olson et al., 1997; PhotoComp, 2010).
+This paper initiates a new technique for multi-model com-

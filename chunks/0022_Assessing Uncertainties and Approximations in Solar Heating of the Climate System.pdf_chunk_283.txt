@@ -1,0 +1,47 @@
+351.45 
+127.31 
+78.17 
+145.97 
+M1 
+10 
+SJ/δ0 
+flat-atmosphere, averaged 
+clouds, no ice clouds  
+351.41 
+127.04 
+77.95 
+146.41 
+M2 
+11,15 
+SJ/δ1 
+flat-atmosphere, averaged 
+clouds, no ice clouds  
+351.42 
+126.98 
+78.40 
+146.04 
+M3 
+12 
+SJ/δ2 
+flat-atmosphere, averaged 
+clouds, no ice clouds  
+351.42 
+126.99 
+78.22 
+146.20 
+M4 
+13,16 
+SJ/δ1/2S 
+flat-atmosphere, averaged 
+clouds, no ice clouds 
+351.42 
+126.30 
+76.66 
+148.46 
+M5 
+20 
+SJ 
+flat-atmosphere, averaged 
+clouds (all) 
+351.46 
+131.19

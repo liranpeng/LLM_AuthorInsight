@@ -1,0 +1,9 @@
+2526
+J. Hsu et al.: A radiative transfer module
+of aerosols and clouds (Boucher et al., 2013). In comparison,
+relatively little attention has been paid to improving the treat-
+ment of aerosol and cloud scattering in climate models. This
+is both surprising and not. Solutions of the radiative trans-
+fer (RT) equations in scattering media are well documented
+with numerous methods and readily available packages such
+as TUV (Tie et al., 2003; Palancar et al., 2011) and SCIA-

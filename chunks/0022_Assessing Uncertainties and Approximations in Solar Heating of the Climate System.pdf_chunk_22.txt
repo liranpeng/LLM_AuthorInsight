@@ -1,0 +1,5 @@
+Tripleclouds and 3D effects in a 1D solution. The Australian Community Climate and Earth System Simu-
+lator (ACCESS) has also adopted Tripleclouds (Franklin et al., 2013). The French ARPEGE-Climat model 
+(Séférian et al., 2018) has adopted the Z. H. Jin et al. (2011) ocean surface albedo model. With variants of 
+the Solar-J code we can compare many of these improvements including vertical cloud overlap, but the 3D 
+effects of H2016 are outside of Solar-J's current capability.

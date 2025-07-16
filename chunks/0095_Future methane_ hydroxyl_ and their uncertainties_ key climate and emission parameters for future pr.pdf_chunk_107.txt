@@ -1,0 +1,8 @@
+metric model (e.g. Fuglestvedt et al., 1999; Karlsdottir and
+Isaksen, 2000). Methyl chloroform analyses generally sug-
+gest large decreases in τCH4×OH during the 1980s followed
+by increases during the 1990s, which conﬂicts with the CTM
+results (Bousquet et al., 2005; Prinn et al., 2005). Assum-
+ing uncertainty of about 20 % in methyl chloroform emis-
+sions, however, reconciles the observations with the small
+trends found in CTMs and in our parametric model (Krol

@@ -1,0 +1,7 @@
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+3314
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements
+Figure 14. Curtain plots of P-O3 (ppb d−1) in the tropical central Paciﬁc (30◦S–30◦N) for ATom-1234. See Fig. 6. The dates of the ﬂight
+crossing the equatorial Paciﬁc for each deployment are given.
+Figure 15. Curtain plots of L-O3 (ppb d−1) in the tropical central Paciﬁc (30◦S–30◦N) for ATom-1234. See Fig. 6.
+timate its role in the global or even regional budgets. The

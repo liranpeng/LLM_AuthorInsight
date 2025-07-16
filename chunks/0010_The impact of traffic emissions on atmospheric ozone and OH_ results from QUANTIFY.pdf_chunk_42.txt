@@ -1,0 +1,66 @@
+Table 4. Participating models.
+Model
+TM4
+p-TOMCAT
+OsloCTM2
+LMDzINCA
+UCI-CTM
+E39/C
+Operated
+KNMI
+UCAM-DCHEM
+UiO
+LSCE
+UCI
+DLR
+Model Type
+CTM
+CTM
+CTM
+CCM (nudg)
+CTM
+CCM
+Meteorology
+ECMWF OD
+ECMWF OD
+ECMWF OD
+ECMWF OD
+ECMWF OD
+–
+Hor. Resolution
+2◦×3◦
+T21
+T42
+3.75◦×2.5◦
+T42
+T30
+Levels
+34
+31
+40
+19
+37
+39
+Model Top(hPa)
+10
+10
+10
+3
+2
+10
+Transport Scheme
+Russel-Lerner
+Prather
+Prather
+van Leer
+Prather
+Williamsen and Rasch
+Convection
+Tiedke
+Tiedke
+Tiedke
+Tiedke
+Tiedke
+Tiedke
+Lightning
+Meijer et al. (2001)

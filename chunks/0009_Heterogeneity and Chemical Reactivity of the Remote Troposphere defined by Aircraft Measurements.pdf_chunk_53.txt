@@ -1,0 +1,9 @@
+by the modeling groups and generated the same information
+on cross-model differences and a robust estimate of changes
+from RDS-0 to RDS-2.
+Statistics for the three reactivities for six models using
+MDS-0, 2 alternative UCI model years using MDS-0, the
+GMI model using MDS-1 and the UCI model using MDS-
+2 are given in Tables 2 and S8 for three domains: global
+(all points), Paciﬁc (oceanic data from 54◦S to 60◦N) and
+Atlantic (same constraints as Paciﬁc). UCI MDS-1 is sim-

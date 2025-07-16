@@ -1,0 +1,10 @@
+climate scenarios. The range of future surface temperatures
+in the CMIP5 ensemble is propagated to uncertainty in fu-
+ture air temperature and water vapor using regression ﬁt-
+ting errors from the historical reanalysis. In 2100, we cal-
+culate air temperature and water vapor to be 3.6 ± 0.9 K
+and 43.2 ± 9.5 % larger than 2010, respectively. For trop-
+ical stratospheric ozone, multiple models predict recovery
+www.atmos-chem-phys.net/13/285/2013/
+Atmos. Chem. Phys., 13, 285–302, 2013
+296

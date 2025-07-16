@@ -1,0 +1,29 @@
+from Admission to Surgery
+2977
+European Journal of Orthopaedic Surgery & Traumatology (2024) 34:2973–2980	
+Table 4   Patient characteristics and mortality—time of fall to surgery subgroup
+a Mean (SD); n/N (%)
+b One-way ANOVA
+c Pearson's Chi-squared test
+Characteristic
+ < 12 h, N = ­693a
+12–23 h, N = 3,461a
+24–47 h, N = 4,405a
+48–72 h, N = 1,033a
+ > 72 h, N = 1,067a
+p-value
+Time fall to surgery
+8 (2)
+19 (3)
+32 (7)
+57 (8)
+271 (395)
+< 0.001b
+Age
+82 (9)
+82 (8)
+82 (8)
+82 (8)
+82 (9)
+0.003b
+Sex

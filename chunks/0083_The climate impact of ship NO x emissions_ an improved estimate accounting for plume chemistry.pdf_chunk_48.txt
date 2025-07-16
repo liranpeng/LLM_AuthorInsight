@@ -1,0 +1,10 @@
+assumption. These column perturbations are not strictly pro-
+portional to the OPE across scenarios because the lifetime of
+O3 increases towards the poles. Previous CTM studies using
+instant dilution found 0.14–0.2 DU enhancements for emis-
+sions of 1 Tg(N) yr−1 (Hodnebrog et al., 2011; Hoor et al.,
+2009), which encompasses our estimate under instant dilu-
+tion.
+3.2
+Methane oxidation
+NOx emissions affect OH concentrations and CH4 oxidation

@@ -1,0 +1,32 @@
+2◦× 2.5◦× 40L
+clim, MDS-0
+GMI
+GMI-CTM
+CTM
+MERRA
+1◦× 1.25◦× 72L
+clim, MDS-0
+GC
+GEOS-Chem
+CTM
+MERRA-2
+2◦× 2.5◦× 72L
+clim, MDS-0
+NCAR
+CAM4-Chem
+CCM
+Nudged to MERRA
+0.47◦× 0.625◦× 52L
+clim, MDS-0 & 2b
+UCI
+UCI-CTM
+CTM
+ECMWF IFS Cy38r1
+T159N80 × L60
+MDS-0
+F0AM
+F0AM
+box
+MDS + scaled ATom Js
+n/a
+The descriptions of models used in the paper. The ﬁrst column denotes if the model’s August climatology is used (“clim”) and also the MDS versions used.

@@ -1,0 +1,24 @@
+MDS-0
+F0AM
+F0AM
+box
+MDS + scaled ATom Js
+n/a
+The descriptions of models used in the paper. The ﬁrst column denotes if the model’s August climatology is used (“clim”) and also the MDS versions used.
+F0AM used chemical mechanism MCMv331 plus J-HNO4 plus O1D)+CH4. For the global models, see P2017, P2017 and H2018. n/a – not applicable
+Table 2. Reactivity statistics for the three large domains (global, Paciﬁc, Atlantic).
+Value
+Region
+MDS-0
+MDS-1
+MDS-2
+F0AM
+GC
+GISS
+GMI
+NCAR
+UCI
+U15
+U97
+GMI1
+UCI2

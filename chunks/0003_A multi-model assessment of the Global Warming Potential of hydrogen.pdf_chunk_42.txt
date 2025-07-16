@@ -1,0 +1,10 @@
+it alone would contribute
+an
+uncertainty of ±2.1 (assuming a standard deviation on the soil
+sink of ±15 Tg yr−1 based on published soil sink values5,17 and
+our model spread). Note, however, that the uncertainty linked to
+the AGWP of CO2 is comparable in size–a contribution of ±1.8 to
+the uncertainty, if it were the sole source of uncertainty. The
+uncertainty in atmospheric loss of hydrogen due to OH is the
+third largest term, and accounts for ±0.43 when considered on its
+own.

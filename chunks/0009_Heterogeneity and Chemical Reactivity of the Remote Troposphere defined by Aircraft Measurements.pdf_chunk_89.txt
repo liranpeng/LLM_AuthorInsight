@@ -1,0 +1,8 @@
+ted in 1◦latitude by 200 m thick cells, comparable to some
+global models (e.g., GMI, NCAR, UCI). We separate the
+eastern Paciﬁc (121◦W, research ﬂight (RF) 1) from the cen-
+tral Paciﬁc (RFs 3, 4 and 5) because we are looking for con-
+tiguous latitude-by-pressure structures.
+In the central Paciﬁc (row 1), highly reactive (hot) P-O3
+parcels (> 6 ppb/d) occur in larger, connected air masses at
+latitudes 20–22◦N and pressure altitudes 2–3 km and in more

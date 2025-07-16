@@ -1,0 +1,32 @@
+respectively (Holmes et al., 2013), and within the range of
+values in literature (−0.9 ± 0.3 %, Table 3). In past studies,
+www.atmos-chem-phys.net/14/6801/2014/
+Atmos. Chem. Phys., 14, 6801–6812, 2014
+6806
+C. D. Holmes et al.: The climate impact of ship NOx emissions
+Table 2. Effect of ship-NOx emissions on O3 column and RFa.
+Instant
+Parametric
+dilution
+Fixed OPE
+plume chemistry
+d[O3]
+dE
+dFO3
+dE
+d[O3]
+dE
+dFO3
+dE
+d[O3]
+dE
+dFO3
+dE
+This work
+GEOS-Chemb
+0.16
+5.3
+0.12
+3.8
+0.10
+3.4

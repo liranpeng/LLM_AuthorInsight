@@ -1,0 +1,10 @@
+Atmos. Meas. Tech., 9, 5535–5554, 2016
+www.atmos-meas-tech.net/9/5535/2016/
+doi:10.5194/amt-9-5535-2016
+© Author(s) 2016. CC Attribution 3.0 License.
+Aerosol data assimilation in the chemical transport model
+MOCAGE during the TRAQA/ChArMEx campaign:
+aerosol optical depth
+Bojan Siˇc1,2, Laaziz El Amraoui1, Andrea Piacentini2, Virginie Marécal1, Emanuele Emili2, Daniel Cariolle2,
+Michael Prather3, and Jean-Luc Attié1,4
+1CNRM-GAME, Météo-France – CNRS, UMR3589, Toulouse, France

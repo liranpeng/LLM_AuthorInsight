@@ -1,0 +1,8 @@
+ing July for the 2050 A1B scenario due to a 5 % perturbation of
+aircraft emissions (top), ship emissions (middle), and road trafﬁc
+emissions (bottom). Solid white contour lines show the percentage
+change relative to the BASE simulation while the dashed black line
+indicates the tropopause. Note that different scales have been used
+for each of the trafﬁc sectors and that the scales have been reversed
+in order to show OH reductions, arising from a 5 % decrease in
+emissions, as positive numbers.

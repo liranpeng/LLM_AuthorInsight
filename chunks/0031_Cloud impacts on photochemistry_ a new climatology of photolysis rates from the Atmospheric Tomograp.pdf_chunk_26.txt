@@ -1,0 +1,8 @@
+available when this paper was being prepared.
+Global chemistry models cannot be used productively in
+comparisons with individual CAFS observations as noted
+above, but a statistical comparison of the ratio J-cloudy
+to J-clear is a useful climatological test. It is difﬁcult for
+the models to simulate CAFS global data unless there is a
+very careful sampling strategy to match albedos from the
+ATom ﬂights over land and cryosphere. Thus, we focus on

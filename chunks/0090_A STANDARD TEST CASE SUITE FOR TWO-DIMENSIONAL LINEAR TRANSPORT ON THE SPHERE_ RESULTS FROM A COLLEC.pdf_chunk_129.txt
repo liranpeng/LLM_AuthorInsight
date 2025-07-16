@@ -1,0 +1,9 @@
+Initial conditions are the inﬁnitely smooth Gaussian hills, and the normalized error norms are computed at time t = T .
+“optimal” convergence rates and will be discussed in sepa-
+rate sections below.
+3.1.1
+Reaching asymptotic convergence
+Together with the absolute errors that will be commented
+on in the discussion of “minimal” resolution, perhaps the
+most striking observation to be made regarding the con-
+vergence plots (Figs. 1 and 2) is that models transition

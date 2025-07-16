@@ -1,0 +1,10 @@
+B. Stevens et al.: EUREC4A
+4117
+perspectral cloud and sky imager, Atmos. Meas. Tech., 9, 2015–
+2042, https://doi.org/10.5194/amt-9-2015-2016, 2016.
+Fairall, C. W., Bradley, E. F., Godfrey, J. S., Wick, G. A., Edson,
+J. B., and Young, G. S.: Cool-skin and warm-layer effects on sea
+surface temperature, J. Geophys. Res.-Oceans, 101, 1295–1308,
+1996.
+Foussard, A., Lapeyre, G., and Plougonven, R.: Response of Surface
+Wind Divergence to Mesoscale SST Anomalies under Different

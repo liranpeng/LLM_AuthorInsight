@@ -1,0 +1,9 @@
+of the day-to-day rms of the models involved. Using the UCI
+test with different model years, we ﬁnd that the year-to-year
+rms differences are about two thirds of the day-to-day rms
+over 5-days. Thus, we cannot be sure that the rms differences
+between NCAR and the reference case are due to the inade-
+quacy of the 5-day mean to represent the mean NCAR chem-
+istry model (Table 3b, c). Conversely, some other source of
+model error is likely responsible for the large day-to-day rms.
+3.4

@@ -1,0 +1,4 @@
+example, in the UCI model with a surface source maintaining a 320 ppb N2O abundance, the lifetime is 
+139 years; but for the no-source decaying N2OX, it is 135 years. As a bias offset, this difference is much less 
+than the uncertainty in the MLS derived lifetime and also less than the model-to-model differences. As an 
+added complication, the observed atmospheric N2O is not in steady state but is increasing at about 0.25%/

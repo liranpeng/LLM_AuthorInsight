@@ -1,0 +1,9 @@
+NASA (grant nos. NNX15AG57A and 80NSSC21K1454).
+Review statement. This paper was edited by Ken Carslaw and
+reviewed by two anonymous referees.
+References
+Burkholder, J. B., Sander, S. P., Abbatt, J. P. D., Barker, J. R., Huie,
+R. E., Kolb, C. E., Kurylo, M. J., Orkin, V. L., Wilmouth, D.
+M., and Wine, P. H.: Chemical kinetics and photochemical data
+for use in atmospheric studies: evaluation number 18, Pasadena,
+CA, Jet Propulsion Laboratory, National Aeronautics and Space

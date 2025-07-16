@@ -1,0 +1,8 @@
+cle arcs results in 20N 2 spherical triangles. To construct the
+dual grid of the spherical triangular grid, we connect the cen-
+troids of the triangles with great circle arcs. The resulting
+dual grid consists of spherical hexagons except 12 pentagons
+corresponding to the 12 starting points of the spherical icosa-
+hedron. The total number of grid cells for resolution N is
+NR = 10N 2 + 2. For the resulting dual grid, the centroids
+of grid cells do not coincide with the vertices of the spherical

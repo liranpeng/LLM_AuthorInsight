@@ -1,0 +1,10 @@
+gas concentrations for chemistry–climate interaction stud-
+ies). Modellers are asked to read the explanatory notes found
+for each CF standard name on the CF website and the spe-
+ciﬁc explanatory remarks in the AerChemMIP data request
+and corresponding Excel worksheet.
+4.1
+Climate response
+The characterisation of the climate response to NTCF forc-
+ing requires a set of diagnostics, which are fairly standard
+to all CMIP experiments. They include the variables that al-

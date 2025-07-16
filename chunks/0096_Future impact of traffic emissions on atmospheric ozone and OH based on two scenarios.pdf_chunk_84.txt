@@ -1,0 +1,8 @@
+the method for RF calculations used to complement the re-
+sults presented in previous literature has been described in
+Sect. 3.4. The results from H2011 have been kept unchanged,
+while we have added results from the MOCAGE model to the
+year 2000 data presented in Myhre et al. (2011), although this
+only introduces minor differences. The results for the B1 sce-
+nario presented in H2011 did not include ROAD, but these
+results have been added here based on new radiative transfer

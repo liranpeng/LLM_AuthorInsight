@@ -1,0 +1,8 @@
+We identify key species (e.g., O3, NOx, HNO3, HNO4,
+C2H3NO5, H2O, HOOH, CH3OOH, HCHO, CO, CH4,
+C2H6, acetaldehyde, acetone) and presume that they can be
+measured simultaneously in air parcels on the scale of a few
+km horizontally and a few tenths of a km vertically. As a
+ﬁrst step, six global models have prepared such climatolo-
+gies sampled at the modeled resolution for August with em-
+phasis on the vast central Paciﬁc Ocean basin. Objectives

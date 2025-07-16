@@ -1,0 +1,40 @@
+www.atmos-chem-phys.net/6/575/2006/
+M. Gauss et al.: Radiative forcing due to ozone changes between 1850 and 2000
+583
+Table 2. Emissions and mixing ratios used for the year 2000 simulations. For CO2 mixing ratios used for 1850 are given in parentheses.
+Model numbering as in Table 1.
+g
+p
+g
+                                          Model 
+Species 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+fossil fuel 
+31.8
+33.0
+22.6
+27.8
+27.8
+31.7
+29.4
+27.8 
+31.7 
+27.8
+biomass burning 
+7.1
+7.1
+10.8
+10.2
+10.2
+7.1
+7.3
+10.2

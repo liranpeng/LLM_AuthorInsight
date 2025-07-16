@@ -1,0 +1,7 @@
+table notes. Year 2011 is the last year for observed quantities (denoted 
+2011* or 2011obs). Results are shown as global mean values except 
+for environmental data focussing on air quality (Tables AII.7.1–AII.7.4), 
+which give regional mean surface abundances of O3 and fine particu­
+late matter with diameter less than 2.5 μm (PM2.5). Results for global 
+mean surface temperature (Tables AII.7.5 and AII.7.6) show only raw 
+CMIP5 data or data from previous assessments. For best estimates of

@@ -1,0 +1,8 @@
+(see Schnell et al., 2014 2015 for networks and methods).
+These gridded observations identify small-scale variations in
+the geographic pattern of ozone trends, which are only par-
+Figure 3. Radiative forcing (W m−2) of the direct aerosol effect
+over the period 1990–2015 given for seven models (legend lists the
+models); the multi-model mean is shown in black and the estimate
+provided in IPCC AR5 is included in red.
+tially captured in these simulations. Some of the models cap-

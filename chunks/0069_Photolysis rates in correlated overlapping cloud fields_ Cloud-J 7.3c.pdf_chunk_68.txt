@@ -1,0 +1,8 @@
+and that T and P are highly correlated in the troposphere,
+Cloud-J, and the new Fast-J that sits within it, has de-
+vised an alternative method of interpolating the cross sec-
+tions for each atmospheric layer: T is the traditional method
+used for most species; but P is used for VOCs with highly
+pressure-dependent quantum yields. For P interpolation, the
+cross sections are averaged over wavelength at three points
+along a typical tropospheric lapse rate: 0 km, 295 K, 999 hPa;

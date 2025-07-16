@@ -1,0 +1,9 @@
+(i.e., ﬂight segments where NO was measured but NO2 was
+not). Thus, the updated NOx gap-ﬁlling MDS-3 was devel-
+oped.
+The Reactivity Data Stream (RDS) reports the reactivities
+listed above plus the net 24 h change in O3 for all 145 388
+parcels, land or ocean. (Research ﬂight number 11 of ATom-
+4 was a ferry ﬂight from Greenland to Maine without pro-
+ﬁling for which many instruments were shut down, and thus
+the 1106 parcels have NaN values for the MDS and RDS.)

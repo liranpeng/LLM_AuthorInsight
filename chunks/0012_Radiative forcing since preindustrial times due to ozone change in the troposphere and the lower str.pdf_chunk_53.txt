@@ -1,0 +1,9 @@
+Shifts in the tropopause height can solely arise from sys-
+tematic biases in the dynamics (e.g. temperature cold bias).
+Generally, an inter-comparison relative to the tropopause
+height reveals a better representation of tropospheric and
+stratospheric simulated ozone (Grewe et al., 2001b).
+In
+order to avoid misleading interpretations, we concentrate
+here on regions with a more uniform dynamical characteri-
+zation. Tropical tropospheric ozone (0–12 km, 20N-20S) is

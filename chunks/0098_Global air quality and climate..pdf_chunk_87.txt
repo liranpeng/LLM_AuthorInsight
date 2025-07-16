@@ -1,0 +1,10 @@
+tivities of air pollution to individual meteorological variables
+vary in space and time and are non-linear.6,194,205,221–226
+Statistical downscaling based on synoptic conditions may
+provide more accurate projections,190,191,210,227 though models
+must credibly simulate changes in these synoptic conditions
+and it is unclear if current statistical relationships are applic-
+able to future climate conditions.
+3.1
+Ozone
+In the case of surface O3, it is well established that in many

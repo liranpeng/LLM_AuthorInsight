@@ -1,0 +1,10 @@
+for the US and EU. The lowest QP values for our US mask
+(apart from the coasts) are found from west-central Texas and
+north, due to the low density of observing sites in this area.
+The lowest values in EU are found in the northernmost and
+easternmost edges of the domain for the same reason.
+2.3
+Interpolation error
+The error of our interpolation method can be objectively
+measured for the individual sites as described in Sect. 2.1.
+The average RMSE for the sites can be plotted as a func-

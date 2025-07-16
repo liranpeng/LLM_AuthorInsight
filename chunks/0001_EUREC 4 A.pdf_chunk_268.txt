@@ -1,0 +1,11 @@
+after a total of 6250 nmi of sailing (Rollo et al., 2020). The
+autonomous platforms (such as CloudKite or ocean glider)
+deployed from the R/V Meteor are described in their respec-
+tive sub-subsections.
+B10
+Ron Brown
+Sampling on board the NOAA Ship Ronald H. Brown took
+place from 7 January to 13 February 2020 and focused on
+the region between 57 and 51◦W east of Barbados and north
+of 12.5◦N in the trade wind alley. The overarching strate-
+gic goal of ATOMIC was to provide a view of the atmo-

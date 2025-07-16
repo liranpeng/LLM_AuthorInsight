@@ -1,0 +1,5 @@
+Solar-J are large (∼10%, see Figure 2 of H2017). These are likely caused by the different cross section 
+for O3 absorption and the lack of O2 absorption in RRTMG (significant in the mid stratosphere). These 
+differences can and should be readily resolved with some group efforts like PhotoComp (2010) but with 
+diagnosed heating rates, and with the inclusion of O2 photolysis as heating. (probably no impact on 
+overall cost).

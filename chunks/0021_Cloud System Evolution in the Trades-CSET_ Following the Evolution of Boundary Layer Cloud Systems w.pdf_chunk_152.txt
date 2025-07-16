@@ -1,0 +1,6 @@
+Luke EP and Kollias P, 2013: Separating Cloud and Drizzle Radar Moments during Precipitation Onset 
+Using Doppler Spectra. J. Atmos. Oceanic Technol, 30, 1656–1671, 10.1175/JTECH-
+D-11-00195.1.
+McGibbon J and Bretherton CS, 2017: Skill of ship-following large-eddy simulations in reproducing 
+MAGIC observations across the northeast Pacific stratocumulus to cumulus transition region, 
+Journal of Advances in Modeling Earth Systems, 2017, 9, 2, 810.

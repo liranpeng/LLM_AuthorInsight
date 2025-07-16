@@ -1,0 +1,8 @@
+cay time of a pulse based on a lifetime of 117 years is re-
+duced by a factor of 0.94 due to chemical feedbacks (Prather,
+1998; Prather et al., 2015). For example, if we extrapolate
+the observed growth in N2O burden over the last 2 decades
+(+2.9 %/decade), we reach 419 ppb by 2100, a value between
+RCP6.0 and RCP8.5. If we use a constant lifetime of 120
+years to derive annual emissions and then re-project future
+N2O using a declining lifetime (−2.1 %/decade), this value

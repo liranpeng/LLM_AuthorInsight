@@ -1,0 +1,8 @@
+us which air parcels matter for chemical budgets, including,
+for example, whether infrequently observed pollution plumes
+are responsible for a large fraction of ozone production.
+In Sect. 2 we deﬁne our use of reactivity in this paper
+(i.e., the production and loss of ozone, the loss of methane)
+and identify about a dozen key chemical species and other
+variables that once initialized determine the chemical evo-
+lution of an air parcel. In Sect. 3 we show how the CTMs–

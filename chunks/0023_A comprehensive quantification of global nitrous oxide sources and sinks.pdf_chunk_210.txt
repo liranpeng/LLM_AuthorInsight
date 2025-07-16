@@ -1,0 +1,7 @@
+source estimates from EDGAR v4.3.2. A process-based model DLEM36 and a 
+mechanistic stochastic model35,51 were used to estimate N2O emission from 
+inland waters and estuaries, whereas site-level emission rates of N2O were 
+upscaled to estimate global N2O fluxes from the global seagrass area68.
+Article
+Extended Data Fig. 7 | Global N2O dynamics due to land cover changes. The 
+blue line represents the mean forest N2O reduction caused by the long-term

@@ -1,0 +1,7 @@
+and climate data require kilometer-scale forecasts: e.g., risk
+assessment and capturing local effects of topography and human
+land use11. Globally, applying Machine Learning (ML) at km-scale
+resolution poses significant challenges since training costs are
+superlinear with respect to the resolution of training data.
+Moreover, predictions from global km-scale physical simulators are
+not yet well tuned, so available training data can have worse

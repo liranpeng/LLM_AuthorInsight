@@ -1,0 +1,8 @@
+are often larger for biomass burning and natural emissions
+(Granier et al., 2011). If the two inventories in GEOS-Chem
+exhibit typical differences, then inventory uncertainty may
+account for ±10 % range in ship NOx RF. Uncertainties in
+chemistry, transport, and other processes that control back-
+ground atmospheric composition contribute as much or more
+than emissions to the range in RF responses across models,
+since multi-model studies using common emissions still ex-

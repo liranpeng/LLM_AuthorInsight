@@ -1,0 +1,9 @@
+Granier et al., 2011). Therefore, these factors have little im-
+pact on τCH4×OH variability during the 13-yr CTM simu-
+lation, but are important on multi-decadal time scales and
+longer.
+Many of the sensitivity terms in Table 2 – speciﬁcally, wa-
+ter vapor, CH4 abundance, and anthropogenic land NOx and
+CO – are consistent among the CTMs and with past estimates
+(Prather et al., 2001; Fiore et al., 2006; Hoor et al., 2009;
+Myhre et al., 2011), suggesting a good understanding of how

@@ -1,0 +1,8 @@
+stantly diluted into large grid volumes, which overestimates
+production of tropospheric O3 and OH. We present a suite of
+model simulations that quantify this error, one of which uses
+an improved, more physically realistic treatment of plume
+chemistry on temporal and spatial scales smaller than the
+global model grid. The limited observations of ship plume
+composition during aging hamper efforts to widely evaluate
+the parameterization, but we have shown that it is consis-

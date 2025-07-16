@@ -1,0 +1,8 @@
+simulation of the transition between the two convective regimes. The Lagrangian approach 
+allowed us to track air masses as they flowed from colder to warmer sea surface 
+temperatures and thus minimize uncertainties in the large-scale forcing due to horizontal 
+advection in the lower troposphere. This approach facilitates comparison with Lagrangian 
+model simulations and the isolation of critical physical processes operating in the cloud 
+evolution.
+Albrecht et al.
+Page 6

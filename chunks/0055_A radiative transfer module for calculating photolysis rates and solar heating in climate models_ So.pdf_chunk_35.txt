@@ -1,0 +1,8 @@
+Cloud-J v7.4 has pre-computed tables of optical proper-
+ties for typical aerosols and for both liquid- and ice-water
+clouds. For bins S1–S18, many of these are effectively non-
+absorbing. With the extension to longer wavelengths, it be-
+comes important to treat the absorption by clouds and the
+stratospheric sulfate layer. We take the refractive indices for
+liquid water, ice water, and sulfuric acid and calculate solar-
+ﬂux-weighted mean values for each bin (S12–S27). Sunlight

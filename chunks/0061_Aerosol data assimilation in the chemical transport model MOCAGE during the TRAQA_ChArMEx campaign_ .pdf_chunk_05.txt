@@ -1,0 +1,8 @@
+proves aerosol representation in the model. For example, the
+comparison of the direct and the assimilated model run with
+AERONET data shows that the assimilation increased the
+correlation (from 0.74 to 0.88), and reduced the bias (from
+0.050 to 0.006) and the root mean square error in the AOD
+(from 0.12 to 0.07). When compared to the 3-D concentra-
+tion data obtained by the in situ aircraft and balloon mea-
+surements, the assimilation consistently improves the model

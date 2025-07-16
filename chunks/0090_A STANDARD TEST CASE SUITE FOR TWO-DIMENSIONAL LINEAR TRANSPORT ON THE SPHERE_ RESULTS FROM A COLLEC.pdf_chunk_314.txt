@@ -1,0 +1,10 @@
+www.geosci-model-dev.net/7/105/2014/
+Geosci. Model Dev., 7, 105–145, 2014
+142
+P. H. Lauritzen et al.: Results from standard test case suite
+The Voronoi grid is then deformed by the ﬂow and modiﬁed
+by a curvature-guard algorithm (CGA) that splits and merges
+edges according to deformation criteria. The speciﬁc conﬁg-
+uration of the CGA is given in Table 1 in Dong and Wang
+(2013). For display and computation of diagnostics (and cou-
+pling with physical parameterizations in full model setup), a

@@ -1,0 +1,8 @@
+fore not give information on how well the scheme maintains
+continuous and varying gradients.
+The perfect scheme will have ℓf close to 100 for all val-
+ues of τ. We say “close” to 100 and not exactly equal to 100
+since for Eulerian/semi-Lagrangian schemes that use a ﬁxed
+grid one would need to truncate the exact Lagrangian solu-
+tion (for which ℓf = 100 for all t) to the ﬁxed Eulerian grid
+for the computation of ℓf; however, that truncation error is

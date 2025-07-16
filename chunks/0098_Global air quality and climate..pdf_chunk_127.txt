@@ -1,0 +1,3 @@
+range across models (Table S1, ESIz). Filled circles with vertical lines represent decadal multi-model averages from the 2010, 2030, 2050, and 2100
+ACCMIP time-slice simulations; the number of models varies with time slice and scenario (Table S1, ESIz). The circles are colored by RCP
+scenario and oﬀset by a year to clearly distinguish the vertical black lines which denote the full range of ACCMIP model results. Changes are

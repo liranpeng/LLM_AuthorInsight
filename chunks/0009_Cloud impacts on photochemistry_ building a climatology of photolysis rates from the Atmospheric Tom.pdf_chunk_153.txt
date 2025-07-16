@@ -1,0 +1,9 @@
+the ATom, ORNL DAAC, Oak Ridge, Tennessee, USA, avail-
+able at: https://doi.org/10.3334/ORNLDAAC/1651, last access:
+23 November 2018.
+Ham, S.-H., Kato, S., Rose, F. G., Winker, D., L’Ecuyer, T., Mace,
+G. G., Painemal, D., Sun-Mack, S., Chen, Y., Miller, C., and Wal-
+ter, F.: Cloud Occurrences and Cloud Radiative Effects (CREs)
+from CERES-CALIPSO-CloudSat-MODIS (CCCM) and Cloud-
+Sat Radar-Lidar (RL) Products, J. Geophys. Res.-Atmos., 122,
+8852–8884, https://doi.org/10.1002/2017JD026725, 2017.

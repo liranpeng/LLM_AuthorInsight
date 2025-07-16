@@ -1,0 +1,9 @@
+3.7
+Algorithmic considerations
+General properties of the algorithms are given in Table 3.
+First of all, the width of the computation halo used to update
+cell/grid-point value is listed. For example, if only the imme-
+diate neighboring cell-average or grid-point values are used,
+the width of the halo is one. This width should give an indi-
+cation of message sizes in parallel computing environments.
+The number of communications needed per time step is in-

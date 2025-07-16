@@ -1,0 +1,8 @@
+parcel (deﬁned typically as a rectilinear box bounded by lat-
+itude, longitude, and pressure surfaces). Clouds layers, how-
+ever, have horizontal scales of a few kilometers (Slobodda
+et al., 2015), and thus are represented in global and regional
+models as fractional coverage in each parcel. In calculating
+the average photolysis or heating rates through the column
+atmosphere, one must know how the cloud fractions overlap.
+Early modeling assumed that model layers consisted of max-

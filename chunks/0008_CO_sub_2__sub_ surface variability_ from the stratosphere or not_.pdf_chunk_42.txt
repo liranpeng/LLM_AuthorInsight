@@ -1,0 +1,9 @@
+of CO2 is a key measure of changes in the biospheric and
+Earth Syst. Dynam., 13, 703–709, 2022
+https://doi.org/10.5194/esd-13-703-2022
+M. J. Prather: CO2 surface variability: from the stratosphere or not?
+707
+oceanic carbon cycles. The amplitude can be measured from
+the variance across 12 months. If the cycle is sinusoidal, then
+the max–min amplitude is equal to twice the square root of
+2 times the standard deviation as plotted in Fig. 1e. With this

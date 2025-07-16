@@ -1,0 +1,8 @@
+ries over the United States (NEI2005), Canada (CAC), Mex-
+ico (BRAVO), Europe (EMEP) and East Asia (Streets). Ship
+emissions are described further below.
+Figure 1 shows ship NOx emissions in GEOS-Chem which
+are 5.0 Tg(N) yr−1 and distributed according to ship loca-
+tions in the AMVER-ICOADS database for each month (Lee
+et al., 2011; Wang et al., 2008). This is close to the best es-
+timate of 5.4 Tg(N) yr−1 for year 2000 (Eyring et al., 2010),

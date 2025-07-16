@@ -1,0 +1,8 @@
+AOT, including AOT in cloudy fractions with high humidi-
+ties, while others restrict output to clear-sky AOT. The latter
+is preferred here, because it may be compared to that AOT
+which is observed under clear-sky conditions from satellites
+and sun photometers. Aerosol–radiation interactions are also
+most effective in clear-sky scenes, and it is thus more relevant
+to base forcing efﬁciencies on clear-sky AOT. If models com-
+pute normally an all-sky AOT using high relative humidities

@@ -1,0 +1,9 @@
+wind measurements providing high-resolution (20 Hz) measurements of vertical wind speed and gas
+concentrations to derive surface momentum, enthalpy, and CO2 ﬂuxes
+Isotope analyzer
+Picarro (L2140-i7) cavity ring-down laser spectrometer measuring stable isotopologues in water vapor
+(including water vapor mixing ratio)
+Isotope sampler
+Sampling system for measuring stable isotopologues in rain and seawater
+Rain collector
+Palmex rain collector avoiding re-evaporation used to sample precipitation

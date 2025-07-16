@@ -1,0 +1,7 @@
+values attained from all members of the ensemble. For instance,
+resident mixing ratios of O3 in the boundary layer in a large-scale
+CTM are sensitive to the description of the dry deposition term
+(Ordóñez et al., 2010), with the model ensemble used here utilizing
+a range of different parameterizations to calculate the loss to the
+surface. The output from each model is then interpolated onto 40
+levels at a T42 resolution for the analysis.

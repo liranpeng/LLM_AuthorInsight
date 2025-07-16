@@ -1,0 +1,6 @@
+bars indicate the 95% confidence interval for the average of accumulated 
+changes. The Mann–Kendall test was performed to examine a monotonic 
+increasing or decreasing trend in the estimated ensemble N2O emissions 
+globally and for each region over the period 1980–2016. The accumulated 
+changes were calculated from the linear regressed annual change rate  
+(Tg N yr−2) multiplied by 37 years. All regions except Southeast Asia show a

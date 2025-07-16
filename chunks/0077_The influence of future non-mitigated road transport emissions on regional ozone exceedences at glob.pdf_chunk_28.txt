@@ -1,0 +1,8 @@
+J.E. Williams et al. / Atmospheric Environment 89 (2014) 633e641
+635
+p-TOMCAT, MOCAGE and UCI CTM. We perform simulations using
+the SRES A1B anthropogenic emission estimates derived for the
+years 2000, 2025 and 2050, where Table 1 provides an overview of
+all the simulations which are used and the source of the emission
+estimates. It should be noted that the nature of the models is such
+that sub-grid variability in chemical regimes is not accounted for

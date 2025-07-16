@@ -1,0 +1,8 @@
+proximate P-O3 and L-O3 based on the limited Reactions
+(rates 2a, b, and d and 3a, b, and c above) actually predict
+the calculated 24 h O3 tendency; see Fig. S6. Considering
+the ocean basin observations only, P −L (production minus
+loss) ranges from −12 to +15 ppb d−1. The mean error in P–
+L is about −0.01 ppb d−1, and the root-mean-squared error
+is about 0.04 ppb d−1, convincing us that we have correctly
+diagnosed the P-O3 and L-O3 terms. Following the practice

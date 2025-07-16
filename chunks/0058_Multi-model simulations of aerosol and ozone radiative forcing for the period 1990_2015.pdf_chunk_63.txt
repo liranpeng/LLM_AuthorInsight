@@ -1,0 +1,10 @@
+is partly due to their use of a constant CH4 value in the
+trend calculations. Quantifying the contribution from the var-
+ious individual ozone precursors is complicated due to non-
+linearity (Stevenson et al., 2013).
+4
+Summary and conclusions
+A suite of models simulated ozone and aerosol forcing over
+the 1990–2015 period, using new emission data from the Eu-
+ropean Union project ECLIPSE (Stohl et al., 2015). In areas
+where there are good and harmonised measurement networks

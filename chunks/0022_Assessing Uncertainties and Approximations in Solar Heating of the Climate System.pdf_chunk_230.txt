@@ -1,0 +1,5 @@
+Sciences, 71, 2905–2926.
+Kato S., Sun-Mack S., Miller W. F., Rose F. G., Chen Y., Minnis P., & Wielicki, B. A. (2010). Relationships among cloud occurrence 
+frequency, overlap, and effective thickness derived from CALIPSO and CloudSat merged cloud vertical profiles. Journal of Geophysical 
+Research, 115, http://dx.doi.org/10.1029/2009jd012277
+King, M. D., & Harshvardhan (1986) Comparative accuracy of selected multiple scattering approximations, Journal of the Atmospheric

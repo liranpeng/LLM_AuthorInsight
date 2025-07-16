@@ -1,0 +1,7 @@
+Petrenko et al., 2017).
+3. Methods
+Here we describe the use of models to infer the biomass burning required
+to account for previously published ice core measurements of ethane
+(Nicewonger et al., 2018), acetylene (Nicewonger et al., 2020) and methane and δ13CH4 (Bock et al., 2017;
+Ferretti et al., 2005; MacFarling Meure et al., 2006; Mischler et al., 2009; Mitchell et al., 2011;
+Sowers, 2010). For the short‐lived gases, ethane and acetylene, a 3‐D chemistry transport model was used

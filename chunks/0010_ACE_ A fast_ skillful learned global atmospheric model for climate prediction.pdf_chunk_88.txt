@@ -1,0 +1,12 @@
+done in [16]. First the standard scaling mean and standard deviations are computed over time, latitude
+and longitude, without area weighting:
+µ(a) = mean
+t,ϕ,λ a(t, ϕ, λ)
+(9)
+σ(a) = std
+t,ϕ,λa(t, ϕ, λ).
+(10)
+The “full-field” normalization (as in [16]) is defined as aff = (a −µ(a))/σ(a). Some prognostic
+variables, for example surface pressure ps, vary more strongly over space than over time, so their
+15
+Figure 11: Left: timeseries of the global mean moisture budget violation (LHS minus RHS of

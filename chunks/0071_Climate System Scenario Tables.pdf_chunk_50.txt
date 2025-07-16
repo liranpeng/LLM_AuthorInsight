@@ -1,0 +1,75 @@
+1771
+314.7
+2000
+368.7
+1773
+315.6
+2001
+370.2
+1773
+316.3
+2002
+372.3
+1774
+317.0
+Tables
+AII.1: Historical Climate System Data
+Table AII.1.1a |  Historical abundances of the Kyoto greenhouse gases
+(continued on next page)
+1402
+Annex II	
+Climate System Scenario Tables
+AII
+Table AII.1.1a (continued)
+Year
+SF6 (ppt)
+CF4 (ppt)
+C2F6 (ppt)
+C6F14 (ppt)
+NF3 (ppt)
+PI*
+0
+35
+0
+0
+1900
+0
+35
+0
+0
+1910
+0
+35
+0.1
+0
+1920
+0
+35
+0.1
+0
+1930
+0
+36
+0.2
+0
+1940
+0
+37
+0.3
+0
+1950
+0
+39
+0.5
+0
+1960
+0.1
+43
+0.6
+0
+1970
+0.3
+51
+0.8
+0
+1980

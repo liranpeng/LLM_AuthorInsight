@@ -1,0 +1,8 @@
+doi:10.1029/2006GL026199, 2006.
+Fiore, A. M., Dentener, F. J., Wild, O., Cuvelier, C., Schultz, M. G.,
+Hess, P., Textor, C., Schulz, M., Doherty, R. M., Horowitz, L. W.,
+MacKenzie, I. A., Sanderson, M. G., Shindell, D. T., Steven-
+son, D. S., Szopa, S., Van Dingenen, R., Zeng, G., Atherton, C.,
+Bergmann, D., Bey, I., Carmichael, G., Collins, W. J., Duncan,
+B. N., Faluvegi, G., Folberth, G., Gauss, M., Gong, S., Hauglus-
+taine, D., Holloway, T., Isaksen, I. S. A., Jacob, D. J., Jonson,

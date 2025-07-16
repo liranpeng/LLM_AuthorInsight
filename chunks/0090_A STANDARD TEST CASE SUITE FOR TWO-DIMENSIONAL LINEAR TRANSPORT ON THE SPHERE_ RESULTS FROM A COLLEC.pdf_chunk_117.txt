@@ -1,0 +1,8 @@
+value is set to −1. In scatterplots it will be clearly marked
+“NO DATA” if the data are missing. If modelers have diverted
+slightly from the exact test case descriptions, it will be noted
+in the text. We have chosen not to exclude models that did
+not submit a complete data set as the data they did submit
+do, in our opinion, provide meaningful insights. It should be
+noted that for schemes that are inherently shape-preserving
+(HEL, LPM, TTS), i.e., for schemes for which there does not

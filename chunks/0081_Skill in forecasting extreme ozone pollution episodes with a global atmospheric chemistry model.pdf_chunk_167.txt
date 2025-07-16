@@ -1,0 +1,9 @@
+mance evaluation, Meteorol. Atmos. Phys., 87, 167–196,
+doi:10.1007/s00703-003-0070-7, 2004.
+Cleveland, W. S., Graedel, T. E., Kleiner, B., and Warner, J.
+L.: Sunday and workday variations in photochemical air-
+pollutants in New Jersey and New York, Science, 186, 4168,
+doi:10.1126/science.186.4168.1037, 1974.
+Coles, S.: An Introduction to Statistical Modeling of Extreme Val-
+ues, Springer, Verlag, London, 208 pp., 2001.
+Cooley, D., Nychka, D., and Naveau, P.: Bayesian spatial modeling

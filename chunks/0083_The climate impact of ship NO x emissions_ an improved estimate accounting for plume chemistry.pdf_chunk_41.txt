@@ -1,0 +1,8 @@
+Some ship NOx survives beyond the 5 h scope of the plume
+parameterization and its subsequent chemical effects are cal-
+culated with the grid-resolved chemistry. The global-mean
+total OPE (plume plus grid chemistry) is 8.5. Although OPE
+is negative at night and episodically in polluted continental
+outﬂow, the annual-mean OPE is positive everywhere, both
+in the ﬁrst 5 h and total. The busiest shipping corridors in the
+North Atlantic and North Paciﬁc oceans have an OPE of 4–8

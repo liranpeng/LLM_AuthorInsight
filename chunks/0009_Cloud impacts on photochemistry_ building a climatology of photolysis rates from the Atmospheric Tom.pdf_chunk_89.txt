@@ -1,0 +1,9 @@
+lies between that of the two groups in the upper troposphere
+but becomes narrower in the boundary layers, more closely
+matching that of Group 2. Given that a number of processes
+can lead to broadening of the CAFS distribution, it is likely
+the sharps peaks in Fig. 4 (and wide central lines in Fig. 5)
+of Group 1 are unrealistic.
+These model differences have no obvious, single cause.
+The modeled proﬁles of COD and CF for both geographic
+blocks are shown in Fig. S6 (note the logarithmic scale for

@@ -1,0 +1,8 @@
+calculated reactivities of that parcel. For example, the ba-
+sic weight of a parcel (moles of air) can be scaled by P-O3
+(ppb day−1), and the ﬁnal weight is the moles-O3 day−1. In
+this case the sum of weighted parcels in a region gives the
+moles of O3 produced per day in that region. These reac-
+tivities can be calculated with A-runs for both models and
+measurements. Thus, the modeled and measured probability
+distributions reﬂect the parcels most important in determin-

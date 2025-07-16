@@ -1,0 +1,8 @@
+and to interface with modeling activities.
+In addition, emphasis is being placed on the publishing
+of datasets through a special collection of articles in Earth
+System Science Data. Many of these data papers will involve
+the construction of cross-platform datasets, for instance for
+the upper-air network, or dropsondes, isotope measurements,
+or classes of remote sensors. At the end of the data collection
+phase, all data on AERIS will be mirrored by the Caribbean

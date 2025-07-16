@@ -1,0 +1,5 @@
+4.  Annual Surface Climatology
+Nevison et al. (2004, Figure 1) noted that the annual cycle of N2O at three remote sites was caused as 
+much by the stratospheric influx of N2O-depleted air as tropospheric transport of emissions. Thompson, 
+Chevallier, et al. (2014a, Figure 8) compared the annual cycle of N2O at seven remote sites in an 8-model 
+intercomparison project that included surface emissions and model-calculated STE. Here, we construct a

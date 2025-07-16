@@ -1,0 +1,9 @@
+Bosilovich, M. G., Robertson, F. R., and Chen, J.: Global en-
+ergy and water budgets in MERRA, J. Climate, 24, 5721–5739,
+doi:10.1175/2011JCLI4175.1, 2011.
+Boucher, O.: Comparison of physically and economically based
+CO2-equivalences for methane, Earth Syst. Dynam., 3, 49–61,
+doi:10.5194/esd-3-49-2012, 2012.
+Bousquet, P., Hauglustaine, D., Peylin, P., Carouge, C., and
+Ciais, P.: Two decades of OH variability as inferred by an in-
+version of atmospheric transport and chemistry of methyl chlo-

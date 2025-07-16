@@ -1,0 +1,5 @@
+during the low-level profile flights and would set the dropsonde points along the surveying 
+parts of the flight. Scientists on the ground could monitor the aircraft operations and view 
+data in near real-time along with GOES satellite products using the satellite-linked Field 
+Catalog and x-chat capabilities. An example of the display from the Field Catalog work 
+space for the midpoint of the RF10 flight on 27 July is shown in Fig. 4b. In this depiction the

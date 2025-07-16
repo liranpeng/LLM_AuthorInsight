@@ -1,0 +1,9 @@
+putational costs across modules to have comparable (small)
+errors in all. In addition, these parameterization errors need
+to be evaluated for the impact they might have on climate
+simulations (e.g., Pincus et al., 2003). For Solar-J, the next
+steps consist of (i) moving the S17–S18 boundary to the be-
+ginning of the O3 Chappuis absorption near 0.5 µm, and (ii)
+developing a more realistic and diverse range of cirrus clouds
+and their optical properties (e.g., Yang et al., 2015).
+An-

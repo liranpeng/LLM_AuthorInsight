@@ -1,0 +1,8 @@
+D distributions show that the log-normal distribution in mole
+fraction (mean µ and standard deviation σ) as represented by
+(µ−σ, µ, µ+σ) is for the most part very close to the equiva-
+lent percentile distribution (16, 50, 84 %). For 2-D summary
+statistics, we introduce a ﬁtted ellipse centered at the mean
+value centroid (X0, Y0) with semimajor and semiminor axes
+deﬁned as the standard deviation in the two orthogonal axes
+(σX, σY ) rotated to ﬁnd the ﬂattest ellipse (i.e., maximum of

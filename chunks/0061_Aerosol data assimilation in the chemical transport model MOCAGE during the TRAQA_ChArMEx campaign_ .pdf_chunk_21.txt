@@ -1,0 +1,10 @@
+2
+Model description
+MOCAGE is a global CTM developed in Météo-France. It
+serves as an operational air quality model and simulates
+gases (Josse et al., 2004; Dufour et al., 2005) and primary (di-
+rectly emitted) aerosols (Martet et al., 2009; Siˇc et al., 2015).
+It transports atmospheric species by a semi-Lagrangian ad-
+vection scheme (Williamson and Rasch, 1989). Turbulent
+Atmos. Meas. Tech., 9, 5535–5554, 2016
+www.atmos-meas-tech.net/9/5535/2016/

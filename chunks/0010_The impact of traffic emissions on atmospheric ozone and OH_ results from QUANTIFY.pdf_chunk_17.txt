@@ -1,0 +1,8 @@
+The EU-project QUANTIFY (Quantifying the Climate
+Impact of Global and European Transport Systems) is the
+ﬁrst attempt to provide an integrated and consistent view on
+the effects of trafﬁc on various aspects of the atmosphere.
+Fuglestvedt et al. (2008) calculated that transport accounts
+for 31% of the man made ozone forcing since preindustrial
+times. Here we present simulations obtained with six differ-
+ent models all using the same set of emissions to provide a

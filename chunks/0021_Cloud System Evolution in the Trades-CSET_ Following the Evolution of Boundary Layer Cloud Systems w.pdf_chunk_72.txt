@@ -1,0 +1,5 @@
+air masses that were sampled two days earlier during the outbound flights.
+Since the GV range is substantially reduced when flown at lower levels, the amount of time 
+that could be flown for low-level boundary sampling was limited to about 50% of the flight 
+time between California and Hawaii. Thus a strategy was developed that allowed for two 
+types of sampling—1) surveying and 2) in situ. In the surveying mode, the MBL structures,

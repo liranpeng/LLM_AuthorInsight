@@ -1,0 +1,8 @@
+which only a subset of the emissions (aerosols, ozone pre-
+cursors, black carbon) follow the “clean” scenario, with the
+rest following the reference SSP3-7.0. All these perturbation
+experiments are Tier 2 (see Fig. 2 and Table 5). An addi-
+tional scenario SSP3-7.0-lowCH4 will differ from the control
+SSP3-7.0 only in using lower emission factors for methane.
+The ssp370SST-ssp126Lu experiment will study the atmo-
+spheric chemical impacts of land-use changes through nat-

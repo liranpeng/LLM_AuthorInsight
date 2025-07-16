@@ -1,0 +1,8 @@
+sive, however, which restricts the number of socioeconomic
+scenarios and ensemble members that can be explored.
+In this work we develop a new parametric model for global
+methane lifetime that accounts for climate-chemistry interac-
+tions that were neglected in previous parametric approaches.
+We derive the parametric factors from perturbation tests in
+a suite of 3 chemical transport models (CTMs), since CTMs
+with detailed tropospheric chemistry provide the best mech-

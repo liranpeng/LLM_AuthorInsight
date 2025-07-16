@@ -1,0 +1,9 @@
+It has been implemented in other models such as European
+Centre-based CTMs (Aschmann et al., 2009), the CESM-
+CAM-Superfast climate model used in ACCMIP (Lamarque
+et al., 2013), and current versions of GEOS-Chem (Murray
+et al., 2012; Hu et al., 2018).
+Additionally, the lower boundary sink of ozone intro-
+duced by O3v2 provides a self-consistent diagnostic for the
+stratosphere–troposphere exchange (STE) ﬂux of ozone, a
+major tropospheric ozone budget term that cannot be diag-

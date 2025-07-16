@@ -1,0 +1,8 @@
+tion analysis) by comparing each of them directly with the
+observations which we assimilated, and this should be con-
+sidered as a “sanity” check of the system. The ﬁgure rep-
+resents the performance of the assimilation system and its
+ability to move the modelled ﬁeld closer to the observed
+values. The assimilated model can more readily lower the
+overestimated values than elevate the underestimated values.
+The statistics of the scatter plots against assimilated observa-

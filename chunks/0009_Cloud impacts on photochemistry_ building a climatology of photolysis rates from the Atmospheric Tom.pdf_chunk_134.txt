@@ -1,0 +1,8 @@
+each grid cell being either cloudy or clear. The calculation of
+photolysis and solar heating rates is not simpliﬁed, however,
+because now the SCAs interact with neighbors. Calculating
+the correct rates at any location, or even the average over a
+region, would require that we calculate the ratio of cloudy to
+clear over a 20 km domain of cloud-resolved grid cells.
+Data availability. The data sets used here (global hourly J values)
+for the plots and analysis are extensive (∼10 GB) and will be

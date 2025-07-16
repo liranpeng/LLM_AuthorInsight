@@ -1,0 +1,8 @@
+ing are being pursued to enable more realistic atmospheric
+interactions with the land, ocean, and biosphere in climate
+modeling, the radiative transfer codes implemented in most
+of the global models remain in their simplest possible analyt-
+ical form of two-stream scattering. With this approximation,
+all upward and downward scattering occurs at a single angle,
+and the scattering must be treated as isotropic, i.e., indepen-
+dent of sun angle. The ubiquitous adoption of two-stream RT

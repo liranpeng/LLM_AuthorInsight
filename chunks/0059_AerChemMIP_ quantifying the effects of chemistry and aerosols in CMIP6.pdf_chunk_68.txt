@@ -1,0 +1,9 @@
+line. The AerChemMIP conﬁgured abrupt-4xCO2 should be
+run for at least 150 years as recommended in Eyring et
+al. (2016a), to quantify the climate–chemistry feedbacks. It
+is recommended that modelling groups document the aerosol
+and chemistry schemes in their climate model and evaluate
+their performance in the DECK AMIP simulation.
+The emissions of anthropogenic aerosols and reactive
+species are provided by Hoesly et al. (2017) (http://
+www.globalchange.umd.edu/ceds/ceds-cmip6-data/). Mod-

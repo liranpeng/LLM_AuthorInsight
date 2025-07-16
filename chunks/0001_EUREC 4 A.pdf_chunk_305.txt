@@ -1,0 +1,7 @@
+process rates (e.g., primary production), and molecular analyses (e.g., microbial community structure)
+Cloud cameras
+Upward all-sky visible images and upward 30◦ﬁeld-of-view thermal images, both at 0.1 Hz
+Underwater Vision Proﬁler
+The Underwater Vision Proﬁler UVP5 is an underwater camera system mounted on the CTD rosette
+that can take images of particles and plankton down to 6000 m water depth
+UV spectral sensor

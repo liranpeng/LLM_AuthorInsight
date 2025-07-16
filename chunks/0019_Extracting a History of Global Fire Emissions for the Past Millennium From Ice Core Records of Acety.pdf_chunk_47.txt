@@ -1,0 +1,7 @@
+NICEWONGER ET AL.
+4 of 17
+model is used to estimate the global methane mixing ratio and δ13CH4 isotopic signature for various emis-
+sion scenarios (section 3.2). Using the ice core levels as a constraint, we estimate the emissions of the trace
+gases under various scenarios. A discussion of how emission scenarios were evaluated is described in sec-
+tion 3.3. Scenarios exploring changes in atmospheric lifetime due to the presence of chlorine atoms are also
+described (section 3.4).

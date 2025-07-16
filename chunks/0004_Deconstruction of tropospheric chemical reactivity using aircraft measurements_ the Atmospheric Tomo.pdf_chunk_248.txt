@@ -1,0 +1,8 @@
+Bauer, S., Checa-Garcia, R., Fiedler, S., Folberth, G., Gjermund-
+sen, A., Horowitz, L., Lamarque, J.-F., Michou, M., Mulcahy,
+J., Nabat, P., Naik, V., O’Connor, F. M., Paulot, F., Schulz,
+M., Scott, C. E., Séférian, R., Smith, C., Takemura, T., Tilmes,
+S., Tsigaridis, K., and Weber, J.: Climate-driven chemistry
+and aerosol feedbacks in CMIP6 Earth system models, At-
+mos. Chem. Phys., 21, 1105–1126, https://doi.org/10.5194/acp-
+21-1105-2021, 2021a.

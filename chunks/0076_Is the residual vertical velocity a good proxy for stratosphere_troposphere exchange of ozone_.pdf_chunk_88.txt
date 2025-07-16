@@ -1,0 +1,5 @@
+doi:10.5194/acp-9-3011-2009.
+Logan, J. A., M. J. Prather, S. C. Wofsy, and M. B. McElroy (1981), Tropospheric chemistry: A global perspective, J. Geophys. Res., 86(C8),
+7210–7254.
+McLinden, C. A., S. Olsen, B. Hannegan, O. Wild, M. J. Prather, and J. Sunder (2000), Stratospheric ozone in 3-D models: A simple chemistry
+and the cross-tropopause ﬂux, J. Geophys. Res., 105, 14,653–14,665.

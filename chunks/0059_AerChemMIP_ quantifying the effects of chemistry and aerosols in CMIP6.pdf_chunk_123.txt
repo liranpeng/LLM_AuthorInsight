@@ -1,0 +1,8 @@
+teractive chemistry and aerosols as the model conﬁguration
+contributing to AerChemMIP, this will be the same control as
+in RFMIP. The TOA radiative ﬂuxes from this control are ex-
+pected to be very similar to the climatology from the coupled
+pre-industrial control. However, this extra simulation ensures
+consistency with the ERF deﬁnition and with RFMIP.
+The perturbation experiments are run for 30 years follow-
+ing the control, using the same control SST and sea ice, but

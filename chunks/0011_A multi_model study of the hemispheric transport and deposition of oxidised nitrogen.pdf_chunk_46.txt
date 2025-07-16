@@ -1,0 +1,7 @@
+2486.2006.01129.x.
+Cariolle, D., M. J. Evans, M. P. Chipperfield, N. Butkovskaya, A. Kukui,
+and G. Le Bras (2008), Impact of the new HNO3–forming channel of the
+Figure 3.
+Percentage change in deposition of NOy in each NOx emission perturbation experiment
+relative to the control run, using multi-model annual mean deposition fluxes. The annual total deposition
+fluxes from each model were interpolated onto a 2.5  2.5 grid, from which the multi-model mean

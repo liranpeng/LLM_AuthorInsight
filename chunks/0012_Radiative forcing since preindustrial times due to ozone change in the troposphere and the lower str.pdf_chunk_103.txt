@@ -1,0 +1,6 @@
+587
+Table 4. Annually averaged total ozone change for the differences “2 minus 1” (effect of both chemical and climate change), “2 minus 1c”
+(effect of chemical change only), and “2 minus 1a” (effect of chemical change in the stratosphere only). For LMDzINCA, UM CAM, and
+STOCHEM HadAM3 “2 minus 1b” is shown instead of “2 minus 1c”, since these models do not include stratospheric chemistry schemes.
+Related to model setup, not all the models could perform all experiments.
+“2 minus 1”

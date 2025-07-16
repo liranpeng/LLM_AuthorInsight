@@ -1,0 +1,8 @@
+tical depth (AOD). Our system assimilates aerosol optical
+depth with the 3-D-FGAT method, and uses the total 3-D
+aerosol concentration as a control variable. We examine how
+2-D AOD observations in a continuous multicycle assimila-
+tion can improve the model aerosol representation, including
+the vertical aerosol proﬁle. We use accurate in situ aircraft
+and balloon measurements plus other remotely sensed data
+to provide independent validation of the impact of the assim-

@@ -1,0 +1,3 @@
+Table 5. List of future prescribed SST simulations. Experiments cover the period 2015 to 2055. The “AER” sufﬁx means models should at
+least calculate tropospheric aerosols driven by emission ﬂuxes. The “CHEMT sufﬁx means that at least interactive tropospheric chemistry
+is required. Models should always be run with the maximum complexity available. The species columns refer to the speciﬁcations for

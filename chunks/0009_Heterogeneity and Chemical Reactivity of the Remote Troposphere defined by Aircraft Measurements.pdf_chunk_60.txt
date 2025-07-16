@@ -1,0 +1,11 @@
+if the variation in J values is driving the reactivities. Two
+models (GISS, NCAR) have 12 %–17 % σ(Js), which might
+be explained by more opaque clouds, but the ampliﬁed σ(R)
+values (14 %–32 %) are inexplicable. This discrepancy needs
+to be resolved before using these two models for ATom RDS
+analysis.
+https://doi.org/10.5194/acp-21-13729-2021
+Atmos. Chem. Phys., 21, 13729–13746, 2021
+13734
+H. Guo et al.: Heterogeneity and chemical reactivity of the remote troposphere
+Table 1. Chemistry models.

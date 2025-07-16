@@ -1,0 +1,7 @@
+increasing cloud thickness in marine stratocumulus?, Atmos. Chem. Phys, 12, 4567–4583, doi:
+10.5194/acp-12-4567-2012.
+Tiedtke M, 1989: A comprehensive mass flux scheme for cumulus parameterization in large-scale 
+models. Mon. Wea. Rev, 117, 1779–1800.
+Ulaby FT, Moore RK, and Fung AK, 1981: Microwave Remote Sensing: Active and Passive, Vol. I -- 
+Microwave Remote Sensing Fundamentals and Radiometry, Addison-Wesley, Advanced Book 
+Program, Reading, Massachusetts, 456 pp.

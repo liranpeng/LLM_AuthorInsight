@@ -1,0 +1,8 @@
+transect representativeness is about as good as we can expect.
+Thus, model–model differences comparing individual tran-
+sects from each model would not be signiﬁcant unless they
+exceed these percentages. Averaging over the basin and/or
+several days should resolve model differences at ﬁner scales.
+The day-to-day standard deviation for the mid-Paciﬁc aver-
+ages in Table 2 is shown in percent; it is smaller than across
+individual longitudinal transects for a given day; and in key

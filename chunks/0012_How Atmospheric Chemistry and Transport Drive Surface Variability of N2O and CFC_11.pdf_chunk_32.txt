@@ -1,0 +1,5 @@
+Here, we focus on interannual variations using a 12-month running filter, and hence we present results 
+centered on February 1, 2005 through July 1, 2018.
+Over this period, the tropospheric mean abundance of N2O increased almost linearly from about 319 ppb 
+(nanomoles per mole) to 330 ppb, or equivalently from a burden of 1,528 to 1,586 TgN (using a scaling 
+factor of 4.79 TgN/ppb [Prather et al., 2012; Volk et al., 1997]). We want to analyze a stationary time series,

@@ -1,0 +1,4 @@
+day, Figure 5a, also see case study Figure 4 in H2017). When ice clouds are included, the two models clearly 
+diverge (Figure 5b). Unlike for liquid clouds, SJ cannot simply match the RRTMG's ice-cloud parameter-
+ization (Fu, 1996), because it is not a δ-M scaling. RRTMG heating rates are 0.1–0.2 K per day (10%–20%) 
+less than those in SJ throughout the middle-upper troposphere, with the pattern reversed for liquid water

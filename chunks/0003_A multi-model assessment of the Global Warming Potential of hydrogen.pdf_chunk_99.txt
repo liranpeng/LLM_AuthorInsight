@@ -1,0 +1,7 @@
+covered by our range, except the highest soil sink values stemming from top-down
+estimates5,6,37. These high soil sink values cannot be covered by our model
+ensemble without assuming some unknown source, since their chemical
+production is far higher than we are able to produce. We feel therefore that
+reporting mainly 1 sigma conﬁdence intervals, is most appropriate, and that some
+COMMUNICATIONS EARTH & ENVIRONMENT | https://doi.org/10.1038/s43247-023-00857-8
+ARTICLE

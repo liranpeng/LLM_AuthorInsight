@@ -1,0 +1,9 @@
+Colorado Solar Radiation & Climate Experiment (SORCE).
+Historical total solar irradiance reconstruction is available at
+http://lasp.colorado.edu/home/sorce/data/tsi-data/. Data sets
+are concatenated by matching the means over the ﬁrst
+12 months of SORCE data. Monthly sunspot numbers sup-
+port the conclusion that the solar irradiance in the current
+solar cycle is signiﬁcantly lower than in the three preceding
+solar cycles.
+The magnitude of the change in solar irradiance from the

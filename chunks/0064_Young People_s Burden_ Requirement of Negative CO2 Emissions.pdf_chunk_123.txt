@@ -1,0 +1,8 @@
+way to treat uncertainty is to use results of many models and
+construct probability distributions (Collins et al., 2013). Such
+distributions have been used to estimate the remaining budget
+for fossil fuel emissions for a speciﬁed likelihood of staying
+under a given global warming limit and to compare alterna-
+tive policies for limiting climate forcing and global warming
+(Rogelj et al., 2016a, b).
+Our aim here is a fundamental, transparent calculation that

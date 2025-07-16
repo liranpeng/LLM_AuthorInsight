@@ -1,0 +1,7 @@
+changes in methane between PERT_H2 and CTRL, if the methane had not been
+ﬁxed at the surface. rCH4 is the radiative efﬁciency of methane including rapid
+adjustments, ffCH4 is the methane feedback factor, and CCH4 is the scaled
+concentration change of methane.
+As mentioned above, the longest-lived, climate-relevant perturbations induced
+by molecular hydrogen emissions, will be those tied to the methane perturbation
+with an e-fold time of about 12 yr. Thus, for AGWP100, we can assume that all

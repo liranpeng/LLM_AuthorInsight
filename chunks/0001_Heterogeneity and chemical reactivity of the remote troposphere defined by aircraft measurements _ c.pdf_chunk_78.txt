@@ -1,0 +1,8 @@
+but the ampliﬁed σ(R) values (14 %–32 %) are inexplicable.
+This discrepancy needs to be resolved before using these two
+models for ATom RDS analysis.
+Inter-model differences are shown in the parcel-by-parcel
+root-mean-square (rms) differences for RDS-0 in Table 3.
+Even when models adopt standard kinetic rates and cross sec-
+tions (i.e., Burkholder et al., 2015), the number of species and
+chemical mechanisms included, as well as the treatment of

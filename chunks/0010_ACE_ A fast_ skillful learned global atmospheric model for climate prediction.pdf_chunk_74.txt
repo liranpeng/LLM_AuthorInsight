@@ -1,0 +1,6 @@
+body of the paper are all based on the “rs1” model which has lowest errors for T7 and total water path.
+We have verified that the spread in error across different initial conditions is significantly smaller than
+the spread across random seeds for a single initial condition (not shown).
+E
+Systematic evaluation of all outputs
+In this section we provide a complete description of the global climate biases of ACE relative to the

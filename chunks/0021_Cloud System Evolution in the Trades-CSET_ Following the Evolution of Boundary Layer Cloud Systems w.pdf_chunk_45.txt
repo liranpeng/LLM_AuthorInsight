@@ -1,0 +1,6 @@
+determine the positions of the droplets within that volume. Post-flight analyses of the 
+holograms recorded at 3.3 Hz produce size distributions for all samples in cloud and 
+precipitation areas sampled during CSET by HOLODEC (Glienke et al, 2017).
+Ozone and carbon monoxide measurements were made using the Fast Response Ozone 
+(F03_AD) and the Carbon Monoxide (Aero-Laser VUV) instruments supported by the 
+Community Airborne Research Instrumentation (CARI) group in Atmospheric Chemistry

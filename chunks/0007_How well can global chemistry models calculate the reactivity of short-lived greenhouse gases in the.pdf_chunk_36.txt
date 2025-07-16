@@ -1,0 +1,10 @@
+as our reference. This clustering may be due to similar her-
+itage: GSFC and GC are derived from a common tropo-
+spheric chemistry module; all three models and GISS have
+a common heritage for photolysis module. In the compar-
+isons below, we will use terms like “bias” to describe differ-
+ences with respect to this reference model. Such biases are
+not meant to be model errors since we do not know the cor-
+rect answer; they are just model–model differences.
+3.1
+Average proﬁles

@@ -1,0 +1,10 @@
+was mounted on meteorological sounding balloons, where its
+vertical resolution depends on measurement frequency. The
+processed data that we use in our analysis have a vertical res-
+olution in the troposphere of about 0.3 to 0.4 km, which is
+similar to the model resolution.
+6
+Results
+We run two MOCAGE conﬁgurations, one with and one
+without assimilation. The assimilation is performed in the re-
+gional MEDI02 domain. The simulation without assimilation

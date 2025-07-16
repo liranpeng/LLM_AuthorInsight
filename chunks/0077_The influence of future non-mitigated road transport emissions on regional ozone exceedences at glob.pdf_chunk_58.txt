@@ -1,0 +1,7 @@
+distribution of the ER values for 2000 reveals that exceedences still
+occur in the southern US, in spite of the decrease in NTS emissions.
+Table 2 shows that unmitigated RTE would result in an approximate
+doubling of the area for which exceedences occur from 4.0% to 7.6%
+of the total areaselected, adding an additional 1e2 ppb tothe surface
+meanmixing ratios acrossawide area south of 45N. This means that
+mitigating RTE seems crucial for meeting EC air quality standards

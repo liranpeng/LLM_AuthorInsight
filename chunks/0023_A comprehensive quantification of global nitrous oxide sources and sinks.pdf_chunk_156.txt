@@ -1,0 +1,7 @@
+from land16 and oceans32. For process-based models (for example, NMIP 
+and ocean biogeochemical models), the uncertainty is associated with 
+differences in model configuration as well as process parameteriza-
+tion16,32. The uncertainty of estimates from NMIP could be reduced in 
+several ways16. First, the six models in NMIP exhibited different spa-
+tial and temporal patterns of N2O emissions even though they used 
+the same forcings. Although these models have considered essential

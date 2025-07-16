@@ -1,0 +1,8 @@
+observation networks: AGAGE, NOAA, and CSIRO. Top-down anthropogenic 
+emissions were calculated by subtracting natural fluxes derived from 
+bottom-up approaches. To aid the comparison, the four RCPs were shifted 
+down so that the 2005 value is equal to the 2000–2009 average of the mean of 
+top-down and bottom-up estimates. The SSPs are harmonized3 to match the 
+historical emissions used in CMIP649; Extended Data Fig. 10 shows the 
+unharmonized data.
+Nature  |  Vol 586  |  8 October 2020  |  255

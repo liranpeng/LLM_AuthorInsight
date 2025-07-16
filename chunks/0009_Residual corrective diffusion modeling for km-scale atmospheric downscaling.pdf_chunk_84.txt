@@ -1,0 +1,10 @@
+Development 16, 779–811 (2023).
+Article  CAS  Google Scholar 
+14. Dutta, D., Routray, A., Kumar, D. P. & George, J. P. Regional
+data assimilation with the ncmrwf unified model (ncum):
+impact of doppler weather radar radial wind. Pure and Applied
+Geophysics 176, 4575–4597 (2019).
+Article  Google Scholar 
+15. Chen, I.-H., Hong, J.-S., Tsai, Y.-T. & Fong, C.-T. Improving
+afternoon thunderstorm prediction over taiwan through
+3dvar-based radar and surface data assimilation. Weather and

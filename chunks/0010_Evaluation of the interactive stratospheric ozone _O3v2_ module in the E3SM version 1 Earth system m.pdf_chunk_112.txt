@@ -1,0 +1,4 @@
+and (c) October means.
+Figure A2. Pressure (10–1000 hPa) by latitude (90◦S–90◦N) October mean differences between the untuned O3v2 and O3v1 for (a) O3,
+(b) temperature, (c) zonal wind, (d) PSC ozone loss tendency, (e) buoyancy frequency squared (N2), and (f) E–P ﬂux vector and divergence.
+Results are averaged over the 5 years for which the untuned O3v2 had exceedingly weak ozone holes (1998, 2001, 2007, 2011, 2013). The

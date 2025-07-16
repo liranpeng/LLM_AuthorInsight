@@ -1,0 +1,5 @@
+the surface across all latitudes. By comparing CFCl3 (F11) and N2O simulations, we find that the surface 
+variability is driven almost entirely by dynamical variations in cross tropopause fluxes of air rather than by 
+propagation of the variability in stratospheric loss.
+At the surface, we are able to quantify the QBO fingerprint in N2O, showing that, for the most part, the 
+three models match the observed interannual variations in N2O in both hemispheres despite the presence

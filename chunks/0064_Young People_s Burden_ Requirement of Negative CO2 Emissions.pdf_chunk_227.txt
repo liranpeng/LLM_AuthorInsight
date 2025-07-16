@@ -1,0 +1,9 @@
+emissions (TCRE)
+The transient climate response (TCR), deﬁned as the global
+warming at year 70 in response to a 1 % yr−1 CO2 in-
+crease, for our simple Green’s function climate model
+is 1.89 ◦C with energy imbalance of 1.52 W m−2 at that
+point; this TCR is in the middle of the range reported
+in the IPCC AR5 report (IPCC, 2013). We calculate
+the transient climate response to cumulative carbon emis-
+sions (TCRE) of our climate plus carbon cycle model as in

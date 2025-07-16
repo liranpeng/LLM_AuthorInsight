@@ -1,0 +1,6 @@
+model of the stratocumulus to trade cumulus transition. J. Atmos. Sci 54, 168–192.
+Wyant MC, Wood R, Bretherton CS, Mechoso, and 16 coauthors, 2010: The PreVOCA experiment: 
+modeling the lower troposphere in the Southeast Pacific, Atmos. Chem. Phys, 10, 4757–4774, doi:
+10.5194/acp-10-4757-2010.
+Zhang MH and co-authors, 2005: Comparing clouds and their seasonal variations in 10 atmospheric 
+general circulation models with satellite measurements. J. Geophys. Res, 110, D15S02, doi:

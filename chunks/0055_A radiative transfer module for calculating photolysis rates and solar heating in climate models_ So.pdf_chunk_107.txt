@@ -1,0 +1,9 @@
+at 1.25 km and falls to zero by 2.3 km altitude. Because of
+the increasing thickness of the model layers with altitude,
+the LWP and layer τ are not as smoothly peaked. We deem
+this proﬁle realistic from comparing to the observed range for
+coastal marine low clouds (see Fig. 4 of Hu et al., 2007 for
+July liquid cloud radii distribution and Fig. 1a of Painemal et
+al., 2016 for LWP).
+Table 5 summarizes the clear-sky radiative budget and the
+stratus cloud radiative effect (CRE, W m−2, calculated as

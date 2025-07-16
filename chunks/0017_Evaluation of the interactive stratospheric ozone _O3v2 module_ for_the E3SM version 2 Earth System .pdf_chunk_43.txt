@@ -1,0 +1,17 @@
+variability. Thus, we create a metric based on the interan-
+nual anomalies in the annual cycle as a function of latitude
+(standard deviation, SD, of the SCO in DU, Fig. 2). This
+Geosci. Model Dev., 14, 1219–1236, 2021
+https://doi.org/10.5194/gmd-14-1219-2021
+Q. Tang et al.: Interactive stratospheric ozone (O3v2) in E3SM
+1223
+Table 2. List of evaluation data sets.
+Instrument
+Years
+Speciﬁcations
+Reference
+Aura OMI and MLS
+2005–2017
+1◦, 60◦S–60◦N, monthly zonal SCO
+Ziemke et al. (2019)
+Aura MLS

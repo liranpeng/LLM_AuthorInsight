@@ -1,0 +1,8 @@
+(Appendix A).
+2.2
+Training
+Architecture
+We use the SFNO architecture [3] to predict the state of the atmosphere at time t+6hr
+using the state at time t as input. SFNO is a Fourier Neural Operator-based architecture which uses
+spherical harmonic transforms to enable efficient global convolutions on the sphere, while respecting
+inherent symmetries of the spherical domain. Hyperparameters are described in Appendix B; the

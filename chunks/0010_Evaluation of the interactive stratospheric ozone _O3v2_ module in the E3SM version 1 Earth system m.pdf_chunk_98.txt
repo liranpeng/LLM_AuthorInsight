@@ -1,0 +1,11 @@
+change is much smaller than changes driven by altering the
+horizonal resolution or physical parameters. This result sug-
+gests that the high E3SMv1 climate sensitivity (deﬁned as be-
+ing proportional to the inverse of λ) is not related to the O3v1
+deﬁciencies. Similar to Nowack et al. (2015), our O3v2 sim-
+ulations also show ozone decrease around the tropopause and
+Table 3. Net climate feedback parameter (λ, unit: watt per square
+meter per K) of different E3SM conﬁgurations.
+O3v1
+O3v2
+O3v1 HR

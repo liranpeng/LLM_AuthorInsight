@@ -1,0 +1,4 @@
+sensitivity to emissions from South America as compared to any other southern latitude site (Table 1).
+To test the inﬂuence of spatial changes in the distribution of ﬁre, we moved all non‐boreal biomass burn-
+ing ethane and acetylene emissions to South America (Figure 6), while keeping the same vegetation type
+distribution in South America as modern day (i.e., no changes to the emission factors). This reduces the

@@ -1,0 +1,3 @@
+climatological average SST and sea ice distributions. The “AER” sufﬁx means that at least interactive aerosols are required. The “CHEMT”
+sufﬁx means that at least tropospheric chemistry is required. Models should always be run with the maximum complexity available. The
+speciﬁed natural emission ﬂux should be doubled compared to the pre-industrial control, either scaling the parameterisations in an interactive

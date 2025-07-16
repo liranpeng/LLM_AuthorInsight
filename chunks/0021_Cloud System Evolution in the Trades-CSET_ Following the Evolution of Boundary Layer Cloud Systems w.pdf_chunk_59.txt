@@ -1,0 +1,5 @@
+pointing up using the technique proposed by O’Connor et al. (2005). For optically thin 
+clouds that were detected by both the HCR and the HSRL, the cloud drop size distributions 
+were also retrieved (see Wood et al, 2018 for an example from a CSET flight).
+When the aircraft was flying above the MBL in surveying mode (at a flight level of ~6 km), 
+the HCR and HSRL were operated pointing downwards to observe MBL cloud and aerosol

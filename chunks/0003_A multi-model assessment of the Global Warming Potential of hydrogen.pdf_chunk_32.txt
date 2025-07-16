@@ -1,0 +1,9 @@
+forcing. In all model simulations the aerosol forcing is weak (see
+Fig. 3) and for all experiments, it is weaker in magnitude
+compared to the change in stratospheric water vapor.
+Supplementary Table 3 summarizes the main effects of
+increasing hydrogen in the atmosphere normalized by 1 Tg ﬂux
+of hydrogen.
+Global warming potential. GWP100 for hydrogen is the ratio of
+the absolute global warming potential (AGWP100) for hydrogen
+relative to that for CO2. AGWP100 is deﬁned as the time-

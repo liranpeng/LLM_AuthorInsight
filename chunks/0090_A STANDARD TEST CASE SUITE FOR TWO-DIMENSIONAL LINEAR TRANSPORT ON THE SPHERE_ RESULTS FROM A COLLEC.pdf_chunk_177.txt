@@ -1,0 +1,8 @@
+other aspects of accuracy than 1λm. That said, there is a
+tendency of increased τm from left to right with some out-
+liers. For example, UCISOM-CN1.0/5.5 performs exception-
+ally well compared to the schemes with similar “minimal
+resolution”. Similarly, but in a opposite sense, HEL-CN1.0
+performs worse than its “neighbors” in the histogram.
+Perhaps more interesting in the context of ℓf is to focus
+on the shape of ℓf as a function of τ. First of all, the more

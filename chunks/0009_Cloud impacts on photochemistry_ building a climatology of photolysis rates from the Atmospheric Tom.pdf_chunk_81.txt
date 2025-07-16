@@ -1,0 +1,6 @@
+Atmos. Chem. Phys., 18, 16809–16828, 2018
+www.atmos-chem-phys.net/18/16809/2018/
+S. R. Hall et al.: Cloud impacts on photochemistry
+16819
+Figure 5. (a) Frequency of occurrence and magnitude of change in J-O1D caused by clouds. The panels and data sources are the same
+as in Fig. 4ab. The horizontal lines all have length 1 and show the fraction of (i) cloud-diminished Js (thick left segment, cloudy : clear

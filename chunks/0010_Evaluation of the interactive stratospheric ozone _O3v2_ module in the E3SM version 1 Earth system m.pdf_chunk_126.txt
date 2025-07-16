@@ -1,0 +1,8 @@
+Eyring, V., Arblaster, J. M., Cionni, I., Sedláˇcek, J., Perlwitz,
+J., Young, P. J., Bekki, S., Bergmann, D., Cameron-Smith, P.,
+Collins, W. J., Faluvegi, G., Gottschaldt, K.-D., Horowitz, L. W.,
+Kinnison, D. E., Lamarque, J.-F., Marsh, D. R., Saint-Martin,
+D., Shindell, D. T., Sudo, K., Szopa, S., and Watanabe, S.:
+Long-term ozone changes and associated climate impacts in
+CMIP5 simulations, J. Geophys. Res.-Atmos., 118, 5029–5060,
+https://doi.org/10.1002/jgrd.50316, 2013.

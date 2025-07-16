@@ -1,0 +1,47 @@
+ethane (Table S3).
+Table 2
+Four Emissions Scenarios Constrained by Assumptions About Geologic
+Emissions and Atmospheric Losses to Chlorine Atoms for Acetylene (A),
+Ethane (E), and Methane (M)
+Geologic emissions
+(Tg year−1)
+Loss to chlorine
+(% of total losses)
+Scenario
+A
+E
+M
+A
+E
+M
+noGEO‐noCl
+0
+0
+0
+0
+0
+0
+noGEO‐highCl
+0
+0
+0
+0
+40
+5
+lowGEO‐noCl
+0.5
+2
+20
+0
+0
+0
+lowGEO‐highCl
+0.5
+2
+20
+0
+40
+5
+Table 3
+Modeled Ethane Emissions for the Scenarios of Geologic Emissions and Chlorine Sink Strength
+Scenario

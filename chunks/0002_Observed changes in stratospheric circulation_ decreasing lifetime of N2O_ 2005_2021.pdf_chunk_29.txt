@@ -1,0 +1,8 @@
+tive drift of the V5 MLS data in the lower stratosphere af-
+ter 2010 as shown in Fig. 16 of Livesey et al. (2021). It
+is unlikely to be real because suppression of vertical trans-
+port of N2O below 30 hPa can hardly lead to increases in
+N2O above and, moreover, the ACE-FTS data show pos-
+itive trends at these pressures following the analysis of
+Froidevaux et al. (2022). The trend increases rapidly, reach-
+ing +5.5 ± 1.2 %/decade in the central zone (10 hPa) and

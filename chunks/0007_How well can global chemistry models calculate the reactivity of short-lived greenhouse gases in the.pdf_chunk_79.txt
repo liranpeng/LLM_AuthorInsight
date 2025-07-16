@@ -1,0 +1,8 @@
+of linking models with similar chemistries, probably 80 %
+overlap is a good mark, because we see that the different UCI
+years drop off to 85 % in L-O3 and L-CH4. Overlap in P -O3
+is much easier to achieve as the few high-NOx parcels drive
+high P -O3 in all models: at the top-25 % parcels, the P -O3
+overlap is about 84 % or better for all models.
+On a day-to-day basis, we examine the top-10 % overlap
+for GC–GSFC–NCAR–UCI models, using their own 5-day

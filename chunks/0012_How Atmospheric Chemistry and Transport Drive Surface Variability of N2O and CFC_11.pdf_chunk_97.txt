@@ -1,0 +1,4 @@
+is also seen in stratosphere-to-troposphere ozone flux (Hsu & Prather, 2009). UCI performs the best among 
+the CTMs at capturing the observed pattern overall (correlation coefficient, cc, of UCI vs. NOAA is 0.80). All 
+the models do well in the SH: cc is 0.93 for LMDz5, 0.89 for UCI, 0.70 for GMI. In the NH, the models are 
+distinctly worse: 0.54 for LMDz5, 0.51 for GMI, and 0.32 for UCI. The models tend to agree with each other

@@ -1,0 +1,8 @@
+evident in both Js for only two of the six cases: > 900 hPa
+in the tropical Paciﬁc (13–15 % of all Js) and 300–900 hPa
+in the North Paciﬁc (8–15 %). For these cases the CAFS ex-
+Atmos. Chem. Phys., 18, 16809–16828, 2018
+www.atmos-chem-phys.net/18/16809/2018/
+S. R. Hall et al.: Cloud impacts on photochemistry
+16817
+Figure 4. (a) Probability distribution of the natural log of the ratio of cloudy–clear J-O1D values (rlnJ) from 10 models and from CAFS

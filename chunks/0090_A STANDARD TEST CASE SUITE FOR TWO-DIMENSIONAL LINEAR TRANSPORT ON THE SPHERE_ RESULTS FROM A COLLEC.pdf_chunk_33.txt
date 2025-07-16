@@ -1,0 +1,14 @@
+schemes are based on the form
+∂(ρφ)
+∂t
++ ∇· (ρφ V ) = 0,
+(1)
+where ρ is the ﬂuid density, V the ﬂow velocity vector, and
+φ the tracer mixing ratio per unit mass. In ﬁnite-volume
+schemes the equation of motion is integrated over a control
+volume. Similarly, the equation for air density is given by
+∂ρ
+∂t + ∇· (ρ V ) = 0.
+(2)
+For Eulerian ﬁnite-volume schemes, Eq. (1) is integrated
+in space over a stationary (Eulerian) control grid volume/cell

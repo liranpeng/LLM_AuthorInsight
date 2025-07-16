@@ -1,0 +1,9 @@
+discrepancy.
+Building our chemical statistics (PDs) from the ATom 10 s
+air parcels on a scale of 2 km by 80 m, we can identify the
+fundamental scales of spatial heterogeneity in tropospheric
+chemistry. Although heterogeneity occurs at the ﬁnest scales
+(such as seen in some 1 s observations), the majority of vari-
+ability in terms of the O3 and CH4 budgets occurs across
+scales larger than neighboring 2 km parcels. The PDs mea-
+sured in ATom can be largely captured by global models’

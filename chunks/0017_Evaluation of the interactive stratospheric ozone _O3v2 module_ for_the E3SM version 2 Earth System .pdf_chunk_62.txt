@@ -1,0 +1,8 @@
+explanation is that the interannual variations in the middle
+stratospheric consist of both temperature (mapped reason-
+ably into O3 variations by Linoz) and chemical variations
+(not included in Linoz). This metric is driven by the large in-
+terannual MLS variations in the tropical middle stratosphere
+(not shown). UCI CTM has a closer match to MLS obser-
+vations than either EAM versions both in terms of SD and
+correlation. This metric is a difﬁcult one for the models to

@@ -1,0 +1,9 @@
+with an accuracy of ±0.01 for a range of wavelengths (Hol-
+ben et al., 1998). We use all available L2 data from differ-
+ent stations, and interpolate these data in logarithmic space
+to 550 nm (to harmonize wavelengths between different sta-
+tions and with the model) by using available neighbouring
+wavelengths: 440, 500, 675 and 870 nm.
+5.3
+In situ observations from the TRAQA campaign
+TRAQA (TRAnsport à longue distance et Qualité de l’Air

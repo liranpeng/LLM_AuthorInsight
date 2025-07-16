@@ -1,0 +1,7 @@
+ture’. Data for ‘Direct soil emissions’ were obtained as the ensemble 
+mean of N2O emissions from an average of three inventories (EDGAR 
+v4.3.2, FAOSTAT and GAINS), the SRNM/DLEM models and the NMIP/
+DLEM models. The statistical model SRNM covers only cropland N2O 
+emissions, the same as the NMIP. Thus, we add the DLEM-based esti-
+mate of pasture N2O emissions into the two estimates in cropland to 
+represent direct agricultural soil emissions (that is, SRNM/DLEM or

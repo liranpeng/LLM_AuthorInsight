@@ -1,0 +1,3 @@
+Notes:
+Observed O3 columns and trends taken from WMO (Douglass and Filetov, 2010), subtracting tropospheric column O3 (Table AII.5.2) with uncertainty estimates driven by polar variability. CMIP5 
+RCP results are from Eyring et al. (2013). The multi-model mean is derived from the CMIP5 models with predictive (interactive or semi-offline) stratospheric and tropospheric ozone chemistry. The

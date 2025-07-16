@@ -1,0 +1,9 @@
+connected with straight lines to deﬁne the upstream La-
+grangian area. Note that it is essential for mass conservation
+that the upstream areas collectively span the entire domain
+and that the reconstruction function integrates to the cell-
+averaged value within each Eulerian grid cell (Erath et al.,
+2013). Mass conservation in ﬂux-form schemes is not sub-
+ject to these constraints.
+The CSLAM scheme may also be cast in ﬂux form (Har-
+ris et al., 2010) to produce schemes that are identical even

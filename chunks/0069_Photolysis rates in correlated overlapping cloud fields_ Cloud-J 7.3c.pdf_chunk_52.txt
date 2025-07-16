@@ -1,0 +1,8 @@
+comparable computational costs to either QCA).
+The AvQCA model comes easily from the MdQCA for-
+malism, but all ICAs in each of the four total optical depth
+domains are used to calculate the average cloud-water con-
+tent in each QCA. The AvDir model calculates the weighted
+direct solar beam from each ICA, where only 600 nm cloud
+extinction is included. In this case it was found that an equiv-
+alent isotropic extinction is needed as in two-stream methods

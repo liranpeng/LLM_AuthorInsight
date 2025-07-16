@@ -1,0 +1,9 @@
+stratosphere, Global Biogeochem. Cy., 13, 737–742, 1999.
+Plumb, R. A. and Mahlman, J. D.: The zonally-averaged transport
+characteristics of the GFDL general circulation/tracer model,
+J. Atmos. Sci., 44, 298–327, https://doi.org/10.1175/1520-
+0469(1987)044<0298:TZATCO>2.0.CO;2, 1987.
+Prather, M. J.: Time scales in atmospheric chemistry: coupled per-
+turbations to N2O, NOy, and O3, Science, 279, 1339–1341,
+1998.
+Prather, M. J., Holmes, C. D., and Hsu, J.: Reactive greenhouse

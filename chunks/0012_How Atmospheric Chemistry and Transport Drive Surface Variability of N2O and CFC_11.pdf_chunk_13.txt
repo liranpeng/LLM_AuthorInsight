@@ -1,0 +1,5 @@
+Journal of Geophysical Research: Atmospheres
+location and magnitude of surface emissions and to identify anthropogenic sources from the variability 
+in surface abundance (Nevison et al., 2004, 2011, 2018; Thompson, Chevallier, et al., 2014; Thompson, 
+Ishijima, et al., 2014; Thompson, Patra, et al., 2014; Tian et al., 2018). These N2O source-inversion studies 
+seeking to accurately derive emissions must be able to model and remove the stratospheric variability from

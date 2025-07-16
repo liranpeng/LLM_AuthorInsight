@@ -1,0 +1,5 @@
+These raw I and Q data were used in post processing to calculate the full radar Doppler 
+spectrum and its first four moments (Schwartz et al. 2018).
+A special wing pod was developed for mounting the HCR on the GV (Fig. 2). The pod 
+design allowed a steerable reflector to extend ahead of the wing to allow for sampling both 
+below and above the aircraft. The reflector was also actively controlled to remove pointing

@@ -1,0 +1,8 @@
+ing emissions, also speciﬁed by the scenario, decrease 35 %,
+which we assume applies uniformly to all gases and aerosols
+from ﬁres. The parametric model requires future global-
+mean air temperature and water vapor inputs consistent with
+the scenario. We calculate these from global-mean surface
+temperature in CMIP5 models that have simulated RCP 8.5
+(Climate Explorer, http://climexp.knmi.nl/, accessed 18 De-
+cember 2012) using the strong regression relationship be-

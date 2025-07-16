@@ -1,0 +1,4 @@
+Olsen, M. A., M. R. Schoeberl, and A. R. Douglass (2004), Stratosphere-troposphere exchange of mass and ozone, J. Geophys. Res., 109,
+D24114, doi:10.1029/2004JD005186.
+Olsen, M. A., A. R. Douglass, and T. B. Kaplan (2013), Variability of extratropical ozone stratosphere-troposphere exchange using
+Microwave Limb Sounder observations, J. Geophys. Res. Atmos., 118, 1090–1099, doi:10.1029/2012JD018465.

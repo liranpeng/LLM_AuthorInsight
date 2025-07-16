@@ -1,0 +1,9 @@
+burning emissions follow CMIP5 recommendations (Lamar-
+que et al., 2010; Meinshausen et al., 2011b). Global annual
+lightning ﬂash rates have varied by up to 20 % since 1998, but
+multi-decadal trends are not apparent (Murray et al., 2012),
+so we assume no change since 1980, with 10 % Gaussian un-
+certainty in the trend.
+Figure 5 shows the reconstructed historical changes in
+τCH4×OH and the contribution to those changes from each
+climate and emission variable. We assess uncertainty in

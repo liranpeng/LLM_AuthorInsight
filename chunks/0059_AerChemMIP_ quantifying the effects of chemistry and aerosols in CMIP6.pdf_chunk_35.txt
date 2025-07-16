@@ -1,0 +1,9 @@
+Geosci. Model Dev., 10, 585–607, 2017
+588
+W. J. Collins et al.: AerChemMIP: quantifying the effects of chemistry and aerosols in CMIP6
+components were largely derived from a multimodel en-
+semble through the Aerosol Comparison (AeroCom) initia-
+tive (Schulz et al., 2006; Myhre et al., 2013b). AeroCom
+is a long-standing activity of aerosol model intercomparison
+(Textor et al., 2006; Kinne et al., 2006; Schulz et al., 2006),
+which provided estimates of radiative forcings from a large

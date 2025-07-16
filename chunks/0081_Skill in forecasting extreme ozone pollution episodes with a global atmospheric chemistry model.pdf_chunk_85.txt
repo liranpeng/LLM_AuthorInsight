@@ -1,0 +1,44 @@
+Median = 49 ppb
+CTM (Exact)    
+Median = 48 ppb
+0
+10 20 30 40 50 60 70 80 90 100
+−15
+−10
+−5
+0
+5
+10
+15
+20
+Percentile
+MDA8 O 3 (ppb) 
+b)                    EU Winter (DJF)
+ 
+ 
+OBS − Median = 28 ppb
+CTM (NOT Exact) 
+Median =  45 ppb
+CTM (Exact)     
+Median =  45 ppb
+0
+10 20 30 40 50 60 70 80 90 100
+−30
+−20
+−10
+0
+10
+20
+30
+40
+Percentile
+MDA8 O3 (ppb) 
+c)                    US Summer (JJA)
+ 
+ 
+OBS − Median = 49 ppb
+CTM (NOT Exact)
+Median = 78 ppb
+CTM (Exact)    
+Median = 79 ppb
+0

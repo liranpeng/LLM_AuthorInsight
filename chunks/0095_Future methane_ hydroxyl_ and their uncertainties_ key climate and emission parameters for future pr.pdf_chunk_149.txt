@@ -1,0 +1,10 @@
+285/2013/acp-13-285-2013-supplement.pdf.
+Acknowledgements. Mingquan Mu (UC Irvine) provided GEOS-
+Chem data that we compare to our simulations. This research
+was supported by the NASA Modeling, Analysis, and Prediction
+Program (NNX09AJ47G), the Ofﬁce of Science (BER) of the US
+Department of Energy (DE-SC0007021), and the Kavli Chair in
+Earth System Science.
+Edited by: B. N. Duncan
+References
+Austin, J. and Scinocca, J.: Long-term projections of stratospheric

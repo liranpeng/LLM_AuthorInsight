@@ -1,0 +1,9 @@
+tion improved the model’s agreement with NOx observations
+across several ocean basins.
+In this paper we further develop the plume parameteriza-
+tion in GEOS-Chem to better represent CH4 oxidation within
+ship exhaust plumes. We then calculate the global impact of
+ship NOx on abundances of O3 and CH4 and on RF. These
+impact estimates change under different plume modeling as-
+sumptions and accounting for sub-grid-scale chemistry re-
+duces the RF of ship NOx compared to the ensemble of past

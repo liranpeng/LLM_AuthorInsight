@@ -1,0 +1,14 @@
+out the simulation and ρ does not appear in the transport
+Eq. (10).
+The
+spectral
+bicubic
+interpolation
+scheme
+(SBC,
+Enomoto, 2008) is a traditional semi-Lagrangian grid-point
+scheme in Eq. (10) based on spectral transforms on a
+latitude–longitude Gaussian grid (Ritchie, 1987). The zonal,
+meridional, and cross derivatives are calculated using the
+spectral transform method and are then fed into the bicubic
+interpolation formula providing a fully two-dimensional

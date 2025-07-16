@@ -1,0 +1,8 @@
+the sites tend to be located near one another. Thus QP is a
+measure of error in interpolation.
+Deriving an error for the interpolated grid-cell-average
+values is more difﬁcult since we have no objective measure of
+the cell-averaged ozone values. Clearly the minimum RMSE
+of 6 ppb for individual sites is an exaggeration of the error
+when averaging over a 1◦grid cell (∼104 km2). Using the
+error analysis done for the sites (removing randomly 10 %

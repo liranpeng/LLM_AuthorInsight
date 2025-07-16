@@ -1,0 +1,9 @@
+3.4
+Ozone forcing
+The subset of ﬁve models that simulated ozone changes and
+their resulting radiative forcing all show positive RF over the
+entire time period. The multi-model mean forcing is twice
+the IPCC AR5 estimate; see Fig. 7. Three models that used
+ﬁxed meteorology simulate a relatively stable ozone forcing
+increase, while the other two models show that interannual
+variability contributed noise to the calculation of this forcing.

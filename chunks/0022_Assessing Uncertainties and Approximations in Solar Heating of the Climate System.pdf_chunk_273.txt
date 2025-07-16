@@ -1,0 +1,10 @@
+6 
+ 
+Table S1.  Versions of Solar-J and RRTMG-SW codes used here.  
+notation 
+code description 
+SJ 
+The standard version of Solar-J version 7.6d as published here. It is a minor update of 
+7.6c published in Prather and Hsu (2019, doi.org/10.7280/D1096P) to make the MAX-
+RAN consistent with 7.6c changes.  SJ uses a standard 8-stream Feautrier RT solver.  
+Solar-J uses Cloud-J data tables for heating by O2 (bins 1:11, <291 nm) & O3 (bins 1:18,

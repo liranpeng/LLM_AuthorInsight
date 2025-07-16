@@ -1,0 +1,8 @@
+2013.
+Langner, J. and Rodhe, H.: A global three-dimensional model of the
+tropospheric sulphur cycle, J. Atmos. Chem., 13, 255–263, 1991.
+Lawrence, D. M., Hurtt, G. C., Arneth, A., Brovkin, V., Calvin,
+K. V., Jones, A. D., Jones, C. D., Lawrence, P. J., de Noblet-
+Ducoudré, N., Pongratz, J., Seneviratne, S. I., and Shevli-
+akova, E.: The Land Use Model Intercomparison Project (LU-
+MIP) contribution to CMIP6: rationale and experimental design,

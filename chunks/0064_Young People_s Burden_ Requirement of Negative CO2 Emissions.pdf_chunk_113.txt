@@ -1,0 +1,8 @@
+ios with focus on the dominant climate forcing, CO2, with
+its changes deﬁned simply by percent annual emission de-
+crease or increase. Below (Sect. 10.1 and Appendix A13)
+we conclude that efforts to limit non-CO2 forcings could
+keep their growth small or even slightly negative, so a fo-
+cus on long-lived CO2 is appropriate. Thus, for the non-CO2
+GHGs we use RCP6.0, a scenario with small changes of these
+gases. For CO2 we consider rates −6, −3 % yr−1, constant

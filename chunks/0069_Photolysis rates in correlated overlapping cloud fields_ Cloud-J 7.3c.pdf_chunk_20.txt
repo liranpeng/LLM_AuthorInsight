@@ -1,0 +1,11 @@
+number of ICAs scales as 2NL, where NL is the number of
+cloudy layers in the RAN group.
+Geosci. Model Dev., 8, 2587–2595, 2015
+www.geosci-model-dev.net/8/2587/2015/
+M. J. Prather: Photolysis rates in correlated overlapping cloud ﬁelds: Cloud-J 7.3c
+2589
+2.2
+Correlated overlap
+When correlated, the likelihood of a cloudy layer lying un-
+der a cloud above is greater than random, wL1(#1) > f L1, by
+a factor of gL1 > 1. The cloud correlation factor cc ranges

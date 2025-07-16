@@ -1,0 +1,8 @@
+UCI model are almost identical (< 1 %), while the differences
+across the three reference models are much larger (±5 %) and
+clearly distinguishable.
+How the time-of-day of parcels in the data stream might
+affect reactivity is tested with the UCI model initializing
+the calculation at midnight (12:00 UT) instead of noon (see
+Fig. S8, Table S8). In this study, we chose parcels at 180◦W
+and, since the global models begin each day at 00:00 UT,

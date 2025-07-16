@@ -1,0 +1,8 @@
+cesses involved and the resulting highly heterogeneous dis-
+tribution of chemical species that drive the reactions. Sim-
+ply put, the models use emissions, photochemistry, and me-
+teorological data to generate the distribution of key species
+such as nitrogen oxides (NOx = NO + NO2) and hydrogen
+peroxide (HOOH) (step 1) and then calculate the CH4 and
+O3 reactivities from these species (step 2). There is no single
+average measurement that can test the verisimilitude of the

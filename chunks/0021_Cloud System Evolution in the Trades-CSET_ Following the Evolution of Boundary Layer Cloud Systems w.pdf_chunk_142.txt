@@ -1,0 +1,6 @@
+Brost RA, Lenschow DH, Wyngaard JC, 1982a: Marine stratocumulus layers. Part 1: Mean conditions. 
+J. Atmos. Sci, 39, 800–817.
+Brost RA, Wyngaard JC, Lenschow DH, 1982b: Marine stratocumulus layers. Part II: Turbulence 
+budgets. J. Atmos. Sci, 39, 818–836.
+Caldwell P, and Bretherton CS, 2009: Large eddy simulation of the diurnal cycle in Southeast Pacific 
+stratocumulus. J. Atmos. Sci, 66, 432–449.

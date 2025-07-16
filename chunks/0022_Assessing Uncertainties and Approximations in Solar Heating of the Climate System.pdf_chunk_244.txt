@@ -1,0 +1,4 @@
+Journal of Advances in Modeling Earth Systems
+Pincus, R., Hannay, C., Klein, S. A., Xu, K. M., & Hemler, R. (2005). Overlap assumptions for assumed probability distribution function 
+cloud schemes in large-scale models. Journal of Geophysical Research, 110(D15). https://doi.org/10.1029/2004JD005100
+Pincus, R., Mlawer, E. J., & Delamere, J. S. (2019). Balancing Accuracy, Efficiency, and Flexibility in Radiation Calculations for Dynamical

@@ -1,0 +1,6 @@
+values (ppb/d) are shown in the legend but are different from some tables where the cosine weighting is not applied. The PD derived from the
+ATom 10 s parcels binned at 1◦latitude and 200 m altitude (shown for the tropics only in Fig. 2) is typical of a high-resolution global model
+and denoted by black Xs.
+100 km by 200 m grid cells in the lower troposphere. This
+surprising result is evident by comparing the ATom 1D PDs
+– both species and reactivities – with those from the mod-

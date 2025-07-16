@@ -1,0 +1,14 @@
+(6)
+wL1(#4) = 1 −f L1 and wL2(#4) = 1 −f L2,
+(7)
+and thus
+W L1-L2(#3) = wL1(#3)wL2(#3) = f L1(1 −f L2)
+= 0.15 × 0.80 = 12% (see Fig. 1),
+(8)
+W L1-L2(#4) = wL1(#4)wL2(#4) = (1 −f L1)(1 −f L2)
+= 0.85 × 0.80 = 68%.
+(9)
+ICAs #1 and #3 are tagged as cloudy in L1, and ICAs #2 and
+#4 are tagged as clear in L1. The sum of cloudy fractions
+in L1 must be conserved: 3 % + 12 % = 15 % = f L1. One of
+the problems in implementing a full-RAN model is that the

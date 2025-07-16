@@ -1,0 +1,6 @@
+depiction of the meaning of forcing, prognostic and diagnostic variables is shown in Figure 5.
+Horizontal regridding
+FV3GFS, the model used to generate reference data, uses a cubed sphere
+grid [17]. This grid prevents direct use of the SFNO architecture, which in the formulation of [3]
+requires data on a latitude-longitude grid. Therefore, we regrid to latitude-longitude using the “fregrid”
+tool provided by NOAA GFDL. We use the first-order conservative regridding option. This regridding

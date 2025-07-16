@@ -1,0 +1,23 @@
+Model
+Code
+Relevant references
+CAM4-Chem
+A
+Lamarque et al. (2012); Tilmes et al. (2016)
+GEOS-Chem
+B
+Bey et al. (2001); Eastham et al. (2014)
+GFDL-AM3
+C
+Donner et al. (2011); Naik et al. (2013a); Li et al. (2016)
+GISS-E2
+D
+Schmidt et al. (2014); Shindell et al. (2013)
+GMI-CTM
+E
+Strahan et al. (2007); Duncan et al. (2007)
+UCI-CTM
+F
+Holmes et al. (2013, 2014); Prather (2015); Sovde et al. (2012)
+2
+Key chemical species for tropospheric reactivity

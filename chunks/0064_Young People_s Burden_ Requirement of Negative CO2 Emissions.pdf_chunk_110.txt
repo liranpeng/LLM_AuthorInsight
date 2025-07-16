@@ -1,0 +1,64 @@
+.04
+  .06
+  .08
+  .10
+MPTGs + OTGs
+N2O
+CH4
+CO2
+Greenhouse gas effective forcing growth rate (∆Fe)
+∆Fe (W m   yr  )
+(a)
+A1B
+A1FI
+B1
+A2
+Alternative scenario
+1950
+1975
+2000
+2025
+2050
+  .00
+  .02
+  .04
+  .06
+  .08
+  .10
+1950
+1975
+2000
+2025
+2050
+  .00
+  .02
+  .04
+  .06
+  .08
+  .10
+MPTGs + OTGs
+N2O
+CH4
+CO2
+∆Fe (W m   yr  )
+(b)
+RCP8.5
+RCP4.5
+RCP2.6
+RCP6.0
+1950
+1975
+2000
+2025
+2050
+  .00
+  .02
+  .04
+  .06
+  .08
+  .10
+-1
+-1
+-2
+-2
+Figure 8. GHG climate forcing annual growth rate (1Fe) with his-

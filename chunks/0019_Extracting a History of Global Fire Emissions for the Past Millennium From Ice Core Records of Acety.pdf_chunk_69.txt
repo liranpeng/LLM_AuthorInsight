@@ -1,0 +1,14 @@
+1
+τtotal
+¼
+1
+0:21 year þ
+1
+0:35 year ¼
+1
+0:13 year
+(8)
+Thus, a 5% chlorine methane sink means that about 40% of all ethane loss occurs due to reaction with chlor-
+ine. Wang et al. (2019) estimates from an oxidant‐aerosol‐halogen atmospheric chemistry model that chlor-
+ine contributes 1% to the global oxidation of methane and 20% to ethane. Our calculated response for ethane
+to chlorine oxidation is slightly less than what is expected from the Wang et al. (2019) results. Sensitivities

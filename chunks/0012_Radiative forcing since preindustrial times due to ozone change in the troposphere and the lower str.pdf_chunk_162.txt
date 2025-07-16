@@ -1,0 +1,9 @@
+slightly negative amounting to −0.01 Wm−2 in both cases.
+It has to be noted that the ULAQ-RTM takes into account
+ozone change up to an altitude of 71 km, which is the up-
+per boundary of the ULAQ model. Apart from the differ-
+ent meteorological conditions used in the ULAQ-RTM, the
+additional ozone column reduction between 30 and 71 km
+explains in part the different forcings compared to the UiO-
+RTM calculations.
+The University of Reading radiative transfer model

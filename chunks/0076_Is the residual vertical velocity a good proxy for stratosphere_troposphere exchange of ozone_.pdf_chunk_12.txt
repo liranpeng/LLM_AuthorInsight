@@ -1,0 +1,8 @@
+residual circulation approximates the zonal mean Lagrangian circulation induced by small-amplitude waves
+(here the zonal mean is denoted with an overbar, and the residual velocity by an asterisk). The method of
+Wei [1987] is not considered here because it involves the interpolation of gridded meteorological data onto
+HSU AND PRATHER
+©2014. American Geophysical Union. All Rights Reserved.
+1
+Geophysical Research Letters
+10.1002/2014GL061994

@@ -1,0 +1,51 @@
+1880
+1900
+1920
+1940
+1960
+1980
+2000
+2020
+ −.2
+ 0.
+ .2
+ .4
+ .6
+ .8
+1.0
+1.2
+1.4
+Annual mean
+5−year running mean
+Global surface temperature
+Temperature anomaly (°C)
+(a)
+1950
+1960
+1970
+1980
+1990
+2000
+2010
+2020
+ 0.
+ .2
+ .4
+ .6
+ .8
+1.0
+1.2
+1.4
+12−month running mean
+132−month running mean
+January−December mean
+Best linear fit since 1970
+relative to 1880−1920
+(b)
+Super
+El Ninos
+↓
+→
+(0.18 °C decade  )
+-1
+~

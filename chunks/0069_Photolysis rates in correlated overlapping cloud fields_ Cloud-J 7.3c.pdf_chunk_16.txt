@@ -1,0 +1,15 @@
+= 15% cloudy                   1 - f
+= 85% clear
+MAXimum overlap (connected layers become a MAX-Group)
+15%         5%                      80% clear
+1            2                             3                     Independent Column Atmospheres
+Layer 2
+Layer 1
+ICA# =  
+RANdom overlap (between layers here, or between MAX-Groups)
+CORrelated overlap, with cc = ½  (between layers here, or between MAX-Groups)
+Layer 2
+Layer 1
+Layer 2
+Layer 1
+ICA# =

@@ -1,0 +1,8 @@
+models calculate the reactivity of short-lived greenhouse
+gases in the remote troposphere, knowing the chemical com-
+position”, Prather et al., 2018, hence P2018). The UCI CTM
+simulated an aircraft-like data set of 14 880 air parcels along
+the International Date Line from a separate high-resolution
+(0.5◦) model. Each parcel is deﬁned by the following core
+species: H2O, O3, NOx, HNO3, HNO4, PAN (peroxyacetyl
+nitrate), CH3NO3, HOOH, CH3OOH, HCHO, CH3CHO (ac-

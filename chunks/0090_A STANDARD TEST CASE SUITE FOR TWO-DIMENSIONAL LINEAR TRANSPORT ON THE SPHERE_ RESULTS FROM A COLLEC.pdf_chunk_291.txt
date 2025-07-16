@@ -1,0 +1,10 @@
+lar variation 1α in the Lagrangian parameter. Discretiza-
+tions with N = 5120,20 480,81 920,98 304 correspond to
+1α = 4.33◦, 2.16◦, 1.08◦,0.65◦. The time step 1t = 0.0125
+was used for all computations; this value ensures that the
+time discretization error is smaller than the spatial discretiza-
+tion error. Using the test case CN deﬁnition with 1α, we
+have CN = 0.54, 1.08, 2.16, 3.59.
+A11
+MPAS
+MPAS (Skamarock et al., 2012) uses the transport scheme

@@ -1,0 +1,8 @@
+Abstract. The NASA Atmospheric Tomography (ATom)
+mission built a photochemical climatology of air parcels
+based on in situ measurements with the NASA DC-8 air-
+craft along objectively planned proﬁling transects through
+the middle of the Paciﬁc and Atlantic oceans. In this paper
+we present and analyze a data set of 10 s (2 km) merged and
+gap-ﬁlled observations of the key reactive species driving
+the chemical budgets of O3 and CH4 (O3, CH4, CO, H2O,

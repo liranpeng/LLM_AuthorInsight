@@ -1,0 +1,8 @@
+on our modeling of the atmosphere in quantized units such
+as gridded cells or 1 s averages. Yet, the concept of distinct
+air parcels remains useful for parsing in situ aircraft mea-
+surements and for the analysis presented here in which we
+ask which air is more important for the chemical evolution
+of global tropospheric pollution.
+To understand the mix of chemicals in the atmosphere and
+where they come from is to recognize how humans have per-

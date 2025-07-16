@@ -1,0 +1,8 @@
+canic activities and ﬁnally calculates daily biomass burning
+aerosol emissions for BC and OC. We use daily BB emis-
+sions for better synoptic forecasts, which is not possible with
+the monthly mean emissions of Lamarque et al. (2010).
+Sea salt particles are emitted using the semi-empirical
+source function from Jaeglé et al. (2011), which includes
+a particle size, wind speed, and sea surface water tempera-
+ture dependence. Desert dust aerosols are emitted by a dy-

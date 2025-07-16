@@ -1,0 +1,44 @@
+1410
+Annex II	
+Climate System Scenario Tables
+AII
+AII.2: Anthropogenic Emissions
+See discussion of Figure 8.2 and Section 11.3.5.
+Table AII.2.1a |  Anthropogenic CO2 emissions from fossil fuels and other industrial sources (FF) (PgC yr–1)
+Year
+RCP2.6
+RCP4.5
+RCP6.0
+RCP8.5
+A2
+B1
+IS92a
+RCP2.6&
+RCP4.5&
+RCP6.0&
+RCP8.5&
+2000d
+6.82
+6.82
+6.82
+6.82
+6.90
+6.90
+7.10
+6.92 ± 0.80
+6.98 ± 0.81
+6.76 ± 0.71
+6.98 ± 0.81
+2010d
+8.61
+8.54
+8.39
+8.90
+8.46
+8.50
+8.68
+8.38 ± 1.03
+8.63 ± 1.07
+7.66 ± 1.64
+8.27 ± 1.68
+2020d

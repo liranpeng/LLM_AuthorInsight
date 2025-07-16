@@ -1,0 +1,8 @@
+5545
+Table 3. Correlation (ρ), absolute bias (1) and root mean square error (RMSE) between AERONET observations and MOCAGE di-
+rect/assimilation run for the period of the TRAQA campaign between 25 June and 13 July 2012. Each of the stations in the table is identiﬁed
+by its site name, latitude/longitude, station height, number of observations and above-mentioned statistical parameters. AERONET site
+locations are also presented in Fig. 5.
+MOCAGE direct
+MOCAGE assimilation
+Station (location)

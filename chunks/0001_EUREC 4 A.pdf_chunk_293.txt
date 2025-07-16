@@ -1,0 +1,6 @@
+oxygen sensor, a Chelsea AquaTracka III ﬂuorimeter for in situ detection of chlorophyll a, a WET
+Labs CSTAR transmissometer for underwater measurements of beam transmittance, a Tritech PA500
+altimeter, and a Biospherical Instruments QCP2350 cosine-corrected irradiance collector for measur-
+ing photosynthetically active radiation (PAR).
+Moving vessel proﬁler
+A MVP30-300 AML Oceanographic measuring water column temperature, salinity, pressure, and

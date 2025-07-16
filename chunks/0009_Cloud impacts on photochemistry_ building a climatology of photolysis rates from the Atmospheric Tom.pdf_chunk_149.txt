@@ -1,0 +1,10 @@
+https://doi.org/10.5194/acp-7-3713-2007, 2007.
+Atmos. Chem. Phys., 18, 16809–16828, 2018
+www.atmos-chem-phys.net/18/16809/2018/
+S. R. Hall et al.: Cloud impacts on photochemistry
+16825
+Feng, Y., Penner, J. E., Sillman, S., and Liu, X.: Effects of
+cloud overlap in photochemical models, J. Geophys. Res., 109,
+D04310, https://doi.org/10.1029/2003JD004040, 2004.
+Flemming, J., Huijnen, V., Arteta, J., Bechtold, P., Beljaars, A.,
+Blechschmidt, A.-M., Diamantakis, M., Engelen, R. J., Gaudel,

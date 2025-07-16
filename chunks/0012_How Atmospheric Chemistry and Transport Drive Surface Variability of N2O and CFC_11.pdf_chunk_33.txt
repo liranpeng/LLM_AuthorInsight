@@ -1,0 +1,5 @@
+and so we rescale both the burden and chemical loss each month with the same factor so that the burden 
+corresponds to our reference value of 320 ppb. With this scaling, the average N2O loss over the MLS period 
+2005–2018 is 12.9 (interannual min-max ± 0.3) TgN/yr, corresponding to a global mean loss frequency of 
+about 0.84%/yr.
+Figure 1 compares our rescaled N2O loss derived from past and current MLS products (different retrieval

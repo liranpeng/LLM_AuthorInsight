@@ -1,0 +1,36 @@
+431.6
+531.1
+594.3
+758.2
+690
+534
+615
+651
+790
+914
+2090
+426.0
+533.7
+635.6
+844.8
+762
+542
+662
+722
+885
+1026
+2100
+420.9
+538.4
+669.7
+935.9
+846
+544
+713
+794
+985 ± 97
+1142
+AII.4: Abundances of the Well-Mixed Greenhouse Gases
+Table AII.4.1 |  CO2 abundance (ppm)
+Notes:
+For observations (2011obs) see Chapter 2; and for projections see Box 1.1 (Figure 2), Sections 6.4.3.1, 11.3.1.1, 11.3.5.1.1. RCPn.n refers to values taken directly from the published RCP scenarios

@@ -1,0 +1,8 @@
+An example of an uncoupled DYAMOND-Winter simula-
+tion using ICON is given in Fig. 19. The simulated cloud
+ﬁelds exhibit rich mesoscale variability whose structure,
+while plausible, begs a more quantitative evaluation. The
+combination of the ﬁeld measurements and simulations with
+realistic variability on the mesoscale will aid efforts to test
+retrievals of physical quantities from satellite radiances. This
+should make it possible to establish a self-consistent and

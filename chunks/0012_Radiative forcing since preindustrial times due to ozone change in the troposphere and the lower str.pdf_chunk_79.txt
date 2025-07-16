@@ -1,0 +1,8 @@
+depleting agents, and climate. Scenario 1 aims at model-
+ing the 1850 atmosphere as closely as possible, taking into
+account couplings between atmospheric chemistry and cli-
+mate, both of which are intended to correspond to preindus-
+trial conditions. By contrast, scenarios 1a, 1b, and 1c use
+present climate. 1c uses preindustrial emissions, while sce-
+narios 1a and 1b use, respectively, only preindustrial Cl/Br
+levels or only preindustrial ozone precursor levels. The dif-

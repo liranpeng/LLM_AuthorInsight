@@ -1,0 +1,4 @@
+circulation is primarily vertical and that the part due to eddy ﬂux is horizontal and equatorward (see
+their Figure 7); eddy transport becomes dominant near the 100 hPa level (the lowest level in their analysis);
+and summertime eddy transport is linked to the Asian anticyclone. In our model, the equatorward, hor-
+izontal transport is the main branch intersecting the tropopause (Figures 1a–1c) even during NH winter.

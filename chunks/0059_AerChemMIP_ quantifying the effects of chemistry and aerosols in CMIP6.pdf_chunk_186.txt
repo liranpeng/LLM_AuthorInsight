@@ -1,0 +1,8 @@
+MIP will also provide information on climate feedbacks
+by calculating the radiative effect of natural emissions of
+aerosols or ozone precursors in the same way as ERFs of an-
+thropogenic species. Combining these ERFs with diagnosed
+changes in natural emissions from the DECK 1 % yr−1 CO2
+(1pctco2) or 4×CO2 (abrupt4co2) simulations would give
+the climate feedback parameters. AerChemMIP is therefore
+key to understanding the behaviours of models with aerosols

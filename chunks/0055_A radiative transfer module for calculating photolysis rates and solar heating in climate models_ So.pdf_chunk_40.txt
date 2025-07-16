@@ -1,0 +1,8 @@
+functions of re and do not simply scale as total mass. For this
+ﬁrst version of Solar-J, we made a simplifying assumption
+and used the Mie code with the ice-water refractive index to
+calculate SSA and Q as a function of re = 3, 6, 12, 24, 48,
+96 µm using the liquid-water clouds’ C.1 distribution. Effec-
+tively, we assumed that the ice particles were spheres. For the
+phase function A0:7, we kept the two T-matrix results (irreg-
+ular and hexagonal ice particles) and used them for all re of

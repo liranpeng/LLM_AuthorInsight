@@ -1,0 +1,5 @@
+cell and must be shifted to nearby vacant cells.
+Figure 4. Reactivities (ppb d−1) and J values (s−1) calculated for all 32 383 ATom-1 10 s parcels using 2 different days with different cloud
+ﬁelds and ozone columns. The net integrated ozone change over the day, dO3/dt (ppb d−1), is also shown. Day 213 is 1 August, and day 223
+is 11 August. Mean reactivity statistics here are calculated as the mean of ﬁve days (1, 6, 11, 16, and 21 August), while sensitivity analyses
+used only day 223.

@@ -1,0 +1,8 @@
+uncertainties are large, and the model diversity of aerosol–
+cloud interaction is especially pronounced. The model range
+in the direct aerosol effect can be explained by the indi-
+vidual aerosol components and the diversity in modelling
+these processes. The model range in the forcing of the di-
+rect aerosol effect of nitrate aerosols is large and needs fur-
+ther investigation. The model range in the direct aerosol ef-
+fect of BC is also large, but recent progress on BC lifetime

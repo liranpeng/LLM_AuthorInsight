@@ -1,0 +1,19 @@
+given by T A. The true timescale T T is given by the linearized
+O3 loss frequency.
+1
+T T =
+d
+h
+−dO3
+dt
+i
+d[O3]
+≈d[L-O3 −P-O3]
+d[O3]
+(6)
+Figure 67 shows this linearized O3 loss frequency (1/T T,
+units of per day) for the Paciﬁc and Atlantic ﬂight proﬁles
+of ATom-1. High values > 0.15 d−1 occur throughout the
+northern tropics below 5 km. In the upper troposphere, the
+timescale for O3 is slow, 20 d or longer. Basin-mean loss fre-
+quency is similar in both the Paciﬁc (0.065 d−1) and Atlantic

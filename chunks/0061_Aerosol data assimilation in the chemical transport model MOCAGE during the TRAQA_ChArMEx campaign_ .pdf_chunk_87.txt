@@ -1,0 +1,11 @@
+the TRAQA campaign from 25 June until 13 July 2012, and cover
+the whole MEDI02 domain.
+conﬁrm that the direct model run underestimated the AOD
+ﬁeld, largely because the desert dust outbreaks were underes-
+timated in the model. As expected, the assimilation reduced
+this disagreement, also displaying better statistics compared
+to the direct model run (e.g. the correlation improved from
+0.69 to 0.87).
+6.3
+Comparison with AERONET
+We compare the model direct run and assimilation model run

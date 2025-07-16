@@ -1,0 +1,53 @@
+emissions (aerosol and ozone precursors). A year means the concentrations or emissions should be ﬁxed to that year.
+Experiment ID
+Minimum model
+CH4
+N2O
+Aerosol
+Ozone
+CFC/HCFC
+Tier
+conﬁguration
+precursors
+precursors
+piClim-control∗
+AGCM-AER
+1850
+1850
+1850
+1850
+1850
+1
+piClim-NTCF∗
+AGCM-TAER
+1850
+1850
+2014
+2014
+1850
+1
+piClim-aer
+AGCM-AER
+1850
+1850
+2014
+1850
+1850
+2
+piClim-BC
+AGCM-AER
+1850
+1850
+1850 (non-BC) 2014 (BC)
+1850
+1850
+2
+piClim-O3
+AGCM-CHEMT
+1850
+1850
+1850
+2014
+1850
+2
+piClim-CH4

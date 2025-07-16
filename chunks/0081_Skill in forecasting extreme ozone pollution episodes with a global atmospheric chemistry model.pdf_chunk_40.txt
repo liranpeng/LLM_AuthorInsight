@@ -1,0 +1,9 @@
+sites, and, since we seek an average concentration over a
+grid cell, we select the lower value of the shallow minimum,
+β = 2.5. Subsequently we look at the error for a range of D
+and L values, and ﬁnd it relatively insensitive (< 10 % change
+from the mean) over reasonable values (D = 10 km, 25 km,
+50 km; L = 250 km, 500 km) and β = 2.5 (see Table S1 in
+the Supplement). Thus we retain our original estimates for D
+and L.
+To obtain grid-cell-average values, we use the IDW pro-

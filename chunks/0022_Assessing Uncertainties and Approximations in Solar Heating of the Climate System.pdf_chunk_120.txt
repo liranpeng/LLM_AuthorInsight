@@ -1,0 +1,5 @@
+streams. Similar results are shown in B2015 Figures 5c and 5f. B2015 evaluated 2-stream δ-Eddington errors 
+for a typical mixed-cloud atmosphere derived from high-resolution satellite observations (see their Fig-
+ures 7 and 8). The atmospheric absorption error is typically 0 to −5 W m−2, while the surface heating error 
+is 0 to +8 W m−2. These errors are similar to our 2-stream minus 8-stream differences (both δ-1 scaling, T1/
+R13) shown in Figure S2 (middle column).

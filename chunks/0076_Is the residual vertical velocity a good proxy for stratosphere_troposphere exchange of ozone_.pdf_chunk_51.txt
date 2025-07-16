@@ -1,0 +1,4 @@
+residual velocity is plotted in green dashed line and the exact simulated ozone ﬂuxes across the same surface in green
+solid line. (j) The NH 12 month running mean ozone ﬂux in Tg/yr across e90-tropopause in black (TC-e90), and in dark
+blue(LS-e90=wO3LMS@100hPa + (P −L)LMS −dM∕dtLMS). Also, in red is the ozone ﬂux into the LMS (wO3LMS@100hPa), and
+in cyan, wO3LMS@100hPa + (P −L)LMS. Inclusion of the LMS tendency term dM∕dtLMS in the LMS O3 budget is crucial for

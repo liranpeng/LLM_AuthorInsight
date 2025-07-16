@@ -1,0 +1,4 @@
+(RRTMG) under clear skies because the codes are essentially identical for IR wavelengths >778 nm, and the 
+UV and VIS region <778 nm consists of well quantified, continuous cross sections for ozone absorption and 
+Rayleigh scattering. The primary differences in the codes are the wavelength bands and scattering: SJ uses 
+Rayleigh-phase scattering with an 8-stream code while RRMTG uses isotropic scattering with a 2-stream

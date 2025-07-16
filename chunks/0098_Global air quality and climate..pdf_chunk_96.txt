@@ -1,0 +1,3 @@
+corresponding plot symbols. Solid vertical bars represent a combination of ranges as reported in the literature: (1) multi-model mean and standard
+deviations in annual mean, spatial averages from the ACCENT/Photocomp study for 2030 (A240); (2) application of a parameterization developed
+from the multi-model ensemble of the Task Force on Hemispheric Transport of Air Pollution (TF HTAP) regional source-receptor relationships to

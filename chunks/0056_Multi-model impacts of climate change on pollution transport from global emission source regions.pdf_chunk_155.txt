@@ -1,0 +1,8 @@
+111, D05301, https://doi.org/10.1029/2005JD005873, 2006.
+Neu, J. L., Flury, T., Manney, G. L., Santee, M. L., Livesey, N. J.,
+and Worden, J.: Tropospheric ozone variations governed by
+changes in stratospheric circulation, Nat. Geosci., 7, 340–344,
+https://doi.org/10.1038/ngeo2138, 2014.
+Orbe, C., Holzer, M., Polvani, L. M., and Waugh, D.: Air-mass ori-
+gin as a diagnostic of tropospheric transport, J. Geophys. Res.-
+Atmos., 118, 1459–1470, 2013a.

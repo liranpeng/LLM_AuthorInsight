@@ -1,0 +1,19 @@
+ylene to 1‐g methane), and so comparing the inferred biomass burning histories of these compounds together
+cannot allow us to answer the question of whether the ice core gas records indicate a single ﬁre history. A ﬁre
+history (dry matter burned) can be derived from each of the trace gas emission histories as follows:
+H kg dry matter
+y
+
+
+¼
+E
+g trace gas
+y
+
+
+EF
+g trace gas
+kg dry matter
+
+
+(9)

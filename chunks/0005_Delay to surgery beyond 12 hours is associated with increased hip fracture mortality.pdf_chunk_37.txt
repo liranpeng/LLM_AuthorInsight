@@ -1,0 +1,28 @@
+Number in dataframe = 10,659, Number in model = 10,145, Missing = 514, AIC = 4019.1, C-statistic = 0.761, H&L = Chi-sq(8) 9.56 (p = 0.297)
+Dependent: 30-day mortality
+Alive
+Dead
+OR (univariable)
+OR (multivariable)
+Age
+Mean
+81.9 (8.4)
+85.7 (7.8)
+1.062 (1.051–1.074, p < 0.001)
+1.038 (1.026–1.051, p < 0.001)
+Sex
+Male
+2408 (91.4%)
+227 (8.6%)
+–
+–
+Female
+7588 (94.6%)
+435 (5.4%)
+0.608 (0.515–0.720, p < 0.001)
+0.618 (0.514–0.744, p < 0.001)
+ASA
+Mean
+2.7 (0.7)
+3.2 (0.7)
+3.103 (2.735–3.525, p < 0.001)

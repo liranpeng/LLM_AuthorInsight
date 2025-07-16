@@ -1,0 +1,8 @@
+SEVIRI images around ground-based cloud observatories to de-
+termine their representativeness, Atmos. Meas. Tech., 8, 567–
+578, doi:10.5194/amt-8-567-2015, 2015.
+Søvde, O. A., Prather, M. J., Isaksen, I. S. A., Berntsen, T. K.,
+Stordal, F., Zhu, X., Holmes, C. D., and Hsu, J.: The chemical
+transport model Oslo CTM3, Geosci. Model Dev., 5, 1441–1469,
+doi:10.5194/gmd-5-1441-2012, 2012.
+Stamnes, K., Tsay, S. C., Wiscombe, W., and Jayaweera,

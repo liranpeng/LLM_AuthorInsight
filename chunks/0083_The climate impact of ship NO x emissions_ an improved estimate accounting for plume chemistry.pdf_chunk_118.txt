@@ -1,0 +1,9 @@
+doi:10.1016/j.atmosenv.2011.02.023, 2011.
+Lin, X., Trainer, M., and Liu, S. C.: On the nonlinearity of the tropo-
+spheric ozone production, J. Geophys. Res.-Atmos., 93, 15879–
+15888, 1988.
+Murray, L. T., Jacob, D. J., Logan, J. A., Hudman, R. C., and
+Koshak, W. J.: Optimized regional and interannual variability of
+lightning in a global chemical transport model constrained by
+LIS/OTD satellite data, J. Geophys. Res.-Atmos., 117, D20307,
+doi:10.1029/2012JD017934, 2012.

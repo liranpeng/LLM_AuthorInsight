@@ -1,0 +1,8 @@
+up uses ozone and oxidants from a prior run of the interac-
+tive chemistry model (e.g. Collins et al., 2011). The length
+of piControl (or esm-piControl) needs to be at least as long
+as the experiments. For AerChemMIP this is 205 years (164
+years historical + 41 years future), although note that Eyring
+et al. (2016a) recommend 500 years. It is necessary to have
+CMIP6 historical simulations with the same chemistry and
+aerosols as in AerChemMIP as this is used as the base-

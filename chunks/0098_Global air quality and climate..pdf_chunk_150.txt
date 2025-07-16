@@ -1,0 +1,8 @@
+sea-salt aerosols contribute to O3 destruction and may play
+an important role in both pre-industrial and present-day O3
+budgets and tropospheric oxidizing capacity.330–335 Tropo-
+spheric halogen chemistry is not included in the model projec-
+tions reviewed here (Fig. 3–6).
+Reducing uncertainty in aerosol forcing
+A new generation of global models allows deeper study at the
+process level as they include aerosol microphysics and prognostic

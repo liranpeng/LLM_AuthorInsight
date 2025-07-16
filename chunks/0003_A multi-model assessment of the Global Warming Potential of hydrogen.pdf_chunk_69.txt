@@ -1,0 +1,6 @@
+create a smooth zonal ﬁeld. Zonal surface ﬁeld of methane is from input4mip41 for
+year 2010. Anthropogenic emissions are from the Community Emissions Data
+System (CEDS) (version 2017-05-18 as used in CMIP6) for year 2010 and biomass
+burning as in CMIP642. Natural emissions are the models’ own choice.
+The models have either run with meteorological ﬁelds or with nudged
+meteorology. In GFDL, a higher perturbation is used due to weaker nudging. See

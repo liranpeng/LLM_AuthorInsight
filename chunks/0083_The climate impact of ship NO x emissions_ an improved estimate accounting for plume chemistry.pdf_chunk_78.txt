@@ -1,0 +1,8 @@
+perturbations, which describes the climate response to small
+marginal increases or decreases in emissions. Removing all
+ship NOx from the simulation reveals the average RF of all
+ship NOx and is a common way to calculate the ship NOx
+RF since preindustrial times. With complete removal of ship
+NOx, we ﬁnd O3 and CH4 RF components per Tg(N) yr−1
+are about 20 % larger than with the 5 % perturbations for both
+parametric plume chemistry and instant dilution (Fig. 5). The

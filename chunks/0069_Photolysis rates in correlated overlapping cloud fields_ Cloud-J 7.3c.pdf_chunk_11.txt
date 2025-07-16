@@ -1,0 +1,9 @@
+and the approaches to approximate the sum over ICAs, ex-
+amining their errors. Another recent development in model-
+ing photolysis rates is the treatment of volatile organic com-
+pounds with pressure-dependent cross sections, presented in
+Sect. 4. Recommendations for the cloud-overlap model and
+the ICA-approximation method are discussed in Sect. 5.
+2
+Overlap models for fractionally cloudy atmospheres
+Typically, meteorological forecasts or climate model data

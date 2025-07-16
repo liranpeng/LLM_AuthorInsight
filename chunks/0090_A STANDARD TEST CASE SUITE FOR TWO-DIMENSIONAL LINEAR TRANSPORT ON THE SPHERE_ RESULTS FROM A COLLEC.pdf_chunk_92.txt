@@ -1,0 +1,8 @@
+(Kaas et al., 2013). In HEL the Lagrangian solution, based on
+tracing Lagrangian parcels (effectively solving Dφ/Dt = 0),
+is used to nudge the Eulerian solution toward the Lagrangian
+solution that exactly preserves tracer correlations and tracks
+gradients very accurately. In the Lagrangian solution, mixing
+between neighboring parcels is done using directionally bi-
+ased diffusion based on the local deformation rate of the ﬂow.
+The mixing is introduced to prevent long-term development

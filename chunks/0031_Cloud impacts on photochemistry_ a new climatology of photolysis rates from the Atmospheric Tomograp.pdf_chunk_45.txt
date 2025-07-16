@@ -1,0 +1,8 @@
+restrict these comparisons to high sun, cos(SZA) > 0.8, to re-
+duce 3-D effects that are not modeled here, which leaves
+11 504 (block 1) and 4867 (block 2) measurements for the
+CAFS / TUV 3 s averages. For the models, the number of
+hourly samples with cos(SZA) > 0.8 is about 18 % for both
+blocks and thus the number of samples depends on model
+resolution (e.g., 240 000 for UCI and 1 400 000 for NCAR in
+block 1). Although the analysis here is limited to the Paciﬁc

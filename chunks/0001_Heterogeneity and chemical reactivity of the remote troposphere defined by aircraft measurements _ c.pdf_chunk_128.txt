@@ -1,0 +1,11 @@
+mosphere, which for the oceanic transects is, we believe, ad-
+equately resolved by the 10 s ATom measurements. Perhaps
+more surprising, given the different mean proﬁles in Fig. 3,
+is that the ﬁve model PDs in Fig. 5 look very much alike.
+5
+Discussion and path forward
+5.1
+Major ﬁndings
+This paper opens a door for what the community can do with
+the ATom measurements and the derived products. ATom’s
+mix of key species allows us to calculate the reactivity of

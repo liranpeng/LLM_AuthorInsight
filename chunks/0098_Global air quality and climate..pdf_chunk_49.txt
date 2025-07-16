@@ -1,0 +1,8 @@
+0.65 W m2. Myhre77 report a best estimate for aerosol
+direct RF of 0.3 W m2 after reconciling divergent estimates
+from modeling and observational approaches by accounting
+for diﬀerences in cloud-masked forcing and changes over the
+last century in bulk aerosol optical properties. Sulfate, nitrate
+and OC aerosol scatter radiation with direct aerosol RFs
+estimated as 0.4 W m2, 0.1 W m2 and 0.05 W m2
+respectively.10 BC absorbs solar and infrared radiation resulting

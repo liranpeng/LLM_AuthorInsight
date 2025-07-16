@@ -1,0 +1,7 @@
+Article
+sources (DLEM, GFED4s, and FAOSTAT), slightly decreased at a rate of 
+−0.03 ± 0.04 Tg N yr−1 per decade (P = 0.3) since the 1980s (Extended 
+Data Fig. 5d). This contribution is largely affected by climate and land 
+use change64,65. Of the three data sources, the DLEM estimate exhib-
+ited substantial inter-annual variability, especially during 1980–2000 
+when extreme fire events were detected in 1982, 1987, 1991, 1994 and

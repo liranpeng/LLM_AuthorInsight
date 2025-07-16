@@ -1,0 +1,8 @@
+sion and data sets are found on the NASA mission website (https://
+espo.nasa.gov/atom/content/ATom, last access: 13 September 2021)
+and in the ﬁnal archive at Oak Ridge National Laboratory (ORNL;
+https://daac.ornl.gov/ATOM/guides/ATom_merge.html, last access:
+13 September 2021). The MATLAB codes and data sets used in the
+analysis here are posted on Dryad (https://doi.org/10.7280/D1Q699,
+Guo, 2021).
+Supplement. The supplement related to this article is available on-

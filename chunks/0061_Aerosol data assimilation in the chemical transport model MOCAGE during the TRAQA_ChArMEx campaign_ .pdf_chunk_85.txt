@@ -1,0 +1,23 @@
+error (RMSE) between SEVIRI observations and MOCAGE di-
+rect/assimilation model run for the western Mediterranean during
+the TRAQA campaign between 25 June and 13 July 2012. The mean
+number of SEVIRI observations per hour is also given. The statistics
+correspond to Fig. 3 with the observations localized in the region 0–
+10◦E, 35–45◦N (marked in Fig. 5 by the grey box).
+MOCAGE direct
+MOCAGE assimilation
+Nobs (h−1)
+ρ
+1
+RMSE
+ρ
+1
+RMSE
+SEVIRI
+20875
+0.83
+0.14
+0.17
+0.96
+0.08
+0.09

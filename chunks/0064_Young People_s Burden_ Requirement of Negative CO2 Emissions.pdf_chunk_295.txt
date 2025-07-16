@@ -1,0 +1,40 @@
+2010
+2015
+2020
+2025
+2030
+1600
+1700
+1800
+1900
+2000
+2100
+Observations
+RCP8.5
+RCP6.0
+RCP4.5
+RCP2.6
+CH4 abundance (ppb)
+(a)
+2000
+2005
+2010
+2015
+2020
+2025
+2030
+ 315
+ 320
+ 325
+ 330
+ 335
+ 340
+ 345
+Observations
+RCP8.5
+RCP6.0
+RCP4.5
+RCP2.6
+N2O abundance (ppb)
+(b)
+Figure A7. Comparison of observed CH4 and N2O amounts with RCP scenarios. RCP6.0 and 4.5 scenarios for N2O overlap. Observations

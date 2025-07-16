@@ -1,0 +1,8 @@
+and 20–60◦N). The means (ppb day−1) and standard devi-
+ations (ppb day−1) of single-longitude sampling across the
+mid-Paciﬁc (155–233◦E) on 16 August are shown for the
+UCI-CTM in Table 2 along with the standard deviation (in %)
+over the 31 days of August of the daily full-domain average.
+The standard deviations are a measure of the representative-
+ness of the sampling, by longitude or by day. For L-CH4, the
+dominant mean loss, > 1 ppb day−1, is in the surface–500 hPa

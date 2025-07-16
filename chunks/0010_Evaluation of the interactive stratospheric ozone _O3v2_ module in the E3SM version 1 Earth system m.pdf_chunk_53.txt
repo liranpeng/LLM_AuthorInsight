@@ -1,0 +1,7 @@
+mean cross section (latitude by pressure) of ozone abundance
+(ppm, mole fraction in parts per million) as shown in Fig. 4.
+https://doi.org/10.5194/gmd-14-1219-2021
+Geosci. Model Dev., 14, 1219–1236, 2021
+1224
+Q. Tang et al.: Interactive stratospheric ozone (O3v2) in E3SM
+Figure 3. Taylor diagrams of various data sets. (a) The area-weighted multi-year annual cycle of SCO (Fig. 1) and area-weighted year-to-year

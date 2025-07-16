@@ -1,0 +1,5 @@
+evolutions. CSET demonstrated the feasibility of a Lagrangian sampling strategy with NSF/
+NCAR GV aircraft to study cloud system evolution. The range, endurance, and 
+observational capabilities of the GV make it an ideal tool for studying shallow boundary 
+layer clouds and mesoscale cloud systems over large domains. The HCR and HSRL remote 
+sensing capabilities on the GV were critical to the success of CSET. They provided a

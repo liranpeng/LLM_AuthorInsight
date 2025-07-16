@@ -1,0 +1,43 @@
+NMHC speciﬁcations
+species
+biomass burning
+fossil fuel
+C2H6
+0.1014350
+0.05974
+C3H8
+0.0322390
+0.09460
+C4H10
+0.0416749
+0.7154
+C2H4
+0.1904856
+0.03715
+C3H6
+0.0849224
+0.01570
+CH3OH
+0.1075290
+0.01436
+CH3CHO
+0.0483586
+0.
+CH3COOH
+0.1136230
+0.
+CH3COCH3
+0.0501278
+0.02375
+HCHO
+0.0609397
+0.004787
+HCOOH
+0.0404954
+0.
+MEK
+0.1281699
+0.03447
+Biogenic emissions for isoprene and NO emissions from
+soils were also included based on online calculations with the
+EMAC model (ECHAM5/MESSy, atmospheric chemistry)

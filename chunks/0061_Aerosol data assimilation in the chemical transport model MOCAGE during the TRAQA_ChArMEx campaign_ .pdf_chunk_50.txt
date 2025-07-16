@@ -1,0 +1,18 @@
+rors and the spatial structure of the analysis. The background
+error covariance matrix B is a matrix of size j × j, where j
+is the size of the control variable. It can be represented as
+B = 4C4T,
+(10)
+where 4 is the diagonal matrix of the square root of the vari-
+ances, and C is the positive deﬁnite symmetric matrix of cor-
+relations. In the case of the preconditioned cost function, the
+matrix is formulated as
+B
+1
+2 = 4C
+1
+2 ,
+(11)
+where C
+1
+2 is the square root of the matrix C. Because neither

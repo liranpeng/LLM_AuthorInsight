@@ -1,0 +1,6 @@
+instead of “1c minus 1” for UM CAM. Stratospheric change is shown only for the models that calculate stratospheric chemistry explicitly.
+The tropopause level in this analysis is based on the NCEP year 2000 reanalysis.
+all models with stratospheric chemistry, although the magni-
+tude of the decrease varies among the models. Qualitatively
+the stratospheric ozone change agrees well with observed
+changes (IPCC, 2001; WMO, 2003), although disagreement

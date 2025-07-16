@@ -1,0 +1,41 @@
+CCM
+sfc – 4.6 hPa
+7
+IPSL/LSCE
+D. Hauglustaine
+3.8◦lon×2.5◦lat
+GCM, or nudged to ECMWF:
+LMDzINCA
+S. Szopa
+19 levels
+ERA15, ERA40,
+CCM
+sfc – 3 hPa
+Operational Data (OD)
+8
+University of Edinburgh
+D. Stevenson
+5◦×5◦
+GCM (HadAM3)
+STOCHEM HadAM3
+9 levels
+CTM
+sfc – 100 hPa
+9
+University of Oslo
+M. Gauss
+T42 (2.8◦×2.8◦)
+ECMWF: Integrated Forecast
+UIO CTM2
+I. Isaksen
+40 levels
+System (IFS) pieced-forecast
+CTM
+sfc – 10 hPa
+data for 2000
+10
+FRSGC/JAMSTEC
+O. Wild
+T42 (2.8◦×2.8◦)
+ECMWF: IFS
+FRSGC UCI

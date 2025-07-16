@@ -1,0 +1,8 @@
+servations or some external chemistry–climate model simu-
+Published by Copernicus Publications on behalf of the European Geosciences Union.
+1220
+Q. Tang et al.: Interactive stratospheric ozone (O3v2) in E3SM
+lation. The problem with this approach is that the externally
+prescribed ozone never aligns with the model’s dynamical
+boundaries (i.e., tropopause, Antarctic stratospheric vortex),
+and thus heating by ozone is deposited across these bound-

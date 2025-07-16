@@ -1,0 +1,10 @@
+reviewer for ﬁnding the coding inconsistencies/errors, and Cloud-J
+should now be more reliable across platforms.
+Edited by: R. Sander
+References
+Atkinson, R., Baulch, D. L., Cox, R. A., Crowley, J. N., Hamp-
+son, R. F., Hynes, R. G., Jenkin, M. E., Rossi, M. J., Troe, J.,
+and Wallington, T. J.: Evaluated kinetic and photochemical data
+for atmospheric chemistry: Volume IV – gas phase reactions of
+organic halogen species, Atmos. Chem. Phys., 8, 4141–4496,
+doi:10.5194/acp-8-4141-2008, 2008.

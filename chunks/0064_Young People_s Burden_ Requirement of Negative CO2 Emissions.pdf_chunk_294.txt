@@ -1,0 +1,26 @@
+.5
+1.0
+1.5
+2.0
+Observations
+Alternative scenario
+Global surface temperature
+Temperature anomaly (°C)
+Figure A6. Simulated global temperature with historical climate forcings to 2000 followed by the alternative scenario. Historical climate
+forcings are discussed in the main text.
+Earth Syst. Dynam., 8, 577–616, 2017
+www.earth-syst-dynam.net/8/577/2017/
+J. Hansen et al.: Young people’s burden: requirement of negative CO2 emissions
+607
+2000
+2005
+2010
+2015
+2020
+2025
+2030
+1600
+1700
+1800
+1900
+2000

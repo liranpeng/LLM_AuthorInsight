@@ -1,0 +1,8 @@
+dances in the critical zone are likewise increasing more
+quickly. Because of the reduction in photolysis rates, we ex-
+pect the abundance to be increasing at about +6 %/decade.
+Can we see this in the MLS N2O data? The monthly
+mean 30◦S–30◦N N2O abundances are shown in Fig. 1f.
+The trends are clear but vary over altitude. At the bot-
+tom of the critical zone (32 hPa) the trend is negative,
+−3.4 ± 0.5 %/decade, and is probably due to a residual nega-

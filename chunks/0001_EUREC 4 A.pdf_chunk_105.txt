@@ -1,0 +1,6 @@
+B. Stevens et al.: EUREC4A
+4079
+Figure 9. Divergence of the horizontal wind versus height (a), and vertical pressure velocity versus height (b). Divergence estimated from
+dropsonde measurements and vertical pressure velocity derived from these for the two sets of circles ﬂown on 5 February. The black dashed
+line on the rightmost panel denotes vertical pressure velocity averaged over all EUREC4A-Circle dropsonde measurements.
+two occasions the ATR returned to the measurement zone af-

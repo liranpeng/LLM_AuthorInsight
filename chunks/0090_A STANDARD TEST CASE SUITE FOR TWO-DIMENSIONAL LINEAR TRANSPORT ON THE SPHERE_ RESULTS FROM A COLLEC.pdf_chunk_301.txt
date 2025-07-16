@@ -1,0 +1,28 @@
+Table A3. Icosahedral resolution N, average grid spacing at the
+Equator 1λave and time step 1t used for schemes SLFV-SL and
+SLFV-ML.
+N
+Approximate 1λave
+NR
+Time step (1t)
+24
+3.0◦
+5762
+0.01285
+48
+1.5◦
+23 042
+0.00642
+96
+0.75◦
+92 162
+0.00321
+192
+0.375◦
+368 642
+0.00161
+fact, this grid correction is equivalent to a single step Lloyd’s
+optimization.
+For a unit sphere, the length of a basic spherical triangle is
+ω = 1.1071. The arc length at a resolution N is calculated as
+ω

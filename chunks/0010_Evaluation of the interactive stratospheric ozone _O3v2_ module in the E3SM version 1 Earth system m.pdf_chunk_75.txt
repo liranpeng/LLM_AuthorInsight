@@ -1,0 +1,10 @@
+the mean ±1 SD.
+ﬂux in location and with a slight time delay of less than a
+month (Jacob, 1999). In the UCI CTM, the STE ﬂux is diag-
+nosed at the tropopause as deﬁned by an e90 tracer (Prather
+et al., 2011) and is able to resolve the STE ﬂuxes across mul-
+tiple tropopauses in the same column (Hsu et al., 2005; Tang
+et al., 2013; Hsu and Prather, 2014). Near-surface uptake of
+O3v2 ozone is minimal in the tropics, and thus we com-
+pare these two modeled STE ﬂuxes as monthly hemispheric
+means.

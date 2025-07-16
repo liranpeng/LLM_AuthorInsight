@@ -1,0 +1,8 @@
+cially in the tropospheric forcings. In the stratosphere, and
+for ULAQ in particular, there is some disagreement in the
+net forcing, which is, however, the sum of the two large LW
+and SW contributions of opposite sign, which themselves
+agree rather well. Also, it has to be noted that, related to
+extrapolation procedures, UiO-RTM took into account ozone
+changes up to about 42 km (which is the upper boundary of
+the ECMWF model layer being used in the UiO-RTM) while

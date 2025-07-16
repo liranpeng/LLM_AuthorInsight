@@ -1,0 +1,8 @@
+K.: Numerically stable algorithm for discrete-ordinate-method
+radiative-transfer in multiple-scattering and emitting layered me-
+dia, Appl. Optics, 27, 2502–2509, 1988.
+Tie, X. X., Madronich, S., Walters, S., Zhang, R. Y., Rasch,
+P., and Collins, W.: Effect of clouds on photolysis and
+oxidants in the troposphere, J. Geophys. Res., 108, 4642,
+doi:10.1029/2003jd003659, 2003.
+Wild, O., Zhu, X., and Prather, M. J.: Fast-J: accurate simulation of

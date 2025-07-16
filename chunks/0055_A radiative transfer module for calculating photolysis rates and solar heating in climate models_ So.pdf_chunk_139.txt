@@ -1,0 +1,8 @@
+scattering phase function could be used directly. The par-
+ent RRTM-SW code has the option of using a more accurate
+16-stream scattering code but would in general be computa-
+tionally much more expensive than the eight-stream Solar-J.
+The basic costs of the matrix inversions (Fast-J via Feautrier,
+1964) or eigenvalue solutions (RRTM via DISORT; Stamnes
+et al., 1988) scale as n3. For the same eight-stream solution,
+DISORT performs eigenvalue decomposition of 8 × 8 ma-

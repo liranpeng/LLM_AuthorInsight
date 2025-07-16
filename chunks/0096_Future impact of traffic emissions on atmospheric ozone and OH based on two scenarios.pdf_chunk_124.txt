@@ -1,0 +1,9 @@
+Grewe, V., Tsati, E., and Hoor, P.: On the attribution of contributions
+of atmospheric trace gases to emissions in atmospheric model
+applications, Geosci. Model Dev., 3, 487–499, doi:10.5194/gmd-
+3-487-2010, 2010.
+Grewe, V., Dahlmann, K., Matthes, S., and Steinbrecht, W.:
+Attributing ozone to NOx emissions: Implications for cli-
+mate mitigation measures, Atmos. Environ., 59, 102–107,
+doi:10.1016/j.atmosenv.2012.05.002, 2012.
+Grooß, J. U., Bruhl, C., and Peter, T.: Impact of aircraft emissions

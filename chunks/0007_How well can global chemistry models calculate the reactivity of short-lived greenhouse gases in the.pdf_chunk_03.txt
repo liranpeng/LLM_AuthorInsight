@@ -1,0 +1,8 @@
+the most reactive air parcels in terms of tropospheric produc-
+tion and loss of the greenhouse gases ozone and methane.
+Presupposing that we can accurately measure atmospheric
+composition, we examine whether models constrained by
+such measurements agree on the chemical budgets for ozone
+and methane. In applying our technique to a synthetic data
+stream of 14 880 parcels along 180◦W, we are able to iso-
+late the performance of the photochemical modules oper-

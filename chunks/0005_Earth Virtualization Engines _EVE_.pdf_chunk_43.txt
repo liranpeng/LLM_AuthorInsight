@@ -1,0 +1,8 @@
+J., Sobel, A., Solman, S., Spitzer, J., Stier, P., Stocker, T., Strock, S.,
+Su, H., Taalas, P., Taylor, J., Tegtmeier, S., Teutsch, G., Tompkins,
+A., Ulbrich, U., Vidale, P.-L., Wu, C.-M., Xu, H., Zaki, N., Zanna, L.,
+Zhou, T., and Ziemen, F.: Earth Virtualization Engines (EVE), Earth
+Syst. Sci. Data, 16, 2113–2122, https://doi.org/10.5194/
+essd-16-2113-2024, 2024.
+Received: 19 Sep 2023 – Discussion started: 22 Sep 2023 – Revised:
+11 Feb 2024 – Accepted: 19 Feb 2024 – Published: 30 Apr 2024

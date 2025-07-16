@@ -1,0 +1,4 @@
+overlap, McICA, 2-stream, and δ-1 scaling) minus SJ/RAN (MAX-RAN, QCA, 8-stream, Mie/T-matrix phase 
+functions). The primary global-mean component differences are (−2.1, −2.4, +4.4 W m−2) (T1/R21), among 
+the largest found in our range of case studies. If we remove the McICA sampling issues by specifying aver-
+aged clouds, the RRTMG minus Solar-J difference is (−0.4, −2.7, +3.0 W m−2) (T1R20). These differences

@@ -1,0 +1,16 @@
+ies, J. Atmos. Sci., 49, 762–772, https://doi.org/10.1175/1520-
+0469(1992)049<0762:ASRMFU>2.0.CO;2, 1992.
+Clough,
+S.,
+Shephard,
+M.,
+Mlawer,
+E.,
+Delamere,
+J.,
+Ia-
+cono, M., Cady-Pereira, K., Boukabara, S., and Brown,
+P.: Atmospheric radiative transfer modeling: a summary of
+the AER codes, J. Quant. Spectrosc. Ra., 91, 233–244,
+https://doi.org/10.1016/j.jqsrt.2004.05.058, 2005.
+Cole, J. N. S.: Assessing the importance of unresolved cloud-

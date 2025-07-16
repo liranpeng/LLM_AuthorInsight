@@ -1,0 +1,8 @@
+Forecast System. The model is conﬁgured as described by
+Tang and Prather (2010, 2012a, b). Simulations are 1◦× 1◦
+resolution with 40 vertical layers, which is amongst the high-
+est resolution for current global chemistry models, and cov-
+ers 2005–2006, which is the duration of the high-resolution
+meteorological ﬁelds. The lowest model layer is about 80 m
+thick, and we use that layer-mean value as the surface O3
+concentration. MDA8 values are calculated from hourly sim-

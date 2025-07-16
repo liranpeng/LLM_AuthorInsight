@@ -1,0 +1,25 @@
+concentrations
+ECMWF ERA-5
+20 years (3)
+OsloCTM
+OsloCTM3
+~2.25 × 2.25° with 60
+vertical levels
+i) present-day control run with ﬁxed
+H2 surface concentrations
+ii) 10% increase in H2 surface
+concentrations
+iii) 10% increase in CH4 surface
+concentrations
+ECMWF OpenIFS 3 hr
+forecast data
+20 years (1)
+OsloCTM-emi
+OsloCTM3
+~2.25 × 2.25° with 60
+vertical levels
+i) present-day control run with H2
+emissions
+ii) 14 Tg yr−1 increase in H2
+emissions.
+(the results from (iii) in OsloCTM is

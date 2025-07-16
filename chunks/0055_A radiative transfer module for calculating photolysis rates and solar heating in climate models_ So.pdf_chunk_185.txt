@@ -1,0 +1,13 @@
+Sci.,
+57,
+766–785,
+https://doi.org/10.1175/1520-
+0469(2000)057<0766:Riotgo>2.0.Co;2, 2000.
+Henyey, L. G. and Greenstein, J. L.: Diffuse Light in the Galaxy,
+Astrophys. J., 93, 70–83, https://doi.org/10.1086/144246, 1941.
+Hess, M., Koepke, P., and Schult, I.: Optical Properties of
+Aerosols and Clouds: The Software Package OPAC, B. Am.
+Meteorol. Soc., 79, 831–844, https://doi.org/10.1175/1520-
+0477(1998)079<0831:OPOAAC>2.0.CO;2, 1998.
+Heymsﬁeld, A. J., Matrosov, S., and Baum, B.: Ice Wa-
+ter

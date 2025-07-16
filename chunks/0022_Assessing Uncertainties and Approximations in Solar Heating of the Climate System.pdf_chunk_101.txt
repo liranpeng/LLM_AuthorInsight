@@ -1,0 +1,4 @@
+(τ ∼ 10). The zero-error point moves from SZA of about 60° at τ ∼ 0.01 toward smaller SZAs with increasing 
+τ up to 10. For thick clouds (τ > 10), the relative errors and the dipole patterns are comparatively minor. 
+Similar patterns are also shown in Figures 2c and 5a of B2015 for the visible band and the near-infrared 
+band respectively. However, the zero-error point in B2015 stays in the SZA = 40–50° range.

@@ -1,0 +1,9 @@
+cles). The mean reactivities (ppb d−1) from the models and
+ATom are given in the legend; note that the model values are
+based on the August climatologies (P2017) and not the MDS-
+0 values in the table. The “ATom” legend values are the same
+as in Table 2. The PD binning is shown by the open circles,
+and occurrences of off-scale reactivities are included in the
+last point.
+For the Paciﬁc (eastern + central, left columns, Fig. 5), the
+modeled PD climatologies are similar for each of the reactiv-

@@ -1,0 +1,28 @@
+Community Atmosphere Model –
+Lin and Rood (1996)
+Regular latitude–longitude
+2
+Finite-Volume
+Lin (2004)
+CAM-SE
+Community Atmosphere Model –
+Dennis et al. (2012)
+Gnomonic cubed-sphere
+4
+Spectral Elements
+Neale et al. (2010); Guba et al. (2013)
+(quadrature grid)
+CCSRG
+Conservative cascade scheme for
+Nair et al. (2002)
+Reduced latitude–longitude
+3
+the reduced grid
+Tolstykh and Shashkin (2012)
+CLAW
+Wave propagation algorithm
+LeVeque (2002)
+Two-patch sphere grid
+2
+on mapped grids
+CSLAM

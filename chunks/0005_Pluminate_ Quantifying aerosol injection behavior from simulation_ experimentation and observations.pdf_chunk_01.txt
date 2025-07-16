@@ -1,0 +1,9 @@
+simulation, experimentation
+and observations
+Technical Report · Wed Nov 01 00:00:00 EDT 2023
+DOI:https://doi.org/10.2172/2430132· OSTI ID:2430132
+Patel, Lekha [1]; Zenker, Jake Paul [1]; Pattyn, Christian
+Alexander [1]; Warburton, Pierce David [1]; Shuler, Kurtis Woodfin [1];
+McMichael, Lucas [2]; Schmidt, Michael John [1]; Blossey, Peter [2];
+Roesler, Erika Louise [1]; Mondragon, Kathryn [1]; Sanchez, Andres
+L. [1]; Wright, Jeremy Benjamin [1]; Wood, Robert [2]

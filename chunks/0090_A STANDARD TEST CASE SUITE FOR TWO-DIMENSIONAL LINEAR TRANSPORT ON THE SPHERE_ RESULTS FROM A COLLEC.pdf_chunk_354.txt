@@ -1,0 +1,10 @@
+Geosci. Model Dev., 7, 105–145, 2014
+www.geosci-model-dev.net/7/105/2014/
+P. H. Lauritzen et al.: Results from standard test case suite
+145
+Lagrangian method in a high-resolution version of the ECMWF
+forecast model, Mon. Weather Rev., 123, 489–514, 1995.
+Sadourny, R., Arakawa, A., and Mintz, Y.: Integration of the
+nondivergent barotropic vorticity equation with an icosahedral-
+hexagonal grid for the sphere, Mon. Weather Rev., 96, 351–356,
+1968.

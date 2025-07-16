@@ -1,0 +1,8 @@
+bations are likely to be small compared to internal climate
+variability, therefore we request at least three ensemble mem-
+bers for each experiment, using different ensemble members
+of historical as the starting points. The climate impacts of
+the anthropogenic emissions of NTCFs, aerosols and ozone-
+depleting halocarbons can then be diagnosed by subtract-
+ing the perturbed runs from the historical climate and eval-
+uated against internal variability diagnosed from piControl.

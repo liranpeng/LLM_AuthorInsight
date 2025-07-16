@@ -1,0 +1,8 @@
+Wetter, T., and Wirth, V.: Highly resolved observations of trace
+gases in the lowermost stratosphere and upper troposphere from
+the Spurt project: an overview, Atmos. Chem. Phys., 6, 283–301,
+https://doi.org/10.5194/acp-6-283-2006, 2006.
+Esler, J. G.: An integrated approach to mixing sensitivities in tropo-
+spheric chemistry: A basis for the parameterization of subgrid-
+scale emissions for chemistry transport models, J. Geophys.
+Res.-Atmos., 108, 4632, https://doi.org/10.1029/2003jd003627,

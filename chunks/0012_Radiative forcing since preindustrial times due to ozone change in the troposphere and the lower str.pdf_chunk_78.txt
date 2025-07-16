@@ -1,0 +1,11 @@
+Simpliﬁed calculations were used
+in STOCHEM HadGEM1 and CHASER (based on the
+method of Randel and Wu, 1999) and FRSCG (linearized
+ozone based on McLinden et al., 2000).
+UM CAM,
+STOCHEM HadAM3, and LMDzINCA did not calculate
+stratospheric change explicitly.
+The scenarios deﬁned for this study are listed in Table 3.
+The year 2000 simulation is labeled “scenario 2”. A variety
+of scenarios was deﬁned for 1850 in order to distinguish be-
+tween contributions from changes in ozone precursors, ozone

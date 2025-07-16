@@ -1,0 +1,4 @@
+of acetylene and ethane levels over Greenland and Antarctica to various sources (Nicewonger et al., 2018,
+2020). Sensitivities were estimated by deﬁning a reference model simulation of the modern atmosphere
+and adding acetylene‐like and ethane‐like tracer species (Nicewonger et al., 2018, 2020). These tracers react
+with the same OH lifetime and stratospheric loss rate as acetylene and ethane but do not affect the abun-

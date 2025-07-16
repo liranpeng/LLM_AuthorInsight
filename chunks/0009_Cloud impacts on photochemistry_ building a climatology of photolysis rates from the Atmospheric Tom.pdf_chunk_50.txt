@@ -1,0 +1,11 @@
+for J-O1D, MOCA for J-NO2), and these differences carry
+through to J-cloudy (Fig. 1). A most important factor in J-
+O1D is the O3 column, and Fig. S3 shows the modeled O3
+columns for
+August compared with 8 years of OMI ob-
+servations. MOCA, NCAR, and IFS have low tropical O3
+columns, < 250 DU vs. observed ∼265 DU, which could
+lead to higher J-O1D, but this effect is seen only in MOCA.
+www.atmos-chem-phys.net/18/16809/2018/
+Atmos. Chem. Phys., 18, 16809–16828, 2018
+16814

@@ -1,0 +1,8 @@
+with negligible impact on N2O loss. The N2O vertical grid
+between 146 and 1 hPa (six evenly spaced log(pressure) lev-
+els per decade) is coarser than that of O3 and T (both use 12
+intervals per decade). The missing N2O levels in the O3–T
+grid are calculated as the square root of the product of the
+values on the adjacent levels. For pressures <0.4 hPa, where
+MLS V5 N2O data are not reported, we set the abundance to
+0 ppb. Our consolidated MLS dataset then covers 43 latitudes

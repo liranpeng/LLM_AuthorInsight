@@ -1,0 +1,7 @@
+reference mature forest. The difference between primary forests and 
+secondary forests were subtracted from natural soil emissions simu-
+lated by six terrestrial biosphere models in NMIP.
+We calculated the ensemble of oceanic N2O emission based on the 
+bottom-up approach (five ocean biogeochemical models; Supple-
+mentary Table 18) and the top-down approach (five estimates from 
+four inversion models; Supplementary Table 19). The atmospheric

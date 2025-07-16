@@ -1,0 +1,11 @@
+observation error correlations, which means that all non-
+diagonal members (covariances) in the matrix R are zero.
+The matrix R is reduced to its diagonal with the variances
+of measurements:
+R = Dy = diag(σ 2
+obs).
+(12)
+The background and observation error variances, located
+along the diagonal of B and R, inﬂuence the weight of the
+model and observations in the cost function. In this study,
+we speciﬁed them as a percentage of the ﬁrst guess ﬁeld for

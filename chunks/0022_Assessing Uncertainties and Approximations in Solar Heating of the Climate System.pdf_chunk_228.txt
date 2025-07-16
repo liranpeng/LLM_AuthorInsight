@@ -1,0 +1,4 @@
+Jin, Z., Charlock, T. P., Smith, W. L., & Rutledge, K. (2004). A parameterization of ocean surface albedo. Geophysical Research Letters, 31, 
+L22301. https://doi.org/10.1029/2004GL021180
+Jin, Z. H., Qiao, Y. L., Wang, Y. J., Fang, Y. H., & Yi, W. N. (2011). A new parameterization of spectral and broadband ocean surface albedo. 
+Optics Express, 19(27), 26429–26443.

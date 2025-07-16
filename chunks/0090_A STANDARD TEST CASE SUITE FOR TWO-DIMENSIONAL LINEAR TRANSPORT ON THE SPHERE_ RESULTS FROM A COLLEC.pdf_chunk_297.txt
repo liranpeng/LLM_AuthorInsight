@@ -1,0 +1,8 @@
+volume stencil of width 5. The 1.5◦and 0.75◦grids corre-
+spond to 60 × 60 and 120 × 120 elements per cubed-sphere
+panel. The equivalent resolution runs at 1.05◦(fourth-order
+reconstruction) and 0.92◦(third-order reconstruction) cor-
+respond to 86 × 86 and 98 × 98 elements per cubed-sphere
+panel. The time steps at 1.5◦and 0.75◦(at CN 0.8) are T/720
+and T /1440, respectively. As with CSLAM, the Barth and
+Jespersen (1989) ﬁlter was used for positivity preservation.

@@ -1,0 +1,9 @@
+where the weight for each time index is the areal extent of
+the episode on that day. This method reduces the effect of
+the tails of the episode (early and late days with few events),
+providing a more robust measure of the duration of extreme
+pollution. The mean daily areal extent is simply the total size
+divided by the duration. Finally, we deﬁne the mean episode
+size, ( ¯S), over a given time frame (e.g., individual years, full
+decade) as the weighted geometric mean of AQX episodes:
+¯S = exp

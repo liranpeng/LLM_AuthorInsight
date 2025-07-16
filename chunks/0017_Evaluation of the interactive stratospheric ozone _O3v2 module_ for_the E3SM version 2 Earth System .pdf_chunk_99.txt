@@ -1,0 +1,17 @@
+O3v1
+O3v2
+O3v1 HR
+O3v1 LRtunedHR
+λ
+−1.36
+−1.38
+−1.29
+−1.20
+tropopause lifting at the tropics (see Sect. 4.1). These consis-
+tent changes likely hint that the same mechanism (Brewer–
+Dobson circulation) is responsible for the E3SM sensitivity
+change.
+In summary, the E3SM climate representation is slightly
+altered (some slight improvements but more small degrada-
+tions) with the new O3v2 scheme compared to the default
+O3v1 scheme. Nevertheless, the changes do not affect the ﬁ-

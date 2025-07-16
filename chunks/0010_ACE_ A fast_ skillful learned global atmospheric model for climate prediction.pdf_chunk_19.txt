@@ -1,0 +1,14 @@
+spatial points and channels, and ˆxi as the corresponding prediction, the loss for a batch of size
+B is
+1
+B
+PB
+i=1
+∥ˆxi−xi∥2
+∥xi∥2
+. The loss is computed after a single 6-hour forward step. Optimization
+hyperparameters are listed in Table 4.
+2.3
+Evaluation
+We are not aware of any existing purely machine learning based system that allows for long (at least
+10-year) forecasts and includes a vertically resolved view of the entire atmosphere. Therefore, we

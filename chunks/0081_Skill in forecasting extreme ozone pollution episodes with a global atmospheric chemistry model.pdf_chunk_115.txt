@@ -1,0 +1,8 @@
+episode, but human discernment identiﬁes them as two dif-
+ferent episodes adjoined by only a small number of events.
+Our revised algorithm deﬁnes a cutoff in order to separate
+these dangling episodes. For each episode identiﬁed with the
+primary algorithm, we calculate the area of the events for
+each day and the area of events that are shared with the pre-
+vious day (i.e., the same grid cell on 2 consecutive days). If
+the ratio of the shared area divided by the total area of that

@@ -1,0 +1,6 @@
+(e.g. Kollias et al, 2000; Giangrande et al 2012; Ming et al, 2017). Mie notches were 
+observed frequently during CSET and will be used to deduce vertical air motions in more 
+heavily precipitating clouds using the HCR.
+The HSRL used in CSET is an eye-safe calibrated lidar system that measures backscatter 
+cross section, extinction and depolarization properties of atmospheric aerosols and clouds 
+(Razenkov et al. 2002 and 2008). The HSRL provides estimates of cloud base heights while

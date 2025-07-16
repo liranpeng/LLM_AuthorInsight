@@ -1,0 +1,10 @@
+Global Fire Emission Database project and Lamarque et al. (2010)
+for the biomass burning and carbonaceous aerosol emissions, the
+MODIS mission team and scientists for the production of the
+MODIS data, as well as Thieuleux et al. (2005b) and the ICARE
+data centre for developing and producing the SEVIRI-retrieved
+aerosol data that we used in this study.
+Edited by: W. Lahoz
+Reviewed by: three anonymous referees
+References
+Andersson, E., Haseler, J., Undén, P., Courtier, P., Kelly, G., Vasil-

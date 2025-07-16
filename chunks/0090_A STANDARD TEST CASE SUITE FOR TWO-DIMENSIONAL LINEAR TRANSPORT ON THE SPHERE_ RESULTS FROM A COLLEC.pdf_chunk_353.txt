@@ -1,0 +1,9 @@
+doi:10.1007/s10236-008-0157-2, 2008.
+Ringler, T. D., Jacobsen, D., Gunzburger, M., Ju, L., Duda, M.,
+and Skamarock, W.: Exploring a Multiresolution Modeling Ap-
+proach within the Shallow-Water Equations, Mon. Weather Rev.,
+139, 3348–3368, doi:10.1175/MWR-D-10-05049.1, 2011.
+Ritchie, H.: Semi-LAgrangian advection on a Gaussion grid, Mon.
+Weather Rev., 115, 608–619, 1987.
+Ritchie, H., Temperton, C., Simmons, A., Hortal, M., Davies,
+T., Dent, D., and Hamrud, M.: Implementation of the semi-

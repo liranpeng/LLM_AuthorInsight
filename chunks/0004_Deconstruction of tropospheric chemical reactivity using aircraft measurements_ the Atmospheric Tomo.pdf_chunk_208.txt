@@ -1,0 +1,7 @@
+Atlantic basins. The loss frequency is calculated from the sensitivity calculation dln(L-O3 minus P-O3)/dln(O3).
+Figure 68. (a) O3 loss frequency (d−1) vs. pressure altitude
+(km), averaged over the Paciﬁc (blue) and Atlantic (red) basins for
+ATom-1. The true linearized loss frequency (1/T T, solid lines) is
+compared with the often-used approximation (1/T A = L-O3/O3,
+dashed lines). (b) Altitude proﬁles for both ocean basins of P-O3
+(solid) and L-O3 (dashed), both in parts per billion per day.

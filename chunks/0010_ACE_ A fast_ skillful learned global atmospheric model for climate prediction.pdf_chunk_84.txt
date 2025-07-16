@@ -1,0 +1,9 @@
+reference simulation.
+14
+Figure 10: Timeseries of monthly-mean and global-mean (top) T7, (middle) total water path and
+(bottom) surface precipitation rate P from 100-year forecast.
+and no variables showed long-term drifts. However, there are some unrealistic fluctuations on annual
+timescales, for example for global mean surface precipitation rate (bottom row of Figure 10).
+G
+Global mean conservation
+The last paragraph of Section 3 discussed the column budget of moisture and showed that ACE

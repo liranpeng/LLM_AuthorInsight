@@ -1,0 +1,11 @@
+rain formation. Helping in this regard is that variations in
+CCN concentrations are not too rapid to call into question
+the idea of associating a 3 h period of measurements on the
+EUREC4A-Circle with a particular concentration of CCN:
+50 % of the Ragged Point measurements change by less than
+10 % over a 3 h period, and only 20 % of the time are changes
+larger than 30 % measured.
+3.3
+Sub-cloud mass, matter, energy, and momentum
+budgets
+Early ﬁeld studies extensively and compellingly documented

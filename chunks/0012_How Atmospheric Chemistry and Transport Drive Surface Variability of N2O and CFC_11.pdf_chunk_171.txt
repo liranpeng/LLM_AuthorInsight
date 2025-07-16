@@ -1,0 +1,4 @@
+oxide fluxes estimated using inversion methods. Journal of Geophysical Research, 116(17), 1–14. https://doi.org/10.1029/2011jd015815
+Thompson, R. L., Chevallier, F., Crotwell, A. M., Dutton, G., Langenfelds, R. L., Prinn, R. G., et  al. (2014). Nitrous oxide emissions 
+1999 to 2009 from a global atmospheric inversion. Atmospheric Chemistry and Physics, 14(4), 1801–1817. https://doi.org/10.5194/
+acp-14-1801-2014

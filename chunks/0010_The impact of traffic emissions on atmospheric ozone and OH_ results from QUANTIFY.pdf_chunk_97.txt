@@ -1,0 +1,8 @@
+tions since in those studies the applied resolutions coarser
+than 3.75◦×3.75◦(Schumann, 1998) or T21 (Gauss et al.,
+2006). The model with the lowest resolution (p-TOMCAT)
+in our study also calculates the strongest average perturba-
+tions which are in the range of 150–232.5 pptv (or 1.6–4.2%
+when scaling to 100%) with maxima during summer exceed-
+ing 300 pptv. The coarse resolution leads to an instantaneous
+spread of the emissions over large areas and volumes which

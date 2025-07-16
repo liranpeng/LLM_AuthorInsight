@@ -1,0 +1,16 @@
+Geosci. Model Dev., 7, 105–145, 2014
+www.geosci-model-dev.net/7/105/2014/
+P. H. Lauritzen et al.: Results from standard test case suite
+107
+Table 1. A list of acronyms (ﬁrst column), full names (second column), documentation (third column), implementation grid (fourth column),
+and formal order of accuracy (ﬁfth column) for schemes in this paper.
+Scheme
+Full scheme name
+Documentation
+Implementation grid
+Formal
+acronym
+order
+CAM-FV
+Community Atmosphere Model –
+Lin and Rood (1996)

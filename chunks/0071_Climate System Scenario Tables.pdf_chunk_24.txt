@@ -1,0 +1,8 @@
+Table AII.2.13: Anthropogenic HFC-227ea emissions (Gg yr–1)
+Table AII.2.14: Anthropogenic HFC-245fa emissions (Gg yr–1)
+Table AII.2.15: Anthropogenic HFC-43-10mee emissions (Gg yr–1)
+Table AII.2.16: Anthropogenic CO emissions (Tg yr–1)
+Table AII.2.17: Anthropogenic NMVOC emissions (Tg yr–1)
+Table AII.2.18: Anthropogenic NOX emissions (TgN yr–1)
+Table AII.2.19: Anthropogenic NH3 emissions (TgN yr–1)
+Table AII.2.20: Anthropogenic SOX emissions (TgS yr–1)

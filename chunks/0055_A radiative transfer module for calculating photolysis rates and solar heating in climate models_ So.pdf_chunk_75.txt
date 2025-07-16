@@ -1,0 +1,31 @@
+www.geosci-model-dev.net/10/2525/2017/
+Geosci. Model Dev., 10, 2525–2545, 2017
+2532
+J. Hsu et al.: A radiative transfer module
+Table 3. The standard tropical atmosphere and the two cloud proﬁles implemented in both Solar-J and RRTMG-SW. Height (Z) and pressure
+(P ) are edge values; others are layer averages.
+Layer
+Zedge
+Pedge
+T
+O3
+H2O
+Stratus cloud LWC
+Cirrus cloud IWC
+(km)
+(hPa)
+(K)
+(cm−3)
+(kg kg−1)
+LWC (g m−3) re (µm)
+IWC (g m−3) re (µm)
+58
+75.25
+0.020
+57
+59.58
+0.200
+232.4
+1.27E+09
+3.85e−06
+0

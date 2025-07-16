@@ -1,0 +1,9 @@
+https://doi.org/10.1038/nclimate2357, 2014.
+Meinshausen, M., Smith, S. J., Calvin, K., Daniel, J. S., Kainuma,
+M. L. T., Lamarque, J. F., Matsumoto, K., Montzka, S. A., Raper,
+S. C. B., Riahi, K., Thomson, A., Velders, G. J. M., and van Vu-
+uren, D. P. P.: The RCP greenhouse gas concentrations and their
+extensions from 1765 to 2300, Climatic Change, 109, 213–241,
+2011a.
+Meinshausen, M., Wigley, T. M. L., and Raper, S. C. B.: Em-
+ulating atmosphere–ocean and carbon cycle models with a

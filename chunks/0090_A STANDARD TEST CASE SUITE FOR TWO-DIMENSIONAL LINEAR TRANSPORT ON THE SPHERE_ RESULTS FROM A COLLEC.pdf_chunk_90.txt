@@ -1,0 +1,8 @@
+(CGA) has been developed that splits and merges edges ac-
+cording to deformation criteria. The details are explained in
+Dong and Wang (2013). For the computation of diagnos-
+tics, the ﬁelds are mapped to a regular latitude–longitude
+grid (which is also done for coupling with physical param-
+eterizations). This mapping is ﬁrst-order, mass-conservative
+and shape-preserving. Note that the prognostic ﬁelds are al-
+ways retained in Lagrangian space, so the mapping is only

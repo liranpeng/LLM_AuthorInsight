@@ -1,0 +1,23 @@
+say t = trm, new particle data are deﬁned, (bxj,bαj,bφj), where
+bxj is a grid point on either the cubed-sphere or icosahedral
+mesh, bαj the corresponding Lagrangian parameter satisfying
+Geosci. Model Dev., 7, 105–145, 2014
+www.geosci-model-dev.net/7/105/2014/
+P. H. Lauritzen et al.: Results from standard test case suite
+139
+Table A1. HOMME hyperviscosity parameters.
+Reason
+p
+Limiter
+Resolution
+Hyperviscosity
+ν scaled
+1t
+coefﬁcient ν [m4 s−1]
+as
+[s]
+Convergence
+3
+No limiter
+1.5◦
+6.6 × 1014

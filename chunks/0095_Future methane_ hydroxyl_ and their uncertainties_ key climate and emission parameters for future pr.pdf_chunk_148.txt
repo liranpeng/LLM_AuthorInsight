@@ -1,0 +1,9 @@
+spheric chemistry (Oslo CTM3), we calculate the strato-
+spheric chemical effects of methane, including those medi-
+ated by water vapor. Combining the troposphere and strato-
+sphere results, the total methane-induced ozone RF is 50 %
+of the direct methane RF. Based on these data, the 100-yr
+methane GWP is 32, which is higher than several previous
+estimates around 25.
+Supplementary material related to this article is
+available online at: http://www.atmos-chem-phys.net/13/

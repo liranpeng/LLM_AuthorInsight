@@ -1,0 +1,4 @@
+large-scale models. Quarterly Journal of the Royal Meteorological Society, 130, 2047–2067.
+Séférian, R., Baek, S., Boucher, O., Dufresne, J.-L., Decharme, B., Saint-Martin, D., et al. (2018). An interactive ocean surface albedo scheme 
+(OSAv1.0): Formulation and evaluation in ARPEGE-Climat (V6.1) and LMDZ (V5A). Geoscientific Model Development, 11, 321–338. 
+https://doi.org/10.5194/gmd-11-321-2018

@@ -1,0 +1,8 @@
+10, 11681–11705, doi:10.5194/acp-10-11681-2010, 2010.
+Lamarque, J.-F., Bond, T. C., Eyring, V., Granier, C., Heil, A.,
+Klimont, Z., Lee, D., Liousse, C., Mieville, A., Owen, B.,
+Schultz, M. G., Shindell, D., Smith, S. J., Stehfest, E., Van Aar-
+denne, J., Cooper, O. R., Kainuma, M., Mahowald, N., Mc-
+Connell, J. R., Naik, V., Riahi, K., and van Vuuren, D. P.: His-
+torical (1850–2000) gridded anthropogenic and biomass burning
+emissions of reactive gases and aerosols: methodology and ap-

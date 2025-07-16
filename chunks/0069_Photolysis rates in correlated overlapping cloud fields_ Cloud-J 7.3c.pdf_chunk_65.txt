@@ -1,0 +1,7 @@
+polation points, temperature, or pressure of the cross sections.
+We assume that the 12:00 LT J’s (clear-sky, tropical atmosphere,
+albedo = 0.10, SZA = 15◦) apply for 8 of 24 h. Equivalent rates for
+OH loss are shown with the species name in the legend and assume
+a 12:00 LT OH density of 6 × 106 cm−3. Asterisks denote species
+for which photolysis loss is greater than or comparable to OH loss.
+VOC abbreviations are MGlyxl: methyl glyoxal, Glyxl: glyoxal,

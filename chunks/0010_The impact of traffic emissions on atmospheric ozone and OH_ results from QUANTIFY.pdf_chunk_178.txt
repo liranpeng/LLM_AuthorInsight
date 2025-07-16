@@ -1,0 +1,9 @@
+http://www.atmos-chem-phys.net/8/3337/2008/.
+Hidalgo, H. and Crutzen, P.: The tropospheric and stratospheric
+composition perturbed by NOx emissions of high-altitude air-
+craft, J. Geophys. Res., 82, 5833–5866, 1977.
+Holtslag, A. A. M. and Boville, B.: Local vesus nonlocal boundary-
+layer diffusion in a global climate model, J. Climate, 6, 1825–
+1842, 1993.
+Houweling, S., Dentener, F., and Lelieveld, J.: The impact of non-
+methane hydrocarbon compounds on tropospheric photochem-

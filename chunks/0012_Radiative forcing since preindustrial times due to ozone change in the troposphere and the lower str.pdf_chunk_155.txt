@@ -1,0 +1,8 @@
+(see Fig. 5) and the strong altitude dependence of the LW
+forcing. Ozone increase is seen primarily at high altitudes
+(middle stratosphere) where the resulting (positive) LW forc-
+ing is small, while ozone decrease is modeled at lower alti-
+tudes (lower tropical stratosphere), where the resulting (neg-
+ative) LW forcing is large. The net effect of these changes is
+thus to reduce the net radiative forcing.
+The radiative forcing results calculated by the UiO-RTM

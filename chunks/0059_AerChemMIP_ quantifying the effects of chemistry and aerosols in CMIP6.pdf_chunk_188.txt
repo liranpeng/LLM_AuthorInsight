@@ -1,0 +1,8 @@
+ing modelling groups (see details on the CMIP Panel web-
+site at http://www.wcrp-climate.org/index.php/wgcm-cmip/
+about-cmip). In order to run the experiments, datasets for
+natural and anthropogenic forcings are required. These forc-
+ing datasets are described in separate invited contributions
+to this Special Issue. The forcing datasets will be made
+available through the ESGF (https://pcmdi.llnl.gov/projects/
+input4mips/) with version control and DOIs assigned.

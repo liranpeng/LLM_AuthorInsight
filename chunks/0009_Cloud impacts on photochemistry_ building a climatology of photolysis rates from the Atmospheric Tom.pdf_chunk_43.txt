@@ -1,0 +1,9 @@
+are mostly in daylight and hence a large proportion of CAFS
+measurements occur at high sun, cos(SZA) > 0.6, with more
+than half at cos(SZA) > 0.8 (Supplement Fig. S1). The mod-
+els report hourly J-O1D and J-NO2 globally over 24 h, and
+thus all have a similar distribution of cos(SZA) but with a
+Atmos. Chem. Phys., 18, 16809–16828, 2018
+www.atmos-chem-phys.net/18/16809/2018/
+S. R. Hall et al.: Cloud impacts on photochemistry
+16813

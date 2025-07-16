@@ -1,0 +1,8 @@
+for gridding the air quality station observations so that di-
+rect comparison with global atmospheric chemistry mod-
+els can be made. We then examine climatologies of sur-
+face ozone (percentiles, seasonality, probability distributions,
+AQX episodes) based on the observations and use them to
+test a chemistry-transport model (UCI CTM) run in hindcast
+mode, attempting to simulate each day’s MDA8 O3 concen-
+trations for the years 2005–2006. Surprisingly, we ﬁnd that

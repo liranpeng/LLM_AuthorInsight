@@ -1,0 +1,6 @@
+that will lead ultimately to improved simulations of low-level clouds in global models. The 
+observational techniques developed and demonstrated using the NSF/NCAR GV as an 
+observing platform provides a firm basis for future studies of boundary layer cloud regimes 
+using the GV.
+Acknowledgments:
+A special note of thanks and appreciation goes to NCAR Earth Observing System staff supporting CSET for their

@@ -1,0 +1,4 @@
+(0.7–2.4 µm) to 0.10 µm (2.5 µm–4.0 µm). Four thin colored lines plotted on top of the ice cloud data are taken from 
+Ping Yang's library (Bi & Yang, 2017) of ice crystal optics for droxtals, 8-columns, 10-plates, and small bullet rosettes, all 
+with roughness value of 003). The Reff values of 48 µm correspond to maximum diameters of 112, 312, 738, and 238 µm, 
+respectively. The Zhao et al. (2018) new derivation of ice-cloud single scattering albedo for the RRTMG bands is shown

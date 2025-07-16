@@ -1,0 +1,40 @@
+Atmos. Chem. Phys., 14, 6801–6812, 2014
+www.atmos-chem-phys.net/14/6801/2014/
+C. D. Holmes et al.: The climate impact of ship NOx emissions
+6805
+60°S
+30°S
+0
+30°N
+60°N
+mmol(NOx) m-2 yr-1
+mol(O3) mol(NOx)-1
+DU
+0
+1
+2
+3
+0.0
+0.5
+1.0
+1.5
+2.0
+Ship emissions
+Δ O3 column
+Plume chemistry
+Instant dilution
+Fixed OPE
+All
+0
+10
+20
+30
+OPE
+12.5
+8.5
+8.0
+0.8
+0.5
+0.6
+Figure 3. Annual- and zonal-mean NOx emission and ozone
+changes caused by maritime shipping plotted against sine latitude

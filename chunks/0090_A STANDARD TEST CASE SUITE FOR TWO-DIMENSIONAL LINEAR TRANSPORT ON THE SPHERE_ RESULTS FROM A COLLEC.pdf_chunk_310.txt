@@ -1,0 +1,23 @@
+k,iφ in local x and y directions, which we
+obtain by solving
+∇x
+k,iφ di
+x + ∇y
+k,iφ di
+y = φi −φ0,
+(A17)
+∇x
+k,iφ di+1
+x
++ ∇y
+k,iφ di+1
+y
+= φi+1 −φ0,
+(A18)
+where di = P(rk,i) −rk is the position vector of the pro-
+jected neighboring centroid rk,i relative to rk, and φi (resp.
+φ0) is the value of the scalar ﬁeld φ at rk,i (resp. rk). The gra-
+dients ∇k,iφ are then averaged to get ∇kφ. We have veriﬁed
+that this yields a ﬁrst-order approximation of the gradient on
+non-optimized grids.
+A14.4

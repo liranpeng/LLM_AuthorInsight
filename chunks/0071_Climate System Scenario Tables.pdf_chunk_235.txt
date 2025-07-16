@@ -1,0 +1,9 @@
+2100
+RCP8.5
+8.27 ± 0.50
+0.55 ± 0.18
+–0.12 ± 0.03
+8.71 ± 0.53
+Notes:
+Radiative forcing and adjusted forcing from the ACCMIP results (Shindell et al., 2013) are given for all well-mixed greenhouse gases (WMGHG), ozone, aerosols, and the net. Original 90% confidence 
+intervals have been reduced to 68% confidence to compare with the CMIP5 model standard deviations in Table AII.6.10. Some uncertainty ranges (*) are estimated from the 2100 RCP8.5 results

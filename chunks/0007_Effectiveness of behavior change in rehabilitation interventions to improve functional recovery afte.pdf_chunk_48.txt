@@ -1,0 +1,9 @@
+group (non-significant).
+Meta‑analysis of quality of life
+Two studies reported a global quality of life score [23, 
+28]. Kearney 2021 [28] reported the EQ-5D-5L [32] at 
+16 weeks and Moseley 2015 [23] reported the Assessment 
+of Quality of Life Instrument [33] at three months. Three 
+studies [24, 26, 30] reported the Short-Form 36 (SF-36); 
+this is split into a Mental and Physical component, and 
+combining them into a global score for meta-analysis is

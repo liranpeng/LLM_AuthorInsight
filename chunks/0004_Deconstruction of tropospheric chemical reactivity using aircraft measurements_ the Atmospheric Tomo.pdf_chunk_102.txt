@@ -1,0 +1,7 @@
+goal of estimating the errors in the modeled budgets caused
+by errors in the modeled values of the critical species.
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+https://doi.org/10.5194/essd-15-3299-2023
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements
+3317
+Figure 20. Curtain plots of L-CH4 (ppb d−1) in the tropical eastern Paciﬁc (0–30◦N) for ATom-1234. See Fig. 6.

@@ -1,0 +1,8 @@
+basins and ATom-1234 shown in each panel. The solid col-
+ored lines are calculated for one day with v3 NOxﬁt, and the
+dashed colored lines are calculated for v2b NOx. For P-O3,
+the difference is visible at different altitudes for ATom-234,
+but the proﬁle shape is clearly changed for ATom-3 Paciﬁc
+10–12 km and ATom-2 Atlantic 0–2 km. Remembering that
+only NOx changes here with v3 and that P-O3 has the high-
+est sensitivity to NOx, we expect the other reactivities (L-O3,

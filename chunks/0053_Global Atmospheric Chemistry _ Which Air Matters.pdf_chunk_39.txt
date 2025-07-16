@@ -1,0 +1,62 @@
+Tr. Pac.
+Global
+Tr. Pac.
+Global
+Tr. Pac.
+Global
+CAM4-Chem
+A
+0.979
+2.070
+1.963
+1.802
+1.017
+0.745
+GEOS-Chem
+B
+0.791
+2.252
+1.616
+1.837
+0.765
+0.738
+GFDL-AM3
+C
+0.860
+2.036
+1.550
+1.535
+0.726
+0.599
+GISS-E2
+D
+1.092
+3.715
+2.589
+3.409
+0.453
+0.693
+GMI-CTM
+E
+0.778
+1.513
+1.834
+1.690
+0.848
+0.674
+UCI-CTM
+F
+1.088
+2.100
+1.788
+1.990
+0.854
+0.702
+All results are mass-weighted by tropospheric parcels up to 200 hPa
+from the model C-runs for 16 August.
+(d) Model references
+Model
+Code
+Relevant references
+CAM4-Chem
+A

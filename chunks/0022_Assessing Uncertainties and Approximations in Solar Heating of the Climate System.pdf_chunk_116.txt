@@ -1,0 +1,3 @@
+rosettes) with roughness of 000 (solid), 003 (dashed), and 050 (dotted). The coefficients of the Legendre polynomials (PL, L = 0:7, as used in Solar-J) derived 
+from a fit to the full phase function are divided by 2L+1. The Henyey-Greenstein extension of the phase function using the asymmetry parameter g (value 
+shown at L = 1) shows a reasonable approximation to the Mie phase functions, but not those for ice crystals. The T-matrix hexagonal/cold phase function

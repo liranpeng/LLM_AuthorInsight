@@ -1,0 +1,4 @@
+has near-exact, but costly solutions; whereas the atmospheric physics of the problem involving gases, clouds, 
+aerosols and surface properties includes unknowns that cause a fundamental uncertainty in the solution. One 
+motivation for this study is to evaluate the potential improvements in solar heating rates if more accurate 
+physics or RT codes are used, but the overriding motivation is to assess a wide range of approximations and un-

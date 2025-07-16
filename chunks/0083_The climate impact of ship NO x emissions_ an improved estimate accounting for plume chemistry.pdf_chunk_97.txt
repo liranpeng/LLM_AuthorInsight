@@ -1,0 +1,10 @@
+108,
+4650,
+doi:10.1029/2003JD003751, 2003.
+Corbett, J. J., Lack, D. A., Winebrake, J. J., Harder, S., Silber-
+man, J. A., and Gold, M.: Arctic shipping emissions invento-
+ries and future scenarios, Atmos. Chem. Phys., 10, 9689–9704,
+doi:10.5194/acp-10-9689-2010, 2010.
+Dalsøren, S. B., Endresen, O., Isaksen, I. S. A., Gravir, G., and Sor-
+gard, E.: Environmental impacts of the expected increase in sea
+transportation, with a particular focus on oil and gas scenarios

@@ -1,0 +1,8 @@
+zenith angles (SZAs) at 0, 21, 62, and 84◦, whose respective
+cosine values are 1.0, 0.93, 0.47, and 0.10.
+The two cloud proﬁles are extracted from the 3-hourly,
+July 2005 ECMWF Integrated Forecast System (IFS) data.
+This data set has a horizontal resolution of 1◦× 1◦in longi-
+tude and latitude, and 37 vertical layers with about 0.5 km
+vertical resolution in the troposphere. Our example of ma-
+rine stratus clouds has liquid-water content (LWC, g m−3)

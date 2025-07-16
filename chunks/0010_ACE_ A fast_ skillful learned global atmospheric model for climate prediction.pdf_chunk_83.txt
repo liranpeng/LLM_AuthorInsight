@@ -1,0 +1,32 @@
+SHF [W/m²]
+−0.4
+−0.2
+0.0
+USWRFtoa [W/m²]
+−0.5
+0.0
+ULWRFtoa [W/m²]
+0.0
+0.5
+DSWRFsfc [W/m²]
+−1
+0
+DLWRFsfc [W/m²]
+0.00
+0.02
+0.04
+USWRFsfc [W/m²]
+0.0
+0.2
+ULWRFsfc [W/m²]
+ACE
+baseline
+reference
+run
+Global and time-mean bias
+Figure 8: The global- and time-mean bias (Equation 7) of all output variables for ACE, the coarser
+resolution baseline and the reference simulation.
+13
+Figure 9: The daily averaged global mean (Equation 5) of all output variables for ACE and the
+reference simulation.
+14

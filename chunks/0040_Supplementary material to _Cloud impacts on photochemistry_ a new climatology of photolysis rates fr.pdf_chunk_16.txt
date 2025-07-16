@@ -1,0 +1,4 @@
+dependence on wavelength and incident-angle now in Cloud-J v8, see text.  The fixed albedo is denoted by 'a =' in 
+the legend.  These distributions show the relative error in J-values calculated in typical models using a fixed albedo 
+instead of the more physically based OSA models (Séférian et al., 2018).  For both cases the reflected sunlight is 
+assumed to be isotropic.  The OSA depends on surface wind (sampled uniformly from 1 to 21 m/s) and chlorophyll

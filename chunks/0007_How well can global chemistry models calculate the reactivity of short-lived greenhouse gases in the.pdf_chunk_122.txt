@@ -1,0 +1,8 @@
+global models used within phase 1 of the Chemistry–Climate
+Model Initiative (CCMI), Geosci. Model Dev., 10, 639–671,
+https://doi.org/10.5194/gmd-10-639-2017, 2017.
+Myhre, G., Aas, W., Cherian, R., Collins, W., Faluvegi, G., Flan-
+ner, M., Forster, P., Hodnebrog, Ø., Klimont, Z., Lund, M.
+T., Mülmenstädt, J., Lund Myhre, C., Olivié, D., Prather, M.,
+Quaas, J., Samset, B. H., Schnell, J. L., Schulz, M., Shindell,
+D., Skeie, R. B., Takemura, T., and Tsyro, S.: Multi-model sim-

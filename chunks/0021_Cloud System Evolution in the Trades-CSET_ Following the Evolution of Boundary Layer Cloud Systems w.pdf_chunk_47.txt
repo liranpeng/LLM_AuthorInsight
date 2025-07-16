@@ -1,0 +1,6 @@
+spectral irradiances.
+Two key remote sensing systems used on the GV during CSET were the HIAPER Cloud 
+Radar (HCR) developed by NCAR EOL and the High Spectral Resolution Lidar (HSRL) 
+developed under the NSF HIAPER Aircraft Instrumentation Solicitation (HIAS; ref). These 
+remote sensing instruments were used to define macroscopic and microscopic cloud 
+properties as the GV flew above, below, and in the clouds. The HCR characteristics are

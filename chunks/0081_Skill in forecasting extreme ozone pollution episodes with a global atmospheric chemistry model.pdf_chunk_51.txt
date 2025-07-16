@@ -1,0 +1,8 @@
+of the sites), we can examine how the cell-average values
+change relative to standard result using the full set of sites.
+The RMSE for this case is also plotted in Fig. 2. It provides a
+measure of the error in the cell-average ozone, but is at best a
+lower limit. The RMSE remains small, at about 1 ppb or less,
+for QP = 0.7 to 100 and increases to 2 ppb for QP = 0.33. It
+is encouraging that relative error estimates can be made and
+that our cutoff of QP = 0.67 is a good choice. Note that this

@@ -1,0 +1,9 @@
+scheme for advection equations, Q. J. R. Meteorol. Soc., 122,
+1211–1226, 1996.
+Takahashi, Y. O., Hamilton, K., and Ohfuchi, W.: Explicit global
+simulation of the mesoscale spectrum of atmospheric motions,
+Geophys. Res. Lett., 33, L12812, doi:10.1029/2006GL026429,
+2006.
+Taylor, M. A. and Fournier, A.: A compatible and conservative spec-
+tral element method on unstructured grids, J. Comput. Phys., 229,
+5879–5895, doi:10.1016/j.jcp.2010.04.008, 2010.

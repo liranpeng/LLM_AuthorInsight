@@ -1,0 +1,8 @@
+Stordal, F., Zhu, X., Holmes, C. D., and Hsu, J.: The chemical
+transport model Oslo CTM3, Geosci. Model Dev., 5, 1441–1469,
+https://doi.org/10.5194/gmd-5-1441-2012, 2012.
+Spivakovsky, C. M., Logan, J. A., Montzka, S. A., Balkanski, Y. J.,
+Foreman-Fowler, M., Jones, D. B. A., Horowitz, L. W., Fusco, A.
+C., Brenninkmeijer, C. A. M., Prather, M. J., Wofsy, S. C., and
+McElroy, M. B.: Three-dimensional climatological distribution
+of tropospheric OH: Update and evaluation, J. Geophys. Res.-

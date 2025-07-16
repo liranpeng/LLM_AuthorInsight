@@ -1,0 +1,4 @@
+Another consequence of this study is the extremely tight correlation of the interannual surface variations 
+in F11 with those of N2O found in both models. With this relationship, it is possible to use the observed 
+interannual N2O variations to remove the stratospheric influence on F11 and deduce its changing emis-
+sions. Interannual variations in N2O emissions will certainly disrupt this tight relationship, but based on

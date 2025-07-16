@@ -1,0 +1,8 @@
+an additional BC RF of +0.1  0.4 W m2.82
+The impact of anthropogenic aerosol on clouds is more
+uncertain. The ﬁrst aerosol indirect eﬀect, also known as the
+cloud albedo eﬀect, was estimated by the IPCC AR4 to be
+0.7 W m2 (range 0.3 to 1.8 W m2).10 Quaas et al.83 used
+satellite data to estimate a smaller cloud albedo eﬀect of
+0.2 W m2, potentially suggesting that models may be over-
+estimating the eﬀect. However, a more recent multi-model

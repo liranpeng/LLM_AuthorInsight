@@ -1,0 +1,8 @@
+(termed Rn). Connecting the new edge points by great circle
+arcs yields n2 spherical triangles within the original triangle.
+This step is followed by k bisection steps (termed Bk), where
+each triangle is consecutively subdivided into four smaller
+triangles. This results in a so-called RnBk grid. The inter-
+mediate grids and the ﬁnal grid are further optimized using
+spring dynamics (Tomita et al., 2001), with the spring coef-
+ﬁcient set to β = 0.9. For a given resolution RnBk, the total

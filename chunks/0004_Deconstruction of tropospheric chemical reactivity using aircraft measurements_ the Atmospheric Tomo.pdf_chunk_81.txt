@@ -1,0 +1,8 @@
+very low-reactivity statistics for ATom-23 Arctic are seen in
+Table 1. Stratospheric air parcels are excluded in these Arc-
+tic statistics. Reactivities appear to be moderately high, but
+the color scale is 3 times smaller than in Figs. 6–25. Simi-
+larly to the ocean basins, in the Arctic much of the P-O3 oc-
+curs above 8 km, and losses (L-O3, L-CH4, L-CO) occur be-
+tween 1 and 6 km. Curiously, there is a region of high L-CO
+above 10 km in the region of high P-O3. Notably, that rate

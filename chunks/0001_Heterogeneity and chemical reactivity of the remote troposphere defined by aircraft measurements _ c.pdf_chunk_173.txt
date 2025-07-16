@@ -1,0 +1,9 @@
+USA, https://doi.org/10.3334/ORNLDAAC/1581, https://daac.
+ornl.gov/ATOM/guides/ATom_merge.html (last access: 12 De-
+cember 2022), 2018.
+Wolfe, G. M., Nicely, J. M., Clair, J. M. S., Hanisco, T. F., Liao, J.,
+Oman, L. D., Brune, W. B., Miller, D., Thames, A., Abad, G. G.,
+and Ryerson, T. B.: Mapping hydroxyl variability throughout the
+global remote troposphere via synthesis of airborne and satel-
+Atmos. Chem. Phys., 23, 99–117, 2023
+https://doi.org/10.5194/acp-23-99-2023

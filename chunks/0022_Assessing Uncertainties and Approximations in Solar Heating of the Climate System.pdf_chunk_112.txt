@@ -1,0 +1,6 @@
+with Solar-J 8-stream scattering relative to the standard Mie phase function, see Table 2. Row (iv) shows the difference, RRTMG minus SJ/δ1. All calculations 
+use grid-cell averaged liquid clouds only. The green dashed line encloses the region with SZA < 40o.
+Journal of Advances in Modeling Earth Systems
+HSU AND PRATHER
+10.1029/2020MS002131
+13 of 24

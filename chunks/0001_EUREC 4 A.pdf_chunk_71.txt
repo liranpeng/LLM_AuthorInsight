@@ -1,0 +1,10 @@
+3Meridional Overturning Variability Experiment mooring lo-
+cated 50 nmi (nautical miles) northwest of the NTAS and not shown
+in Fig. 1.
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+https://doi.org/10.5194/essd-13-4067-2021
+B. Stevens et al.: EUREC4A
+4075
+Figure 4. Map showing surface- and subsurface-platform trajectories, colored by (uncalibrated) near-surface water temperature for platforms
+with near-surface measurements.
+grangian monitoring of the ocean surface and subsurface dy-

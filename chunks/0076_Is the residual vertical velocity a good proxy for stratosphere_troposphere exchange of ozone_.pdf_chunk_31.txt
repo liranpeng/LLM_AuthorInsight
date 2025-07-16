@@ -1,0 +1,5 @@
+itude tropopause varies seasonally by 50 ppb or more. To test the sensitivity to the tropopause location, we
+also calculate STE O3 ﬂuxes across O3 isosurfaces of 120 ppb and 250 ppb.
+The second-order moments advection scheme [Prather, 1986] calculates tracer ﬂuxes across the six surfaces
+of each CTM grid box. Fluxes are accumulated when they cross a grid box surface that lies on the isosur-
+face. Thus, we compute O3 ﬂuxes directly into and out of the LMS for each time step, deﬁning the LMS

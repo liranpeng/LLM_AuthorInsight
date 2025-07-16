@@ -1,0 +1,9 @@
+www.atmos-chem-phys.net/17/2709/2017/
+Atmos. Chem. Phys., 17, 2709–2720, 2017
+2712
+G. Myhre et al.: Multi-model simulations of aerosol due to anthropogenic emission changes
+Figure 1. Global mean emissions for NOx, SO2, BC and OC for
+ECLIPSE (Klimont et al., 2016), data applied in Coupled Model
+Intercomparison Project (CMIP5) (Lamarque et al., 2010), and
+Community Emissions Data System (CEDS) to be used in CMIP6
+(Hoesly et al., 2017) over the period 1990–2015.

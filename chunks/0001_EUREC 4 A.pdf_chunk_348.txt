@@ -1,0 +1,12 @@
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+https://doi.org/10.5194/essd-13-4067-2021
+B. Stevens et al.: EUREC4A
+4109
+Table B12. CU-RAAVEN.
+Instrument
+Brief description
+Weather sensors
+Vaisala RSS-421 PTH sensors (two body-mounted RSS-421s, similar to sensors in RS41 radiosondes
+and RD41 dropsondes) measuring pressure, temperature, and relative humidity
+Multihole probe
+Black Swift Technologies multihole pressure probe measuring static and dynamic pressure, airspeed,

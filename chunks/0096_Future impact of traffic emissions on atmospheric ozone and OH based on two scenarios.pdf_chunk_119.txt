@@ -1,0 +1,8 @@
+doi:10.5194/acp-7-757-2007, 2007.
+Eyring, V., Isaksen, I. S. A., Berntsen, T., Collins, W. J., Corbett,
+J. J., Endresen, O., Grainger, R. G., Moldanova, J., Schlager,
+H., and Stevenson, D. S.: Transport impacts on atmosphere and
+climate: Shipping, Atmospheric Environment, 44, 4735–4771,
+doi:10.1016/j.atmosenv.2009.04.059, 2010.
+Folberth, G. A., Hauglustaine, D. A., Lathi`ere, J., and Brocheton,
+F.: Interactive chemistry in the Laboratoire de M´et´eorologie Dy-

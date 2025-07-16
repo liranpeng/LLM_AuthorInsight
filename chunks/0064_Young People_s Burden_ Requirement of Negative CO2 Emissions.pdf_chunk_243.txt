@@ -1,0 +1,9 @@
+which has not fully responded to the climate forcing due to
+increasing GHGs. However, land warming is heavily modu-
+lated by the ocean temperature, so land temperature too has
+not achieved its equilibrium response.
+We use long climate model simulations to examine how
+much the ratio of land SAT change over ocean SST change
+(the observed quantities) is modiﬁed as global warming ap-
+proaches its equilibrium response. This ratio is ∼1.8 in
+years 901–1000 of doubled CO2 simulations (Fig. A6) for

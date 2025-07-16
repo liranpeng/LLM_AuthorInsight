@@ -1,0 +1,19 @@
+Legendre Polynomial 0:7
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+coefficient / (2L+1)
+(a)
+Mie liq
+Mie ice
+Tmat irr
+Tmat hex
+HG ext
+Journal of Advances in Modeling Earth Systems
+ative of the convergent error reduction from 2-stream to 4-stream. If we extrapolate to 8-stream, we would 
+see the errors in δ-4SHE drop by a factor of 2–4. We looked separately at the error caused by δ-1 scaling of 
+ice clouds only and found it to be surprisingly small with global mean differences of < ±0.02 W m−2. So

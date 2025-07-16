@@ -1,0 +1,8 @@
+online at: https://doi.org/10.5194/acp-18-16809-2018-supplement.
+Author contributions. SRH and MJP designed this analysis. MJP
+developed the codes to analyze, compare, and plot the data. SRH
+and KU performed the CAFS analysis and contributed those data.
+All others ran the prescribed model experiments and contributed
+their model data. MJP and SRH prepared the manuscript with re-
+view and edits from all other co-authors.
+Competing interests. The authors declare that they have no conﬂict

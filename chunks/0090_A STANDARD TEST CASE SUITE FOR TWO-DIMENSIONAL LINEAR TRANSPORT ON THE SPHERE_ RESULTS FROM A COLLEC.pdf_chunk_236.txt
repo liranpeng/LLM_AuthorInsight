@@ -1,0 +1,9 @@
+schemes. To indicate possible multi-tracer efﬁciency, it is
+also listed what parts of the algorithm can be reused for each
+additional tracer. Of course for a given number of tracers, the
+efﬁciency is dependent on all parameters in this table and not
+just on the amount of information that can be reused.
+4
+Summary and conclusions
+Results from a wide range of schemes that have exercised
+a recently proposed test case suite (Lauritzen et al., 2012)

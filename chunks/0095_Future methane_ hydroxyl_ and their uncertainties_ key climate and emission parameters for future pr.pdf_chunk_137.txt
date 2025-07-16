@@ -1,0 +1,8 @@
+contributes up to 65 % of the direct RF. Previous IPCC as-
+sessments have assumed 25 % for purposes of calculating
+GWP (Shine et al., 1995; Forster et al., 2007), similar to
+a recent estimate of 21 % based on tropospheric changes
+alone (Fry et al., 2012). Methane perturbation data from
+the TAR (3.67 DU(O3) ppm(CH4)−1) (Prather et al., 2001),
+however, suggest that tropospheric ozone RF is about 40 %
+of the methane RF (154 mW m−2 ppm(CH4)−1, assuming

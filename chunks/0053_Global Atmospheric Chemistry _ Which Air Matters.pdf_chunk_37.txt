@@ -1,0 +1,35 @@
+2013
+C180L48
+0.5◦× 0.5◦× 71 hPa
+GISS-E2
+CCM
+Daily SSTs prescribed, winds nudged to MERRA
+2013
+2◦× 2.5◦× 40 L
+2◦× 2.5◦× 50 hPa
+GMI-CTM
+CTM
+MERRA
+2001
+1◦× 1.25◦× 72 L
+1◦× 1.25◦× 38 hPa
+UCI-CTM
+CTM
+ECMWF IFS Cy38r1
+2005
+T159N80L60
+1.1◦× 1.1◦× 38 hPa
+(b) Points of contact and model url’s
+Model
+POC
+Email
+Model url
+CAM4-Chem
+Jean-Francois Lamarque
+lamar@ucar.edu
+http://www.cesm.ucar.edu/models/current.html
+GEOS-Chem
+Lee Murray
+lee.murray@rochester.edu
+http://wiki.seas.harvard.edu/
+GFDL-AM3

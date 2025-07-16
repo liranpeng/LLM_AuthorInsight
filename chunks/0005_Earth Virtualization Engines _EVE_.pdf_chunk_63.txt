@@ -1,0 +1,8 @@
+granularity, globally”?
+There is no unequivocal definition of “local”, but many people
+would associate it with the environment that they can perceive with
+their senses and the space over which they typically move using
+their own power, if not a somewhat larger area. This defines local
+as about 1 km or perhaps between 0.1 and 10 km. Infrastructures
+are constructed, lives are lived, and impacts are felt on this scale of
+“granularity”. This has been appreciated for some time and has

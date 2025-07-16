@@ -1,0 +1,8 @@
+et al. (2011) approach, the problem of minimization of the
+cost function is better determined: the 2-D AOD observations
+constrain one 3-D variable as the unknown, compared to 24
+3-D variables as unknowns in the Liu et al. (2011) approach.
+The matrix B does not have to be deﬁned for all bins sepa-
+rately, nor does it need to contain the inter-bin covariances.
+Nevertheless, in order to linearize the observation operator,
+it is necessary to decide how the analysis increment δxa will

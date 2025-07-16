@@ -1,0 +1,45 @@
+averaged for the years 2001–2016 (i.e., all Januarys averaged, etc.). Vertical box-whiskers show the interannual peak-to-
+peak amplitude of the QBO in each hemisphere taken from Figure 3. ESRL, Earth System Research Laboratories; N2O, 
+Nitrous oxide; NOAA, National Oceanic and Atmospheric Administration; QBO, Quasi-Biennial Oscillation.
+J
+F
+M
+A
+M
+J
+J
+A
+S
+O
+N
+D
+J
+month
+318.5
+319.0
+319.5
+320.0
+320.5
+321.0
+N2OX (ppb)
+GMI annual cycle
+NH
+SH
+J
+F
+M
+A
+M
+J
+J
+A
+S
+O
+N
+D
+J
+month
+318.5
+319.0
+319.5
+320.0

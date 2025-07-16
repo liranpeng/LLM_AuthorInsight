@@ -1,0 +1,9 @@
+lation model (ECHAM5-OM) simulations. NCAR applied
+data from Parallel Climate Model simulations described by
+Washington et al. (2000), whereas LMDzINCA used SSTs
+based on Rayner et al. (1996). STOCHEM HadGEM1 used
+AMIP-II datasets for the present day climate, while for the
+preindustrial simulation the model applied data from a long
+term integration of the Hadley Centre HadCM3 coupled
+atmosphere-ocean climate model. Also UM CAM applied
+data from a Hadley Centre coupled ocean-atmosphere gen-

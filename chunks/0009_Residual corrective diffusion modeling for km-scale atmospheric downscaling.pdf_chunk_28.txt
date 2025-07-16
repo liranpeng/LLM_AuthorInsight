@@ -1,0 +1,9 @@
+Optimizing the stochastic calibration of CorrDiff is a logical area for
+future development.
+Fig. 2: Evaluation of model calibration.
+[image]
+Calibration is evaluated using spread skill ratios and rank
+histograms based on the same validation set used in Fig. 1 and
+Table 1. a, c, e, g show the ensemble standard deviation as a
+function of the RSME of mean prediction for 10-m eastward wind,
+radar reflectivity, 10-m northward wind and 2-m temperature,

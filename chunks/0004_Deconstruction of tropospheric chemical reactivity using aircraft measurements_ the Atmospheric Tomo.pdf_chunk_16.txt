@@ -1,0 +1,11 @@
+(R5)
+Photolysis of NO2 (J-NO2):
+NO2 + hv →NO + O.
+(R6)
+These rates are readily diagnosed in most CCMs. We found
+that the net P-O3 minus L-O3 describes the 24 h O3 tenden-
+cies over the ocean basins but not exactly as expected, and
+particularly not in highly polluted regions (G2023). Reac-
+tion (2c) is important in the tropospheric budget of O3 only
+above ATom ﬂight levels (12 km, Prather, 2009). In terms of
+the overall CO budget, we lack the chemical production of

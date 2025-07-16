@@ -1,0 +1,12 @@
+46; for use in modeling of the chem-
+istry and related statistics from the
+ATom 10 s data.
+Reactivity data stream (RDS-2b)
+(a) ATom_RDS2b.nc
+(a) netCDF ﬁle containing regularly spaced
+reactivities for 10 s parcels from ATom-1234
+(146 494 in total). Includes latitude, longitude,
+and pressure of model grid cell used in the cal-
+culation. Includes P-O3, L-O3, L-CH4, L-CO,
+and J-O1D, plus dO3/dt = net O3 change over
+24 h. Reactivities are given for 5 d separated by

@@ -1,0 +1,9 @@
+the two oceanic blocks in the Paciﬁc for which we have a
+large number of measurements with high sun in ATom-1. See
+also discussion of ocean surface albedo variations in Sect. 4.
+The CAFS statistics are derived from the ATom-1 deploy-
+ment and selected for two remote geographic blocks in or-
+der to compare with the models: (block 1) tropical Paciﬁc,
+20◦S–20◦N × 160–240◦E, and (block 2) North Paciﬁc, 20–
+50◦N × 170–225◦E.
+The models here include the six original ones used in the

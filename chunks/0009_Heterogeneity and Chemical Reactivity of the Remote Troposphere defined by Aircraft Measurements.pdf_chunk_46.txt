@@ -1,0 +1,8 @@
+ATom science team meetings, there was concern about the
+accuracy of NO2 direct measurements when at very low con-
+centrations. A group prepared an estimate for NOx using
+the NO and O3 measurements to calculate a photostation-
+ary value for NO2 and thus NOx. This PSS-NOx became the
+primary NOx source in version 0 (i.e., MDS-0). The num-
+bering of versions initially followed the notation of revisions
+in the mission data archive (MDS_R0, MDS_R1, ...), but

@@ -1,0 +1,5 @@
+Plain Language Summary  Nitrous oxide (N2O) is a long-lived greenhouse gas that drives 
+climate change and ozone depletion, posing a threat to society's health and well-being. The abundance 
+of N2O at Earth's surface, where we can measure it most precisely, fluctuates over seasons and years 
+due to increasing human emissions, variable natural emissions, varying stratospheric destruction, and 
+the movement of air throughout the atmosphere. Scientists use these fluctuations to separate natural

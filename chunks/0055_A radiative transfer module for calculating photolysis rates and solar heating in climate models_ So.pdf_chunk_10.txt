@@ -1,0 +1,9 @@
+TRAN (Rozanov et al., 2014). However, these more accurate
+reference codes have always been viewed as too computa-
+tionally expensive. In terms of climate model development,
+this is a solved problem with little intellectual interest but is
+too onerous to improve, and thus low-order approximations
+remain in place.
+We present here Solar-J version 7.5, a radiative trans-
+fer model based on the computationally optimized photol-
+ysis code, Cloud-J (Prather, 2015). Cloud-J combined an im-

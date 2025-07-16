@@ -1,0 +1,12 @@
+projections.
+Atmospheric
+climate
+models
+have
+ranged from simple one-dimensional representations to three-
+dimensional (3D), spatially and temporally resolved calculations
+of the atmosphere’s general circulation. The 3D model now
+includes detailed earth system components (e.g., the oceans and
+the pedosphere). The calculations involve 105 or more projections
+per single 100-year run with spatial resolution >100 km2, using
+~10 atmospheric layers and 2 oceanic layers. Detailed evaluation

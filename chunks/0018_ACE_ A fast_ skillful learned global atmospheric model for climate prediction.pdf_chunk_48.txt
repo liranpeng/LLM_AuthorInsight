@@ -1,0 +1,7 @@
+d-11-00238.1.
+6
+[13] Remi Lam, Alvaro Sanchez-Gonzalez, Matthew Willson, Peter Wirnsberger, Meire Fortunato,
+Ferran Alet, Suman Ravuri, Timo Ewalds, Zach Eaton-Rosen, Weihua Hu, Alexander Merose,
+Stephan Hoyer, George Holland, Oriol Vinyals, Jacklynn Stott, Alexander Pritzel, Shakir
+Mohamed, and Peter Battaglia. Graphcast: Learning skillful medium-range global weather
+forecasting. arXiv, 2022. doi:10.48550/ARXIV.2212.12794.

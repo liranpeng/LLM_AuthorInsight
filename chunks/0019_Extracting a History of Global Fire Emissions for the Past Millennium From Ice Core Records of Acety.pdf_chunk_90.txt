@@ -1,0 +1,18 @@
+Figure 4. Dry matter burned inferred from each gas record (a–d) and the resulting boreal dry matter burned (e–h).
+Shaded regions reﬂect the 1σ uncertainties in emissions and emission factors, which propagate into the calculation
+of dry matter. Modern estimate of dry matter burned from GFED4 is shown with the black star.
+Table 6
+Dry Matter Burned (Pg year−1) Inferred From the Three Ice Core Gas Records
+Scenario
+Acetylene
+Ethane
+Methane
+MP
+LIA
+% decline
+MP
+LIA
+% decline
+MP
+LIA
+% decline

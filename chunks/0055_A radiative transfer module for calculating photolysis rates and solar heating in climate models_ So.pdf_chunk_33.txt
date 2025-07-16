@@ -1,0 +1,8 @@
+cross sections) are lumped into one more sub-bin and added
+to Solar-J’s Chappuis band. In all, we took RRTMG’s 14 sub-
+bins from B24 and B25 and optimized these into 5 sub-bins
+for S18. The last 9 bins, S19–S27, are directly implemented
+from RRTMG and contain 78 sub-bins. The logic of having
+wavelength bins and then sub-bins within them is to allow
+the gaseous absorbers with similar opacities to be gathered
+into one sub-bin but to treat the scattering and absorption

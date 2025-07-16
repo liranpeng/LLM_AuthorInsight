@@ -1,0 +1,10 @@
+times larger occurrence of cloud dimming in the boundary
+layer. These differences could be caused by GMI calculat-
+ing J values with a single-column atmosphere (SCA) con-
+taining clouds with Briegleb (CF3/2) averaging and UCI cal-
+culating J values with four quadrature column atmospheres
+(QCAs); see Table 1. Unfortunately, when UCI mimics the
+B-averaging (with model UCIb), the differences remain. See
+further discussion of Fig. S6 in Sect. 4.1.
+4
+Model difﬁculties and development

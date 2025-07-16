@@ -1,0 +1,8 @@
+large scatter in both P -O3 and L-O3. While consistency does
+not guarantee correct implementation of the photochemical
+model (i.e., rate coefﬁcients, cross sections), uniqueness is
+something that needs more investigation as it may be an er-
+ror or may lead to ﬁxes in the “consistent” models. Scatter
+plots of J-NO2 and J-O1D vs. L-O3 (Fig. S4) show simi-
+lar J-value statistics for the ﬁve non-GISS models, and all
+models show a similar location of the three sets of points

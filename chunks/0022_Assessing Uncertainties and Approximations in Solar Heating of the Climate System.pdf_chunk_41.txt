@@ -1,0 +1,4 @@
+rately represented with a single RT solution. In wavelength regions with many sharp absorption lines, such 
+as the Schumann-Runge bands of O2 (177–202 nm), the opacity distribution method (Fang et al., 1974) sorts 
+the lines into bins of non-contiguous wavelength micro-bands with similar opacity. In parallel, the calcu-
+lation of heating rates uses the similar correlated-k distribution (Goody et al., 1989; Lacis & Oinas, 1991)

@@ -1,0 +1,5 @@
+nearly conserves column moisture for individual timesteps. Here we compute the area-weighted
+global mean of Equation 1 and show the global budget violation (left-hand side of Equation 1 minus
+right-hand side of Equation 1) in the left panel of Figure 11. Although for most of the simulation the
+violation is not overly large (magnitude less than 0.1 mm/day; compared to typical values of global
+mean precipitation or evaporation of 3 mm/day) at certain times in the simulation the global budget

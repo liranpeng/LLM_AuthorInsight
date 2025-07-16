@@ -1,0 +1,8 @@
+climate forcing of 0.48 ± 0.05 W m−2 (Myhre et al., 2013a),
+methane acts as a precursor to tropospheric ozone (Prather et
+al., 1994; Fiore et al., 2012), and is a dominant sink of the
+hydroxyl radical (OH), the primary tropospheric oxidising
+agent (Naik et al., 2013). As such, changes in methane emis-
+sions will also affect the lifetime of CH4 and related gases
+(Prather, 1994) and the formation of aerosols through oxi-
+dation of anthropogenic and natural precursors (Shindell et

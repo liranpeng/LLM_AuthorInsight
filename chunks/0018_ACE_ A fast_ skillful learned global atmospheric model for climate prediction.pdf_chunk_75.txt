@@ -1,0 +1,5 @@
+baseline and reference. Figure 7 shows the magnitude of the time-mean pattern errors (Equation 6)
+for each output variable except the total water path advective tendency which was not available for
+the baseline run. Out of the 44 output variables, an impressive 41 have lower RMSE for ACE when
+compared to the baseline.
+Figure 8 shows the time- and global-mean bias (Equation 7) for all output channels. In general biases

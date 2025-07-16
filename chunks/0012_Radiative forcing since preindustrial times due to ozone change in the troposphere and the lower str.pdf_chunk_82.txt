@@ -1,0 +1,10 @@
+chemistry only.
+Models without stratospheric chemistry
+had to simulate scenario 1b instead of 1c (LMDzINCA,
+UM CAM, STOCHEM HadAM3). Although the CHASER
+and STOCHEM HadGEM1 models do not have comprehen-
+sive stratospheric chemistry schemes they could perform sce-
+nario 1c, since their methods of calculating stratospheric
+change take into account changes in chlorine and bromine.
+During the integrations the CTMs used the same meteo-
+rology repeatedly (year 2000) and applied a sufﬁcient inte-

@@ -1,0 +1,8 @@
+use the CO simulated with the assimilated wind ﬁelds, but
+we note that similar features were seen for the CO simulated
+with the forecast winds, as further discussed in Sect. 3.1.2.
+For the model results, we do not apply temporal interpolation
+between the model output frequency (6 h). Instead, we sam-
+ple the model forecasts at the time closest to the midpoint of
+each ﬂight segment. For comparison with observations, the 3-
+D model forecast was interpolated to the longitude, latitude,

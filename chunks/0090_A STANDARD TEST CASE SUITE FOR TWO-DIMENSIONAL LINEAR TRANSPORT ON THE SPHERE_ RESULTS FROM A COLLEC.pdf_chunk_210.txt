@@ -1,0 +1,7 @@
+histograms for SLFV-ML and CLAW exceed the plotting range. If no data are available, the mixing data are negative (although ℓi data were
+not submitted for FARSIGHT, there are some mixing diagnostics given in White and Dongarra, 2011). The numerical values for ℓi are listed
+in the scatterplots in Figs. 11, 12, 13 and 14.
+3.5.1
+Scatter shape
+Scatter points located near the lower right corner of the con-
+vex hull (χ,ξ) = (1.0,0.1) are the mixing ratio values mak-

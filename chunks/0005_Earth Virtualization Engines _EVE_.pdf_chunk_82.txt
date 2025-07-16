@@ -1,0 +1,7 @@
+trustworthiness is that (i) the data are used, (ii) that their creation
+is transparent, and (iii) that their creation and provision are
+responsive to those that use them – something sorely lacking in the
+present provision of climate data. To guard against hallucination in
+the use of AI-based information distillation, access to training data
+and the ability to revisit the creation of training data – points (ii)
+and (iii) – need to be ensured. Meeting these goals requires public

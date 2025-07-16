@@ -1,0 +1,8 @@
+mass (at least for ﬁnite-volume type schemes). In addition to
+assessing the consistency of the coupling, that accuracy of
+the coupling between air and tracer mass is assessed.
+Normalized error norms (ℓ2, ℓ∞, φmin, φmax) at 1λ ≈1.5
+resolutions are shown in the histogram in Fig. 16. The min-
+imum (φmin) and maximum norms (φmax) are deﬁned in
+LSPT2012. Although LSPT2012 also requested these error
+norms at 1λ ≈0.75 and 1λ ≈λm, we did not ﬁnd intrigu-

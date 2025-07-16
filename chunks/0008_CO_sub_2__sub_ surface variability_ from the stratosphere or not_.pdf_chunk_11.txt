@@ -1,0 +1,3 @@
+SPO and is double-peaked at SMO, but the amplitudes (∼0.18 ppm) are much smaller than observed. The sCO2 amplitude is even smaller
+(∼0.06 ppm) and not shown. (c) Observed CO2 variability (ppm) derived from the monthly averages of two SH extratropical stations (SPO
+and CGO) for the period 1985–2021. The poly-ﬁt (solid red curve) shows the residuals after removal of a polynomial ﬁt (average of third- and

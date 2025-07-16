@@ -1,0 +1,14 @@
+GWP100
+of
+12 ± 6
+was
+estimated16.
+Perturbing
+hydrogen emissions in a coupled model (GFDL-AM4.1) an
+indirect radiative forcing of 0.84 mWm−2 per Tg yr−1 hydrogen
+emitted was estimated; mostly due to longer methane lifetime and
+increased stratospheric water vapor production17. This indirect
+forcing translated into a GWP100 of 12.8 ± 5.2 (90% conﬁdence
+interval)13. A new analysis with the 2D model TROPOS, which
+reconciled the values of 2D and 3D models found a GWP100 of
+8 ± 2 with 95% conﬁdence18.

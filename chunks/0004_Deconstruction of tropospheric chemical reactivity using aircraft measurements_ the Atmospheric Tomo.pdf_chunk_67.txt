@@ -1,0 +1,11 @@
+ATom-4
+0.01
+0.00
+0.02
+0.04
+0.06
+99 %
+48 %
+22 %
+The primary ocean basins (Paciﬁc and Atlantic) use the over-ocean ﬂight data from 53◦S to 60◦N (see Fig. 2). The tropical ocean sections are the central Paciﬁc
+(30◦S–30◦N, near the dateline), eastern Paciﬁc (0–30◦N, ∼121◦W), and tropical Atlantic (30◦S–30◦N). All 10 s data are weighted inversely by frequency of

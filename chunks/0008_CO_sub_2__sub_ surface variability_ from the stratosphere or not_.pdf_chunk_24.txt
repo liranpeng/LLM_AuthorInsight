@@ -1,0 +1,8 @@
+nomials produce almost identical results for each site (not
+shown), and the average third- and fourth-order ﬁts are sub-
+tracted to calculate the residuals. The CO2 residuals for the
+average of SPO+CGO are shown in Fig. 1c as the red line,
+which shows a clear annual cycle plus equally large variabil-
+ity on decadal scales. The annual cycle of CO2 and its rate of
+change is a critical metric used to evaluate the carbon cycle
+in Earth system models (Graven et al., 2013; Zhao and Zeng,

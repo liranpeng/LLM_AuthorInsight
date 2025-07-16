@@ -1,0 +1,8 @@
+between sulfate and nitrate components. The aerosol direct
+RF from ship NOx is therefore only 2 % of the O3 and CH4
+RF. Aerosol indirect effects, black carbon, and organic car-
+bon also contribute to radiative forcing from ships (Eyring et
+al., 2010) but are beyond the scope of this study of ship NOx.
+Our global RF calculation using parametric plume chem-
+istry is the ﬁrst to account for sub-grid-scale ship NOx chem-
+istry. Being based on a single model, we are unable to es-

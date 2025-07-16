@@ -1,0 +1,8 @@
+parametric, distribution free, does not require normality, and
+it is more sensitive to differences in the tails of the distribu-
+tion than the widely used Kolmogorov–Smirnoff test (Eng-
+mann and Cousineau, 2011). We compare the distributions
+in Fig. 11 for episodes larger than 10 × 104 km2-days (10 to
+16 connected grid cells) since we are mostly interested in the
+largest episodes and, further, more than 90 % of the events
+are in episodes of size greater than this. For the US, the CTM

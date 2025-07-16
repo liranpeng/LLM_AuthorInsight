@@ -1,0 +1,10 @@
+spheric chemistry in AerChemMIP ﬁxes halocarbon concen-
+trations at 1950s levels allowing the model chemistry to gen-
+erate the difference in ozone compared to historical. DAMIP
+will use SSP2-4.5 as its future scenario, with ssp245-ghg
+and ssp245aer as variants, so this does not overlap with the
+AerChemMIP future experiments.
+5.3
+Other MIPs
+The future scenario SSP3-7.0 (experiment ssp370) is pre-
+scribed as a Tier 1 scenario in ScenarioMIP with extra en-

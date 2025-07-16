@@ -1,0 +1,7 @@
+and ﬂuorescence in the upper ocean, operated as underway system at selected segments
+uCTD
+Teledyne Oceanscience underway CTD measuring vertical proﬁles of temperature, pressure, and salin-
+ity in the upper ocean, operated as underway system at selected cruise segments
+Wave radar
+A 9.4 GHz X-band wave radar measuring both phase and intensity of the radar backscatter and Doppler
+speed (sampled up to a maximum range of about 3 km around the ship), to determine surface currents,

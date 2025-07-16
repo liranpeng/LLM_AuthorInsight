@@ -1,0 +1,4 @@
+K. P. Shonk & Hogan, 2008). This work points toward new approaches for understanding how ICAs within 
+a grid cell column interact with each other. As the horizontal resolution in climate models drops to cloud-re-
+solving scales then it is obvious that neighboring column atmospheres are not independent. B2015 used 
+3D coherent clouds fields from the NASA A-train (MODIS, CloudSat, CALIPSO) with 3D Monte Carlo RT

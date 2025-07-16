@@ -1,0 +1,8 @@
+https://doi.org/10.1029/96JD01155, 1996.
+Mishchenko, M. I., Videen, G., Babenko, V. A., Khlebtsov, N.
+G., and Wriedt, T.: T-matrix theory of electromagnetic scatter-
+ing by particles and its applications: a comprehensive reference
+database, J. Quant. Spectrosc. Ra., 88, 357–406, 2004.
+Mishchenko, M. I., Zakharova, N. T., Khlebtsov, N. G., Videen,
+G., and Wriedt, T.: Comprehensive thematic T-matrix ref- erence
+database: A 2014–2015 update, J. Quant. Spectrosc. Ra., 178,

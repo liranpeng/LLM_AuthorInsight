@@ -1,0 +1,9 @@
+perature and that can explain the slightly larger peak tropical
+O3 in EAM versions. Poleward of 60◦transport plays a more
+important role, and we see the differences between UCI and
+EAM.
+In terms of Taylor diagrams, this metric collapses to a
+small region, indicating excellent performance (Fig. 3b).
+Correlations are close to 1.0 for all simulations, indicating
+excellent pattern agreement. Variances are underestimated by
+the models, implying that the linearized chemistry is based

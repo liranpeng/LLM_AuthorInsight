@@ -1,0 +1,8 @@
+shape is matched by most models, but the model spread of
+order 20–30 % is hardly encouraging. Differences in these
+average proﬁles can have many causes: temperature and O3
+proﬁles, spectral data for both J-O1D and J-NO2, ways of
+integrating over wavelength, surface albedo conditions, treat-
+ment of Rayleigh scattering, basic radiative transfer methods,
+SZA, and, of course, clouds. In typical comparisons we try to
+control these differences by specifying as many conditions as

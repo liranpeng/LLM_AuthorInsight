@@ -1,0 +1,11 @@
+reactivities by 5 % (L-O3 and L-CH4) to 10% (P-O3).  
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+Figure S5.  Histogram of the natural log of the ratio of cloudy-to-clear J values (J-O1D & J-NO2), designated rlnJ, 
+which is calculated from the 10-sec CAFS data and sorted into 3 pressure bins (blue, 100 – 300; red, 300 – 900; 
+black, 900 – surface hPa).  Note that the upper level has a peak near 0.0, corresponding to clear sky; the lowest level

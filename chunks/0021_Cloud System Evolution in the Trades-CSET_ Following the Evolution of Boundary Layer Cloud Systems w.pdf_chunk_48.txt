@@ -1,0 +1,5 @@
+described in Rauber et al, (2017) and in Schwartz et al. (2018). It is a pulsed Doppler radar 
+that operates at a 95 GHz frequency (3 mm wavelength) and has a sensitivity of −39.6 dBZ 
+at 1 km range. The HCR in CSET was operated with a temporal resolution of 0.5 sec, which 
+for air speeds of the GV gives a horizontal resolution of 50-100 m. The vertical range 
+resolution of 20 m makes the HCR ideal for observing stratocumulus and cumulus clouds

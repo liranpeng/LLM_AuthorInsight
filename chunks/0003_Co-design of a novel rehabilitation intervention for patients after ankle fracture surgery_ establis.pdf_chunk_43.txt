@@ -1,0 +1,7 @@
+the app-based physiotherapy statements. The notes that accompanied
+the survey explained that an app-based physiotherapy advice service
+would involve access to a physiotherapist via an online chat service from
+9 am to 5 pm, Monday to Friday (as discussed in the workshops) and
+with the assumption that relevant patient records could be shared in a
+secure, encrypted form. Within these confines, there was a consensus
+that such a service should have access to the patient’s discharge

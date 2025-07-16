@@ -1,0 +1,8 @@
+UCISOM-CN5.5, which has at least one order of magni-
+tude less real mixing and unmixing compared to schemes
+with similar “minimal” resolution. Another “outlier” is the
+unlimited HOMME-p6-CN0.13, which has higher levels of
+ℓr and ℓu than schemes with similar “minimal” resolutions,
+which is due to spurious grid-scale oscillations. HEL, like
+UCISOM, is an outlier, and it clearly shows that HEL was
+speciﬁcally designed to minimize numerical mixing as the

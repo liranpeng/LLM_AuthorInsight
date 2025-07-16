@@ -1,0 +1,9 @@
+latitudes. The lower overall SCO outside the tropics seen in
+O3v2 versus O3v1 is a closer match to the observations but
+is still biased high in the SH. In Fig. 1 we also show the dif-
+ference plot of EAM O3v2 minus O3v1 (extended to 90◦S–
+90◦N). Outside the tropics, the O3v2 SCO is consistently
+15–30 DU less than that of O3v1, a direct result of the O3v1
+error in overwriting O3 in the lower stratosphere and upper
+troposphere.
+Climate models often capture the mean better than the

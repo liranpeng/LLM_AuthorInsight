@@ -1,0 +1,8 @@
++12.0 ± 2.3 %/decade near the top (4.6 hPa). These increases
+are used directly in our calculation and average to the
++6 %/decade needed to explain the trend in total N2O loss.
+Are these increases in N2O real or an artifact of a known
+calibration drift in the MLS 190 GHz observations, affecting
+mainly water vapor and N2O? The MLS V5 dataset beneﬁts
+from an extensive effort to remove/reduce drifts and verify
+the MLS H2O and N2O against the overlapping ACE-FTS

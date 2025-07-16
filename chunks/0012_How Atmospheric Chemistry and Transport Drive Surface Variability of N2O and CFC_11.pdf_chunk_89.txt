@@ -1,0 +1,4 @@
+the annual growth rate. The mean annual cycle has a slightly larger amplitude and is discussed in Section 4.
+For a clearer picture of the QBO signal at the surface, we create a composite of QBO cycles in surface N2O 
+in ppb/yr by averaging at each latitude for each month starting 14 months prior and extending to 14 months 
+after the QBO (Figure 3). For this diagnostic, the mean interannual percent change is removed and we

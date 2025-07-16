@@ -1,0 +1,5 @@
+temporal resolution. ACE runs stably for at least 100 years and can simulate a decade in one hour of
+wall clock time, nearly 100 times faster than the reference atmospheric model, while consuming 100
+times less energy. ACE predicts diagnostics such as the fluxes of energy and moisture through the top
+of atmosphere and Earth surface (e.g. precipitation). The model is framed so that precise evaluation
+of conservation of mass and moisture is possible and we find that column moisture is very nearly

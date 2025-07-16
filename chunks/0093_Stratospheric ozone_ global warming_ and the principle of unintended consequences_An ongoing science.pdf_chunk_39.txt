@@ -1,0 +1,9 @@
+HCFCs, and long-lived HFCs, an evaluation of the ozone
+depleting potential (ODP), global warming potential (GWP),
+atmospheric fate, safety, and toxicity is required for each
+replacement.”
+Hodnebrog et al. (2013) have updated GWPs and radiative
+efficiencies (REs) for more than 100 halocarbons by reinterpret-
+ing their infrared spectra, showing a bias of more than 5% in
+previous estimates. HFC-1234yf has a short lifetime (11 days) in
+the atmosphere with trifluoroacetic acid (TFA) as a decay pro-

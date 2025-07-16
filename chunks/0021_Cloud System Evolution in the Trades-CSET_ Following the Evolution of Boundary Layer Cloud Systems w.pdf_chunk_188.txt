@@ -1,0 +1,15 @@
+Instrument or Observing System
+Parameters Measured and Range
+Thermometer (102AL TAT)
+temp
+Dewpoint Hygrometer (BUCK 1011C)
+dewpoint temperature
+Vertical Cavity Surface Emitting LASER Hygrometer (VCSEL)
+water vapor concentration
+Winds (gust measurements; aircraft motion and position)
+3-D wind components
+Cloud Droplet Probe (CDP)
+cloud droplet spectra (2-50 μm)
+Three-view Cloud Particle Imager (3V-CPI)
+cloud droplet spectra (15-250 μm
+Two-Dimensional Optical Array Probe (2D-C)

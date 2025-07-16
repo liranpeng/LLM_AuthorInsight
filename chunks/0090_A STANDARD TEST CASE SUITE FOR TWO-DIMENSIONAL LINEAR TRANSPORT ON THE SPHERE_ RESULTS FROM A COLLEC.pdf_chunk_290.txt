@@ -1,0 +1,9 @@
+will be reported in Bosler (2013).
+Note that the remeshing scheme interpolates the La-
+grangian parameter rather than the scalar. Hence LPM avoids
+introducing overshoots and undershoots in the scalar, and
+there is no artiﬁcial mixing (the error norms φmax and φmin
+are zero throughout all test cases, and the mixing errors for
+test case 5 are also zero).
+Note also that mesh size is not well-deﬁned since the par-
+ticles are moving, so instead we report the average angu-

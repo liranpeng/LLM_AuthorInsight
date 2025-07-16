@@ -1,0 +1,9 @@
+Legendre nodes for integral evaluations used in the transport
+operators.
+The HOMME version used here is a continuous Galerkin
+ﬁnite element method that relies on globally continuous
+polynomial basis functions of order p (here with p = 3 and
+p = 6). Although HOMME has the capability to solve the
+transport equation in advective form, it is solved in ﬂux form
+(one equation for ρφ and one for ρ) for exact conservation.
+A compatible discretization method is used that guarantees

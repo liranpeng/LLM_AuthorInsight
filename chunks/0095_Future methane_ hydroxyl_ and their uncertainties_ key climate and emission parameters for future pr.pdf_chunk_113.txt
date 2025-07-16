@@ -1,0 +1,8 @@
+due to climate feedbacks, which is about twice the change
+in wetland emissions since the preindustrial era (Houweling
+et al., 2000). We use the parametric model to predict future
+τCH4×OH and assume other loss rates are constant. For future
+predictions we use the same expanded set of 11 parameters
+as were used in the historical τCH4×OH reconstruction (Ta-
+ble 2, last column). Table 3 lists data sources for the future
+climate and emission variables. We then generate 105 monte

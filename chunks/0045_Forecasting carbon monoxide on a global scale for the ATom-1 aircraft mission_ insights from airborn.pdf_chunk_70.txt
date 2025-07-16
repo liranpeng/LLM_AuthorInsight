@@ -1,0 +1,8 @@
+posphere, including the marine boundary layer and deﬁned
+here as pressures greater than 850 hPa. Missing bars indi-
+cate latitudes where no ATom-1 measurements were made
+in the lower troposphere. Asian non-BB CO makes a smaller
+contribution in the lower troposphere than in the middle and
+upper troposphere. A strong CO maximum around 30◦N
+is more pronounced in the lower troposphere than above.
+This bin is not representative of the remote Paciﬁc as it in-

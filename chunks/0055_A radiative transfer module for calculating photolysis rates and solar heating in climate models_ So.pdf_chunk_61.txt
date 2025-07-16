@@ -1,0 +1,8 @@
+for overhead sun (SZA = 0◦) is summarized in Table 4
+and Fig. 2. Table 4 lists the band-by-band radiation bud-
+get in W m−2, with Solar-J’s spectral bins labeled as S-bins
+and RRTMG’s as B bands (B16–B29 follow the same band
+numbers as in RRTMG’s codes). For easy comparison, sev-
+eral Solar-J’s spectral bins of higher resolution from the UV
+range are lumped together to best match the RRTMG’s bin
+of similar range, and vice versa with RRTMG’s B24 and B25

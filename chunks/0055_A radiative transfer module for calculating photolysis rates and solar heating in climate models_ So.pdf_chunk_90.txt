@@ -1,0 +1,5 @@
+Solar-J minus RRTMG-SW, for a typical July tropical atmosphere at four solar zenith angles with Lambertian surface albedo of 0.06 (left
+and right sides). The plot is further split into the stratosphere and the troposphere (top and bottom rows). Note that the scale of the x-
+axis, K day−1, is 10 times larger for the stratosphere on the top panels.
+84◦the two models match closely. While spherical effects
+may play some role in this shift, we suspect that Rayleigh

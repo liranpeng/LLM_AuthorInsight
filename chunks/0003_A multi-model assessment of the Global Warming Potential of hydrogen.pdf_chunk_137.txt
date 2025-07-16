@@ -1,0 +1,8 @@
+Trans. Royal Soc. A 365, 1705–1726 (2007).
+52. Søvde, O. A. et al. The chemical transport model Oslo CTM3. Geosci. Model
+Dev. 5, 1441–1469 (2012).
+53. Lund, M. T. et al. Concentrations and radiative forcing of anthropogenic
+aerosols from 1750 to 2014 simulated with the Oslo CTM3 and CEDS
+emission inventory. Geosci. Model Dev. 11, 4909–4931 (2018).
+54. Sanderson, M. G. et al. Simulation of global hydrogen levels using a lagrangian
+three-dimensional model. J. Atmos. Chem. 46, 15–28 (2003).

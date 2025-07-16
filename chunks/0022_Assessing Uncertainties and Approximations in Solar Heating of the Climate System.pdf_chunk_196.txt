@@ -1,0 +1,4 @@
+δ-scaling method with its own source of errors (vii above). In terms of solar heating errors, the 2-stream 
+errors are comparable to the errors in moving from 1D to 3D RT (B2015). While full 3D RT is beyond the 
+capabilities of climate models, multi-stream is clearly not. The GFDL and CCCma models can currently 
+use 4-stream RT, and it is likely that 6- or 8-stream RT could be optimized for modern processors and

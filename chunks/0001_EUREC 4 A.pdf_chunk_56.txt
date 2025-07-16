@@ -1,0 +1,7 @@
+whiskers. The legend includes the ﬂight time (deﬁned as the period spent east of 59◦W and west of 45◦W to exclude ferries) and number of
+soundings. Radiosondes ascents and descents with valid data are treated as independent.
+2.1
+Platforms for measuring the lower atmosphere
+Aerial measurements were made by research aircraft, un-
+crewed (i.e., remotely piloted) aerial systems (UASs), and
+from balloon- or parachute-borne soundings. These were

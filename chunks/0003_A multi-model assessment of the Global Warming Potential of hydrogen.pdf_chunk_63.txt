@@ -1,0 +1,9 @@
+changes in atmospheric composition due to increased hydrogen, we ran three sets
+of simulations:
+CTRL: A control simulation with present-day atmospheric composition, where
+hydrogen and methane surface concentrations (mole fraction) are ﬁxed.
+PERT_H2: As CTRL but the surface concentration of hydrogen is increased
+by +10%.
+PERT_CH4: As CTRL but the surface concentration of methane is increased
+by +10%.
+From the PERT_H2 simulation, the change in atmospheric composition and

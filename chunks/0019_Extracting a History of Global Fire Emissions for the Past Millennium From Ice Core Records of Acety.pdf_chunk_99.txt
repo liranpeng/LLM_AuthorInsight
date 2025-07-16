@@ -1,0 +1,5 @@
+all‐SAV ﬁre characteristics were applied to all four of the scenarios in Table 2. The results show only a
+slight reduction in the discrepancies between the inferred dry matter burned from acetylene, ethane,
+and methane (Figure 5). Clearly, changing the emission factors to result in the highest ratio of emission
+to dry matter burned alone cannot resolve these discrepancies between the inferred dry matter histories
+from the three gases.

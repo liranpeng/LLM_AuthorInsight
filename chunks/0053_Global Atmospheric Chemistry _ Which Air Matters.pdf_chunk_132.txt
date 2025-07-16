@@ -1,0 +1,8 @@
+some points in the center (reddish regions). For example,
+models A and D show a very diffuse distribution with a much
+wider spread in HOOH values at lower NOx. Even for the
+four models with a central (NOx, HOOH)-line deﬁning a
+peak frequency of occurrence, this line occurs at different
+locations. The O3–H2O density plots (Fig. 6b) show exam-
+ples of highly standard and well-measured species with ex-
+treme distributions: O3 fall within 1 decade throughout most

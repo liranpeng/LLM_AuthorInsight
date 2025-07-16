@@ -1,0 +1,5 @@
+this approach since the volume sampled during an aircraft penetration is relatively small and 
+it is difficult to study the time evolution of the vertical structure. Furthermore, it is difficult 
+to determine exactly where in the cloud the measurements are being made and at what stage 
+of the life cycle the cloud is being sampled. During the Rain in Cumulus over the Ocean 
+(RICO; Rauber et al., 2007) field campaign some important issues were addressed

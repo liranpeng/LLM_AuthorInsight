@@ -1,0 +1,15 @@
+interpolant (no directionally splitting that is commonly
+applied
+in
+traditional
+semi-Lagrangian
+schemes).
+The
+number of zonal grid points is about twice the truncation
+wave number (linear Gaussian grid) rather than about three
+www.geosci-model-dev.net/7/105/2014/
+Geosci. Model Dev., 7, 105–145, 2014
+114
+P. H. Lauritzen et al.: Results from standard test case suite
+times (quadratic Gaussian grid) since the nonlinear terms are
+hidden in the interpolation (Côté and Staniforth, 1988). The

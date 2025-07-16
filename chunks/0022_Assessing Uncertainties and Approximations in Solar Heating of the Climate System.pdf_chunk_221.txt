@@ -1,0 +1,4 @@
+of a 3D scene construction algorithm. Quarterly Journal of the Royal Meteorological Society, 141, 1870–1883. https://doi.org/10.1002/
+qj.2491
+Harshvardhan, & King, M. D. (1993). Comparative accuracy of diffuse radiative properties computed using selected multiple scattering ap-
+proximations. Journal of the Atmospheric Sciences, 50, 247–259. https://doi.org/10.1175/1520-0469(1993)050<0247:CAODRP>2.0.CO;2

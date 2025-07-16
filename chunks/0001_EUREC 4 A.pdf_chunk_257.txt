@@ -1,0 +1,9 @@
+pressure, precipitation, wind speed, wind direction, longwave broadband irradiance, shortwave broad-
+band irradiance, sea surface temperature, and sea surface salinity every 1 min (on surface buoy, sensors
+at 3 m height)
+Weather sensors
+Vaisala WXT-520 measuring air temperature, relative humidity, barometric pressure, precipitation,
+wind speed, and wind direction (sensor at 3 m height)
+Thermometer
+Sea-Bird SBE-39 adapted to measure air temperature every 5 min (sensor at 3 m height)
+Thermometer

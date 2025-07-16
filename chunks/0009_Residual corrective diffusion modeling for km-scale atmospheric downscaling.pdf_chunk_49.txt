@@ -1,0 +1,8 @@
+of maximum winds that is statistically too small.
+Discussion
+This study presents a generative diffusion model (CorrDiff) for
+multivariate downscaling of coarse-resolution (25 km) global
+weather states to higher resolution (2 km) over a subset of the
+globe, and simultaneous radar channel synthesis. CorrDiff consists
+of two steps: regression and generation. The regression step
+approximates the mean, while the generation step further corrects

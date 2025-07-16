@@ -1,0 +1,10 @@
+Atmos. Meas. Tech., 9, 5535–5554, 2016
+5552
+B. Siˇc et al.: Aerosol data assimilation in the CTM MOCAGE
+in: The remote sensing of tropospheric composition from space,
+Springer, 259–313, 2011.
+Dee, D. and Uppala, S.: Variational bias correction in ERA-Interim,
+ECMWF, 2008.
+Desroziers, G., Berre, L., Chapnik, B., and Poli, P.: Diagnosis of ob-
+servation, background and analysis-error statistics in observation
+space, Q. J. Roy. Meteor. Soc., 131, 3385–3396, 2005.

@@ -1,0 +1,9 @@
+2019.
+Tomita, H., Miura, H., Iga, S., Nasuno, T., and Satoh, M.:
+A global cloud-resolving simulation: Preliminary results from
+an aqua planet experiment, Geophys. Res. Lett., 32, L08805,
+https://doi.org/10.1029/2005GL022459, 2005.
+vanZanten, M. C., Stevens, B., Nuijens, L., Siebesma, A. P., Ack-
+erman, A. S., Burnet, F., Cheng, A., Couvreux, F., Jiang, H.,
+Khairoutdinov, M., Kogan, Y., Lewellen, D. C., Mechem, D.,
+Nakamura, K., Noda, A., Shipway, B. J., Slawinska, J., Wang,

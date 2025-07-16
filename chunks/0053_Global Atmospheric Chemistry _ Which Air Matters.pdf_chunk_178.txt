@@ -1,0 +1,14 @@
+stratospheric
+chemistry
+extension
+(UCX)
+for
+the
+global
+chemistry-transport model GEOS-Chem, Atmos. Environ., 89,
+52–63, https://doi.org/10.1016/j.atmosenv.2014.02.001, 2014.
+Eckstein, J., Ruhnke, R., Zahn, A., Neumaier, M., Kirner, O., and
+Braesicke, P.: An assessment of the climatological represen-
+tativeness of IAGOS-CARIBIC trace gas measurements using
+EMAC model simulations, Atmos. Chem. Phys., 17, 2775–2794,
+https://doi.org/10.5194/acp-17-2775-2017, 2017.

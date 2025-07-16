@@ -1,0 +1,15 @@
+Anemometer
+Gill R350 sonic anemometer to measure wind speed and wind direction
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+https://doi.org/10.5194/essd-13-4067-2021
+B. Stevens et al.: EUREC4A
+4097
+Table B1. Continued.
+Instrument
+Brief description
+Weather sensors
+Metpack (Vaisala WXT-510) to measure temperature, relative humidity, pressure, and precipitation
+Weather sensors
+Vaisala WXT-530 weather sensors measuring temperature, humidity, pressure, wind speed, wind di-
+rection, and rain
+GNSS

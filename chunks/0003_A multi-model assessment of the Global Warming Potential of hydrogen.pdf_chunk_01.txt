@@ -1,0 +1,5 @@
+consequences. Hydrogen is not directly a greenhouse gas, but its chemical reactions change
+the abundances of the greenhouse gases methane, ozone, and stratospheric water vapor, as
+well as aerosols. Here, we use a model ensemble of ﬁve global atmospheric chemistry models
+to estimate the 100-year time-horizon Global Warming Potential (GWP100) of hydrogen.
+We estimate a hydrogen GWP100 of 11.6 ± 2.8 (one standard deviation). The uncertainty

@@ -1,0 +1,8 @@
+(extra-tropics, lower-tropics, upper-tropics) within their own
+percentiles.
+On a parcel by parcel basis we compare in Fig. 3 the 5-
+day means from all six models against the reference case for
+the three reactivities and two J-values. If the models were all
+alike, they would fall tightly on the 1 : 1 line (black dashed).
+In each panel there are 89 280 points, with many overlapping.
+The order of plotting (shown by the legend) is important for

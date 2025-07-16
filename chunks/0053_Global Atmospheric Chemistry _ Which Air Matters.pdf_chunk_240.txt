@@ -1,0 +1,8 @@
+D. R., and Blake, N.: Representation of the Community Earth
+System Model (CESM1) CAM4-chem within the Chemistry-
+Climate Model Initiative (CCMI), Geosci. Model Dev., 9, 1853–
+1890, https://doi.org/10.5194/gmd-9-1853-2016, 2016.
+Turner, A. J., Fiore, A. M., Horowitz, L. W., and Bauer, M.: Sum-
+mertime cyclones over the Great Lakes Storm Track from 1860–
+2100: variability, trends, and association with ozone pollution,
+Atmos. Chem. Phys., 13, 565–578, https://doi.org/10.5194/acp-

@@ -1,0 +1,8 @@
+τ ∼0.25, Fu96’s τ ∼0.15, and Key02’s τ ∼0.09 (see also
+Table 6). Thus, the fraction of sunlight scattered by the cloud
+varies widely across all four. The asymmetry parameter g
+from Mishchenko’s phase functions for hexagonal and irreg-
+ular ice used in Solar-J ranges from 0.75 to 0.81 (as com-
+pared to 0.88 for equivalent-size liquid-water clouds), but g
+values for all RRTMG ice clouds range from 0.4 to 0.6 for
+wavelengths where scattering is important (S12–S24). The

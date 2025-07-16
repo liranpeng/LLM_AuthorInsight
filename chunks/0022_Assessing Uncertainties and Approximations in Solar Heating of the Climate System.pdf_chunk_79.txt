@@ -1,0 +1,4 @@
+probably not inconsistent. LZL attribute these errors to the correlation of gas and cloud absorption, but our 
+results show that a significant component of the error is simply the failure to separate the highly scattering 
+wavelengths from the partly absorbing wavelengths and is not tied to water vapor absorption. This informa-
+tion may help in the development of a combined gas-liquid-ice model. Improving the accuracy of the gase-

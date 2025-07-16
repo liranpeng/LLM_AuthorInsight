@@ -1,0 +1,42 @@
+www.atmos-chem-phys.net/13/285/2013/
+C. D. Holmes et al.: Future methane, hydroxyl, and their uncertainties
+293
+Table 3. Datasets used to calculate historical and future τCH4×OH.
+Dataset
+Variable
+Historical
+Sourcea
+Future
+Sourcea
+(1980–2005)
+(2010–2100)
+Air temperature
+MERRA
+[1]
+CMIP5b
+[5]
+Water vapor
+MERRA
+[1]
+CMIP5b
+[5]
+Ozone column
+TOMS/SBUV
+[2]
+SPARC
+[6]
+Lightning NOx
+0 ± 10 %
+Assumed
++10 ± 20 %
+Assumed
+Biomass burning
+CMIP5
+[3]
+RCP 8.5
+[7]
+Anthropogenic emissions
+CMIP5
+[3]
+RCP 8.5
+[7]

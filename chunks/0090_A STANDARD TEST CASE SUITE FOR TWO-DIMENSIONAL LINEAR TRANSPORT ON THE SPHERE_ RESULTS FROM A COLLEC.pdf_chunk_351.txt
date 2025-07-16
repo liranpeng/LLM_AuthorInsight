@@ -1,0 +1,23 @@
+eling, Proc. Natl. Acad. Sci., 105, 19617–19621, 2008.
+Pudykiewicz,
+J.
+A.:
+On
+numerical
+solution
+of
+the
+shal-
+low water equations with chemical reactions on icosahe-
+dral
+geodesic
+grid,
+J.
+Comput.
+Phys.,
+230,
+1956–1991,
+doi:10.1016/j.jcp.2010.11.045, 2011.
+Pudykiewicz, J., Benoit, R., and Staniforth, A.: Preliminary Results
+From a Partial LRTAP Model Based on an Existing Meteorolog-
+ical Forecast Model, Atmos.-Ocean, 23, 267–303, 1985.

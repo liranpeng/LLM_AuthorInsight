@@ -1,0 +1,11 @@
+was designed to assess “optimal” convergence rates given the
+smoothness of the initial condition and v.
+The numerical convergence rates are computed using a
+least-squares linear regression of the form
+log(ℓi) = Ai −Ki log(1λ),
+i = 2,∞,
+(11)
+where Ki denotes constants for the resolution range approx-
+imately 3◦to 0.3◦(a Gnuplot script was made available as
+supplemental material in LSPT2012 to perform the least-
+squares regression). Note that the resolution range has de-

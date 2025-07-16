@@ -1,0 +1,8 @@
+area from the accumulation and coarse modes.
+Figure 66. Frequency distribution of gas–aerosol reactions (per
+hour) for ATom-1 Paciﬁc (blue) and Atom-1 Atlantic (red) assum-
+ing a high-reactivity coefﬁcient gamma equal to 0.10.
+The values of ffCH4 along the ﬂights tracks vary from about
+1.2 to 1.6: see Fig. 70c and d. Averaging the two basins for
+sOH, we calculate a mean ffCH4 ∼1.28.
+This 24 h calculation, however, does not include the ad-

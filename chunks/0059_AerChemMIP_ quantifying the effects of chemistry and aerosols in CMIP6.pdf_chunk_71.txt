@@ -1,0 +1,8 @@
+precursors. Tier 3 experiments will contribute to question 3
+and provide additional detail and speciation. The total simu-
+lation years requested are 1265 for Tier 1, 1369 for Tier 2 and
+270 for Tier 3, split between coupled-ocean and ﬁxed SST
+experiments. This includes 30 years for a pre-industrial ﬁxed
+SST control in common with RFMIP. In addition, models
+should have been run for the DECK experiments (501 years
+excluding control). Finally, modelling groups interested in

@@ -1,0 +1,24 @@
+Geosci. Model Dev., 7, 105–145, 2014
+120
+P. H. Lauritzen et al.: Results from standard test case suite
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 0.5
+ 1
+ 1.5
+ 2
+ 2.5
+κ2
+∆λm
+minimal resolution versus convergence rate
+unlimited
+shape-preserving
+Fig. 4. “Scatter-like” plot of the data shown as histograms in Fig. 3
+upper and middle rows. Each scheme is represented by a point on
+the plot with (x,y) coordinates (1λm,K2). For clarity each point is
+not labeled with a scheme acronym. The purpose of this ﬁgure is to

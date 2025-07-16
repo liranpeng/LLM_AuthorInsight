@@ -1,0 +1,8 @@
+Program for Climate Model Diagnosis and Intercompari-
+son, PCMDI, v1.1.3; Durack and Taylor, 2017; Taylor et
+al., 2000) following the CMIP6 DECK protocol (Eyring et
+al., 2016). The control simulation is performed for the years
+1870–2014. We conﬁgure the EAM O3v2 test run with the
+same AMIP-type settings as the control but with the O3v2
+modiﬁcations described above. We initialize the O3v2 simu-
+lation with the beginning of year 1990 conditions of the con-

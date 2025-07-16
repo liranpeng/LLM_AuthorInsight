@@ -1,0 +1,4 @@
+from human emissions and quantify what humans can do to reduce the growth in N2O. In this work, we 
+model the physical side of atmospheric N2O that drives fluctuations through chemistry and atmospheric 
+transport. Our model simulations match most of the observed seasonal and multi-year fluctuations seen in 
+satellite and surface observations, indicating that N2O loss is causing the dominating signal, not emissions.

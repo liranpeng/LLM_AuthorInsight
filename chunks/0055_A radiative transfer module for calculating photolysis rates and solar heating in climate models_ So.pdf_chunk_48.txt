@@ -1,0 +1,9 @@
+properties
+To compare Solar-J and RRTMG-SW, we adopt a standard
+atmospheric column model, typical of the tropical oceans
+(surface albedo is 0.06) and deﬁne three cases: clear sky, a
+stratus liquid-water cloud, and a cirrus ice-water cloud. Both
+cloudy cases assume 100 % cloud cover; the cloud overlap
+algorithms of Cloud-J are not invoked. Aerosols are not in-
+cluded either. Atmosphere and cloud properties are given in
+Table 3. Each test case is evaluated at four different solar

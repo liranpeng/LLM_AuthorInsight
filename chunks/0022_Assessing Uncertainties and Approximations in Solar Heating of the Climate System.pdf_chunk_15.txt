@@ -1,0 +1,5 @@
+in one code is obvious as both solutions use the same atmospheric data and we move to ESMs that require 
+both. Nevertheless, compromises between the two requirements, Watts versus photons s−1, are identified 
+here.
+In this study, we examine additional classes of approximations or uncertainties beyond P2019: examples of 
+the historical improvement in infrared heating codes and the ongoing work at major climate centers (Sec-

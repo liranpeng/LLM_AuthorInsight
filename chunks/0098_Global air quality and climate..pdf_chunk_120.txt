@@ -1,0 +1,3 @@
+Pollution (TF HTAP).66,364,365 The projections are estimated using model sensitivities diagnosed from emission perturbation simulations relative
+to a base year of 2001 as described by Wild et al.66 using the CTMs that contributed to the TF HTAP source-receptor studies for surface O3.65
+A source attribution is presented for each region in the lower panels. Reproduced with permission from Fig. 10 of Wild et al.66

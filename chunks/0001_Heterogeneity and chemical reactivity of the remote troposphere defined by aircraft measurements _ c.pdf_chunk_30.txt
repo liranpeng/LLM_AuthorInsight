@@ -1,0 +1,9 @@
+observation, especially as it changes along aircraft ﬂights.
+We tested the results with a recoded UCI CTM to start at
+12:00 UTC but retain the same clouds ﬁelds over the day and
+found only percentage-level differences between a midnight
+or noon start.
+These A runs averaged over cloud conditions by simu-
+lating 5 d in August at least 5 d apart. Assessment of the
+modeled photolysis rates and comparison with the ATom-
+measured J values is presented in Hall et al. (2018, hence

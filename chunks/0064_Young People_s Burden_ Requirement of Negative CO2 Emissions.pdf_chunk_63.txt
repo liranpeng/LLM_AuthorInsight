@@ -1,0 +1,28 @@
+Fe (W m  -2)
+CO2
+CH4
+CFCs
+N2O
+O3
+Aerosols
+and
+surface
+albedo
+2.1
+0.8
+0.4
+0.2
+0.2
+−1.2
+Figure
+4.
+Estimated
+effective
+climate
+forcings
+(update
+through 2016 of Fig. 28b of Hansen et al., 2005, which are
+consistent with estimates of Myhre et al., 2013, in the most recent
+IPCC report, IPCC, 2013). Forcings are based on observations
+of each gas, except simulated CH4-induced changes of O3 and
+stratospheric H2O included in the CH4 forcing. Aerosols and

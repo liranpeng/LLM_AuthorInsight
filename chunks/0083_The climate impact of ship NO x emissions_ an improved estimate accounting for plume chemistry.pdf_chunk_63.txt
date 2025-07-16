@@ -1,0 +1,52 @@
+6807
+Table 3. Effect of ship NOx emissions on CH4 lifetime and RFa.
+Instant dilution
+Fixed OPE
+Parametric plume chemistry
+τ
+dlnτ
+dE
+dFCH4
+dE
+τ
+dlnτ
+dE
+dFCH4
+dE
+τ
+dlnτ
+dE
+dFCH4
+dE
+This work
+GEOS-Chemb
+9.2
+−1.0
+−8.5
+9.7
+−0.26
+−2.2
+9.4
+−0.7
+−5.7
+Holmes et al. (2013)
+GEOS-Chemc,d
+10.0
+−0.31
+−2.6
+UCI CTMc
+8.5
+−0.8
+−6.8
+Oslo CTM3c
+8.7
+−0.9
+−7.6
+Literature
+Modelse
+−0.9 ± 0.3
+−8.0 ± 2.4
+Observationsf
+11.2 ± 1.3
+11.2 ± 1.3
+11.2 ± 1.3

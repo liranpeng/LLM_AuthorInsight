@@ -1,0 +1,8 @@
+1-D analysis, and they are normalized such that if all parcels
+are distributed uniformly within a 20 × 20 square (e.g., 0.1–
+1.0 ppb HOOH, 10–100 ppt NOx) the arbitrary density value
+would be 1 (a yellow-green color in Figs. 6–7). Thus, the
+reactivity-weighted 2-D plots are renormalized and do not
+reﬂect the individual model’s total reactivity. In Fig. 6a the
+AIR-weighted NOx–HOOH plots show a boomerang struc-
+ture with greatly varying degrees of concentration about

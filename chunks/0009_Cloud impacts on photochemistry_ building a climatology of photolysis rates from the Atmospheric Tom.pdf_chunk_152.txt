@@ -1,0 +1,8 @@
+plementation of secondary inorganic aerosols in the MOCAGE
+version R2.15.0 chemistry transport model, Geosci. Model Dev.,
+9, 137–160, https://doi.org/10.5194/gmd-9-137-2016, 2016.
+Hall, S. R., Ullmann, K., Prather, M. J., Flynn, C. M., Murray,
+L. T., Fiore, A. M., Correa, G., Strode, S. A., Steenrod, S.
+D., Lamarque, J.-F., Guth, J., Josse, B., Flemming, J., Huij-
+nen, V., Abraham, N. L., and Archibald, A. T.: Cloud impacts
+on photochemistry: a new climatology of photolysis rates from

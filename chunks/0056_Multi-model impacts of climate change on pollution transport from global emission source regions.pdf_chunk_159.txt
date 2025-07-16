@@ -1,0 +1,8 @@
+ior of tropopause height and atmospheric temperature in models,
+reanalyses, and observations: decadal changes, J. Geophys. Res.,
+108, 4002, https://doi.org/10.1029/2002JD002258, 2003.
+Schultz, M. and Rast, S.: RETRO report on emission data
+sets and methodologies for estimating emissions, work pack-
+age 1, deliverable D1–6, EU-Contract EVK2-CT-2002-00170,
+Max Planck Inst. For Meteorol., Hamburg, Germany, available
+at: http://retro-archive.iek.fz-juelich.de/data/documents/reports/

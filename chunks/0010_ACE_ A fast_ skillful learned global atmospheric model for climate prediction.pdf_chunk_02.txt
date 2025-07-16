@@ -1,0 +1,6 @@
+of mass and moisture. The emulator is stable for 100 years, nearly conserves
+column moisture without explicit constraints and faithfully reproduces the reference
+model’s climate, outperforming a challenging baseline on over 90% of tracked
+variables. ACE requires nearly 100x less wall clock time and is 100x more energy
+efficient than the reference model using typically available resources. Without
+fine-tuning, ACE can stably generalize to a previously unseen historical sea surface

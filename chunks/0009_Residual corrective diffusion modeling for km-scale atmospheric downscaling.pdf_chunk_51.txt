@@ -1,0 +1,7 @@
+task of radar channel synthesis. Several case studies reveal that the
+model is able to downscale coherent structures consistently across
+its variables. Focusing on a midlatitude frontal event, horizontally
+co-located gradients of winds and temperatures are generated
+alongside spatially consistent radar reflectivity features, with
+incomplete but improved sharpness. For typhoons, encouraging
+partial corrections of typhoon size and wind speed intensity are

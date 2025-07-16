@@ -1,0 +1,7 @@
+2050, the NTS is either equal to or lower than that in 2025 due to
+mitigation and the implementation of technological developments.
+For RTE NOx emissions become either comparable to (e.g. South
+America) or lower than (e.g. Asia) those from the shipping sector.
+Analysing the regional NOx emission trends shown in Fig. 1 re-
+veals that the Asian region has the largest RTE of NOx across the
+entire timeline, with the annually integrated RTE being approxi-

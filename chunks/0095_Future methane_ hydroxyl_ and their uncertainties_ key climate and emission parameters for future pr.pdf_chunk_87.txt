@@ -1,0 +1,8 @@
+We ﬁnd that 85% of methane oxidation by tropospheric
+OH occurs between 40◦S and 40◦N and that this region also
+controls the interannual variability of τCH4×OH in the CTMs.
+The same latitudes also dominate the variability of global-
+mean temperature, water vapor, lightning NOx and biomass
+burning, so the parametric model performs nearly as well if
+these input variables are averaged over 40◦S to 40◦N in-
+stead of globally. Stratospheric ozone exerts the greatest in-

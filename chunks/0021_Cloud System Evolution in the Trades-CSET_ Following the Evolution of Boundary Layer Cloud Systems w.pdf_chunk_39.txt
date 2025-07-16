@@ -1,0 +1,5 @@
+included radar and lidar remote sensing of the clouds and MBL from an altitude of about 6 
+km (20 kft) altitude along transects. In this mode, dropsondes were deployed to obtain the 
+thermodynamic and wind structure in and above the MBL upstream and downstream from 
+the StCu to Cu transition zone. The second—in situ mode—involved detailed profiling in the 
+subcloud, cloud layer, and across the top of the boundary layer in three to four selected areas

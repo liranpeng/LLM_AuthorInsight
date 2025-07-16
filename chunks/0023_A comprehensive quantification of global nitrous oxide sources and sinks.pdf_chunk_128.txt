@@ -1,0 +1,7 @@
+smallest term in the global budget (Extended Data Fig. 4d).
+(b) Other direct anthropogenic sources. This includes ‘Fossil fuel and 
+industry’, ‘Waste and waste water’, and ‘Biomass burning’. Both ‘Fossil 
+fuel and industry’ and ‘Waste and waste water’ are the ensemble means 
+of the values from EDGAR v4.3.2 and GAINS databases. The ‘Biomass 
+burning’ emission is the ensemble mean of values from FAOSTAT, DLEM 
+and GFED4s databases.

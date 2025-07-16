@@ -1,0 +1,9 @@
+doi:10.5194/acp-8-4141-2008, 2008.
+Bian, H. S. and Prather, M. J.: Fast-J2: accurate simulation of strato-
+spheric photolysis in global chemical models, J. Atmos. Chem.,
+41, 281–296, 2002.
+Blitz, M. A., Heard, D. E., and Pilling, M. J.: Study of ace-
+tone photodissociation over the wavelength range 248–330 nm:
+evidence of a mechanism involving both the singlet and
+triplet excited states, J. Phys. Chem. A, 110, 6742–6756,
+doi:10.1021/Jp056276g, 2006.

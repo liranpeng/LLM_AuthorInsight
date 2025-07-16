@@ -1,0 +1,25 @@
+son. Given the excellent agreement at the parcel level using
+three models (GC, GMI, and UCI), and with a desire to avoid
+wasting the community’s time, we continued the analysis of
+Atmos. Chem. Phys., 23, 99–117, 2023
+https://doi.org/10.5194/acp-23-99-2023
+H. Guo et al.: Heterogeneity and chemical reactivity
+105
+Table 3. Cross-model rms differences (RMSDs as a percentage of
+the mean) for the three reactivities using MDS-0.
+P-O3
+F0AM
+GC
+GISS
+GMI
+NCAR
+UCI
+F0AM
+48 %
+95 %
+45 %
+55 %
+42 %
+GC
+48 %
+78 %

@@ -1,0 +1,9 @@
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+https://doi.org/10.5194/essd-15-3299-2023
+© Author(s) 2023. This work is distributed under
+the Creative Commons Attribution 4.0 License.
+Deconstruction of tropospheric chemical reactivity using
+aircraft measurements: the Atmospheric Tomography
+Mission (ATom) data
+Michael J. Prather1, Hao Guo1,2, and Xin Zhu1
+1Department of Earth System Science, University of California at Irvine, Irvine, CA 92697-3100, USA

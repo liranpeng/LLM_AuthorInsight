@@ -1,0 +1,8 @@
+prevents average volcanic aerosol activity from causing a
+long-term cooling – i.e., it accounts for the fact that the
+ocean in 1850 was slightly cooled by prior volcanoes. We
+take Fv = 0.3 W m−2, the average stratospheric aerosol forc-
+ing for 1850–2015. The assumed-constant pre-1850 volcanic
+aerosols caused a constant cooling up to 1850, which gradu-
+ally decreases to zero after 1850 and is replaced by post-1850
+time-dependent volcanic cooling; note that T (1850) = 0 ◦C.

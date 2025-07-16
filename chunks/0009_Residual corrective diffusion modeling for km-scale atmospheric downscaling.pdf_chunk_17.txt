@@ -1,0 +1,9 @@
+target data as well as with several baseline models. A common set
+of 205 randomly selected out-of-sample date and time combinations
+from 2021 is used for computing metrics and spectra and for
+intercomparing CorrDiff with the baseline models. For CorrDiff
+ensemble predictions are examined using a 32-member ensemble;
+larger ensembles do not meaningfully modify the key findings
+below (not shown).
+Baseline models
+As baselines, we use an interpolation of the condition data (ERA5),

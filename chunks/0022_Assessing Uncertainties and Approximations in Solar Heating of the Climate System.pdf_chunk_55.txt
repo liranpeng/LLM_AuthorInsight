@@ -1,0 +1,6 @@
+Table S3, we look at the average cross sections (Rayleigh scattering and O3 absorption) for the three largest 
+HSU AND PRATHER
+10.1029/2020MS002131
+6 of 24
+Figure 2.  (a) UV-Visible region for Solar-J (298–778 nm, 721 W m−2) showing (top) continuum spectra for Rayleigh 
+scattering, O3 absorption, O1D production, and ocean surface albedo (OSA, high sun, low wind) plus schematic

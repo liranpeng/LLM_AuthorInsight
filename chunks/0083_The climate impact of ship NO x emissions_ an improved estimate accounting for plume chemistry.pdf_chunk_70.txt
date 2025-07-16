@@ -1,0 +1,32 @@
+compared to a simulation with no ship NOx. Some of these
+products absorb onto sea-salt aerosols, but this makes a neg-
+ligible contribution to sea-salt aerosol mass, so no RF is ex-
+pected. The largest changes in aerosol column concentration
+−14 −12 −10
+−8
+−6
+−4
+−2
+0
+0
+2
+4
+6
+8
+10
+CH4 RF, mW m−2
+O3 RF, mW m−2
+fixed OPE
+instant dilution
+parametric 
+plume chemistry 
+(best estimate)
+Literature
+Holmes (2013)
+this work
+remove ship NOx
+CMIP5 emissions
+previous version
+Oslo CTM3
+UCI CTM
+zero net RF

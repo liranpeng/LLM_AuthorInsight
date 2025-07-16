@@ -1,0 +1,5 @@
+502–525. https://doi.org/10.1109/TGRS.2016.2610522
+Platt, C., & Martin R. (1997). A Parameterization of the Visible Extinction Coefficient of Ice Clouds in Terms of the Ice/Water Content. Jour-
+nal of the Atmospheric Sciences, 54(16), 2083–2098. https://journals.ametsoc.org/view/journals/atsc/54/16/1520-0469_1997_054_2083_
+apotve_2.0.co_2.xml
+Prather, M. J. (1974). Solution of the Inhomogeneous Rayleigh Scattering Atmosphere. The Astrophysical Journal, 192, 787–792.

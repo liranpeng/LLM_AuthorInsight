@@ -1,0 +1,4 @@
+UCI 2016.  Direct parcel-by-parcel comparison of modeled 24-hour reactivities (top row: P-O3, L-O3, L-CH4; all 
+ppb/day) and photolysis rates (J-NO2, J-O1D; all /sec) calculated for a data stream of 14,880 simulated air parcels 
+from 60 ºS to 60 ºN, 0.5 km to 12 km altitude, and along 180 ºW, see Prather et al., 2018.  Each point is an average 
+of the 5 simulated dates in August (8/01, 8/06, 8/11, 8/16, 8/21). UCI 2016 ref uses full cloud quadrature and the

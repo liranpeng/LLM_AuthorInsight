@@ -1,0 +1,8 @@
+with the AOD data from AERONET stations. In total, we
+consider measurements from 35 AERONET stations, which
+are all in or around the Mediterranean basin. Their locations
+are presented in Fig. 5. Time series plots for eight stations
+are presented in Fig. 6, and the statistics for all stations in
+Table 3. The stations in Fig. 6 are chosen to representatively
+cover the basin. The time series of the stations in the western
+part of the Mediterranean basin and in Spain are marked by

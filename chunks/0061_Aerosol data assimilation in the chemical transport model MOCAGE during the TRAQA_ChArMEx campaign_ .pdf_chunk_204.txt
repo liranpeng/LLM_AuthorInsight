@@ -1,0 +1,9 @@
+tion of the diversities of aerosol life cycles within AeroCom, At-
+mos. Chem. Phys., 6, 1777–1813, doi:10.5194/acp-6-1777-2006,
+2006.
+Thieuleux, F., Moulin, C., Bréon, F. M., Maignan, F., Poitou, J.,
+and Tanré, D.: SEVIRI Level-2 Aerosol Products (AOT and AE)
+over Ocean (SEV_AER-OC-L2), ICARE data centre, University
+of Lille, available at: http://www.icare.univ-lille1.fr (registration
+required, last access: November 2016), 2005a.
+Thieuleux, F., Moulin, C., Bréon, F. M., Maignan, F., Poitou, J.,

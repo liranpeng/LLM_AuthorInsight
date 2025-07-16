@@ -1,0 +1,9 @@
+studying the climate and air quality impacts of future emis-
+sion reduction will need to perform a three-member ensem-
+ble of SSP3-7.0 as described in ScenarioMIP (O’Neill et al.,
+2016) (41 years for each member).
+3.1
+Historical (in support of science question 2.1)
+These experiments are designed to quantify the contribu-
+tions of aerosols (tropospheric) and ozone (tropospheric and
+stratospheric) to climate change over the historical period.

@@ -1,0 +1,3 @@
+in the lower troposphere (> 800 hPa) for ship and road trafﬁc, while the right column shows the horizontally averaged perturbations in the
+Northern Hemisphere for all transport modes. The right y-axes in the left column and the top x-axes in the right column show the ozone
+perturbations when scaled from 5 % to 100 % by applying a factor of 20. Note that different scales have been used and that the scales have

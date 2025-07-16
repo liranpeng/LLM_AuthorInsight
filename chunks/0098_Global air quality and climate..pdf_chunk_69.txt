@@ -1,0 +1,9 @@
+includes opposing inﬂuences from the direct eﬀect (0.31 W m2)
+and indirect eﬀect (+0.23 W m2). In their simulations,
+particle growth from SOA condensation combined with a
+larger coagulation sink for small particles leads to a warming
+indirect eﬀect from SOA. Further work is needed to reconcile
+the sign of the SOA inﬂuence on the cloud albedo feedback.
+2.3
+Anthropogenic emission sectors
+In contrast to long-lived greenhouse gases, the climate impact

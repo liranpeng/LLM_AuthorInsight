@@ -1,0 +1,10 @@
+2020. doi:10.1002/qj.3803.
+[11] Ryan Keisler.
+Forecasting global weather with graph neural networks.
+arXiv, 2022.
+doi:10.48550/ARXIV.2202.07575.
+[12] Fred Kucharski, Franco Molteni, Martin P. King, Riccardo Farneti, In-Sik Kang, and Laura Feu-
+dale. On the need of intermediate complexity general circulation models: A “SPEEDY” example.
+Bulletin of the American Meteorological Society, 94(1):25–30, January 2013. doi:10.1175/bams-
+d-11-00238.1.
+6

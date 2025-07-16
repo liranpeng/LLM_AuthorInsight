@@ -1,0 +1,8 @@
+tion) of HOOH vs. NOx for the tropical central Paciﬁc for all four
+ATom deployments. The cross marks the mean (in log space), and
+the ellipse is ﬁtted to the rotated PD having the smallest semi-minor
+axis. The semi-minor and semi-major axes are 2 standard deviations
+of PD in that direction. The ellipses from ATom-2 (red), ATom-
+3 (blue), and ATom-4 (dark green) are also plotted in the ATom-1
+quadrant.
+chemistry. Although heterogeneity occurs at the ﬁnest scales

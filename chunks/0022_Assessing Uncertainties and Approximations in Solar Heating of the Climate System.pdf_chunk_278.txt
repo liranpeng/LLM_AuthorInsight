@@ -1,0 +1,10 @@
+cloud absorption.  It is constructed using 0.05 to 0.10 μm wide bands, yielding 66 IR 
+bands instead of the 9 in SJ.  Without sub-bins, it cannot calculate any IR gas absorption. 
+SJ/Ray 
+SJ with the standard Rayleigh gas scattering phase function (1 + cos2(Θ)) changed to 
+isotropic (1). 
+SJ/δ0 
+SJ with all cloud optical depths and phase functions changed to δ-0 scaling, see text and 
+Table 2. 
+SJ/δ1 
+SJ with all cloud optical depths and phase functions changed to δ-1 scaling, see text and

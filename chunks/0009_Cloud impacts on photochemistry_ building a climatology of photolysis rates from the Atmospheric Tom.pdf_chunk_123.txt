@@ -1,0 +1,8 @@
+tistical distribution of the individual J-cloudy to J-clear ra-
+tios (rlnJ). To model clouds correctly we need to under-
+stand how frequently and by how much clouds interfere with
+J values. The statistical distribution of rlnJ shows distinct
+patterns and classes of models. In the free troposphere (100–
+900 hPa), all have a sharp edge at rlnJ = 0 with hardly any
+diminished J values (rlnJ < 0), but the small-cloud-effects
+models (GC, GFDL, GISS, GMI, UKCA) show a dom-

@@ -1,0 +1,9 @@
+in the troposphere and the lower stratosphere.
+The main
+idea and novelty is to include both tropospheric and strato-
+spheric chemistry and to account for climate change, includ-
+ing couplings between chemistry and climate, in a multi-
+model study. Time-slice model simulations have been carried
+out for the years 1850 and 2000, yielding ozone change that
+is taken as input for detailed radiative transfer calculations.
+The applied models greatly differ in transport and chemistry

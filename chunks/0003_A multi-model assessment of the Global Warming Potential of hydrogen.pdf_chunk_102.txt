@@ -1,0 +1,6 @@
+(chemical gases and aerosols) and a complex set of photolytic, bi-molecular, tri-
+molecular, and heterogeneous reactions. The model has aerosol modules for sulfate,
+nitrate, black carbon, primary organic carbon, secondary organic aerosols, mineral
+dust, and sea salt (Lund et al. 2018)53. Based on estimates of natural and
+anthropogenic emissions, dry-deposition velocities, wet-deposition for water-
+soluble species, and solved chemical reactions, changes in the atmospheric com-

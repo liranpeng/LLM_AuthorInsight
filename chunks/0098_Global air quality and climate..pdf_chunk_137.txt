@@ -1,0 +1,8 @@
+strong dependence on inter-annual meteorological variability.
+Over South and East Asia, the PM2.5 projections do not rank
+according to the RCP RFs. Instead, RCP6.0 represents the
+high end of the PM2.5 range and RCP4.5 represents the low
+end. Over South Asia, the PM2.5 projections are strongly tied
+to the OC emissions (Fig. 7). South Asian SO2 emissions
+decline similarly under all of the RCPs, with the exception
+of RCP6.0 in which SO2 emissions may contribute to raising

@@ -1,0 +1,8 @@
+ms−1 compared with the maximum value of 50ms−1 in the target.
+The diffusion component of CorrDiff is responsible for the most
+extreme wind speeds in its predictions. In contrast, the mean
+axisymmetric structure of the typhoon (Fig. 5f), is controlled more
+by the UNet, which reveals the influence of CorrDiff on typhoon
+geometry: With downscaling the radius of maximum winds
+decreases from 75 km in ERA5 to about 50 km in CorrDiff,
+compared with 25 km in the WRF model. At the same time, the

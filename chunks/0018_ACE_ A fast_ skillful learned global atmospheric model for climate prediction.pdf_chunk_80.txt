@@ -1,0 +1,59 @@
+1.0
+v₂ [m/s]
+0.0
+0.5
+v₁ [m/s]
+0.0
+0.2
+v₀ [m/s]
+0.0
+0.5
+P [mm/day]
+0
+5
+10
+LHF [W/m²]
+0
+5
+SHF [W/m²]
+0
+5
+USWRFtoa [W/m²]
+0
+2
+ULWRFtoa [W/m²]
+0
+5
+10
+DSWRFsfc [W/m²]
+0
+2
+4
+DLWRFsfc [W/m²]
+0
+2
+4
+USWRFsfc [W/m²]
+0
+2
+4
+ULWRFsfc [W/m²]
+ACE
+baseline
+reference
+run
+RMSE of time-mean
+Figure 7: The RMSE of the time-mean (Equation 6) of all output variables for ACE, the coarser
+resolution baseline and the reference simulation.
+12
+ACE
+baseline
+reference
+run
+ACE
+baseline
+reference
+run
+ACE
+baseline
+reference

@@ -1,0 +1,8 @@
+ﬁnd that temperature, water vapor, stratospheric ozone col-
+umn, biomass burning and lightning NOx are the dominant
+sources of interannual changes in methane lifetime in all
+three models. We also evaluate each model’s response to
+forcings that have impacts on decadal time scales, such as
+methane feedback, and anthropogenic emissions. In general,
+these different CTMs show similar sensitivities to the driving
+variables. We construct a parametric model that reproduces

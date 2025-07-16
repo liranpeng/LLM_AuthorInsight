@@ -1,0 +1,8 @@
+numeral convergence rates matching the formal order of ac-
+curacy for higher order schemes (see, for example, Harris
+et al., 2010). The meridional component of the velocity ﬁeld
+v is not inﬁnitely smooth at the poles. However, since all
+ﬁelds are constant at the poles (and in the vicinity of the
+poles) and since all metrics are based on mixing ratio φ and
+not tracer mass, this lack of smoothness in the derivative of v
+has not been found to inﬂuence the results. Hence this setup

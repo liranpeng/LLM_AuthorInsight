@@ -1,0 +1,8 @@
+tive transfer problem. So accepting the model limitations and
+the inability to match individual measurements, we use the
+statistics of observed J values, enhanced or diminished rela-
+tive to a clear sky, and ask if the models’ many approxima-
+tions for the radiative transfer in cloud ﬁelds can yield those
+same net results.
+This paper presents the statistical distribution of the mea-
+sured J values using the CAFS instrument (Charged-coupled

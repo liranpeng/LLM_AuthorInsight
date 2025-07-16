@@ -1,0 +1,5 @@
+documentation-and-support/changes-ecmwf-model.
+Diﬀerences between the two cycles in large-scale transport and O3 photochemistry of the lower strato-
+sphere are summarized in Figures S1 and S2 in the supporting information. Transport diagnostics are taken
+from Strahan et al. [2011]. Relative to C29, the C36 simulation has a slower ascent and a more sluggish over-
+turning circulation as evidenced by the older tropical mean age-of-air and the larger horizontal gradient

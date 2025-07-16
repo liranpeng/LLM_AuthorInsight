@@ -1,0 +1,9 @@
+radiative transfer calculations. However, as the NRFs are de-
+pendent on both the region and altitude of the resulting O3
+change (Berntsen et al., 2000; Gauss et al., 2003b) it is impor-
+tant to use separate NRFs for each trafﬁc sector due to the dif-
+ferent locations of emissions from each sector. When using
+Atmos. Chem. Phys., 12, 12211–12225, 2012
+www.atmos-chem-phys.net/12/12211/2012/
+Ø. Hodnebrog et al.: Future impact of trafﬁc emissions
+12219

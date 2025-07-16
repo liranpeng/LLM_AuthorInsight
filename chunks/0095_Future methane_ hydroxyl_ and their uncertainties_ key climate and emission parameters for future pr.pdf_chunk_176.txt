@@ -1,0 +1,8 @@
+Naik, V., Plummer, D., Rumbold, S., Skeie, R., Stevenson, D.
+S., Strode, S., Sudo, K., Szopa, S., Voulgarakis, A., and Zeng,
+G.: The Atmospheric Chemistry and Climate Model Intercom-
+parison Project (ACCMIP): Overview and description of models,
+simulations and climate diagnostics, Geosci. Model Dev. Dis-
+cuss., in review, 2012.
+Lawrence, M. G. and Salzmann, M.: On interpreting studies of
+tracer transport by deep cumulus convection and its effects

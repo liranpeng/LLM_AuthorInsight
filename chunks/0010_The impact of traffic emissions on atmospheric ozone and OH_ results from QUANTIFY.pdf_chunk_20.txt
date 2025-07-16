@@ -1,0 +1,8 @@
+national statistics or own calculations. National emissions
+are allocated to a 1◦×1◦-grid essentially according to popu-
+lation density with emissions from motorised two- and three-
+wheelers biased towards agglomerations and emissions from
+heavy duty vehicles biased towards rural areas. The emis-
+sions used in this study are based on a draft version (Borken
+and Steller, 2006). The ﬁnal inventory for road trafﬁc in-
+cludes improved emission factors. With fuel consumption

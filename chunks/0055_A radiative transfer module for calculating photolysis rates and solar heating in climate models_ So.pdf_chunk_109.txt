@@ -1,0 +1,8 @@
+lar but with some large systematic biases. For SZAs of 0–
+62◦, Solar-J reﬂects ∼10 W m−2 (2–3 %) more sunlight back
+to space, both models calculate about the same increase in
+atmospheric absorption, and RRTMG-SW consistently ab-
+sorbs less energy within the cloud but more above it; thus,
+Solar-J calculates greater reduction in surface heating (also
+about 2–3 %) than RRTMG-SW. These differences in so-
+lar heating are large compared with anthropogenic climate

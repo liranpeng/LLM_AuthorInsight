@@ -1,0 +1,5 @@
+make priority recommendations for fixing these simplifications based on both the magnitude of error and 
+the ease or computational cost of the fix.
+Plain Language Summary  Solar heating of the climate system—the atmosphere, land 
+surface, and ocean—drives the climate. Accurate numerical calculation of solar heating is a core 
+component of the models we use to project and prepare for climate change. The community has identified

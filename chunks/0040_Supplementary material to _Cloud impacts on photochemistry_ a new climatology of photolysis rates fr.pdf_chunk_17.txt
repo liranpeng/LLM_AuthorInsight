@@ -1,0 +1,26 @@
+abundance (sampled uniformly in log from 0.01 to 30 mg/m3).  The plots are also split between the lowermost 
+troposphere (lower panels, >850 hPa) and free troposphere (upper, 200 – 850 hPa).   
+ 
+ 
+ 
+ 
+ 
+8 
+ 
+ 
+Table S1.  Model contact information 
+short name 
+long name 
+POCs for these simulations 
+CAFS 
+--- 
+Sam Hall <halls@ucar.edu> 
+Kirk Ullmann <ullmannk@ucar.edu> 
+GC   
+GEOSChem 
+Murray, Lee <lee.murray@rochester.edu> 
+ 
+GFDL 
+GFDL AM3 
+Arlene Fiore  
+<amfiore@ldeo.columbia.edu>

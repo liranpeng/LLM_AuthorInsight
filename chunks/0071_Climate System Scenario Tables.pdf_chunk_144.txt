@@ -1,0 +1,56 @@
+47.5
+43.5
+43.3
+48.1
+2030d
+50.8
+45.2
+46.2
+52.1
+69.8
+69.8
+2040d
+53.2
+46.3
+49.8
+55.6
+2050d
+55.5
+46.4
+53.0
+58.4
+2060d
+58.4
+46.0
+56.5
+60.6
+2070d
+61.2
+45.2
+59.5
+62.4
+2080d
+63.3
+44.3
+60.9
+63.8
+2090d
+65.2
+43.9
+62.1
+65.3
+2100d
+67.0
+43.6
+61.8
+66.9
+Table AII.2.18 |  Anthropogenic NOX emissions (TgN yr–1)
+Notes:
+Odd nitrogen (NOx) emissions occur as NO or NO2, measured here as Tg of N.
+1418
+Annex II	
+Climate System Scenario Tables
+AII
+Table AII.2.19 |  Anthropogenic NH3 emissions (TgN yr–1)
+Year
+RCP2.6

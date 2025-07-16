@@ -1,0 +1,7 @@
+hydrogen economy. Science 302, 624–627 (2003).
+41. Meinshausen, M. et al. Historical greenhouse gas concentrations for climate
+modelling (CMIP6). Geosci. Model Dev. 10, 2057–2116 (2017).
+42. van Marle, M. J. E. et al. Historic global biomass burning emissions for CMIP6
+(BB4CMIP) based on merging satellite observations with proxies and ﬁre
+models (1750–2015). Geosci. Model Dev. 10, 3329–3357 (2017).
+43. Stevenson, D. S. et al. Tropospheric ozone changes, radiative forcing and

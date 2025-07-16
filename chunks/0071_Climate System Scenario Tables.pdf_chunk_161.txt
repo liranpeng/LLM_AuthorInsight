@@ -1,0 +1,2 @@
+using the MAGICC model (Meinshausen et al., 2011a; 2011b). These are harmonized to match observations up to 2005 (378.8 ppm) and project future abundances thereafter. RCP8.5& shows the 
+average and assessed 90% confidence interval for year 2100, plus the min-max full range derived from the CMIP5 archive for all years (P. Friedlingstein, based on Friedlingstein et al., 2006). 11 ESMs

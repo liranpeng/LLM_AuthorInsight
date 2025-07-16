@@ -1,0 +1,6 @@
+HIAPER-GV for the Cloud System Evolution in the Trades (CSET) campaign. (In preparation).
+Spuler SM, and Fugal JP, 2011: Design of an in-line, digital holographic imaging system for airborne 
+measurement of clouds. Appl. Opt, 50, 1405–1412, doi:10.1364/AO.50.001405. [PubMed: 
+21460907] 
+Sun-Mack S, Minnis P, Chen Y, Kato S, Yi Y, Gibson S, Heck PW, and Winker D, 2014: Regional 
+apparent boundary layer lapse rates determined from CALIPSO and MODIS data for cloud height

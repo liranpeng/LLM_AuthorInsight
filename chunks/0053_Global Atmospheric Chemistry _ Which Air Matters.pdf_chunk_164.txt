@@ -1,0 +1,23 @@
+using
+model-calculated,
+aircraft-based,
+and
+Measurements
+of
+Pollution
+in
+the
+Troposphere
+(MOPITT)-derived
+CO
+concentrations,
+J.
+Geophys.
+Res.-Atmos.,
+109,
+D15S03,
+https://doi.org/10.1029/2003jd004250, 2004.
+Apel, E. C., Olson, J. R., Crawford, J. H., Hornbrook, R. S.,
+Hills, A. J., Cantrell, C. A., Emmons, L. K., Knapp, D. J.,
+Hall, S., Mauldin, R. L., Weinheimer, A. J., Fried, A., Blake,
+D. R., Crounse, J. D., St Clair, J. M., Wennberg, P. O., Diskin,

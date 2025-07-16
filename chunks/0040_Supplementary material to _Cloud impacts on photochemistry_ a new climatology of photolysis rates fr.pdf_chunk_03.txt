@@ -1,0 +1,17 @@
+12 National Centre for Atmospheric Science, U.K. 
+Correspondence to: Michael J. Prather (mprather@uci.edu) 
+ 
+Contents of this file  
+Figures S1 to S8 
+Table S1 
+This Supplementary Material includes figures and tables referenced in the main text and useful for 
+understanding this work, but not essential to its findings.   
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+Figure S1. The probability distribution of solar zenith angles (SZAs) as sampled by ATom with the CAFS

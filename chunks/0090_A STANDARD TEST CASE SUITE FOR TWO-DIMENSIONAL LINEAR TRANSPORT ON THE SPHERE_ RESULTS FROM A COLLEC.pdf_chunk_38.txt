@@ -1,0 +1,8 @@
+This means that the discretization scheme for Eq. (1) reduces
+to the discretization scheme for Eq. (2) for φ = 1 as it triv-
+ially does in continuous space. Note that free-stream preserv-
+ing does not necessarily mean that the spatial and temporal
+discretization schemes for ρ and ρφ are identical. In fact, it
+is common practice to solve the tracer transport Eq. (1) on
+longer time steps than the air density Eq. (2) since tracer
+transport schemes are usually only limited by the advec-

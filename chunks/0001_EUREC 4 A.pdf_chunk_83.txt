@@ -1,0 +1,8 @@
+longwave and shortwave radiometers were installed on three
+of the airborne (zenith and nadir) and surface (zenith) plat-
+forms. In addition, HALO and the R/V Meteor hosted high-
+spectral-resolution systems measuring shortwave and near-
+infrared down- and upwelling radiances (Wendisch et al.,
+2001). Near-real-time geostationary GOES-East satellite im-
+agery and cloud product retrievals between 19◦N–5◦S and
+49–66◦W were collected, with ﬁner temporal resolution ev-

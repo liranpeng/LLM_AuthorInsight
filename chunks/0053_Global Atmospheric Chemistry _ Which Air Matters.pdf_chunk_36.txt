@@ -1,0 +1,31 @@
+Atmos. Chem. Phys., 17, 9081–9102, 2017
+9084
+M. J. Prather et al.: Global atmospheric chemistry – which air matters
+Table 1. Chemistry-Transport and Chemistry-Climate models used in this work.
+(a) Participating models
+Model
+Type
+Driving meteorology
+Year
+Model grid
+Effective resol. 500 hPa
+CAM4-Chem
+CCM
+SSTs
+2000s
+0.47◦× 0.625◦× 52 L
+0.47◦× 0.625◦× 38 hPa
+GEOS-Chem
+CTM
+GEOS5-FP
+2013
+2◦× 2.5◦× 72 L
+2◦× 2.5◦× 38 hPa
+GFDL-AM3
+CCM
+NCEP (nudged)
+2013
+C180L48
+0.5◦× 0.5◦× 71 hPa
+GISS-E2
+CCM

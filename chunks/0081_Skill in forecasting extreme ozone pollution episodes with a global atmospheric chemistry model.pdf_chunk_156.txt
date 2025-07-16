@@ -1,0 +1,8 @@
+large fraction of the excess MDA8 O3. We test the ability
+the UCI CTM to hindcast the 1000 km, multiday giant AQX
+episodes that include most of the individual, cell-based AQX
+events. Although we have no formal error estimate of the
+gridding procedure, we feel our quality of prediction (QP)
+provides a similar quantity, as shown with both the obser-
+vations themselves (Fig. 2) and with the ability of the UCI
+CTM to hindcast AQX events (Fig. S4 in the Supplement).

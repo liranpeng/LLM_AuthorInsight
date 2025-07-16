@@ -1,0 +1,11 @@
+sensitivities to emissions.
+2.4
+How important are climate feedbacks to natural
+NTCF emissions, atmospheric composition, and
+radiative effects?
+In a recent assessment of 28 modelled factors that could
+be a source of uncertainty in simulated cloud brightness,
+Carslaw et al. (2013) identiﬁed that, in their model, approxi-
+mately 45 % of the variance came from natural aerosols, es-
+pecially from dimethysulﬁde (DMS) and volcanic SO2 emis-
+sions. This can be compared with 34 % of the variance due to

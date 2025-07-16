@@ -1,0 +1,8 @@
+tiﬁed in Sect. 3.2 and 3.3 as important inﬂuences on inter-
+annual variability, we include CH4 abundance and anthro-
+pogenic NOx, CO and VOC emissions for the historical re-
+construction. NOx emissions are divided into land, ship and
+aviation sectors because their sensitivities differ signiﬁcantly.
+In total, the expanded parametric model includes 11 vari-
+ables. For the 11 sensitivity parameters, αi in Eq. (3), we
+adopt values from the average and spread of sensitivities in

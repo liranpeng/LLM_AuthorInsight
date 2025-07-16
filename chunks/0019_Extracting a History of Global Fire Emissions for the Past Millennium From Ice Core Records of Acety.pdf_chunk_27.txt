@@ -1,0 +1,11 @@
+R. Nicewonger, Murat Aydin, Eric S.
+Saltzman
+issues considered include the possible impact of changes in atmospheric
+lifetime of ethane and methane due to chlorine atoms, variability in the
+isotopic signatures of methane sources, and changes in trace gas emission
+factors.
+2. Atmospheric Cycling and Budgets of Acetylene,
+Ethane, and Methane
+2.1. Acetylene
+Acetyleneisreleasedfromincompletecombustionprocesses,includingfos-
+sil fuel and biofuel burning and biomass burning (Whitby & Altwicker,

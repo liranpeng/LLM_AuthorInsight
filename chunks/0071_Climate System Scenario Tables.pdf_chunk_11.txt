@@ -1,0 +1,7 @@
+the referenced chapters must be consulted for the assessed uncertainty 
+or confidence level of these results. In the case of Table AII.7.5, for 
+example, the global mean surface temperature change (°C) relative 
+to 1986–2005 is a statistical summary of the spread in the Coupled 
+Model Intercomparison Project (CMIP) ensembles for each of the sce­
+narios: model biases and model dependencies are not accounted for; 
+the percentiles do not correspond to the assessed uncertainty derived

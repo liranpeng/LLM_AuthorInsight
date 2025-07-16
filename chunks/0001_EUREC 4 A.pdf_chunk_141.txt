@@ -1,0 +1,8 @@
+teor. The lower panel documents kilometer-scale wind speed
+variations on the order of 2 ms−1 that extend into the sur-
+face layer (derived from the short-range wind lidar, deﬁned
+with respect to 3-hourly running means). One question asked
+is whether, for a given surface friction, convectively driven
+ﬂows can sustain a relatively large near-surface wind, and
+weaker surface layer wind shear, than expected from shear-
+driven turbulence alone. The third panel shows that the ratio

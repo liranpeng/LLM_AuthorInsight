@@ -1,0 +1,11 @@
+Throughout this section, we report RFs from pre-industrial to
+present-day as reported in the literature. Individual studies
+vary in their choice of base year for both pre-industrial and
+present-day but this is unlikely to be a major contribution to
+the range of reported RFs.
+2.1
+Ozone (O3) precursors
+The increase in tropospheric O3 from pre-industrial to present-
+day driven by human activities25 has led to a positive climate
+forcing (+0.35+0.3
+0.1 W m2)10 and substantial increases in O3

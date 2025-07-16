@@ -1,0 +1,8 @@
+are effectively extrapolated in the parts of the ﬂux areas (if
+any) that are not limited to the immediate upstream cell with
+which the control volume shares a face. Since slope-limiting
+www.geosci-model-dev.net/7/105/2014/
+Geosci. Model Dev., 7, 105–145, 2014
+110
+P. H. Lauritzen et al.: Results from standard test case suite
+Table 2. A list of shape-preserving ﬁlter information: scheme acronym (ﬁrst column), scheme category (second column), ﬁlter category

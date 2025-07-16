@@ -1,0 +1,9 @@
+methodologies to evaluate, understand and improve the represen-
+tation of clouds and cloud feedbacks in climate models, Geosci.
+Model Dev., 10, 4285–4305, https://doi.org/10.5194/gmd-10-
+4285-2017, 2017.
+Veefkind, J. P., Haan, J. F., Brinksma, E. J., Kroon, M., and Levelt,
+P. F.: Total ozone from the ozone monitoring instrument (OMI)
+using the DOAS technique, IEEE T. Geosci. Remote, 44, 1239–
+1244, 2006.
+Walters, D., Boutle, I., Brooks, M., Melvin, T., Stratton, R., Vosper,

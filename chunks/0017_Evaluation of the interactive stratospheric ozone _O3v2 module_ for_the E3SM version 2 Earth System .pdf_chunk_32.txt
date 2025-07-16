@@ -1,0 +1,8 @@
+SCO. The SCO data (i) are derived from the work of Ziemke
+et al. (2006, 2019) that merges total column ozone data from
+the Ozone Monitoring Instrument (OMI) with stratospheric
+proﬁle data from the Microwave Limb Sounder (MLS) to
+calculate a tropospheric column ozone. Both instruments are
+on the NASA Aura satellite (Schoeberl et al., 2004). The
+Ziemke data set is geographically resolved, but here we use
+only the zonal monthly mean. The zonal mean ozone pro-

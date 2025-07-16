@@ -1,0 +1,8 @@
+1289–1306, 2019.
+Nencioli, F., Dong, C., Dickey, T., Washburn, L., and McWilliams,
+J. C.: A Vector Geometry–Based Eddy Detection Algorithm and
+Its Application to a High-Resolution Numerical Model Product
+and High-Frequency Radar Surface Velocities in the Southern
+California Bight, J. Atmos. Ocean. Tech., 27, 564–579, 2010.
+Nuijens, L., Serikov, I., Hirsch, L., Lonitz, K., and Stevens, B.: The
+distribution and variability of low-level cloud in the North At-

@@ -1,0 +1,6 @@
+In this work, as a first
+effort, we chose to train on a simplified dataset with annually repeating climatological SST. However,
+4
+Figure 4: ACE forced with a realistic SST dataset spanning 1990-2020. Showing (left) timeseries of
+annual mean and global mean T7, with individual lines corresonding to different initial conditions
+and (right) time-mean bias of T7 for a single initial condition with time-mean RMSE and global bias

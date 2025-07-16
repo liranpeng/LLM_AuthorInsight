@@ -1,0 +1,11 @@
+5
+Discussion and path forward
+5.1
+Major ﬁndings
+This paper opens a door for what the community can do with
+the ATom measurements and the derived products. ATom’s
+mix of key species allows us to calculate the reactivity of
+the air parcels and hopefully may become standard for tro-
+pospheric chemistry campaigns. We ﬁnd that the reactivity
+of the troposphere with respect to O3 and CH4 is dominated
+by a fraction of the air parcels but not by so small and infre-

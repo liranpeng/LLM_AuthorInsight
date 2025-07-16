@@ -1,0 +1,7 @@
+(WMGHG) and the emissions pathways for ozone (O3) and aerosol pre­
+cursors. Such differences are discussed in the relevant chapters and 
+noted in the tables.
+For each species, the abundances (given as dry air mole fraction: ppm 
+= micromoles per mole (10–6); ppb = nanomoles per mole (10–9); and 
+ppt = picomoles per mole (10–12)), burdens (global total in grams, 1 Tg 
+= 1012 g), average column amount (1 Dobson Unit (DU) = 2.687 × 1016

@@ -1,0 +1,8 @@
+(ATom), with global chemistry models. Here we present a
+brief overview of those papers to help the reader under-
+stand the basis for this paper. The ﬁrst ATom modeling pa-
+per (“Global atmospheric chemistry – which air matters”,
+Prather et al., 2017, hence P2017) gathered six global mod-
+els, both chemistry transport models (CTMs) and chemistry–
+climate models (CCMs). The models reported a single-day
+snapshot for mid-August (the time of the ﬁrst ATom deploy-

@@ -1,0 +1,8 @@
+ing rates (K day−1) for overhead sun (SZA = 0◦) with the
+abscissa axis scaled separately for the stratosphere and the
+troposphere. Both models produce similar structures with
+the heating maximum of ∼30 K day−1 in the stratosphere
+at about 45 km altitude and ∼3 K day−1 in the lower tro-
+posphere. The ability of Solar-J to match these structures
+demonstrates that Solar-J has correctly implemented the
+RRTMG-SW spectral model. Solar-J minus RRTMG-SW

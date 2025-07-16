@@ -1,0 +1,6 @@
+is considerably larger than the IPCC Tier 1 default for direct emission of 
+1%. This higher emission factor, derived from process-based models, 
+suggests a strong interactive effect between nitrogen additions and other 
+global environmental changes (Table 1, ‘Perturbed fluxes from climate, 
+atmospheric CO2 and land cover change’). Previous field experiments 
+reported a better fit to local observations of soil N2O emissions when

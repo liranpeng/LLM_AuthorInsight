@@ -1,0 +1,8 @@
+The isolated effect of climate change on total ozone is
+shown for the six models that have done Scenario 1 (or 1d) in
+Fig. 3 by the red bars. As already suggested by the discussion
+of zonal-mean ozone change, the effect of climate change on
+the tropospheric ozone column is positive in all CCMs that
+have made this calculation, except DLR E39C, which yields
+a small reduction. The climate change signal is largely a
+result of the competing effects of increased humidity and in-

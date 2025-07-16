@@ -1,0 +1,7 @@
+(Methods, Extended Data Fig. 2).
+With this extensive data and bottom-up/top-down framework, we 
+established comprehensive global and regional N2O budgets that 
+include 18 sources and various different chemical sinks. These sources 
+and sinks are further grouped into six categories (Fig. 1, Table 1): (1) natu-
+ral sources (no anthropogenic effects) including a very small biogenic 
+surface sink; (2) perturbed fluxes from ecosystems induced by changes

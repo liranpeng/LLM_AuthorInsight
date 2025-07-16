@@ -1,0 +1,8 @@
+IFS, MOCA, NCAR, UCI, UCIb) show a much greater range
+in Js, with a larger fraction perturbed by clouds (enhanced
+or diminished by more than 10 %). The CAFS observa-
+tions generally support this latter group. There are individual
+model anomalies that may point to unusual features: MOCA
+alone has a peak frequency of enhanced Js at rlnJ ∼0.05 in
+the free troposphere; three models (NCAR, UCI, UCIb) show
+the largest extended frequency of |rlnJ| > 0.10 in the middle

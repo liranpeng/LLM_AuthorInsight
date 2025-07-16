@@ -1,0 +1,14 @@
+relevant for tropospheric chemistry and the 24 h reactivities.
+We limited our study to three reactivities (Rs) controlling
+methane (CH4) and tropospheric ozone (O3) using speciﬁc
+reaction rates to deﬁne the loss of CH4 and the production
+and loss of O3 in parts per billion (ppb) per day. The critical
+photolysis rates (J values) are also reported as 24 h averages.
+L-CH4 : CH4 + OH →CH3 + H2O(1)
+(1)
+P-O3 : HO2 + NO →NO2 + RO
+(2a)
+RO2 + NO →NO2 + RO,
+(2b)
+where NO2 + hν →NO + O and O + O2 →O3
+(2c)

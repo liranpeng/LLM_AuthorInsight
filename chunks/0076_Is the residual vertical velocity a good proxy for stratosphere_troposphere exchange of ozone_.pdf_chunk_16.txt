@@ -1,0 +1,5 @@
+slow compared to transport (on the order of 1/1000 days−1; Figure 2 of McLinden et al. [2000]); however, its
+contribution to the STE of ozone has never been formally quantiﬁed.
+The BD method is based on the theoretical idea that the downward mass transport by the overturning
+Brewer-Dobson circulation (BDC) is a useful measure for the global-scale STE on seasonal or longer time
+series [Holton et al., 1995] and thus has been used as a scaled proxy for ozone ﬂux because ozone abun-

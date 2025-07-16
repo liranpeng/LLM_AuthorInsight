@@ -1,0 +1,6 @@
+were calculated from the UCI‐CTM over a range of lifetimes for ethane, including the extreme case of a
+40% chlorine sink. In doing this it was assumed that the chlorine ﬁeld is identical to the OH ﬁeld in the
+UCI‐CTM, which is not necessarily correct but can be considered a reasonable approximation
+(Wang et al., 2019). In scenarios with chlorine oxidation enabled, the 40% case sensitivities were used for
+ethane (Table S3).
+Table 2

@@ -1,0 +1,24 @@
+emissions.
+(the results from (iii) in OsloCTM is
+used for the sensitivities due to a
+methane ﬂux).
+ECMWF OpenIFS 3 hr
+forecast data
+25 years (1)
+UCI CTM
+UC Irvine CTM
+~1,1° × 1,1° grid
+i) present-day control run with ﬁxed
+H2 surface concentrations
+ECMWF OpenIFS 3 hr
+forecast data
+7 years (1)
+UKCA
+UKESM-AMIP,
+UKCA vn11.1
+1.250° × 1.875° with 85
+vertical levels
+i) present-day control run with ﬁxed
+H2 surface concentrations
+ii) 10% increase in H2 surface
+concentrations

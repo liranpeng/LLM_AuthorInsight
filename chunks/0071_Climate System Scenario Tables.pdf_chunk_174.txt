@@ -1,0 +1,15 @@
+22.1 ± 1
+2100
+21.6
+21.6
+21.9
+22.3
+33
+32
+20.3 ± 1
+20.8 ± 1
+21.0 ± 1
+21.3 ± 1
+Notes:
+RCPn.n HFC abundances (Tables AII.4.8 to AII.4.15) are as reported (Meinshausen et al., 2011a). SRES A2 and B1 and IS92a (where available) are taken from TAR Appendix II. Observed values are 
+shown for 2011 (see Chapter 2, and Table AII.1.1). The AR5 RCPn.n& abundances are calculated starting with observed abundances (adopted for 2010) and future tropospheric OH changes using

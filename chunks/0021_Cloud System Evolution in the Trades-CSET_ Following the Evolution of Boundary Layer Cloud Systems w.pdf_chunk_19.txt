@@ -1,0 +1,6 @@
+brought new cloud remote sensors to the field, as well as an explicit Lagrangian sampling 
+approach. Two Lagrangian experiments each tracked air masses for 36-48 hours using 
+instrumented aircraft (Bretherton and Pincus, 1995; Bretherton et al., 1995). The ASTEX 
+Lagrangian studies, however, were not made in classic trade-wind flow and lacked aircraft-
+based lidar and radar observations needed to provide a detailed mapping of cloud and 
+precipitation structures.

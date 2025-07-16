@@ -1,0 +1,8 @@
+A Test Case for Horizontal Advection Problems, Mon. Weather
+Rev., 136, 699–711, 2008.
+Nair, R. D. and Lauritzen, P. H.: A Class of Deformational Flow Test
+Cases for Linear Transport Problems on the Sphere, J. Comput.
+Phys., 229, 8868–8887, doi:10.1016/j.jcp.2010.08.014, 2010.
+Nair, R. D. and Machenhauer, B.: The Mass-Conservative Cell-
+Integrated Semi-Lagrangian Advection Scheme on the Sphere,
+Mon. Weather Rev., 130, 649–667, 2002.

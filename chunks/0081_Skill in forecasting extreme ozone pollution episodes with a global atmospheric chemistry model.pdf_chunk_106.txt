@@ -1,0 +1,36 @@
+7731
+ 120 ° W 
+ 110 ° W 
+ 100 ° W 
+  90 ° W 
+  80 ° W 
+  70 ° W 
+25 ° N 
+ 30 ° N 
+ 35 ° N 
+ 40 ° N 
+ 45 ° N 
+ 50 ° N 
+a)     µ = 24 ± 12 %
+ 10 ° W 
+  0 °   
+ 10 ° E 
+ 20 ° E 
+ 30 ° E 
+ 40 ° N 
+ 50 ° N 
+ 60 ° N 
+ 
+ 
+b)     µ = 32 ± 17 %
+CTM Skill (%)
+0
+10
+20
+30
+40
+50
+60
+Figure 9. Skill of the CTM (i.e., percentage of events identiﬁed in
+the observations that were correctly reproduced in the CTM) at each
+grid cell for the (a) US and (b) EU for years 2005–2006. Domain

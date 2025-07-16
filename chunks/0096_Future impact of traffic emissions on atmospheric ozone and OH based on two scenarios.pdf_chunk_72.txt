@@ -1,0 +1,10 @@
+emissions, as positive numbers.
+(0.33 %) in 2050 (Table 3). When comparing with the low
+emission scenario B1, we see that changes in methane life-
+time may evolve in very different paths, most notably for AIR
+which will cause a change of only 1.7 % in 2050 B1 and only
+1.2 % under the B1 ACARE mitigation scenario (H2011).
+3.4
+Radiative forcing
+We have used the Oslo radiative transfer model (Myhre
+et al., 2000) to calculate cloudy-sky O3 radiative forcings

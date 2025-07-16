@@ -1,0 +1,8 @@
+year, and pollution level by comparing different percentiles at
+each grid cell while maintaining exact-day matches (concur-
+rent sampling) over the 2 years. Simple comparison of high-
+and low-end statistics of the ozone distribution is found to
+be misleading. In Sect. 4 we deﬁne extreme pollution events
+for each grid cell in a climatological sense, as the 100 worst
+days (i.e., highest MDA8 concentrations) in a decade (∼97.3
+percentile) or the 20 worst days in 2 years when comparing

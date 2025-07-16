@@ -1,0 +1,27 @@
+0.41 ± 0.06
+1.89 ± 0.15
+0.39 ± 0.05
+−55
+lowGEO‐highCl
+4.64 ± 0.30
+0.41 ± 0.06
+1.89 ± 0.15
+0.39 ± 0.05
+−55
+Note. All emissions are in Tg acetylene per year. The reported percent changes are calculated as (MP −LIA)/MP.
+Table 5
+Modeled Methane Emissions for the Scenarios of Geologic Emissions and Cl Sink Strength
+Methane emissions
+MP
+LIA
+Scenario
+Biomass burning
+Microbial
+Biomass burning
+Microbial
+Change in burning (%)
+Change in microbial (%)
+noGEO‐noCl
+32.4 ± 2.4
+160.8 ± 9.2
+25.6 ± 2.0

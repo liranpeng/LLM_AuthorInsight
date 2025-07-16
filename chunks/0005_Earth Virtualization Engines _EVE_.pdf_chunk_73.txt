@@ -1,0 +1,7 @@
+models cannot simulate. The more coarse-grained models can
+likewise be applied more conceptually to help rationalize processes
+that EVE models do simulate. EVE will also enable a more
+consistent application of regional models on similar (decadal)
+timescales or yet more finely grained local models on shorter
+timescales to support “wide scaling” – the investigation of local
+change to the multitude of possible local interventions (e.g., water

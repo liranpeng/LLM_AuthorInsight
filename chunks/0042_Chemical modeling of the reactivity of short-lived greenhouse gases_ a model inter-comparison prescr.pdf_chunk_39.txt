@@ -1,0 +1,8 @@
+rectly or simply into reactivities, where GISS L-O3 is higher
+(expected) but L-CH4 is lower (unexpected). For J-NO2,
+model differences are not so great and show largest values at
+20–50◦N consistent with the longer summer daytime hours.
+The spread in J-NO2 is partly understandable because of
+ambiguous choices in interpolating the temperature depen-
+dence of recommended NO2 cross sections and quantum
+yields (i.e., the absorption cross sections are given at 220

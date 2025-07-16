@@ -1,0 +1,8 @@
+to the MDS. It is introduced in the Prologue, and the details
+can be found in P2018. A model grid cell is initialized with
+all the core reactive species needed for a regular chemistry
+simulation. The model is then integrated over 24 h without
+transport or mixing, without scavenging and without emis-
+sions. Each global model uses its own varying cloud ﬁelds
+for the period to calculate photolysis rates, but the F0AM
+box model simply takes the instant J values as measured

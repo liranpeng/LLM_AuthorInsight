@@ -1,0 +1,8 @@
+graphic blocks and compare the sub-grid QCA CODs against
+averaging approaches in Fig. 6. This histogram (blue dots) is
+our best estimate of the distribution of total COD from a 1-D
+nadir perspective of all the sub-grid ICAs. The UCI J values
+are calculated as the average over four QCAs as representa-
+tives of the ICAs. The two SCA models use simple averag-
+ing (COD × CF, green dots) and B-averaging (COD × CF3/2,
+Figure 6. Histogram (% per 0.1 bin) in log of the total cloud optical

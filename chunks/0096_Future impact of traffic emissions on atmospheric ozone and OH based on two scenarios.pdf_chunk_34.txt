@@ -1,0 +1,8 @@
+for addressing impacts of e.g. emission policies in the fu-
+ture (Grewe et al., 2010). Furthermore, Myhre et al. (2011)
+found that the non-linear response of a 5 % perturbation com-
+pared to a 100 % removal of the emission category is small
+compared to the inter-model differences in RF. This implies
+that the calculated sensitivities are robust, i.e. the calculated
+ozone change per changed mass in emissions is rather in-
+dependent from the considered change in emission of either

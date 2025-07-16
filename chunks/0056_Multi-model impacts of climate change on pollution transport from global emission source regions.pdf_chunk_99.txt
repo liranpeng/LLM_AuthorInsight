@@ -1,0 +1,7 @@
+with a Student’s t test using 10 years of data for the 2090s (RCP 8.5) and present-day simulations. Note the different scales for (i) UM-CAM
+and STOC-HadAM3 and (ii) CMAM and GISS-E2-R.
+Previous studies have attributed similar CO-tracer changes
+to changes in tropopause height (Fang et al., 2011), which
+is a robust feature of greenhouse gas warming (e.g. Kang
+et al., 2013) and shown by all four CCMs.
+Following Fang et al. (2011), we elucidate the role of

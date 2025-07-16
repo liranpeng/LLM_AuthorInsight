@@ -1,0 +1,9 @@
+www.geosci-model-dev.net/7/105/2014/
+Geosci. Model Dev., 7, 105–145, 2014
+124
+P. H. Lauritzen et al.: Results from standard test case suite
+Fig. 8. Same as Fig. 7 for the remaining scheme deﬁned on a cubed-sphere grid and two-patch grid (CLAW). For plots showing “CONSTANT
+FIELD – VALUE IS 0.1”, no data are available.
+ing. To assess how well interrelated tracers are simulated
+in an idealized setup, we use the same ﬂow ﬁeld as before.
+Two cosine bell distributions, with mixing ratio χ and ac-

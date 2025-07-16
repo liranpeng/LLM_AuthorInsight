@@ -1,0 +1,9 @@
+Transport Model with Interactive Aerosol Microphysics, edited
+by: Bojkov, R. D. and Visconti, G., XVIII O3 symp. proc., p.
+759, 1997.
+Pitari, G., Mancini, E., Rizi, V., and Shindell, D. T.: Impact of fu-
+ture climate and emission changes on stratospheric aerosols and
+ozone, J. Atmos. Sci., 59, 414–440, 2002.
+Prather, M. J.: Numerical advection by conservation of second-
+order moments, J. Geophys. Res., 91, 6671–6681, 1986.
+Ramaswamy, V., Boucher, O., Haigh, J., Hauglustaine, D., Hay-

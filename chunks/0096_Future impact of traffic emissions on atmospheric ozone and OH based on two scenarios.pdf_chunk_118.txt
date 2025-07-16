@@ -1,0 +1,8 @@
+doi:10.1029/2006jd007630, 2007.
+Eyring, V., Stevenson, D. S., Lauer, A., Dentener, F. J., Butler,
+T., Collins, W. J., Ellingsen, K., Gauss, M., Hauglustaine, D.
+A., Isaksen, I. S. A., Lawrence, M. G., Richter, A., Rodriguez,
+J. M., Sanderson, M., Strahan, S. E., Sudo, K., Szopa, S., van
+Noije, T. P. C., and Wild, O.: Multi-model simulations of the
+impact of international shipping on Atmospheric Chemistry and
+Climate in 2000 and 2030, Atmos. Chem. Phys., 7, 757–780,

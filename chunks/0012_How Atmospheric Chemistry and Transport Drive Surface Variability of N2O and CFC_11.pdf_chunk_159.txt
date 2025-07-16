@@ -1,0 +1,5 @@
+the carbontracker-lagrange North American regional inversion framework. Global Biogeochemical Cycles, 32(3), 463–485. https://doi.
+org/10.1002/2017gb005759
+Nevison, C. D., Dlugokencky, E., Dutton, G., Elkins, J. W., Fraser, P., Hall, B., et al. (2011). Exploring causes of interannual variability 
+in the seasonal cycles of tropospheric nitrous oxide. Atmospheric Chemistry and Physics, 11(8), 3713–3730. https://doi.org/10.5194/
+acp-11-3713-2011

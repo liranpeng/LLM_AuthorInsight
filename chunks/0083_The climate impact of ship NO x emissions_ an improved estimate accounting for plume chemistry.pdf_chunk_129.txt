@@ -1,0 +1,10 @@
+eddy simulation of a turbulent reacting plume, Atmos. Environ.,
+26, 2565–2574, 1992.
+Unger, N., Bond, T. C., Wang, J. S., Koch, D. M., Menon, S.,
+Shindell, D. T., and Bauer, S.: Attribution of climate forcing
+to economic sectors, P. Natl. Acad. Sci. USA, 107, 3382–3387,
+doi:10.1073/pnas.0906548107, 2010.
+van Aardenne, J. A., Dentener, F., Olivier, J. G. J., Peters, J. A.
+H. W., and Ganzeveld, L. N.: The EDGAR 3.2 Fast Track
+2000 Dataset (32FT2000), Emission Database for Global
+Atmospheric

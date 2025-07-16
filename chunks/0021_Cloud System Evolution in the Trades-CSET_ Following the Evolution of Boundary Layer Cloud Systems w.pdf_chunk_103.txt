@@ -1,0 +1,6 @@
+mesoscale variability in the time-height aerosol structure in the PBL from 0.5 to 1.8 km 
+altitude. This mesoscale variability may be due to processing of the aerosols by previous 
+mesoscale convective activity.
+Potential temperature, mixing ratio, and wind profiles at the beginning and the end of the BC 
+trajectory (Fig. 9) show the evolution of the boundary layer structure over the two-day 
+period. As expected, there is substantial warming (about a 4 K increase) and moistening

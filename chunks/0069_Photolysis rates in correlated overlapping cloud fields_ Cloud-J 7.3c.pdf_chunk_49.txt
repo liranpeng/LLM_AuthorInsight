@@ -1,0 +1,8 @@
+sorted in order of increasing ICA number. The different cloud cor-
+relation factors used in the G6 model do not change the number of
+ICAs, only their weights. The average number of ICAs per FCA is
+given in the legend. See text for deﬁnition of models.
+atmospheres that represent four domains of ICAs with to-
+tal cloud optical depths at 600 nm of 0–0.5 (clear sky), 0.5–
+4 (cirrus-like), 4–30 (stratus-like), and > 30 (cumulus-like).
+The original model sorted the ICA optical depths to get the

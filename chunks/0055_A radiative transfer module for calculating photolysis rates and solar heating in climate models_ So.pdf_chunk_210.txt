@@ -1,0 +1,20 @@
+tive Flux Calculations for Strongly Asymmetric Phase Functions,
+J. Atmos. Sci., 34, 1408–1422, https://doi.org/10.1175/1520-
+0469(1977)034<1408:TDMRYA>2.0.CO;2, 1977.
+Yang, P., Liou, K.-N., Bi, L., Liu, C., Yi, B., and Baum, B. A.: On
+the Radiative Properties of Ice Clouds: Light Scattering, Remote
+Sensing, and Radiation Parameterization, Adv. Atmos. Sci., 32,
+32–63, https://doi.org/10.1007/s00376-014-0011-z, 2015.
+Zhou,
+C.
+and
+Yang,
+P.:
+Backscattering
+peak
+of
+ice
+cloud
+particles,
+Opt.
+Express,

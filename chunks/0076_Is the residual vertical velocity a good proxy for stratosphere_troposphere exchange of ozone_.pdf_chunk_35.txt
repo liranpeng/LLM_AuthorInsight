@@ -1,0 +1,11 @@
+100 hPa surface for each time step, denoted as wO3NH with the subscript of “LMS” or “NH” indicating the area
+of integration.
+HSU AND PRATHER
+©2014. American Geophysical Union. All Rights Reserved.
+3
+Geophysical Research Letters
+10.1002/2014GL061994
+3. Results
+3.1. Seasonality
+Figures 1a–1c shows the zonally averaged meridional and vertical O3 transport for the January, April, and
+July monthly means over the 7 year period from the C29 simulation. The magnitude of the O3 transport

@@ -1,0 +1,7 @@
+https://doi.org/10.5194/essd-15-3299-2023
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+3310
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements
+Figure 6. Two-dimensional curtain plots (altitude–latitude proﬁling) of P-O3 (ppb d−1) in the Paciﬁc basin (53◦S–60◦N) for ATom-1234.
+In all these curtain plots, ATom 10 s parcel data are weighted by cosine (latitude) and sampling frequency, and then they are averaged into 1◦
+latitude and 200 m altitude bins.

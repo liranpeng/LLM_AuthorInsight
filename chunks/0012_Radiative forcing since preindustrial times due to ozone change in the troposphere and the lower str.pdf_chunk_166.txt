@@ -1,0 +1,10 @@
+the UoR-RTM considered ozone changes only up to 30 km.
+Additional calculations of both the ozone change since
+preindustrial times and the resulting radiative forcing were
+provided by the Harvard University.
+The Harvard-GISS
+model is a version of the general circulation model (GCM)
+developed at the Goddard Institute for Space Studies (GISS),
+the GISS-GCM II′ (Rind and Lerner, 1996; Rind et al.,
+1999).
+The model includes a detailed, on-line chemistry

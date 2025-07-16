@@ -1,0 +1,8 @@
+of the SZA of 84◦where the low-angle scattering driven by
+the low solar elevation produces relatively much more atmo-
+spheric heating.
+In-cloud heating (third row) is expected to be proportional
+to τabs at high sun (SZA = 0–62◦), and for ﬂux-weighted
+bins S25–S27 these τabs are 0.31 (EC92), 0.21 (Solar-J), 0.17
+(Key02), and 0.16 (Fu96). While the actual heating of the cir-
+rus ice particles may be in similar proportionality, all we cal-

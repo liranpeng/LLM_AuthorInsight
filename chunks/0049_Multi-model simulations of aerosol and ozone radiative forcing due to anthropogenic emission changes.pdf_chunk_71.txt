@@ -1,0 +1,23 @@
+tre for Reactive gases (GAW-WDCA). The data are public,
+traceable and well documented, with comprehensive meta-
+data and version control.
+IMPROVE
+is
+a
+collaborative
+association
+of
+state,
+tribal, and federal agencies and international partners.
+The
+IMPROVE
+data
+are
+public
+and
+available
+from
+the IMPROVE website (http://views.cira.colostate.edu/fed/
+DataWizard/Default.aspx).
+Model data are available from Gunnar Myhre (gun-
+nar.myhre@cicero.oslo.no).

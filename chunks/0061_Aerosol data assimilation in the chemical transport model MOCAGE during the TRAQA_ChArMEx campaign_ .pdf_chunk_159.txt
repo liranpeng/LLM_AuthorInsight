@@ -1,0 +1,8 @@
+The SEVIRI/MSG product (SEV_AER-OC) was acquired
+from the ICARE data centre (http://www.icare.univ-lille1.fr)
+(Thieuleux et al., 2005a). The user must register before
+having access to the data. The AERONET level 2 data
+were acquired from the AERONET network website
+(http://aeronet.gsfc.nasa.gov/) (Holben et al., 2012).
+Acknowledgements. This work has been funded by Centre National
+de Recherches Météorologiques (CNRM-GAME) of Météo-France

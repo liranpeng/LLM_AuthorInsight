@@ -1,0 +1,8 @@
+fectively and concisely the results graphically given the large
+number of schemes. We have found it most effective to de-
+pict most of the data in histogram format. The complete his-
+togram data sets are made available as supplemental material
+for the interested reader. Scripts and data to produce conver-
+gence plots (Figs. 1 and 2), ﬁlament diagnostic plot (Fig. 5),
+contour plots (Figs. 7, 8, 9, 10), scatterplots (Figs. 11, 12, 13
+and 14), and histogram plots (Figs. 3, 4, 6, 15 and 16) are

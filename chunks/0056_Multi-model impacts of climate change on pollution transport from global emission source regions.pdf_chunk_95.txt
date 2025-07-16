@@ -1,0 +1,8 @@
+change in zonal-mean winds are similar, there are different
+magnitudes and patterns of responses across latitude bands
+for the different models with UM-CAM and CMAM featur-
+ing substantially weaker (∼5 ms−1; Fig. 10a–b) zonal-mean
+winds poleward of ∼35◦S in winter, while the GISS-E2-R
+CCM shows weaker (5 ms−1; Fig. 10c) zonal-mean winds
+poleward of ∼35◦N in winter and ∼35◦N in summer. In
+the tropics, the zonal-mean wind response to climate change

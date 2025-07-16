@@ -1,0 +1,4 @@
+failed in mid-2013 and have since been replaced by the 190 GHz channel. The profiles for temperature and 
+O3 use the same measurement channels as in P2015 but are derived from updated (version 4; V4) retrieval 
+algorithms. After 2009, N2O values in the equatorial stratosphere show a drift of approximately −0.75%/
+yr at the 68 hPa layer (see Froidevaux et al., 2019; Livesey et al., 2018). N2O loss is centered on the middle

@@ -1,0 +1,30 @@
+scheme or the data ﬁles for speciﬁed emissions. All other forcing agents should be as in the pre-industrial control.
+Experiment ID
+Minimum model conﬁguration
+Flux to be doubled
+Tier
+piClim-2xdust
+AGCM-AER
+Dust
+2
+piClim-2xss
+AGCM-AER
+Sea salt
+2
+piClim-2xDMS
+AGCM-AER
+Oceanic DMS
+3
+piClim-2xﬁre
+AGCM-AER
+Fire (NOx, BC, OC, CO, VOCs. . . )
+3
+piClim-2xNOX
+AGCM-CHEMT
+Lightning NOx
+3
+piClim-2xVOC
+AGCM-CHEMT
+Biogenic VOCs
+3
+ulations, these determine the feedback parameter given as

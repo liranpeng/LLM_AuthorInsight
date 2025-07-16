@@ -1,0 +1,8 @@
+are desert dust, sea salt, black carbon (BC) and organic car-
+bon (OC). The particle size distribution for each type is di-
+vided into six size bins, characterized by the particle aver-
+age diameter and mass. The size ranges of bins for all con-
+sidered aerosol species are shown in Table 1. Each aerosol
+bin is then treated as a passive tracer: aerosols are emit-
+ted, transported and removed from the atmosphere; however
+there are no transformations or chemical reactions between

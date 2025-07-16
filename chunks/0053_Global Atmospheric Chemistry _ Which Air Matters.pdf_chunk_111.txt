@@ -1,0 +1,8 @@
+(very small dashes), while the CO covers less than a decade
+(wide dashes). In the ﬁrst row labeled “AIR”, each grid cell
+is weighted by its size in moles, and thus the plot shows
+petamoles per logarithmic bin. In each subsequent row, the
+cells are weighted by the reactivity (L-CH4, L-O3, P-O3) in
+moles day−1, plotting thus megamoles per day per bin.
+The AIR plots show clear model differences. Models A
+and B have much greater frequency of O3 occurrence from

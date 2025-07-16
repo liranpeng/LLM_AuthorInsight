@@ -1,0 +1,10 @@
+16, 3927–3951, doi:10.5194/acp-16-3927-2016, 2016.
+Schutgens, N. A. J., Miyoshi, T., Takemura, T., and Nakajima,
+T.: Applying an ensemble Kalman ﬁlter to the assimilation of
+www.atmos-meas-tech.net/9/5535/2016/
+Atmos. Meas. Tech., 9, 5535–5554, 2016
+5554
+B. Siˇc et al.: Aerosol data assimilation in the CTM MOCAGE
+AERONET observations in a global aerosol transport model,
+Atmos. Chem. Phys., 10, 2561–2576, doi:10.5194/acp-10-2561-
+2010, 2010.

@@ -1,0 +1,11 @@
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+4096
+B. Stevens et al.: EUREC4A
+Table B1. BCO.
+Instrument
+Brief description
+Cloud radar (CORAL)
+Metek MIRA-35 vertically staring pulsed 35 GHz Doppler cloud radar measuring radar reﬂectivity,
+linear depolarization ratio, Doppler velocity, and spectral width
+Rain radar (POLDIRAD)
+A scanning polarized Doppler C-band radar measuring radar reﬂectivity, linear depolarization ratio,

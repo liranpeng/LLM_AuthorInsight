@@ -1,0 +1,9 @@
+of trends in annual N2O emissions from each sub-sector based on the 
+bottom-up approach.
+Data availability
+The relevant datasets of this study are archived in the box site of the 
+International Center for Climate and Global Change Research at Auburn 
+University (https://auburn.box.com/). Researchers that are interested 
+in using the results made available in the repository are encouraged to 
+contact the original data providers.
+Code availability

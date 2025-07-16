@@ -1,0 +1,9 @@
+nostics point to a focus for the analysis of individual models.
+Being a standout in any diagnostic, does not necessarily im-
+ply that uniqueness is an error, but it should encourage self-
+Atmos. Meas. Tech., 11, 2653–2668, 2018
+www.atmos-meas-tech.net/11/2653/2018/
+M. J. Prather et al.: Reactivity of short-lived greenhouse gases
+2667
+evaluation to determine if that unique feature is intentional
+and can be shown to be a more accurate simulation.

@@ -1,0 +1,9 @@
+the 3 CTMs (Table 2, last column).
+Table 3 summarizes the data sources for historical climate
+and emission variables in the expanded parametric model.
+NASA MERRA reanalysis provides temperature and water
+vapor data (Bosilovich et al., 2011) and satellite observa-
+tions provide ozone column data (Stolarski and Frith, 2006).
+As with the 5-parameter model, ozone columns are averaged
+over the 40◦S to 40◦N and other data are global averages.
+Historical CH4 abundance and anthopogenic and biomass

@@ -1,0 +1,8 @@
+Table AII.2.5: Anthropogenic CF4 emissions (Gg yr–1)
+Table AII.2.6: Anthropogenic C2F6 emissions (Gg yr–1)
+Table AII.2.7: Anthropogenic C6F14 emissions (Gg yr–1)
+Table AII.2.8: Anthropogenic HFC-23 emissions (Gg yr–1)
+Table AII.2.9: Anthropogenic HFC-32 emissions (Gg yr–1)
+Table AII.2.10: Anthropogenic HFC-125 emissions (Gg yr–1)
+Table AII.2.11: Anthropogenic HFC-134a emissions (Gg yr–1)
+Table AII.2.12: Anthropogenic HFC-143a emissions (Gg yr–1)

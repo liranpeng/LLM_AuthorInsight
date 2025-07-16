@@ -1,0 +1,8 @@
+sites are located in rural areas while AirBase sites are gener-
+ally in or near populated areas.
+We also present the difference between the interpolation
+using only AQS data compared to using only CASTNET data
+in Fig. S2 in the Supplement. We present the bias (= AQS
+minus CASTNET) for the 25th, 50th, and 95th percentiles
+calculated using independent sampling with respect to years
+2000–2009. For the comparison, we calculate QP values for

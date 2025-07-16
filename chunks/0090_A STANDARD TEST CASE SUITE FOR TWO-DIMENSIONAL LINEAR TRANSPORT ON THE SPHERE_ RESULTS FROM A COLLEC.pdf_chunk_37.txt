@@ -1,0 +1,19 @@
+in most ﬁnite-volume discretizations when the analytical so-
+lution for ρ is not known.
+Finite-volume schemes based on Eq. (1) use tracer mass
+ρφ and not mixing ratio φ as the prognostic variable. Hence
+ρ must be solved for as well:
+(ρ 1Ak)n+1 = (ρ 1Ak)n −
+(n+1)1t
+Z
+n1t
+
+
+I
+∂Ak
+(ρv) · ˆndS
+
+dt. (5)
+It is considered important that the coupling between air
+mass and tracer mass is “free-stream preserving” (also re-
+ferred to as “consistent tracer transport” in the literature).

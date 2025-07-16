@@ -1,0 +1,8 @@
+generate four quadrature column atmospheres (QCAs), and
+to calculate four J values, which are then averaged to get a
+single J value. In either case, the radiative transfer solution is
+1-D and there is one J value per grid cell given to the chem-
+istry module (and analyzed here).
+What would the probability distribution rlnJ look like if we
+used the UCI J values from the QCAs before averaging? For
+this, we collect the statistics on total COD for the two geo-

@@ -1,0 +1,8 @@
+W. M., Rind, D., Romanou, A., Sato, M., Shindell, D. T., Sun,
+S., Syed, R. A., Tausnev, N., Tsigaridis, K., Unger, N., Voulgar-
+akis, A., Yao, M. S., and Zhang, J. L.: Conﬁguration and assess-
+ment of the GISS ModelE2 contributions to the CMIP5 archive,
+Journal of Advances in Modeling Earth Systems, 6, 141–184,
+https://doi.org/10.1002/2013MS000265, 2014.
+Schnell, J. L., Prather, M. J., Josse, B., Naik, V., Horowitz, L.
+W., Cameron-Smith, P., Bergmann, D., Zeng, G., Plummer, D.

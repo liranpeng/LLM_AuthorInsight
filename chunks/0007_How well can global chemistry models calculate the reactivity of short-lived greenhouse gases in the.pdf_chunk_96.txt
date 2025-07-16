@@ -1,0 +1,8 @@
+ing T and q’s reported from the GFDL and NCAR models.
+The rms reactivity differences for these two models are 2–3
+times larger than those of the reference models (GSFC, GC,
+UCI, see Table 3); while J-value differences (much less af-
+fected by temperature) are similar.
+For the ﬁve days, each with 14 880 parcels, the mean val-
+ues of either GFDL or NCAR T and q’s are similar to the
+data stream but their rms differences are large: about 3.6◦K

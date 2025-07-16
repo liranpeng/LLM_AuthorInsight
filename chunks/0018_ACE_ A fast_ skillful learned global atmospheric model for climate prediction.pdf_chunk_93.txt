@@ -1,0 +1,5 @@
+for the results shown in the main body of the manuscript. In particular, neither of them use the surface
+type fractions as inputs.
+To show the impact of the “residual scaling” normalization choice described in Appendix H, Figure 13
+shows the 1-step validation RMSE, 5-day RMSE and time-mean RMSE (RMSE-TMps) of surface
+pressure and 5-day RMSE of USWRFtoa as a function of training steps. Not surprisingly since we

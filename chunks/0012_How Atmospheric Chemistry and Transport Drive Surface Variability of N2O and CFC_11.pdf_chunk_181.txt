@@ -1,0 +1,7 @@
+4 
+ 
+Supplementary Figure S4. Surface change (ppb/yr) during the anomalous 2010/11 QBO phase 
+transition (08/2010 = 0 months).  The top panels and middle left are from modeled N2OX (GMI, 
+LMDz5, UCI) scaled to a mean tropospheric N2O abundance of 320 ppb. The middle right panel is from 
+NOAA ESRL observations, also scaled to 320 ppb.  The bottom panels are of modeled F11X (GMI and 
+UCI only) rescaled to N2OX at 320 ppb. Note, the scale of the F11X colorbar is twice that of

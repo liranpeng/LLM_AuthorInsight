@@ -1,0 +1,8 @@
+parisons with TRACE-P lidar, ozonesondes, and Total Ozone
+Mapping Spectrometer columns, J. Geophys. Res.-Atmos., 108,
+8826, doi:10.1029/2002jd003283, 2003.
+Williams, J. E., Scheele, M. P., van Velthoven, P. F. J., Thouret, V.,
+Saunois, M., Reeves, C. E., and Cammas, J.-P.: The inﬂuence of
+biomass burning and transport on tropospheric composition over
+the tropical Atlantic Ocean and Equatorial Africa during the West
+African monsoon in 2006, Atmos. Chem. Phys., 10, 9797–9817,

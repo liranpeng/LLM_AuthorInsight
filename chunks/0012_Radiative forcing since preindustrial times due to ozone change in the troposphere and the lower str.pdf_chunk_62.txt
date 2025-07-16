@@ -1,0 +1,22 @@
+year, which cannot correctly represent the respective time
+period of the FK98 observational dataset. Furthermore, the
+www.atmos-chem-phys.net/6/575/2006/
+Atmos. Chem. Phys., 6, 575–599, 2006
+582
+M. Gauss et al.: Radiative forcing due to ozone changes between 1850 and 2000
+Table 1. Continued.
+Number/Name/Type
+Coupling Chemistry-Dynamics
+References
+1
+ULAQ
+CCM
+Dynamical ﬁelds (GCM→CTM)
+and
+radiatively
+active
+species
+(CTM→GCM): CO2, H2O, CH4,
+O3, N2O, CFCs, HCFCs, aerosols
+Pitari et al. (2002)
+2

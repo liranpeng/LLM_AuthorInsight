@@ -1,0 +1,6 @@
+systems.
+The subtropical NE Pacific stratocumulus to cumulus transition sampled during CSET 
+flights has long been a canonical modeling challenge. Two benchmark cases of Sc-Cu 
+transition have been used for international modeling inter-comparison efforts as part of the 
+Global Atmospheric System Study (GASS) and its predecessor, GCSS. The first of these 
+was from the 1992 NE Atlantic ASTEX project described previously (Bretherton et al. 1995,

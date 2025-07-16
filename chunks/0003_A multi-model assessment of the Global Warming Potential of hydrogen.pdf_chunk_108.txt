@@ -1,0 +1,6 @@
+radiation was calculated from ﬁxed 2010 trace gas mass mixing ratios and not
+informed by the chemistry. This full uncoupling of the chemistry and radiation
+means the driving meteorology in all simulations is identical, so that differences
+between simulations are purely due to the applied changes in hydrogen or
+methane. As the water vapor was ﬁxed, the change in water vapor due to changes in
+hydrogen and methane was not calculated in these experiments.

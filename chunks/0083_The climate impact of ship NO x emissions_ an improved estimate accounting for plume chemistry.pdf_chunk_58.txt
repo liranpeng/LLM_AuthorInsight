@@ -1,0 +1,8 @@
+(Prather et al., 2012). While the ﬁxed OPE model is longer
+(9.7 yr), it cannot be considered more realistic. Neglecting all
+ship NOx emissions, the CH4 lifetime is 9.8 yr. Thus, with
+parametric plume chemistry, ship NOx drives about 4 % of
+all CH4 oxidation by tropospheric OH and 13 % of that oc-
+curs in the ﬁrst 5 h of plume aging. Our results here include
+bromine chemistry, which acts as an O3 and HOx sink. Re-
+moving bromine chemistry from a simulation with ﬁxed OPE

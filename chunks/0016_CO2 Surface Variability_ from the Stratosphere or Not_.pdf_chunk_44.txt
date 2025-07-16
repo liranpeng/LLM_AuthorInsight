@@ -1,0 +1,8 @@
+MLO, SMO, CGO, and SPO, respectively. The standard
+errors quoted here come from a standard linear ﬁt of the
+monthly values shown in Fig. 1e but are calculated more con-
+servatively using 35 years as the degrees of freedom instead
+of 420 months. Our results for BRW and MLO agree well
+with other more extensive data analyses (Graven et al., 2013;
+Zhao and Zeng, 2014; Wenzel et al., 2016; Piao et al., 2018;
+Wang et al., 2020) but are able to identify emergent trends in

@@ -1,0 +1,8 @@
+in judging O3v1 because its ozone hole performance could
+possibly be tuned with a better PSC temperature threshold.
+Overall, the onset and duration of the ozone hole seem rel-
+atively unchanged with different E3SM conﬁgurations. The
+Antarctic stratosphere comes out of wintertime with PSC ac-
+tivation of chlorine between 14 and 22 km altitude, and the
+Taylor metrics for evolution and decay of the ozone hole are
+similar for both (Fig. 3d). We infer that the large-scale dy-

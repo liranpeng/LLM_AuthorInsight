@@ -1,0 +1,5 @@
+in Stevenson et al. [2004]). For a summary of the mean O3 STE of from all recent studies including estimates
+from observations, see Table 8.1 of the ﬁfth Intergovernmental Panel on Climate Change assessment report
+[Myhre et al., 2013].
+Several other STE diagnostics have been developed and used in parallel by the community. An evalu-
+ation of these diagnostics using the same meteorological data and models has never been presented.

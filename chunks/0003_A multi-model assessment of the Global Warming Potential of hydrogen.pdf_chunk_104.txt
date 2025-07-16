@@ -1,0 +1,6 @@
+The same deposition scheme and values were used in the emission-driven runs.
+WACCM6. WACCM656 is the whole atmosphere version of the Community
+Atmosphere Model version 6 (CAM6) run with 88 vertical levels and 1.875° × 2.5°
+horizontal resolution. It fully represents the meridional overturning circulation of
+the stratosphere, as well as full tropospheric and stratospheric chemistry, with
+interactive oxidants and ozone. The deposition velocity is computed within the

@@ -1,0 +1,9 @@
+A1B, respectively. Finally, we have taken into account the
+impact of CH4 changes on stratospheric water vapour (SWV)
+by assuming that the RF of SWV is a factor 0.15 times the
+RF of CH4 (Myhre et al., 2007).
+To calculate the RF from changes in CH4-induced O3 we
+have assumed a 0.64 DU increase in O3 from a CH4 in-
+crease of 10 % (for a system which has reached a new steady
+state) (Berntsen et al., 2005), and a speciﬁc forcing of O3
+of 42 mW m−2 DU−1 (IPCC, 2001). Also, to correct for the

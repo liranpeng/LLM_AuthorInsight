@@ -1,0 +1,11 @@
+produced NOx vertically between cloud base and cloud top.
+Vertical emission proﬁles were also adopted as included in
+the respective emission ﬁles. In addition to the QUANTIFY
+emissions oceanic emissions were taken from the POET
+emission inventory, ammonia emissions from EDGAR 2.0,
+and volcanic SO2 and DMS (Dimethylsulﬁde) emissions
+from the standard model conﬁguration of TM4.
+3.2
+LMDzINCA
+The CNRS-LSCE model, LMDz-INCA had a resolution of
+3.75◦in longitude and 2.5◦in latitude with 19 levels ex-

@@ -1,0 +1,6 @@
+h Météo-France, GAME/CNRM, Toulouse, France
+i Department of Earth System Science, University of California, Irvine, USA
+j Department of Biological and Environmental Engineering, Cornell University, Ithaca, USA
+h i g h l i g h t s
+ Regional trend studies regarding NOx emissions across all transport and industrial sectors between 2000 and 2050.
+ Assessment of global air quality for the year 2000 using the EC recommendation for exceedence limit.

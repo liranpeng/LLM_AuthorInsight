@@ -1,0 +1,9 @@
+138, 889–905, 2012.
+Ménard, R., Cohn, S. E., Chang, L.-P., and Lyster, P. M.: Assimila-
+tion of stratospheric chemical tracer observations using a Kalman
+ﬁlter. Part I: Formulation, Mon. Weather Rev., 128, 2654–2671,
+2000.
+Nho-Kim, E.-Y., Michou, M., and Peuch, V.-H.: Parameterization of
+size-dependent particle dry deposition velocities for global mod-
+eling, Atmos. Environ., 38, 1933–1942, 2004.
+Niu, T., Gong, S. L., Zhu, G. F., Liu, H. L., Hu, X. Q., Zhou, C. H.,

@@ -1,0 +1,8 @@
+pacts was vividly illustrated by EUREC4A’s extensive use
+of robotic sensors (uncrewed aerial systems, UASs; au-
+tonomous ocean-observing platforms, AOOPs). In many
+cases these provided more agile and less energy intensive
+ways of sampling the environment. For instance, the Sail-
+drones, Wave Gliders, and AutoNaut (Caravela) make use of
+renewable energy sources for their propulsion (e.g., wind for
+Saildrones, waves for the Wave Gliders and AutoNaut), and

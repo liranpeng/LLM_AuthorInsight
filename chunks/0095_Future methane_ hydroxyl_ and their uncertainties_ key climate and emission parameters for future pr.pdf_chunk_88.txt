@@ -1,0 +1,9 @@
+ﬂuence on τCH4×OH over the same tropical and subtropical,
+where UV photolysis of tropospheric ozone is an important
+primary source of tropospheric OH and where the quasi-
+biennial oscillation is the dominant source of stratospheric
+ozone variability. However, global-mean ozone columns are
+strongly inﬂuenced by variability in the springtime polar re-
+gions, so using global-average ozone columns signiﬁcantly
+degrades the parametric model correlation with the CTMs
+(R2 ≈0.75).

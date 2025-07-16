@@ -1,0 +1,8 @@
+Figure 69. Sensitivity of CH4 loss with respect to its abundance
+(dln[L-CH4]/dln[CH4], in percentage per percentage) vs. loss rate
+(L-CH4, in parts per billion per day) for parcels in ATom-1. All
+ATom-1 10 s parcels, including continental data, are plotted (small
+black dots) together with the basin-mean values for the Paciﬁc (red
+dot) and Atlantic (blue dot).
+built up from the ATom deployments are a metric that should
+be used to evaluate our current global chemistry models.

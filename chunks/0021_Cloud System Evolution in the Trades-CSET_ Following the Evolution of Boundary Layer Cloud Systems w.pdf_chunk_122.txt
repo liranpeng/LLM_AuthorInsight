@@ -1,0 +1,7 @@
+the CEST Field Catalog.
+5. Summary
+CSET made substantial advancement in our characterization of the evolution of cloud 
+systems along the southeast extent of the Pacific anticyclone further CET and demonstrated 
+the utility of a Lagrangian sampling strategy. The observations provide a unique opportunity 
+to study of the processes involved in the cloud system evolution in the Pacific trades and to 
+characterize that evolution in a way that can be used to evaluate model simulations of the

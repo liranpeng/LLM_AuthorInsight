@@ -1,0 +1,8 @@
+LW strat
+SW+LW trop
+SW+LW strat
+Wm−2
+Model
+Fig. 8. Components of global-mean adjusted radiative forcing (Wm−2) between 1850 and 2000. “SW”: shortwave component, “LW”:
+longwave component, “trop”: due to tropospheric ozone change, “strat” due to stratospheric change. (a) “2 minus 1c” (for LMDzINCA,
+UM CAM, and STOCHEM HadAM3 “2 minus 1b” is shown), (b) “2 minus 1” (for UM CAM “2 minus 1d” is shown). Radiative forcing

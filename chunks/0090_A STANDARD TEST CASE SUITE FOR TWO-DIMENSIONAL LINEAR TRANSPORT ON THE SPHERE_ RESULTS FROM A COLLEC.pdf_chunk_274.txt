@@ -1,0 +1,11 @@
+centers with the same area and value as the corresponding
+Eulerian grid cell.
+A8
+HOMME
+HOMME and CAM-SE use the same numerical model with
+only a difference in the choice of order p = NP−1 of polyno-
+mial basis functions, hyperviscosity coefﬁcient ν, and hyper-
+viscosity scaling η. The resolution is obtained via Eq. (A1).
+For HOMME simulations, we choose p = 3 because of its
+common use (see CAM-SE default parameters) and p = 6 to
+demonstrate performance for the higher order scheme. If one

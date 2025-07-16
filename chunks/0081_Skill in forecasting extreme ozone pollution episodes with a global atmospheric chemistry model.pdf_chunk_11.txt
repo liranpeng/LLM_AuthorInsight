@@ -1,0 +1,9 @@
+statistical errors and systematic biases in the hindcast and to
+provide clear metrics that can document improvements in the
+model.
+Observations of surface O3 from monitoring stations pro-
+vide the basis for testing models, but measurements at in-
+dividual stations are generally not representative of model
+grid cells (Valari and Menut, 2008; Dennis et al., 2010). This
+problem is referred to as “incommensurability” or “change
+of support” (Gelfand et al., 2001; Swall and Foley, 2009) and

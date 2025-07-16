@@ -1,0 +1,7 @@
+sink or emissions. The models diagnose their own soil sink (see
+Methods), and this is used together with atmospheric loss, to
+calculate the lifetime in the models. The corresponding emissions
+can be estimated as the total sink and the total production must
+balance. In d) the soil sink and estimated emissions are shown.
+The soil sink values have a large range between 44–73 Tg yr−1,
+while the estimated emissions range between 29–68 Tg yr−1. The

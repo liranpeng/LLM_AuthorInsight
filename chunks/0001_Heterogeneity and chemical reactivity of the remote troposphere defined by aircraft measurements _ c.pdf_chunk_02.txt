@@ -1,0 +1,7 @@
+Fred L. Moore13,14, and Steven C. Wofsy11
+1Department of Earth System Science, University of California, Irvine, CA 92697, USA
+2Department of Meteorology, Stockholm University, Stockholm, 106 91, Sweden
+3Atmospheric Chemistry and Dynamics Laboratory, NASA Goddard Space Flight Center,
+Greenbelt, MD 20771, USA
+4Atmospheric Chemistry Observations and Modeling Laboratory, National Center for Atmospheric Research,
+Boulder, CO 80301, USA

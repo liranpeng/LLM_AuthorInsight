@@ -1,0 +1,13 @@
+related such that it is not possible to discern the impacts of
+individual processes on CO-tracer mixing ratios.
+Overall,
+large-scale
+dynamical
+responses
+linked
+to
+changes in the Hadley cell circulation and their impact on
+convection, mid-latitude jets, and tropopause height appear
+to govern the main features of the redistribution of CO-tracer
+mixing ratios between present day and future simulated by
+four CCMs in this study. Further diagnostics to allow more

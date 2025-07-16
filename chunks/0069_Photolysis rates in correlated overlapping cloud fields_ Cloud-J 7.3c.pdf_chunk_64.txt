@@ -1,0 +1,14 @@
+MeOOH (1.3/d)
+ActAld  (2.6/d)
+MeVK  (3.2/d)
+GlyAld (1.9/d)
+MEKeto* (0.2/d)
+H2CO* (1.5/d)
+PropAld* (3.4/d)
+MGlyxl* (3.0/d)
+Glyxl* (1.7/d)
+Figure 4. Volatile organic compounds (VOCs) and related species
+photolysis rates (per day) as a function of altitude (km). The com-
+plex structure with altitude is due to a combination of increas-
+ing UV radiation with altitude and Stern–Volmer pressure depen-
+dences on quantum yields. Changes in slope occur at the inter-

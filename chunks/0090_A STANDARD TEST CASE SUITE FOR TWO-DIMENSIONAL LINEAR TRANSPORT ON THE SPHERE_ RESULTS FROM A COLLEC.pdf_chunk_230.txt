@@ -1,0 +1,10 @@
+the unlimited versions of the schemes.
+3.6
+Divergent ﬂow experiment
+Here we repeat the experiment described in Sect. 3.2 but re-
+place the non-divergent wind ﬁeld (used in all prior tests)
+with the divergent wind ﬁeld deﬁned in LSPT2012. All other
+settings are the same: time step, cosine bell initial condi-
+tions, etc. The purpose of this test case is to have model-
+ers demonstrate that their scheme is well-behaved also for
+divergent ﬂow ﬁelds. For some classes of schemes, such as

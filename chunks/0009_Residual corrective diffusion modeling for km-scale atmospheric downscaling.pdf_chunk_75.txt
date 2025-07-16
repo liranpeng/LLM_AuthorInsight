@@ -1,0 +1,8 @@
+first predict the mean μ using a regression model, which is then
+stochastically corrected using an Elucidated Diffusion Model (EDM)
+r, together producing the probabilistic high-resolution 2 km-scale
+regional forecast. Bottom right: diffusion model is conditioned with
+the coarse-resolution input to generate the residual r after a few
+denoising steps. Bottom left: the score function for diffusion is
+learned based on the UNet architecture.
+Full size image

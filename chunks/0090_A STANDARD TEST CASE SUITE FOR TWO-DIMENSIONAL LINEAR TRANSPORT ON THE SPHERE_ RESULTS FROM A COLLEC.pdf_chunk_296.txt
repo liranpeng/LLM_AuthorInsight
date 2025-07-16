@@ -1,0 +1,10 @@
+the truncation wave number is TL239, and 1t is 5/240 (CN =
+5.2) and 5/1200 (CN = 1.0). For the minimal resolutions,
+1λm = 2.25◦(for CN = 5.2) and 1λm = 2.25◦(CN = 1.0),
+the truncation wave number is TL79 and TL159, respec-
+tively, with 1t = 5/80 and 1t = 5/800.
+A13
+SFF-CSLAM
+SFF-CSLAM uses an equiangular gnomonic cubed-sphere
+projection. The scheme is available for either a third-order
+or fourth-order reconstruction, in both cases using a ﬁnite-

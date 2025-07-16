@@ -1,0 +1,4 @@
+them than in the MLS period. LMDz5 and UCI are reasonably consistent showing parallel variations over 
+1995–2005 (cc = 0.64), but GMI (with LMDz5 cc = 0.33 and with UCI cc = 0.41) clearly diverges.
+For the pre-MLS period, the models show less agreement with one another than in the MLS period and 
+also exhibit significant shifts in their loss frequencies. N2OX loss in GMI starts at 11.5 TgN/yr, rising to

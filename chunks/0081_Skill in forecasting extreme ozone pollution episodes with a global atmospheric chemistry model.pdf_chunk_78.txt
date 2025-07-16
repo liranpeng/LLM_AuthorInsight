@@ -1,0 +1,8 @@
+The summer domain average MB (Fig. 6c–d) is larger than
+in winter: +30 ± 14 ppb for the US and +29 ± 8 ppb for EU.
+Here the largest biases are often in polluted regions, like the
+Los Angeles basin and the Chicago-to-New York corridor,
+and the easternmost part of the EU domain. This pattern in-
+dicates exaggerated photochemical production of O3 in the
+model, possibly a consequence of NOx plumes being spread
+over the 100 km model grid or other nonlinear interactions

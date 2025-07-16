@@ -1,0 +1,10 @@
+ticular interest is the observable aerosol backscatter and ex-
+tinction coefﬁcient, which provides, since the arrival of the
+CALIOP satellite lidar in the A-train, a constraint for the
+global 3-D distribution of aerosols. Therefore modellers are
+asked to provide 3-D 6-hourly ﬁelds of aerosol extinction
+and backscatter coefﬁcients for one realisation of the DECK
+Atmospheric Model Intercomparison Project (AMIP) exper-
+iment (1979–2014).
+4.2
+Forcing

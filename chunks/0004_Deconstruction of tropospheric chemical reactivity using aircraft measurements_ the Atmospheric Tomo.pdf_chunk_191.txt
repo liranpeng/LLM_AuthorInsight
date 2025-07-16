@@ -1,0 +1,8 @@
+(0.061 d−1), corresponding to a mean timescale T T ∼16 d.
+Proﬁles of the mean loss frequency, both 1/T T and 1/T A,
+are shown for the Paciﬁc and Atlantic basins in Fig. 68.
+Both basins show almost the same proﬁles, increasing from
+0.01 d−1 at 12 km to ∼0.1 d−1 near the surface, with near-
+constant differences, 1/T T–1/T A, of about +0.01 d−1. Thus,
+the relative error in T A decreases from 100 % at 12 km to
+10 % at 0 km. The proﬁles of P-O3 and L-O3 in the basins in

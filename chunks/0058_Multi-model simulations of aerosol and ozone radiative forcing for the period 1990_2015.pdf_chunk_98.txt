@@ -1,0 +1,8 @@
+Smith, A. K., Vitt, F., Garcia, R., Lamarque, J. F., Mills, M.,
+Tilmes, S., Morrison, H., Cameron-Smith, P., Collins, W. D.,
+Iacono, M., Easter, R. C., Liu, X., Ghan, S., Rasch, P., and
+Taylor, M. A.: Description of the NCAR Community Atmo-
+sphere Model (CAM 5.0), NCAR Technical Report, NCAR/TN-
+486+STR, National Center for Atmospheric Research – NCAR,
+Boulder, Colorado, 2010.
+Nieves, V., Willis, J. K., and Patzert, W. C.: Recent hiatus caused

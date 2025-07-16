@@ -1,0 +1,9 @@
+cussion of Fig. 6 above.
+These plots include all altitudes that can be sampled by the
+ATom ﬂights. When comparisons with ATom data are made,
+it will be useful to identify discrepancies in the 2-D plots by
+separating altitude regions.
+The 2-D plots can change the emphasis of certain regions
+when weighted by reactivity. For example, we take the GMI-
+CTM modeled NOx–HOOH density (Fig. 6a, panel E) and
+show the reactivity weightings in Fig. 7. With AIR weight-

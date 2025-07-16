@@ -1,0 +1,5 @@
+126(569), 2903–2909.
+Hogan, R. J., Schäfer, S. A. K., Klinger, C., Chiu, J. C., & Mayer, B. (2016). Representing 3-D cloud radiation eﬀects in two-stream 
+schemes: 2. Matrix formulation and broadband evaluation. Journal of Geophysical Research: Atmospheres, 121, 8583–8599. https://doi.
+org/10.1002/2016JD02487
+Holz, R. E., Platnick, S., Meyer, K., Vaughan, M., Heidinger, A., Yang, P., et al. (2016). Resolving ice cloud optical thickness biases be-

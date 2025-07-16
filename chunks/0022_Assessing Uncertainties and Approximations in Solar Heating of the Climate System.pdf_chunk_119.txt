@@ -1,0 +1,4 @@
+straightforward δ-M scaling of ice clouds, here and in LBYY, does not seem to cause much error, but we can-
+not easily judge the other more parameterized polynomial fits for 2-stream use (Fu, 1996; Zhao et al., 2018).
+In terms of atmospheric heating by clouds, LBYY's parametric study (their Figure 3) shows reduced values 
+over most ranges of optical depth and sun angle, and this error is clearly associated with the number of

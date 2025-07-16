@@ -1,0 +1,5 @@
+3.3. Evaluating Emission Scenarios
+The UCI‐CTM sensitivities were used to calculate the levels of acetylene and ethane over Greenland and
+Antarctica for a variety of emission scenarios by summing over the various types of emissions multiplied
+by the sensitivity of that emission type. In all scenarios, biofuel emissions of acetylene and ethane were ﬁxed
+at 0.5 Tg year−1 (van Aardenne et al., 2001). The modeled Greenland and Antarctic acetylene and ethane

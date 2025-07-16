@@ -1,0 +1,14 @@
+applied to 1997–1999 for Oslo CTM3 and the UCI CTM,
+and, because of meteorological data availability, to 2004–
+2006 for GEOS-Chem with GEOS-5. The sensitivity, α, of
+τCH4×OH to a climate or emission variable, F, is always
+www.atmos-chem-phys.net/13/285/2013/
+Atmos. Chem. Phys., 13, 285–302, 2013
+290
+C. D. Holmes et al.: Future methane, hydroxyl, and their uncertainties
+Table 2. Sensitivity of τCH4×OH to climate variables and emissionsa.
+Variable b
+UCI CTM
+Oslo CTM3
+GEOS-Chem
+Literature c

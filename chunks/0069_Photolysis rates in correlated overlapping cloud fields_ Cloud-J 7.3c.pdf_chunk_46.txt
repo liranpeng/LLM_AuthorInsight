@@ -1,0 +1,8 @@
+each FCA and then averaged. The number of ICAs per FCA
+averages 169 for model G6, 21 for model G3, and 19 for
+model G0; see Fig. 2 for the probability distribution of ICA
+numbers. Errors are pressure weighted and include the aver-
+age error over 0–1 km altitude, the root mean square (rms)
+error over 0–1 km, and the full tropospheric rms error (0–
+16 km). The average 0–1 km differences across the models
+are small (< 2 %), but the rms 0–1 and 0–16 km differences

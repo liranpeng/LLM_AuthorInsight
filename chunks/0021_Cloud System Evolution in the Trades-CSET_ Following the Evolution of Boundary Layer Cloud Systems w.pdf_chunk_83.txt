@@ -1,0 +1,5 @@
+aircraft sampling as dictated by local cloud and meteorology conditions.
+Mission planning and mission control were done from the Department of Atmospheric 
+Science Department at the University of Washington and the aircraft home base was in 
+Sacramento CA where the EOL flight crew and technicians were located with the airborne 
+mission scientists. Daily mission briefing and planning meetings were held at the University

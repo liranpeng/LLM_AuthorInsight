@@ -1,0 +1,10 @@
+et al., 2010). Søvde et al. (2012) provide a full description
+of lightning emissions in UCI CTM and Oslo CTM3, and
+Murray et al. (2012) do the same for GEOS-Chem. Light-
+ning NOx emissions average 6 Tg(N) yr−1 in GEOS-Chem
+and 5 Tg(N) yr−1 in UCI CTM and Oslo CTM3.
+3
+Recent (1997–2009) variability of CH4 lifetime
+Figure 1 shows τCH4×OH for 1997–2009, as simulated by
+the 3 CTMs. The tropospheric OH lifetimes range from 8.5
+to 10.1 yr. The longest of these lifetimes (GEOS-Chem) is

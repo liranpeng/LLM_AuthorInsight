@@ -1,0 +1,9 @@
+wind ﬁeld, and surface signatures of internal waves
+Sun photometer
+MICROTOPS sun photometer capturing at sun views the solar attenuation at 380, 440, 670, 870,
+and 940 nm to derive column properties of aerosol optical depth (AOD) at these wavelengths and the
+atmospheric water vapor content
+Weather sensors
+German Weather Service (DWD) automatic weather station measuring underway wind speed, wind
+direction, temperature (air, ocean), humidity, and barometric pressure
+GNSS

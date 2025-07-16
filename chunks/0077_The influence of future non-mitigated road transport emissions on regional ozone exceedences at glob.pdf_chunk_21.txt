@@ -1,0 +1,7 @@
+for both the A1B and A1B_HIGH. For clarity the trend in the
+absolute differences in RTE between the A1B and A1B_HIGH are
+shown. in the upper right panel in Tg N yr1. Also shown are the
+corresponding regional NOx trends for shipping, aircraft (scaled up
+ﬁve-fold) and the cumulative emissions from industrial/domestic/
+biomass burning sectors (hereafter referred to as the non-transport
+sector (NTS)). Although the largest regional NOx emissions come

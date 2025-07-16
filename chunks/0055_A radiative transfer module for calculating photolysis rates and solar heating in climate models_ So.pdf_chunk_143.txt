@@ -1,0 +1,9 @@
+A minor feature is that cloudy atmospheres cost about 10 %
+more than clear atmospheres because Cloud-J inserts extra
+layers at the top of clouds to enhance the accuracy of the
+ﬁnite-difference equations.
+In a series of comparisons on a single-socket multi-
+threaded CPU, we ﬁnd that Solar-J takes 5 times more wall
+clock time than RRTMG-SW. This is not surprising given
+the cost of solving an eight-stream versus two-stream RT
+problem. An additional cost of Solar-J (not included above)

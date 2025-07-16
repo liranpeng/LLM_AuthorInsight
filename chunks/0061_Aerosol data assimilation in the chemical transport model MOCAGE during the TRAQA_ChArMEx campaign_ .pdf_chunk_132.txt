@@ -1,0 +1,8 @@
+ties in the modelled aerosol ﬁelds.
+In doing so, our assimilation system showed to be more
+efﬁcient in lowering overestimated AOD values in the model
+than increasing underestimated values. This can be seen in
+Fig. 1, and it is directly related to how matrices B and R
+are deﬁned in the experiment. By deﬁning variances as the
+percentage of modelled and observed quantities, and mak-
+ing this factor 2 times smaller for observations, we penalized

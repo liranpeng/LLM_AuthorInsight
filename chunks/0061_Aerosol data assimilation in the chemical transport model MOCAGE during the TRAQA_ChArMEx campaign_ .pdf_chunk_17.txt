@@ -1,0 +1,8 @@
+uated independently against a large range of aerosol proper-
+ties (2-D and 3-D) measured by other satellites and in situ
+and ground-based instruments. We will estimate improve-
+ments in the CTM modelling of all aerosol types achieved
+by the AOD assimilation compared to a direct (unassimi-
+lated) model run. One focus will be on the potential to im-
+prove air quality forecasting. Another will be how the con-
+tinuous multicycle AOD assimilation can inﬂuence the mod-

@@ -1,0 +1,8 @@
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+3348
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements
+Hall, S. R., Ullmann, K., Prather, M. J., Flynn, C. M., Murray, L. T.,
+Fiore, A. M., Correa, G., Strode, S. A., Steenrod, S. D., Lamar-
+que, J.-F., Guth, J., Josse, B., Flemming, J., Huijnen, V., Abra-
+ham, N. L., and Archibald, A. T.: Cloud impacts on photochem-
+istry: building a climatology of photolysis rates from the Atmo-

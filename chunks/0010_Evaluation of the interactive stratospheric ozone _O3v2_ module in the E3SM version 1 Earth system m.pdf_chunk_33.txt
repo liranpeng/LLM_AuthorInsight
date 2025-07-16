@@ -1,0 +1,8 @@
+ﬁle data (ii) are provided in the MLS level 3 gridded data
+set ML3MBO3 V004 (Schwartz et al., 2020). We linearly
+interpolate the model results to the coarser observational
+grids when calculating model–observation differences. The
+daily TCO data (iii) are collected by the Total Ozone Map-
+ping Spectrometer (TOMS) on the NASA/NOAA Nimbus-
+7 satellite (McPeters et al., 1996), the OMI instrument on
+the Aura satellite, and the Ozone Mapper and Proﬁler Suite

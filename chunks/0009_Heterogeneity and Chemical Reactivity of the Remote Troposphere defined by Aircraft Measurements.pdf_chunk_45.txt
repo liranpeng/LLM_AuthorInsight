@@ -1,0 +1,9 @@
+a primary measurement and identiﬁes which instrument was
+used with a ﬂag. The methodology and species-speciﬁc in-
+formation on how the current MDS version 2 (MDS-2) is
+constructed, plus statistics on the 48 research ﬂights and the
+146 494 10 s air parcels in MDS-2, are given in the Supple-
+ment.
+Over the course of this study, several MDS versions were
+developed and tested, including model-derived RDSs from
+these versions, some of which are used in this paper. In early

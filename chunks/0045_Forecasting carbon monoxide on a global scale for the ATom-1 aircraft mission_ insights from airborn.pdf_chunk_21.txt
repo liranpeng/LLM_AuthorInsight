@@ -1,0 +1,8 @@
+the version 6 thermal infrared (TIR) level 3 product (Deeter
+et al., 2014). The MOPITT TIR averaging kernels show high
+sensitivity to CO between 700 and 500 hPa (Emmons et al.,
+2007). We use the CO column and 700 hPa CO retrievals.
+The Microwave Limb Sounder (MLS) (Waters et al.,
+2006), which ﬂies on the Aura satellite, provides useful ob-
+servations of CO down to 215 hPa (Livesey et al., 2008) be-
+ginning in 2004. We use the version 4.2 level 2 data for the

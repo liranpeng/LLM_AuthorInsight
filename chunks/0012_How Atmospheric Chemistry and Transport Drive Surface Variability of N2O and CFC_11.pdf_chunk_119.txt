@@ -1,0 +1,4 @@
+because of the shorter lifetime. While the modeled N2OX annual cycle is driven only by STE of N2O-deplet-
+ed air, the observed annual cycle of N2O includes the signal of surface emissions and N-S transport of these 
+emissions. In Figure 5, we compare the annual cycle in the NH and SH mid-latitudes (30°–90°) from obser-
+vations and models. Our observed cycles, as expected, are similar to the mid- and high-latitude stations in

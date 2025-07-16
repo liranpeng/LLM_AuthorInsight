@@ -1,0 +1,8 @@
+linear relation between two tracers. The amount of mixing,
+essentially introduced by truncation errors, was quantiﬁed
+using novel mixing diagnostics.
+In an attempt to standardize scheme testing under idealized
+ﬂow settings as well as to reduce the number of tests while
+still assessing a wide range of aspects of accuracy considered
+important for geophysical applications, LSPT2012 proposed
+a “minimal” test case suite with speciﬁc guidelines on reso-

@@ -1,0 +1,7 @@
+Earth System Model (CESM) that augment the CESM capability to
+explore the uncertainty in future stratospheric-tropospheric ozone,
+stratospheric circulation, and thus the lifetimes of chemically
+controlled greenhouse gases from climate simulations. To this end,
+we have successfully implemented Fast-J (radiation algorithm
+determining key chemical photolysis rates) and Linoz v3.0
+(linearized photochemistry for interactive O3, N2O, NOy and CH4)

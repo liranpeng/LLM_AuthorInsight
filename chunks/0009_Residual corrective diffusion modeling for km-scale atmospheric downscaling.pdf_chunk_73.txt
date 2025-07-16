@@ -1,0 +1,8 @@
+(2)
+That is, the residual formulation reduces the variance of the target
+distribution. According to (2), the variance reduction is more
+pronounced when \({\rm{var}}({\mathbb{E}}[{\bf{x}}|
+{\bf{y}}])\) is large, e.g., in the case of typhoons. For our specific
+target data we find that the actual variance reduction is significant,
+especially at large scales; see Supplementary Section 4. To sum it
+up, the main idea of CorrDiff is that learning the distribution p(r)

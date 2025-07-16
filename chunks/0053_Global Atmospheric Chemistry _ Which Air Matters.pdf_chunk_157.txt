@@ -1,0 +1,8 @@
+Mao et al., 2009) is primarily determined by the longer-lived
+reactive species listed here, which can be derived from the
+key species, but it is not really a product of the 3-D mod-
+els. Effectively, L-OH provides a climatology of a weighted
+basket of species. The models’ predicted L-OH using their
+own key species could be tested with the L-OH observations,
+but then we are just testing the model’s key species and our
+direct comparisons are more useful. Actinic ﬂuxes and thus

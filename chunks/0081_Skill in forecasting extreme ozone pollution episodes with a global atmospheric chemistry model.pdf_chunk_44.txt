@@ -1,0 +1,13 @@
+cells adjacent to CONUS. For EU we draw a similar mask
+but also include areas in the North Sea and in the Mediter-
+ranean Sea west of Italy. We then calculate a measure of the
+quality of prediction, QP, for the points within this desired
+mask to determine the ﬁnal grid masks for the US and EU.
+We deﬁne QP as the effective number of independent stations
+at a distance of 100 km that went into the interpolation.
+QP = 100β
+K
+X
+k=1
+wk
+(5)

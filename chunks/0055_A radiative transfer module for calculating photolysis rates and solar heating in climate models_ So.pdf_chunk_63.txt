@@ -1,0 +1,9 @@
+SZAs (21, 62, 84◦) are shown in Table 5 under clear-sky
+columns.
+In Table 4, the incoming spectral solar irradiance at top
+of the atmosphere (TOA down) is balanced by components
+of (1) the reﬂected ﬂux going back to space (TOA up pos-
+itive), (2) the absorption in the atmosphere, separated into
+the stratosphere and troposphere, and (3) surface heating.
+Several differences in the conﬁguration of spectral bands
+between Solar-J and RRTMG-SW affect these results. For

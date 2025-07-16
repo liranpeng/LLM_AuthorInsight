@@ -1,0 +1,8 @@
+doi:10.5194/acp-10-2491-2010, 2010.
+Voulgarakis, A., Naik, V., Lamarque, J.-F., Shindell, D. T.,
+Prather, M. J., Wild, O., Young, P. J., Bergmann, D., Cameron-
+Smith, P., Cionni, I., Collins, W. J., Dalsøren, S. B., Doherty, R.,
+Field, R. D., Eyring, V., Folberth, G., Horowitz, L., Josse, B.,
+McKenzie, I., Nagashima, T., Plummer, D., Righi, M., Rumbold,
+S., Skeie, R., Stevenson, D., Strode, S., Sudo, K., Szopa, S., and
+Zeng, G.: Multimodel simulations of present-day and future OH

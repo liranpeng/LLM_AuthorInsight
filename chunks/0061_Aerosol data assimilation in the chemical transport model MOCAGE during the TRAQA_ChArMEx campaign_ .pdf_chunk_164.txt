@@ -1,0 +1,8 @@
+Suttie, M.: Aerosol analysis and forecast in the European centre
+for medium-range weather forecasts integrated forecast system:
+2. Data assimilation, J. Geophys. Res.-Atmos., 114, D13205,
+doi:10.1029/2008JD011115, 2009.
+Boucher, O., Randall, D., Artaxo, P., Bretherton, C., Feingold, G.,
+Forster, P., Kerminen, V.-M., Kondo, Y., Liao, H., Lohmann, U.,
+Rasch, P., Satheesh, S. K., Sherwood, S., Stevens, B., and Zhang,
+X. Y.: Clouds and aerosols, in: Climate change 2013: The phys-

@@ -1,0 +1,9 @@
+pospheric chemistry, examining its ﬁnest scales and recon-
+structing and parsing the O3 and CH4 budgets over the re-
+mote ocean basins as sampled by the NASA Atmospheric
+Tomography Mission (ATom).
+ATom provided intensive, chemically comprehensive mea-
+surement of air parcels (typically 10 s averages, equivalent to
+2 km along ﬂight by 80 m in the vertical) and extensive four-
+season semi-global 0–12 km proﬁling through the remote tro-
+posphere (Wofsy et al., 2021; Thompson et al., 2022). Recent

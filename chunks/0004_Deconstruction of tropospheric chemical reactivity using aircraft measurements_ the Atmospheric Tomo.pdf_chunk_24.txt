@@ -1,0 +1,9 @@
+https://doi.org/10.5194/essd-15-3299-2023
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+3302
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements
+Figure 2. Map of the portion of ATom-1234 ﬂights included in the
+Paciﬁc and Atlantic basin analysis. Flight tracks are plotted in suc-
+cessively thinner lines to see the overlap. These ﬂights comprise
+91 912 parcels out of the total of 146 494.
+the same grid cell. We use the following nested search algo-

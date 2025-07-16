@@ -1,0 +1,8 @@
+canic bimodal log-normal size distributions based on Desh-
+ler et al. (2003): the background distribution has a dominant
+mode (98 %) with re = 0.125 µm and a secondary mode with
+re = 0.432 µm for an average of re = 0.131 µm; the volcanic
+distribution has a dominant mode (81 %) with re = 0.487 µm
+and a secondary mode with re = 0.149 µm for an average of
+re = 0.422 µm. The stratospheric aerosol properties are tab-
+ulated for bins S5–S27 for a combination of temperatures

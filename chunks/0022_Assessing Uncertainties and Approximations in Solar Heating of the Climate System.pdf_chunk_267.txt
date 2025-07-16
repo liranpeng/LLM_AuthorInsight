@@ -1,0 +1,10 @@
+albedos specifically for each scattered stream; the albedo goes to a constant for SZA > 
+90° in spherical atmospheres; and the parameter table for the white-cap variable 'XRWC' 
+was reset from 0.0 to 0.2 for wavelengths <400 nm. 
+ 
+ 
+ 
+ 
+ 
+Figure S1.  (left) January atmospheric absorption profiles (W m-2 hPa-1) over the Pacific Ocean 
+at high sun (SZA > 40° at 00Z, area within green oval in Figure 4).  Liquid-water, but not ice-

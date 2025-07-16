@@ -1,0 +1,14 @@
+RMS Error (ppb)
+ 
+ 
+US − Station
+EU − Station
+US − Grid Cell
+EU − Grid Cell
+Figure 2. RMSE (ppb) for the mean value of each 10th percentile
+of interpolated sites and grid cells, sorted by QP.
+(Huang and Hsu, 2004). Falke (1999) incorporates a tem-
+poral component by reducing the weights of highly variable
+(mostly urban) sites using the variance of the sites. We do not
+include this since we assume urban sites are representative
+of the true processes controlling surface O3. In addition, the

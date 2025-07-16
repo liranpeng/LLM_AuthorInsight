@@ -1,0 +1,14 @@
+Pressure sensor
+Honeywell integrated pressure transducer (IPT) measuring atmospheric pressure at a height of 50 cm
+GPS
+monitors the current at sea surface
+Table B32. OCARINA.
+Instrument
+Brief description
+Anemometer
+Gill R3-50 three-axis sonic anemometer measuring wind speed and horizontal and vertical velocities
+at 50 Hz at a height of 1.6 m
+Weather sensors
+Vaisala WXT-520 measuring air temperature, barometric pressure, and relative humidity at 1 Hz at a
+height of 1 m
+Pyranometer

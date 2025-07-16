@@ -1,0 +1,8 @@
+similation (Jaumouillé et al., 2012). One of the approaches
+was the percentage method used in our experiment. The
+second approach was the monthly a posteriori diagnostics
+Atmos. Meas. Tech., 9, 5535–5554, 2016
+www.atmos-meas-tech.net/9/5535/2016/
+B. Siˇc et al.: Aerosol data assimilation in the CTM MOCAGE
+5549
+Figure 10. The evolution of the aerosol vertical proﬁle over the course of 1 week from 25 June to 2 July 2012 in the direct model run (a) and

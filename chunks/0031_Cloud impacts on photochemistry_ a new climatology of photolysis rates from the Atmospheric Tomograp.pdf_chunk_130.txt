@@ -1,0 +1,9 @@
+chemistry models, including comparison with satellite clima-
+tologies (Cesana and Waliser, 2016; Ham et al., 2017), to un-
+derstand how cloud fraction and overlap affects the Js used
+in the photochemical calculation of a column atmosphere.
+Models can help assess the ATom CAFS statistics for repre-
+sentativeness by checking on ﬂight routing, multiple days, or
+different years.
+The 3-D nature of the radiation ﬁeld measured by aircraft
+presents a more fundamental challenge. The observations av-

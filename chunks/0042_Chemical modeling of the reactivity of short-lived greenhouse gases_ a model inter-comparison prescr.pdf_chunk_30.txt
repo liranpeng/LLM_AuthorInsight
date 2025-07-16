@@ -1,0 +1,8 @@
+protocol of 5-day runs: models ran with different calendar
+years and so how do 5-day means vary from year to year?
+Does the changing solar declination matter? Will different
+restart ﬁles (affecting O3 and aerosol proﬁles) alter the re-
+sults? What if the 24 h integrations began at midnight rather
+than noon? How different are the CCMs because they use
+their own T and q for the parcels? The UCI CTM ran addi-
+tional sensitivity calculations to address these questions, see

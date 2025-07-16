@@ -1,0 +1,8 @@
+sitivities. We identiﬁed and ﬁxed an error in the stratospheric
+ozone model: comparison with new ozone metrics show that
+model performance has generally improved, but compari-
+son with physical climate metrics shows little change. For
+E3SMv1 at least, we ﬁnd that 20 % of the errors in lower
+stratospheric ozone affect wave propagation, the tropopause,
+and the stability of the Antarctic stratospheric vortex. While
+these are readily detectable, they have much less impact on

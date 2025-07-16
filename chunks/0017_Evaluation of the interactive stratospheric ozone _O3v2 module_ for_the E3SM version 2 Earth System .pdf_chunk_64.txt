@@ -1,0 +1,9 @@
+hole within the winter vortex. We thus use the daily ozone
+hole diagnostics from the NASA Ozone Watch website for
+our metric (see Fig. 5). The two quantities are (i) the area (in
+millions of square kilometers) with less than 220 DU in total
+column ozone and (ii) the minimum total column ozone (in
+DU). The thick lines in Fig. 5 represent the multi-year av-
+erage of the daily values, and the shaded areas indicate the
+https://doi.org/10.5194/gmd-14-1219-2021
+Geosci. Model Dev., 14, 1219–1236, 2021

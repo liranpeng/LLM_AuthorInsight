@@ -1,0 +1,4 @@
+(Pincus et al., 2019). The Canadian Centre for Climate Modeling and Analysis (CCCma) examined the im-
+portance of expanded scattering phase functions for clouds and aerosols possible with a 4-stream RT code 
+(Li et al., 2015, hence LBYY) as well as the use of satellite-derived cloudy atmospheres to compare 3-D RT 
+with the 1-D climate model codes (H. W. Barker et al., 2012; 2015, hence B2015). The Korean Integrated

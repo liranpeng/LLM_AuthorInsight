@@ -1,0 +1,10 @@
+available climatology for multi-model evaluations focusing
+ozone in the upper troposphere and lower stratosphere on a
+global scale.
+Zonal-mean ozone distributions along with the relative de-
+viations for each model are displayed in Fig. 1. For the year
+2000 simulation the models were allowed to use their own,
+well-tested, emissions.
+This approach allows for a better
+judgment of the current uncertainty within the model com-
+munity. The ozone mixing ratio modeled for the year 2000

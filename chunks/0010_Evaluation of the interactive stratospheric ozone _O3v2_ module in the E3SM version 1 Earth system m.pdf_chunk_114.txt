@@ -1,0 +1,14 @@
+https://doi.org/10.11578/E3SM/dc.20180418.36
+(E3SM
+Project,
+DOE, 2018). The E3SM O3v1 simulation uses the code version
+from
+DOI:
+https://doi.org/10.5281/zenodo.1227336
+(E3SM-
+Project/E3SM, 2018). The E3SM O3v2 simulations use the
+code version from DOI: https://doi.org/10.5281/zenodo.4252725
+(E3SM-Project/E3SM, 2020).
+Data availability. The data used in this study can be downloaded at
+https://portal.nersc.gov/project/e3sm/tang30/E3SMv1_O3v2/ (last
+access: 18 February 2021, Tang et al., 2021).

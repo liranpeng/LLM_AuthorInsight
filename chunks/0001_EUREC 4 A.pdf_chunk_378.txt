@@ -1,0 +1,11 @@
+height of 1 m
+Pyranometer
+Campbell CNR4 Kipp and Zonen radiometer measuring broadband downward solar irradiance at a
+height of 1 m
+Pyrgeometer
+Campbell CNR4 Kipp and Zonen radiometer measuring upward and downward broadband infrared
+irradiance at a height of 1 m
+Inertial platform
+Xsens MTi-G IMU measuring time and accelerations at 50 Hz through gyroscopes, accelerometers,
+magnetometers, a GPS, and a barometer at a height of 0.1 m
+CT sensor

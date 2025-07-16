@@ -1,0 +1,8 @@
+Geophys. Res.-Atmos., 121, 6112–6129, 2016.
+Bentsen, M., Bethke, I., Debernard, J. B., Iversen, T., Kirkevåg,
+A., Seland, Ø., Drange, H., Roelandt, C., Seierstad, I. A.,
+Hoose, C., and Kristjánsson, J. E.: The Norwegian Earth Sys-
+tem Model, NorESM1-M – Part 1: Description and basic evalu-
+ation of the physical climate, Geosci. Model Dev., 6, 687–720,
+doi:10.5194/gmd-6-687-2013, 2013.
+Boucher, O., Randall, D., Artaxo, P., Bretherton, C., Feingold, G.,

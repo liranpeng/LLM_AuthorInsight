@@ -1,0 +1,9 @@
+doi:10.1029/2004JD004618, 2005.
+J¨ockel, P., Tost, H., Pozzer, A., Br¨uhl, C., Bucholz, J., Ganzeveld,
+L., Hoor, P., Kerkweg, A., Lawrence, M., Sander, R., Steil, B.,
+Stiller, G., Tanharte, M., Taraborrelli, D., van Aardenne, J., and
+Lelieveld, J.: Evaluation of the atmospheric chemistry GCM
+ECHAM5/MESSy: Consistent simulation of ozone in the strato-
+sphere and troposphere, Atmos. Chem. Phys., 6, 5067–5104,
+2006,
+http://www.atmos-chem-phys.net/6/5067/2006/.

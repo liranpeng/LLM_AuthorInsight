@@ -1,0 +1,7 @@
+Charpentier, P., Mesmin, S., Duverger, V., Dupont, J.-C., Elias,
+T., Crenn, V., Sciare, J., Giacomoni, J., Gobbi, M., Hamonou,
+E., Olafsson, H., Dagsson-Waldhauserova, P., Camy-Peyret, C.,
+Mazel, C., Décamps, T., Piringer, M., Surcin, J., and Daugeron,
+D.: LOAC: a small aerosol optical counter/sizer for ground-based
+and balloon measurements of the size distribution and nature of
+atmospheric particles – Part 1: Principle of measurements and

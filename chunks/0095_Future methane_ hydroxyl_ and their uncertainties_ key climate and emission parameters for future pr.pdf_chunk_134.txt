@@ -1,0 +1,34 @@
+CH4
+367
+367
+367
+370 ± 27d
+370
+O3 from CH4
+141(T)
+202(T)
+123(T)
+126 ± 45(T)b
+150(T)
+82(S)
+82(S)
+O3 from CH4 via H2O
+−17(T)
+−17(T)
+−20(S)
+−20(S)
+H2O from CH4
+55e
+55
+Total radiative forcing
+620
+100-yr GWP
+25d
+31.7
+24.2 ± 4.2c
+25.3 ± 2.8f
+a Troposphere (T) and stratosphere (S) values given separately, wherever possible. All CTM results are for 2009.
+b Review by Holmes et al. (2011).
+c Fry et al. (2012).
+d Forster et al. (2007).
+e 15 % of CH4 direct RF, Myhre et al. (2007).

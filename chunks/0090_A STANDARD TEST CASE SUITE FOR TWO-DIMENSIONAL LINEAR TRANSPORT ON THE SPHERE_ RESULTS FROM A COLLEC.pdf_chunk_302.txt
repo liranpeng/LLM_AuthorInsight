@@ -1,0 +1,12 @@
+ω
+N . The average grid spacing at the Equator 1λ is calculated
+as
+1λ = 2π
+5N .
+We presented results of all the test cases for ﬁxed maxi-
+mum Courant number (CN = 0.8). Table A3 lists the icosa-
+hedral resolution N, average grid spacing at the Equator 1λ
+and time step of the simulation 1t.
+The wind vector used to approximate the ﬂux area is com-
+puted by evaluating the analytical wind ﬁeld at the midpoint
+of the cell side at time t = n × 1t. For shape preservation,

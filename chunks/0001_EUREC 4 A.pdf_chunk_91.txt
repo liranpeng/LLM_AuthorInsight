@@ -1,0 +1,10 @@
+that were previously not possible.
+2.3.3
+Drones and tethered platforms
+A diversity of tethered and remotely piloted platforms pro-
+vided measurements in the lower atmosphere and upper
+ocean. Many of these had been used in past ﬁeld studies, but
+what set EUREC4A apart was its coordinated use of so many
+platforms. Five ﬁxed-wing systems and a quadcopter pro-
+vided approximately 200 h of open-ocean atmospheric pro-
+ﬁling, while seven underwater gliders proﬁled the underlying

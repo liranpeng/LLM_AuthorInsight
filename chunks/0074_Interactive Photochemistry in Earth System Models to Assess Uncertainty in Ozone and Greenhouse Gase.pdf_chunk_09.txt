@@ -1,0 +1,10 @@
+lifetimes of chemically controlled greenhouse
+gases from climate simulations. To this end, we
+have successfully implemented Fast-J (radiation
+algorithm determining key chemical photolysis
+rates) and Linoz v3.0 (linearized photochemistry
+for interactive O3, N2O, NOy and CH4) packages in
+LLNL-CESM and for the first time demonstrated how
+change in O2 photolysis rate within its
+uncertainty range can significantly impact on the
+stratospheric climate and ozone abundances. From

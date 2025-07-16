@@ -1,0 +1,19 @@
+Notes
+δ-0 (isotropic)
+g1 = 0.865
+0
+0.135
+gn = 0, n ≥ 1
+δ-1
+g1 2 = 0.748
+0.464
+0.253
+gn = 0, n ≥ 2
+δ-2
+g2 = 0.795
+0.342
+0.205
+gn = 0, n ≥ 2
+Note. This example assumes liquid water cloud (Reff = 12 μm, wavelength = 600 nm, ω0 = 0.99999). The Mie phase 
+function is truncated after P7. The Henyey-Greenstein phase function is expanded to P7 is using only the first asymmetry 
+term of the Mie phase function. The δ-0, δ-1 and δ-2 phase functions include at most P0 and P1. All of these SJ variants

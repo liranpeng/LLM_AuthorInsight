@@ -1,0 +1,8 @@
+rent global chemistry models are known to have high biases
+in their production of global tropospheric ozone from pollu-
+tion (Wild and Prather, 2006). This high bias in production
+extends to surface ozone on a continental scale (e.g., Nolte
+et al., 2008; Appel et al., 2012; Lamarque et al., 2012; Ras-
+mussen et al., 2012), although in one case the bias is negli-
+gible (Mao et al., 2013). These chemistry-transport models
+(CTMs) or CCMs also have serious limitations in modeling

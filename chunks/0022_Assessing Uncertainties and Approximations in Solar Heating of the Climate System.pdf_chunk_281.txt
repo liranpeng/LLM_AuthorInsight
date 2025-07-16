@@ -1,0 +1,52 @@
+351.37 
+49.92 
+70.71 
+230.74 
+B1 
+1 
+SJ/CLIRAD 
+flat-atmosphere, clear sky 
+351.37 
+50.86 
+65.03 
+235.47 
+B2 
+2 
+SJ/LLNL 
+flat-atmosphere, clear sky 
+351.37 
+50.46 
+63.05 
+237.87 
+B3 
+3 
+SJ/RRX 
+flat-atmosphere, clear sky 
+351.37 
+49.95 
+70.47 
+230.95 
+B4 
+5 
+SJ/hrv 
+flat-atmosphere, clear sky 
+351.37 
+50.25 
+70.25 
+230.86 
+B5 
+6 
+SJ/2S 
+flat-atmosphere, clear sky 
+351.37 
+50.23 
+70.18 
+230.96 
+MR 
+17 
+SJ/Ray 
+flat-atmosphere, clear sky 
+isotropic Rayleigh scattering 
+351.37 
+49.91 
+70.72

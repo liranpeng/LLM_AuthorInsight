@@ -1,0 +1,8 @@
+ozone data set v1.0 (Hegglin et al., 2016) in the troposphere
+but uses the prognostic linearized ozone chemistry scheme
+(Linoz v2) (Hsu and Prather, 2009) in the stratosphere. Linoz
+calculates the stratospheric ozone net tendency with its ﬁrst-
+order Taylor series expansion as a function of local ozone
+mixing ratio, local temperature, and overhead ozone column.
+The linearized production and loss coefﬁcients are updated
+for E3SMv1 using the greenhouse gas (GHG) concentrations

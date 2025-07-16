@@ -1,0 +1,9 @@
+can be much easier than learning the distribution p(x). Since
+modeling multi-scale interactions is a daunting task in many physics
+domains, we expect this approach could be widely applied. More
+details are described in Supplementary Section 2 and the outline is
+depicted in Fig. 6.
+Fig. 6: The workflow for training and sampling CorrDiff for
+generative downscaling.
+[image]
+Top: coarse-resolution global weather data at 25 km scale is used to

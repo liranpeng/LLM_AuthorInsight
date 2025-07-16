@@ -1,0 +1,16 @@
+Ziemke et al. (2019)
+Aura MLS
+2005–2019
+4◦, 82◦S–82◦N, < 216 hPa,
+Schwartz et al. (2020)
+monthly zonal O3 proﬁle
+Nimbus-7 TOMS, Aura OMI,
+1979–2019
+Daily O3 hole area, SH minimum TCO
+https://ozonewatch.gsfc.nasa.gov
+Suomi NPP OMPS
+(last access: 29 May 2020)
+allows us to focus on interannual variability in the tropics,
+which is presumably QBO-related, and in midlatitudes to
+high latitudes, which is presumably related to wintertime po-
+lar variations. The observed SD and SCO are for 2005–2017

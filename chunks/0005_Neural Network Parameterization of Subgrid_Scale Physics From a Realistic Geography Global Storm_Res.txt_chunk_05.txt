@@ -1,0 +1,1 @@
+comparable or slightly better than a baseline simulation with conventional physical parameterizations. However, the structure of tropical circulation and relative humidity in the upper troposphere are unrealistic. Overall, this study shows potential for the replacement of human‐designed parameterizations with data‐driven ones in a realistic setting.

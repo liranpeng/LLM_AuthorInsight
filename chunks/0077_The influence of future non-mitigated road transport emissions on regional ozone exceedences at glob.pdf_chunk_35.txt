@@ -1,0 +1,8 @@
+one year (EC, 2008). In this paper we deﬁne the Exceedence Ratio
+(ER) as the near-surface O3 mixing ratios normalized by this EC
+standard of 60 ppb. There is typically a strong diurnal cycle present
+for tropospheric O3 related to the daily variation in photochemical
+activity meaning that the seasonal average could include more than
+25 days where the EC recommendations are broken.
+4. Results
+4.1. Seasonality in O3 and NO mixing ratios over populated regions

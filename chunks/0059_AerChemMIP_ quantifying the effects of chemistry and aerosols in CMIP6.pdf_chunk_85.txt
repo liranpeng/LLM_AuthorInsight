@@ -1,0 +1,8 @@
+member of the historical simulations. This differs from the
+usual deﬁnition of ERF where the SSTs are speciﬁed to be a
+ﬁxed repeating climatology throughout the simulation, usu-
+ally taken from a pre-industrial control experiment. Includ-
+ing evolving SSTs means that the underlying climate state is
+consistent with the historical simulation that is used as the
+reference for all these experiments. Use of historical SSTs
+rather than pre-industrial SSTs will eliminate any effects of

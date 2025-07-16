@@ -1,0 +1,8 @@
+the response in the CO tracer is characterised by high in-
+ternal variability, this dipole pattern is statistically signiﬁ-
+cant across most of its extent in all of the CCMs. However,
+there are small differences across models. Similar patterns of
+change are simulated by the UM-CAM and STOC-HadAM3
+CCMs (Figs. 4e–f and 5e–f) since they use the same driving
+GCM. A stronger and more extensive area of increase and
+a weaker area of decrease is simulated by the CMAM model

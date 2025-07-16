@@ -1,0 +1,8 @@
+and > 291 K for PAN). Thus, these species instantly become
+NOx. There is no easy ﬁx for this, and we left the species
+data in the MDS as they were reported but developed a new
+protocol RDS∗to deal with them. Both species are allowed
+to decay for 24 h using their thermal decomposition rate be-
+fore being put into the model. This avoids most of the fast
+thermal release of NOx in the 24 h of the RDS calculation
+but does not affect the release of NOx from photolysis or OH

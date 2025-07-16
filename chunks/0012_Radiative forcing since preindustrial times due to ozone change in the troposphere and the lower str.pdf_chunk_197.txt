@@ -1,0 +1,10 @@
+Atmos. Environ., 35, 3421–3433, 2001b.
+Hack, J. J.: Parameterization of moist convection in the NCAR
+community climate model (CCM2), J. Geophys. Res., 99, 5551–
+5568, 1994.
+Hansen, J., Russell, G., Rind, D., Stone, P., Lacis, A., Lebedeff, S.,
+Ruedy, R., and Travis, L.: Efﬁcient three-dimensional models for
+climate studies: Models I and II, Mon. Wea. Rev., 3, 609–662,
+1983.
+Hansen, J., Sato, M., and Ruedy, R.: Radiative forcing and climate
+response, J. Geophys. Res., 102, 6831–6864, 1997.

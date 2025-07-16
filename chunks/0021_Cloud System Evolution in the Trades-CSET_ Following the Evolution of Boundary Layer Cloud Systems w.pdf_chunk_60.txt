@@ -1,0 +1,5 @@
+fields from the flight level to the surface. For clouds that are 5 km below the aircraft, the 
+HCR minimum detectable reflectivity is about −23 dBz. On flight legs below the cloud base 
+(near surface), the HCR and HSRL were facing upwards to sample clouds and aerosols 
+above the flight level. During the flight legs in the clouds, the HCR and HSRL were pointing 
+downwards to characterize the sub-cloud layer aerosol and precipitating fields. The

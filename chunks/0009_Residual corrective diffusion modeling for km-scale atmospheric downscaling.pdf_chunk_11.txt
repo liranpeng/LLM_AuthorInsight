@@ -1,0 +1,8 @@
+potential to exceed the fidelity of conventional statistical
+downscaling.
+The stochastic nature of atmospheric physics at km-scale20 renders
+downscaling inherently probabilistic, making it natural to explore
+generative models at these scales. Generative Adversarial Networks
+(GANs) have been tested, including for forecasting precipitation at
+km-scale in various regions21,22,23,24,25,26; see the latter for a good
+review. Training GANs, however, poses several practical challenges

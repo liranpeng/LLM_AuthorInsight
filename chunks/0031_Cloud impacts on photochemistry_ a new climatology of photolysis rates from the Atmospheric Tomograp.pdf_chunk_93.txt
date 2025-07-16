@@ -1,0 +1,9 @@
+4
+Model difﬁculties and development
+The J-value statistics here depend on (i) the cloud ﬁelds used
+in the models, (ii) the treatment of cloud overlap statistics,
+(iii) the radiative transfer methods used, and (iv) the spectral
+data on sunlight and molecular cross sections. These compo-
+nents are deeply interwoven in each model, and it is nearly
+impossible to have the models adopt different components
+except for (iv), for which there has been a long-standing ef-

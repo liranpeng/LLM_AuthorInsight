@@ -1,0 +1,4 @@
+span of this previously unseen forcing dataset (Figure 4a). This is particularly impressive because the
+climatological SST used to generate training data spans 1982-2012 and so the realistic SST dataset
+includes temperatures warmer than any in the training dataset. When forced with the realistic SST
+dataset, ACE has a cold near-surface temperature bias which is particularly amplified over land where

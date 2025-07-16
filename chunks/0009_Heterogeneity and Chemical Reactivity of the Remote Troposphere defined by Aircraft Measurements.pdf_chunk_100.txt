@@ -1,0 +1,10 @@
+4.3.1
+Proﬁles
+For P-O3 proﬁles (top row, Fig. 3), the discrepancy between
+models and measurements is stark. The models (less GISS)
+present a consistent picture of one world, while the ATom
+proﬁles describe an entirely different world. In the central Pa-
+ciﬁc at 8–12 km, the ATom-1 results tend to agree with mod-
+els, showing ozone production of about 1 ppb/d. Below 8 km,
+ATom’s P-O3 increases to a peak of 4 ppb/d at 2 km, while
+the models’ P-O3 stays constant down to 4 km and then de-

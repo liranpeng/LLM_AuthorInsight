@@ -1,0 +1,3 @@
+middle panel) emission scenarios. The difference between scenarios is given in the top right panel. Also shown are the regional trends in NOx emissions from shipping (bottom left
+panel), aircraft (bottom middle panel) and the NTS (bottom right panel). The aircraft NOx emissions are scaled up by a factor of 5 for clarity. Key to world regions shown: Europe
+(dashed), the USA (solid), Asia (dash-dot), the Middle East (grey line), South America (dotted) and Africa (long dash).

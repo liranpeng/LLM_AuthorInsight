@@ -1,0 +1,8 @@
+ity for each deployment, these probability densities are quite
+similar and provide a robust test for the modeled distribution
+of species and reaction rates. For example, the 30◦S–30◦N
+tropical distributions of O3, CO, and relative humidity are
+distinct between the Paciﬁc and Atlantic (higher values of
+both) but similar for each deployment in each basin. On the
+other hand, the eastern Paciﬁc transect (0–30◦N, 121◦W) is
+very different for each deployment. The compelling statistics

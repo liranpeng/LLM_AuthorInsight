@@ -1,0 +1,11 @@
+ing O3, NOx, and many of the core species needed for reac-
+tivity calculations. ATom, with a full suite of reactive species
+and proﬁling through the Atlantic basin, provides a wealth of
+Atmos. Chem. Phys., 23, 99–117, 2023
+https://doi.org/10.5194/acp-23-99-2023
+H. Guo et al.: Heterogeneity and chemical reactivity
+103
+chemical statistics that challenge the global chemistry mod-
+els.
+One main task here is the assembly of the modeling data
+stream (MDS), which provides ﬂight-wise continuous 10 s

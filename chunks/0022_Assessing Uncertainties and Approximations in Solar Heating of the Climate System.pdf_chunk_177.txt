@@ -1,0 +1,47 @@
+jn=1:4. For notation below, we use Σ to denote the sum over the quadrature angles n = 1:4. The upward flux 
+from the lower boundary is the cosine-weighted sum of the specific intensity
+up
+up
+up
+2
+,where
+½
+n
+n
+n
+n
+F
+I
+u w
+I
+u w
+
+
+
+
+
+
+(2)
+The upward flux can also be calculated in terms of the downward incident fluxes at the four quadrature 
+angles and direct beam, but with angle-specific albedos An and A0.
+up
+down
+solar
+0
+0
+2
+An
+¼
+n
+n
+n
+F
+I
+u w
+A u F
+
+
+
+
+(3)
+Substituting Idown

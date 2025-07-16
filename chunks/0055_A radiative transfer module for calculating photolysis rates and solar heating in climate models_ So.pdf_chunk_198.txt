@@ -1,0 +1,8 @@
+276–283, https://doi.org/10.1016/j.jqsrt.2015.11.005, 2016.
+Mlawer, E. J., Taubman, S. J., Brown, P. D., Iacono, M.
+J., and Clough, S. A.: Radiative transfer for inhomoge-
+neous atmospheres: RRTM, a validated correlated-k model for
+the longwave, J. Geophys. Res.-Atmos., 102, 16663–16682,
+https://doi.org/10.1029/97JD00237, 1997.
+Myhre, C. E. L., Christensen, D. H., Nicolaisen, F. M., and
+Nielsen, C. J.: Spectroscopic Study of Aqueous H2SO4 at Dif-

@@ -1,0 +1,8 @@
+the BCO, on the R/V MS-Merian, and on the R/V Me-
+teor) were upward-staring surface-mounted systems, and the
+DIAL aboard HALO operated in a nadir-staring mode (Wirth
+et al., 2009). On the ATR a backscatter UV lidar operated
+alongside the horizontally staring radar, looking horizontally
+to provide an innovative planform view of cloudiness near
+cloud base. In total, six wind lidars and three ceilometers
+were operated from the BCO and all research vessels except

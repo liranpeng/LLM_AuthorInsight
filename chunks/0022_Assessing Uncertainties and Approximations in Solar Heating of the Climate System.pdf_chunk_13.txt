@@ -1,0 +1,8 @@
+Accepted 16 NOV 2020
+10.1029/2020MS002131
+RESEARCH ARTICLE
+1 of 24
+Journal of Advances in Modeling Earth Systems
+Forecast System meteorological data that drives the CTM simulation of atmospheric chemistry (M. J. Prath-
+er et al., 2017; Szépszó et al., 2019). This CTM + Solar-J model quantified the errors related to spherical 
+geometry of the atmosphere (M. J. Prather & Hsu, 2019; hence P2019). Here, we use that code and diagnos-

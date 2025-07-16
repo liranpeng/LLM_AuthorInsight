@@ -1,0 +1,11 @@
+panel plot. Six models show no difference across the sub-
+sampling (NCAR, GFDL, IFS, UCI, UKCA, MOCA), while
+three models using MERRA cloud ﬁelds in one way or an-
+other (GC, GMI, GISS) show weaker cloud effects in the east
+www.atmos-chem-phys.net/18/16809/2018/
+Atmos. Chem. Phys., 18, 16809–16828, 2018
+16818
+S. R. Hall et al.: Cloud impacts on photochemistry
+Figure 5.
+half of the region. For the most part, the subsampled regions
+have similar statistics that are distinct from the CAFS ob-

@@ -1,0 +1,8 @@
+time-slice simulations for present-day and end-of-the-21st-
+century conditions were performed under the Representative
+Concentrations Pathway (RCP) climate scenario RCP 8.5.
+All simulations reveal a strong seasonality in transport, espe-
+cially over the tropics. The highest CO-tracer mixing ratios
+aloft occur during boreal winter when strong vertical trans-
+port is co-located with biomass burning emission source re-
+gions. A consistent and robust decrease in future CO-tracer

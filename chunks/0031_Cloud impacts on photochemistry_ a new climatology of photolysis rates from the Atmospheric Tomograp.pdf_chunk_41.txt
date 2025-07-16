@@ -1,0 +1,7 @@
+b Briegleb’s method (1992) approximates maximum-random overlap with a single-column atmosphere and adjusted effective cloud fraction such that the cloud optical depth in
+the grid cell is COD(in-cell) = COD(in-cloud) × CF3/2.
+tures within a grid square, the approach needed to match in-
+dividual CAFS Js.
+The CAFS data were collected from ATom-1 during its
+10 research ﬂights from 29 July to 23 August 2016. It was
+not possible for the models to simulate each ﬂight path, in-

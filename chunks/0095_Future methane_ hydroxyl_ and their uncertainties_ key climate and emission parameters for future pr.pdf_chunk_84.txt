@@ -1,0 +1,10 @@
+feedback factor, which was already suggested by Fiore et
+al. (2009), lowers the methane radiative forcing and global
+warming potential, as discussed in Sect. 6.
+3.3
+A parametric model for τCH4×OH
+The sensitivity parameters in Table 2, together with the time
+series of corresponding climate and emission variables in
+Fig. 3, enable us to build a parametric model for methane
+lifetime representing each CTM. We combine terms linearly,
+so that τCH4×OH is approximated by

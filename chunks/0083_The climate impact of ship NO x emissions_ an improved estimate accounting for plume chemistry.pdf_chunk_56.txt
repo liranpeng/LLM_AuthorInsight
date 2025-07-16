@@ -1,0 +1,8 @@
+−1.4 %) derived from models that used small inventories of
+ship emissions and calculated sensitivities by removing all
+ship NOx emissions (Endresen et al., 2003; Lawrence and
+Crutzen, 1999). This suggests that the non-linear aspects of
+NOx-ozone chemistry inﬂuence the spread of model results
+and we investigate this further in Sect. 4.
+Treatment of ship plume chemistry has an important ef-
+fect on the current CH4 lifetime, as well as its perturbations

@@ -1,0 +1,10 @@
+www.atmos-chem-phys.net/9/3113/2009/
+Atmos. Chem. Phys., 9, 3113–3136, 2009
+3124
+P. Hoor et al.: Trafﬁc emissions: impact on ozone and OH
+Fig. 6.
+Same as Fig. 5, but for the zonal mean ozone perturbation. Solid contours show the change relative to the base case simulation,
+dashed line indicates the tropopause.
+in Fig. 5. Quantitatively, the results of Niemeier et al. (2006)
+also exceed our calculations by a factor of 2–3 at the surface
+when scaling our results to 100%. However, since Niemeier

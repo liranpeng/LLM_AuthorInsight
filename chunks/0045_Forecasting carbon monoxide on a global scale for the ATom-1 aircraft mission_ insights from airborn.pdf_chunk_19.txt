@@ -1,0 +1,11 @@
+instrument was specially designed for the DC-8 aircraft. The
+QCLS observations have an accuracy and precision of 3.5
+and 0.15 ppb, respectively. The QCLS observations used in
+this analysis are being archived at the Oak Ridge National
+Laboratory Distributed Active Archive Center (ORNL
+DAAC,
+https://doi.org/10.3334/ORNLDAAC/1604).
+2.2
+Satellite observations
+We use satellite observations that cover more than a decade to
+examine the interannual variability of CO and aerosols. We

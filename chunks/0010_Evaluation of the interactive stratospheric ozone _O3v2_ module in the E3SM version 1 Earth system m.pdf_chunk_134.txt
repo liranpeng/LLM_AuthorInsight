@@ -1,0 +1,28 @@
+C., Zhang, K., Zhang, Y., Zheng, X., Zhou, T., and Zhu, Q.: The
+DOE E3SM coupled model version 1: Overview and evaluation
+at standard resolution, J. Adv. Model. Earth Sy., 11, 2089–2129,
+https://doi.org/10.1029/2018MS001603, 2019.
+Hegglin,
+M.,
+Kinnison,
+D.,
+Lamarque,
+J.-F.,
+and
+Plummer,
+D.:
+CCMI
+ozone
+in
+support
+of
+CMIP6
+–
+version
+1.0,
+Earth
+System
+Grid
+Federation,
+https://doi.org/10.22033/ESGF/input4MIPs.1115, 2016.
+Hsu, J. and Prather, M. J.: Stratospheric variability and tro-

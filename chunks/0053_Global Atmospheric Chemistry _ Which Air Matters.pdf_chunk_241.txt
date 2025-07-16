@@ -1,0 +1,8 @@
+13-565-2013, 2013.
+Wild, O., Sundet, J. K., Prather, M. J., Isaksen, I. S. A., Akimoto,
+H., Browell, E. V., and Oltmans, S. J.: Chemical transport model
+ozone simulations for spring 2001 over the western Paciﬁc: Com-
+parisons with TRACE-P lidar, ozonesondes, and Total Ozone
+Mapping Spectrometer columns, J. Geophys. Res.-Atmos., 108,
+8826, https://doi.org/10.1029/2002jd003283, 2003.
+Wofsy, S. C., Team, H. S., Team, C. M., and Team, S.: HIA-

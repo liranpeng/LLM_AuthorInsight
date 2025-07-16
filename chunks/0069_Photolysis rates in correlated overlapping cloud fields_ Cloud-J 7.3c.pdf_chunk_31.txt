@@ -1,0 +1,26 @@
+clearG1, J2 ≤N2 as cloudyG2, and J2 = N2 + 1 as clearG2.
+Then the weightings for the G1 members are
+wG1 (cloudyG1, cloudyG2) = gG1f G1
+J1 ,
+(25)
+wG1 (clearG1, cloudyG2) = 1 −gG1 
+f G1
+1
++ f G1
+2
++f G1
+3
++ ... + f G1
+N1
+
+= 1 −gG1F G1.
+(26)
+By conserving each cloudy group member’s fractional area
+in G1, the weights under G2 clear sky are
+wG1 (cloudyG1, clearG2) =
+f G1
+J1 (1 −gG1F G2)/(1 −F G2),
+(27)
+wG1 (clearG1, clearG2) =
+1 −F G1(1 −gG1F G2)/(1 −F G2).
+(28)

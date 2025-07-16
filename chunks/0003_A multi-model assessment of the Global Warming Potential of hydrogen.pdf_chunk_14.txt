@@ -1,0 +1,14 @@
+8 ± 2 with 95% conﬁdence18.
+Here, we present new estimates of the GWP100 of hydrogen,
+using
+ﬁve
+global
+atmospheric
+chemistry
+models
+(GFDL,
+OsloCTM, INCA, WACCM, and UKCA). We calculate GWP100
+using a steady-state perturbation approach that takes all effects of
+atmospheric hydrogen into account in a comprehensive way. The
+models are forced by present-day (2010) hydrogen and methane
+surface concentrations. As idealized experiments, we perturb

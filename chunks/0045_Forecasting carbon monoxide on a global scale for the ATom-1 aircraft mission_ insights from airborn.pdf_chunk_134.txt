@@ -1,0 +1,16 @@
+Wofsy, S. C.: Evaluation of the airborne quantum cascade laser
+spectrometer (QCLS) measurements of the carbon and green-
+house gas suite – CO2, CH4, N2O, and CO – during the Cal-
+Nex and HIPPO campaigns, Atmos. Meas. Tech., 7, 1509–1526,
+https://doi.org/10.5194/amt-7-1509-2014, 2014
+Schwartz, M., Pumphrey, H., Livesey, N., and Read, W.:
+MLS/Aura Level 2 Carbon Monoxide (CO) Mixing Ra-
+tio
+V004,
+Greenbelt,
+MD,
+USA,
+Goddard
+Earth
+Sci-
+ences Data and Information Services Center (GES DISC),

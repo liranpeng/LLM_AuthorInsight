@@ -1,0 +1,8 @@
+likely orders of magnitude below the numerical truncation
+errors (numerical diffusion and dispersion errors) introduced
+by the scheme itself. For fully Lagrangian schemes based
+on parcels, this test forces modelers to deﬁne areas associ-
+ated with the Lagrangian parcels. Cell-integrated Lagrangian
+schemes that track cells throughout the integration can test
+how well the scheme preserves areas.
+As explained in LSPT2012, a highly diffusive scheme

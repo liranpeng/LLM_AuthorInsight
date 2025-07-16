@@ -1,0 +1,9 @@
+ception is ULAQ, which used 9.3 pptv for CH3Br in the year
+2000 simulation.
+Sea surface temperatures (SSTs) to be used in the CCMs
+were taken from prescribed data. ULAQ used a 1960–1970
+SST average from Hadley Centre data for the 1850 simula-
+tion subtracting 0.3 K everywhere. For the year 2000 climate,
+a 1960–2020 SST average from Hadley Center data was
+used. The DLR E39C model applied 10-year averages from
+the MPI-Hamburg coupled ocean-atmosphere general circu-

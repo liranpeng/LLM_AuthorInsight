@@ -1,0 +1,8 @@
+doi:10.1016/j.atmosenv.2010.02.009, 2010.
+Mao, J., Paulot, F., Jacob, D. J., Cohen, R. C., Crounse, J. D.,
+Wennberg, P. O., Keller, C. A., Hudman, R. C., Barkley, M. P.,
+and Horowitz, L. W.: Ozone and organic nitrates over the east-
+ern United States: Sensitivity to isoprene chemistry, J. Geophys.
+Res., 118, 11256–11268, doi:10.1002/jgrd.50817, 2013.
+Meleux, F., Solmon, F., and Giorgi, F.: Increase in summer Euro-
+pean ozone amounts due to climate change, Atmos. Environ., 41,

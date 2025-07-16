@@ -1,0 +1,27 @@
+Levy,
+R.,
+Hsu,
+C.,
+et
+al.:
+MODIS
+Atmosphere
+L2
+Aerosol
+Product,
+NASA
+MODIS
+Adaptive
+Process-
+ing
+System,
+Goddard
+Space
+Flight
+Center,
+USA,
+https://doi.org/10.5067/MODIS/MYD04_L2.006, 2015.
+Liu, J., Logan, J. A., Murray, L. T., Pumphrey, H. C., Schwartz, M.
+J., and Megretskaia, I. A.: Transport analysis and source attribu-
+tion of seasonal and interannual variability of CO in the tropical
+upper troposphere and lower stratosphere, Atmos. Chem. Phys.,

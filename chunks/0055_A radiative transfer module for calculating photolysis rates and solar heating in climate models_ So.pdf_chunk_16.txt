@@ -1,0 +1,9 @@
+codes by the global climate and weather-forecasting mod-
+els (e.g., the US Department of Energy (DOE) Accelerated
+Climate Modeling for Energy (ACME), the National Cen-
+ter for Atmospheric Research (NCAR) Community Earth
+System Model (CESM), the European Centre for Medium-
+Range Weather Forecasts (ECMWF) model) has been en-
+abled by standardized packages like the Rapid Radiative
+Transfer Model for general circulation model (GCM) appli-
+cations (RRTMG), developed based on the correlated-k ap-

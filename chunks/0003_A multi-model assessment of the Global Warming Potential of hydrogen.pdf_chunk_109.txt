@@ -1,0 +1,7 @@
+The hydrogen deposition in UKCA is based on the scheme developed by
+Sanderson, 2003. Deposition velocity is linear with soil moisture in all regions
+except C4 surface types where the deposition has a quadratic-log dependence with
+soil moisture and shrub surface types where deposition velocity does not depend on
+soil moisture.
+LMDz-INCA-ORCHIDEE. The LMDZ-INCA global chemistry-aerosol-climate
+model couples online the LMDZ (Laboratoire de Météorologie Dynamique, ver-

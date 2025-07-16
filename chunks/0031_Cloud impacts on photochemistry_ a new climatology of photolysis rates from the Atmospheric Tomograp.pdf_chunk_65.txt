@@ -1,0 +1,9 @@
+minishment (rlnJ < −0.025), average rlnJ diminishment, per-
+cent occurrence of nearly clear sky, percent occurrence of
+enhancement (rlnJ > +0.025), and average rlnJ enhancement.
+The horizontal line has a total length of 100 % with the thin
+line (clear sky) centered on 0; see the extended legend in
+Fig. 5b.
+Overall, four models (GC, GFDL, GMI, UKCA) have
+unusually narrow peak distributions of rlnJ ∼0, indicating
+lesser cloud effects on the Js. The other six models (GISS,

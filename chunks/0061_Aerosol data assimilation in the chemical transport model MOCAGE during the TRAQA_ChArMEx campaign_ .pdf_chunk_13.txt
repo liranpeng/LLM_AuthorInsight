@@ -1,0 +1,8 @@
+Chem/GOCART/GSI) system. Benedetti et al. (2009) de-
+scribed the assimilation of AOD in the European Centre
+for Medium-Range Weather Forecasts (ECMWF) Integrated
+Forecasting System (IFS) using the 4-D-VAR method, while
+Yumimoto et al. (2008) used the same approach to assimilate
+satellite lidar proﬁles in the RAMS/CFORS-4-D-VAR (RC4)
+model. Sequential assimilation approaches are also docu-
+mented: optimal interpolation used by, for example, Collins

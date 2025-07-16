@@ -1,0 +1,9 @@
+der CMIP5 to quantify the central estimate and range of
+historical to present-day aerosol forcing. Future forcing es-
+timates relied solely on ACCMIP (Shindell et al., 2013a).
+It was problematic in CMIP5 to properly quantify the ERF
+by aerosols in the historic period and future scenarios, in
+most GCM models. This was mainly due to missing experi-
+ments, diagnostics and insufﬁciently characterised feedbacks
+involving natural aerosols.
+Since the ERF calculations for ozone (tropospheric and

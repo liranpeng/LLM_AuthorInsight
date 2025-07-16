@@ -1,0 +1,9 @@
+for tracer mass in each Eulerian control volume:
+ρ φ(x,y) + φ (ρ(x,y) −ρ),
+(9)
+(Appendix B of Nair and Lauritzen, 2010) where (·) refers to
+the cell-averaged value. Note that for φ(x,y) = 1 Eq. (9) re-
+duces to the reconstruction function for ρ, and hence Eq. (9)
+is free-stream preserving. Also, the higher order terms in the
+product ρ(x,y) · φ(x,y) have been eliminated so that the re-
+construction function for tracer mass is of degree two. One

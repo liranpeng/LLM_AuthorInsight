@@ -1,0 +1,7 @@
+NICEWONGER ET AL.
+5 of 17
+200 years, respectively (Prather et al., 2012). The isotope fractionation factors for the OH, soil, stratosphere,
+and chlorine sinks are 0.995, 0.980, 0.997, and 0.940, respectively (Lassey et al., 2007). The model solves the
+mass balance equations for CH4, 12CH4, and 13CH4 and results are reported as CH4 mole fraction
+(nmol mol−1) and δ13CH4 (per mil, ‰).
+3.3. Evaluating Emission Scenarios

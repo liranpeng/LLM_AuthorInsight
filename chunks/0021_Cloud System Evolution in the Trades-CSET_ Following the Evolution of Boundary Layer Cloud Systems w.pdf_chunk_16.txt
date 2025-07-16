@@ -1,0 +1,5 @@
+moisture, heat and momentum budgets (Lilly 1968, Bretherton and Wyant 1997, Wyant et al. 
+1997, Stevens 2002, Stevens et al. 2002). In addition, cloud top entrainment controls how 
+MBL clouds respond to increased greenhouse gases (Caldwell and Bretherton 2009) and 
+atmospheric aerosols (Ackerman et al. 2004, Wood 2007, Bretherton et al. 2007).
+Cloud System Evolution in the Trades (CSET) was developed to describe and explain the

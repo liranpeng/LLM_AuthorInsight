@@ -1,0 +1,8 @@
+S., and Wyszogrodzki, A.: Controls on precipitation and cloudi-
+ness in simulations of trade-wind cumulus as observed during
+RICO, J. Adv. Model. Earth Sy., 3, 1–20, 2011.
+Vial, J., Bony, S., Dufresne, J.-L., and Roehrig, R.: Coupling
+between lower-tropospheric convective mixing and low-level
+clouds: Physical mechanisms and dependence on convection
+scheme, J. Adv. Model. Earth Sy., 8, 1892–1911, 2016.
+Vial, J., Vogel, R., Bony, S., Stevens, B., Winker, D. M., Cai, X., Ho-

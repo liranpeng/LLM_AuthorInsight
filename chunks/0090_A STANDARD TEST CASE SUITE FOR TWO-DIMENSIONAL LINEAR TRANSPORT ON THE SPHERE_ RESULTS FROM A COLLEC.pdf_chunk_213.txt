@@ -1,0 +1,8 @@
+based schemes, shape preservation is enforced either through
+FCT or by constraining the reconstruction function. When
+the resolution is increased to 0.75◦(fourth column in Figs. 11
+and 14), most of these schemes no longer have a bow-shaped
+scatter, but the lower boundary is curved so that the scatter
+points “track”/follow the pre-existing functional curve much
+more closely with the majority of the scatter points inside
+the convex hull. Some schemes (FARSIGHT-CN1.0 at 0.75◦,

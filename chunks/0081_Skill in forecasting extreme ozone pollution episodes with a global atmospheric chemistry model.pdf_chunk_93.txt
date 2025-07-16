@@ -1,0 +1,10 @@
+as extremes, and their connection to extremes in the eastern
+US might be overlooked.
+4.1
+Deﬁning individual, grid-cell level ozone pollution
+extremes
+We deﬁne the threshold value for AQX events as a frequency
+(return time) based on the local climatology. This is shown
+in Fig. 8 by the colored arrows, which are the ∼97.3 per-
+centiles, or the 100 worst days in a decade (2000–2009) for
+each site. This threshold varies from 68 to 78 ppb for these

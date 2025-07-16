@@ -1,0 +1,4 @@
+homogeneous core cloud surrounded by a thinner homogeneous edge cloud. In the binary cloudy-clear 
+approach, two layers can generate 22 ICAs from their overlap combinations, but in the Tripleclouds system, 
+it is 32. Tripleclouds address a significant source of error in solar heating calculations, but there is consider-
+able uncertainty in partitioning the cloud water path into thick and thin regions (J. K. P. Shonk et al., 2010).

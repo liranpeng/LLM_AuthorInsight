@@ -1,0 +1,18 @@
+mole fraction at an unobserved location x as a weighted sum
+of the observations
+Z (x) =
+K
+X
+k=1
+wk · Zk
+, K
+X
+k=1
+wk
+(1)
+where K is the number of observations sites and weights wk
+are deﬁned as follows. In standard inverse-distance weight-
+ing wk = |x−xk|−β, with β typically in the range 1 ≤β ≤4.
+We optimize β as described below after adjusting the weights
+for distant and clustered observations. Weights are set to
+zero when |x −xk| exceeds a threshold L to avoid mean-

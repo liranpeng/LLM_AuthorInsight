@@ -1,0 +1,53 @@
+1.54
+2.10
+2.18
+AIR 2050A1B
+4.57
+4.58
+2.68
+3.43
+4.65
+4.58
+SHIP 2000
+4.17
+3.44
+3.77
+3.20
+4.28
+3.24
+SHIP 2025A1B
+4.99
+4.39
+4.55
+3.90
+4.70
+4.12
+SHIP 2050A1B
+5.96
+4.87
+5.68
+4.78
+5.85
+4.81
+ROAD 2000
+1.57
+−0.141
+1.74
+1.50
+1.76
+2.21
+ROAD 2025A1B
+1.33
+0.148
+1.25
+1.26
+1.18
+2.07
+ROAD 2050A1B
+0.332
+0.210
+0.302
+0.314
+0.282
+0.548
+Table A2. Radiative forcings (mW m−2) from changes in ozone, methane (including stratospheric water vapour), and methane-induced

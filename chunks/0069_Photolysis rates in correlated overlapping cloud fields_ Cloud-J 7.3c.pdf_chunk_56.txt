@@ -1,0 +1,10 @@
+5 % with mean biases in the boundary layer on the order of
+±1 %. The new AvQCA method has smaller rms errors, but
+the original MdQCA method has a slightly better proﬁle for
+the mean error. Ran-3 is computationally comparable to the
+QCAs; it has a reasonable mean bias as expected given the
+number of samples (3 × 640), but a much worse rms error,
+typically > 10 %.
+4
+Cloud-J and volatile organic compounds
+Volatile organic compounds (VOCs) cover a wide class of

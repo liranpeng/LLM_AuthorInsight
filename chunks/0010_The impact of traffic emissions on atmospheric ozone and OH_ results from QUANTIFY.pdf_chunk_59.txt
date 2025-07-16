@@ -1,0 +1,9 @@
+In this study p-TOMCAT was run with a 5.7o×5.7o hori-
+zontal resolution and 31 vertical levels from the surface to
+10 hPa.
+The ofﬂine meteorological ﬁelds used are from
+the operational analyses of the European Medium Range
+Weather Forecast model. The chemical mechanism includes
+the reactions of methane, ethane and propane plus their ox-
+idation products and of sulphur species, it includes 96 bi-
+molecular, 16 termolecular, 27 photolysis reactions and 1

@@ -1,0 +1,8 @@
+e.g., biomass burning. There is one example in these proﬁles
+where such convection delivers high aerosol loading near
+6 km in the eastern Paciﬁc (ATom-4). We calculate the fre-
+quency distribution of reactions for all the parcels in ATom-
+1 Paciﬁc and Atlantic assuming a high-reactivity coefﬁcient
+gamma = 0.10 in Fig. 66. If we are looking for heterogeneous
+reactions to compete with radical chemistry rates (e.g., ROO,
+Earth Syst. Sci. Data, 15, 3299–3349, 2023

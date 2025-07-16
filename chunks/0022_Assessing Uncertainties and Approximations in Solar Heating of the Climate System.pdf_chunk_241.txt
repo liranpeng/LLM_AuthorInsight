@@ -1,0 +1,4 @@
+Olson, J., Prather, M., Berntsen, T., Carmichael, G., Chatfield, R., Connell, P., et al. (1997). Results from the IPCC photochemical model 
+intercomparison (PhotoComp). Journal of Geophysical Research, 102, 5979–5991.
+Oreopoulos, L., Lee, D., Sud, Y. C., & Suarez, M. J. (2012). Radiative impacts of cloud heterogeneity and overlap in an atmospheric General 
+Circulation Model. Atmospheric Chemistry and Physics, 12(19), 9097–9111.

@@ -1,0 +1,8 @@
+Convective ﬂuxes and cloud optical depths for water and
+ice clouds, as diagnosed in ECMWF meteorology, vary an-
+nually by 2 % and have small sensitivity (−0.03 to +0.01),
+so these factors have very little impact on τCH4×OH (≪1%).
+Due to the small impact in the UCI CTM, these perturba-
+tion tests are not repeated in the other CTMs. Our results are
+consistent with the known decrease in mass-weighted global
+OH concentrations due to clouds (Voulgarakis et al., 2010)

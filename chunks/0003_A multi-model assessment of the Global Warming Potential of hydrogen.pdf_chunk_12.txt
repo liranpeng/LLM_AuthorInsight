@@ -1,0 +1,14 @@
+of hydrogen leads to as much global warming as 4.3 kg of CO2. A
+follow-up study with the STOCHEM-CRI model found a
+GWP100 value of 5 ± 115. Recent studies have made a step for-
+ward in the research of the climate effect of hydrogen emissions
+by including the combined effects in the troposphere and stra-
+tosphere using global 3D models. Using the UKESM1 model with
+prescribed hydrogen surface concentrations, a much higher
+hydrogen
+GWP100
+of
+12 ± 6
+was
+estimated16.
+Perturbing

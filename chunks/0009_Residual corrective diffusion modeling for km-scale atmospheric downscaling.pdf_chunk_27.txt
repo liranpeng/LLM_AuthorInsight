@@ -1,0 +1,8 @@
+overdispersive PDF (Fig. 1f).
+Model calibration
+Analysis of the ensemble spread of our 32-member CorrDiff
+predictions shows they are not yet optimally calibrated. Figure 2
+demonstrates that the predictions are overall under-dispersive for
+most channels – the ensemble spread is too small relative to
+ensemble mean error and rank histograms indicate that observed
+values frequently fall above or below the range of predicted values.

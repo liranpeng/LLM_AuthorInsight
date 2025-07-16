@@ -1,0 +1,4 @@
+is restricted to these years for consistency. This period includes 7 QBO phase transitions (01/2002, 03/2004, 
+04/2006, 04/2008, 08/2010, 04/2013, 07/2015). The QBO period centered on 08/2010 is clearly anomalous: 
+there was a disruption to the stratospheric QBO, there was a strong La Niña, and the NOAA surface QBO 
+composite was highly anomalous, unlike the models (see supplementary Figure S4). Therefore, our com-

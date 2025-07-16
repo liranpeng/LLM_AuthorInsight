@@ -1,0 +1,5 @@
+trained on only 10 years of data shows clear signs of overfitting that does not occur for the 100-year
+dataset.
+When examining the variable-by-variable validation RMSE, we find that only stratospheric variables
+overfit for the 10-year dataset. As an example, Figure 15 compares the validation RMSE for the upper
+stratospheric T0 and the near-surface T7. This makes it apparent that the overfitting is happening for

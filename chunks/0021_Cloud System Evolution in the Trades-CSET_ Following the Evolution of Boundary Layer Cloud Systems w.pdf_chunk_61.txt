@@ -1,0 +1,6 @@
+combined HCR and HSRL retrievals were used to estimate cloud boundaries for the flights 
+flown (Schwartz et al., 2018).
+To further complement the HCR and HSRL measurements, a 4-channel zenith-pointing 183 
+GHz radiometer was flown to provide liquid water path (LWP) and water vapor estimates. 
+This radiometer is similar to one used during the VOCALS project (Zuidema et al., 2012b). 
+Such radiometers have the potential to provide an additional fundamental cloud observation

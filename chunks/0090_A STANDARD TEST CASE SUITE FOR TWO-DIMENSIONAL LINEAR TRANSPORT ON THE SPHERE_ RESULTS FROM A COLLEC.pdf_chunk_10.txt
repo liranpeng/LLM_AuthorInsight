@@ -1,0 +1,9 @@
+design schemes that solve the continuity equation, also re-
+ferred to as transport schemes or advection schemes. Numer-
+ous new algorithms have been developed within the last 10 yr
+or so. These encompass ﬁnite-volume, ﬁnite-difference, and
+Galerkin-based methods.
+Despite the growing amount of research in transport
+scheme algorithms, the “mandatory” idealized testing of
+such algorithms on the sphere is surprisingly little stan-
+dardized. In fact, the only standardized test in global trans-

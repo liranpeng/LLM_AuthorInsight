@@ -1,0 +1,3 @@
+frequency in large latitude–pressure bins and also by cosine (latitude). The ATom statistics are from the UCIZ model, using MDS-2b and
+revised RDS* protocol (HNO4 and PAN damping). The Paciﬁc results (solid black) also show the central Paciﬁc alone (dashed gray). The six
+models’ values for a day in mid-August are averaged over longitude for the domains shown in Fig. S1 and then cosine (latitude)-weighted.

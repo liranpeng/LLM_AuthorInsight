@@ -1,0 +1,5 @@
+ences in the two, at the 1 W m−2 level, could not be fully resolved without a complete rewrite of one code or 
+the other. Nevertheless, the parallel simulations with RRTMG were informative (e.g., 2-stream problems) 
+and helped our analysis here. These findings are based primarily on the extensive variants and adaptations 
+made to the Solar-J RT code. In some cases, our comparisons with other published work has provided in-
+sight and allowed us to draw insight beyond our own simulations.

@@ -1,0 +1,8 @@
+rounding atmosphere, e.g., Prather and Jaffe (1990), Thuburn
+and Tan (1997), Esler (2003), and Pisso et al.2009). Charac-
+terizing chemical species in the atmosphere as having mean
+abundances, or even mean vertical proﬁles, with a standard
+deviation to represent the observed variability, does not re-
+ally describe how these models generate heterogeneity and
+how the different species co-vary. Assuredly, the atmosphere
+has more processes and structures than are in our current,

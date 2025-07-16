@@ -1,0 +1,6 @@
+of Fig. 4, in which the emission and concentration data are the same as in Fig. 4. 
+a, Global anthropogenic N2O emissions; b, Global N2O concentrations. The 
+unharmonized emissions from the Integrated Assessment Models (IAMs)104 
+show a large variation due to different input data and model assumptions. 
+Comparison with Fig. 4b, d illustrates the modifications to the IAM scenario 
+data for use in CMIP6. All baseline scenarios (SSP 3−7.0 and SSP 5−8.5; without

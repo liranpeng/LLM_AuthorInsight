@@ -1,0 +1,16 @@
+2.4
+Maximal groups with correlated overlap
+The MAX-COR model generates ICAs from upper and lower
+layers that are MAX groups. For a general approach, we as-
+sume that the upper group G2 consists of N2 cloudy column
+members with fractions f G2
+1
++f G2
+2
++f G2
+3
++...+f G2
+N2 = F G2
+and one clear-sky column member of fraction 1−F G2. Sim-
+ilarly, the lower group G1 has N1 + 1 ICAs (see Sect. 2.3).
+Each of the N1 + 1 ICAs in group G1 are paired with the

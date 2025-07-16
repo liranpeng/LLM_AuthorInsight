@@ -1,0 +1,9 @@
+pense of increased computational cost.
+A further simpliﬁcation to SFF-CSLAM is to approxi-
+mate the swept area with just one degree of freedom in-
+stead of two or three as described above. For example, one
+may use just one velocity vector at the center of each edge
+to trace the ﬂux area so that the swept area is a rhom-
+boid instead of a quadrilateral with straight (Miura, 2007)
+or curved edges (Ullrich et al., 2013). This approach is
+taken in the transport scheme implemented in the Icosahe-

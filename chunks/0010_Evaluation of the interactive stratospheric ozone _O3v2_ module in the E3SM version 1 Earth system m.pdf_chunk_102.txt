@@ -1,0 +1,10 @@
+what surprising given that the stratospheric transport was not
+closely evaluated and tuned for. By adjusting the tempera-
+https://doi.org/10.5194/gmd-14-1219-2021
+Geosci. Model Dev., 14, 1219–1236, 2021
+1230
+Q. Tang et al.: Interactive stratospheric ozone (O3v2) in E3SM
+Figure 9. Zonal mean tropopause changes between O3v2 and O3v1
+for annual and monthly means.
+ture threshold for PSC formation and thus activation of rapid
+chlorine-driven ozone depletion, the Antarctic ozone holes

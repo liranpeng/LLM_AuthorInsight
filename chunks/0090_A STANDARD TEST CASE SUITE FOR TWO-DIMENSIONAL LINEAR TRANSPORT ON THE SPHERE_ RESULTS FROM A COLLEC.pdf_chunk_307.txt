@@ -1,0 +1,10 @@
+quantities at the midpoint of the corresponding edge to get a
+second-order spatial approximation at time t.
+The semi-discrete Eq. (A14) is then marched forward in
+time using the Runge–Kutta third-order total variational di-
+minishing time integration scheme. This choice of time inte-
+gration helps to damp the unphysical oscillation due to time
+discretization.
+A14.3
+Linear reconstruction
+To evaluate the right-hand side of Eqs. (A13) and (A14), we

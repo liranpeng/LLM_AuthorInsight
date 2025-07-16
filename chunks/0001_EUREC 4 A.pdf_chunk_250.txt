@@ -1,0 +1,10 @@
+Wind lidar
+HALO Phononics scanning Doppler lidar measuring Doppler velocity and vertical and horizontal
+winds
+Ceilometer
+OTT CHM 15k pulsed laser cloud height detector at 1064 nm used to detect cloud-base height and
+lifting condensation level
+Isotopic analyzer
+Picarro (L2130-i) cavity ring-down laser spectrometer to measure water stable isotopologues
+Radiometer (BCOHAT)
+RPG HATPRO-G5 scanning radiometer at K and V band used for retrievals of columnar water vapor

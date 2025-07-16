@@ -1,0 +1,8 @@
+multiple, separate species in some models or may be lumped
+according to their reaction rates. The abovementioned list
+tends to be inclusive because, for much of the troposphere,
+a smaller list can apply. For some species (e.g., C5H8), their
+role is key only if they are present in large enough abun-
+dances, but even when sampling across the Paciﬁc Ocean
+basin one may ﬁnd plumes with recent biospheric sources.
+This simpliﬁcation of the chemical system fails in regions

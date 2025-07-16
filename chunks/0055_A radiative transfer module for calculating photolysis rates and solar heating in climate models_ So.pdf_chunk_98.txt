@@ -1,0 +1,50 @@
+absorption optical depth, τabs, for bins S18 to S27. See Table 1 for wavelength ranges and RRTMG-SW-equivalent bins.
+S-bins
+S18
+S19
+S20
+S21
+S22
+S23
+S24
+S25
+S26
+S27
+λeff
+599 nm
+973 nm
+1.27 µm
+1.45 µm
+1.77 µm
+2.04 µm
+2.31 µm
+2.75 µm
+3.40 µm
+5.36 µm
+Total optical depth (τ for Solar-J and reduced τ′ for RRTMG schemes)
+Solar-J
+0.4287
+0.4322
+0.4345
+0.4360
+0.4383
+0.4404
+0.4425
+0.4380
+0.4470
+0.4591
+EC92
+0.2488
+0.2462
+0.2462
+0.2385
+0.2385
+0.2276
+0.2276
+0.3313
+0.3313
+0.3313
+Fu96
+0.1535
+0.1581
+0.1563

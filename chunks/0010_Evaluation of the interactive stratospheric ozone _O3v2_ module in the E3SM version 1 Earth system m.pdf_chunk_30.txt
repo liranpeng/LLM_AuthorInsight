@@ -1,0 +1,10 @@
+ditional pair of 5-year O3v2 AMIP-type simulations are car-
+ried out to diagnose the climate sensitivity (following Cess et
+al., 1989). One of the pair prescribes the SST and sea ice con-
+centration to represent current climate conditions. The other
+simulation is identical, including ﬁxed sea ice, except for in-
+creasing the SST uniformly by 4 K. More details about the
+E3SMv1 Cess conﬁguration are documented in Caldwell et
+al. (2019).
+2.3
+Evaluating models versus observations

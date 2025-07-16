@@ -1,0 +1,8 @@
+meters, scales easily resolvable with 3D models.
+In the eastern Paciﬁc (Fig. 2b, e, h), the overlap of out-
+bound and return proﬁles enhances the spatial sampling over
+the 10 h ﬂight. The region of very large L-O3 (> 5 ppb d−1)
+is extensive, beginning at 5–6 km at 10◦N and broadening
+to 2–8 km at 28◦N. The region of L-CH4 is similar, but loss
+at the upper altitudes of this air mass is attenuated because
+of the temperature dependence of L-CH4 and possibly be-

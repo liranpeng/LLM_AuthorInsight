@@ -1,0 +1,11 @@
+To compare the emissions provided by QUANTIFY with
+other projects and data bases some recently used inventories
+are also given in Table 1. Notably the road trafﬁc emissions
+are lower than in other inventories. The ﬁnal road trafﬁc
+www.atmos-chem-phys.net/9/3113/2009/
+Atmos. Chem. Phys., 9, 3113–3136, 2009
+3116
+P. Hoor et al.: Trafﬁc emissions: impact on ozone and OH
+Fig. 1. NOx emissions (TgN/m2/year) used in QUANTIFY by sector.
+Table 3. Model simulations performed for QUANTIFY.
+experiment

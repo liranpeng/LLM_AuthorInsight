@@ -1,0 +1,6 @@
+organization. J. Atmos. Sci, 68,1075–1096.
+Morley B, Spuler S, Vivekanandan J, Hayman M, Eloranta E, 2012: Airborne and ground-based 
+measurements with the NCAR’s GVHSRL. 16th International Symposium for the Advancement of 
+Boundary-layer Remote Sensing, Boulder CO.
+O’Connor EJ, Hogan RJ, and Illingworth AJ, 2005: Retrieving Stratocumulus Drizzle Parameters 
+Using Doppler Radar and Lidar. J. Appl. Meteor, 44, 14–27,10.1175/JAM-2181.1

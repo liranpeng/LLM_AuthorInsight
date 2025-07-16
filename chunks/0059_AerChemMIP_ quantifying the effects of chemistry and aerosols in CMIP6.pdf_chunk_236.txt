@@ -1,0 +1,8 @@
+herty, R., Dalsoren, S., Faluvegi, G., Folberth, G., Ghan, S. J.,
+Horowitz, L. W., Lee, Y. H., MacKenzie, I. A., Nagashima, T.,
+Naik, V., Plummer, D., Righi, M., Rumbold, S. T., Schulz, M.,
+Skeie, R. B., Stevenson, D. S., Strode, S., Sudo, K., Szopa, S.,
+Voulgarakis, A., and Zeng, G.: The Atmospheric Chemistry and
+Climate Model Intercomparison Project (ACCMIP): overview
+and description of models, simulations and climate diagnostics,
+Geosci. Model Dev., 6, 179–206, doi:10.5194/gmd-6-179-2013,

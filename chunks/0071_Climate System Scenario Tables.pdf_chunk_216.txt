@@ -1,0 +1,7 @@
+10.7 ± 1.6
+10.1 ± 1.5
+11.1 ± 1.8
+12.1 ± 2.0
+Table AII.5.8 |  CH4 atmospheric lifetime (yr) against loss by tropospheric OH
+Notes:
+RCPn.n& lifetimes based on best estimate with uncertainty for 2000–2010 (Prather et al., 2012) and then projecting changes in key factors (Holmes et al., 2013). All uncertainties are 68% confidence

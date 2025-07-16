@@ -1,0 +1,8 @@
+in winter, and here the largest concentrations (∼40 ppb) in
+the US occur over the Rocky Mountains and the plains to
+the east, while for the EU ozone concentrations greater than
+30 ppb are found only at the southern extent of the mask.
+Note that Greece and southern Italy stand out as maximal in
+both percentiles. The difference, 95th minus 25th percentile,
+is a measure of the pollution buildup, and it tends to follow
+the regions of largest emissions. California, the Midwest, and

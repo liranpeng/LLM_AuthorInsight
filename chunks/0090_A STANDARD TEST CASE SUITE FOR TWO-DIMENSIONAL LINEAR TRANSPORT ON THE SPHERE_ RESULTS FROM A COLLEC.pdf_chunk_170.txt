@@ -1,0 +1,8 @@
+t = T/2) using the cosine bell initial condition for the unlim-
+ited and (if applicable) limited/ﬁltered schemes at resolutions
+1.5◦and 0.75◦. Results for ℓf at the “minimal” resolution
+1λm are not shown although requested in LSPT2012. As
+for the convergence plots, data have been arranged according
+to discretization grid. We also show a “minimal-τ” ﬁlament
+preservation diagnostics as histograms in Fig. 6. That is, the
+y axis on the histogram is the τ value for which ℓf is 80; this

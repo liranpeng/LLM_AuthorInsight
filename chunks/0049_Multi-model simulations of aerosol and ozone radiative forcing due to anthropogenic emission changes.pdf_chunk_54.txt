@@ -1,0 +1,10 @@
+among the models in this study.
+3.3
+Aerosol–cloud interaction and total aerosol effect
+A subset of ﬁve models were able to diagnose the forc-
+ing from aerosol–cloud interaction, with four models hav-
+ing a weak or slightly positive forcing and one model having
+a large positive forcing; see Fig. 6a. In three of the mod-
+els, rapid adjustments associated with aerosol–cloud inter-
+actions are simulated (i.e. in IPCC AR5 terms, they simu-
+late an effective radiative forcing, or ERF), whereas in the

@@ -1,0 +1,9 @@
+impacts on reactivity.
+A test of A- vs. C-runs for all six CTMs–CCMs is shown
+Fig. 3. All models were spun up for a year and stopped at
+00:00 UT on 16 August, with the chemical abundances at
+this time being used to initialize each model’s own C- and
+A-runs. In this case all species in the model were initialized
+and not just the 18 key species. Each model ran their own
+chemistry and meteorology intended to simulate a speciﬁc
+historical year or a typical climate year. All were intended to

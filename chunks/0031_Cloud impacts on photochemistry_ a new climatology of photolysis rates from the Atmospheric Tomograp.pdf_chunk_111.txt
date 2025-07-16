@@ -1,0 +1,8 @@
+variations in surface albedo. Nevertheless, the ocean surface
+albedo (OSA) is variable (Jin et al., 2011), but most of these
+models, including TUV, assume a uniform low albedo in the
+range of 0.05 to 0.10. For the modeled ratio J-cloudy to J-
+clear, using a ﬁxed albedo is not so important since both
+J values use the same albedo. For the CAFS / TUV ratio,
+however, it is essential to have the TUV model use the OSA
+that best corresponds to the sea surface conditions under the

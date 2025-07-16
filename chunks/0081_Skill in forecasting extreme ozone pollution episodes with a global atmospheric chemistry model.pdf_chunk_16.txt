@@ -1,0 +1,8 @@
+the observations to the UCI CTM. We then identify the struc-
+ture of the multiday, continental-scale pollution episodes that
+make up most of these events. The CTM’s ability to match
+these extreme episodes is shown to have considerable skill,
+which degrades as the quality of prediction of the cell de-
+creases and as random noise is added to the observations.
+In Sect. 5, we develop statistics of the extreme events from
+a decade of observations that can be used without hindcast-

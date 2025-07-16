@@ -1,0 +1,8 @@
+determining how CO concentrations in the regions of the
+ATom-1 ﬂights compare to previous years. We focus our
+analysis of CO interannual variability on several regions tra-
+versed by the ATom ﬂights. Figure 8 shows these regions in
+black squares overplotted on the MOPITT CO column for
+August 2016. We also examine the IAV in BB sources from
+nearby regions, outlined in red in Fig. 8. Figure 9 shows
+box-and-whisker plots of the mean; minimum; 25th, 50th,

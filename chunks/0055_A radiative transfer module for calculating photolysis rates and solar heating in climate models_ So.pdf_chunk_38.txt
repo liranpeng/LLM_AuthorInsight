@@ -1,0 +1,8 @@
+Warren, 1984). Liquid-water clouds use Deirmendjian’s C.1
+gamma distribution of drop sizes (α = 6; see Deirmendjian,
+1969) and the Mie code from Hansen and Travis (1974) for
+a range of effective radii: re = 1.5, 3, 6, 12, 24, 48 µm; see
+also Hess et al. (1998). Optical properties (SSA, Q, A0:7, g)
+are calculated for bins S12–S27 for these effective radii and
+then individual cloud properties at each bin are interpolated
+piecewise linearly in re.

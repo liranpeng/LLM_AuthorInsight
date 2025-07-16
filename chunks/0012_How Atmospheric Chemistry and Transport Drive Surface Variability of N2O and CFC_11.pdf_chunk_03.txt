@@ -1,0 +1,4 @@
+Abstract  Nitrous oxide (N2O) is a long-lived greenhouse gas that affects atmospheric chemistry 
+and climate. In this work, we use satellite measurements of N2O, ozone (O3), and temperature from the 
+Aura Microwave Limb Sounder (MLS) instrument to calculate stratospheric loss of N2O, and thus its 
+atmospheric lifetime. Using three chemistry transport models simulating the Aura period 2005–2017, we

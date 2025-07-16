@@ -1,0 +1,5 @@
+(top panels) as well as (c) CMAM and (d) GISS-E2-R (bottom panels). Grey shading indicates where results are not signiﬁcant at p < 0.05
+as evaluated with a Student’s t test using 10 years of data for the 2090s (RCP 8.5) and present-day simulations. Note the different scales for
+(i) UM-CAM and STOC-HadAM3 and (ii) CMAM and GISS-E2-R for the difference plots.
+gions) as there is no chemical production of the CO tracer,
+which accounts for about half of atmospheric CO (Shindell

@@ -1,0 +1,8 @@
+doi:10.1029/2002JD002916, 2003.
+Dlugokencky, E. J., Nisbet, E. G., Fisher, R., and Lowry, D.: Global
+atmospheric methane: budget, changes and dangers, Philos. T. R.
+Soc. A, 369, 2058–2072, doi:10.1098/rsta.2010.0341, 2011.
+Duncan, B., Portman, D., Bey, I., and Spivakovsky, C.: Parameteri-
+zation of OH for efﬁcient computation in chemical tracer models,
+J. Geophys. Res.-Atmos., 105, 12259–12262, 2000.
+Duncan, B. N., Bey, I., Chin, M., Mickley, L. J., Fairlie, T. D., Mar-

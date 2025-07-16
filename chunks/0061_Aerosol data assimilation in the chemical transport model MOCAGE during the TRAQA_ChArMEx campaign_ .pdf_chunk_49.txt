@@ -1,0 +1,14 @@
+x,HTy
+
+,
+(9)
+where ⟨x,y⟩represents the inner product of x and y. Anal-
+ogously to the tangent linear operator, the adjoint operator
+can be considered as a sequence of operators. Each discrete
+operation in the tangent linear operator has a corresponding
+operation in the adjoint operator, but the order of execution
+is reversed.
+3.4
+The error covariance matrices
+The background error covariance matrix is a key component
+of the data assimilation system. It deﬁnes the background er-

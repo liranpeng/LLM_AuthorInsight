@@ -1,0 +1,4 @@
+at different SZA (Joseph et al., 1976; W. J. Wiscombe, 1977). Thus, we examine the geographic pattern of 
+δ-scaling errors for fixed sun (00Z) in Figure 4 and find that SZA ∼ 40° (green dashed oval) is the zero-error 
+point for all three δ-scaling methods. Figures 4a–4c columns show the three primary components: reflected 
+flux, atmospheric absorption, and surface absorption, respectively. The first three rows (i)–(iii) show the se-

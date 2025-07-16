@@ -1,0 +1,8 @@
+these categories. In addition to the basic discretization con-
+cepts, this includes discussion of shape-preserving (sp) lim-
+iter used (if applicable) and air–tracer mass coupling. Spe-
+ciﬁc details on time step, native grid resolutions used to
+match test case speciﬁcations on resolution, viscosity coef-
+ﬁcients (if applicable), etc. are given in the Appendix for
+each scheme. The results for the LSPT2012 test case suite
+are presented in Sect. 3. It has been a challenge to present ef-

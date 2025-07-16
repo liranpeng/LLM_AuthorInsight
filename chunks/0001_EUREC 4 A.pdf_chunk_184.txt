@@ -1,0 +1,9 @@
+case, the simulations performed for the mean conditions in
+the vicinity of “D” seem implausible. The challenge will be
+to assess to what extent this reﬂects imprecision in the forc-
+ing, of the sort that differentiates the different marked regions
+in the ﬁgure.
+Given a demonstration that ﬁne-scale models can quanti-
+tatively represent the macro-structure of the observed clouds,
+EUREC4A measurements are expected to provide bench-
+marks for the simulation of cloud microphysical process.

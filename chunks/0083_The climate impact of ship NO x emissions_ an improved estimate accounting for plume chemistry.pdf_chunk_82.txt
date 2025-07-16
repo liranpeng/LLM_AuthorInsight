@@ -1,0 +1,8 @@
+istry (Jaeglé et al., 2011; Murray et al., 2012; Wang et al.,
+2011), indicating minimal sensitivity of ship NOx impacts
+to these processes. The ship RF is quite sensitive to an-
+thropogenic emissions, however. Using the Climate Model
+Intercomparison Project (CMIP5) inventory for year 2000
+(Lamarque et al., 2010) rather than the standard inventory
+described in Sect. 2, the ship NOx RF components are about
+15 % larger (Fig. 5). The shift in RF components lies along

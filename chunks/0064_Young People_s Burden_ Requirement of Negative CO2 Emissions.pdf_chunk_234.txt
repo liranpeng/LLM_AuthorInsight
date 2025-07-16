@@ -1,0 +1,9 @@
+lated) unusual winter Arctic warmth associated with advec-
+tion over high Northern Hemisphere latitudes, partly account
+for global warmth of 1939–1945, and they suggest that the
+sharp cooling after 1945 is a data ﬂaw, due to a rapid change
+in the mix of data sources (bucket measurements and engine
+room intake measurements) and a bias between these that is
+not fully accounted for.
+Huang et al. (2015) justify the changes made to obtain
+version 4 of ERSST, the changes including more complete

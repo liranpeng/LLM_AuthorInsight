@@ -1,0 +1,6 @@
+Atmos. Chem. Phys., 23, 99–117, 2023
+https://doi.org/10.5194/acp-23-99-2023
+H. Guo et al.: Heterogeneity and chemical reactivity
+113
+Figure 5. Probability densities (PDs, frequency of occurrence) for the ATom-1 three reactivities (rows: P-O3, L-O3, and L-CH4 in ppb d−1)
+and for the Paciﬁc and Atlantic from 53◦S to 60◦N (columns left and right). Each air parcel is weighted as described in the text for equal

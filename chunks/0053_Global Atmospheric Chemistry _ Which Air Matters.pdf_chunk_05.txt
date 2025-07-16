@@ -1,0 +1,8 @@
+of this paper are to identify and characterize differences in
+model-generated reactivities as well as species covariances
+that could readily be discriminated with an unbiased clima-
+tology. A primary tool is comparison of multidimensional
+probability densities of key species weighted by the mass of
+such parcels or frequency of occurrence as well as by the re-
+activity of the parcels with respect to methane and ozone.
+The reactivity-weighted probabilities tell us which parcels

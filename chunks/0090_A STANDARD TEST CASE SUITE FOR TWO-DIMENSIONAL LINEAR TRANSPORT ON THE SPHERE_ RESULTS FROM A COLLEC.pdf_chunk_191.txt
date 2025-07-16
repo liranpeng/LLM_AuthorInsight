@@ -1,0 +1,6 @@
+123
+Fig. 7. Contour plot of φ at t = T /2 using “rough” initial condition at approximately 1.5◦(columns 1 and 2) and 0.75◦(columns 3 and 4)
+resolution without (columns 1 and 3) and with (columns 2 and 4) shape-preserving ﬁlter for a subset of transport schemes implemented on a
+cubed-sphere grid. The scheme acronym is shown in the lower left corner of each plot.
+diffusive schemes that have a smaller 1λm also diffuse the
+slotted cylinders. The pure Lagrangian schemes obviously

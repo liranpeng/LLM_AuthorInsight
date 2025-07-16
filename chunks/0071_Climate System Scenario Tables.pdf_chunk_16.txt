@@ -1,0 +1,7 @@
+molecules per cm2), AOD (mean aerosol optical depth at 550 nm), ERF 
+(effective radiative forcing, W m–2), and other climate system quantities 
+are calculated for scenarios using methodologies based on the latest 
+climate chemistry and climate carbon models (see Chapters 2, 6, 7, 
+8, 10, 11 and 12). Results are shown for individual years (e.g., 2010 
+= year 2010) and decadal averages (e.g., 2020d = average of years 
+2016 through 2025), although some 10-year periods are different, see

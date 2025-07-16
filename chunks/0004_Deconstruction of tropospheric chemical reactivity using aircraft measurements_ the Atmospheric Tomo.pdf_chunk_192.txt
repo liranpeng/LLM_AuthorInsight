@@ -1,0 +1,8 @@
+Fig. 68 indicate the shifting importance of the d[P-O3]/d[O3]
+term with altitude.
+Our sensitivity calculations are made with 24 h integra-
+tions, and over this time the HOx and NOx radicals read-
+just to the O3 increase, other species like HOOH partially re-
+spond, and for longer-lived key species such as CO (90 d) the
+adjustment is negligible. For O3, the timescales for decay of
+the perturbation are 10–30 d, and thus we can ignore to ﬁrst

@@ -1,0 +1,9 @@
+4, 5–8, doi:10.2151/sola.2008-002, 2008.
+Erath, C., Lauritzen, P. H., Garcia, J. H., and Tufo, H. M.: Integrat-
+ing a scalable and efﬁcient semi-Lagrangian multi-tracer trans-
+port scheme in HOMME, Procedia Computer Science, 9, 994–
+1003, 2012.
+Erath, C., Lauritzen, P. H., and Tufo, H. M.: On mass-
+conservation in high-order high-resolution rigorous remapping
+schemes on the sphere, Mon. Weather Rev., 141, 2128–2133,
+doi:10.1175/MWR-D-13-00002.1, 2013.

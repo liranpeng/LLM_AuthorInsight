@@ -1,0 +1,6 @@
+field et al., 2017; Thornberry et al., 2017). We concur with LBYY that multi-stream scattering codes, such 
+as CCCma's 4-stream or Solar-J's 8-stream, will become more essential for accuracy and also more cost 
+effective in climate models. They are also necessary to assess ice cloud optics since the 2-stream problems 
+obscure such improvements.
+6.  Cloud overlap
+Treatment of overlapping clouds provides a challenge for climate models in solving the RT problem as well

@@ -1,0 +1,10 @@
+and Atlantic basins (53◦S–60◦N) for ATom-1234.
+2-3-4-5 for NOx changes from 0.8 %-80.8 %-0.0 %-8.3 %-
+7.6 %-2.5 % to 0.8 %-80.8 %-5.7 %-8.7 %-4.0 %-0.0 %. This
+new NOxﬁt is named “NOxadd” in version 3 of the MDS
+(ATom_MDS3.nc). In this paper the ﬁgures with the new
+version-3 NOxﬁt are labeled NOxx.
+https://doi.org/10.5194/essd-15-3299-2023
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+3324
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements

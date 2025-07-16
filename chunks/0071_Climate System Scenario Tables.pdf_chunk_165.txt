@@ -1,0 +1,13 @@
+1649
+3751
+3731
+1574
+3136
+1127 ± 106
+1633 ± 110
+1734 ± 124
+3938 ± 334
+Table AII.4.2 |  CH4 abundance (ppb)
+Notes:
+RCPn.n refers to values taken directly from the published RCP scenarios using the MAGICC model (Meinshausen et al., 2011b) and initialized in year 2005 at 1754 ppb. Values for SRES A2 and B1 
+and IS92 are from the TAR Appendix II. RCPn.n& values are best estimates with uncertainties (68% confidence intervals) from Chapter 11 (Section 11.3.5) based on Holmes et al. (2013) and using

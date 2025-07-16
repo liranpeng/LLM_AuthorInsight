@@ -1,0 +1,4 @@
+framework and including ice clouds. We do not have the capability to generate correlated-k sub-bins for 
+the 66 IR bands and thus cannot include infrared (IR) gas absorption. In a single column model like LZL, 
+we calculate cloud heating rate profiles for sample stratus and cirrus clouds at high sun (Figure 3c) using 
+SJ/66b and compare it with Solar-J without IR absorption (SJ/noIR). For stratus clouds, the excess heating

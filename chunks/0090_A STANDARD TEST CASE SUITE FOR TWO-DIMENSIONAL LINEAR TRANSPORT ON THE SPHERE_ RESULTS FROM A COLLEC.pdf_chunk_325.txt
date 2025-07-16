@@ -1,0 +1,8 @@
+funding a collaborative visit during which part of this paper was
+written. Peter Bosler thanks NSF grant #AGS-0723440 and ONR
+grant #N00014-12-1-0509. The research for HOMME and CAM-
+SE schemes was supported by the Department of Energy Ofﬁce of
+Biological and Environmental Research, work package 12-015335,
+“Applying Computationally Efﬁcient Schemes for BioGeochemi-
+cal Cycles” and work package 09-014487, “Climate Impacts Anal-
+ysis”. Andrew Conley is funded by Department of Energy (DOE)

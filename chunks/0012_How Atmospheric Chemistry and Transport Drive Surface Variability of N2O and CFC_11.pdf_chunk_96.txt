@@ -1,0 +1,4 @@
+surface variability for UCI (σ = 0.03%/yr), GMI (σ = 0.03%/yr), and NOAA observations (σ = 0.04%/yr) 
+are all comparable, however, LMDz5 variability is twice as large (σ = 0.08%/yr). For LMDz5 and GMI, the 
+amplitudes in each hemisphere are similar, but for UCI and NOAA, the amplitude is much greater in the 
+SH than in the NH. This larger SH amplitude of QBO-modulated signal was expected for the UCI CTM as it

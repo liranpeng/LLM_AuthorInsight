@@ -1,0 +1,4 @@
+simply truncating the phase function for liquid water clouds at P7 (giving a phase function that oscillates in 
+sign) still produced accurate, non-negative fluxes and mean intensities compared to 160-stream solutions 
+expanded to P159. In these tests, the mean intensity differed by 1% throughout most of the atmosphere, with 
+a worst case of 8% in the uppermost layers of an optically thick cloud and overhead sun (Wild et al., 2000).

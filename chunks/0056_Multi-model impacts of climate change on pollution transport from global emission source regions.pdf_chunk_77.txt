@@ -1,0 +1,8 @@
+STOC-HadAM3, which are driven by the same GCM (up to
+8 × 10−3 kgm−2 s−1), the spatial patterns and seasonality of
+convection are consistent across all models (Figs. 6 and 7).
+For example, in the tropics and subtropics, the strongest con-
+vective mass ﬂuxes shift location from 10–20◦S in winter to
+10–20◦N in summer as the ITCZ migrates south and north-
+wards of the Equator. Convective mass ﬂuxes are also large
+in the northern mid-latitudes in winter and in the southern

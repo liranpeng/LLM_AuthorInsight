@@ -1,0 +1,9 @@
+tors (similarly to CAM-FV) are used.
+A scheme based on CCS and implemented on the reduced
+latitude–longitude grid (for details on the reduced latitude–
+longitude grid used here, see Fadeev, 2013) participated in
+this intercomparison and is referred to as CCSRG (Tolstykh
+and Shashkin, 2012). The version of CCSRG used here does
+not have a limiter implemented. Tracer–mass coupling is
+based on reconstructing tracer mass, ρφ, and not on the re-
+construction of mixing ratio and density separately.

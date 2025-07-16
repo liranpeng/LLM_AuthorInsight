@@ -1,0 +1,9 @@
+hindcast was found to be statistically different (p < 0.05)
+from the observations, while for EU both distributions are
+the same (p < 0.05).
+By deﬁning AQX events as the 100 worst days per decade,
+we can quantify interannual variability in the number of
+events or large episodes per year. If we wish to ascertain
+whether individual years have differences in their pollution
+episodes in terms of areal extent or duration, then the events
+need to be renormalized (i.e., 10 worst days per year). In the

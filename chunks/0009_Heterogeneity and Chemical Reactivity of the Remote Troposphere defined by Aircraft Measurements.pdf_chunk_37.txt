@@ -1,0 +1,8 @@
+of the core species needed for reactivity calculations. ATom,
+with a full suite of reactive species and proﬁling through the
+Atlantic basin, provides a wealth of chemical statistics that
+challenge the global chemistry models.
+Our task here is the assembly of the modeling data stream
+(MDS), which provides ﬂight-wise continuous 10 s data (air
+parcels) for the key reactive species. The MDS is based on
+direct observations and interpolation methods to ﬁll gaps as

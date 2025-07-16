@@ -1,0 +1,11 @@
+Atmos. Chem. Phys., 12, 12211–12225, 2012
+12220
+Ø. Hodnebrog et al.: Future impact of trafﬁc emissions
+Table 4. Radiative forcings (mW m−2) from changes in ozone, methane (including stratospheric water vapour), and methane-induced ozone
+(O3(CH4)) for different transport sectors and years given as ensemble means and standard deviations. Note that the history of emissions has
+been taken into account (see text for details), and that the fully scaled perturbations were used.
+AIR
+SHIP
+ROAD
+O3
+CH4

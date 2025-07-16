@@ -1,0 +1,8 @@
+Anchorage and Kona in Fig. S2a in the Supplement. Some
+of the 1 s (200 m by 8 m) variability is clearly lost with 10 s
+averaging, but 10 s averaging preserves most of the variabil-
+ity. Lines in Fig. S2 demark 400 m in altitude, and most of
+the variability appears to occur on this larger, model-resolved
+scale. Figure S2b shows the 10 s reactivities during that de-
+scent and also indicates that much of the variability occurs at
+400 m scales. A more quantitative example using all the trop-

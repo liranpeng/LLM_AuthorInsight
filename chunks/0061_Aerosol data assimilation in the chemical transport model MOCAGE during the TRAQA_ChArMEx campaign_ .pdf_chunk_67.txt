@@ -1,0 +1,10 @@
+air quality. From 26 June to 11 July seven intensive obser-
+Atmos. Meas. Tech., 9, 5535–5554, 2016
+www.atmos-meas-tech.net/9/5535/2016/
+B. Siˇc et al.: Aerosol data assimilation in the CTM MOCAGE
+5541
+vation periods were conducted with the ATR-42 aircraft of
+Météo-France; atmospheric balloons (sounding and drifting)
+and ground instruments measured trace gases and aerosols.
+During the campaign, a desert dust outbreak from Africa
+transported aerosols to the Mediterranean basin. It was well

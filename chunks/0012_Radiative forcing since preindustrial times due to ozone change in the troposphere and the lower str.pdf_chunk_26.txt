@@ -1,0 +1,12 @@
+model ozone for the year 2000, and present modeled ozone
+change since preindustrial times. In Sect. 3 we present the
+results of the radiative transfer calculations, followed by con-
+cluding remarks and suggested future directions in Sect. 4.
+2
+Atmospheric composition change
+2.1
+Description of models
+We have used seven coupled chemistry-climate models
+(CCMs) and three chemical transport models (CTMs) to
+calculate atmospheric composition change since the prein-
+dustrial era (1850).

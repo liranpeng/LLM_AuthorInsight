@@ -1,0 +1,21 @@
+of the GEOS-5 atmospheric general circulation model: evolution
+from MERRA to MERRA2, Geosci. Model Dev., 8, 1339–1356,
+https://doi.org/10.5194/gmd-8-1339-2015, 2015.
+MOPITT Science Team: MOPITT/Terra Level 3 Gridded Monthly
+CO
+(on
+a
+latitude/longitude/pressure
+grid)
+derived
+from
+Thermal
+Infrared
+Radiances,
+version
+6,
+Hampton,
+VA,
+USA, NASA Atmospheric Science Data Center (ASDC),
+https://doi.org/10.5067/TERRA/MOPITT/DATA305, 2013.
+Novelli, P., Masarie, K., Lang, P., Hall, B., Myers, R., and

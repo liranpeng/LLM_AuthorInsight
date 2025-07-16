@@ -1,0 +1,8 @@
+Residual normalization is more justifiable for prognostic variables (which are both inputs and outputs)
+than for diagnostic variables. Hence, we attempted to apply residual scaling only to prognostic
+variables, but this leads to slightly larger time-mean biases than also rescaling diagnostic variables.
+I
+Ablations
+I.1
+Normalization
+Note that neither of the models used in this ablation (Figure 13) have the same configuration as the

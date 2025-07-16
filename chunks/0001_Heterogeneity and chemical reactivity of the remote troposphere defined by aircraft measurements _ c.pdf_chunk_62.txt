@@ -1,0 +1,11 @@
+27 %
+25 %
+21 %
+26 %
+27 %
+27 %
+27 %
+27 %
+25 %
+Global includes all ATom-1 parcels, Paciﬁc considers all measurements over the Paciﬁc Ocean from 53◦S to 60◦N, and Atlantic uses parcels from 53◦S to 60◦N over
+the Atlantic Ocean. All parcels are weighted inversely by the number of parcels in each 10◦latitude by 100 hPa bin and by cosine(latitude). Results from MDS-0 are

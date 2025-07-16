@@ -1,0 +1,8 @@
+choice of the control variable is essential when the model
+prognostic and the observed quantities differ as in the case
+of AOD. The differences in our systems are the number of
+bins to which the increment is repartitioned (11 bins for
+ﬁve species in Benedetti et al., 2009 and 24 bins for four
+species in our system) and the assimilation method (4-D-
+VAR against 3-D-FGAT). Benedetti et al. (2009) derived the
+matrix B using the NMC (National Meteorological Center)

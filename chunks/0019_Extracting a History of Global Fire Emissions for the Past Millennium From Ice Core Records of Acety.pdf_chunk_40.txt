@@ -1,0 +1,7 @@
+et al., 2005; Mischler et al., 2009; Sapart et al., 2012). Inferring emissions
+from methane isotopic measurements and methane concentration
+requires knowledge of the isotopic end‐member values for each source.
+These are known for the modern atmosphere (Schwietzke et al., 2016),
+but there may be climate or ecology induced changes in end‐member
+values on centennial or millennial time scales (Sowers, 2010). Changes
+to the δ13C of atmospheric CO2 due to industrialization has also altered

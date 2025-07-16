@@ -1,0 +1,9 @@
+13, 285–302, https://doi.org/10.5194/acp-13-285-2013, 2013.
+Jin, Z., Qiao, Y., Wang, Y., Fang, Y., and Yi, W.: A new parame-
+terization of spectral and broadband ocean surface albedo, Opt.
+Express, 19, 26429–26443, 2011.
+Kendon, E. J., Roberts, N. M., Senior, C. A., and Roberts, M. J.: Re-
+alism of rainfall in a very high-resolution regional climate model,
+J. Climate, 25, 5791–5806, https://doi.org/10.1175/JCLI-D-11-
+00562.1, 2012.
+Kim, H. C., Lee, P., Ngan, F., Tang, Y., Yoo, H. L., and Pan,

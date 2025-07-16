@@ -1,0 +1,8 @@
+built by Zhang et al. (2008) in the Naval Research Lab-
+oratory’s (NRL) Aerosol Analysis and Prediction System
+(NAAPS), by Niu et al. (2008) in the Chinese Uniﬁed Atmo-
+spheric Chemistry Environment – Dust (CUACE/Dust) sys-
+tem, and by Liu et al. (2011) in the National Centers For
+Environmental Prediction’s (NCEP) Weather Research and
+Forecasting-Chemistry/Goddard Chemistry Aerosol Radia-
+tion and Transport/Gridpoint Statistical Interpolation (WRF-

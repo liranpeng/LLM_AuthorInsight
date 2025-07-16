@@ -1,0 +1,8 @@
+S., Buchard, V., Conaty, A., da Silva, A. M., Gu, W., Kim, G.-
+K., Koster, R., Lucchesi, R., Merkova, D., Nielsen, J. E., Par-
+tyka, G., Pawson, S., Putman,W., Rienecker, M., Schubert, S. D.,
+Sienkiewicz, M., and Zhao, B.: The Modern-Era Retrospective
+Analysis for Research and Applications, Version 2 (MERRA-2),
+J. Climate, 30, 5419–5454, https://doi.org/10.1175/JCLI-D-16-
+0758.1, 2017.
+Guth, J., Josse, B., Marécal, V., Joly, M., and Hamer, P.: First im-

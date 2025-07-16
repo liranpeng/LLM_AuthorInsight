@@ -1,0 +1,5 @@
+or interhemispheric exchange. We see agreement across the models in SH STE using QBO composites, but 
+the annual cycles are discordant. Thompson, Chevallier, et al. (2014) recorded widespread disagreement 
+of N2O seasonality in the SH among six different models. We find here that the annual STE cycle in the 
+SH is substantially different among three standard meteorological models (MERRA-2, ERA-Interim, ECM-
+WF-IFS), while in the NH it is essentially the same.

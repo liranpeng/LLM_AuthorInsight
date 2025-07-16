@@ -1,0 +1,4 @@
+the asymmetry factor, see Table 2), and likewise reduce the scattering optical depth. The reduction in cloud 
+optical depth applies only to the scattering optical depth τsca, while the absorbing τabs is unchanged. These 
+δ-scaling methods are chosen to avoid the unphysical negative phase functions that result from truncation 
+of the Legendre series. The 8-stream in Solar-J does not use delta-M scaling because early tests showed that

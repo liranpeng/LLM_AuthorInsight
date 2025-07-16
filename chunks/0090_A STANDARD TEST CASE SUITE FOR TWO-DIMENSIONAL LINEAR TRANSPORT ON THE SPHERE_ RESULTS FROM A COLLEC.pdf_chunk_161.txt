@@ -1,0 +1,9 @@
+show that there is not necessarily a correlation between “optimal”
+convergence rate and “minimal” resolution.
+resolution is the average resolution at the Equator, the reg-
+ular latitude–longitude grids have more degrees of freedom
+than cubed-sphere and icosahedral grid-based models. In this
+discussion we have not considered how amenable spherical
+grids and schemes are to mesh-reﬁnement applications.
+3.3
+“Filament” preservation diagnostic ℓf: cosine bells

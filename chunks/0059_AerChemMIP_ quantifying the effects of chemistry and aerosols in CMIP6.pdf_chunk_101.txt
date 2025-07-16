@@ -1,0 +1,10 @@
+measures. SSP3-7 does run out until 2100 as part of Sce-
+narioMIP but, to save computation expense, AerChemMIP
+is only requesting simulations out to 2055. This is the time
+period over which the divergence in air quality policies is
+expected to be largest.
+3.2.1
+Transient future coupled ocean
+The two transient future coupled-ocean experiments start
+in January 2015 from the end of the historical simula-
+tion and are run for 41 years (to December 2055) fol-

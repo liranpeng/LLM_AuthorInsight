@@ -1,0 +1,8 @@
+very broadened, but generally supports the large-cloud-effect
+models. If further analysis can tighten the CAFS rlnJ distri-
+bution, then we may be able to discriminate among the mod-
+els in one of the classes. One robust result from the models is
+that large cloud effects (|rlnJ| > 0.05) are always asymmetric,
+splitting in sign above and below 900 hPa. If the symmetric
+spread in CAFS rlnJ remains robust with additional deploy-
+ments and efforts to reduce CAFS-TUV inconsistencies, then

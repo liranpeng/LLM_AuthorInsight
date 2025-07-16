@@ -1,0 +1,8 @@
+measurements of methane, its isotopes, and related gases
+to interpret the methane history. Two new publications
+(24, 25) combine these complementary data into a consis-
+tent Bayesian modeling framework and use advanced sta-
+tistical methods to match all observations simultaneously
+subject to the prior constraints. Notably, they advance our
+understanding of what could have caused the variability.
+The similarities and differences of optimal solutions that

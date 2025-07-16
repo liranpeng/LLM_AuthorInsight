@@ -1,0 +1,7 @@
+included in the ensemble NOx emissions are introduced as NO. A
+clear anti-correlation exists between the seasonality of O3 and NO
+due to titration of O3 under high NOx conditions. The magnitude of
+the seasonal variability is determined by the photochemical activity
+of each of the sub-regions, and the seasonality of biogenic and
+biomass burning NOx emissions. Peaks in near-surface O3 occur
+during boreal summertime in Western Europe, Eastern US, East

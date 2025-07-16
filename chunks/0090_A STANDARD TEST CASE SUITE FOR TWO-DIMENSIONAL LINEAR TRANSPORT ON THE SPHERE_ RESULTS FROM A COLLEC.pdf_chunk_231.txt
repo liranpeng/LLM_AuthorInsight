@@ -1,0 +1,8 @@
+ﬁnite-volume schemes, the coupling between air mass and
+tracer mass must be considered in divergent ﬂow settings
+(see, for example, Sect. 2.1 in Nair and Lauritzen, 2010).
+Hence this test case forces the modeler to consider such cou-
+pling that may otherwise not be considered when the ﬂow
+is non-divergent. That said, even for the non-divergent ﬂow
+ﬁeld, the non-preservation of a constant mixing ratio could
+be a result of inconsistent coupling between air and tracer

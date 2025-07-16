@@ -1,0 +1,5 @@
+3.2.  Cloud Absorption in the IR
+The accuracy of the calculated cloud absorption is determined by the number and spacing of the IR broad 
+bands, not the number of sub-bins or g-points in each, because models assume constant cloud optics across 
+each band. Edwards and Slingo (1996) recognized this problem and devised an ingenious spectral averaging 
+of the single-scattering albedo (SSA) of ice- and liquid-water clouds over the broad infrared bands. Their

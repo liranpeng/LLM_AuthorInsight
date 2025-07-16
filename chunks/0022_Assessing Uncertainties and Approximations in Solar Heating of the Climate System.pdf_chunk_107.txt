@@ -1,0 +1,4 @@
+tica, dry sub-tropics). The enhanced reflection is matched by reduced atmospheric absorption. Our surface 
+reflection is Lambertian (isotropic), and it is clear that having only a single zenith angle of 55° for the 
+reflected light reduces the average path length through the atmosphere for the reflected flux and results in 
+a shift from absorbed to reflected. There is also a slight increase in the downward scattered light reaching

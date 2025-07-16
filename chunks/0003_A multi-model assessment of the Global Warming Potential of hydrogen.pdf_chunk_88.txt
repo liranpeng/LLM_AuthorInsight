@@ -1,0 +1,6 @@
+must keep accurate track of the rise and fall of the chemical species perturbed by
+hydrogen. The methane chemical mode has a lifetime of 7–14 years, which means
+integration needs to be performed over 60 years to accurately account for its rise
+and decay.
+The integral over these transients in all species has been demonstrated to be
+equal to the steady-state pattern of perturbations from constant emissions scaled by

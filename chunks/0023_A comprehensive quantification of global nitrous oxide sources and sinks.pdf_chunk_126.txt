@@ -1,0 +1,7 @@
+2009 was from our calculations only.
+The estimated direct emissions from agriculture have increased 
+from 2.6 (1.8–4.1) Tg N yr−1 in the 1980s to 3.8 (2.5–5.8) Tg N yr−1 over the 
+recent decade (2007–2016, Table 1). Specifically, direct soil emission 
+from the application of fertilizers is the major source and increased at a 
+rate of 0.27 ± 0.01 Tg N yr−1 per decade (P < 0.05; Table 1). Compared with 
+the three global inventories (FAOSTAT, EDGAR v4.3.2, and GAINS), the

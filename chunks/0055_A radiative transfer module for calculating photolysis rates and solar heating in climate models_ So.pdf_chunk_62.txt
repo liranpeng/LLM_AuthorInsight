@@ -1,0 +1,8 @@
+bins combined to compare to Solar-J’s S18 bin. The incom-
+ing spectral solar irradiance is slightly different for the two
+codes and so for easier comparison we scale each of them to a
+total of 1360.8 W m−2 (Kopp and Lean, 2011). RRTMG-SW
+adopts the solar source function from Kurucz (1992), while
+Solar-J integrates high-resolution (0.05 nm) photon ﬂuxes
+(Meier et al., 1992) by wavelength to obtain the solar irra-
+diance. Clear-sky summary comparisons for the other three

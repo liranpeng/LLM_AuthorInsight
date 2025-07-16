@@ -1,0 +1,9 @@
+vehicle after de-trending the data and smoothing the data with a
+2 km Gaussian ﬁlter. The red line shows the linear regression best
+ﬁt slope of −2.3.
+surface and subsurface drifters, Wave Gliders, an AutoNaut,
+and biogeochemical Argo ﬂoats). These mapped the ocean
+down to 1000 m or more, simultaneously across both the
+Tradewind Alley and the Boulevard des Tourbillons (Fig. 2).
+These measurements have resulted in an unprecedented view
+of a large spectrum of ocean temporal and spatial scales

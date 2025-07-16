@@ -1,0 +1,7 @@
+curve. The line ﬁts for BRW and MLO are shown. The slope and standard error (SE) in units of parts per million (ppm) per decade are given
+in the legend. The SE is calculated conservatively based on the number of years rather than the number of months.
+Earth Syst. Dynam., 13, 703–709, 2022
+https://doi.org/10.5194/esd-13-703-2022
+M. J. Prather: CO2 surface variability: from the stratosphere or not?
+705
+et al., 2021; Ruiz and Prather, 2022). Here, I use the N2O

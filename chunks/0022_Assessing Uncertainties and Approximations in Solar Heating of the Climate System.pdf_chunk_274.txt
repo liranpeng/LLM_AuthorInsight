@@ -1,0 +1,6 @@
+<778 nm) and RRTMG-SW tables for other gas-phase absorption (H2O, CO2, CH4, O2) 
+in IR bands 18:27 (83 sub-bin g-points with 5 in visible and 78 in IR).  Full cloud 
+treatment includes vertical decorrelation length for cloud overlap (MAX-COR) to 
+generate independent column atmospheres (ICAs) and then 4 cloud quadrature 
+atmospheres (QCAs) to average over the ICAs.  SJ can also be run with clear-sky or 
+averaged cloud (full cloud cover in each cell as the average of cloudy and clear

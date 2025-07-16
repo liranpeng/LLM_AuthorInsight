@@ -1,0 +1,5 @@
+wavelength region to model accurately.
+To cover the 345–778 nm region, RRTMG has three broad bands and 20 total g-points (sub-bins) within 
+them. Each g-point has its own Rayleigh cross section derived from the correlated-k distribution and its own 
+O3 absorption cross section. Solar-J has only two broad bands with no sub-bins and clearly does not resolve 
+the different patterns of Rayleigh and O3 extinction, see Figure 2. Thus, we built a high-resolution-visible

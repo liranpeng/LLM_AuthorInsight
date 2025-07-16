@@ -1,0 +1,9 @@
+errors increase with larger CNs due to more of the ﬂux-area
+integrations being based on extrapolation of reconstruction
+functions.
+For CAM-FV it is observed that the large CN solution
+(CN = 1.2) has smaller absolute errors than the CN = 0.2
+simulations (Fig. 2, row 1 and 2). Although the splitting
+errors in the dimensionally split CAM-FV scheme increase
+with CN, these errors do not dominate for this test case setup.
+Semi-analytic “trajectories” were used (analytic wind evalu-

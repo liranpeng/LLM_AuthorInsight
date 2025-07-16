@@ -1,0 +1,11 @@
+fuller discussion, see Lauritzen et al. (2011b) and Erath et al.
+(2013).
+Since (semi-)Lagrangian ﬁnite-volume schemes trace La-
+grangian volumes rather than ﬂuxes through cell walls, shape
+preservation cannot be ensured using FCT and FCT-type
+limiters. Shape preservation in semi-Lagrangian ﬁnite vol-
+ume (not ﬂux form) can be accomplished via slope-limiting
+where the reconstruction function is limited to avoid spurious
+under- and overshoots.
+2.2.1
+Fully two-dimensional semi-Lagrangian

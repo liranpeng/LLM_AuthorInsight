@@ -1,0 +1,8 @@
+We recommend use of the G6/.33 MAX-COR model for
+cloud overlap with AvQCA to approximate the average pho-
+tolysis rates over the ICAs. This combination of algorithms
+best matches the exact solution for average J values at a sin-
+gle time within each FCA. Averaging J values for an air par-
+cel that includes a mix of cloudy and clear air is not the same
+as averaging the chemical reactivity across cloudy and clear.
+Nevertheless, for species with photolysis rates that are less

@@ -1,0 +1,11 @@
+The Moderate Resolution Imaging Spectroradiometer
+(MODIS) instrument on the Aqua satellite provides column
+aerosol optical thickness (AOT) data beginning in 2002. We
+use MODIS data in this analysis because they provide a rel-
+atively long data record. We use the Collection 6 level 2
+(MYD04_L2) (Levy et al., 2015) 550 nm AOT data over
+oceans aggregated into 0.5◦grid boxes and then take monthly
+means with the daily data weighted according to the quality
+assurance.
+2.3
+Model description

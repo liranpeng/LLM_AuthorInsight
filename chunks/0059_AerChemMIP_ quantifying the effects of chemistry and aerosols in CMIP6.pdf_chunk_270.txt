@@ -1,0 +1,9 @@
+doi:10.1029/2010JD014271, 2010.
+SPARC CCMVal: SPARC Report on the Evaluation of Chemistry-
+Climate Models, edited by: Eyring, V., Shepherd, T. G., and
+Waugh, D. W., SPARC Report No. 5, WCRP-132, WMO/TD-
+No. 1526, 2010.
+Stevenson, D. S., Dentener, F. J., Schultz, M. G., Ellingsen, K.,
+van Noije, T. P. C., Wild, O., Zeng, G., Amann, M., Ather-
+ton, C. S., Bell, N., Bergmann, D. J., Bey, I., Butler, T., Co-
+fala, J., Collins, W. J., Derwent, R. G., Doherty, R. M., Drevet,

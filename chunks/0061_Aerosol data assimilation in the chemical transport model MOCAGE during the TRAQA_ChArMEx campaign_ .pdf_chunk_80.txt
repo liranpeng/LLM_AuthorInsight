@@ -1,0 +1,8 @@
+grey box. Correlation, bias and root mean square error for both the
+direct model and the assimilation model run as compared to SEVIRI
+data are given in Table 2.
+MODIS and SEVIRI instruments, and it illustrates the im-
+pact of the assimilation on the modelled ﬁeld. We look at a
+longer time period in Fig. 3, which represents the time series
+of the direct and assimilation model runs and the independent
+SEVIRI observations over the western Mediterranean basin.

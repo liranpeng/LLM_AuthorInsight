@@ -1,0 +1,18 @@
+-1
+1.4
+2.5
+1.8
+1.5
+-1
+1.3
+1.2
+1
+1.3
+1.7
+2
+2
+2
+-1
+Fig. 3. Histogram of minimal resolution 1λm (upper), Ki, i = 2,∞, which are the “optimal” convergence rates for ℓ2 (middle) and ℓ∞
+(lower), for the unlimited (“un”, red) and shape-preserving (“sp”, green) versions of the schemes. The histogram is ordered monotonically
+according to 1λm for the unlimited schemes so that 1λ decreases from left to right. For schemes for which unlimited results are not

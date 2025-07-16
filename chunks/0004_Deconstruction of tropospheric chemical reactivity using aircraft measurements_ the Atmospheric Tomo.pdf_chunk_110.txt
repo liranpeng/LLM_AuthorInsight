@@ -1,0 +1,9 @@
+other species listed here. PAN and HNO3 contribute notice-
+ably to P-O3 through their slow decomposition to NOx. Ac-
+etaldehyde (CH3CHO) stands out in reducing P-O3, L-CH4,
+and L-CO, presumably from NOx to PAN conversion, with S
+ranging from −0.05 to −0.09.
+One of the most interesting features of Table 2 is the im-
+pact of O3 on its net P-O3 minus L-O3. With O3 increases,
+the sum of reactions going into L-O3 increases almost lin-
+early, while the P-O3 reactions decrease. Thus, the net sum

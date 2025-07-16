@@ -1,0 +1,8 @@
+Data synthesis
+We consider global N2O emission from land and ocean consisting of 
+natural fluxes and anthropogenic emissions estimated from bottom-up 
+and top-down approaches; however, the top-down approach cannot 
+separate natural and anthropogenic sources.
+‘Natural soil baseline’ emissions were obtained from six terres-
+trial biosphere models (Global N2O Model Intercomparison Project 
+(NMIP)16, Supplementary Tables 16, 17) and reflect a situation without

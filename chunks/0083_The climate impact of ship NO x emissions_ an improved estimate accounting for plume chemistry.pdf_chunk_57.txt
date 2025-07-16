@@ -1,0 +1,8 @@
+(Table 3). In many CTMs, the CH4 lifetime due to tropo-
+spheric OH is shorter than observed and the cause of this
+discrepancy remains unknown (e.g., Holmes et al., 2013;
+Naik et al., 2013). We ﬁnd that instant dilution produces the
+shortest CH4 lifetime of the three plume chemistry scenarios
+(9.2 yr). The more realistic treatment of ship plume chem-
+istry afforded by the parametric plume model raises the life-
+time to 9.4 yr, but the discrepancy with observations remains

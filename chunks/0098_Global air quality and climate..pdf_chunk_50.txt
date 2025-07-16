@@ -1,0 +1,8 @@
+in a positive aerosol direct eﬀect that is estimated to be between
++0.25 and +0.44 W m2 in model studies78 but potentially as
+large as +0.9 W m2 when constrained by observations.79,80
+A multi-model assessment by Koch et al.81 shows that global
+models underestimate observed aerosol absorption optical
+depth (AAOD); scaling model AAOD to match observations
+resulted in BC multi-model average direct eﬀect of +0.55 W m2.
+The absorption eﬀect of BC in liquid cloud droplets may cause

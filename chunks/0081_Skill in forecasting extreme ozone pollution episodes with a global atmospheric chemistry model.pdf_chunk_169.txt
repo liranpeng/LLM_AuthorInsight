@@ -1,0 +1,8 @@
+C., Irwin, J., Rao, S. T., Scheffe, R., Schere, K., Steyn, D., and
+Venkatram, A.: A framework for evaluating regional-scale nu-
+merical photochemical modeling systems, Environ. Fluid Mech.,
+10, 471–489, doi:10.1007/s10652-009-9163-2, 2010.
+Diem, J.: A critical examination of ozone mapping from
+a spatial-scale perspective, Environ. Pollut., 125, 369–383,
+doi:10.1016/S0269-7491(03)00110-6, 2003.
+Doherty, R. M., Heal, M. R., Wilkinson, P., Pattenden, S., Vieno,

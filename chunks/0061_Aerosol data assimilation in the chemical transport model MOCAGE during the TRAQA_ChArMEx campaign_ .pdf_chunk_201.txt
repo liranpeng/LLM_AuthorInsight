@@ -1,0 +1,8 @@
+Joly, M., and Hamer, P. D.: Modelling of primary aerosols in the
+chemical transport model MOCAGE: development and evalua-
+tion of aerosol physical parameterizations, Geosci. Model Dev.,
+8, 381–408, doi:10.5194/gmd-8-381-2015, 2015.
+Slinn, W.: Some approximations for the wet and dry removal of
+particles and gases from the atmosphere, Water Air Soil Poll., 7,
+513–543, 1977.
+Strapp, J. W., Leaitch, W., and Liu, P.: Hydrated and dried aerosol-

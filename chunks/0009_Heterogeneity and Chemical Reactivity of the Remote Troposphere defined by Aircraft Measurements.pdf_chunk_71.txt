@@ -1,0 +1,8 @@
+siders about 32 reactive gases, whereas GC and GMI have
+over 100, and F0AM has more than 600. The other major
+difference across models is photolysis, with models having
+different cloud data and different methods for calculating
+photolysis rates in cloudy atmospheres (H2018). The three
+central models (GC, GMI, UCI) in terms of their 5 d vari-
+ability (Table S9) are also most closely alike in these statis-
+tics, with rms = 20 %–30 % for L-CH4 up to 26 %–35 % for

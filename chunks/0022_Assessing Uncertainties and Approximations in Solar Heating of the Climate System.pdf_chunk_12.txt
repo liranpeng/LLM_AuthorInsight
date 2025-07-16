@@ -1,0 +1,19 @@
+from numerical or physical 
+approximations, such as 2-stream 
+scattering, can be readily minimized
+Supporting Information:
+•	 Supporting Information S1
+Correspondence to:
+J. C. Hsu,
+junoh@uci.edu
+Citation:
+Hsu, J. C., & Prather, M. J. (2021). 
+Assessing uncertainties and 
+approximations in solar heating 
+of the climate system. Journal of 
+Advances in Modeling Earth Systems, 
+13, e2020MS002131. https://doi.
+org/10.1029/2020MS002131
+Received 6 APR 2020
+Accepted 16 NOV 2020
+10.1029/2020MS002131

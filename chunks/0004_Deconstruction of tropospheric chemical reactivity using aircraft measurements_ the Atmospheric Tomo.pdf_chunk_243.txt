@@ -1,0 +1,8 @@
+Strunk, A., Bergmann, D., Cameron-Smith, P., Plummer, D. A.,
+Strode, S. A., Horowitz, L., Lee, Y. H., Szopa, S., Sudo, K., Na-
+gashima, T., Josse, B., Cionni, I., Righi, M., Eyring, V., Conley,
+A., Bowman, K. W., Wild, O., and Archibald, A.: Tropospheric
+ozone changes, radiative forcing and attribution to emissions in
+the Atmospheric Chemistry and Climate Model Intercompari-
+son Project (ACCMIP), Atmos. Chem. Phys., 13, 3063–3085,
+https://doi.org/10.5194/acp-13-3063-2013, 2013.

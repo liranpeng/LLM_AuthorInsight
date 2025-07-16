@@ -1,0 +1,9 @@
+operator learning. In International Conference on Machine
+Learning, 42390–42402 (PMLR, 2023).
+44. Meng, C. et al. On distillation of guided diffusion models. In
+Proceedings of the IEEE/CVF Conference on Computer Vision and
+Pattern Recognition, 14297–14306 (2023).
+45. Vahdat, A., Kreis, K. & Kautz, J. Score-based generative
+modeling in latent space. Advances in Neural Information
+Processing Systems 34, 11287–11302 (2021).
+Google Scholar

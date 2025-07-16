@@ -1,0 +1,8 @@
+interact with its neighbors or with externally imposed emis-
+sion sources. Effectively the CTM/CCM is initialized and run
+for 24 h without transport, scavenging, or emissions. Aerosol
+chemistry is also turned off in the A runs. This method al-
+lows each parcel to evolve in response to the daily cycle of
+photolysis in each model and be assigned a 24 h integrated
+reactivity. The instantaneous reaction rates at the time an air
+parcel is measured (e.g., near sunset at the end of a ﬂight) do

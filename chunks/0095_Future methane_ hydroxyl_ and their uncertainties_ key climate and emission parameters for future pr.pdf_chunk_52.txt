@@ -1,0 +1,8 @@
+networks provide an alternative means to evaluate possible
+errors in decay rates. With MCF concentrations about 30 ppt
+(1 ppt = 1 pmol mol−1) in 2003 and decaying at a rate of
+6 ppt yr−1, quantifying τCH4×OH anomalies of 1% requires
+measurement accuracy of 0.06 ppt or better for the monthly
+mean concentration. At all 4 collocated sites (Cape Grim,
+American Samoa, Trinidad Head, and Mace Head) we ﬁnd
+differences between the networks as large as 2 % (∼0.1 to

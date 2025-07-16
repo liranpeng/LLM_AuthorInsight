@@ -1,0 +1,12 @@
+https://doi.org/10.5194/essd-13-4067-2021
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+4088
+B. Stevens et al.: EUREC4A
+mesoscale ocean circulations on these chemical and biologi-
+cal processes.
+3.6
+Benchmarks for modeling and satellite retrievals
+The range of scales and types of processes that can presently
+be captured by both satellites and models, and the extent to
+which they were integrated into EUREC4A’s experimental
+design (see Bony et al., 2017), allows EUREC4A to address

@@ -1,0 +1,4 @@
+affect the EXP-RAN results. SH2010 find that the Tripleclouds versus binary clouds is a larger effect (−6 W 
+m2). We support the SH2010 results that cloud overlap is major uncertainty in current models.
+Unfortunately, Solar-J coding is not flexible enough to run RRTMG-style, McICA-like calculations. Thus 
+we compare the two codes, each using their best simulation of MAX-RAN clouds: RRTMG v4.0 (MAX-RAN

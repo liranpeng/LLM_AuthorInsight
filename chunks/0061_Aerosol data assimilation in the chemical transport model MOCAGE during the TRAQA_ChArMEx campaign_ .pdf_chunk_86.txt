@@ -1,0 +1,16 @@
+1
+RMSE
+SEVIRI
+20875
+0.83
+0.14
+0.17
+0.96
+0.08
+0.09
+Figure 4. Scatter plots of aerosol optical depths (where colours
+represent the number of points) from the independent observation
+dataset (SEVIRI) and the simulations: the direct model run (a) and
+the assimilation model run (b). In each panel, correlation (ρ), ab-
+solute bias (1), root mean square error (RMSE) and standard devi-
+ation (σ) are noted. The included data correspond to the period of

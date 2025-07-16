@@ -1,0 +1,5 @@
+results provide an important baseline for comparing the microphysical and macrophysical 
+structure of the stratocumulus clouds sampled during CSET.
+VOCALS did not extend into the trade-wind cumulus regime downwind of the main Sc 
+deck. Much of the early observational work on small cumuli in the trade wind boundary 
+layer was conducted using in situ aircraft observations. But there are inherent limitations to

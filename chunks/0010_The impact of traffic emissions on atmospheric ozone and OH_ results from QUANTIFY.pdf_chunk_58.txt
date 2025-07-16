@@ -1,0 +1,8 @@
+spheric chemistry studies (Savage et al., 2004; Law et al.,
+2000, 1998). Convective transport was based on the mass
+ﬂux parameterization of Tiedtke (1989). The parametriza-
+tions includes descriptions of deep and shallow convection
+with convective updrafts and largescale subsidence, as well
+as turbulent and organized entrainment and detrainment. The
+model contains a nonlocal vertical diffusion scheme based on
+the parameterization of Holtslag and Boville (1993).

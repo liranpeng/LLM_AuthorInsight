@@ -1,0 +1,8 @@
+in climate models and evaluating its systematic errors re-
+mains an active research topic (Li et al., 2015; Barker et al.,
+2015). The errors are mostly from the inadequacy of using
+a single angle to represent the scattering of cloud particles
+and aerosols. For example, the anisotropic, forward-peaked
+scattering of all relevant atmospheric aerosols and cloud par-
+ticles cannot be represented with the two-stream approach,
+and all scattering must be reduced to isotropic. To address

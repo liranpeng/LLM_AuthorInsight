@@ -1,0 +1,40 @@
+pospheric ozone, J. Geophys. Res.-Atmos., 114, D06102,
+https://doi.org/10.1029/2008JD010942, 2009.
+Hsu,
+J.
+and
+Prather,
+M.
+J.:
+Is
+the
+residual
+vertical
+ve-
+locity
+a
+good
+proxy
+for
+stratosphere-troposphere
+ex-
+change of ozone?, Geophys. Res. Lett., 41, 9024–9032,
+https://doi.org/10.1002/2014GL06199, 2014.
+Hsu,
+J.,
+Prather,
+M.
+J.,
+and
+Wild,
+O.:
+Diagnosing
+the
+stratosphere-to-troposphere
+ﬂux
+of
+ozone
+in
+a
+chemistry
+transport model, J. Geophys. Res.-Atmos., 110, D19305,

@@ -1,0 +1,8 @@
+cluding clouds and local solar zenith angles (SZAs) for each
+measurement. Not all of the models could run with 2016 me-
+teorology, and thus we asked for a day in mid-August and
+treat that (rightly or wrongly) as typical of the cloud statis-
+tics during ATom-1. The meteorological dates are listed in
+Table 1. This simpliﬁcation made it possible to attract large
+participation, but of course it limits the ability to claim that
+the model statistics are a robust climatology. ATom ﬂights

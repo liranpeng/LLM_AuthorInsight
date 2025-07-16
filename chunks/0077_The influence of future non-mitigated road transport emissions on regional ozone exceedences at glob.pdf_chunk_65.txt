@@ -1,0 +1,7 @@
+mixing ratios of O3 by between 1 and 3 ppb. The differences in the
+ER values between 2025 and 2050 are predominantly due to the
+changes which occur across the different transport sectors (c.f.
+Table 2), where the NTS component remains almost constant.
+Compared to 2025 the maximal ER values decrease by w0.1 and the
+area of exceedence falls to w31% of the total regional area shown.
+Therefore, although the increase in the number of grid cells for

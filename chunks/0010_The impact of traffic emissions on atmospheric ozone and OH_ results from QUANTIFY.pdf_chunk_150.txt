@@ -1,0 +1,9 @@
+42 mWm−2 DU−1 from IPCC (2001). Together these lead
+to a methane-induced ozone radiative forcing which is 0.42
+times the methane radiative forcing. This method assumes
+that the methane change is in equilibrium with the change in
+OH, which will require several decades of constant emissions
+to achieve.
+The mean “net” forcing from the three components (Ta-
+ble 8) is positive for road and aviation and negative for ship-
+ping, as also found by Fuglestvedt et al. (2008). However,

@@ -1,0 +1,10 @@
+land NOx and methane feedback – have changed little since
+the IPCC TAR, on which MAGICC is based. The parametric
+model and MAGICC will differ in socioeconomic and cli-
+mate scenarios where other emissions, ozone, or lightning
+drive τCH4×OH changes.
+6
+Methane global warming potential
+Global Warming Potentials (GWP) are useful for compar-
+ing the radiative forcing (RF) caused by emissions of var-
+ious GHGs having different absorbances and atmospheric

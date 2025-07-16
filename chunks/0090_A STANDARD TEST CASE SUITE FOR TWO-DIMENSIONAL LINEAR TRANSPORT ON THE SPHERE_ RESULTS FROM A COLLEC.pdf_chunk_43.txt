@@ -1,0 +1,9 @@
+to integrate a polynomial of degree K2, only integration of
+polynomials of degree K is needed.
+For most applications it is important that the progno-
+sis of mixing ratio φ does not introduce spurious oscilla-
+tions and/or unphysical values such as negative mixing ra-
+tios. Schemes that guarantee “physical” solutions in this
+sense are referred to as “shape-preserving” (sp). The en-
+forcement of shape preservation in ﬂux-form schemes can
+be done by adjusting the ﬂuxes. A very popular algorithm

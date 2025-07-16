@@ -1,0 +1,6 @@
+Table 2 for details of the individual model set up and model description below.
+Radiative forcing calculations. Because methane is held ﬁxed in PERT_H2, the
+experiment with 10% increase in methane surface concentrations (PERT_CH4)
+allows us to estimate the impact of hydrogen on surface concentrations of methane.
+From CTRL and PERT_H2 we directly diagnose the loss of methane through the
+CH4 + OH reaction, and the lifetime of methane due to OH, combined with a

@@ -1,0 +1,8 @@
+prevents ready quantitative assessment of model errors. If
+station observations are used to generate an observed ozone
+product that is directly comparable to what a model predicts,
+viz. the average O3 concentration in a grid cell, then geo-
+graphic patterns and statistics of the pollution episodes can
+be readily and commensurably tested. In Sect. 2, we present
+our new algorithm for mapping the individual station data
+onto cell averages on a regular grid. As part of this analysis

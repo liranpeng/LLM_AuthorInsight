@@ -1,0 +1,10 @@
+drop off the list because their abundances in much of the re-
+mote mid-ocean regions will have fallen below the relevance
+threshold.
+3
+Modeling the reactivity of air parcels
+Why use the global models instead of single-box models
+to calculate reactivity statistics? There are several reasons.
+For one, these CTMs–CCMs simulate the full meteorology
+including cloud cover and its variation over large regions,
+which is a critical component of reactivity. Second, they usu-

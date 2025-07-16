@@ -1,0 +1,10 @@
+Ice-water and liquid-water clouds have real refractive indices
+that differ by at most 5 %, and imaginary refractive indices
+that differ typically by a factor of 2 (except for S27). The
+cause of this difference in speciﬁc absorption is the ratio of
+mass (which controls absorption) to surface area (which con-
+trols optical depth), i.e., it is proportional to re, and ice-water
+clouds typically have 4 times greater re.
+2.3
+Test cases: clear-sky, clouds, and the optical
+properties

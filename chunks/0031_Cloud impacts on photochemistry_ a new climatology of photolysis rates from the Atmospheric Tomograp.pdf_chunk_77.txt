@@ -1,0 +1,8 @@
+deﬁne nearly cloud-free conditions as being within ±2.5 %
+of clear-sky Js, and show the frequency of these with the
+length of the thin line in the center of the plots. Starting with
+the J-O1D in the upper tropical Paciﬁc, we ﬁnd ﬁve models
+(Group 1: GC, GFDL, GMI, GISS, UKCA) show no effect
+of clouds more than 50 % of the time. The other 40–50 %
+of the time, they show enhanced J-O1D, cloud brightening
+expected from clouds below (thick lines on the right side of

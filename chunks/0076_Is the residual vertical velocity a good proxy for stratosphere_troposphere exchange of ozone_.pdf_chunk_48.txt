@@ -1,0 +1,4 @@
+averaged over years 2000–2006 with magnitude contoured by colors and directions shown in arrows (see main and
+supplementary texts for details). (d) Seasonal cycle of hemispherically integrated ozone ﬂuxes across 100 hPa (in Tg/yr).
+Solid lines are estimates using the monthly mean vertical residual velocity multiplied by the corresponding monthly
+mean ozone abundances w∗O3. The dashed lines are the exact simulated CTM ﬂuxes wO3 across the same level. Both

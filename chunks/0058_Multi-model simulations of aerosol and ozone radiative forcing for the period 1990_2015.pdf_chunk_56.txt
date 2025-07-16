@@ -1,0 +1,8 @@
+ﬁve models, excluding CESM-CAM5 and ECHAM, are
+shown in Fig. 6b. CESM-CAM5 and ECHAM both have di-
+rect aerosol effect very close to the model mean. All ﬁve
+models have a positive total aerosol effect at the end of
+the 1990–2015 time period, but the magnitudes vary sub-
+stantially from near zero to +0.2 W m−2. The direct aerosol
+effect causes part of this spread, but the aerosol–cloud in-
+teraction is the major cause. Using the ECLIPSE emission

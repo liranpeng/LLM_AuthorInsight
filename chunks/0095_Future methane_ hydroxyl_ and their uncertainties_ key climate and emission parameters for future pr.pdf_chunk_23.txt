@@ -1,0 +1,7 @@
+MEGAN Guenther et al. (2006).
+b Land, ship, and aviation components are 26, 5.4, and 0.85 Tg(N) yr−1, respectively.
+c Average biomass burning for 1997–2009. Emissions for individual years are 3.3–6.1 Tg(N) yr−1 and
+263–605 Tg(CO) yr−1.
+d Average for 1997–2009 in UCI CTM and Oslo CTM3. Emissions for individual years are 4.8–5.4 Tg(N) yr−1.
+GEOS-Chem has 5.7–6.4 Tg(N) yr−1 (average 6 Tg(N) yr−1) over 2004–2009.
+τCH4×OH low by about 10 % (Bian et al., 2003; Martin et

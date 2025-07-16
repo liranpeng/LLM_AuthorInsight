@@ -1,0 +1,7 @@
+NASA Author Manuscript
+NASA Author Manuscript
+NASA Author Manuscript
+horizontal cloud and precipitation inhomogeneity that a cloud radar and lidar combination 
+can provide (e. g. Bretherton et al. 2010b; Wood et al. 2011b).
+LES models have become a robust tool for Lagrangian simulations of subtropical cloudiness 
+transitions, but there are few good datasets for comprehensively testing these simulations. In

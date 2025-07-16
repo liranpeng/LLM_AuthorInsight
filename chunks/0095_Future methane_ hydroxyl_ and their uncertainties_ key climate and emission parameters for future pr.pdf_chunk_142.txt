@@ -1,0 +1,9 @@
+ferences in global τCH4×OH anomalies between networks can
+partially be explained by small discrepancies (∼0.1 ppt) in
+the monthly mean methyl chloroform concentrations at col-
+located measurement sites.
+We quantitatively explain τCH4×OH variability in the
+CTMs with 5 climate and emission variables: air temper-
+ature, water vapor, ozone column, biomass burning emis-
+sions, and lightning NOx emissions. A parametric model
+built on these 5 factors reproduces 90 % of the variability

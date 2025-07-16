@@ -1,0 +1,7 @@
+per simulated day.
+4
+Conclusions and future work
+This work demonstrates the potential of deep learning for skillful and fast climate model emulation.
+100x speed-up in run time and 100x greater energy efficiency could democratize the use of climate
+models, open new research avenues and potentially reduce energy usage. However, there are
+additional steps before this system is a useful climate model [8]. Generalizability is a key challenge.

@@ -1,0 +1,10 @@
+sponsorship of the National Science Foundation. The work by
+LLNL was performed under Contract DE-AC52-07NA27344
+and used the computing resources of NERSC, which is
+supported by the Oﬃce of Science (BER) of the U.S. Dept.
+of Energy under Contract DE-AC02-05CH11231.
+References
+1 S. C. Anenberg, L. W. Horowitz, D. Q. Tong and J. J. West,
+Environ. Health Perspect., 2010, 118, 1189–1195, DOI: 10.1289/
+ehp.0901220.
+2 F. Raes and J. H. Seinfeld, Atmos. Environ., 2009, 43, 5132–5133.

@@ -1,0 +1,9 @@
+forecasting (2023). 2307.10128.
+2. Pathak, J. et al. FourCastNet: A global data-driven high-
+resolution weather model using adaptive fourier neural
+operators. arXiv preprint arXiv:2202.11214 (2022).
+3. Bonev, B. et al. Spherical fourier neural operators: Learning
+stable dynamics on the sphere. International conference on
+machine learning. 2806–2823 (PMLR, 2023).
+4. Bi, K. et al. Accurate medium-range global weather
+forecasting with 3d neural networks. Nature 1–6 (2023).

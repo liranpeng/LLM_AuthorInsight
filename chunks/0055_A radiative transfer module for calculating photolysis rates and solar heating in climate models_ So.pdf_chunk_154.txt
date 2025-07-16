@@ -1,0 +1,8 @@
+in a full atmosphere–ocean climate simulation to be 1–3 %,
+then replacing it with Solar-J (5 times greater) and includ-
+ing cloud quadrature (2.8 times greater), would increase this
+to 13–39 %. At the lower end of this range, the substantially
+improved and less noisy physics is probably worth it, but at
+the upper end it is prohibitive. In either case, it is worthwhile
+to pursue a range of computer science and algorithmic ap-
+proaches to reduce these costs as discussed in Sect. 4.2 and

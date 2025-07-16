@@ -1,0 +1,8 @@
+ferent cloud data and different methods for calculating pho-
+tolysis rates in cloudy atmospheres (H2018). The three cen-
+tral models (GC, GMI, and UCI) in terms of their 5 d vari-
+ability (Table S9) are also most closely alike in these statis-
+tics, with rms = 20 %–30 % for L-CH4 up to 26 %–35 % for
+P-O3. These rms values appear to be about as close as any
+two models can get. The intra-model rms for different years
+(UCI 2016 versus 1997) is 10 %–13 % and shows that we

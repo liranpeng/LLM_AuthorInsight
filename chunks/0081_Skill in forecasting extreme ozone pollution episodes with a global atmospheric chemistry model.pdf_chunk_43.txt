@@ -1,0 +1,21 @@
+¯Z (X) =
+25
+X
+i=1
+w∗
+i · Zi
+, 25
+X
+i=1
+w∗
+i
+(4)
+We do not report ( ¯Z)(X) for grid boxes where over half of
+the interior points Z(xi) are zero.
+2.2
+Quality of prediction and the interpolation mask
+The interpolation procedure should be limited to the region
+being modeled and where a reliable prediction can be made.
+We begin with a desired mask of 1◦× 1◦cells and then check
+if the interpolation is adequate. For the US, we use the land-
+mass of the contiguous states (CONUS) and include ocean

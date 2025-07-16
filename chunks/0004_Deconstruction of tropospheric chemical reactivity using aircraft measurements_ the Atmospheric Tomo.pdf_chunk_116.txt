@@ -1,0 +1,8 @@
+tant factors (e.g., Table 2 of Holmes et al., 2013), these quan-
+tities have often been relegated to the physical climate system
+and are not often thought of a major source of model error
+in the chemical system. Thus, when we diagnose the future
+tropospheric O3 or CH4 from the multi-model comparisons
+(Stevenson et al., 2013; Voulgarakis et al., 2013; Young et
+al., 2018; Grifﬁths et al., 2021), we need to document biases
+Earth Syst. Sci. Data, 15, 3299–3349, 2023

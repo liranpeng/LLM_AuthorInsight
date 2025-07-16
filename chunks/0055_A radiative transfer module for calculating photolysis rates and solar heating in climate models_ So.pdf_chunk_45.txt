@@ -1,0 +1,15 @@
+and
+SWatt
+in
+W m−2),
+and
+Rayleigh
+cross
+sections
+(XRayl cm2) are summarized in Table 1. The spectral prop-
+erties for examples of liquid-water clouds (re = 12 µm),
+ice-water clouds (re = 48 µm, cold, hexagonal), background
+stratospheric 70 wt % sulfuric acid aerosols, and volcanically
+enhanced stratospheric aerosols for each Solar-J bin are given
+in Table 2. This table gives wavelength data for the real
+and imaginary refractive indices based on the ﬂux-weighted

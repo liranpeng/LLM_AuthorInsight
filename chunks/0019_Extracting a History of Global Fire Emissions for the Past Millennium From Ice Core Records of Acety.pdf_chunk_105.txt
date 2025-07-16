@@ -1,0 +1,6 @@
+with savanna/grassland emission ratios and all burning in South America. In this case, there is only one
+scenario in which all three inferred dry matter burned histories agree within estimated uncertainties
+(Figure 7). This is the case where ethane and methane have no geologic emissions and a high
+chlorine sink.
+4.2.2. Sensitivity to Assumptions About Biofuel Emissions
+The modern‐day distribution of biofuel emissions used in our calculations may not reﬂect the preindustrial

@@ -1,0 +1,10 @@
+together describe the state of the atmosphere, the ocean and
+cryosphere, and land surfaces including essential biosphere
+and carbon cycle parameters.
+Speciﬁc attention should be devoted to the CFMIP Ob-
+servation Simulator Package (COSP), which AerChemMIP
+models are encouraged to install. To facilitate the exploita-
+Geosci. Model Dev., 10, 585–607, 2017
+www.geosci-model-dev.net/10/585/2017/
+W. J. Collins et al.: AerChemMIP: quantifying the effects of chemistry and aerosols in CMIP6
+597

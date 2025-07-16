@@ -1,0 +1,9 @@
+mospheric sampling of all the key species and the statistics
+deﬁning their spatial variability and thus that of the reactivi-
+ties of CH4 and O3.
+Many studies have explored the ability of chemistry trans-
+port models (CTMs) to resolve ﬁner scales such as pol-
+lution layers (Eastham and Jacob, 2017; Rastigejev et al.,
+2010; Tie et al., 2010; Young et al., 2018; Zhuang et al.,
+2018), but these have not had the chemical observations
+(statistics) to evaluate model performance. In a great use of

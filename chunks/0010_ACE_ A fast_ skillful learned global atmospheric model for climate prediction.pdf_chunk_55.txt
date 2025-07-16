@@ -1,0 +1,15 @@
+ranges from 0 to 7 starting at the top of atmosphere and increasing towards the surface. The Time
+column indicates whether a variable represents the value at a particular time step (“Snapshot”),
+the average across the 6-hour time step (“Mean”) or a quantity which does not depend on time
+(“Invariant”). “TOA” denotes “Top Of Atmosphere”, the climate model’s upper boundary.
+Prognostic (input and output)
+Symbol
+Description
+Units
+Time
+Tk
+Air temperature
+K
+Snapshot
+qT
+k

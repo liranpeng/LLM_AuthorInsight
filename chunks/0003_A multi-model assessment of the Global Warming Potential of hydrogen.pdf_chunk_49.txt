@@ -1,0 +1,9 @@
+ARTICLE
+COMMUNICATIONS EARTH & ENVIRONMENT | https://doi.org/10.1038/s43247-023-00857-8
+6
+COMMUNICATIONS EARTH & ENVIRONMENT |  (2023) 4:203 | https://doi.org/10.1038/s43247-023-00857-8 | www.nature.com/commsenv
+Discussion
+The largest uncertainty in the estimate of GWP100 of hydrogen is
+the soil sink. This removal is modulated by soil temperature, soil
+moisture, and the activity of hydrogen-oxidizing bacteria34–36.
+Published global soil removal numbers range from 55 to

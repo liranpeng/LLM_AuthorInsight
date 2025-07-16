@@ -1,0 +1,11 @@
+adopts all RRTMG’s bands longwards of 778 nm (see text for details).
+RRTMG-SW. Section 4 examines computational costs for
+Solar-J and options for optimization. Conclusions and a path
+forward are discussed in Sect. 5.
+2
+Methods: model conﬁguration and test cases
+2.1
+Solar-J spectral conﬁguration
+The 18 bins of Cloud-J make up the ﬁrst 18 bins of Solar-
+J and were optimized for calculating photolysis rates below
+64 km (Wild et al., 2000; Bian and Prather, 2002). The ﬁrst

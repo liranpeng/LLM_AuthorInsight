@@ -1,0 +1,8 @@
+Ott, L. E., Pickering, K. E., Stenchikov, G. L., Allen, D. J., De-
+Caria, A. J., Ridley, B., Lin, R.-F., Lang, S., and Tao, W.-
+K.: Production of lightning NOx and its vertical distribution
+calculated from three-dimensional cloud-scale chemical trans-
+port model simulations, J. Geophys. Res.-Atmos., 115, D04301,
+doi:10.1029/2009JD011880, 2010.
+Prather, M.: Numerical advection by conservation of 2nd-order mo-
+ments, J. Geophys. Res.-Atmos., 91, 6671–6681, 1986.

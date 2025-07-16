@@ -1,0 +1,9 @@
+from the smoothed synthetic data stream derived from model
+output (50 × 50 × 1 km averages) to the high variability of in
+situ ATom observations (2 × 2 × ∼0.1 km averages).
+Based on our experience comparing models that differ
+largely by temperature and water vapor, we conclude that wa-
+ter vapor differences in CCM simulations of past and future
+atmospheres may be a major cause of the changes in O3 and
+CH4 and may lead to different chemistry-climate feedbacks
+across the models.

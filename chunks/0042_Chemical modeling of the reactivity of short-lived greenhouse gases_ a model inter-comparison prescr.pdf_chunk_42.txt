@@ -1,0 +1,10 @@
+vs. L-CH4 relationship that seems counter to known chem-
+istry in which both L-O3 and L-CH4 maximize with the high
+HOX values in the warmer, wetter, lower troposphere of the
+tropical Paciﬁc.
+3.2
+14 880 parcels
+We examine the relationship between the three reactivities in
+each model with scatter plots of P -O3 and L-CH4 against
+L-O3 in Fig. 2. Each plot has 14 880 points (5-day parcel
+means) and is split by location: 60–20◦S and 20–60◦N (extra

@@ -1,0 +1,5 @@
+Journal of Advances in Modeling Earth Systems
+use a stochastic cloud generator (e.g., Räisänen et al., 2004), and this drove the structure of our cloud over-
+lap algorithm. MAX-COR was designed to be (i) deterministic, (ii) linear in cost with increasing numbers 
+of layers, and (iii) robust when cloud data are averaged in time or space, because such averaging tends to 
+eliminate cloud-free layers and revert to MAX overlap. Based on observations of decorrelation length (Kato

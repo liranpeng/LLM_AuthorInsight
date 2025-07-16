@@ -1,0 +1,10 @@
+the limited-area domain, the equation is solved by the ﬁnite-
+difference method.
+4
+Assimilated observations
+The MODIS (Moderate-resolution Imaging Spectroradiome-
+ter) instruments observe atmospheric aerosols on board Terra
+(since 2000) and Aqua (since 2002) from complementary
+sun-synchronous orbits. The Terra overpass time is around
+10:30 local solar time at the Equator in its descending (day-
+time) node, and the Aqua overpass time is around 13:30 lo-

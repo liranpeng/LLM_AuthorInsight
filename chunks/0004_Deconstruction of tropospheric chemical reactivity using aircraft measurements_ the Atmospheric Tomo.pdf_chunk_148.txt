@@ -1,0 +1,22 @@
+0.006
+0.81
+−0.003
+−0.009
+dQ
+0.015
+−0.008
+−0.001
+−0.003
+0.46
+−0.005
+dT
+−0.009
+0.000
+0.011
+−0.008
+−0.006
+0.77
+T is temperature and was perturbed only 1 %. Q is H2O and was perturbed 10 % like all the
+chemical species. The diagonal elements are the average (Paciﬁc and Atlantic) ﬁrst-order
+sensitivities S(+dX) (see Table 2). The upper-triangular (Paciﬁc) and lower-triangular (Atlantic)
+matrices show the second-order sensitivities SXY = S(+dX+dY) −S(+dX) −S(+dY).

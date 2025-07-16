@@ -1,0 +1,9 @@
+NCAR models in Fig. 3 have larger scatter for reactivities
+than the other non-GISS models, but similar scatter in J-
+values. This effect may also contribute to the larger day-to-
+day rms, for NCAR at least, and is examined more exten-
+sively with the UCI CTM running with the T and q’s from
+both models (Sect. 3.5).
+How overwriting of the data stream’s T and q (with a
+CCM climate) impacts these results is tested with the UCI
+CTM re-running a one day (16 August 2016) data stream us-

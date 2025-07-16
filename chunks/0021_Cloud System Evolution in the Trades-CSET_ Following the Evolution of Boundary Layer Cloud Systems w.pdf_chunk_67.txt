@@ -1,0 +1,6 @@
+is identified as https://doi.org/10.5065/D6SQ8XFB. EOL Field Catalog; UCAR/NCAR - 
+Earth Observing Laboratory, 1995-present).
+Imagery from the 15th Geostationary Operational Environmental Satellite (GOES 15) 
+satellite observations (centered over 135 °W longitude) was used to define the larger-scale 
+(greater than 100 km x100 km) cloud fields using near-real-time visible and infrared images 
+(Ch1-Ch4; and high resolution; 1km x 1km visible at nadir). Cloud property fields derived

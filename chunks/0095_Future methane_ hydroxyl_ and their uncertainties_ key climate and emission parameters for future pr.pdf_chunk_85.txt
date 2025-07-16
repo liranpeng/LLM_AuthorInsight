@@ -1,0 +1,9 @@
+so that τCH4×OH is approximated by
+ln(τCH4×OH(t)) = ln(⟨τCH4×OH⟩) + 6iαi1ln(Fi(t)),
+(3)
+where Fi(t) is the time series of forcing variable i, αi is the
+sensitivity of τCH4×OH to that forcing variable (Eq. 2), and
+⟨τCH4×OH⟩is the mean lifetime in the CTM. Figure 1 shows
+the parametric model reconstruction of each CTM, along-
+side the actual calculated τCH4×OH. We ﬁnd that 5 variables
+– temperature, water vapor, column ozone, biomass burning

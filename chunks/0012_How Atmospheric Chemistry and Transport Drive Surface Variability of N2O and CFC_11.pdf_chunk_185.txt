@@ -1,0 +1,40 @@
+0.038 
+0.034 
+0.76 
+UCI F11X 
+0.058 
+0.035 
+0.82 
+UCI NH F11X 
+0.041 
+0.038 
+0.40 
+UCI SH F11X 
+0.071 
+0.031 
+0.92 
+ 
+ 
+Table S2. Correlation coefficients for N2OX versus F11X in GMI and UCI. 
+Footnotes reference the corresponding Figure for each value.  
+N2OX versus F11X Correlation Coefficients 
+GMI 
+UCI 
+Stratospheric loss*,1 
+0.38 
+0.37 
+Surface variability*,2 
+0.92 
+0.95 
+Surface mean QBO impact3 
+0.98 
+0.99 
+ 
+ 
+7 
+ 
+Surface 2010/11 QBO impact4 
+0.96 
+0.97 
+Surface annual cycle5 
+0.98

@@ -1,0 +1,7 @@
+use 8-stream scattering.
+Table 2 
+Parameters (Scaling Factor f, Asymmetry Factor g*, Scattering Optical Depth τ*sca) for Different Delta-M Scaling Methods
+Journal of Advances in Modeling Earth Systems
+Climate Modeling and Analysis (CanAM4) with 4-stream RT (Li & Ramaswamy, 1996; LBYY) appear to be 
+the most accurate scattering codes currently used in climate models.
+The number of scattering angles determines how well the scattering phase function, P(Θ), is resolved, where

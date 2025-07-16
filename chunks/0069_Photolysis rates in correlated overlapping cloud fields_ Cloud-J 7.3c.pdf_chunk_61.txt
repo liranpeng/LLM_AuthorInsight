@@ -1,0 +1,8 @@
+(loss frequencies) range from 0.03 to 20 per day and some
+vary greatly with altitude. For 9 of the 14 species shown in
+Fig. 4, the photolysis rates are larger or comparable to the
+loss rates for reaction with OH (given in the legend). Thus,
+accurate calculation of their J values is important in atmo-
+spheric chemistry models.
+VOCs present a particular problem for any photolysis code
+that averages over wavelength intervals. For most chemi-

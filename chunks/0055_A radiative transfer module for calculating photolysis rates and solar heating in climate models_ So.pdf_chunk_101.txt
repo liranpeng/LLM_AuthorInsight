@@ -1,0 +1,9 @@
+agation to the high latitudes (Hsu et al., 2013). At high lat-
+itudes, RRTMG error is in the opposite direction, resulting
+in a colder polar stratosphere with possibly stronger winter
+vortices.
+Solar-J traces the solar beam through a spherical atmo-
+sphere back to the sun. RRTMG assumes a ﬂat Earth. Both
+then calculate the subsequent scattering and absorption in
+a plane-parallel, ﬂat atmosphere, but with different solar
+source terms at each level. Solar-J is able to simulate both

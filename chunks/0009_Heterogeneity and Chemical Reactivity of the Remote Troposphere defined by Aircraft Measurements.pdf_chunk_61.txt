@@ -1,0 +1,49 @@
+Table 1. Chemistry models.
+Used for
+ID
+Model name
+Model type
+Meteorology
+Model grid
+clim
+GFDL
+GFDL-AM3
+CCM
+NCEP (nudged)
+C180 × L48
+clim, MDS-0
+GISS
+GISS-E2.1
+CCM
+Daily SSTs, nudged to MERRA
+2◦× 2.5◦× 40L
+clim, MDS-0/1
+GMI
+GMI-CTM
+CTM
+MERRA
+1◦× 1.25◦× 72L
+clim, MDS-0
+GC
+GEOS-Chem
+CTM
+MERRA-2
+2◦× 2.5◦× 72L
+clim, MDS-0
+NCAR
+CAM4-Chem
+CCM
+Nudged to MERRA
+0.47◦× 0.625◦× 52L
+clim, MDS-0/1/2
+UCI
+UCI-CTM
+CTM
+ECMWF IFS Cy38r1
+T159N80 × L60
+MDS-0
+F0AM
+F0AM
+box
+MDS + scaled ATom Js
+n/a

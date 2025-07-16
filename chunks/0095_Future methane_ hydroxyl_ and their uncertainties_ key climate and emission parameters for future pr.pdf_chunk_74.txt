@@ -1,0 +1,31 @@
+these variables impact tropospheric methane loss. Adopted
+values for each sensitivity (Table 2, right column) reﬂect the
+1998 2000 2002 2004 2006 2008 2010
+0.00
+0.01
+0.02
+0.03
+0.04
+0.05
+sensitivity, 
+d ln(           )/d ln(E)
+0.0
+0.5
+1.0
+1.5
+2.0
+CO emission, Tg/d
+60
+70
+80
+90
+100
+CO/NO, mol/mol
+sensitivity
+mean sensitivity
+CO emission
+CO/NO emission ratio
+τCH    OH
+4
+Fig. 4. Sensitivity of τCH4×OH to biomass burning emissions, E,
+in the UCI CTM. Biomass burning CO emissions and the CO/NO

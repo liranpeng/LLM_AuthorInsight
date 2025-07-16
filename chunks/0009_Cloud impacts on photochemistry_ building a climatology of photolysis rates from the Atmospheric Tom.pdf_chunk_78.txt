@@ -1,0 +1,8 @@
+the plot). For the other ﬁve models (Group 2: IFS, MOCA,
+NCAR, UCI, UCIb), these clear-sky equivalent Js occur only
+10–20 % of the time, with cloud brightening enhancements
+occurring at 80–90 %. Surprisingly, both model groups show
+the same average magnitude, +10 % (Xs on the right side),
+for their enhanced Js. Thus Group 2 models will have sys-
+tematically greater J-O1D in the upper tropical Paciﬁc than
+the Group 1 models (i.e., the 10 % enhancement occurs twice

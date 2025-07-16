@@ -1,0 +1,9 @@
+Developer Technology, and Modulus teams. This inclusive approach
+fostered a collaborative environment that values diverse disciplines
+and perspectives. Our collective effort aims to improve the
+prediction of extreme weather events, contributing to the well-being
+and safety of communities worldwide. We are committed to
+transparency and have made all code and data publicly available to
+support reproducibility and further research in this critical field.
+Peer review
+Peer review information

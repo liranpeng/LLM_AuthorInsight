@@ -1,0 +1,26 @@
+Feautrier, P.: Sur la résolution numérique de l’équation de transfert,
+Comptes Rendus Acad. Sci. Paris, 258, 3189, 1964.
+Fu,
+Q.:
+An
+Accurate
+Parameterization
+of
+the
+Solar
+Ra-
+diative
+Properties
+of
+Cirrus
+Clouds
+for
+Climate
+Mod-
+els, J. Climate, 9, 2058– 2082, https://doi.org/10.1175/1520-
+0442(1996)009<2058:AAPOTS>2.0.CO;2, 1996.
+Fu, Q. and Liou, K. N.: On the correlated k-distribution method
+for radiative transfer in nonhomogeneous atmospheres, J. Atmos.
+Sci., 49, 2139–2156, 1992.
+Gerber,
+H.:

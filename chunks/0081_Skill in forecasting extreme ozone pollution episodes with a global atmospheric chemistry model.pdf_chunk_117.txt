@@ -1,0 +1,8 @@
+and evaluate CCMs. This approach holds promise given that
+one global CTM has skill in hindcasting speciﬁc years and
+events in spite of some large systematic errors in surface O3
+abundance. Here we seek to develop climate records for sur-
+face O3 over the US and EU that can be used to improve
+both CTMs and CCMs and to develop conﬁdence in CCM
+projections of changing air quality in a warming climate.
+First, we develop statistics for the basic cycles of O3 over

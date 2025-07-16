@@ -1,0 +1,4 @@
+and ethane were limited to two possible conditions: (1) 0 or (2) the high end of the range permitted by radio-
+carbon measurements of ice core methane (Dyonisius et al., 2020; Hmiel et al., 2020; Petrenko et al., 2017).
+For acetylene, we assumed a maximum geologic emission of 0.5 Tg year−1 during the preindustrial based on
+results from Nicewonger et al. (2020), although there is no quantitative evidence to suggest the geologic acet-

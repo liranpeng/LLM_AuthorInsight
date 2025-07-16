@@ -1,0 +1,8 @@
+Table 2 shows the statistics corresponding to this ﬁgure. The
+two desert dust events in the ﬁgure are highlighted with high
+values of AOD (> 0.25). The ﬁrst, stronger dust outbreak in-
+creases AOD values during 4 to 5 days over the region (from
+27 June to 1 July). Its extent is well simulated in the model
+direct run, but its intensity is underestimated (Fig. 2). The as-
+similation produced ﬁelds that are closer to the SEVIRI ob-
+servations. The second desert dust event occurs at the end of

@@ -1,0 +1,8 @@
+statistics of the means and extremes, altitude mean proﬁles,
+and probability densities. In Sect. 4, we analyze the sensi-
+tivities of the reactivities to each of the observed species
+for ATom-1. These sensitivities identify those critical species
+where a model bias will introduce large errors into the O3 and
+CH4 budgets. In Sect. 5, we examine the impacts of MDS-3
+on these analyses, and we introduce probability densities for
+some critical species as a possible model metric. In Sect. 6,

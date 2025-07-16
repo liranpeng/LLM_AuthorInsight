@@ -1,0 +1,10 @@
+observed around 29 June with several different instruments
+(Attié et al., 2016).
+5.3.1
+PCASP
+In our study, we use the data measured by the passive cavity
+aerosol spectrometer probe (PCASP), which was on board
+the ATR-42 aircraft. The PCASP measures the aerosol con-
+centration and the aerosol size distribution with its 30 chan-
+nels (Strapp et al., 1992). PCASP measures particles with
+diameters from 0.1 to 3 µm, with channel ranges, calibra-

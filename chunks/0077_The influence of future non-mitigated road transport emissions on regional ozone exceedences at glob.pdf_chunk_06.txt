@@ -1,0 +1,4 @@
+in RTE NOx estimates shows by 2025 that differences of 0.2e0.3 Tg N yr1 occur for most of the world
+regions between the A1B and A1B_HIGH estimates, except for Asia where there is a larger difference of
+w1.4 Tg N yr1. For 2050 these differences fall to w0.1 Tg N yr1, with shipping emissions becoming as
+important as RTE. Analysing the seasonality in near-surface O3 from the multi-model ensemble

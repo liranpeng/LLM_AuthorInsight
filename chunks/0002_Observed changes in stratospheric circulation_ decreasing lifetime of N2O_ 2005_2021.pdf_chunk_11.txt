@@ -1,0 +1,8 @@
+from the Goddard Earth Sciences Data and Information Ser-
+vices Center in the form of V5 Level-3 monthly binned pro-
+ﬁles from August 2004 through December 2021 (Lambert et
+al., 2021; Schwartz et al., 2021a, b). All data are averaged
+over the 72 longitude bins. There are 43 latitude proﬁles ev-
+ery 4◦(84◦S to 84◦N). Pressure levels range from 100 to
+0.001 hPa with logarithmic spacing, and the resolution de-
+pends on the MLS quantity. The very few negative O3 values

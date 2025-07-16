@@ -1,0 +1,4 @@
+Linoz v3.0 with prognostic O3-N2O-NOy-CH4 chemistry [Hsu and Prather, 2010] and with surface abun-
+dances of long-live tracers ﬁxed at year 2000 level. We also include two tracers: e90 to deﬁne the tropopause
+[Prather et al., 2011] and age-of-air as the mean age of an air mass since entering the stratosphere [Waugh
+and Hall, 2002]. Two sets of T42L60 ECMWF-IFS data are used: 3 h averaged meteorological data at ∼2.8◦

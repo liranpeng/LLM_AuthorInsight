@@ -1,0 +1,5 @@
+2Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91011, USA
+Correspondence: Michael J. Prather (mprather@uci.edu)
+Received: 14 September 2022 – Discussion started: 27 September 2022
+Revised: 15 December 2022 – Accepted: 16 December 2022 – Published: 18 January 2023
+Abstract. Using Aura Microwave Limb Sounder satellite observations of stratospheric nitrous oxide (N2O),

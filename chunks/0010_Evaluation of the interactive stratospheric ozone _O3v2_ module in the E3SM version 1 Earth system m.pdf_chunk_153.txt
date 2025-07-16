@@ -1,0 +1,8 @@
+pospheric ozone decrease due to the Mount Pinatubo eruption:
+Reduced stratospheric inﬂux, Geophys. Res. Lett., 40, 5553–
+5558, https://doi.org/10.1002/2013GL056563, 2013.
+Tang, Q., Klein, S. A., Xie, S., Lin, W., Golaz, J.-C., Roesler, E.
+L., Taylor, M. A., Rasch, P. J., Bader, D. C., Berg, L. K., Cald-
+well, P., Giangrande, S. E., Neale, R. B., Qian, Y., Riihimaki, L.
+D., Zender, C. S., Zhang, Y., and Zheng, X.: Regionally reﬁned
+test bed in E3SM atmosphere model version 1 (EAMv1) and ap-

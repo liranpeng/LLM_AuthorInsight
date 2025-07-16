@@ -1,0 +1,6 @@
+rapid adjustment to microphysical properties such as liquid water content or cloud
+fraction is taken into account. For aerosols we report RF and not ERF.
+Calculation of ﬂuxes and budgets. For calculations of AGWP we calculated the
+hydrogen ﬂux needed to sustain the 10% increase in surface concentrations of
+hydrogen. As for methane, this is calculated as the difference in the ﬂux (lifetime
+divided by the burden) in PERT_H2 and CTRL. The models calculate the atmo-

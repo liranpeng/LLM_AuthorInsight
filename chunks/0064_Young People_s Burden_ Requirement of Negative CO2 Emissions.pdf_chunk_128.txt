@@ -1,0 +1,12 @@
+function (Hansen, 2008)
+T (t) =
+tZ
+1850
+R(t −t′)[dF(t′)/dt′]dt′ + Fv × R(t −1850),
+(1)
+where R(t′) is the product of equilibrium global climate sen-
+sitivity and the dimensionless climate response function (per-
+cent of equilibrium response), dF(t′)/dt′ is the annual in-
+crement of the net forcing, and Fv is the negative of the
+average volcanic aerosol forcing during the few centuries
+preceding 1850. Fv × R(t) is a small correction term that

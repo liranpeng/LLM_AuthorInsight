@@ -1,0 +1,8 @@
+al., 2006] have shown that mean model results compare
+better with observations than any individual model, the
+focus in this paper is on the multi-model mean.
+[5] The results have been used to calculate source-receptor
+relationships, defined as the response of the deposition of
+NOy in a receptor region to a perturbation in the NOx
+emission from a source region. Such source-receptor rela-
+tionships provide useful information for policy makers

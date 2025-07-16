@@ -1,0 +1,6 @@
+transport (Nevison et al., 2005; Park et al., 2012).
+5.  Conclusions
+This work expands the MLS N2O lifetime record from 2005–2010 to 2005–2018, providing more than a dec-
+ade of observations with which to test models. Despite small biases in total loss rates, we show that three 
+chemistry-transport models using different meteorological fields can simulate the observed stratospheric 
+variability of N2O induced by the QBO. With this capability, we follow the stratospheric signals down to

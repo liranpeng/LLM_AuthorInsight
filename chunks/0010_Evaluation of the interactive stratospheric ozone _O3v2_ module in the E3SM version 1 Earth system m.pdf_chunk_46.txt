@@ -1,0 +1,8 @@
+back to tropical levels by 60◦. The SD and SCO provide a test
+of the interannual variability in the stratospheric circulation.
+All simulations overestimate the SD of anomalies near the
+Equator, while ﬂuctuating around the observation over the
+extratropics, especially in the Northern Hemisphere (NH).
+UCI CTM greatly (20 %) overestimates SD in the tropics
+and is consistently higher at all latitudes. Both EAM versions
+match well in the tropics and northern latitudes but underes-

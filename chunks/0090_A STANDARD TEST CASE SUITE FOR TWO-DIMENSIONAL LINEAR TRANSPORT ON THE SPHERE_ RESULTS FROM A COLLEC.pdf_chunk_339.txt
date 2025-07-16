@@ -1,0 +1,9 @@
+brid Eulerian-Lagrangian numerical scheme for solving prognos-
+tic equations in ﬂuid dynamics, Geosci. Model Dev., 6, 2023–
+2047, doi:10.5194/gmd-6-2023-2013, 2013.
+Kent, J., Jablonowski, C., Whitehead, J. P., and Rood, R. B.: Down-
+scale cascades in tracer transport test cases: an intercomparison
+of the dynamical cores in the Community Atmosphere Model
+CAM5, Geosci. Model Dev., 5, 1517–1530, doi:10.5194/gmd-5-
+1517-2012, 2012.
+Kent, J., Ullrich, P., and Jablonowski, C.: Dynamical Core Model

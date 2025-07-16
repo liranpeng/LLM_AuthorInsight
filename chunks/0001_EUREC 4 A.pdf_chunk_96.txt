@@ -1,0 +1,8 @@
+ature of near-surface air isentropically lifted from the surface; the
+slope discontinuity at the lifting condensation level (690 m) marks
+the shift from an unsaturated to a saturated isentrope. The tempera-
+ture difference between the sea surface and the lower atmosphere is
+taken from Saildrone data.
+density difference between the near-surface air and air satu-
+rated at the skin temperature of the underlying ocean can be
+attributed to variations in the speciﬁc humidity.

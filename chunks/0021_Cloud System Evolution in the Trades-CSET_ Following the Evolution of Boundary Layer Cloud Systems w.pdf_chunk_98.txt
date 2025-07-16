@@ -1,0 +1,5 @@
+the outbound RF10 (27 July 2015) and the inbound RF11 (29 July 2011) flight sequences 
+discussed earlier (Fig. 3) are shown in Figs. 7a and 7b. The changes in the boundary layer 
+depth with longitude are shown clearly by the HCR and HSRL returns along the outbound 
+flight in Fig. 7a where the depth increases from about 0.5 km to 1.2 km from 124° to 130° 
+W. From 130° to 137 °W the boundary layer depth is nearly constant at a height of about 1.2

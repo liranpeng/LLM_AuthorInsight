@@ -1,0 +1,4 @@
+Even when the ice cloud is fully characterized, the RT solution remains difficult and approximations are 
+numerous, for example, RRTMG primarily uses a Fu (1996) parameterization for optical depth, single scat-
+tering albedo, and asymmetry parameter. Solar-J inherited the Cloud-J photolysis method for ice clouds in-
+cluding effective diameters (Heymsfield et al., 2003) and T-matrix scattering phase functions (Mishchenko

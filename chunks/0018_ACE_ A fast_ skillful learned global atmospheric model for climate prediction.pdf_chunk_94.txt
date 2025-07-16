@@ -1,0 +1,7 @@
+are weighting it more strongly, a large (about 50%) decrease in 1-step RMSE is seen for ps. We
+also see a large improvement for 5-day RMSE, and smaller improvement for time-mean RMSE of
+ps. Notably, even though the USWRFtoa variable is weighted less heavily in the loss function (see
+Figure 12) its 5-day RMSE is substantially improved with residual scaling. We believe this is because
+the improved autoregressive performance of ps leads to more accurate predictions for other variables
+also.
+16

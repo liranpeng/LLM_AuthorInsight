@@ -1,0 +1,4 @@
+m−2. When we mix 2-stream versus 8-stream (RRTMG vs. SJ/Mie, red line in Figure S1), the profile errors 
+are large and oscillate. While the column mean difference is small in this case, the rms difference is as large 
+as the worst case δ-0. In high solar latitudes (50°S–70°S and 30°N–50°N in January) where SZA remains 
+large at all hours, the monthly mean averages have consistent errors of 1–2 W m−2 at the surface (Figure 1c).

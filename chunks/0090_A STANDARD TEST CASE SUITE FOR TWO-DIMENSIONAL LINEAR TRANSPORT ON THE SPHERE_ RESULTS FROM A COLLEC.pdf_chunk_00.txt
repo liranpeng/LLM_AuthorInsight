@@ -1,0 +1,10 @@
+Geosci. Model Dev., 7, 105–145, 2014
+www.geosci-model-dev.net/7/105/2014/
+doi:10.5194/gmd-7-105-2014
+© Author(s) 2014. CC Attribution 3.0 License.
+Geoscientific
+Model Development
+Open Access
+A standard test case suite for two-dimensional linear transport on
+the sphere: results from a collection of state-of-the-art schemes
+P. H. Lauritzen1, P. A. Ullrich11, C. Jablonowski2, P. A. Bosler2, D. Calhoun3, A. J. Conley1, T. Enomoto4, L. Dong5,

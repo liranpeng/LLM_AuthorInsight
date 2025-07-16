@@ -1,0 +1,4 @@
+because MAX-COR does not shift to random overlap if there is a gap in one layer. Both models show that 
+increased reflection is balanced by reduced surface heating, with little change in atmospheric heating. A 
+direct comparison is not possible since SH2010 did not calculate EXP-RAN for binary clouds. SH2010s EXP-
+RAN appears to separate cloud layers more than the MAX-COR sub-groups, but their Tripleclouds may also

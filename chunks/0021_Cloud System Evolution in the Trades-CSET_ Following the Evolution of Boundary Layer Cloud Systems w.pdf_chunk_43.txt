@@ -1,0 +1,5 @@
+water droplets were obtained using an optical array probe (OAP 2-D Precipitation Probe and 
+a 3-D CPI). The second generation Holographic Detector for Clouds (HOLODEC: Fugal 
+and Shaw, 2009; Spuler and Fugal, 2011) was a new instrument used on the GV to size 
+cloud and drizzle droplets (in the range of about 6 um to 1 mm) and to determine the three-
+dimensional position of hydrometeors using digital in-line holography. The unique aspects

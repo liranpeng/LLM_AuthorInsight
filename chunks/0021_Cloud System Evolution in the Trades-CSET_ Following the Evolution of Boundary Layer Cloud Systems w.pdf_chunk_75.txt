@@ -1,0 +1,5 @@
+forecasts used for the outbound planning comprised a swarm of 28 forward planetary 
+boundary layer constant height trajectories made using the 12 UTC 0.25° forecast from the 
+day before flight. The initial points for the 28 trajectories were chosen using the current 
+GOES satellite visible imagery to identify areas of cloud transition and were prepared for 
+the mission planning meetings that were held afternoon before an outgoing flight from

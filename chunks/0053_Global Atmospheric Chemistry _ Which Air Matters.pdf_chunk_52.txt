@@ -1,0 +1,9 @@
+For example, OH and HO2 are radical HOx species whose
+abundances directly determine the rates of Reactions (1)–
+(3). Nevertheless, these are not key species as their abun-
+dances can be initialized to zero and are rapidly reset in sec-
+onds to a temporary steady state with ﬁrst sunlight or chang-
+ing clouds through Reactions (3c, d) among others (Rohrer
+www.atmos-chem-phys.net/17/9081/2017/
+Atmos. Chem. Phys., 17, 9081–9102, 2017
+9086

@@ -1,0 +1,8 @@
+the corresponding tagged CO model output will be available from
+the ORNL DAAC at https://doi.org/10.3334/ORNLDAAC/1604
+(Strode et al., 2018). MOPITT data are available at https://eosweb.
+larc.nasa.gov/datapool (MOPITT Science Team, 2013). MLS data
+are available from https://mls.jpl.nasa.gov/ (Schwartz et al., 2015).
+MODIS aerosol data are available from https://modis.gsfc.nasa.gov/
+data/dataprod/mod04.php (Levy et al., 2015).
+Supplement. The supplement related to this article is available

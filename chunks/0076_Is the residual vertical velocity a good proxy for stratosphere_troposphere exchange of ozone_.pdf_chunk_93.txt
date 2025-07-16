@@ -1,0 +1,5 @@
+D08301, doi:10.1029/2005JD006338.
+Strahan, S. E., et al. (2011), Using transport diagnostics to understand chemistry climate model ozone simulations, J. Geophys. Res., 116,
+D17302, doi:10.1029/2010JD015360.
+Tang, Q., M. J. Prather, and J. Hsu (2011), Stratosphere-troposphere exchange ozone ﬂux related to deep convection, Geophys. Res. Lett.,
+38, L03806, doi:10.1029/2010GL046039.

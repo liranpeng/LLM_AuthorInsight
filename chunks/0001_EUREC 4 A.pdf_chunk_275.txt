@@ -1,0 +1,13 @@
+characterize surface wind speed and rain rate
+Wave radar
+Wide Swath Radar Altimeter, ProSensing Inc., 80 beams to 30◦, 16 GHz (Ku band) to characterize the
+ocean surface wave state
+Infrared radiometer
+Heitronics KT19.85, measuring infrared brightness temperature in the atmospheric window (9.6 to
+11.5 µm)
+Particle sizer
+Measuring particle sizes from 0.5 to 50 µm
+Cloud droplet probe
+Measuring cloud droplets size from 2 to 50 µm
+Particle imager
+Measuring cloud and rain drops from 12.5 to 1550 µm

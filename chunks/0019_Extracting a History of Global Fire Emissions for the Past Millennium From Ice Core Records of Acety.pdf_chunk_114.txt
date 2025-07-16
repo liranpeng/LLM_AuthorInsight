@@ -1,0 +1,4 @@
+in the acetylene and ethane dry matter burned histories is from scenarios in which ethane has a large chlor-
+ine sink, consistent with recent modeling work by Wang et al. (2019). This suggests that chlorine plays an
+important role in the global ethane budget and should be included in future analyses. The history of atmo-
+spheric hydrocarbons in polar ice clearly contains a wealth of useful information about the history of burn-

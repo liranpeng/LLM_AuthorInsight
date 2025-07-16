@@ -1,0 +1,14 @@
+As for O3, ROAD will have a reduced impact on atmospheric
+OH in the future, and cause a relative change in CH4 lifetime
+of only 0.33 % in 2050.
+Radiative
+forcing
+calculations,
+taking
+into
+account
+changes in O3, CH4 and CH4-induced O3, show that the fu-
+ture impact of AIR will increase for all RF terms, but that
+the magnitude of change is largely dependent on the emis-
+sion scenario with a net RF ranging from −0.54 ± 4.6 (B1
+ACARE) to 12 ± 11 mW m−2 (A1B) in 2050. SHIP will also

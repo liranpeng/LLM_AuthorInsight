@@ -1,0 +1,8 @@
+the background error variance and a percentage of each mea-
+sured AOD for the observation error variance. From the pub-
+lished MODIS uncertainties we estimated the percentage for
+the errors of the (“super-”)observations to be 12 %. Further,
+we used the χ2 diagnostics to estimate optimal values for the
+B error variances (Ménard et al., 2000; Talagrand, 2003). The
+χ2 test is an a posteriori diagnostic, which allows us to check
+that the errors are properly speciﬁed. It checks whether, for

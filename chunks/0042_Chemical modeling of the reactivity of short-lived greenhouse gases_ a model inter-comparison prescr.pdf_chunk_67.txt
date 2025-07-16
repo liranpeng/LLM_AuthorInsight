@@ -1,0 +1,6 @@
+are plotted in the following order with the most disperse points being ﬁrst for visibility: NCAR, GFDL, GISS, GC, UCI. GSFC. The model
+colors throughout this paper are consistent, but the order of plotting is shown in the legend.
+are in determining the total. For most models, these reactivity
+curves are remarkably similar and fall within the range seen
+for ﬁve different days with the same model (UCI, Fig. S5, Ta-
+ble S5). Focusing on the upper 10 %, the outliers are unusual

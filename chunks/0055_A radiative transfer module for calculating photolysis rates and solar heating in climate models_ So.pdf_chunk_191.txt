@@ -1,0 +1,8 @@
+3703, https://doi.org/10.1364/AO.39.003691, 2000.
+Kurucz, R.: Synthetic infrared spectra, in Infrared Solar Physics,
+IAU Symp. edited by: Rabin, D. M. and Jefferies, J. T., Kluwer,
+Acad., Norwell, MA, 154, 1992.
+Lacis, A. A. and Oinas, V.: A description of the correlated k distri-
+bution method for modeling nongray gaseous absorption, ther-
+mal emission, and multiple scattering in vertically inhomoge-
+neous atmospheres, J. Geophys. Res.-Atmos., 96, 9027–9063,

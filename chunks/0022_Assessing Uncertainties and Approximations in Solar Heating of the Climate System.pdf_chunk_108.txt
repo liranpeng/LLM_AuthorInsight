@@ -1,0 +1,7 @@
+the surface with only one angle. We looked at the B2015 case studies, but could find no corroboration since 
+HSU AND PRATHER
+10.1029/2020MS002131
+11 of 24
+Journal of Advances in Modeling Earth Systems
+they used black surfaces. We did find this pattern in the direct comparison of SJ/δ1with RRTMG (Figure 4, 
+row iv) where RRTMG's 2-stream code also picks out the high albedo land masses with enhanced reflection.

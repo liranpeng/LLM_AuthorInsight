@@ -1,0 +1,10 @@
+doi:10.1029/2004JD004999, 2004.
+Köpke, P., Hess, M., Schult, I., and Shettle, E.: Global aerosol data
+set, Tech. Rep. MPI Report No 243, Max-Planck-Institut für Me-
+teorologie, Hamburg, Germany, 1997.
+Atmos. Meas. Tech., 9, 5535–5554, 2016
+www.atmos-meas-tech.net/9/5535/2016/
+B. Siˇc et al.: Aerosol data assimilation in the CTM MOCAGE
+5553
+Lamarque, J.-F., Bond, T. C., Eyring, V., Granier, C., Heil, A.,
+Klimont, Z., Lee, D., Liousse, C., Mieville, A., Owen, B.,

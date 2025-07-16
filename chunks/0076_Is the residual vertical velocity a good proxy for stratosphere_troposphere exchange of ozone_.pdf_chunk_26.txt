@@ -1,0 +1,5 @@
+horizontal resolution and ∼1 km vertical resolution in the lower stratosphere; IFS Cycle 29r1 (C29 here-
+after) data for years 2000–2006 and IFS Cycle 36r1 (C36 hereafter) for years 2000–2007. Each simulation
+is ﬁrst spun up for 10 years by recycling year 2000 meteorology. Changes in parameterization and assim-
+ilation processes made for each cycle of ECMWF-IFS can be found at http://www.ecmwf.int/en/forecasts/
+documentation-and-support/changes-ecmwf-model.

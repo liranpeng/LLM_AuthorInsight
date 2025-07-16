@@ -1,0 +1,10 @@
+ECHAM model also simulates the same features, using dif-
+ferent chemistry and emissions that include biogenic vari-
+ations (Montzka et al., 2011). Oslo CTM3 has the least
+variability (0.65 % for σ/mean), while GEOS-Chem with
+MERRA meteorology has the most (1.1 %). The common
+features, as well as differences in their magnitude, are ex-
+plained below by a small number of processes (Sect. 3.3).
+3.1
+Methyl chloroform comparison
+Two global measurement networks have recorded the growth

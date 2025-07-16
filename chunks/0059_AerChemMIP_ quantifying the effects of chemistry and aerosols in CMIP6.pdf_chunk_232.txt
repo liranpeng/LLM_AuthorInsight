@@ -1,0 +1,8 @@
+Cycle Model Intercomparison Project: experimental protocol for
+CMIP6, Geosci. Model Dev., 9, 2853–2880, doi:10.5194/gmd-9-
+2853-2016, 2016.
+Kinne, S., Schulz, M., Textor, C., Guibert, S., Balkanski, Y., Bauer,
+S. E., Berntsen, T., Berglen, T. F., Boucher, O., Chin, M., Collins,
+W., Dentener, F., Diehl, T., Easter, R., Feichter, J., Fillmore, D.,
+Ghan, S., Ginoux, P., Gong, S., Grini, A., Hendricks, J., Herzog,
+M., Horowitz, L., Isaksen, I., Iversen, T., Kirkevåg, A., Kloster,

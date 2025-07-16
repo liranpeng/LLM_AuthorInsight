@@ -1,0 +1,8 @@
+and 75th percentiles; and maximum in monthly mean August
+CO for each region over the 2000–2016 period for MOPITT
+(CO column and CO at 700 hPa) and 2004–2016 for MLS
+(CO at 215 hPa). The corresponding time series are shown in
+Fig. 10. The variability in CO BB emissions from the Global
+Fire Emissions Database version 4 (GFEDv4) (van der Werf
+et al., 2017) for 2000–2016 is also shown for BB regions that
+may affect the ATom ﬂights. The BB emissions are averaged

@@ -1,0 +1,21 @@
+columns refer to the speciﬁcations for concentrations (CH4, N2O and CFC/HCFC) or emissions (aerosol and ozone precursors). “Hist”
+means the concentrations or emissions should evolve as for the CMIP6 historical simulation; a year means the concentrations or emissions
+should be ﬁxed to that year. Three ensemble members are requested for each experiment.
+Experiment ID
+Minimum model
+CH4
+N2O
+Aerosol
+Ozone
+CFC/HCFC
+Tier
+conﬁguration
+precursors
+precursors
+hist-piNTCF
+AOGCM AER
+Hist
+Hist
+1850
+1850
+Hist

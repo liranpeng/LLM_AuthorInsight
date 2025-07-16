@@ -1,0 +1,9 @@
+(IAV)
+One of the major goals for the ATom campaign is to produce
+a climatology based on unbiased, representative samples
+(Prather et al., 2017). It is therefore important to consider
+whether August 2016 is a “typical” boreal summer/austral
+winter month. Prather et al. (2018) found differences of
+8–10 % in the chemical reactivity of model-simulated air
+parcels when considering other years compared to 2016. We
+focus here on the temporal representativeness of the ATom-

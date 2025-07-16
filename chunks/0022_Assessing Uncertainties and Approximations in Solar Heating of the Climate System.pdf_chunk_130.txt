@@ -1,0 +1,4 @@
+et al., 2004) for the visible (∼600 nm) using two cloud types (pure hexagonal crystals used for T ≤ −40°C, 
+and irregular crystals used for warmer ice clouds). Solar-J's use of a scattering phase function across all 
+wavelengths has minimal error for highly scattering wavelengths (SSA > 0.9) because the ice crystal effec-
+tive diameters are much larger than the wavelength, and thus the asymmetry parameter g is nearly constant

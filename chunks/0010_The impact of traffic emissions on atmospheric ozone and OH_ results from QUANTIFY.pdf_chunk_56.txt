@@ -1,0 +1,10 @@
+was prescribed at ≈2. Tg[N]/year. Biogenic sources were
+calculated with the vegetation model ORCHIDEE. Oceanic
+emissions were taken from Folberth et al. (2005).
+3.3
+OsloCTM2
+The Oslo CTM2 model is a 3-D chemical transport model
+driven by ECMWF meteorological data and extending from
+the ground to 10 hPa in 40 vertical layers. The horizontal
+resolution for this study was Gaussian T42 (2.8◦×2.8◦). The
+model was spun up for several years with emissions from

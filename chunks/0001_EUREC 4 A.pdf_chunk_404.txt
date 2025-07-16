@@ -1,0 +1,8 @@
+https://doi.org/10.5194/essd-12-2919-2020, 2020.
+Chelton, D. B. and Xie, S.-P.: Coupled Ocean-Atmosphere Interac-
+tion at Oceanic Mesoscales, Oceanography, 23, 52–69, 2010.
+Chelton, D. B., Esbensen, S. K., Schlax, M. G., Thum, N., Freilich,
+M. H., Wentz, F. J., Gentemann, C. L., McPhaden, M. J., and
+Schopf, P. S.: Observations of Coupling between Surface Wind
+Stress and Sea Surface Temperature in the Eastern Tropical Pa-
+ciﬁc, J. Climate, 14, 1479–1498, https://doi.org/10.1175/1520-

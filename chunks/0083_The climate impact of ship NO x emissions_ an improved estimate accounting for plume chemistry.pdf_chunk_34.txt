@@ -1,0 +1,8 @@
+[CH4] = 1.76 ppm is the global-mean CH4 mole fraction in
+2000, f is the CH4 feedback factor that prolongs the life-
+time of CH4 perturbations, S = 1.15 is the enhancement of
+FCH4 due to CH4-derived stratospheric water vapor (Myhre
+et al., 2007), and a = 0.34 ± 0.13 describes the perturba-
+tions to O3 abundance and RF that accompany global CH4
+changes. The a term derives from a literature survey of mul-
+tiple CTMs and radiative transfer models (see SI and Holmes

@@ -1,0 +1,8 @@
+the context of atmospheric/oceanographic sciences) Galerkin
+methods. Discretization grids range from traditional regular
+latitude–longitude grids to more isotropic domain discretiza-
+tions such as icosahedral and cubed-sphere tessellations of
+the sphere. The schemes are evaluated using a wide range
+of diagnostics in idealized ﬂow environments. Accuracy is
+assessed in single- and two-tracer conﬁgurations using con-
+ventional error norms as well as novel diagnostics designed

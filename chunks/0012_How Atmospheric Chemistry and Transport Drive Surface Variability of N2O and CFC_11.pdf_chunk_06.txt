@@ -1,0 +1,5 @@
+hemisphere (SH), all three models disagree and thus provide no guidance, except for indicating that 
+modeling annual STE in the SH remains a major model uncertainty. Parallel model simulations of 
+CFCl3, which has greater stratospheric loss that N2O and possibly surreptitious emissions, show that 
+its interannual variations parallel those of N2O, and thus the observed N2O variability can identify the 
+stratospheric component of the observed CFCl3 variability.

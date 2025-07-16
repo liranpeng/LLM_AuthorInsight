@@ -1,0 +1,11 @@
+to nine interfaces (Table 2) corresponding to eight finite volume vertical layers. The nine interfaces
+were chosen to have a vertical coordinate that corresponds closely to the one in the SPEEDY model
+[12]. The uppermost two layers correspond to the stratosphere while the lowermost layer is roughly
+a boundary layer average. The following equation, using temperature T as an example, is used to
+transform all 3D variables from the 63-layer to 8-layer vertical coordinate:
+T k =
+1
+dpk
+Ik+1
+X
+i=Ik

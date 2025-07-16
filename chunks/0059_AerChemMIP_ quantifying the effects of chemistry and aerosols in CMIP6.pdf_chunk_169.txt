@@ -1,0 +1,8 @@
+AOTs at different wavelengths, and deposition rates (includ-
+ing wet and dry deposition of nitrates and sulfates, dust, and
+BC). The hourly and 6-hourly model output (contained in
+aerhourly and aer-6h tables) is requested speciﬁcally for the
+DECK AMIP simulations (1979–2014) and is not needed
+for other experiments. The other variables are included as
+being essential for forcing, feedback, chemistry–climate in-
+teractions and air quality analysis. Outputting such variables

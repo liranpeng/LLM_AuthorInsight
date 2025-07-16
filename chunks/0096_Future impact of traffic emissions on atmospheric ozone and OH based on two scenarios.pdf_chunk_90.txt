@@ -1,0 +1,6 @@
+and the net RF (bottom row) as mean (coloured bars) and standard deviation (error bars) of the six models in the ensemble. Note that the
+time-history of emissions and the stratospheric water vapour effect have been taken into account.
+are that higher NRFs (18–19 % higher) and ozone enhance-
+ment efﬁciencies (25–63 % higher) were used in their study.
+The scaling approach of Lee et al. (2009) yielded even
+higher aircraft-induced O3 RF for 2050, with a range 59–

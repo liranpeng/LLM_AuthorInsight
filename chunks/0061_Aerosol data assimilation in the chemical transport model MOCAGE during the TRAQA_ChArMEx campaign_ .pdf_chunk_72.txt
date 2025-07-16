@@ -1,0 +1,8 @@
+is referred to as the direct model run and the simulation with
+assimilation as the assimilation model run. The simulated pe-
+riod for which we evaluate the model performance is for 19
+days from 25 June until 13 July 2012. The model is run after
+a spin-up period of 45 days, where the last 10 days for the
+assimilation model run are the so-called assimilation spin-
+up. The assimilation cycles in the experiment have a length
+of 1 h. The cost function is minimized until the convergence

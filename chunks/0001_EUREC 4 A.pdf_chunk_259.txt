@@ -1,0 +1,12 @@
+10 m intervals)
+Wave height sensor
+Xeos Brizo measuring surface wave height and period (every 60 min, with a 20 min sample interval
+each hour)
+Acoustic Doppler current meter
+Nortek Aquadopp ADCM recording horizontal velocity every 20 min (on mooring line at 5.7 and
+13 m)
+Current proﬁler
+Nortek Aquapro proﬁler measuring horizontal velocity proﬁle every 60 min (on mooring line at 24 m,
+uplooking)
+Acoustic Doppler current
+proﬁler

@@ -1,0 +1,8 @@
+instrument evaluation, Atmos. Meas. Tech. Discuss., 8, 1203–
+1259, doi:10.5194/amtd-8-1203-2015, 2015.
+Rubin, J. I., Reid, J. S., Hansen, J. A., Anderson, J. L., Collins, N.,
+Hoar, T. J., Hogan, T., Lynch, P., McLay, J., Reynolds, C. A., Ses-
+sions, W. R., Westphal, D. L., and Zhang, J.: Development of the
+Ensemble Navy Aerosol Analysis Prediction System (ENAAPS)
+and its application of the Data Assimilation Research Testbed
+(DART) in support of aerosol forecasting, Atmos. Chem. Phys.,

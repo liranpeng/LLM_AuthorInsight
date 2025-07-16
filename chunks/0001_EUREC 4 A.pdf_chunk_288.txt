@@ -1,0 +1,8 @@
+Cloud cameras
+Upward all-sky visible images and upward 30◦ﬁeld-of-view thermal images, both at 0.1 Hz
+Sun photometer
+MICROTOPS sun photometer capturing at sun views the solar attenuation at 380, 440, 670, 870,
+and 940 nm to derive column properties of aerosol optical depth (AOD) at these wavelengths and the
+atmospheric water vapor content
+Atmospheric mast
+A meteorological station WXT-500, a 3D wind anemometer Gill HS-50, a CNR4 radiometer for di-

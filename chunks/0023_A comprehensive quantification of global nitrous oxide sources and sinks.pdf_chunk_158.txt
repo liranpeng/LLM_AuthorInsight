@@ -1,0 +1,8 @@
+land—is critical for accurately simulating soil N2O emissions. Third, 
+national and global N2O flux measurement networks17 could be used 
+to validate model performance and to constrain large-scale model 
+simulations. Data assimilation techniques could be used to improve 
+model accuracy.
+Current remaining uncertainty in global ocean model estimates of 
+N2O emission includes the contribution of N2O flux derived from the 
+tropical oceanic low oxygen zones (for example, the eastern Equatorial

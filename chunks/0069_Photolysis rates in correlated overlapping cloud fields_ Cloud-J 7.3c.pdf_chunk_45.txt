@@ -1,0 +1,14 @@
+Select 3 ICAs at random
+3
++2 %
++1 %
+12 %
+12 %
+9 %
+12 %
+a Average number of ICAs for a tropical atmosphere; see Fig. 2. b Recommended cloud-overlap model and reference model for calculation of errors.
+and have clouds only in the lowermost 36 layers. Proﬁles of
+temperature and ozone are taken from tropical mean obser-
+vations; the Rayleigh-scattering optical depth at 600 nm is
+about 0.12, and a mix of aerosol layers has a total optical
+depth of 0.23. J value errors are calculated separately for

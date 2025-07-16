@@ -1,0 +1,9 @@
+from each transport sector.
+It should be noted that the CTMs used here have a rather
+coarse grid resolution, and previous studies have shown that
+ozone formation may be overestimated when the emissions
+from e.g., aircraft and shipping are instantly diluted in a
+Atmos. Chem. Phys., 12, 12211–12225, 2012
+www.atmos-chem-phys.net/12/12211/2012/
+Ø. Hodnebrog et al.: Future impact of trafﬁc emissions
+12215

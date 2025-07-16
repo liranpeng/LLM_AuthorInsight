@@ -1,0 +1,8 @@
+following settings: bandpass frequency (yr−1) range [0.20
+0.80]; bandpass applied forward and backward is aver-
+aged; ImpulseResponse = iir; Steepness = 0.85. A wider ﬁl-
+ter, e.g., [0.16 0.95], produced similar results for the mid-
+dle years but large swings for the beginning and end years.
+IAV signals derived from frequency ﬁltering for the last 2–
+3 years of the record are not robust. The resulting bandpass
+IAV (thick black line in Fig. 1c) clearly shows the patterns

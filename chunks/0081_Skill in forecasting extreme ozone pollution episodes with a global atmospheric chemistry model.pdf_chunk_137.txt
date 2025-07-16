@@ -1,0 +1,43 @@
+(µ) and standard deviation (σ) of the annual values over the decade are given. Correlation coefﬁcients (R2) are deﬁned with respect to the
+number of AQX events per year. Using the stations’ redundancy weightings derived here gives a slightly greater R2, but still less than that
+for the gridded O3.
+Unit
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+µ ± σ
+R2
+US
+AQX events
+No.
+13.5
+11.5
+16.5
+15.0
+4.6
+11.2
+13.3
+8.1
+4.6
+1.7
+10.0 ± 5.0
+1.00
+( ¯S)
+104 km2d
+618
+373
+1239
+581
+82
+435
+515
+186
+70
+32

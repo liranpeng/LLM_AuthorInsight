@@ -1,0 +1,5 @@
+2050, there is no real improvement in peak O3 levels. By normalizing the seasonal ensemble means of
+near-surface O3 (0e500 m) with the recommended European Commission (EC) exposure limit to derive
+an exceedence ratio (ER), we show that ER values greater than 1.0 occur across a wide area in the
+Northern Hemisphere for boreal summer using the year 2000 emissions. When adopting the future
+A1B_HIGH estimates, the Middle East exhibits the worst regional air quality, closely followed by Asia.

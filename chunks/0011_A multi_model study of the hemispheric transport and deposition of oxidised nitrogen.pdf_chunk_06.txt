@@ -1,0 +1,8 @@
+International Nitrogen Initiative (http://www.initrogen.org),
+of whose aims one is to minimise the negative impact of
+nitrogen on the environment. The focus of the present work is
+on oxidised nitrogen species; deposition of reduced nitrogen
+species is also important, but is not considered here.
+[3] There have been a few previous multi-model studies
+of nitrogen deposition. Holland et al. [1997] used five
+models to examine global nitrogen deposition and its impact

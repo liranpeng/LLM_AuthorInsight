@@ -1,0 +1,7 @@
+radiative forcing directly due to the increase in hydrogen can be calculated. As the
+methane concentration is ﬁxed at the surface in these simulations, we need the
+additional methane experiment, PERT_CH4, to calculate the change in
+atmospheric composition and radiative forcing due to the change in the methane
+lifetime in PERT_H2.
+Five models (see model description below and Table 2) have run these
+simulations with prescribed hydrogen and methane concentrations at the surface.

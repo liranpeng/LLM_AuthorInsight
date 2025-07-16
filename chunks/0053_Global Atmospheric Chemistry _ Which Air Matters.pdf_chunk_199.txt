@@ -1,0 +1,8 @@
+Voulgarakis, A., and Zeng, G.: The Atmospheric Chemistry and
+Climate Model Intercomparison Project (ACCMIP): overview
+and description of models, simulations and climate diagnostics,
+Geosci. Model Dev., 6, 179–206, https://doi.org/10.5194/gmd-6-
+179-2013, 2013.
+Larsen, M. L., Briner, C. A., and Boehner, P.: On the Recovery of
+3D Spatial Statistics of Particles from 1D Measurements: Im-
+plications for Airborne Instruments, J. Atmos. Ocean Tech., 31,

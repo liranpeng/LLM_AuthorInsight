@@ -1,0 +1,16 @@
+0.86
+-1
+0.9
+-1
+0.71
+0.82
+0.69
+0.71
+0.74
+0.96
+-1
+Fig. 6. A histogram of threshold value τ for which the ﬁlament preservation diagnostic ℓf(τ) is approximately 80.0 at resolution 1.5◦for the
+unlimited (red) and shape-preserving (green) versions of the schemes. Above each column the value of τ is written (if τ = −1, there are no
+data for that scheme conﬁguration).
+of a scheme. For example, the FARSIGHT scheme uses an
+“ad hoc” ﬁxer for mass conservation and shape preserva-

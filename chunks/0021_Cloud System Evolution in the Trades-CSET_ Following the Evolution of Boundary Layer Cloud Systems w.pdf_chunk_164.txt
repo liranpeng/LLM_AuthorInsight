@@ -1,0 +1,7 @@
+Program, Reading, Massachusetts, 456 pp.
+van der Dussen JJ, and coauthors, 2013: The GASS/EUCLIPSE Model Intercomparison of the 
+Stratocumulus Transition as Observed During ASTEX: LES results. J. Adv. Model. Earth Syst, 
+submitted 11/2012.
+Vivekanandan J, and Coauthors, 2015: A wing pod-based millimeter wavelength airborne cloud radar. 
+Geoscientific Instrumentation, Methods and Data Systems, 5, 117–159, doi:10.5194/
+gid-5-117-2015.

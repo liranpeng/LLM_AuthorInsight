@@ -1,0 +1,8 @@
+tational cost is clearly driven by the additional 82 infrared
+bins adopted from RRTMG-SW. Alternative methods of pa-
+rameterizing these infrared bins need to be examined: e.g.,
+14 bins (Chou, 1992; Grant and Grossman, 1998), 34 bins
+(Fu and Liou, 1992), and 36 bins (Cole, 2005). Any of these
+would result in 1.5–2.5 times more savings for Solar-J. We
+recognize that the infrared bins adopted in RRTMG-SW are
+based on accurate representation of the line-by-line calcula-

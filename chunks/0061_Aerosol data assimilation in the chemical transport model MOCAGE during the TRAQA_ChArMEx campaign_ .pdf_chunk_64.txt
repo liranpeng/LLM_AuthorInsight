@@ -1,0 +1,10 @@
+rial geostationary orbit and at a longitude of 0◦. We sample
+the SEVIRI AOD every hour, and only use data over water,
+since the retrieval over dark surfaces is usually more accu-
+rate. The nadir horizontal resolution is 3 km, while over Eu-
+rope it is ≈5 km, and we average the SEVIRI AOD data that
+fall within the same modelled grid box.
+5.2
+AERONET
+AERONET (Aerosol Robotic Network) measures ground-
+based AOD from hundreds of automated stations in the world

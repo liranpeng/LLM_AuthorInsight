@@ -1,0 +1,9 @@
+20 m s−1 with < 5 % accuracy, and temperature −35...55 ◦C with accuracy of ±0.3 K
+Anemometer
+Metek uSonic-3 Class A ultrasonic anemometers operating at 30 Hz, 0–40 m s−1 with minimal ﬂow
+shadowing from of the arms, and 1◦wind direction accuracy
+Cloud droplet probe
+DMT CDP-2, a forward-scattering optical spectrometer to determine size and number concentration
+of 2 to 50 µm particles
+Weather sensors
+Vaisala HMP7 heated humidity and temperature probe; response time ∼15 s, ±0.8 % RH accuracy,

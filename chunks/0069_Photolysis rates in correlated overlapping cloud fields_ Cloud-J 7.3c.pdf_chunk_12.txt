@@ -1,0 +1,8 @@
+used in atmospheric chemistry models report fractionally
+cloudy atmospheres (FCAs) in each grid square. Computa-
+tion of the photolysis or heating rates in an FCA requires
+knowledge of how the clouds in each layer overlap. The cal-
+culation of J values in most atmospheric chemistry models
+today involves solving the radiative transfer equations in a
+plane-parallel atmosphere where the vertical layers can be
+highly inhomogeneous but the horizontal planes are uniform

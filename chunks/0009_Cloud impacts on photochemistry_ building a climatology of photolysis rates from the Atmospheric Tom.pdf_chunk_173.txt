@@ -1,0 +1,9 @@
+2010.
+Pincus, R., Barker, H. W., and Morcrette, J. J.: A fast, ﬂexible,
+approximate technique for computing radiative transfer in inho-
+mogeneous cloud ﬁelds, J. Geophys. Res.-Atmos., 108, D4376,
+https://doi.org/10.1029/2002jd003322, 2003.
+Prather, M. J.: Photolysis rates in correlated overlapping cloud
+ﬁelds: Cloud-J 7.3c, Geosci. Model Dev., 8, 2587–2595,
+https://doi.org/10.5194/gmd-8-2587-2015, 2015.
+Prather, M. J., Zhu, X., Flynn, C. M., Strode, S. A., Ro-

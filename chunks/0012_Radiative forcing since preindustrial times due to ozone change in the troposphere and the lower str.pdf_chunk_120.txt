@@ -1,0 +1,8 @@
+chemistry (ULAQ, DLR E39C, and NCAR MACCM) and
+CHASER show increases in stratospheric ozone except in the
+tropical lower stratosphere, where reductions occur. For ex-
+ample, the DLR E39C model simulates a 5% decrease of the
+tropical ozone destruction at about 24 km altitude as a direct
+consequence of the temperature decrease shown in Fig. 4,
+which leads to enhanced ozone mixing ratios. The model
+also simulates an increase in the annual mean tropical mass

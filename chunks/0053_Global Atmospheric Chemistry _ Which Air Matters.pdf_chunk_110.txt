@@ -1,0 +1,8 @@
+sented in the Supplement Table S5. Modeled data are sam-
+pled on the native grid of each model and not interpo-
+lated. This approach readily allows us to compare different
+models. Both 1-D and 2-D distributions presented here are
+sorted into 20 log-spaced bins per each factor of 10 (decade)
+in abundance (ppb or ppt). The dashes in the upper/lower
+rows of Fig. 5 indicate widths of these bins on each plot.
+For example, NOx distributions cover more than 3 decades

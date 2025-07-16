@@ -1,0 +1,18 @@
+0 %
+0 %
+L-CO
+0 %
+−2 %
+−1 %
+0 %
+0 %
+−3 %
+−1 %
+0 %
+Unweighted mean of all the parcels, calculated for day 1 only and not averaged over 5 separate days.
+Figure 50. Scatter plot of NOx using NO as a surrogate (NOx =
+2.055× NO, y axis) and directly measured NOx (x axis) for all
+ATom parcels where NO2 is measured. The red points are all the
+ocean basin parcels, and the blue points are all the others. The 1 : 1
+black line is for reference.
+the central Paciﬁc proﬁles, and so some heterogeneity in this

@@ -1,0 +1,10 @@
+Geosci. Model Dev., 10, 2525–2545, 2017
+www.geosci-model-dev.net/10/2525/2017/
+J. Hsu et al.: A radiative transfer module
+2541
+rus clouds, typical stratus clouds, and very thick frontal or
+cumulus clouds. While each grid cell may have up to four
+QCAs, on average there are only 2.75. Solar-J then calcu-
+lates all wavelength bins using all QCAs to compute the
+average. Cloud-J (Prather 2015) compared several approxi-
+mations for calculating average photolysis rates (Js) within

@@ -1,0 +1,8 @@
+transient response, i.e. that the CH4 concentration may not
+be in steady state with the OH change during the simula-
+tion year, we have applied factors based on the method de-
+scribed in Grewe and Stenke (2008). For the A1B scenario in
+2025/2050, these factors are 0.77/0.74 for AIR, 0.85/0.88 for
+SHIP, and 1.07/1.77 for ROAD. The factors for ROAD are
+larger than 1 because of the decline in emissions from this
+transport sector in the years prior to the simulation year.

@@ -1,0 +1,9 @@
+Atmos. Chem. Phys., 13, 285–302, 2013
+292
+C. D. Holmes et al.: Future methane, hydroxyl, and their uncertainties
+peat ﬁres. Future El Ni˜no activity cannot be predicted ro-
+bustly (Collins et al., 2010) and injection altitude distribu-
+tions remain uncertain so, despite some CTM consensus on
+present-day biomass burning sensitivity, we adopt a broad
+uncertainty range for this sensitivity factor.
+Other sensitivities, chieﬂy air temperature and ship NOx,

@@ -1,0 +1,8 @@
+depend more than others on the diffusion step for their skill (see
+Fig. 1). Moreover, it could be possible to apply the diffusion step to
+a mean prediction obtained in a different way (e.g. a numerical
+model if available) to generate a plausible distribution from a single
+prediction.
+With the current hardware and code-base CorrDiff inference is
+about 652 times faster, and 1310 times more energy efficient than
+running WRF on CPUs, although such a comparison between

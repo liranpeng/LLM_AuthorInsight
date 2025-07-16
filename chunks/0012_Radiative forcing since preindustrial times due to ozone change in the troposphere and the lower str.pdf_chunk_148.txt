@@ -1,0 +1,8 @@
+models that tend to simulate ozone depletion at higher al-
+titudes the (positive) SW forcing dominates, while for the
+other models the (negative) LW forcing dominates. For ex-
+ample, as was seen in Fig. 2, the FRSGC UCI model yields
+relatively large ozone depletion in the upper regions of the
+considered domain, while the UIO CTM2 model has most
+of its ozone depletion in the lowermost stratosphere. This is
+reﬂected by relatively large positive and negative net forcings

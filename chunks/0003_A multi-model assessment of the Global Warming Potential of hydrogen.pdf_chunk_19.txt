@@ -1,0 +1,8 @@
+total lifetime is calculated by the burden divided by the soil sink
+(as diagnosed in the models) and atmospheric loss, which is equal
+to the total loss, as it will be in steady state.
+Atmospheric composition changes. To investigate the impact of
+hydrogen on the atmospheric composition, we have perturbed the
+models (relative to 2010 levels) with a 10% increase in hydrogen
+surface concentrations (PERT_H2). Because methane is also ﬁxed
+at the surface we perform an additional experiment, a 10%

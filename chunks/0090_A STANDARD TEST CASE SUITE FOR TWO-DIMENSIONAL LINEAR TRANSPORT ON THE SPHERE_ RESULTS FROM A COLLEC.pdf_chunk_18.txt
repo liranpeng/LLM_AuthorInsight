@@ -1,0 +1,8 @@
+lution, time step, and accuracy diagnostics. In LSPT2012 it
+was assumed that model developers have already tested their
+schemes under simpler ﬂow conditions such as solid-body
+ﬂows. Similarly, LSPT2012 did not ask modelers to report on
+more specialized test cases that may be useful to study cer-
+tain, perhaps more specialized, aspects of accuracy. For ex-
+ample, by running well-known deformational test cases out
+further in time (Pudykiewicz, 2011), one can study the down-

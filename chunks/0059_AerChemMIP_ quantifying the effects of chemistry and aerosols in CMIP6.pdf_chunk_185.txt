@@ -1,0 +1,10 @@
+using model simulations with ﬁxed SSTs and sea ice; the re-
+sponses are characterised by changes in surface temperature
+and precipitation (amongst others) using model simulations
+with coupled oceans.
+AerChemMIP will identify the contributions to the
+present-day climate (in terms of ERF) made by aerosol emis-
+sions, tropospheric ozone production, stratospheric ozone
+depletion, and changes in the reactive gases methane and ni-
+trous oxide.
+To add to the forcing–response relationships, AerChem-

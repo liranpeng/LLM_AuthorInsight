@@ -1,0 +1,8 @@
+tion of our estimate of the quality of the interpolation (QP)
+as shown in Fig. 2. For large values of QP the RMSE lev-
+els off at about 6 ppb. This is a measure of the small-scale,
+nearest-neighbor variability in ozone that is simply not re-
+solved by our interpolation. Our analysis does show that the
+RMSE begins to increase when QP falls below about 30 (ef-
+fective number of independent sites at a distance of 100 km).
+Note that the lowest QP value for the US is about 3, because

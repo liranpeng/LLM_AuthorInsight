@@ -1,0 +1,9 @@
+636
+increases in 2025 and 2050 appear as an offset of w10 ppb
+throughout the year, where there is only a muted seasonal cycle.
+4.2. Global distribution of exceedences for 2000
+Fig. 4 shows the global seasonal distribution of ER for 2000
+during both DecembereJanuaryeFebruary (DJF) and JuneeJulye
+August (JJA). The global distribution of near-surface O3 in the multi-
+model ensemble is determined by the cumulative effect of emis-
+sions from all sources including natural (biogenic) activity and

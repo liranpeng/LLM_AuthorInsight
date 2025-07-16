@@ -1,0 +1,8 @@
+most of the interannual variability of each CTM and use it
+to predict methane lifetime from 1980 through 2100 follow-
+ing a speciﬁed emissions and climate scenario (RCP 8.5).
+The parametric model propagates uncertainties through all
+steps and provides a foundation for predicting methane abun-
+dances in any climate scenario. Our sensitivity tests also en-
+able a new estimate of the methane global warming potential
+(GWP), accounting for stratospheric ozone effects, including

@@ -1,0 +1,22 @@
+(Fig. 8b), through rapid reduction of GHG emissions, along
+10This scenario is discussed by Hansen and Sato (2004). CH4
+emissions decline moderately, producing a small negative forcing.
+CO2 emissions (not captured and sequestered) are assumed to de-
+cline until in 2100 fossil fuel emissions just balance uptake of CO2
+by the ocean and biosphere. CO2 emissions continue to decline af-
+ter 2100.
+1950
+1975
+2000
+2025
+2050
+  .00
+  .02
+  .04
+  .06
+  .08
+  .10
+MPTGs + OTGs
+N2O
+CH4
+CO2

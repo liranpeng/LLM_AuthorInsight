@@ -1,0 +1,8 @@
+climate scenario (RCP 4.5). Chipperﬁeld et al. (2014) also
+found that AoA metrics were a poor predictor of N2O life-
+time (see their Figs. 8–9). Thus, chemistry–climate model
+intercomparison projects should encourage the calculation of
+N2O and CFC lifetimes over the 21st century as a major di-
+agnostic of changing BDC, although accompanying changes
+in O3 and T must also be diagnosed to evaluate the photo-
+chemically driven changes in lifetime.

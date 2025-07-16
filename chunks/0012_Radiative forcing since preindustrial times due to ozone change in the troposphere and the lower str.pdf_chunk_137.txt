@@ -1,0 +1,63 @@
+tropospheric change, “S”: stratospheric change. For LMDzINCA, UM CAM, and STOCHEM HadAM3 “2 minus 1b” is shown.
+SW T
+SW S
+LW T
+LW S
+Net T
+Net S
+ULAQ
+0.056
+0.12
+0.19
+−0.15
+0.25
+−0.025
+DLR E39C
+0.069
+0.20
+0.19
+−0.19
+0.26
+0.009
+NCAR MACCM
+0.070
+0.14
+0.23
+−0.15
+0.30
+−0.009
+CHASER
+0.081
+0.07
+0.24
+−0.19
+0.33
+−0.123
+STOCHEM HadGEM1
+0.091
+0.23
+0.32
+UM CAM
+0.102
+0.35
+0.45
+LMDzINCA
+0.083
+0.21
+0.29
+STOCHEM HadAM3
+0.121
+0.27
+0.39
+UIO CTM2
+0.080
+0.23
+0.19
+−0.32
+0.27
+−0.093
+FRSGC UCI
+0.081
+0.20
+0.22
+−0.13

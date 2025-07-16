@@ -1,0 +1,10 @@
+and this can be traced to lower NOx levels than observed. At-
+taching photochemical reactivities to measurements of chem-
+ical species allows for a richer, yet more constrained-to-
+what-matters, set of metrics for model evaluation.
+1
+Prologue
+This paper is based on the methods and results of papers
+that established an approach for analyzing aircraft mea-
+surements, speciﬁcally the NASA Atmospheric Tomogra-
+phy Mission (ATom), with global chemistry models. Here

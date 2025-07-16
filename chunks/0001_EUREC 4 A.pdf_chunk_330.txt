@@ -1,0 +1,10 @@
+Radiosondes
+Vaisala RS41-SGP radiosondes measuring atmospheric proﬁles (during ascent and descent) of tem-
+perature, relative humidity, pressure, wind direction, and wind speed
+UASs
+Light ship-based (quadcopter) UASs were operated (during stations only) for measuring temperature
+and wind speed proﬁles in the lower atmosphere (up to 300 m) and temperature proﬁles within the
+upper 20 m of the ocean
+https://doi.org/10.5194/essd-13-4067-2021
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+4106

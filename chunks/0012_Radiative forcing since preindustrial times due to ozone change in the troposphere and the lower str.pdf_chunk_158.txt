@@ -1,0 +1,38 @@
+Table 8. Annually and globally averaged adjusted radiative forcing calculated by the UiO-RTM and the UoR-RTM (Wm−2) taking into
+account chemical change only (“2 minus 1c”). The annual averages in this table are based on January, April, July, and October.
+SW T
+SW S
+LW T
+LW S
+Net T
+Net S
+ULAQ
+UiO-RTM
+0.056
+0.125
+0.192
+−0.151
+0.248
+−0.026
+UoR-RTM
+0.060
+0.096
+0.217
+−0.137
+0.276
+−0.041
+CHASER
+UiO-RTM
+0.082
+0.069
+0.241
+−0.194
+0.323
+−0.124
+UoR-RTM
+0.085
+0.106
+0.281
+−0.215
+0.366
+−0.110

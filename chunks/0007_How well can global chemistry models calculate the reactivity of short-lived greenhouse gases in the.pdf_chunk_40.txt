@@ -1,0 +1,8 @@
+and 294 K; the quantum yields, at 248 and 298 K; and the
+choice of whether to interpolate linearly or logarithmically,
+or whether to extrapolate or not, affects J-NO2, especially
+in the upper troposphere). This ambiguity does not exist for
+J-O1D recommended cross section and quantum yields. J-
+O1D is strongly dependent on the overhead O3 column, and
+the zonal mean total O3 column from the models is compared
+with recent satellite measurements in Fig. S3. NCAR’s O3

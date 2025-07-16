@@ -1,0 +1,8 @@
+oxygen family (O + O3 + NO2 + 2NO3 + many reservoirs of
+NO2 and NO3, see e.g., Parrella et al., 2012), and 1 refers
+to a steady-state change caused by a 5 % increase in ship
+NOx emission. Chemical oxidation to HNO3 and nitrate is
+the main NOx loss process, but surface deposition of NO2,
+N2O5, and organic nitrates are about 6 % of global L (NOx)
+and 2 % of 1L(NOx). The parametric plume chemistry cal-
+culates a global-mean OPE of 1.7 during young plumes.

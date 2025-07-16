@@ -1,0 +1,24 @@
+(J values) were also reported as 24 h averages.
+L−CH4 : CH4 + OH →CH3 + H2O
+(R1)
+P−O3 :HO2 + NO →NO2 + RO
+(R2a)
+RO2 + NO →NO2 + RO,
+(R2b)
+where NO2 + hν →NO + O
+(R2c)
+and O + O2 →O3
+O2 + hν →O + O(x2)
+(R2d)
+L−O3 :O3 + OH →O2 + HO2
+(R3a)
+O3 + HO2 →HO + O2 + O2
+(R3b)
+O(1D) + H2O →OH + OH
+(R3c)
+J−O1D : O3 + hv →O(1D) + O2
+(R4)
+J−NO2 : NO2 + hv →NO + O
+(R5)
+Models also reported the change in O3 over 24 h, and these
+match the P-O3 minus L-O3 values over the Paciﬁc basin

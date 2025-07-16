@@ -1,0 +1,9 @@
+gions. In this study, the model is run in a two-domain conﬁg-
+uration with a global grid of 2◦×2◦and a smaller nested do-
+main (MEDI02) with a grid of 0.2◦× 0.2◦over the Mediter-
+ranean basin and the Sahara. The MEDI02 domain, where
+we assimilate AOD data, has boundaries 20◦W–40◦E, 16–
+52◦N. The lateral boundary conditions for aerosols are pro-
+vided by the global domain.
+Aerosols in MOCAGE consist of externally mixed pri-
+mary aerosol species. Implemented species for this study

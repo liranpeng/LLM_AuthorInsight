@@ -1,0 +1,9 @@
+size-distribution measurements from the particle measuring sys-
+tems FSSP-300 probe and the deiced PCASP-100X probe, J. At-
+mos. Ocean. Tech., 9, 548–555, 1992.
+Talagrand, O.: A Posteriori Validation of Assimilation Algorithms,
+in: Data Assimilation for the Earth System, edited by: Swin-
+bank, R., Shutyaev, V., and Lahoz, W., NATO Science Series,
+Springer Netherlands, 26, 85–95, doi:10.1007/978-94-010-0029-
+1_8, 2003.
+Textor, C., Schulz, M., Guibert, S., Kinne, S., Balkanski, Y., Bauer,

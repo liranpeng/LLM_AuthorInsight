@@ -1,0 +1,12 @@
+Particle sizer
+TSI SMPS 3938 and 3775 measuring aerosol particle sizes from 25 to 1 µm
+Particle counter
+DMT PCASP measuring aerosol particle sizes from 0.1 to 3 µm
+Particle counter
+CCN-100 measuring cloud condensation nuclei as a function of supersaturation
+Cloud droplet probe
+DMT CDP-100 measuring cloud droplet sizes from 2 to 50 µm
+Scattering spectrometer
+SPEC FFSSP measuring cloud droplet sizes from 1.5 to 50 µm
+Particle imager
+SPEC 2D-S measuring cloud particle sizes from 10 to 1280 µm

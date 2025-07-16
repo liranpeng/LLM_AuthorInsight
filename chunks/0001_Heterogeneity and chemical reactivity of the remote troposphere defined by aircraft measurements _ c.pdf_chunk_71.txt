@@ -1,0 +1,8 @@
+10 %, and 3 %, plus the mean J values (Table S8).
+These six-model version 0 statistics are shown alongside
+the version 2b results using the current UCIZ model but with
+a new protocol designated RDS*. While investigating sen-
+sitivities in the RDS, we found an inconsistency between
+the reported concentrations of both pernitric acid (HNO4)
+and peroxyacetyl nitrate (PAN) with respect to the chemical
+kinetics used in the models. High concentrations (100 ppt,

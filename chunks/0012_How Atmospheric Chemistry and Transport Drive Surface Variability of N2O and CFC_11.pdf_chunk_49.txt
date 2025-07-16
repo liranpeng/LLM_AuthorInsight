@@ -1,0 +1,4 @@
+minimum to maximum is buffered: increased UV flux at 190–240 nm will drive greater N2O loss, but also 
+greater upper-stratospheric O3 columns that reduce N2O photolysis. Overall, the O3 increases vary from 
+0% to 3%, and the UV flux changes near 200–210 nm (peak N2O loss region) is estimated to be 2%–6% (Ball 
+et al., 2019; Gray et al., 2010; Hood, 2004). We judge the uncertainty in solar-cycle and solar-rotation effects

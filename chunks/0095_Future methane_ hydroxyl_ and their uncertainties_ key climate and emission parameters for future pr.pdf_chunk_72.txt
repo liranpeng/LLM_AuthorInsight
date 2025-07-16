@@ -1,0 +1,9 @@
+because mass-weighted averaging emphasizes below-cloud
+OH concentrations and we ﬁnd compensating increases in
+methane loss above clouds. In addition, past analyses of con-
+vective ﬂuxes have found both positive and negative inﬂu-
+ences on τCH4×OH depending on the convection scheme and
+perturbation used (Lawrence and Salzmann, 2008).
+Methane abundance and anthropogenic NOx, CO, and
+VOC emissions vary smoothly between years, but changed
+by 1–2 % over the 2000–2010 (Dlugokencky et al., 2011;

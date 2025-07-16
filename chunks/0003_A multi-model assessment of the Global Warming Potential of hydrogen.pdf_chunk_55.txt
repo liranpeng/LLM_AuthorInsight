@@ -1,0 +1,8 @@
+the same emissions ﬁles as used in GFDL (OsloCTM-emi) in the
+control run, but with a smaller perturbation (14 Tg yr−1) in
+the perturbed run. The emission-driven runs are also a test on the
+location of the perturbation, as anthropogenic emissions are
+perturbed with most of the emissions occurring in the NH,
+compared to the surface hydrogen concentration perturbation,
+which means that a lower radiative forcing is expected since the
+lifetime of hydrogen is shorter in the NH. We have tested the

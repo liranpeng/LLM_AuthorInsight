@@ -1,0 +1,13 @@
+bbAfrica
+bbSAm
+bbNAm
+nbOther
+nbEuro
+nbNAm
+nbAsia
+Figure 6. As in Fig. 5 but for the Atlantic. Data from multiple ﬂights over the region 0–60◦W are included, with each bar representing data
+averaged over a 5◦latitude bin.
+www.atmos-chem-phys.net/18/10955/2018/
+Atmos. Chem. Phys., 18, 10955–10971, 2018
+10964
+S. A. Strode et al.: Forecasting carbon monoxide on a global scale

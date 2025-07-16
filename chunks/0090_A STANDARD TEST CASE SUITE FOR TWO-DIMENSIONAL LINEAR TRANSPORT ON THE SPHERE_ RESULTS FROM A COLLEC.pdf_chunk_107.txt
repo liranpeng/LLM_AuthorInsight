@@ -1,0 +1,8 @@
+ods as for example explained in Durran (2010). The spectral
+transforms used in the SBC scheme are also based on se-
+ries expansions (global). However, since the expansions are
+only used to provide gradients for the Lagrange interpolant,
+the SBC scheme is not categorized as a series-expansion
+scheme. In this intercomparison one scheme (with several
+variants) under this category participated and is referred
+to as HOMME (High-Order Methods Modeling Environ-

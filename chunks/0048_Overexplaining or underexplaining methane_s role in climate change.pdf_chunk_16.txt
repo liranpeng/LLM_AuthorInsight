@@ -1,0 +1,8 @@
+OH and temperature could alter the MCF decay rate. For iii, one
+must recognize that our measurements of MCF are made at the
+surface and do not discern vertical gradients or the relative
+amounts in the stratosphere. Fluctuations in such mixing rates
+are not documented, but they could alter the apparent decay
+rate. The new models here use option ii to alter the decay rate
+and thus predict trends in OH. The problem with ii is that, to be
+effective, the continuing MCF emissions must follow the same

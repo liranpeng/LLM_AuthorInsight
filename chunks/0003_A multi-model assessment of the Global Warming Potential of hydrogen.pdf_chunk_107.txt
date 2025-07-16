@@ -1,0 +1,6 @@
+using the UKCA-StratTrop chemistry conﬁguration. The conﬁguration was run
+with the Chemistry AeroClim option which is a full chemistry version of the model
+run with aerosol climatologies. The water vapor in the model was held ﬁxed with
+respect to the chemistry such that any change in the water vapor mass mixing ratio
+due to chemistry was not applied to the tracer. This version was modiﬁed to run
+with the chemical tracers in UKCA uncoupled from the radiation such that the

@@ -1,0 +1,8 @@
+larly to the proﬁles, the PDs show detectable but insigniﬁcant
+changes from v2b to v3 and remain robust (i.e., compared
+with Figs. 40–43). For the most part, the mean reactivities
+change by < 0.01 ppb d−1, with major exceptions for P-O3 in
+Paciﬁc ATom-34 and Atlantic ATom-23, where the v3 value
+is 0.03 to 0.10 ppb d−1 smaller than the v2b value. The L-CO
+also shows some decreases with v3 of about 0.03 ppb d−1
+(Paciﬁc ATom-3, Atlantic ATom-2), and in a relative sense

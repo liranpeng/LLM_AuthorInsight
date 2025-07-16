@@ -1,0 +1,8 @@
+vertical resolution varies with altitude, with a resolution of
+40 m in the planetary boundary layer, about 400 m in the free
+troposphere and about 700–800 m in the upper troposphere
+and lower stratosphere. The version of the model used in this
+study is described in Siˇc et al. (2015), and has been evaluated
+with a range of different remote-sensed and in situ measure-
+ments for cases and regions relevant to this study.
+The model can include nested domains over smaller re-

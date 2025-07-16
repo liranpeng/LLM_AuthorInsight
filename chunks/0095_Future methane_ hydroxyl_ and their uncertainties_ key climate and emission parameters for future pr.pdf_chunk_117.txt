@@ -1,0 +1,18 @@
+Aircraft NOx
++123 %
+−1.7 ± 0.4
+CO
+−44.0 %
+−2.6 ± 0.9
+VOC
+−11.1 %
+−0.4 ± 0.1
+Total (this work)
++12.9 ± 10.8
+IPCC TAR Total, Prather et al. (2001)
++29.2
+MAGICC Total, Meinshausen et al. (2011a)
++12.6
+∗Variable changes from data sources in Table 3, except CH4 abundance, which is
+calculated parametric model, as described in Sect. 5. τCH4×OH component changes
+derive from the variable changes and the sensitivities in Table 2, including

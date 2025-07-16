@@ -1,0 +1,19 @@
+equations for observed GHG amounts and scenarios, so er-
+rors in the radiation calculations do not alter the comparison.
+Equations for GHG forcings are from Table 1 of Hansen et
+al. (2000) with the CH4 forcing using an efﬁcacy factor 1.4 to
+include effects of CH4 on tropospheric O3 and stratospheric
+H2O (Hansen et al., 2005).
+The
+growth
+of
+GHG
+climate
+forcing
+peaked
+at
+∼0.05 W m−2 yr−1
+(5 W m−2 century−1)
+in
+1978–1988,
+then falling to a level 10–25 % below IPCC SRES (2000)

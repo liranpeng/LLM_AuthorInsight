@@ -1,0 +1,8 @@
+sphere than found in most models’ climatologies associated
+with higher NOx levels than in the models. Section 5 con-
+cludes that the ATom PDs based on 10s air parcels do provide
+a valid chemistry metric for global models with 1◦resolution.
+It also presents some examples where ATom measurements
+and modeling can test the chemical relationships and may ad-
+dress the cause of differences in the O3 and CH4 budgets cur-
+rently seen across the models. With this paper we release the

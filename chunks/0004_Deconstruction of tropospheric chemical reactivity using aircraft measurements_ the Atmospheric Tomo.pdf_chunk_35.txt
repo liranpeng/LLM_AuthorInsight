@@ -1,0 +1,5 @@
+3303
+Figure 3. Comparison of the model grid-cell value for pressure, latitude, and longitude used in the RDS calculation with those from the
+32 383 10 s ATom-1 parcels (MDS). In each ﬁgure the standard deviation, minimum error, maximum error, and mean error are shown. Values
+are speciﬁc to the UCI CTM with a T159L57 grid. These displacement errors occur because several 10 s parcels often occur within one CTM
+cell and must be shifted to nearby vacant cells.

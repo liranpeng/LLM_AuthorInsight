@@ -1,0 +1,10 @@
+ations at n + 1/2 were used in the simulations), so, as for
+CSLAM, the temporal errors due to “trajectories” can be ex-
+pected to be small. In conclusion, the absolute errors for the
+two-time-level CAM-FV solutions are dominated by spatial
+errors (number of ﬂux evaluations increases with decreased
+CN).
+3.2
+“Minimal” resolution 1λm: cosine bells
+Rather than assessing convergence rates, this test focuses on
+absolute errors. In other words, we ask at what resolution

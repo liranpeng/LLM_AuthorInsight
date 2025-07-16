@@ -1,0 +1,8 @@
+sient ERFs. The impact of background state on the diagnosis
+of ERFs is likely to be small (Forster et al., 2016). This is fur-
+ther discussed in Sect. 5.1. The control simulation (histSST)
+uses prescribed historical SSTs with all other components as
+historical. This is not likely to be signiﬁcantly different from
+the coupled-ocean historical simulation, but we request this
+simulation for consistency with the rest of the experiments.
+There are Tier 2 experiments to calculate separately the tran-

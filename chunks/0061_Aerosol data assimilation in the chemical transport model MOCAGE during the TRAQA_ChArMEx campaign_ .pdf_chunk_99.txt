@@ -1,0 +1,8 @@
+ers AOD and approaches the measured concentration values.
+With situations of no observations or with sparse ones, data
+assimilation is not able to have a major effect.
+Following the path of ﬂight B (Fig. 8b) we see again
+rather clean aerosol conditions. The modelled and assimi-
+lated curves differ, and the assimilation has an effect on the
+shape of the time series curve, but it does not improve the
+ﬁeld compared to the measurements noticeably. The result

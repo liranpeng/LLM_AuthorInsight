@@ -1,0 +1,13 @@
+https://doi.org/10.1029/90JD01945, 1991.
+Li, J. and Ramaswamy, V.: Four-Stream Spherical Harmonic
+Expansion Approximation for Solar Radiative Transfer, J.
+Atmos.
+Sci.,
+53,
+1174–1186,
+https://doi.org/10.1175/1520-
+0469(1996)053<1174:FSSHEA>2.0.CO;2, 1996.
+Li, J., Barker, H., Yang, P., and Yi, B.: On the aerosol and
+cloud phase function expansion moments for radiative trans-
+fer simulations, J. Geophys. Res.-Atmos., 120, 12128–12142,
+https://doi.org/10.1002/2015JD023632, 2015.

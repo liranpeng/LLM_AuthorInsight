@@ -1,0 +1,9 @@
+JRC (other anthropogenic emissions).
+Edited by: R. Harley
+References
+Balkanski, Y., Myhre, G., Gauss, M., R¨adel, G., Highwood, E. J.,
+and Shine, K. P.: Direct radiative effect of aerosols emitted by
+transport: from road, shipping and aviation, Atmos. Chem. Phys.,
+10, 4477–4489, doi:10.5194/acp-10-4477-2010, 2010.
+Berntsen, T. K., Myhre, G., Stordal, F., and Isaksen, I. S. A.: Time
+evolution of tropospheric ozone and its radiative forcing, J. Geo-

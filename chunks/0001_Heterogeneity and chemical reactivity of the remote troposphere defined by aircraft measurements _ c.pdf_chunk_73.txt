@@ -1,0 +1,8 @@
+tocol avoids much of the fast thermal release of NOx in the
+lower atmosphere during the ﬁrst 24 h of the RDS calculation
+but does not affect the release of NOx from photolysis or OH
+reactions in the upper troposphere where thermal decompo-
+sition is inconsequential. It is possible that some of the high
+concentrations of HNO4 and PAN in the lower troposphere
+are real and that we are missing this large source of NOx
+with the RDS* protocol, but we ﬁnd no obvious sources of

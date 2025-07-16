@@ -1,0 +1,8 @@
+els poorly simulate the ﬁrst several minutes of plume ag-
+ing, when turbulent transport limits the rates of fast NOx-
+O3 chemical reactions (Galmarini et al., 1995; Sykes et al.,
+1992), they can provide a good representation of plume com-
+position after about ten minutes (several kilometers) of aging,
+once turbulent dispersion homogenizes the plume (Galmarini
+et al., 1995). Indeed Vinken et al. (2011) demonstrated that
+their Gaussian plume model predicts NOx, O3, and OH con-

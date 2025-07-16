@@ -1,0 +1,8 @@
+parallel compute environments, there has been a signiﬁcant
+effort to formulate atmospheric models on more isotropic
+grids. Other motivations for alternative tessellations of the
+sphere are the design of models with mesh reﬁnement ca-
+pability, possibly with smoothly varying transitions between
+coarse and ﬁne resolution. This has triggered a renewed inter-
+est in developing ﬂuid ﬂow solvers for non-traditional spher-
+ical grids. A natural ﬁrst step in model development is to

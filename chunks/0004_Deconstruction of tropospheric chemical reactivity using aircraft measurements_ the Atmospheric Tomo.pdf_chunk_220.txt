@@ -1,0 +1,8 @@
+100 % for some models that are known to be aberrant in
+other diagnostics. Thus, the most important model metric
+to develop from the ATom measurements would be stan-
+dard probability densities of the key species in those regions
+where reactivities are largest: the lower tropics for loss of
+O3 and CH4, the upper tropics for production of O3. These
+could include co-variation patterns (2D probability densities
+in G2023). Sensitivity analysis of the 24 h reactivities pro-

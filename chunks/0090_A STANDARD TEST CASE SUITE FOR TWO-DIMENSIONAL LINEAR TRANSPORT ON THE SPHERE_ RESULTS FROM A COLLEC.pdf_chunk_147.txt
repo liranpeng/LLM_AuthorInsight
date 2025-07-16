@@ -1,0 +1,9 @@
+which the ﬁlaments were resolved in the sense that asymp-
+totic convergence is reached; for CSLAM-CN5.5 asymptotic
+convergence with cosine bell initial conditions is reached at
+approximately 1λ = 1.5◦for which ℓ2 ≈0.033. The mini-
+mum resolution is estimated from a convergence plot (see
+Fig. 4 in LSPT2012) and should be computed without and
+(if applicable) with shape-preserving ﬁlters. The “minimal”
+resolution used in the remainder of the test case suite should
+be 1λm for the unlimited scheme.

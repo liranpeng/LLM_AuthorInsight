@@ -1,0 +1,8 @@
+tify errors. In the UCI model, an error in the lumped alkane
+formulation (averaging alkanes C3H8 and higher) did not
+show up in P2018, where UCI supplied all the species, but
+when the ATom data were used, the UCI model became an
+outlier. Once found, this problem was readily ﬁxed (hence
+the current UCIZ model version). Inclusion of the F0AM
+model with its extensive hydrocarbon oxidation mechanism
+provided an interesting contrast with the simpler chemistry

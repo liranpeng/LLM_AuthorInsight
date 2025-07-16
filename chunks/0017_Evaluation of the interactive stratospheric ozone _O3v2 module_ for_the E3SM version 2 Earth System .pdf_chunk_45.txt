@@ -1,0 +1,8 @@
+(black solid line), and for the models we present two different
+13-year periods to address the uncertainty in calculating SD
+from such a short record. EAM versions use the years 1995–
+2007 (dashed) and 2002–2014 (solid), while UCI CTM uses
+the speciﬁc years 1992–2004 (dashed line) and 2005–2017
+(solid). All model results reproduce the general pattern in
+observations: peak variability (∼7 DU) in the core tropics, a
+minimum (3 DU) at 15◦latitude, and then steadily increasing

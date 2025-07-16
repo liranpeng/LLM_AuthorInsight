@@ -1,0 +1,9 @@
+and ocean area included covers 65 % of the globe.
+The present analysis uses GHCN.v3.3.0 (Menne et al.,
+2012) for land data and ERSST.v4 for sea surface temper-
+ature (Huang et al., 2015). The update from GHCN.v2 used
+in our 2010 analysis to GHCN.v3 had negligible effect on
+global temperature change over the past century (see graph
+at http://www.columbia.edu/~mhs119/Temperature/GHCN_
+V3vsV2/). However, the adjustments to SST to produce
+ERSST.v4 have a noticeable effect, especially in the pe-

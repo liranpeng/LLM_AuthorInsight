@@ -1,0 +1,8 @@
+schemes that participated in this intercomparison and the ac-
+companying scheme acronyms are given in Table 1.
+In this study grid spacings are quantiﬁed in terms of aver-
+age resolution at the Equator irrespective of the discretization
+grid. Schemes are compared using this deﬁnition of horizon-
+tal resolution. If the reader is interested in schemes for mesh-
+reﬁnement applications, for example, only a subset of the
+schemes and grids presented here will have that capability.

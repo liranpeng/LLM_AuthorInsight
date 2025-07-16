@@ -1,0 +1,8 @@
+The interannual variability of these monthly mean pro-
+ﬁles is more difﬁcult to reproduce. Here we are not trying
+to match speciﬁc year-to-year changes but are calculating a
+monthly latitude-by-pressure map of the 13-year record of
+SD of O3 abundance in ppm at each point. The Taylor dia-
+gram for these data (Fig. 3c) shows that all models become
+worse than they did for the climatological mean, speciﬁcally
+with smaller correlations and smaller RMSE. The obvious

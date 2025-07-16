@@ -1,0 +1,8 @@
+These feedbacks through chemically active GHGs can either
+dampen or exacerbate CO2-driven warming. Climate change
+studies through Coupled Model Intercomparison Projects
+(CMIPs) (e.g., Taylor et al., 2012; Eyring et al., 2016) have
+generally chosen to prescribe greenhouse gas abundances
+based on historical observations or projected emissions with
+simple biogeochemistry box models. This approach works
+for the well-mixed greenhouse gases but is a poor approxi-

@@ -1,0 +1,8 @@
+similation system uses 3-D-FGAT (ﬁrst guess at appropri-
+ate time) as an assimilation method and the total 3-D aerosol
+concentration as a control variable. In order to have an exten-
+sive validation dataset, we carried out our experiment in the
+northern summer of 2012 when the pre-ChArMEx (CHem-
+istry and AeRosol MEditerranean EXperiment) ﬁeld cam-
+paign TRAQA (TRAnsport à longue distance et Qualité de
+l’Air dans le bassin méditerranéen) took place in the west-

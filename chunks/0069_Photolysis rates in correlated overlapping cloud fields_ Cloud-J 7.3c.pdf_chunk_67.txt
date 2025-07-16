@@ -1,0 +1,9 @@
+For most VOCs the pressure dependence changes across the
+wavelengths within a model bin, and thus the T dependence
+averaged cross sections has different values at different P ,
+but cannot be simply post-interpolated as a function of P be-
+cause of the wavelength dependence of B. A 2-D set of cross
+sections for each wavelength bin, interpolated as a function
+of T and P , could be developed but would add to the com-
+plexity and cost of Fast-J.
+Recognizing that VOCs are predominantly tropospheric

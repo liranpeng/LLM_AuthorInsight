@@ -1,0 +1,7 @@
+of an ensemble of 30 Coupled Model Intercomparison Project Phase
+5 (CMIP5) models (box and whiskers showing the 25th and 75th
+percentiles and minimum and maximum) with the two E3SM At-
+mospheric Model Intercomparison Project (AMIP) type simula-
+tions (O3v1: blue dots; O3v2: red dots). Spatial RMSE against ob-
+servations is computed for annual and seasonal averages with the
+PCMDI Metrics Package (Gleckler et al., 2016). Fields shown in-

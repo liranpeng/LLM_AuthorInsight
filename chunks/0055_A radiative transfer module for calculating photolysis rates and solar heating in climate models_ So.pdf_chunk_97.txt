@@ -1,0 +1,54 @@
++473.4
++459.4
+452.7
++441.2
++262.7
++255.8
++52.2
++50.3
+Atmosphere
++87.8
++88.2
++77.7
++78.2
++20.3
++18.5
+−3.2
+−3.3
+Above cloud
++21.1
++23.8
++17.7
++22.8
++11.3
++12.0
++3.0
++1.6
+In cloud
++77.5
++73.7
++70.5
++64.7
++16.1
++12.9
+–3.9
+–3.0
+Below cloud
+–10.8
+–9.3
+–10.6
+–9.2
+–7.1
+–6.4
+–2.2
+–1.8
+Surface
+−561.2
+−547.6
+−530.4
+−519.4
+−282.9
+−274.4
+−49.1
+−47.0
+Table 6. Cirrus ice cloud optical properties: total optical depth τ for Solar-J and delta-scaled τ′ for RRTMG-SW, asymmetry factor g, and

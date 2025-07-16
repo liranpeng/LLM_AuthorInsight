@@ -1,0 +1,21 @@
+G.: Preindustrial to present-day changes in tropospheric hydroxyl
+radical and methane lifetime from the Atmospheric Chemistry
+and Climate Model Intercomparison Project (ACCMIP), At-
+mos. Chem. Phys., 13, 5277–5298, https://doi.org/10.5194/acp-
+13-5277-2013, 2013.
+Prather,
+M.:
+NASA
+Atmospheric
+Tomography
+Mission:
+Modeling
+and
+reactivity
+data
+sets,
+Dryad
+[data
+set],
+https://doi.org/10.7280/D1B12H, 2022.
+Prather, M. J., Ehhalt, D., Dentener, F., Derwent, R., Dlugokencky,

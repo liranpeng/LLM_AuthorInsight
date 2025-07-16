@@ -1,0 +1,8 @@
+(Lamarque et al., 2012; Kirtman et al., 2013). Here, we pro-
+vide an approach that can evaluate CCMs in terms of their
+ability to match this new observed climatology of ozone pol-
+lution, one that speciﬁcally examines how climate change
+might alter the meteorological conditions that create the mul-
+tiday, large-scale extreme ozone episodes found in the US
+and Europe (EU) today (e.g., Barnes and Fiore, 2013).
+Even at their best typical resolution (∼1◦≈100 km), cur-

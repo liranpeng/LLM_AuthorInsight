@@ -1,0 +1,8 @@
+the TRAQA period (from 8 to 11 July). It is weaker than the
+ﬁrst one and only localized in the part of the western Mediter-
+ranean closer to the coast of Africa. The AOD values of the
+second dust event, and also of the period between the two
+events, are underestimated in the direct model run, although
+not as strongly as during the ﬁrst event. Data assimilation re-
+duces the difference between the model and the observations,
+improving all statistical parameters (Table 2). For example,

@@ -1,0 +1,4 @@
+temperature that are zonally averaged and available at every latitude in 5° bins (87.5°N–87.5°S), similar to 
+the data record from Global OZone Chemistry And Related trace gas Data for the Stratosphere (GOZCARDS; 
+Froidevaux et al., 2015) but on a finer latitude grid. N2O loss in TgN/yr is calculated for each month-latitude 
+cell using these three profiles. In P2015, we used MLS observations from the 640 GHz (N2O) channel, which

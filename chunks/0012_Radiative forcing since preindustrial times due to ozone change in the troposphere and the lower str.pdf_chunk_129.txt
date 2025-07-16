@@ -1,0 +1,10 @@
+based on the ozone changes obtained in this study. For com-
+parison, radiative forcing results from a similar study made
+by Harvard University will be presented.
+For radiative forcing we follow the deﬁnition of IPCC-
+TAR chapter 6 (Ramaswamy et al., 2001), which includes the
+stratospheric temperature adjustment.
+Calculations where
+the stratospheric temperature adjustment is excluded are ex-
+plicitly denoted as “instantaneous radiative forcing”.
+The

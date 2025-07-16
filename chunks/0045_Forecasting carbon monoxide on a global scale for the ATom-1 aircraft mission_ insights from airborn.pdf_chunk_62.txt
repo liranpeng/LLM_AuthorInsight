@@ -1,0 +1,8 @@
+ring over Alaska and northwest Canada, features also seen
+in the GEOS-5 simulation. Over the Atlantic section, CO
+maxima with slightly lower values occur around the same
+latitude over west Greenland as shown both in observations
+and model simulation. CO over the northernmost locations
+along the ATom-1 circuit see some low values both in model
+and observations, particularly north of 30◦N and south of
+40◦S, due to the measurements occurring in the stratosphere

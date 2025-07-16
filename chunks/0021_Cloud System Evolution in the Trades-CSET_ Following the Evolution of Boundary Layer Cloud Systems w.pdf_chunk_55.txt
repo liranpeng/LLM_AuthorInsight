@@ -1,0 +1,7 @@
+NASA Author Manuscript
+NASA Author Manuscript
+NASA Author Manuscript
+due to cloud droplets and drizzle drops and can be used to calculate the vertical air motion. 
+Also, when drops larger than 1.6 mm in diameter exist in the radar sample volume, a “notch” 
+in the Doppler spectrum can be observed (Kollias et al. 2000) due to scattering by the drops 
+in the Mie regime. The presence of the Mie notch allows the retrieval of air vertical velocity

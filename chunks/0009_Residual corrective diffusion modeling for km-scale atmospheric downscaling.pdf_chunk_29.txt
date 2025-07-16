@@ -1,0 +1,9 @@
+respectively. The standard deviation is adjusted with a factor
+√(1 + 1/n) (see Eq. 15 in ref. 55) so that a ratio of one represents a
+perfectly tuned model. b, d, f, h show the corresponding rank
+histograms for the same channels.
+Full size image
+Case studies: downscaling coherent structures
+We now turn our attention to specific weather regimes, which are
+important to examine since aggregate skill scores and spectra can be
+more easily gamed and mask symptoms of spatial incoherence.

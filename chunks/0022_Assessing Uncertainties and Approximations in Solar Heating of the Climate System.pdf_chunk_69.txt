@@ -1,0 +1,6 @@
+HSU AND PRATHER
+10.1029/2020MS002131
+8 of 24
+Figure 3.  (a and b) Single scattering albedo (SSA, dimensionless) for water clouds versus wavelength (µm), including 
+both (a) ice and (b) liquid water (bottom). The RRTMG infrared (IR) bins, designated #18 through #27 are demarcated 
+by dashed vertical lines with average SSA denoted (large circle with cross bar and light-colored fill). The solar energy

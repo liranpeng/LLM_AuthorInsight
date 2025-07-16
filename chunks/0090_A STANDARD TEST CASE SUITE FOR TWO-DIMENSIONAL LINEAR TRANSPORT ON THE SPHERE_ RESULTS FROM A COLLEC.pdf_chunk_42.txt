@@ -1,0 +1,12 @@
+and Baumgardner, 2000), which would require integrating a
+polynomial of degree K2. Instead, the ﬂux is approximated
+by
+⟨φ(x,y) · ρ(x,y)⟩≈⟨φ(x,y)⟩· ⟨ρ(x,y)⟩,
+(7)
+Geosci. Model Dev., 7, 105–145, 2014
+www.geosci-model-dev.net/7/105/2014/
+P. H. Lauritzen et al.: Results from standard test case suite
+109
+which eliminates the non-linear interaction between non-
+constant terms in the polynomials of φ and ρ. This simpliﬁ-
+cation reduces the order of the polynomial: instead of having

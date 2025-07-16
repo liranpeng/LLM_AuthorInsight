@@ -1,0 +1,8 @@
+10 s parcels. With the coarser resolution, we see a slight shift
+of points from the ends of the PD to the middle as expected,
+but we ﬁnd, once again, that the loss in high-frequency,
+below-model grid-cell resolution is not great. Both ATom-
+derived PDs more closely resemble each other than any
+model PD. Thus, current global chemistry models with reso-
+lutions of about 100 km by 400 m should be able to capture
+much of the wide range of chemical heterogeneity in the at-

@@ -1,0 +1,8 @@
+computed for each SZA and the four ﬁxed scattering angles.
+As a test of the importance of using a more realistic OSA,
+we used Cloud-J v8 to compute the ratio of J with our OSA
+module to J using a constant ﬁxed albedo, with both Js cal-
+culated for clear sky. We calculate this rlnJ (log of the ra-
+tio of J-clear (OSA) to J-clear (single albedo)) for a range
+of SZAs, wind speeds, and chlorophyll comparing to ﬁxed
+albedos of 0.00, 0.06, and 0.10 as shown in Fig. S9. Because

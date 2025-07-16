@@ -1,0 +1,4 @@
+or an algorithm is needed to describe exactly how the cloud is distributed within the grid cell and how the 
+cells overlap. Most climate models do not resolve the horizontal scale of clouds and simply report a cloud 
+water column and fractional coverage in the cell. A typical algorithm is MAX-RAN (Briegleb, 1992): the 
+cloud is assumed to be uniform in the cloudy fraction of the cell; when two adjacent vertical layers have

@@ -1,0 +1,17 @@
+timescale of this is unclear (O’Connor et al., 2010; Quiquet
+et al., 2015).
+Here we examine the fossil fuel emission reductions re-
+quired to restore atmospheric CO2 to 350 ppm or less, so as
+to keep global temperature close to the Holocene range, in
+addition to the canonical 1.5 and 2 ◦C targets. Quantitative
+investigation requires consideration of Earth’s energy imbal-
+ance, changing climate forcings, and climate sensitivity.
+−1
+ 0
+ 1
+ 2
+Effective forcing: 1750−2016
+Fe (W m  -2)
+CO2
+CH4
+CFCs

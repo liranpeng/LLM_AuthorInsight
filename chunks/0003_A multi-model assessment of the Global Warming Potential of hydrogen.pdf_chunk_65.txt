@@ -1,0 +1,6 @@
+Above this model layer, hydrogen and methane are treated as chemically reactive
+tracers in the atmosphere. Additional simulations were also performed with two
+models that were run with hydrogen emissions instead of ﬁxed surface
+concentration ﬁelds. The methane concentrations were ﬁxed at the surface. GFDL-
+emi was perturbed with an extra 200 Tg yr−1 anthropogenic hydrogen emissions
+and ran for 50 years. The methane surface concentration was increased based on

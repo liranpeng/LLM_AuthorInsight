@@ -1,0 +1,38 @@
+included in
+al. (2013);
+sea ice extent
+POA)
+Kirkevåg et al.
+over the 1990–
+(2013)
+2013 period
+OsloCTM2
+T42
+2010 met
+Included for semi-
+Sulfate, BC,
+Myhre et al.
+2.8◦× 2.8◦
+direct effect of BC
+POA, SOA,
+(2009); Skeie et
+L60
+(CESM-CAM4)
+nitrate
+al. (2011)
+SPRINTARS
+1.125◦× 1.125◦
+Climatological
+Included
+Sulfate, BC,
+Takemura et
+L56
+monthly
+POA, SOA
+al. (2005, 2009)
+varying ﬁxed
+SSTs and sea
+ice extent over
+the 1988–1992
+period
+Furthermore, some models include secondary organic

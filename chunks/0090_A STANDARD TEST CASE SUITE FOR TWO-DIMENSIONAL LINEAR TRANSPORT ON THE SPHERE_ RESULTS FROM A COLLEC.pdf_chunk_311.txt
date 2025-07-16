@@ -1,0 +1,13 @@
+non-optimized grids.
+A14.4
+Slope limiting
+In general this gradient construction will not lead to a
+positivity-preserving scheme. For this we use a multidimen-
+sional extension of Van Leer-type slope limiter (Dukowicz
+and Kodis, 1987). In Eqs. (A15)–(A16) we replace the gra-
+dient ∇φ by a modiﬁed gradient ˜∇kφ = αk∇kφ. The limiting
+coefﬁcient αk is determined for each cell k such as to enforce
+local monotonicity. Dukowicz and Kodis (1987) show that a
+possible choice of αk is
+αk = min(1,αmin
+k

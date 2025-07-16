@@ -1,0 +1,10 @@
+are seeing basic differences in the chemical models across
+GC, GMI, and UCI. F0AM is the next closest to these cen-
+tral models, but it will inherently have a larger rms because
+it is a 1 d calculation and not a 5 d average. NCAR’s rms is
+consistently higher and likely related to what is seen in the
+5 d σ values in Table S9. GISS is clearly different from all
+the others (L-CH4 rms > 100 %, while L-O3 rms < 66 %).
+4
+Results
+Our analysis of the reactivities uses the six-model RDS-0 re-

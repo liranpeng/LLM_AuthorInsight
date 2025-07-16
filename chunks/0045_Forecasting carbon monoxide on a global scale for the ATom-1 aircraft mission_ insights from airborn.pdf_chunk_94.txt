@@ -1,0 +1,8 @@
+and the MOPITT 200 hPa level (not shown) suggests CO
+levels for 2016 were near the 75th percentile. In contrast,
+MLS shows that 2016 CO in the upper troposphere was much
+lower than average, near the 25th percentile. The MOPITT
+v6 TIR product has a small positive bias drift in the upper
+troposphere of 0.78 % yr−1 for the 200 hPa level (Deeter et
+al., 2014), which may contribute to the higher rank of 2016
+in the MOPITT upper-tropospheric data compared to MLS.

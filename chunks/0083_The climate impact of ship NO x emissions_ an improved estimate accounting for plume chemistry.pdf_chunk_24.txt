@@ -1,0 +1,8 @@
+plume approximately ﬁlls a grid cell in the global CTM. The
+ﬁnal OPE and fraction of NOx oxidized to HNO3 are tabu-
+lated for various environmental conditions in a look-up table
+that GEOS-Chem uses to determine locally appropriate emis-
+sion factors for ship NOx, O3, and HNO3. These aged plume
+emissions are then injected into the global CTM, which
+then accounts for the subsequent grid-scale photochemistry
+and large-scale advection. Although Gaussian plume mod-

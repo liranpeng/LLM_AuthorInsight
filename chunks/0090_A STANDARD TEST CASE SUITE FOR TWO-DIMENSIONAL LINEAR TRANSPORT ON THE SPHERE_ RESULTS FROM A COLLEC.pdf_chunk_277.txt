@@ -1,0 +1,15 @@
+simulation with resolution 1λ0. For this, we use standard er-
+rors, mixing diagnostics, and ﬁlament preservation diagnos-
+tics. Finally, for any given resolution 1λ,
+ν(1λ) = ν0
+ 1λ
+1λ0
+η
+.
+www.geosci-model-dev.net/7/105/2014/
+Geosci. Model Dev., 7, 105–145, 2014
+138
+P. H. Lauritzen et al.: Results from standard test case suite
+Fig. A1. The two-patch sphere grid used by the CLAW scheme.
+Contrary to the CAM-SE setup, the winds are updated in
+time at each stage of the Runge–Kutta time stepping.

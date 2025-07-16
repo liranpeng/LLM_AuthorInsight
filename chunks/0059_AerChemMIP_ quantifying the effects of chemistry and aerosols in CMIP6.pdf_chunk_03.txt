@@ -1,0 +1,8 @@
+Revised: 16 December 2016 – Accepted: 4 January 2017 – Published: 9 February 2017
+Abstract. The Aerosol Chemistry Model Intercomparison
+Project (AerChemMIP) is endorsed by the Coupled-Model
+Intercomparison Project 6 (CMIP6) and is designed to quan-
+tify the climate and air quality impacts of aerosols and
+chemically reactive gases. These are speciﬁcally near-term
+climate forcers (NTCFs: methane, tropospheric ozone and
+aerosols, and their precursors), nitrous oxide and ozone-

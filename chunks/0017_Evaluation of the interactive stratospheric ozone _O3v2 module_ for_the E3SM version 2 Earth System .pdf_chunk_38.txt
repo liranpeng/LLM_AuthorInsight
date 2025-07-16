@@ -1,0 +1,8 @@
+decades appear to be driven by tropospheric ozone (Gaudel
+et al., 2018). We also develop metrics based on the proﬁles
+of ozone and the evolution of the Antarctic ozone hole (for
+which we use total column ozone). The last ozone metric
+that we would like to use is the stratosphere–troposphere ex-
+change ﬂux since it is an important link between the two
+ozone reservoirs. Unfortunately, we have no direct obser-
+vations and rely on model–model comparisons. We should

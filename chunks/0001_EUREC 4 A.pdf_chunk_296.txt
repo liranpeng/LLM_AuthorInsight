@@ -1,0 +1,12 @@
+Acoustic Doppler current
+proﬁler
+Teledyne RDI 300 kHz duo acoustic Doppler current proﬁler measuring full water column water ve-
+locity
+XBTs
+Lockheed Martin Sippican XBT-T7 measuring vertical proﬁles of seawater temperature within the
+upper ocean (0 to 800 m).
+XCTDs
+Lockheed Martin Sippican XCTD-2 measuring vertical proﬁles of seawater temperature and conduc-
+tivity (salinity) within 0 to 1000 m
+Argo ﬂoats
+ARVOR-type Argo ﬂoats constructed through a cooperation between the Centro di Taratura

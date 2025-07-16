@@ -1,0 +1,4 @@
+ylene source is nonzero. Similarly, two different estimates for the atmospheric chlorine sink for ethane and
+methane were allowed: (1) 0% for both compounds and (2) 40% and 5% for ethane and methane, respectively,
+based on the calculations in section 3.4. The chlorine sink is not signiﬁcant for acetylene and is kept at 0% in
+all scenarios. These constraints result in four different emission scenarios: no geologic emissions with no

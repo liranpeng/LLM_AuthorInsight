@@ -1,0 +1,9 @@
+ies global temperature analysis (GISTEMP), described by
+Hansen et al. (2010). The analysis combines data from
+(1) meteorological station data of the Global Historical
+Climatology Network (GHCN) described by Peterson and
+Vose (1997) and Menne et al. (2012), (2) Antarctic re-
+search station data reported by the Scientiﬁc Committee
+on Antarctic Research (SCAR), (http://www.antarctica.ac.
+uk/met/READER), and (3) ocean surface temperature mea-
+surements from the NOAA Extended Reconstructed Sea Sur-

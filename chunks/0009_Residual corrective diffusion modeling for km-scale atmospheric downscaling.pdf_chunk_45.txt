@@ -1,0 +1,9 @@
+shading shows ± one standard deviation along the ensemble
+dimension.
+Full size image
+The benefits of the CorrDiff downscaling compared to interpolating
+ERA5 can be more clearly quantified by examining the logarithm of
+the PDF of the windspeed, Fig. 5e. In the ERA5 the wind speed PDF
+has a sharp cutoff such that high wind speed values in excess of 27 
+ms−1 are missing. CorrDiff partially restores the tail of the typhoon
+wind speed PDF, and is capable of predicting wind speeds up to 40

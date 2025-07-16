@@ -1,0 +1,8 @@
+(84◦S to 84◦N), 37 pressure levels (100–0.001 hPa), and 209
+months (August 2004 to December 2021).
+The observational data consist of 8987 independent col-
+umn atmospheres. The top level (0.001 hPa) is high enough
+that only a single layer of thickness 0.001 hPa with the same
+properties as the top layer is added to complete the atmo-
+sphere for the radiative calculation. Below 100 hPa, we add
+six layers with typical tropospheric values (320 ppt); how-

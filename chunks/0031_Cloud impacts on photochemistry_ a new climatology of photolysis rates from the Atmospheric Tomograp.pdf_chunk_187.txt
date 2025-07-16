@@ -1,0 +1,8 @@
+chemistry-climate model (v7.3), Geosci. Model Dev., 6, 161–
+177, https://doi.org/10.5194/gmd-6-161-2013, 2013.
+Tilmes, S., Lamarque, J.-F., Emmons, L. K., Kinnison, D. E.,
+Marsh, D., Garcia, R. R., Smith, A. K., Neely, R. R., Conley,
+A., Vitt, F., Val Martin, M., Tanimoto, H., Simpson, I., Blake,
+D. R., and Blake, N.: Representation of the Community Earth
+System Model (CESM1) CAM4-chem within the Chemistry-
+Climate Model Initiative (CCMI), Geosci. Model Dev., 9, 1853–

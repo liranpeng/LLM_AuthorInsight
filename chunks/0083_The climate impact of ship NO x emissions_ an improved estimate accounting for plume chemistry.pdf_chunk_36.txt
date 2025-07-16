@@ -1,0 +1,8 @@
+dence intervals for other factors in Eqs. (2)–(4) are given in
+Holmes et al. (2011), with the following updates. Recent data
+suggest a smaller feedback factor, f = 1.34 ± 0.06 (Holmes
+et al., 2013). We use a ship-speciﬁc radiative efﬁciency for
+O3, which is smaller than that of aviation O3 and that of
+long-lived O3 changes (cf. Fuglestvedt et al., 2008; Holmes
+et al., 2011) because ship O3 is mostly conﬁned to low alti-
+tudes and high latitudes (e.g., Hoor et al., 2009). We adopt a

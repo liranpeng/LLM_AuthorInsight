@@ -1,0 +1,3 @@
+Notes:
+Derived from RCP published CO2-eq concentrations that aggregate all anthropogenic forcings including greenhouse gases plus aerosols. These results may not be directly comparable to ERF values 
+used in AR5 because of how aerosol indirect effects are included, but results are similar to those derived using ERF in Chapter 12 (see Figure 12.4). Comparisons with the TAR Appendix II (SRES A2

@@ -1,0 +1,8 @@
+q, the model showed surprisingly large shifts in L-O3 and L-
+CH4 along with standard deviations 2–10 times larger than
+the lower limit based on different UCI model years. In fact,
+the UCI model using GFDL and NCAR T and q has about
+the same rms reactivity differences with respect to the refer-
+ence case as do the full models (Compare Tables S8 and 3,
+noting that Table 3 is a 5-day mean result and not 1-day re-
+sult). Thus, without a model being able to use the speciﬁed

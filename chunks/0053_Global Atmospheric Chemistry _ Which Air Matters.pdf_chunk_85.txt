@@ -1,0 +1,8 @@
+sign) in the bias of A-runs relative to C-runs. Thus we can use
+the model A-runs to tag each parcel in the ATom measured
+climatology by its reactivity in the absence of emissions and
+transport. Clearly these models have largely different chemi-
+cal climatologies for the middle of the Paciﬁc, and, with the
+ATom climatology to initialize all six models, we will be able
+to test whether these differences reﬂect the initial key species
+and/or the photochemical components.

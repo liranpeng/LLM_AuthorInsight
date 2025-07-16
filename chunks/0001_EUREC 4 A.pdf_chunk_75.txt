@@ -1,0 +1,10 @@
+and drones. A platform-by-platform listing of the EUREC4A
+instrumentation is provided in Appendix B.
+2.3.1
+Remote sensing
+EUREC4A included eight cloud-sensitive Doppler (W- and
+Ka-band) radars. Four zenith-staring instruments were in-
+stalled at surface sites (BCO, R/V MS-Merian, R/V Meteor,
+and R/V Ron Brown) and three on aircraft (nadir, zenith on
+the ATR, HALO, and the P-3). The ATR ﬂew a second, hor-
+izontally staring, Doppler system. Two scanning radars (a

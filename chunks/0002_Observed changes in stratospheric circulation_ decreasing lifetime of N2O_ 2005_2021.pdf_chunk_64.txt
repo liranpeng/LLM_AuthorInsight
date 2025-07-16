@@ -1,0 +1,8 @@
+on Assorted Grids V005, Greenbelt, MD, USA, Goddard Earth
+Sciences Data and Information Services Center (GES DISC)
+[data set], https://disc.gsfc.nasa.gov/datasets/ML3MBN2O_005/
+summary (last access: 13 January 2023), 2021.
+Livesey, N. J., Read, W. G., Froidevaux, L., Lambert, A., Santee,
+M. L., Schwartz, M. J., Millán, L. F., Jarnot, R. F., Wagner, P. A.,
+Hurst, D. F., Walker, K. A., Sheese, P. E., and Nedoluha, G. E.:
+Investigation and amelioration of long-term instrumental drifts in

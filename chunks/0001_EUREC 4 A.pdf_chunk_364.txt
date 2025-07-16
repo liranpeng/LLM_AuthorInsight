@@ -1,0 +1,14 @@
+Table B24. Saildrones.
+Instrument
+Brief description
+Anemometer
+WindMaster Gill 1590-PK-020 sonic anemometer 10 Hz at 5.2 m above water line, measuring wind
+speed and direction
+Weather sensors
+Rotronic HygroClip 2 measuring air temperature and relative humidity at 1 Hz, 1 min measurements
+every 5 min at 2.3 m above water line
+Pyrometer
+Heitronics CT 15.10 infrared pyrometer to measure skin SST (experimental)
+Cameras
+Four visible cameras looking sideways, upward, and downward
+PAR sensor

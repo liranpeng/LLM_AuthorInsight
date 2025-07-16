@@ -1,0 +1,9 @@
+uses NE as in Eq. (A1) for the p = 3 setting, then NE /2 for
+p = 6 corresponds to the equal equatorial resolutions in both
+cases.
+The fully collocated formulation of the spectral element
+method used in HOMME and CAM-SE has a grid-scale com-
+putational mode that must be controlled with some type of
+stabilization (Ainsworth and Wajid, 2009). Here for stabiliza-
+tion we use well-tested hyperviscosity (Dennis et al., 2012).
+In practice, hyperviscosity coefﬁcient ν is tuned for one reso-

@@ -1,0 +1,8 @@
+E3SMv1 with O3v1, undermining the degrees of freedom of
+interactive stratospheric chemistry, the tropopause changes
+to the quadrupling CO2 peturbation lacks the proper ozone
+responses near the tropopause, leading to uncertainties in the
+climate sensitivity derived from such a simulation (Golaz et
+al., 2019). We are able to quantify this impact by comparing
+the climate sensitivity of using O3v1 versus O3v2.
+We opt to perform the Cess experiment (Cess et al., 1989)

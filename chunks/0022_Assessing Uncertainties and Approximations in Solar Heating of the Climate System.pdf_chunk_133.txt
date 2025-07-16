@@ -1,0 +1,5 @@
+clouds in the tropics (2–6 km) presumably due to less shielding by ice clouds. Running both models with 
+fractional clouds assuming MAX-RAN overlap, gives similar results (Figure 5c). While errors in the param-
+eterization of ice optics will contribute to this error, it is most likely caused by 2-stream models as discussed 
+in Section 4.2.
+The ice-cloud phase functions shown in Figure 6a show the coefficients of the Legendre expansion to L = 7

@@ -1,0 +1,12 @@
+www.geosci-model-dev.net/7/105/2014/
+Geosci. Model Dev., 7, 105–145, 2014
+128
+P. H. Lauritzen et al.: Results from standard test case suite
+Fig. 12. Same as Fig. 11 for the remaining cubed-sphere models.
+Geosci. Model Dev., 7, 105–145, 2014
+www.geosci-model-dev.net/7/105/2014/
+P. H. Lauritzen et al.: Results from standard test case suite
+129
+Fig. 13. Same as Fig. 11 for models deﬁned on a regular latitude–longitude grid.
+www.geosci-model-dev.net/7/105/2014/
+Geosci. Model Dev., 7, 105–145, 2014

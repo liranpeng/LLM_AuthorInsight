@@ -1,0 +1,10 @@
+increase in CO ranges from 10 ppbv in DLR E39C to over
+90 ppbv in the NCAR MACCM, STOCHEM HadGEM1,
+and UM CAM models. The location of the maximum in-
+crease is within the ﬁrst 3 km from the surface in mid to high
+northern latitudes, with additional, but smaller, local max-
+ima in some of the models; ULAQ and CHASER yield an
+additional local maximum in the upper tropical troposphere,
+while STOCHEM HadGEM1, STOCHEM HadAM3, and
+UIO CTM2 calculate local maxima in the lower tropical tro-
+posphere.

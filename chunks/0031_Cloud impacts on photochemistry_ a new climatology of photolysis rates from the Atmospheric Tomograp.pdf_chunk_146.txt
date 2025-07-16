@@ -1,0 +1,8 @@
+Eulerian acid deposition model: Physical concepts and formula-
+tion, J. Geophys. Res., 92, 14681–14700, 1987.
+Crawford, J., Shetter, R. E., Lefer, B., Cantrell, C., Junkermann, W.,
+Madronich, S., and Calvert, J.: Cloud impacts on UV spectral ac-
+tinic ﬂux observed during the International Photolysis Frequency
+Measurement and Model Intercomparison (IPMMI), J. Geophys.
+Res., 108, 8545, https://doi.org/10.1029/2002JD002731, 2003.
+Donner, L. J., Wyman, B. L., Hemler, R. S., Horowitz, L. W., Ming,

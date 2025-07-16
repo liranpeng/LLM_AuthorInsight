@@ -1,0 +1,9 @@
+in some specific cases the diffusion step does offer additional
+sharpening of the frontal wind shear (see Supplementary Fig. S5).
+Fig. 4: Examining the downscaling of a cold front event on
+2022-02-13 20:00:00 UTC.
+[image]
+Left to right: prediction of ERA5, CorrDiff and Target for different
+fields, followed by their averaged cross section from 21 lines
+parallel to the thin dashed line in the contour figures. Top to
+bottom: 2-m temperature (arrows are wind vectors), along front

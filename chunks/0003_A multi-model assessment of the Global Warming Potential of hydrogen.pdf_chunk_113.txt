@@ -1,0 +1,6 @@
+et al.61. Based on Hauglustaine and Ehhalt68, the Net Primary Productivity (NPP)
+is used to constrain the seasonal and geographical distribution of H2 dry-
+deposition velocity in LMDz-INCA. The NPP is provided to INCA as monthly
+mean data prepared with the ORCHIDEE land surface model.
+GFDL-AM4.1. GFDL-AM4.1 is the atmospheric component of the Earth-System
+Model 4.169,70 with a horizontal resolution of ~100 km with 49 vertical levels. The

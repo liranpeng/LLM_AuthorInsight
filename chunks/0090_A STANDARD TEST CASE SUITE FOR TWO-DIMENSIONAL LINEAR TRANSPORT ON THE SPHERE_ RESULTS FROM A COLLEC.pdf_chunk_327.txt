@@ -1,0 +1,11 @@
+143
+NCAR is sponsored by the National Science Foundation (NSF).
+Sandia National Laboratories is a multi-program laboratory
+managed and operated by Sandia Corporation, a wholly owned
+subsidiary of Lockheed Martin Corporation, for the US Department
+of Energy’s National Nuclear Security Administration under
+contract DE-AC04-94AL85000.
+Edited by: H. Weller
+References
+Ainsworth, M. and Wajid, H.: Dispersive and dissipative behavior of
+the spectral element method, SIAM J. Numer. Anal., 47, 3910–

@@ -1,0 +1,8 @@
+doi:10.1073/pnas.1514036113, 2016.
+Gillett, N. P., Shiogama, H., Funke, B., Hegerl, G., Knutti, R.,
+Matthes, K., Santer, B. D., Stone, D., and Tebaldi, C.: The De-
+tection and Attribution Model Intercomparison Project (DAMIP
+v1.0) contribution to CMIP6, Geosci. Model Dev., 9, 3685–3697,
+doi:10.5194/gmd-9-3685-2016, 2016.
+Gleckler, P. J., Doutriaux, C., Durack, P. J., Taylor, K. E., Zhang, Y.,
+Williams, D. N., Mason, E., and Servonnat, J.: A more powerful

@@ -1,0 +1,38 @@
+Raphson solver
+Stratospheric
+ozone
+nudged
+towards
+climatology
+above
+380 K
+8
+STOCHEM HadAM3
+CTM
+Lagrangian
+(Collins
+et
+al.,
+1997)
+Described in Collins
+et al. (2002)
+Detailed ozone/NOx/ hydro-
+carbon scheme including 70
+species
+Prescribed ozone concentra-
+tion gradient at 100 hPa
+9
+UIO CTM2
+CTM
+Second
+Order
+Moments (Prather,
+1986)
+Mass ﬂux scheme of
+Tiedke (1989)
+Detailed
+ozone/NOx/hydrocarbon
+scheme including 58 species,
+QSSA solver
+Detailed stratospheric chem-
+istry including Cl/Br, hetero-

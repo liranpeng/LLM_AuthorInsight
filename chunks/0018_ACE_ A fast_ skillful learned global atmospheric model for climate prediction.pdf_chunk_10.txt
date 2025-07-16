@@ -1,0 +1,8 @@
+2
+Methods
+2.1
+Dataset
+Most ML-based weather prediction systems have been trained on the ERA5 reanalysis dataset [10].
+While appealing due to its relatively accurate representation of historical atmospheric conditions,
+reanalysis data has downsides for the development of machine learning based climate models: it has
+a limited number of samples restricted to the recent past; models trained on reanalysis may not be

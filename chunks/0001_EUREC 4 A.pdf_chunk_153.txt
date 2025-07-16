@@ -1,0 +1,6 @@
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+https://doi.org/10.5194/essd-13-4067-2021
+B. Stevens et al.: EUREC4A
+4085
+Figure 16. Eddies in the Boulevard des Tourbillons (map) with vertical cross section (A–B transect near 10◦N, 58◦W on the map) showing
+ship acoustic Doppler current proﬁler (SADCP) currents from the R/V Atalante (bottom left) and salinity from CTD casts (right). Surface-

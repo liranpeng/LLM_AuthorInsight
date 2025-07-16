@@ -1,0 +1,8 @@
+https://doi.org/10.1175/JCLI4258.1, 2007.
+Williamson, D. L., Blackburn, M., Nakajima, K., Ohfuchi, W.,
+Takahashi, Y. O., Hayashi, Y.-Y., Nakamura, H., Ishiwatari, M.,
+Mcgregor, J. L., Borth, H., Wirth, V., Frank, H., Bechtold, P.,
+Wedi, N. P., Tomita, H., Satoh, M., Zhao, M., Held, I. M., Suarez,
+M. J., Lee, M.-I., Watanabe, M., Kimoto, M., Liu, Y., Wang, Z.,
+Molod, A., Rajendran, K., Kitoh, A., and Stratton, R.: The Aqua-
+Planet Experiment (APE): response to changed meridional SST

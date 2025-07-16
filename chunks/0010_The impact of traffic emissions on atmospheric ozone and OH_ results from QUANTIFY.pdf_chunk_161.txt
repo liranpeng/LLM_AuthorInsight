@@ -1,0 +1,10 @@
+Edited by: K. Carslaw
+References
+Andreae, M. and Merlet, P.: Emission of trace gases and aerosols
+from biomass burning, Global Biogeochem. Cy., 15, 955–966,
+2001.
+Berntsen, T., Fuglestvedt, J., Joshi, M., Shine, K., Stuber, N.,
+Ponater, M., Sausen, R., Hauglustaine, D., and Li, L.: Climate
+response to regional emissions of ozone precursors: sensitivities
+and warming potentials, Tellus B, 57B, 283–304, 2005.
+Bian, H. and Prather, M.: Fast-J2: Accurate Simulation of strato-

@@ -1,0 +1,12 @@
+www.geosci-model-dev.net/7/105/2014/
+Geosci. Model Dev., 7, 105–145, 2014
+118
+P. H. Lauritzen et al.: Results from standard test case suite
+observations made for K2 also hold in a qualitative sense for
+K∞. We also note that a posteriori shape-preservation ﬁl-
+ters/ﬁxers do not affect convergence rates (FARSIGHT and
+SBC).
+3.1.3
+Time step and convergence
+LSPT2012 encouraged modelers to provide data for differ-
+ent CNs (the CN here refers to the maximum zonal CN;

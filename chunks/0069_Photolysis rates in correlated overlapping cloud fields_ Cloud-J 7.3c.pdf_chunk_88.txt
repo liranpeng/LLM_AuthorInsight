@@ -1,0 +1,8 @@
+eral Circulation Model, Atmos. Chem. Phys., 12, 9097–9111,
+doi:10.5194/acp-12-9097-2012, 2012.
+Petty, G. W.: Area-average solar radiative transfer in three-
+dimensionally inhomogeneous clouds: the Independently Scat-
+tering Cloudlet Model, J. Atmos. Sci., 59, 2910–2929, 2002.
+Pincus, R., Hannay, C., Klein, S. A., Xu, K.-M., and Hemler, R.:
+Overlap assumptions for assumed probability distribution func-
+tion cloud schemes in large-scale models, J. Geophys. Res., 110,

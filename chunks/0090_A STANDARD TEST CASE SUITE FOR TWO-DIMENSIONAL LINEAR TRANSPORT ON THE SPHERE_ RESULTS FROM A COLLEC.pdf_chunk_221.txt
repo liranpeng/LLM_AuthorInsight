@@ -1,0 +1,19 @@
+actual values of ℓi for a particular scheme can be found in
+the scatterplots (Figs. 11, 12, 13, and 14). Schemes with no
+data are listed with ℓi = −1. Note that the spread among the
+schemes for ℓi/ℓ(un)
+i
+(CSLAM) spans a large range (for ex-
+ample, at 1.5◦the total mixing is more than 20 times the
+CSLAM reference mixing).
+To show the large amount of data concisely, the histograms
+are stacked so that the total height of each rectangle is total
+normalized mixing,
+ℓr
+ℓ(un)
+r
+(CSLAM)
++
+ℓu
+ℓ(un)
+u

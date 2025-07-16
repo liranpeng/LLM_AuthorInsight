@@ -1,0 +1,7 @@
+approaches, consisting of four inversion frameworks89–92, provide a 
+wide range of estimates largely because of systematic errors in the 
+modelled atmospheric transport and stratospheric loss of N2O. In 
+addition, the emissions from top-down analyses are dependent on 
+the magnitude and distribution of the prior flux estimates to an extent 
+that is strongly determined by the number of atmospheric N2O meas-
+urements18. Inversions are generally not well constrained (and thus rely

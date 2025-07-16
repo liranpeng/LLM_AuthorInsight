@@ -1,0 +1,8 @@
+of atmospheric chemistry, Geophys. Res. Lett., 39, L09803,
+doi:10.1029/2012GL051440, 2012.
+Rienecker, M. M., Suarez, M. J., Todling, R., Bacmeister, J., Takacs,
+L., Liu, H.-C., Gu, W., Sienkiewicz, M., Koster, R. D., Gelaro,
+R., Stajner, I., and Nielsen, J. E.: The GEOS-5 Data Assimilation
+System, Technical Report Series on Global Modeling and Data
+Assimilation, 2008.
+Sillman, S., Logan, J. A., and Wofsy, S. C.: A regional scale model

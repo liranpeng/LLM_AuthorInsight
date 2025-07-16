@@ -1,0 +1,10 @@
+reﬂected sunlight (SZA = 0◦).
+3.3
+Tropical cirrus clouds
+For the cirrus cloud comparison, we use all three ice-water
+parameterization options in RRTMG-SW and Solar-J’s sin-
+gle parameterization. Figure 5a, b show the prescribed pro-
+ﬁles of model input of IWC and re (Table 3). The cumula-
+tive overhead τ at 600 nm is shown in Fig. 5c. The delta
+scaling varies considerably across the RRTMG parameteri-
+zations: Solar-J’s unscaled τ ∼0.43 compares with EC92’s

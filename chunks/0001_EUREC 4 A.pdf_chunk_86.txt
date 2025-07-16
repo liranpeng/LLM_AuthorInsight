@@ -1,0 +1,10 @@
+space scales.
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+https://doi.org/10.5194/essd-13-4067-2021
+B. Stevens et al.: EUREC4A
+4077
+Figure 7. Water stable isotopologues mass fractions (a) binned by altitude over all EUREC4A measurements, including samples from
+near-surface waters. Percent of measurements at each altitude (b) associated with winds from the east (45 to 135◦from north).
+2.3.2
+Stable water isotopologues
+EUREC4A beneﬁted from an unusually complete and spa-

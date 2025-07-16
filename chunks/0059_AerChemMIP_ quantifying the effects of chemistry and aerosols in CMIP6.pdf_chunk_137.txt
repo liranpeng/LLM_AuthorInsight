@@ -1,0 +1,8 @@
+for all AerChemMIP simulations), aermonthly-2d (essential
+daily tracer ﬂuxes, radiative forcing components and physi-
+cal climate variables for all AerChemMIP simulations), aer-
+daily (boundary layer characterisation and ozone–aerosol di-
+agnostics for evaluation), aerhourly (air quality index param-
+eters), aer-6h (backscatter and extinction for aerosol verti-
+cal structure evaluation, dynamical parameters geopotential
+height and vorticity), aerzonal-vert and aerzonal (zonal mean

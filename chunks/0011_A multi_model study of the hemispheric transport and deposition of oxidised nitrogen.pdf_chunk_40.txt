@@ -1,0 +1,8 @@
+receptor matrix was created using annual deposition totals.
+This matrix indicated that the largest impacts of Europe are
+on East Asia, North America on Europe, South Asia on East
+Asia, and East Asia on North America. 8–15% of NOx
+emitted from each region is transported over distances larger
+than 1000 km, and between 34 and 49% of the exported
+NOy is deposited within 1000 km. Between 3 and 10% of
+the NOx emitted from each region was deposited as NOy in

@@ -1,0 +1,12 @@
+sil fuel related emissions. The mass of NMHCs given in
+kg(NMHC)/yr was converted to kg(C)/year using a ratio of
+161/210 TgC/Tg(NMHC) for mass(Carbon)/mass(NMHC-
+molecule) as in the third IPCC assessment report.
+The
+speciﬁc ratios were then applied to calculate the individual
+NMHC partitioning.
+Table 2. Fraction of individual species contributing to the total
+emission of NMHCs from biomass burning and fossil fuel combus-
+tion in QUANTIFY (von Kuhlmann et al., 2003a,b).
+NMHC speciﬁcations
+species

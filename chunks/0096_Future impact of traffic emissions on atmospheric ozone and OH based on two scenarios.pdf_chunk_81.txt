@@ -1,0 +1,8 @@
+As for O3 RF, the RF due to CH4 and CH4-induced O3
+will be stronger for AIR and SHIP, and weaker for ROAD in
+the period from 2025 to 2050 (Table 4). The resulting net RF
+shows that the positive O3 term will dominate for AIR in the
+future, and will also strengthen between 2025 and 2050. For
+SHIP, the cooling terms of RF due to CH4 and CH4-induced
+O3 changes will dominate and also strengthen over the same
+period. ROAD yielded the largest positive net RF of the three

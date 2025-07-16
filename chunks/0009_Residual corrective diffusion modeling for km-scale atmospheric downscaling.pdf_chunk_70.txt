@@ -1,0 +1,9 @@
+interpolation and does not face the same level of distributional
+challenges.
+To sidestep these challenges, we decompose the generation into two
+steps (Fig. 6). The first step predicts the conditional mean using
+(UNet) regression (see also Supplementary Section 3 and
+Supplementary Fig. S1 for details), and the second step learns a
+correction using a diffusion model as follows:
+$${\bf{x}} = \underbrace{{\mathbb{E}}[{\bf{x}}| {\bf{y}}]}
+_{:= {\boldsymbol{\mu }}({\rm{regression}})} + \quad

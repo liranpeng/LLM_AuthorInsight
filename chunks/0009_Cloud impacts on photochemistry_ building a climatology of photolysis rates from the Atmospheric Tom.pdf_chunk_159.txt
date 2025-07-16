@@ -1,0 +1,11 @@
+and photochemistry during TRACE-P: 1. Analysis using radia-
+tive transfer and photochemical box models, J. Geophys. Res.,
+108, 8821, https://doi.org/10.1029/2002JD003171, 2003.
+Levelt, P. F., van den Oord, G. H. J., Dobber, M. R., Malkki, A.,
+Visser, H., de Vries, J., Stammes, P., Lundell, J. O. V., and Saari,
+H.: The ozone monitoring instrument, IEEE T. Geosci. Remote,
+44,
+1093–1101,
+https://doi.org/10.1109/TGRS.2006.872333,
+2006.
+Li, J., Huang, J., Stamnes, K., Wang, T., Lv, Q., and Jin, H.:

@@ -1,0 +1,8 @@
+vection test case to demonstrate that shape-preserving lim-
+iters effectively eliminate spurious grid-scale oscillations.
+Contrary to traditional speciﬁcations of the slotted-cylinder
+initial condition, we have chosen to overlay it by a back-
+ground value of φ = 0.1 instead of a zero background value.
+Again, this is motivated by typical conditions found in the at-
+mosphere where structures in tracer distributions frequently
+overlay some smooth background distribution. In that case,

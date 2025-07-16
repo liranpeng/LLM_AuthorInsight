@@ -1,0 +1,8 @@
+Jet Propul. Lab., Pasadena, Calif., http://jpldataeval.jpl.nasa.gov
+(last access: 23 November 2018), 2015.
+Cesana, G. and Waliser, D. E.: Characterizing and understand-
+ing systematic biases in the vertical structure of clouds in
+CMIP5/CFMIP2 models, Geophys. Res. Lett., 43, 10538–10546,
+https://doi.org/10.1002/2016GL070515, 2016.
+Chang, J. S., Brost, R. A., Isaksen, I. S. A., Madronich, S., Middle-
+ton, P., Stockwell, W. R., and Walcek, C. J.: A three-dimensional

@@ -1,0 +1,9 @@
+such patterns.
+For quantifying the sub-cloud layer budgets, as for many
+other questions, a limiting factor has been an inability to
+measure mesoscale variability in the vertical motion ﬁeld.
+EUREC4A’s measurements not only address this past short
+coming, but the ship-based sounding network additionally
+quantiﬁes the mean vertical motion at different scales. The
+arrangement of measurements, particularly ﬂight segments,
+was designed to quantify the Lagrangian evolution of air

@@ -1,0 +1,8 @@
+nosed. These diagnostics need to be revisited for the model
+versions used in upcoming assessments (e.g., Lamarque et
+al., 2013; Collins et al., 2016)
+Typically, the probability of occurrence of a species’ abun-
+dance is weighted by the air mass of the parcel, but, if we are
+interested in the chemical reactivity, then the parcel should
+be weighted by the chemical rates in the parcel (e.g., moles
+per day). Such weighting is an obvious choice in that it tells

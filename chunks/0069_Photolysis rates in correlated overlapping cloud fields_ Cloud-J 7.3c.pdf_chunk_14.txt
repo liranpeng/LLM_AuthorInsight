@@ -1,0 +1,10 @@
+layer, conserving total cloud water (average clouds); and
+(iii) decreasing the cloud fraction and cloud water in a layer
+by using a reduced cloud fraction, f 3/2 followed by aver-
+aging across the layer (Briegleb, 1992). These methods are
+compared with cloud-overlap models in Sect. 3. Here, we fo-
+cus on how the ICAs differ across cloud-overlap models.
+2.1
+Random overlap
+The ways in which fractionally cloudy layers can overlap is
+shown schematically in Fig. 1. One assumption is random

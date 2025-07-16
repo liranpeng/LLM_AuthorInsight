@@ -1,0 +1,9 @@
+trices at each level at a cost of order 83, while the Feautrier
+approach solves the ﬁnite-difference equations with 4×4 ma-
+trices at split levels for a cost of order 2×43. As a ﬁrst guess,
+the Feautrier code should run 4 times faster than the equiv-
+alent DISORT code. We examine the costs and options of
+wavelength binning and cloud-ﬁeld approximations below.
+4.1
+Solar-J versus RRMTG-SW
+Cloud-J (and hence Fast-J) has been extensively tested in

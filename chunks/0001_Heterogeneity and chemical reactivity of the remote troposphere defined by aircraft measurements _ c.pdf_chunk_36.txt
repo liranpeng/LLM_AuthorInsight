@@ -1,0 +1,8 @@
+Here we report on this model-derived product that was pro-
+posed for ATom, the daily averaged reaction rates determin-
+ing the production and loss of O3 and the loss of CH4 for 10 s
+averaged air parcels. We calculate these rates with 3D chem-
+ical models that include variations in clouds and photolysis
+and then assemble the statistical patterns describing the het-
+erogeneity (i.e., high spatial variability) of these rates and the
+underlying patterns of reactive gases.

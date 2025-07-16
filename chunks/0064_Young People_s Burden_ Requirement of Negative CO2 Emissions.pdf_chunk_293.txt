@@ -1,0 +1,31 @@
+0
+ 100
+ 200
+ 300
+Monthly mean
+Smoothed mean
+Sunspot numbers
+(b)
+3.8
+6.7
+3.2 6.8
+5.3
+7.1
+5.3
+Figure A5. Solar irradiance and sunspot number in the era of satellite data. Left scale is the energy passing through an area perpendicular
+to Sun–Earth line. Averaged over Earth’s surface the absorbed solar energy is ∼240 W m−2, so the full amplitude of the measured solar
+variability is ∼0.25 W m−2.
+1850
+1900
+1950
+2000
+2050
+2100
+  −.5
+ 0.
+ .5
+1.0
+1.5
+2.0
+Observations
+Alternative scenario

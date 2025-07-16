@@ -1,0 +1,8 @@
+include emissions from Africa and South America, while other BB
+emissions exclude those regions since they are tagged separately. Other BB
+does include southern Asia as well as Australia.
+We examine the performance of the GEOS-5 forecasts by
+comparing the simulated CO to the QCLS observations. The
+forecasts provided during the mission used forecast wind
+ﬁelds, with the forecast lead time varying depending on the
+timing of the ﬂight. For consistency, the results shown here

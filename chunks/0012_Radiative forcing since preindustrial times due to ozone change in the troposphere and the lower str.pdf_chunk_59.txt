@@ -1,0 +1,35 @@
+istry including Cl/Br, hetero-
+geneous chemistry on PSC
+I/II, aerosols
+10
+FRSGC UCI
+CTM
+Second
+order
+moment
+(Prather,
+1986)
+Mass
+ﬂuxes
+taken
+from
+the
+ECMWF-
+IFS ﬁelds
+Detailed
+Ox/HOx/NOx/
+CH4/VOC
+chemistry,
+35
+species, using ASAD package
+(Carver et al., 1997)
+LINOZ
+linearized
+ozone
+chemistry (Mc Linden et al.,
+2000)
+in comparison to FK98. Most of the models show a smaller
+ozone mixing ratio with a deviation ranging from −20 to
+−30% (ULAQ, NCAR MACCM, STOCHEM HadGEM1,
+UM CAM,
+LMDzINCA,

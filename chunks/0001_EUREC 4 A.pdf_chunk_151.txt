@@ -1,0 +1,8 @@
+Fig. 15. The sensitivity of frontal density gradients to spatial
+resolution was explored by subsampling data from 0.08 to
+100 km (Fig. 15). For each length scale, the percentage fre-
+quency of each density gradient was calculated. This analy-
+sis demonstrates that smaller length scales yield larger den-
+sity gradients. The largest gradients were found at spatial
+scales of only 1 km and were associated with strong, local
+freshening. These are believed to be associated with small-

@@ -1,0 +1,4 @@
+verify the stratospheric sink using MLS data and follow that loss signal down to the surface and compare 
+with surface observations. Stratospheric loss has a strong seasonal cycle and is further modulated by the 
+Quasi-Biennial Oscillation (QBO); these cycles are seen equally in both observations and the models. 
+When filtered for interannual variability, the modeled surface signal is QBO-caused, and it reproduces the

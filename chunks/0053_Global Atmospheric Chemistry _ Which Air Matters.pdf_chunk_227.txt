@@ -1,0 +1,8 @@
+A., Sudo, K., Nagashima, T., Shindell, D. T., Faluvegi, G.,
+and Strode, S. A.: Use of North American and European air
+quality networks to evaluate global chemistry-climate model-
+ing of surface ozone, Atmos. Chem. Phys., 15, 10581–10596,
+https://doi.org/10.5194/acp-15-10581-2015, 2015.
+Schoeberl, M. R., Ziemke, J. R., Bojkov, B., Livesey, N., Duncan,
+B., Strahan, S., Froidevaux, L., Kulawik, S., Bhartia, P. K., Chan-
+dra, S., Levelt, P. F., Witte, J. C., Thompson, A. M., Cuevas, E.,

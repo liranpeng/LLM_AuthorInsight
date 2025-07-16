@@ -1,0 +1,9 @@
+sphere, and surface) will provide information on the efﬁca-
+cies of the forcings to drive changes in climate.
+3.1.1
+Transient historical coupled-ocean simulations
+These simulations parallel historical which is a simulation
+from 1850 to 2014 with all forcings applied (Eyring et al.,
+2016a), and differ only by ﬁxing the anthropogenic emis-
+sions or concentrations of a speciﬁed class of species. All
+other forcing agents must evolve as in historical. Perturba-

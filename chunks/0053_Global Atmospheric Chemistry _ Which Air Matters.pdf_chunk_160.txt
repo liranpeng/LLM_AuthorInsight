@@ -1,0 +1,8 @@
+with instruments working, acquiring well over 90 % of the
+proposed dataset, and measuring more than 30 000 10 s air
+parcels. A quick look at the pre-ATom planned ﬂight tracks
+and sampling in Fig. 9 shows the coverage of the ocean
+basins, the large numbers of proﬁles, and the sampling fre-
+quency as a function of altitude. The expected release of
+ATom-1 data is mid-2017 and will include the global chem-
+ical model products discussed here. These measurements

@@ -1,0 +1,1 @@
+simulated high-cloud adjustment. Last, the pattern and magnitude of relative humidity changes, simulated with greater fidelity via explicitly resolving convection, are notably similar to conventional climate models.

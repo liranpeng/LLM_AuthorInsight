@@ -1,0 +1,10 @@
+also made available in the Supplement. Conclusions and a
+brief summary of results are provided in Sect. 4.
+2
+Transport equation forms and discretization
+categories
+The continuity equation for a passive and inert scalar φ can
+be written in various forms such as ﬂux form or advective
+form. The choice of the form of the continuous transport
+equation from which the discretized scheme is derived ob-
+viously depends on the numerical method. Below we de-

@@ -1,0 +1,7 @@
+ative to the J value calculated from the weighted average of all
+ICAs using model G6/.33. Values here are calculated using a solar
+zenith angle of 13.6◦and a surface albedo of 0.10 and averaged over
+640 FCAs (108, 125 ICAs) derived from the equatorial statistics (all
+longitudes) of cloud fraction, liquid water content, and ice water
+content from a snapshot of a T319L60 meteorology from the Eu-
+ropean Centre for Medium-range Weather Forecasts. Three simple

@@ -1,0 +1,10 @@
+tend up to an SZA of 80◦but are largest of course at twilight.
+The high-latitude atmosphere will have SZAs greater than
+80◦for much of the day, and thus RRTMG may lead to a
+cold bias for the high latitudes.
+3.2
+Low-level marine stratus cloud
+For the stratus cloud, the liquid-water path (LWP, g m−2) in
+each layer is derived from the LWC and height of each layer
+(Table 3) and is plotted versus altitude in Fig. 4a as described
+in Sect. 2.3. The resulting cloud optical depth in each layer,

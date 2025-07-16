@@ -1,0 +1,11 @@
+Inertial system
+Paparazzi Apogee autopilot providing UAS ﬂight parameters (latitude, longitude, altitude, pitch, roll,
+yaw, horizontal wind speed)
+Table B16. Caravela.
+Instrument
+Brief description
+Pyranometer
+CS301 Apogee SP-110-SS pyranometer measuring downwelling shortwave radiation (360–1120 nm)
+Pyrgeometer
+Apogee SL-510 pyrgeometer measuring downwelling longwave radiation (5–30 µm)
+Weather sensors

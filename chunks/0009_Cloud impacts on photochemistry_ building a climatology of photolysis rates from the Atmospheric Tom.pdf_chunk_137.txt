@@ -1,0 +1,15 @@
+of interest.
+Acknowledgements. This
+work
+is
+supported
+by
+the
+ATom
+investigation under the National Aeronautics and Space Adminis-
+tration’s (NASA) Earth Venture program (grants NNX15AJ23G,
+NNX15AG57A, NNX15AG58A, NNX15AG71A), Earth Science
+Project Ofﬁce (see https://espo.nasa.gov/atom/content/ATom), and
+the Oak Ridge National Laboratory Distributed Active Archive
+Center (see https://daac.ornl.gov/ATOM). The National Center
+for Atmospheric Research is sponsored by the National Science

@@ -1,0 +1,10 @@
+and Kirchstetter et al. (2004). We also take into account the
+hygroscopicity of sea salt aerosols.
+The tangent-linear operator (H = ∂H
+∂xi ) is a linearized ver-
+sion of the non-linear observation operator H around the sys-
+tem state x, and it consists of partial derivatives of H with
+respect to all input variables. It gives a ﬁrst-order approxi-
+mation (δτ) of the difference between the unperturbed (Hx)
+and the perturbed results (H(x + 1x)) of the non-linear op-
+erator H.

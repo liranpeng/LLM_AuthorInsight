@@ -1,0 +1,56 @@
+“2 minus 1”
+“2 minus 1c/1b”
+“2 minus 1a”
+DU T
+DU S
+DU T
+DU S
+DU T
+DU S
+ULAQ
+10.8
+−12.6
+7.9
+−17.5
+−2.6
+−18.3
+DLR E39C
+8.9
+−16.1
+9.0
+−23.5
+−2.1
+−17.9
+NCAR MACCM
+9.4
+−12.7
+8.6
+−20.1
+CHASER
+9.8
+−14.1
+9.7
+−14.1
+−1.2
+−14.8
+STOCHEM HadGEM1
+11.1
+10.9
+UM CAM
+14.2
+13.8
+LMDzINCA
+9.6
+STOCHEM HadAM3
+9.2
+UIO CTM2
+9.8
+−28.6
+FRSGC UCI
+9.4
+−24.4
+2.2
+−25.4
+downward ozone ﬂux from the stratosphere in the UM CAM
+model may contribute to the relatively high tropospheric in-
+crease in this model.

@@ -1,0 +1,8 @@
+For L-CH4 (bottom row), the ATom–model pattern is sim-
+ilar to L-O3, but higher ATom reactivity occurs at lower alti-
+tudes. Overall, the ATom L-CH4 is slightly greater than the
+modeled L-CH4. L-O3 is dominated by O(1D) and HO2 loss,
+while L-CH4 is limited to OH loss. Overall, there is clear ev-
+idence that the Atlantic and Paciﬁc have very different chem-
+ical mixtures controlling the reactivities and that convection
+over land (monsoon or biomass burning) creates air masses

@@ -1,0 +1,8 @@
+give similar results when presented with the ATom-1 MDS.
+The broad agreement of the cumulative reactive PDs across a
+range of model formulations using differing levels of chem-
+ical complexity shows this approach is robust. The different
+protocols for calculating reactivities as well as the uncer-
+tainty in cloud ﬁelds appear to have a small impact on the
+shape of the cumulative PDs but are informative regarding
+the minimum structural uncertainty in estimating the 24 h re-

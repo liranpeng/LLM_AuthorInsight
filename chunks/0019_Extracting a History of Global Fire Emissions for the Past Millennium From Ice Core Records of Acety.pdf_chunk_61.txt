@@ -1,0 +1,11 @@
+(2)
+Δacetylene; ant ¼
+mant −oant
+j
+j
+oant
+(3)
+where m stands for the modeled acetylene level and o for the observed mean level of acetylene from the ice
+core record from Greenland (grn) and Antarctica (ant). Emissions scenarios were considered viable if
+Δacetylene, grn and Δacetylene, ant were both <0.1 and rejected if either Δacetylene, grn or Δacetylene, ant were
+>0.1 as was done in Nicewonger et al. (2018, 2020).

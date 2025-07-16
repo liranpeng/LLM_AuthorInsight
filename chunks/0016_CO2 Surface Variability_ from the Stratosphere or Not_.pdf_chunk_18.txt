@@ -1,0 +1,8 @@
+hole (Ruiz et al., 2021; Ruiz and Prather, 2022; Tang et al.,
+2021). For CO2, I develop two model scenarios to high-
+light the impacts of atmospheric transport. First, I deﬁne a
+surface-emissions-driven eCO2 scenario, in which the total
+atmosphere increases at a constant rate of 2 ppm yr−1 (parts
+per million, dry-air mole fraction), driving a ﬂux of about
+2 PgCyr−1 into the SH. This eCO2 scenario is a simple ex-
+periment with area-uniform (20–60◦N) and time-constant

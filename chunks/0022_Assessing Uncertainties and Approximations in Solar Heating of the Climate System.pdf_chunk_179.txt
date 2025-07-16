@@ -1,0 +1,34 @@
+
+
+up
+solar
+0 0
+4 / 1
+2
+¼
+n n
+n
+n
+n n
+n
+I
+A u w
+j A u w
+A u F
+
+
+
+
+
+
+
+
+
+
+
+
+
+(6)
+Evaluation of interactive OSA (SJ minus SJ/OSA) uses the full spherical geometric atmosphere with MAX-
+COR cloud overlap. The global mean errors with fixed OSA are (+0.7, +0.2, −0.8 W m−2) for (reflection, 
+atmospheric absorption, and surface absorption), respectively (T1/R22). The global mean error, fixed minus

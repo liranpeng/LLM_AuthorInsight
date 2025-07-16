@@ -1,0 +1,8 @@
+models. Stratospheric studies such as Douglass et al. (1999)
+have provided a quantitative basis for testing chemistry and
+transport and deﬁning model errors, but few of these studies
+have tackled the problem of modeling the heterogeneity of
+tropospheric chemistry. The major model differences lie in
+the ﬁrst step because when we specify the mix of key chemi-
+cal species, most models agree on the CH4 and O3 chemical
+budgets (P2018). The intent of ATom was to collect an at-

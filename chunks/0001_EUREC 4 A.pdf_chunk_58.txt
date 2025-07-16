@@ -1,0 +1,9 @@
+sampled clouds in the area of ATR operations in the west-
+ern half of the EUREC4A-Circle. UASs provided extensive
+measurements of the lower atmosphere, mostly in the area
+between the EUREC4A-Circle and Barbados. Due to their
+limited range many (Skywalkers, CU-RAAVEN, and quad-
+copter) only appear as dots on Fig. 2.
+Different clusters of radiosonde soundings (evident as
+short traces, or whiskers, of gray dots) can also be discerned
+in Fig. 2. Those soundings originating from the BCO (342)

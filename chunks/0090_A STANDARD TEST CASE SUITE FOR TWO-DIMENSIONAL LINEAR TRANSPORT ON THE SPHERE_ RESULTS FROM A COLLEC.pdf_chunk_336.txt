@@ -1,0 +1,10 @@
+53,
+237–252,
+doi:10.1134/S0965542513020073, 2013.
+Godunov, S. K.: A difference scheme for numerical computation
+of discontinuous solutions of equations in ﬂuid dynamics, Math.
+Sb., 47, 271, also: Cornell Aero. Lab. translation, 1959.
+Guba, O., Taylor, M. A., and St-Cyr, A.: Optimal limiters for the
+spectral element method, J. Comput. Phys., in review, 2013.
+Harris, L. M., Lauritzen, P. H., and Mittal, R.: A Flux-form ver-
+sion of the Conservative Semi-Lagrangian Multi-tracer transport

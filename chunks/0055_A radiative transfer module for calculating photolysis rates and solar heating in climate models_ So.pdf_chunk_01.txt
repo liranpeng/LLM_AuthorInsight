@@ -1,0 +1,7 @@
+2Lawrence Livermore National Laboratory, Livermore, California, 94551, USA
+3Department of Computer Science, University of California Irvine, Irvine, California, 92697, USA
+Correspondence to: Juno Hsu (junoh@uci.edu)
+Received: 31 January 2017 – Discussion started: 8 February 2017
+Revised: 25 May 2017 – Accepted: 30 May 2017 – Published: 3 July 2017
+Abstract. Solar-J is a comprehensive radiative transfer
+model for the solar spectrum that addresses the needs of

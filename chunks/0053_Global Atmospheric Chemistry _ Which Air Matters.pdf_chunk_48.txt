@@ -1,0 +1,8 @@
+proximate the true P–L that the models calculate using the
+full set of reactions. One reason for separating P and L in
+this way is to think of P as independent of O3 and L as be-
+ing linearly proportional. Unfortunately, while the P Reac-
+tions (2) have no obvious O3 terms, both these reactions and
+the OH and HO2 abundances in Reactions (3) depend indi-
+rectly on O3; and thus with a true linearization of P–L, the
+lifetime of O3 is much shorter than inferred from L (Prather

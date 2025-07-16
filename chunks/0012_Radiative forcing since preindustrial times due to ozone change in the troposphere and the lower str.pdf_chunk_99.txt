@@ -1,0 +1,10 @@
+STOCHEM HadGEM1 model, zonally and annually aver-
+aged. The models with stratospheric chemistry calculate a
+pronounced increase in NOx exceeding 1 ppbv in the upper
+region of the domain between 25 and 30 km. This is related
+primarily to the increase in N2O, which is the most important
+source of NOx in this altitude range.
+The ozone column changes to be discussed in this sec-
+tion are listed in Table 4. For these calculations the same
+tropopause deﬁnition is used for each model.
+It is based

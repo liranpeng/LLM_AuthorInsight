@@ -1,0 +1,20 @@
+Layer 2
+Layer 1
+Layer 2
+Layer 1
+ICA# =  
+3 %      17%              12%                      68% clear
+1         2                  3                             4         Independent Column Atmospheres
+9%        11%       6%                      74% clear
+1           2          3                                  4        Independent Column Atmospheres
+Layer 2
+Layer 1
+ICA# =  
+f L2
+L1
+L1
+Figure 1. Schematic of overlapping fractional cloud layers.
+See text.
+the complement.
+wL1(#1) = f L1
+(1)

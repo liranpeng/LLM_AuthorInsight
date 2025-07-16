@@ -1,0 +1,6 @@
+and accounts for the interaction between nitrogen additions and the biochemical 
+processes that control N2O emissions. We use bottom-up (inventory, statistical 
+extrapolation of flux measurements, process-based land and ocean modelling) and 
+top-down (atmospheric inversion) approaches to provide a comprehensive 
+quantification of global N2O sources and sinks resulting from 21 natural and human 
+sectors between 1980 and 2016. Global N2O emissions were 17.0 (minimum–maximum

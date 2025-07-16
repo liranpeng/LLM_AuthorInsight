@@ -1,0 +1,9 @@
+Lin and Rood (1996) scheme is used in NCAR’s Com-
+munity Atmosphere Model Finite-Volume version (CAM-
+FV, Neale et al., 2010) and implemented on a regular
+latitude–longitude grid. The transport scheme in CAM-FV
+applies successive applications of ﬁrst-order advection and
+PPM (piecewise parabolic method; Colella and Woodward,
+1984) ﬂux-divergence operators that are carefully combined
+to minimize splitting errors. To render CAM-FV, approxi-
+mately shape-preserving slope limiters and curvature lim-

@@ -1,0 +1,8 @@
+the aerosol optical depth (AOD) assimilation module in the
+chemistry transport model (CTM) MOCAGE (Modèle de
+Chimie Atmosphérique à Grande Echelle). Our goal is to as-
+similate the spatially averaged 2-D column AOD data from
+the National Aeronautics and Space Administration (NASA)
+Moderate-resolution Imaging Spectroradiometer (MODIS)
+instrument, and to estimate improvements in a 3-D CTM
+assimilation run compared to a direct model run. Our as-

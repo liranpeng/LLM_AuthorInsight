@@ -1,0 +1,8 @@
+matter in this case, and this method shows skill in differen-
+tiating among the models’ chemistry. Testing 100 km scale
+models with 2 km measurements using these tools also ad-
+dresses a core question about model resolution and whether
+ﬁne-scale atmospheric structures matter to the overall ozone
+and methane budget. A new method enabling these six global
+chemistry–climate models to ingest an externally sourced cli-
+matology and then compute air parcel reactivity is demon-

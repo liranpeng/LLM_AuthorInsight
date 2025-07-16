@@ -1,0 +1,8 @@
+that these regions are somewhat larger than the smaller sub-
+regions used to analyse the seasonality in the multi-model
+ensemble monthly mean near-surface O3 behaviour in Section 4.1
+and exhibit a more varied change across the timeline. For these
+global regions we determine the impact that applying A1B_HIGH
+has on regional air quality during JJA and show the variations in
+exceedences for the years 2025 and 2050.
+4.3. Present and future exceedences in Europe and the USA

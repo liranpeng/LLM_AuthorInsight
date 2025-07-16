@@ -1,0 +1,5 @@
+D04306, doi:10.1029/2010JD014939.
+Stevenson, D. S., R. M. Doherty, M. G. Sanderson, W. J. Collins, C. E. Johnson, and R. G. Derwent (2004), Radiative forcing from aircraft NOx
+emissions: Mechanisms and seasonal dependence, J. Geophys. Res., 109, D17307, doi:10.1029/2004JD004759.
+Stevenson, D. S., et al. (2006), Multimodel ensemble simulations of present-day and near-future tropospheric ozone, J. Geophys. Res., 111,
+D08301, doi:10.1029/2005JD006338.

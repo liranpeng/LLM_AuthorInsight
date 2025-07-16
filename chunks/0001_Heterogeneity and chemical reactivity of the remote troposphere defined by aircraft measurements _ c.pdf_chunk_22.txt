@@ -1,0 +1,8 @@
+ent longitudes produced nearly identical 2D PDs, but these
+PDs were distinctly different across models. This result sup-
+ported the premise that the ATom PDs would provide a useful
+metric for global chemistry models.
+In P2017, we established a method for running the chem-
+istry modules in the CTMs and CCMs with an imposed
+chemical composition from aircraft data: the ATom run, or
+“A run”. In the A run, the chemistry of each grid cell does not

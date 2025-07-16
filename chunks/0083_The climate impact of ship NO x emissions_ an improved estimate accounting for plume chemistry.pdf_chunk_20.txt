@@ -1,0 +1,8 @@
+and well within the plausible range of 3.0–10.4 Tg(N) yr−1
+(Corbett and Koehler, 2003; Endresen et al., 2007, 2003;
+Eyring et al., 2005b). GEOS-Chem also includes ship emis-
+sions of SO2 (8.5 Tg(S) yr−1; Eyring et al., 2005b), CO
+(1.1 Tg yr−1; Wang et al., 2008), and VOCs, although ship
+CO and VOCs are small compared to other sources of those
+gases. We quantify the effects of ship emissions by compar-
+ing a simulation with the base inventory to one with a uni-

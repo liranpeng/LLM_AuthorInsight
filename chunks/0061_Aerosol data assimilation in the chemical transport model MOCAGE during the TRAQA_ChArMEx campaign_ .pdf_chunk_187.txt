@@ -1,0 +1,8 @@
+R., Mineau, J.-L., and Tonnelier, T.: Light scattering at
+small angles by atmospheric irregular particles: modelling and
+laboratory measurements, Atmos. Meas. Tech., 7, 931–939,
+doi:10.5194/amt-7-931-2014, 2014.
+Mahowald, N., Luo, C., del Corral, J., and Zender, C. S.: Interannual
+variability in atmospheric mineral aerosols from a 22-year model
+simulation and observational data, J. Geophys. Res.-Atmos., 108,
+4352, doi:10.1029/2002JD002821, 2003.

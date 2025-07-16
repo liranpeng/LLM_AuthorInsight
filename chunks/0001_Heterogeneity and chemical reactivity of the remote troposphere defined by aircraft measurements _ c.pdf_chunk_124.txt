@@ -1,0 +1,8 @@
+ities (except GISS), and there is fairly good agreement with
+the ATom-1 PDs. For the Atlantic (right columns, Fig. 5), the
+models show a larger spread, presumably due to the differ-
+ing inﬂuence of pollution from neighboring continents. The
+ATom-1 Atlantic PDs also show slightly larger disagreement
+with the models (e.g., the maximum in P-O3 at 1–2 ppb d−1
+and minimum in L-O3 at 2–3 ppb d−1) and the notably higher
+frequency of hot spots with L-O3 > 5 ppb d−1. The inﬂuence

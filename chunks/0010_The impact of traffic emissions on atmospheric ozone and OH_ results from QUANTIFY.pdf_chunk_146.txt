@@ -1,0 +1,8 @@
+intermodel differences. For three models, the road forcing
+is highest, followed by shipping followed by aviation. For
+p-TOMCAT this order of importance is reversed.
+The forcings are within their stated uncertainties in broad
+agreement with those reported by Fuglestvedt et al. (2008)
+except for road trafﬁc, for which a value of 54±11 mWm−2
+was reported. A main reason for the weaker radiative forc-
+ing is the use of lower road emissions in this study com-

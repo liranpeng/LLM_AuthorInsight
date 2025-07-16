@@ -1,0 +1,5 @@
+to the tropical boundary of the LMS, (ii) the net photochemical source within the LMS region, and (iii) the
+change in the daily averaged LMS O3 mass through the month, e.g., LS-e90= wO3LMS@100hPa + (P −L)LMS−
+dM∕dtLMS.
+For TC the O3 STE is calculated based on the change in tropospheric O3 content after each tracer transport
+step using an isosurface (e90, 120 ppb-O3, 250 ppb-O3) to mark the tropopause. This method is developed

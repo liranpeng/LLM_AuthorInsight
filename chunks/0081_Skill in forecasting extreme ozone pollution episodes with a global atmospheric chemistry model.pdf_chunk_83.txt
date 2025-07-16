@@ -1,0 +1,8 @@
+concurrent sampling, the CTM values are averaged for exact-
+day matches for each day and location of the observations
+that fall in that percentile bin. In a perfect model, the green
+and red curves would match, meaning that the CTM predicts
+changes relative to the median at the right time and place.
+The blue curve treats the CTM effectively like a climate sim-
+ulation and does not try to locate the high-O3 periods over the
+correct cells at the correct time. Because the CTM hindcast

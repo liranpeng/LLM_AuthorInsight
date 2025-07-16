@@ -1,0 +1,11 @@
+identify sun–cloud geometry conditions simply not possible
+in the 1-D cloud models.
+www.atmos-chem-phys.net/18/16809/2018/
+Atmos. Chem. Phys., 18, 16809–16828, 2018
+16816
+S. R. Hall et al.: Cloud impacts on photochemistry
+Figure 4.
+Figure 5a (J-O1D) and b (J-NO2) provide another view
+of the rlnJ statistics. Figure 5 has the same six blocks as
+Fig. 4, but plots ﬁve quantities schematically in a single line
+describing each model’s statistics: percent occurrence of di-

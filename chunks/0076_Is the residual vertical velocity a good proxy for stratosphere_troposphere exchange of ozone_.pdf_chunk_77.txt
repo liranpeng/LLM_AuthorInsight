@@ -1,0 +1,5 @@
+rate ﬂux diagnostics methods. Thus, the two simulations, based on ECMWF IFS data, provide a good analog
+for diﬀerent chemistry-climate models and climate change simulations. As similarly pointed out in Olsen
+et al. [2013], one cannot simply quantify the multiyear downward transport by the BDC using the residual
+advective velocity and scale it to represent the corresponding O3 STE.
+We recommend that STE O3 ﬂuxes be directly calculated in numerical models using the tropospheric column

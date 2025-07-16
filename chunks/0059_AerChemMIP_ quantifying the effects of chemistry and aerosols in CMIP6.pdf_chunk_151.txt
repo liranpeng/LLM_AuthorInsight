@@ -1,0 +1,8 @@
+sistently will allow analysis of differences in aerosol optical
+property calculations, as well as changes in aerosol humid-
+ity growth in a changing climate and with changing emission
+patterns. In combination with emissions in transient climate
+simulations these diagnostics will allow complete analysis of
+feedback processes; see below.
+Another problem is which ambient humidity in the model
+is picked to compute AOT. Some models compute an all-sky

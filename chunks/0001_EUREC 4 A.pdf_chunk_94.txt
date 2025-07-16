@@ -1,0 +1,10 @@
+6 SWIFT drifters, 2 autonomous prototype drifters (OCA-
+RINA and PICCOLO), and 22 drifters. In Fig. 8 the air–sea
+temperature difference of about 0.8 K is based on Saildrone
+data, which also quantiﬁes the role of moisture in driving
+density differences. During EUREC4A more than half of the
+https://doi.org/10.5194/essd-13-4067-2021
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+4078
+B. Stevens et al.: EUREC4A
+Figure 8. Ocean and atmospheric boundary layer upwind of the

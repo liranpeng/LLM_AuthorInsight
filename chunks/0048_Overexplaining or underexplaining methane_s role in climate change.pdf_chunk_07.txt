@@ -1,0 +1,15 @@
+0.19
+-10
+-5
+0
++5
+Rate (1/yr)
+Anomaly (%)
+A
+B
+C
+Fig. 1. (A) Timeline of the international assessments of methane (CH4) as a
+greenhouse gas, denoting the period of data evaluated (fat arrows) and the
+publication date of each Intergovernmental Panel on Climate Change (IPCC)
+Assessment Report [FAR (1), SAR (2), TAR (3), AR4 (4), AR5 (5), and projected AR6].
+(B) Observed global mean CH4 [mole fraction in parts per billion (ppb), 10−9] for

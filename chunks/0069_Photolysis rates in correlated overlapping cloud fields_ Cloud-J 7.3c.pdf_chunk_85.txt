@@ -1,0 +1,9 @@
+P. R.: Simulation of summertime ozone over North-America, J.
+Geophys. Res., 98, 14797–14816, 1993.
+Joseph, J. H., Wiscombe, W. J., and Weinman, J. A.: Delta-
+Eddington Approximation for radiative ﬂux-transfer, J. Atmos.
+Sci., 33, 2452–2459, 1976.
+Kato, S., Sun-Mack, S., Miller, W. F., Rose, F. G., Chen, Y., Min-
+nis, P., and Wielicki, B. A.: Relationships among cloud occur-
+rence frequency, overlap, and effective thickness derived from
+CALIPSO and CloudSat merged cloud vertical proﬁles, J. Geo-

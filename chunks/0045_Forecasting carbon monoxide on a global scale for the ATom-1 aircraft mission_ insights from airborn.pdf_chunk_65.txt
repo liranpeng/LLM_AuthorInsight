@@ -1,0 +1,11 @@
+Atmos. Chem. Phys., 18, 10955–10971, 2018
+10962
+S. A. Strode et al.: Forecasting carbon monoxide on a global scale
+(a)
+(b)
+(c)
+Figure 4. CO (ppb) from the (a) QCLS observations, (b) GEOS-5
+analysis, and (c) the GEOS-5–observation difference for the ATom-
+1 circuit including all 11 research ﬂight segments. The GEOS-5 CO
+is taken from the analysis closest to the midpoint of the ﬂight time
+and interpolated to the ﬂight track following the longitude, latitude,

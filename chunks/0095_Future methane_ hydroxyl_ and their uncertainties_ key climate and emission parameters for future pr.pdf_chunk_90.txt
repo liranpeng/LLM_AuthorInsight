@@ -1,0 +1,9 @@
+tions to simplify the perturbation analysis and enable com-
+parisons between CTMs, but these could alter τCH4×OH.
+In particular, the simulations neglect variability in biogenic
+VOC emissions (Guenther et al., 2006), trends in anthro-
+pogenic emissions and their location, and trends in atmo-
+spheric methane. We compare our GEOS-Chem/MERRA
+simulation to an available GEOS-Chem simulation (M. Mu,
+Atmos. Chem. Phys., 13, 285–302, 2013
+www.atmos-chem-phys.net/13/285/2013/

@@ -1,0 +1,5 @@
+and ethane were based on the Representative Concentration Pathway (RCP) year 2000 inventories
+(Lamarque et al., 2010). Biomass burning emissions of dry matter were based on the Global Fire
+Emissions Database Version 3.1 (GFED3.1; van der Werf et al., 2010). Emission factors were used to calcu-
+late biomass burning emissions of acetylene and ethane from dry matter emissions (Akagi et al., 2011;
+Andreae, 2019).

@@ -1,0 +1,10 @@
+models without transport have been developed (e.g., neural
+networks in Nicely et al., 2017). We choose the A-run ap-
+proach as it will allow us to more directly compare modeled
+reactivities based on the primary CTM–CCM coding and still
+allows for all models to be initialized with the same chemical
+composition.
+4
+Probability distributions of species and reactivities
+We characterize the heterogeneity in tropospheric chemistry
+through the joint-probability distributions of the frequency

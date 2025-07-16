@@ -1,0 +1,7 @@
+generated front has some differences in morphology compared to
+the ground truth, the consistency of its morphology across winds
+and temperature is reassuring. The intense rainfall associated with
+the convergence at the front can be seen in the radar reflectivity for
+the same date and time in bottom row of Fig. 3. The generated
+radar reflectivity is appropriately concentrated near the sharpened
+frontal boundary at the cold sector. We expand this analysis of the

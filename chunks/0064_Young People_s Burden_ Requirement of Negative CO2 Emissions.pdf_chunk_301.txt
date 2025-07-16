@@ -1,0 +1,9 @@
+528, 437, 2015.
+Andrews, T., Gregory, J., Webb, M., and Taylor, K.: Forcing, feed-
+backs and climate sensitivity in CMIP5 coupled atmosphere-
+ocean climate models, Geophys. Res. Lett., 39, L09712,
+https://doi.org/10.1029/2012GL051607, 2012.
+Applegate, P. J., Parizek, B. R., Nicholas, R. E., Alley, R. B., and
+Keller, K.: Increasing temperature forcing reduces the Greenland
+Ice Sheet’s response time scale, Clim. Dynam., 45, 2001–2011,
+2015.

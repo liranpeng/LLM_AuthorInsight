@@ -1,0 +1,11 @@
+and chemistry in CMIP6, and we would encourage all such
+models to participate.
+7
+Data availability
+The climate model output from AerChemMIP experiments
+described in this paper will be distributed through the
+Earth System Grid Federation (ESGF) with DOIs assigned.
+As in CMIP5, the model output will be freely accessible
+through data portals after registration. In order to document
+CMIP6’s impact and enable ongoing support of CMIP, users
+are obligated to acknowledge CMIP6 and the participat-

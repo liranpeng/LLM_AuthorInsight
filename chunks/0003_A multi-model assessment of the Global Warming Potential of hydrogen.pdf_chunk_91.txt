@@ -1,0 +1,24 @@
+lifetime, means that the AGWP is equal to the steady-state radiative forcing (W
+m−2) divided by ﬂux changes (Tg H2 yr−1) needed to sustain the perturbation.
+AGWPi H
+ð Þ ¼
+1
+ΦssPerturbed
+i
+ ΦssControl
+i
+∑
+FC ERFssPerturbed
+iFC
+ ERFssControl
+iFC
+
+
+ð6Þ
+Where ΦssPerturbed
+i
+and ΦssControl
+i
+are the steady state ﬂuxes of hydrogen in the
+PERT_H2 and CTRL runs. In our setup, changes due to methane changes are
+diagnosed in a separate experiment, which leads to a scaling for methane changes.

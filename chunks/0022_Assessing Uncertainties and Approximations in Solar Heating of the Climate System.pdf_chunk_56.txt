@@ -1,0 +1,5 @@
+wavelength dependence (arbitrary cross sections) for clouds (dashed line) and typical aerosol (dotted). Rayleigh cross 
+sections have scaled by 107 to be compared with those of O3, assuming tropospheric abundance of 100 ppb. Clouds have 
+no wavelength dependence across this region and aerosols are shown for an Angstrom coefficient of 1. (b) The solar 
+spectrum and the wavelength bands used in Solar-J (blue), RRTMG (red) plus the high-resolution-visible version of 
+Solar-J/hrv (black dots).

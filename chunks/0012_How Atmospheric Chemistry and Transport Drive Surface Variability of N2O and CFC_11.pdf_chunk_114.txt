@@ -1,0 +1,4 @@
+we expect our CTM simulations based on reanalysis meteorological fields should include a semblance of 
+the chemistry and transport variability, QBO and ENSO related, that affects surface N2O. Thus, we remove 
+the modeled chemistry-transport-driven surface variability from the observed signal (i.e., NOAA observa-
+tions minus models from Figure S2) to search for an emissions signal tied to ENSO. Since the obvious QBO

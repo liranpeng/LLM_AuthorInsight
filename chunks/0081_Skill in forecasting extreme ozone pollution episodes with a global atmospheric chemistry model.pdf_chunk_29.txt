@@ -1,0 +1,8 @@
+point and observation sites. The difference is that the weights
+in Kriging are formulated to minimize the variance in the es-
+timated values (error) using a predeﬁned model of the spatial
+covariance of the data, while the weights in IDW are deter-
+mined without speciﬁc need for the covariance function.
+Kriging is often favored as it provides prediction error es-
+timates and incorporates a declustering mechanism designed
+to account for data redundancy, effectively treating highly

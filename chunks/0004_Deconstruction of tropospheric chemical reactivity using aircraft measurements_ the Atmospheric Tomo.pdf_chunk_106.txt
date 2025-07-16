@@ -1,0 +1,8 @@
+Individual parcels show highly variable individual S val-
+ues (see the examples in Fig. 48). The scatter is particularly
+large because we have included all the ATom-1 parcels, in-
+cluding continental data and very low sun angles. For com-
+parison, the basin-mean values (large blue and red dots) are
+also plotted. Differences across basins and deployments are
+modest (not shown), and the Paciﬁc–Atlantic comparison for
+ATom-1 covers this range, remembering that ATom-1 Paciﬁc

@@ -1,0 +1,9 @@
+CSLAM3/4, CAM-FV1.2). The UCISOM scheme has a
+strictly shape-preserving limiting option. However, to avoid
+“excessive” diffusion, the limiter has been relaxed, which ex-
+plains the undershoots with that scheme. If a scheme shows
+ripples with a strictly shape-preserving ﬁlter, then it may be
+due to inconsistent coupling between the air mass and tracer
+mass ﬁelds when the mixing ratio is extracted. For example, a
+scheme that is not “free-stream”-preserving will suffer from
+this deﬁciency.

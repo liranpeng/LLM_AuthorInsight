@@ -1,0 +1,8 @@
+Tilbrook, B., Tubiello, F. N., van der Laan-Luijkx, I. T., van der
+Werf, G. R., van Heuven, S., Viovy, N., Vuichard, N., Walker,
+A. P., Watson, A. J., Wiltshire, A. J., Zaehle, S., and Zhu, D.:
+Global Carbon Budget 2017, Earth Syst. Sci. Data, 10, 405–448,
+https://doi.org/10.5194/essd-10-405-2018, 2018.
+Liang, M. C., Mahata, S., Laskar, A. H., Thiemens, M. H.,
+and Newman, S.: Oxygen isotope anomaly in tropospheric
+CO2 and implications for CO2 residence time in the atmo-

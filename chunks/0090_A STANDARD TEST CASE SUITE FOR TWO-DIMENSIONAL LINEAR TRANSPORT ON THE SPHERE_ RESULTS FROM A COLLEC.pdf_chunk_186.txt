@@ -1,0 +1,8 @@
+chosen not to depict/list the conventional error norms as we
+did not ﬁnd any qualitative insights that were not visible in
+the contour plots (the error norms are available in the supple-
+mental material for the interested reader). So in the interest
+of reducing the number of ﬁgures/tables, errors ℓ2, and ℓ∞,
+as well as the minimum and maximum norms, are not shown.
+All contour plots use the same coloring scale and contour
+interval making it straightforward to compare schemes vi-

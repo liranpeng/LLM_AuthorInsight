@@ -1,0 +1,7 @@
+reduction measures, or life cycle analysis. The potential beneﬁt of
+switching to a hydrogen economy will depend on hydrogen
+leakage rates and potential reductions in CO2 emissions and co-
+emitted species. Various assumptions and estimates of hydrogen
+leakages vary from 1–10% depending on how hydrogen is being
+produced, transported, and stored22,38–40. The little data that
+exists on hydrogen leakages comes from assessments and simu-

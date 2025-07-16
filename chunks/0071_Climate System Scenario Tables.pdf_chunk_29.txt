@@ -1,0 +1,9 @@
+Table AII.6.5: ERF from all PFCs and SF6 (W m–2)
+Table AII.6.6: ERF from Montreal Protocol greenhouse gases (W m–2)
+Table AII.6.7a: ERF from stratospheric O3 changes since 1850 (W m–2)
+Table AII.6.7b: ERF from tropospheric O3 changes since 1850 (W m–2)
+Table AII.6.8: Total anthropogenic ERF from published RCPs and SRES 
+(W m–2)
+Table AII.6.9: ERF components relative to 1850 (W m–2) derived from 
+ACCMIP
+Table AII.6.10: Total anthropogenic plus natural ERF (W m–2) from

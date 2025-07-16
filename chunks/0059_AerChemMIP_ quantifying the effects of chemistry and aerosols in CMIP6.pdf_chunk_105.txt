@@ -1,0 +1,8 @@
+diative ﬂuxes between the reference and “clean” simulations
+will give the TOA and atmospheric transient ERFs. Compar-
+ison between the magnitudes and patterns of transient ERF
+with surface temperature and precipitation from the previous
+coupled model simulations will provide quantiﬁcation of the
+efﬁcacy of the NTCFs to affect climate.
+The contributions of the different groups of NTCFs to
+future climate will be quantiﬁed by further simulations in

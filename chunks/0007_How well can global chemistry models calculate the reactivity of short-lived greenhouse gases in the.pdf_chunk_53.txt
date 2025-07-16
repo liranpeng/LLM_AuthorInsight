@@ -1,0 +1,8 @@
+visual impression since the latter points often overlie the ear-
+lier ones and the choice of order was based partly on the rms
+differences, with greatest ﬁrst and smallest last. Here we can
+clearly see the type of scatter, the pattern of discrepancies
+across models, and at what levels of reactivity such discrep-
+ancy it occurs. It provides a focus for model development:
+UCI should reexamine its J-NO2 at the higher values and
+its P -O3 in the 1–3 ppb day−1 range; NCAR should examine

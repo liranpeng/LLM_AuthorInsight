@@ -1,0 +1,10 @@
+at the lower end of the constrained global mean ﬂux. E3SM
+O3v2 will now be able to contribute STE ozone ﬂuxes to fu-
+ture MIPs (Young et al., 2018).
+4
+Climate changes from O3v1 to O3v2
+The seemingly small changes from O3v1 to O3v2 had a sur-
+prisingly large impact on the lower stratosphere (Fig. 7), with
+O3v2 having about 20 % less ozone in the lower stratosphere
+(Fig. A1), but hardly any change in the troposphere and small
+changes in the mid-stratosphere (not shown). In this section,

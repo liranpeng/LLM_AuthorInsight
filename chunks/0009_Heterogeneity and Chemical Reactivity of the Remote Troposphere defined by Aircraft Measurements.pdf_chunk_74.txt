@@ -1,0 +1,9 @@
+model spread of the central models as discussed above. When
+evaluating the model’s climatology for chemical species, we
+use MDS-2. A summary of the key data ﬁles used here, as
+well as their sources and contents, is given in Table 4.
+4.1
+Probability densities of the reactivities
+The reactivities for three large domains (global, Paciﬁc, At-
+lantic) from the six-model RDS-0 are summarized in Tables 2
+and S8. Sorted PDs for the three Rs and Paciﬁc and Atlantic

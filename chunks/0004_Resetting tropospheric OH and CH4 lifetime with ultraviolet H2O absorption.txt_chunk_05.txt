@@ -1,0 +1,1 @@
+Zhu investigated the cause of this discrepancy and report that it is due in part to a previously unrecognized pathway of water vapor absorption in the ultraviolet that causes models to calculate OH concentrations that are too high and thus methane lifetimes that are too short. —Jesse Smith

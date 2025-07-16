@@ -1,0 +1,8 @@
+each data set and apply a mask using a cutoff of 0.10 rather
+than 0.67 to examine a larger area. In addition, this value of
+QPcorresponds to having one station at a distance of 250 km
+(i.e., the station is representative of a ∼5◦× 5◦grid cell).
+This ﬁgure shows that the AQS interpolation is systemati-
+cally lower than the CASTNET one for almost all locations
+and percentiles, particularly over California and from the
+central plains east to New York City. The bias is least for the

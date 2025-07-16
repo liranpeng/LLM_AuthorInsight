@@ -1,0 +1,8 @@
+(µm2 cm−3) in Fig. 65. We calculate SAD as the sum of
+the four reported modes (nucleation, Aitken, accumulation,
+and coarse), with most of the area coming from the accu-
+mulation and coarse modes. In the Paciﬁc, above the marine
+boundary layer, SAD is usually < 20 µm2 cm−3), while in the
+Atlantic SAD is much larger, 20–80 µm2 cm−3, everywhere
+below 4 km. This difference is extensive in all seasons and
+is clearly due to low-altitude continental convection from,

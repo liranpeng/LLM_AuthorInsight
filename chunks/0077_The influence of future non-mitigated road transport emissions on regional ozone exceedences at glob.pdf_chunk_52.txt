@@ -1,0 +1,7 @@
+Fig. 5 shows the ER for 2000 over both Europe and the USA,
+including the surrounding oceans, as calculated by the multi-model
+ensemble, along with the associated differences for 2025 and 2050.
+For Europe highest ER values occur over the Mediterranean
+basin, which experiences high photochemical activity, high ship-
+ping emissions and the transport of polluted air from Central and
+Southern Europe. For 2025, there are limited increases in the ER

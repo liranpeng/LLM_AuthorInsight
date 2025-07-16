@@ -1,0 +1,38 @@
+al. (2006, 2009)
+GFDL
+GFDL AM3
+Cloud data from 0.5◦AM3
+using
+1.4◦
+NCEP
+(u,v)
+(0.5◦× 0.5◦)
+16 Aug 2013
+Fast-J v6.4, liquid cloud C1
+(12 µm) and ice clouds per Fast-
+J, Briegleb averaging
+Donner et al. (2011); Naik et
+al. (2013); Mao et al. (2013);
+Li et al. (2018); Lin et
+al. (2012)
+GISS
+GISS
+Model
+2E1
+Clouds
+from
+climate
+model
+nudged
+to
+MERRA
+ﬁelds
+(2.5◦× 2.0◦)
+16 Aug 2013
+Fast-J2
+Schmidt et al. (2014); Shin-
+dell et al. (2012); Rienecker et
+al. (2011)
+GMI
+GSFC GMI
+Cloud CF + OD from MERRA-

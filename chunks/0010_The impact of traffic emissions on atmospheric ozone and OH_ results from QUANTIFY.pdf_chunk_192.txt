@@ -1,0 +1,9 @@
+gional trends and spatial distribution of key sources, in: Non-
+CO2 Greenhouse Gases (NCGG-4), Millpress, Rotterdam, 325–
+330, 2005.
+Pickering, K. E., Wang, Y., Tao, W., Price, C., and Muller, J.-F.:
+Vertical distribution of lightning NOx for use in regional and
+global chemical transport models, J. Geophys. Res., 109, 31 203–
+31 216, 1998.
+Prather, M.: Numerical advection by conservation of second-order
+moments, J. Geophys. Res., 91, 6671–6681, 1986.

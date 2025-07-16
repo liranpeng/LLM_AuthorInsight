@@ -1,0 +1,5 @@
+enhance the methane GWP value.
+Fig. 4 The GWP100 of hydrogen. Hydrogen GWP100 for the individual models (a) and model mean (b), split into contributions from methane (green),
+ozone (yellow), and stratospheric water vapor (purple). The UKCA model only includes tropospheric changes. The uncertainty range in (b) is calculated
+using the model mean and spread in underlying values found in literature and the model ensemble spread. Details on the calculation can be found in
+Methods.

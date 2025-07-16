@@ -1,0 +1,8 @@
+uncertainties in projections of future climate change include
+climate sensitivity, the effects of ocean mixing and dynam-
+ics on the climate response function discussed below, and
+aerosol climate forcing. We provide all deﬁning data so that
+others can easily repeat calculations with alternative choices.
+One clariﬁcation is important for our present paper.
+The climate calculations in this section include only fast-
+feedbacks, which is also true for most climate simulations by

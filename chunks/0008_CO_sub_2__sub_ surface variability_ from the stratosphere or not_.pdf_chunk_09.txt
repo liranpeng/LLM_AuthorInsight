@@ -1,0 +1,5 @@
+704
+M. J. Prather: CO2 surface variability: from the stratosphere or not?
+Figure 1. (a) NOAA surface CO2 monthly data (ppm, mole fraction) from Dlugokencky et al. (2021b). The ﬁve sites are as follows: BRW –
+Barrow, AK (now Utqia˙gvik), at 71◦N, 156◦W; MLO – Mauna Loa, HI, at 20◦N, 156◦W; SMO – Tutuila, Am. Samoa, at 14◦S, 171◦W;
+CGO – Cape Grim, Tasmania, Australia, at 41◦S, 144◦E; SPO – South Pole at 90◦S. Monthly average in situ observations are used with

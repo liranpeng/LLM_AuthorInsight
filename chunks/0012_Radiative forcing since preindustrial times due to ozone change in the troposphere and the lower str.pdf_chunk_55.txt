@@ -1,0 +1,38 @@
+tropospheric
+aerosols
+and
+ozone
+Ozone
+calculated
+by
+de-
+tailed stratospheric chemistry
+scheme, including aerosols
+2
+DLR E39C
+CCM
+Semi-Lagrangian
+(Williamson
+and
+Rasch, 1994)
+Mass ﬂux scheme of
+Tiedke (1989)
+Methane oxidation
+Dry/wet deposition
+37 species, 12 advected
+Heterogeneous Cl reactions,
+PSC I, II, aerosols
+3
+NCAR MACCM
+CCM
+Lin
+and
+Rood
+scheme (Lin and
+Rood, 1996)
+Deep: Zhang and Mc-
+Farlane (1995), shal-
+low: Hack (1994)
+Detailed
+ozone/CO/NOx/HOx/NMHC
+Detailed stratospheric chem-

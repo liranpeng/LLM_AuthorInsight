@@ -1,0 +1,7 @@
+machine learning tasks. Currently, beyond the coherence of the
+large scale conditioning given from ERA5 there is no guarantee that
+CorrDiff’s km-scale dynamics will be coherent in time. Additional
+integrations with km-scale data assimilation are also essential for
+this use case. Our current demonstration relies only on the global
+data assimilation (DA) used to produce the ERA5 dataset. Unlike
+the target data it is trained on, CorrDiff effectively bypasses the

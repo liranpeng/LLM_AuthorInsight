@@ -1,0 +1,8 @@
+O3 mixing ratio due to SHIP in the planetary boundary layer
+(PBL) is much lower than that due to AIR in the UTLS. The
+reason is that near the surface where the SHIP emissions take
+place, reservoir species of NOx, such as HNO3 and PAN, are
+more rapidly removed by wet scavenging and dry deposition
+than in the UTLS (Hoor et al., 2009). In addition, model re-
+sults show that concentrations of HO2 increase with decreas-
+ing altitude, leading to a shorter lifetime of ozone produced

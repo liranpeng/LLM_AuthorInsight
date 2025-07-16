@@ -1,0 +1,8 @@
+ation, increasing from 0.048 at 20◦to 0.068 at 50◦(380 nm).
+Rayleigh scattered light has on average larger incident angles
+than the solar beam for CAFS measurements and is reﬂected
+more than the direct beam. Rayleigh scattering is much more
+important for J-O1D than J-NO2.
+The UCI stand-alone photolysis model was rewritten to
+include a lower boundary albedo that varies with angle
+of incident radiation, and is now designated Cloud-J ver-

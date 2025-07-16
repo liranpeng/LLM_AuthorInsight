@@ -1,0 +1,12 @@
+lite observations to assess how well August 2016 observa-
+tions represent climatological August conditions. Section 6
+summarizes our conclusions.
+2
+Observations and model
+2.1
+ATom observations
+ATom-1 ﬂew transects through the Paciﬁc, Southern, Atlantic
+and Arctic oceans with the NASA DC-8 aircraft in August
+2016. Each of the 11 ﬂights included sampling from the
+boundary layer to the top of the aircraft range (39 kft). We use
+the ATom-1 data (July–August 2016) (Atom Science Team,

@@ -1,0 +1,10 @@
+is −0.37, so the CO increase will decrease L-CH4 by a fur-
+ther −0.7 % to −2.9 %. The updated s∗
+OH is −0.29, a 30 %
+increase in magnitude, and the ff∗
+CH4 is 1.41. This CO ampli-
+ﬁcation may be an overestimate as some of the CO sources,
+from CH4 speciﬁcally, will be reduced with OH. Another
+correction is that the feedback factor used to calculate the
+perturbation time for a CH4 pulse must be derived from the
+total CH4 lifetime that includes losses in the stratosphere and

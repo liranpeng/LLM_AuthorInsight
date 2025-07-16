@@ -1,0 +1,5 @@
+suggests that over many regions, the range in surface O3
+projections is dominated by emission changes. This comparison
+Fig. 5
+Changes in annual mean surface ozone (ppb mole fraction) averaged over selected world regions (shaded land regions) following the RCP
+scenarios. Colored lines denote the 4-model average from transient simulations with CMIP5 chemistry–climate models; shading covers the full

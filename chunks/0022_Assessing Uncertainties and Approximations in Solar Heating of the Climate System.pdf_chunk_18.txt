@@ -1,0 +1,5 @@
+different climate regimes for the current reference period as they are comparable to the changes in climate 
+forcing by greenhouse gases from pre-industrial to present (Myhre et al., 2013). Such shifts are likely to force 
+parametric retuning of other ESM processes to match observed surface temperatures. Either way, errors on 
+this scale are important and must eventually be addressed.
+2.  Evolving Solar RT Codes

@@ -1,0 +1,6 @@
+Atmos. Chem. Phys., 6, 575–599, 2006
+www.atmos-chem-phys.net/6/575/2006/
+M. Gauss et al.: Radiative forcing due to ozone changes between 1850 and 2000
+591
+Table 5. Oslo radiative transfer model results. Annually and globally averaged adjusted radiative forcing (Wm−2) since preindustrial times
+taking into account changes in emissions (“2 minus 1c”). “SW”: shortwave radiative forcing, “LW”: longwave radiative forcing, “T”:

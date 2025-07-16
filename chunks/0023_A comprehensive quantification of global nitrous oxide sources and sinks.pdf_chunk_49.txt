@@ -1,0 +1,6 @@
+bCalculated from the combined NOAA and AGAGE record of surface N2O, and adopting the uncertainty of the IPCC Assessment Report 5 (Chapter 6)2. Detailed information on calculating each 
+sub-category is shown in Supplementary Tables 1–13.
+252  |  Nature  |  Vol 586  |  8 October 2020
+Article
+agricultural N2O emissions can be attributed to the large-scale applica-
+tion of synthetic nitrogen fertilizers in East Asia, Europe, South Asia and

@@ -1,0 +1,7 @@
+of the number and diversity of observing platforms deployed
+(Saildrones, underwater gliders, instrumentally enhanced
+Figure 15. Surface density gradients at different horizontal length
+scales. Bivariant histogram shows counts versus (1 to 200 km) and
+strength of gradient as measured by Saildrones (note the log-scale
+color bar). Inset is power spectral density of the surface density gra-
+dients, calculated by averaging periodograms constructed for each

@@ -1,0 +1,12 @@
+Turbulence probe
+Custom ﬁne-wire array (three-wire array with two cold wires and one hot wire) for fast temperature,
+humidity, and velocity sensing
+Table B13. MPCK+.
+Instrument
+Brief description
+Weather sensors
+Aosong relative humidity (2 % RH accuracy) and temperature (0.1–1 K accuracy) sensor (0.2 Hz)
+Anemometer
+1D static tube with PT100 measuring wind speed and temperature at 100 Hz, wind speed range 3 to
+20 ms−1 with < 5 % accuracy, temperature −35...55 ◦C with accuracy of ±0.3 K
+Anemometer

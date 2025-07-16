@@ -1,0 +1,8 @@
+forcings were diagnosed using a mixture of ofﬂine radia-
+tive transfer models and double-call diagnostics, whereby a
+model radiation scheme is called twice, with the second call
+containing one or all radiative species set to ﬁxed values.
+The historical and future climate effects of ozone de-
+pletion were ﬁrst addressed in multi-model studies using
+CTMs in ACCENT (Gauss et al., 2006; Forster et al., 2007),
+focussing on changes in global radiative forcing. Son et

@@ -1,0 +1,9 @@
+sity, seasonal cycles) that can be used as metrics to test global
+chemistry climate models’ (GCCMs) future climate simula-
+tions.
+The size of the largest AQX episodes (deﬁning an episode
+as connected events as in Fig. 10) is driven by a com-
+bination of meteorology as well as regionally connected
+emissions and active photochemistry. To objectively identify
+these episodes we use an agglomerative hierarchal cluster
+analysis. Ideally, the clustering algorithm will connect AQX

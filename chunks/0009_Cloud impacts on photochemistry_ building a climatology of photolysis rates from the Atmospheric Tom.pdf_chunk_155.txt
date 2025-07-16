@@ -1,0 +1,8 @@
+ternational Photolysis Frequency Measurement and Modeling
+Intercomparison (IPMMI), J. Geophys. Res., 109, D08S90,
+https://doi.org/10.1029/2003JD004333, 2004.
+Hogan, R. J. and Illingworth, A. J.: Deriving cloud overlap statistics
+from radar, Q. J. Roy. Meteor. Soc., 126, 2903–2909, 2000.
+Holmes, C. D., Prather, M. J., Søvde, O. A., and Myhre, G.: Fu-
+ture methane, hydroxyl, and their uncertainties: key climate and
+emission parameters for future predictions, Atmos. Chem. Phys.,

@@ -1,0 +1,8 @@
+lifetimes. The methane GWP customarily accounts for the
+direct RF from the emitted gas, as well as indirect RF caused
+by methane-induced increases in ozone, stratospheric water
+vapor, and feedback on the methane lifetime (Forster et al.,
+2007). Here we evaluate the methane GWP implied by the
+perturbation experiments. Radiative forcing of methane and
+ozone are calculated for the control simulation and a simula-
+tion with 5 % more methane, using the University of Oslo ra-

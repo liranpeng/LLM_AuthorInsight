@@ -1,0 +1,8 @@
+most polluted times (95th percentile). Similar to the EMEP–
+AirBase comparison, CASTNET sites are located in rural ar-
+eas while AQS sites are generally in or near populated areas,
+and thus we believe this difference is due to the titration of
+O3 by NOx emissions and then the cumulative production of
+O3 as polluted air disperses.
+Overall, these comparisons show excellent agreement
+across the networks, particularly in the high-O3 events. Fur-

@@ -1,0 +1,8 @@
+is where it has the largest climate impact) even though it will
+generate both ozone and nitrate aerosol in models.
+The experimental setup has been designed to pair coupled-
+ocean simulations with speciﬁed SST atmosphere-only ex-
+periments to calculate the ERFs due to each category of
+forcing agent (see Sect. 3.1.2 for more details). Compari-
+son between the temperature and precipitation changes in
+the coupled-ocean simulations with the ERFs (top of atmo-

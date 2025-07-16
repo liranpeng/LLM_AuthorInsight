@@ -1,0 +1,5 @@
+136, 1191–1204. https://doi.org/10.1002/qj.647
+Søvde, O. A., Prather, M. J., Isaksen, I. S. A., Berntsen, T. K., Stordal, F., Zhu, X., et al. (2012). The chemical transport model Oslo CTM3. 
+Geoscientific Model Development, 5, 1441–1469. https://doi.org/10.5194/gmd-5-1441-2012
+Spurr, R., & Natraj, V. (2011). A linearized two-stream radiative transfer code for fast approximation of multiple-scatter fields. Journal of 
+Quantitative Spectropscoy, 112(2011), 2630–2637.

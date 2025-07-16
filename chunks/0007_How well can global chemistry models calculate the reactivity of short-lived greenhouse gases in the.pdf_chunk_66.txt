@@ -1,0 +1,3 @@
+J-NO2; e, J-O1D; all s−1) calculated for the 14 880 simulated air parcels. Each point is an average over the ﬁve simulated dates in August
+(01/8, 06/8, 11/8, 16/8, 21/8). The 1 : 1 line is shown (black dashed) for each plot. The reference values (x axis) are the average of three
+similar models (GSFC, GC, UCI) selected by examining the rms differences across all the models (see text). For this plot alone, models

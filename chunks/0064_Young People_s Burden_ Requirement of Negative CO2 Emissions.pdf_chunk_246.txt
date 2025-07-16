@@ -1,0 +1,10 @@
+biases yield +0.4 ± 0.1 W m−2 by Cheng et al. (2017) for
+the period 1960–2015 and +0.7 ± 0.1 W m−2 by Dieng et
+al. (2017) for the period 2005–2013. We conclude that the
+estimate of +0.75 ± 0.25 W m−2 for the current Earth energy
+imbalance averaged over the solar cycle is still valid.
+A8
+CO2 and CH4 growth rates
+Growth of airborne CO2 is about half of fossil fuel CO2 emis-
+sions (Fig. A8), the remaining portion of emissions being the
+net uptake by the ocean and biosphere (Ciais et al., 2013).

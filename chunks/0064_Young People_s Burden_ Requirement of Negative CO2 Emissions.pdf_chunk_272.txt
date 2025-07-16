@@ -1,0 +1,8 @@
+nants (Eckard et al., 2010; Beil, 2015), but that would
+require widespread adoption of new technologies at the
+farmer level. California, in implementing a state law to re-
+duce GHG emissions, hopes to dramatically cut agricultural
+CH4 emissions (see http://www.arb.ca.gov/cc/scopingplan/
+scopingplan.htm), but California has one of the most tech-
+nological and regulated agricultural sectors in the world. It
+is not clear that this level of management can occur in the

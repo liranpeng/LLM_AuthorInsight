@@ -1,0 +1,8 @@
+ing the EAM tropospheric values every model time step with
+the monthly climatologies misses the ozone variability as-
+sociated with the regular ridge–trough tropopause changes,
+obscuring the sharp cross-tropopause gradient in ozone and
+ozone heating rates. More importantly, O3v1 assigns strato-
+spheric high-O3 concentrations to tropospheric air when the
+EAM tropopause rises above the monthly climatology in the
+prescribed data set. This systematic overestimation of ozone

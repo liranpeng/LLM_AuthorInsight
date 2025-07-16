@@ -1,0 +1,6 @@
+spectral model; Solar-J extends its reference solar table (Watts m−2) to match RRTMG; and photon fluxes 
+are not used since photolysis only occurs in bins #1–18. For the tropospheric wavelengths (#13–18), the bins 
+are contiguous wavelength bands, and only ozone absorption and Rayleigh scattering affect the fluxes, see 
+Figure 2.
+3.1.  The Wavelength Region 290–778 nm
+We expected a simple, or at least explicable comparison of SJ with the RRTMG-SW v4.0 standalone code

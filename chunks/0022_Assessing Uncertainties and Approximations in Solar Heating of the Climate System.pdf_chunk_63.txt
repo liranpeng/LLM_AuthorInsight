@@ -1,0 +1,4 @@
+To resolve the variation in cloud absorption within the broad bands, we recalculated a set of narrow bands 
+(0.05–0.10 μm wide), yielding 66 IR bands shown as black squares. The Solar-J cloud optics are calculated 
+using a flux-weighted refractive index for liquid or ice water and Mie theory for a wide range of effective 
+radii (Reff) and a dispersion of spherical particles similar to stratus clouds. The Mie calculation returns

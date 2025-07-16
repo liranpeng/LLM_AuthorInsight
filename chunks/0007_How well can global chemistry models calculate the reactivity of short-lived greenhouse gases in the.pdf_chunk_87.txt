@@ -1,0 +1,9 @@
+design
+How interannual variability might affect the results is tested
+with the UCI CTM running the simulated data stream for
+ﬁve August days using years 1997 and 2015 meteorology
+to compare with year 2016 (see previous Tables, Table S8,
+and Fig. 8). The scatter plots in Fig. 8 do not look much
+different from those for the three models used in the refer-
+ence case (Fig. 3). For the 5-day parcel means, the rms dif-
+ferences across any pairing of the three UCI years is about

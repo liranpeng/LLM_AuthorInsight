@@ -1,0 +1,4 @@
+a minimum, integrating the vertical ﬂuxes across 100 hPa every time step with a lead time of 3 months to
+cross-tropopause ﬂuxes is a more accurate proxy for the interannaul variability of STE than computing the
+monthly mean vertical residual velocity at the same level. The full CCM simulations will implicitly include
+the eﬀects of changing STE O3 ﬂux on tropospheric O3, but there are many factors inﬂuencing tropospheric

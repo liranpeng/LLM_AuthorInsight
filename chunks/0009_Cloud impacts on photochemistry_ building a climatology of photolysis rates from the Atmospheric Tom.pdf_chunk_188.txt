@@ -1,0 +1,8 @@
+1890, https://doi.org/10.5194/gmd-9-1853-2016, 2016.
+Tompkins, A. and Giuseppe, F. D.: Generalizing Cloud Overlap
+Treatment to Include Solar Zenith Angle Effects on Cloud Ge-
+ometry, J. Atmos. Sci., 64, 2116–2125, 2007.
+Tsushima, Y., Brient, F., Klein, S. A., Konsta, D., Nam, C. C., Qu,
+X., Williams, K. D., Sherwood, S. C., Suzuki, K., and Zelinka,
+M. D.: The Cloud Feedback Model Intercomparison Project
+(CFMIP) Diagnostic Codes Catalogue – metrics, diagnostics and

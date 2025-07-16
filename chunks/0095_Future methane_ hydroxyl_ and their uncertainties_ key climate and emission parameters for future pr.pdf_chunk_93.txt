@@ -1,0 +1,6 @@
+December 2012) [6] CCM-Val2 multimodel mean for SRES A1B greenhouses gases and A2 ozone depleting
+substances (Austin and Scinocca, 2010; Eyring et al., 2010a), uncertainties assumed to be ±3 % in 2100. [7]
+Riahi et al. (2007); van Vuuren et al. (2011).
+b Future air temperature, water vapor and their uncertainties are calculated from global-mean surface
+temperatures in the CMIP5 model ensemble. See Supplement for details.
+c Calculated from the parametric model, as explained in Sect. 5.

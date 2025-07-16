@@ -1,0 +1,8 @@
+one, RRTMG-SW does not include the small amount of
+solar irradiance at wavelengths (λ) < 200 nm (0.06 W m−2)
+and thus ignores photodissociation of O2 molecules in the
+Schumann–Runge bands and part of the Herzberg contin-
+uum that heats the upper stratosphere and mesosphere. Sec-
+ond, for λ = 200–345 nm, Solar-J has 3 W m−2 (6 %) less so-
+lar energy than RRTMG-SW and the difference appears in
+RRTMG’s larger heating of the stratosphere. Third, the bin

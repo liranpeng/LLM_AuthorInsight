@@ -1,0 +1,10 @@
+increase in methane at the surface (PERT_CH4) to indirectly
+diagnose the impact of hydrogen via methane changes on the
+atmospheric composition.
+By increasing the hydrogen surface concentration by 10%, the
+models show consistent changes in atmospheric composition.
+Figure 2 shows the zonal annual mean changes due to hydrogen in
+OH, methane, water vapor, and ozone from the surface up to 1 hPa.
+ARTICLE
+COMMUNICATIONS EARTH & ENVIRONMENT | https://doi.org/10.1038/s43247-023-00857-8
+2

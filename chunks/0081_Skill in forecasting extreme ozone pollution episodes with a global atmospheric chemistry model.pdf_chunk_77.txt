@@ -1,0 +1,8 @@
+30 ppb) and extends beyond just polluted regions. The winter
+domain model correlation coefﬁcient (MCC) derived from
+the daily time series of MDA8, shown in Fig. 6e–f, shows
+relatively good model hindcasting with an average MCC of
+0.47 ± 0.13 for the US and 0.61 ± 0.10 for EU. MCC is
+greatest for the most part where QP is large and lowest in
+coastal areas. For wintertime, most of the variability is driven
+synoptically by large-scale gradients in background O3.

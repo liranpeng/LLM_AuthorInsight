@@ -1,0 +1,4 @@
+(<0.002 TgN/yr). In addition to the drift, there is an offset between the two N2O channels due to possible 
+systemic errors in MLS: N2O-190 is biased 5%–10% high relative to N2O-640 at 68 hPa and by <5% high at 
+46 hPa. Combining the maximum difference (10% and 5%), we calculate N2O loss is +0.38% (0.05 TgN/yr) 
+greater for N2O-190. At the time of this work, release of version 5 (V5) MLS products began. Development

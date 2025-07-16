@@ -1,0 +1,10 @@
+order any feedbacks on the chemistry caused by changes in
+CO or C2H6 or CH4. Other longer-chain alkanes might read-
+just in 10–30 d to the new levels of O3, but these species are
+not very important for the ATom oceanic ﬂights. Thus, our
+24 h sensitivity calculations should be adequate for deriving
+the timescale for decay of an O3 perturbation.
+6.2
+CH4 lifetime feedback
+A positive perturbation to the CH4 abundance reduces tropo-
+spheric OH and thus increases the timescale of the perturba-

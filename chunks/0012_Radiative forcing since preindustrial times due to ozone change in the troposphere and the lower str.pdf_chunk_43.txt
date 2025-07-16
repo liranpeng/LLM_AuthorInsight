@@ -1,0 +1,37 @@
+from Fortuin and Kelder (1998) climatology (i.e. (model-climatology)/climatology×100). The stratosphere (taken as ozone >150 ppbv in
+year 2000) is masked for the models that do not calculate stratospheric chemistry explicitly.
+Atmos. Chem. Phys., 6, 575–599, 2006
+www.atmos-chem-phys.net/6/575/2006/
+M. Gauss et al.: Radiative forcing due to ozone changes between 1850 and 2000
+579
+Altitude  [km]
+−25
+−25
+−25
+−25
+−25
+−25
+−25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+50
+50
+50
+50
+50
+50
+75
+75
+100
+ULAQ
+85S
+60S

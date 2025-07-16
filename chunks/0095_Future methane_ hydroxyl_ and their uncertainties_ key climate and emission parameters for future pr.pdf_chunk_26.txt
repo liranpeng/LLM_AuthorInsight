@@ -1,0 +1,10 @@
+from ECMWF meteorology are used for photolysis. Simpli-
+ﬁed stratospheric O3 chemistry is simulated with Linoz (ver-
+sion 2, Hsu and Prather, 2009) and used for photolysis calcu-
+lations and stratosphere-troposphere exchange. Aerosol ef-
+fects on chemistry are neglected, which biases τCH4×OH low
+by up to 5 % in addition to the aerosol-induced photolysis
+bias described above for Oslo CTM3 (Martin et al., 2003;
+Macintyre and Evans, 2010).
+2.3
+GEOS-Chem

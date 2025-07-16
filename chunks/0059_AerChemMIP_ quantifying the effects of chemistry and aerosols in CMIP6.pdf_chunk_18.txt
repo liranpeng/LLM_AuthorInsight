@@ -1,0 +1,8 @@
+for a coordinated set of simulations that allows for a con-
+sistent and clean comparison between models. For example,
+the CMIP5 Atmospheric Chemistry and Climate Model In-
+tercomparison Project (ACCMIP) focusing on chemistry had
+only three model results that could be used to assess climate–
+air quality links (Schnell et al., 2016).
+NTCF precursor emissions are also responsible for driv-
+ing regional and local air quality (Fiore et al., 2012). This

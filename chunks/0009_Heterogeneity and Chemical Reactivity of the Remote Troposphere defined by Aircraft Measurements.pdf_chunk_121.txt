@@ -1,0 +1,7 @@
+https://doi.org/10.5194/acp-21-13729-2021
+H. Guo et al.: Heterogeneity and chemical reactivity of the remote troposphere
+13741
+Figure 4. Histograms of probability densities (PDs) of NOx (0–12 km, row 1), NOx (0–4 km, row 2), HOOH (0–12 km, row 3) and HCHO
+(0–12 km, row 4) for the three tropical regions (central Paciﬁc, eastern Paciﬁc, Atlantic). The ATom-1 data are plotted on top of the six global
+chemistry models’ results for a day in mid-August and sampled as described in Fig. 3.
+5

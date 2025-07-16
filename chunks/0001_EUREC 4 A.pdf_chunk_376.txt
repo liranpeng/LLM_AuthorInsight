@@ -1,0 +1,13 @@
+Instrument
+Brief description
+CT sensors
+Valeport CTD probe measuring seawater temperature and conductivity (salinity) at depth of 4 cm
+Pressure sensor
+Honeywell integrated pressure transducer (IPT) measuring atmospheric pressure
+Audio analyzer
+MSGEQ7 graphic equalizer rain sensor to infer rain intensity from sound spectra
+Table B31. Paciﬁc Gyre barometer–temperature drifters.
+Instrument
+Brief description
+Thermistor
+30 K thermistor measuring seawater temperature at a depth of 20 cm

@@ -1,0 +1,6 @@
+maximum values. c, Global anthropogenic N2O emission from inland waters, 
+estuaries, coastal zones based on models (model-based), FAOSTAT, GAINS and 
+EDGAR v4.3.2 estimates. d, Emission due to atmospheric nitrogen deposition 
+on land based on NMIP, FAOSTAT/EDGAR v4.3.2 and GAINS/EDGAR v4.3.2. 
+FAOSTAT/EDGAR v4.3.2 or GAINS/EDGAR v4.3.2 indicates the combination of 
+agricultural source estimates from FAOSTAT or GAINS with non-agricultural

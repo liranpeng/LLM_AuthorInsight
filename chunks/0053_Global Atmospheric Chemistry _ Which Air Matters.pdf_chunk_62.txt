@@ -1,0 +1,8 @@
+statistical distribution of reactivities of all those grid cells.
+We take these statistics to be equivalent to those we would
+get from integrating the reactivity over isolated air parcels
+with the same initialization. Of course the latter is only a
+thought experiment since the parcels do not remain isolated.
+In C-runs new air parcels are entering the domain and others
+are exiting. In a single cell we can start with a polluted lamina
+and end with clean air convected from the marine boundary

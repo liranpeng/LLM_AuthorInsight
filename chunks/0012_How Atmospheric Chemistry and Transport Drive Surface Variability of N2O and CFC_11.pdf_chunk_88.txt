@@ -1,0 +1,4 @@
+more regular than the observations. The observations will, of course, also include interannual variability in 
+emissions that is not QBO-related, but to first order, it appears that the majority of interannual variability in 
+observed N2O is QBO-driven as shown in Ray et al. (2020). The interannual change (%/yr) can be converted 
+to abundance (ppb/yr) through multiplying by 320 ppb, and fluctuations are about ±0.7 ppb, equivalent to

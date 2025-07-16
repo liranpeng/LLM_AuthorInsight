@@ -1,0 +1,8 @@
+For reference, the model mean and standard deviation of the
+methane lifetime in the BASE simulation is 8.4 (± 1.1) yr for
+2050 A1B compared to 8.3 (± 1.0) yr in 2000.
+The sensitivity of OH to trafﬁc emissions is largest in re-
+gions where the amounts of sunlight and water vapour are
+high, and the background concentrations of ozone, NOx and
+NMHCs are low. As discussed in Hoor et al. (2009) this leads
+to the largest changes in methane lifetime for SHIP, which

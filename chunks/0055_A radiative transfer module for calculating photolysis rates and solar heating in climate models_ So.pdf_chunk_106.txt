@@ -1,0 +1,8 @@
+τ, (evaluated at 600 nm) is also written in pairs with Solar-
+J’s as the ﬁrst number and RRTMG’s reduced delta-scaled
+optical depth (τ ′) as the second. Both RRTMG and Solar-J
+start with same value of τ because the Mie-based scattering
+phase functions for liquid water are unambiguous and both
+adopt the same values for re, Q, and density of liquid water.
+The re is set to 9.6 µm through most of this cloud proﬁle. The
+LWC increases from the surface to a maximum of 0.12 g m−3

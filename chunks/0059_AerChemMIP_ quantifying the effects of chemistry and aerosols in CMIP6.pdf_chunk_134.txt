@@ -1,0 +1,9 @@
+CMIP6. A speciﬁc problem may be the expected diversity
+in model complexity, as mentioned in Sect. 3. Models may
+contain interactive aerosols, tropospheric chemistry, strato-
+spheric chemistry and any combination of these. AerChem-
+MIP requests all output unless unavailable from an individual
+model conﬁguration with good reason.
+The diagnostics requested for the AerChemMIP ex-
+periments are assembled in an Excel sheet in the sup-
+plementary material for this paper (also available at

@@ -1,0 +1,10 @@
+contour annulus of winds above 16 ms−1. The UNet (Fig. 5b)
+likewise fails to recover a closed contour, although it does helpfully
+corrects approximately 50% of error in the large-scale windspeed
+and structure compared to the target. CorrDiff (Fig. 5c) enhances
+the UNet by adding spatial variability, but maintains similar
+intensity.
+Fig. 5: Examining the downscaling of Typhoon Haikui (2023)
+on 2023-09-03 00:00:00 UTC.
+[image]
+a–d show the 10-m windspeed maps from ERA5, UNet, CorrDiff and

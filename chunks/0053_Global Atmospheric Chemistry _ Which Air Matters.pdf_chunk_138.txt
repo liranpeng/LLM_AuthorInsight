@@ -1,0 +1,8 @@
+determine the reactivity of parcels, and thus other 2-D plots
+will add new information. We anticipate that ATom measure-
+ments will be plotted not only with AIR weightings but also
+with reactivities calculated for that air parcel with these mod-
+els (Auvray et al., 2007).
+The 2-D plots shown here intentionally included all air
+parcels over the mid-Paciﬁc to ensure that a robust distribu-
+tion was obtained (see Table 2). If we have only a single lon-

@@ -1,0 +1,21 @@
+each observation site is reduced by a factor Mk that is the
+number of other observation sites located within a distance
+D of site k. We choose D = 25 km as a typical size scale for
+urban areas and test other choices below. Furthermore, all
+observation sites within the region |x −xk| < D are given
+equal weight to avoid singularities in the interpolation. Taken
+together, the weights in Eq. (1) are
+wk =
+
+
+
+D−β
+Mk
+if |x −xk| < D
+|x −xk|−β
+Mk
+ifD ≤|x −xk| ≤L
+0
+if|x −xk| > L
+.
+(2)

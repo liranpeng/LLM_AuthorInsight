@@ -1,0 +1,11 @@
+and turbulent structure of the atmospheric boundary layer) through reﬂectivity, Doppler velocity, spec-
+tral width, and skewness
+https://doi.org/10.5194/essd-13-4067-2021
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+4104
+B. Stevens et al.: EUREC4A
+Table B8. Continued.
+Instrument
+Brief description
+Raman lidar (ARTHUS)
+University of Hohenheim Raman lidar at 355 nm providing underway vertical proﬁles of temperature,

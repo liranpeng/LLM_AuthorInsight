@@ -1,0 +1,20 @@
+time (Miura, 2007). A similar formula is used for ⟨ρ⟩. In
+practice we use Vn
+k,i instead of V
+n+ 1
+2
+k,i , which introduces some
+temporal error for a time-varying velocity ﬁeld.
+SLFV-ML
+In Eq. (A10), decomposing the boundary 0 into Nk edges,
+we get a semi-discrete equation:
+A() ∂ρφ
+∂t
+= −
+Nk
+X
+i=1
+ρiφiVi · ˆni 1t d0.
+(A14)
+Here ρi, φi and Vi are the values of ρ, φ and velocity
+vector V over ith edge of 0 at time t. We evaluate these edge

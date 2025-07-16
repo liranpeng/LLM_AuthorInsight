@@ -1,0 +1,35 @@
+Model Dev., 8, 43–49, https://doi.org/10.5194/gmd-8-43-2015,
+2015.
+Warren,
+S.
+G.:
+Optical
+constants
+of
+ice
+from
+the
+ultra-
+violet
+to
+the
+microwave,
+Appl.
+Optics,
+23,
+1206–1225,
+https://doi.org/10.1364/AO.23.001206, 1984.
+Wild,
+O.,
+Zhu,
+X.,
+and
+Prather,
+M.
+J.:
+Fast-J:
+Accurate
+Simulation of In- and Below-Cloud Photolysis in Tropo-
+spheric Chemical Models, J. Atmos. Chem., 37, 245–282,
+https://doi.org/10.1023/A:1006415919030, 2000.
+Wiscombe, W. J.: The Delta–M Method: Rapid Yet Accurate Radia-

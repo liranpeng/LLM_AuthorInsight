@@ -1,0 +1,10 @@
+lutions, a non-dimensionless time step of T/120 and T/240
+was used for the CN ≈5.5 simulations, respectively. For
+CN ≈1.0 runs, the time steps were T/600 and T/1200,
+respectively. The shape-preserving ﬁlter is the fully two-
+dimensional limiter by Barth and Jespersen (1989) that scales
+the fully two-dimensional reconstruction polynomial of de-
+gree two so that its extrema are within the range of the sur-
+rounding cell-averaged values.
+A6
+FARSIGHT

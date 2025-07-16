@@ -1,0 +1,10 @@
+GFDL AM3, and Drew Shindell for assistance with GISS model 2E.
+Edited by: Ronald Cohen
+Reviewed by: two anonymous referees
+References
+ATom: Measurements and modeling results from the NASA Atmo-
+spheric Tomography Mission, available at: https://espoarchive.
+nasa.gov/archive/browse/atom (last access: 30 April 2018), 2017.
+Batchelor, G. K.: The Effect of Homogeneous Turbulence on Mate-
+rial Lines and Surfaces, Proc. R. Soc. Lon. Ser.-A, 213, 349–366,
+https://doi.org/10.1098/rspa.1952.0130, 1952.

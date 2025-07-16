@@ -1,0 +1,15 @@
+(b) ATom-2: 33 424 records × 87 csv columns
+(c) ATom-3: 40 176 records × 87 csv columns
+(d) ATom-4: 40 511 records × 87 csv columns
+(e) ATom MDS-2: all data in netcdf
+Regular formatting; all data gap-ﬁlled; NaNs
+only for ﬂight 46; for use in modeling of the
+chemistry and related statistics from the ATom
+10 s data.
+Reactivity data stream (RDS∗-2)
+(a) RDS_DC8_20160729_R1.ict
+(b) RDS_DC8_ 20170126_ R1.ict
+(c) RDS_DC8_20170928_R1.ict
+(d) RDS_DC8_ 20180424_R1.ict
+(e) ATom_RDS.nc
+Derived here.

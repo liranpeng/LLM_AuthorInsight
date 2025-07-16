@@ -1,0 +1,4 @@
+RRTM, a validated correlated-k model for the longwave. Journal of Geophysical Research, 102(D14), 16663–16682.
+Myhre, G., Shindell, D., Bréon, F.-M., Collins, W., Fuglestvedt, J., Huang, J., et al. (2013). Anthropogenic and natural radiative forcing. In 
+T. F. Stocker et al. (Eds.), Climate change 2013: The physical science basis. Contribution of working group I to the fifth assessment Report of 
+the intergovernmental Panel on climate change. Cambridge, UK: Cambridge University Press.

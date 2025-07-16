@@ -1,0 +1,8 @@
+(red), EC92 (blue), Fu96 (green), and Key02 (yellow). The
+clear-sky energy ﬂux (W m−2) averaged over the four mod-
+els is shown in a larger font in each bar chart. For example, at
+an SZA of 21◦the energy absorbed by clear-sky atmosphere
+over the altitude range of the cirrus cloud is 98.4 W m−2. The
+CRE in W m−2 within the cirrus cloud for Solar-J is then
+98.4 × 10.7 % (red bar) = + 10.5. The y axes in Fig. 6 have
+different scales at different SZAs.

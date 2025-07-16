@@ -1,0 +1,10 @@
+gular grids and ﬁnite volume methods for PDEs in circular and
+spherical domains, SIAM Review, 50, 723–752, 2008.
+Chorin, A. and Marsden, J.: A Mathematical Introduction to Fluid
+Mechanics, Springer, 3rd Edn., 2000.
+Colella, P. and Woodward, P. R.: The Piecewise Parabolic Method
+(PPM) for Gas-Dynamical Simulations, J. Comput. Phys., 54,
+174–201, 1984.
+Côté, J. and Staniforth, A.: A two-time-level semi-Lagrangian semi-
+implicit scheme for spectral models, Mon. Weather Rev., 116,
+2003–2012, 1988.

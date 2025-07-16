@@ -1,0 +1,8 @@
+and b (surface–900 hPa) using the same format as Fig. 5.
+Each of the 18 panels in Fig. 7a, b represents a single model
+and a single pressure level for which there are seven bars
+(sampled distributions of rlnJ). The top four bars show the
+full tropical Paciﬁc (as in Fig. 5b) and then the three sub-
+sampled regions. The next three bars are the previously sam-
+pled statistics (North Paciﬁc, global 50◦S–50◦N, and tropi-
+cal Paciﬁc CAFS). The CAFS bars are the same in each nine-

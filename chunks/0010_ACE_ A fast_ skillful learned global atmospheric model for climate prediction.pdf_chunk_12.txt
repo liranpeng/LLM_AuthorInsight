@@ -1,0 +1,5 @@
+NOAA/GFDL’s GAEA computer. Ten ensemble members are used for training and the eleventh
+for validation. For simplicity, we use annually repeating climatological sea surface temperature
+(1982-2012 average) and fixed greenhouse gas and aerosol concentrations. The reference simulation
+has a cubed-sphere grid [17] with a horizontal spacing of about 100 km and 63 vertical layers. Model
+state is saved every 6 hours, with a combination of snapshot and interval-mean variables. See Table 1

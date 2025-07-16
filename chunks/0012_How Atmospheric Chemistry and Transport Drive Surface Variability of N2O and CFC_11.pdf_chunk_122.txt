@@ -1,0 +1,6 @@
+modeled surface variability was rescaled to match the RMS of the observed QBO signal in Figure 3. ENSO, El Niño-
+Southern Oscillation; N2O, Nitrous oxide; NOAA, National Oceanic and Atmospheric Administration; QBO, Quasi-
+Biennial Oscillation.
+Journal of Geophysical Research: Atmospheres
+amplitude is ∼0.50 ppb with an August–September minimum. Thus, the observed NH seasonality can be 
+driven for the most part by the STE flux and not by seasonality of emissions or interhemispheric exchange.

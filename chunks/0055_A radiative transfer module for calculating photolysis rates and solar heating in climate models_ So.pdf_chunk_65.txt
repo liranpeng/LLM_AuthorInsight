@@ -1,0 +1,9 @@
+division between 345 and 778 nm is at 412 nm for Solar-J
+(i.e., between S17 and S18), but at 442 nm for RRTMG-SW
+(between B26 and B25+B24). This interval, 412–442 nm,
+has very low O3 absorption, signiﬁcant Rayleigh scattering,
+and a large amount of solar energy (∼51 W m−2). Both the
+Geosci. Model Dev., 10, 2525–2545, 2017
+www.geosci-model-dev.net/10/2525/2017/
+J. Hsu et al.: A radiative transfer module
+2531

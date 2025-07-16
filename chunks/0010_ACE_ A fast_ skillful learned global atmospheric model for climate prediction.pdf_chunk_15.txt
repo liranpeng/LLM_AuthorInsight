@@ -1,0 +1,5 @@
+number of parameters is about 200M. Unlike many prior ML atmospheric prediction systems, we use
+prognostic variables P which are both inputs and outputs, forcing variables F which are inputs only
+and diagnostic variables D which are outputs only (Table 1). Explicitly, with t representing the time
+index: [Pt+1, Dt+1] = f(Pt, Ft), where f represents the SFNO module and forcing variables Ft are
+read from an external dataset (Figure 5). Variables are chosen to be forcing, prognostic or diagnostic

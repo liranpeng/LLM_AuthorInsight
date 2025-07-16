@@ -1,0 +1,8 @@
+and Prather, 2010), it keeps track of only 32 species. More
+complete models like Oslo CTM3 (Søvde et al., 2012) and
+WACCM (Marsh et al., 2013) calculate transport and chem-
+istry of about 100 species. In CTMs like these, the fractional
+cost of Cloud-J should be only 4–7 %. Comparing Solar-J to
+Cloud-J in single-atmosphere tests shows what is expected;
+Solar-J costs are 3.5 times greater because of the much larger
+number of spectral bands needed for heating (100 versus 18).

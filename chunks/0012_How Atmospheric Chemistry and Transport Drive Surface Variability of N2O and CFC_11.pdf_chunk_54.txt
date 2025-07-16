@@ -1,0 +1,4 @@
+coefficient, cc = 0.86); while for GMI (cc = 0.45) and LMDz5 (cc = 0.32), the variations occur at different 
+times. In 2013, GMI shows an extra peak loss (i.e., due to enhanced upwelling) that is not seen in the other 
+models or observations, which may account for the lower correlation. For the 15-year period before MLS 
+(1990–2004), the models show a similar overall range of variability, but less temporal correlation between

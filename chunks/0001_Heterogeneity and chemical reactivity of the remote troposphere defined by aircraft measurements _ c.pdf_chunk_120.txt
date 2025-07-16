@@ -1,0 +1,8 @@
+(Fig. 5). The model PDs (colored lines connecting open cir-
+cles at the center of each bin) are calculated from the 1 d
+statistics for mid-August (P2017) using the model blocks
+shown in Fig. S1. The model grid cells are weighted by air
+mass and cosine(latitude) and limited to pressures greater
+than 200 hPa. The ATom PDs (black lines connecting black
+open circles) are calculated from the 10 s data weighted by
+(but not averaged over) the number of points in each 10◦lat-

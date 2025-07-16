@@ -1,0 +1,25 @@
+Arlene Fiore  
+<amfiore@ldeo.columbia.edu> 
+Gustavo Correa <gus@ldeo.columbia.edu> 
+GISS 
+GISS ModelE2 
+Murray, Lee <lee.murray@rochester.edu> 
+ 
+GMI  
+GSFC GMI 
+Sarah A. Strode 
+<Sarah.A.Strode@nasa.gov> 
+Stephen Steenrod 
+<Stephen.D.Steenrod@nasa.gov> 
+IFS  
+ECMWF IFS 
+Johannes Flemming 
+<johannes.flemming@ecmwf.int> 
+Vincent Huijnen <vincent.huijnen@knmi.nl> 
+MOCA 
+MOCAGE 
+Beatrice Josse <beatrice.josse@meteo.fr> 
+Jonathan Guth <jonathan.guth@meteo.fr> 
+NCAR 
+CESM 
+Jean-Francois Lamarque

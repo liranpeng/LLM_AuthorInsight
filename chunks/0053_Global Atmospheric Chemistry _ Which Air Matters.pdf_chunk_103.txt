@@ -1,0 +1,83 @@
+B = GEOS-Chem
+C = GFDL-AM3
+D = GISS-E2
+E = GMI-CTM
+F = UCI-CTM
+(a) L-CH4 (Pacific basin)
+F
+P (hPa)
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+(b) L-O3 (Pacific basin)
+P (hPa)
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+5
+0
+1
+4
+2
+3
+L-O3   (ppb day -1)
+5
+0
+1
+4
+2
+3
+L-O3   (ppb day -1)
+5
+0
+1
+4
+2
+3
+L-O3   (ppb day -1)
+A = CAM4-Chem
+B = GEOS-Chem
+C = GFDL-AM3
+D = GISS-E2
+E = GMI-CTM
+F = UCI-CTM
+C
+E
+F
+A
+B
+D
+P (hPa)
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+C
+D
+E
+F
+A
+B
+(c) P-O3 (Pacific basin)
+P (hPa)
+200
+300
+400
+500

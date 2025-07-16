@@ -1,0 +1,11 @@
+full ATom MDS-2b from all four deployments, along with
+the updated RDS-2b reactivities from the UCI model.
+3
+Models and data
+3.1
+The modeling data stream (MDS)
+The ATom mission was designed to collect a multi-species,
+detailed chemical climatology that documents the spatial pat-
+terns of chemical heterogeneity throughout the remote tropo-
+sphere. Figure S1 maps the 48 research ﬂights, and the Sup-
+plement has tables summarizing each ﬂight. We required a

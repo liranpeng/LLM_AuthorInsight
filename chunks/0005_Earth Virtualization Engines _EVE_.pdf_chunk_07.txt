@@ -1,0 +1,9 @@
+Earth Virtualization Engines
+(EVE)
+Bjorn Stevens, Stefan Adami, Tariq Ali, Hartwig Anzt, Zafer Aslan,
+Sabine Attinger, Jaana Bäck, Johanna Baehr, Peter Bauer, Natacha
+Bernier, Bob Bishop, Hendryk Bockelmann, Sandrine Bony, Guy
+Brasseur, David N. Bresch, Sean Breyer, Gilbert Brunet, Pier Luigi
+Buttigieg, Junji Cao, Christelle Castet, Yafang Cheng, Ayantika Dey
+Choudhury, Deborah Coen, Susanne Crewell, Atish Dabholkar, Qing
+Dai, Francisco Doblas-Reyes, Dale Durran, Ayoub El Gaidi, Charlie

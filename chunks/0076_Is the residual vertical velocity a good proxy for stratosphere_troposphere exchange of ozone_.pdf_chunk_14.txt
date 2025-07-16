@@ -1,0 +1,4 @@
+(see Prather et al. [2008] for advection errors due to ﬁnite resolution). Likewise, for the LS method, the inte-
+grated hemispheric ﬂuxes can be accurately calculated. Small diﬀerences can be attributed to the upward
+O3 ﬂuxes at the tropical tropopause, which are not enclosed by the LMS domain. The LMS mass tendency
+term (the so-called “breathing” of the LMS; also noted as dM∕dtLMS later) is important for the seasonal cycle

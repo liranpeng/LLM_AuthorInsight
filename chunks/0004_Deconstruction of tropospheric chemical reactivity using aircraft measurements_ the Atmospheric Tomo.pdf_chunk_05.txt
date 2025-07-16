@@ -1,0 +1,4 @@
+ATom’s regular proﬁling of the ocean basins allows for weighted averages to build probability densities for the
+key species and reactivities presented here. These statistics provide climatological metrics for global chemistry
+models, e.g., the large-scale pattern of ozone and methane loss in the lower troposphere and the more sporadic
+hotspots of ozone production in the upper troposphere. The proﬁling curtains of reactivity also identify mete-

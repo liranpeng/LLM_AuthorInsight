@@ -1,0 +1,4 @@
+SSA, extinction coefficient (Q), and seven Legendre coefficients of the scattering phase function (g1:7, see 
+Table 2). For ice clouds, a non-Mie scattering phase function is used and examined in Sections 4 and 5. 
+The Mie calculation of SSA and Q is surprisingly accurate. In the top panel of Figure 3 we compare our 
+narrow-band Mie-ice SSA results with values taken from Ping Yang's library (Bi & Yang, 2017) of ice crystal

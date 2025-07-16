@@ -1,0 +1,8 @@
+sults to examine the consistency in calculating the Rs across
+models. Thereafter, we rely on the similar results from the
+three central models (GC, GMI, and UCI) to justify use of
+UCIZ* with MDS-2b as our best estimate for ATom reactiv-
+ities. The uncertainty in this estimate can be approximated
+by the inter-model spread of the central models as discussed
+above. When evaluating the model climatologies for chemi-
+cal species, we use MDS-2b. A summary of the key data ﬁles

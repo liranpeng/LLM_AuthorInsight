@@ -1,0 +1,7 @@
+Fig. 1. Spatial distribution of the absolute difference in NOx emission ﬂux for the SRES A1B scenario (units: 1013 molecules NO2 m−2 s−1
+for AIRCRAFT and SHIP; 1014 molecules NO2 m−2 s−1 for ROAD).
+while 2002 was used for spin-up. For each model and each
+of the years 2025 and 2050, four simulations were carried
+out using emissions from the A1B scenario – a reference run
+(BASE), and perturbation runs for each of the three transport
+sectors AIR, SHIP, and ROAD. The reference simulation in-

@@ -1,0 +1,8 @@
+σX/σY ). The values of centroid, semimajor and semiminor
+axes, and the degree of rotation are given in Tables S6 for all
+plots in Fig. 6. An example showing a ﬁtted ellipse on top
+of the 2-D probability distribution is given in Fig. S1, and
+the ellipses for all six model distributions in Fig. 6a and b
+are plotted together in Fig. S2a and b, respectively. These el-
+lipses can provide a more direct and simple comparison of
+the central distributions of the models and support the dis-

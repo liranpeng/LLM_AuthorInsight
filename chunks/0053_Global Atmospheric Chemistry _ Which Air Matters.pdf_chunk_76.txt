@@ -1,0 +1,9 @@
+1.0 to 2.5 ppb. The implications for using the A-run bias in
+computing the reactivities are examined with all six models
+below.
+An important assumption in using key species to initial-
+ize the reactivity simulations is that the diurnal cycle is not
+critical, and ATom measurements can be used without trying
+to make corrections for the time of measurement. In running
+these global models, it is not practical to initialize parcels
+at other than a standard day (i.e., beginning at 00:00 UT).

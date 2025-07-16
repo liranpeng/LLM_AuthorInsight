@@ -1,0 +1,11 @@
+contrast unlimited and shape-preserving “minimal” resolu-
+tions are not available for CAM-FV, CCSRG, UCISOM, and
+UCISOM-CS since only shape-preserving data are available
+for those models.
+In general it is also noted that the “minimal” resolu-
+tions for schemes deﬁned on icosahedral/Voronoi grids have
+ﬁner 1λm than schemes deﬁned on cubed-sphere and regu-
+lar latitude–longitude grids. That said, since the measure of
+www.geosci-model-dev.net/7/105/2014/
+Geosci. Model Dev., 7, 105–145, 2014
+120

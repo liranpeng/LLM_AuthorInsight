@@ -1,0 +1,8 @@
+which is a linearization of the IPCC (2001) forcing for a
+background methane mixing ratio of 1740 ppbv and a ni-
+trous oxide mixing ratio of 319 ppbv. Second, the radia-
+tive forcing due to the methane-induced ozone change (see
+Eq. B6 of Berntsen et al. (2005)) is estimated using multi-
+model means of both the response of ozone to a methane
+change (a 10% increase in methane leads to a 0.64 DU in-
+crease in ozone) and an ozone speciﬁc radiative forcing of

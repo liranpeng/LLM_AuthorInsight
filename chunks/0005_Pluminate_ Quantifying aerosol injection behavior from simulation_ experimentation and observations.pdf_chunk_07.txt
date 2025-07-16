@@ -1,0 +1,12 @@
+Benjamin, & Wood, Robert (2023). Pluminate:
+Quantifying aerosol injection behavior from
+simulation, experimentation and observations.
+https://doi.org/10.2172/2430132
+🗎 Copy to clipboard
+Patel, Lekha, Zenker, Jake Paul, Pattyn, Christian
+Alexander, et al., "Pluminate: Quantifying aerosol
+injection behavior from simulation,
+experimentation and observations," (2023),
+https://doi.org/10.2172/2430132
+🗎 Copy to clipboard
+@techreport{osti_2430132, author = {Patel, Lekha

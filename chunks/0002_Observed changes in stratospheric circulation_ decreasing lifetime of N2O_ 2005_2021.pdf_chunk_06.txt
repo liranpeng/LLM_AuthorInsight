@@ -1,0 +1,8 @@
+of AoA has proven difﬁcult (Fritsch et al., 2020). The search
+for BDC change with AoA has missed a more obvious and
+compelling case based on the important greenhouse gas ni-
+trous oxide (N2O), where recent work has shown agreement
+in upper stratospheric trends across satellite instruments and
+a model (Froidevaux et al., 2022). Here we take the Aura Mi-
+crowave Limb Sounder (MLS) observations of N2O, ozone
+(O3), and temperature (T ) from 2005 through 2021 and show

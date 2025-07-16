@@ -1,0 +1,8 @@
+of ship NOx on OH are neglected.
+Table 3 reports the sensitivity of CH4 lifetime to increasing
+ship NOx emissions by 1 Tg(N) yr−1. The largest response
+occurs under instant dilution (−1.0 %) and the smallest un-
+der ﬁxed OPE (−0.26 %), with the parametric plume falling
+in the middle (−0.7 %). The instant dilution value is similar
+to those that we previously found in the University of Califor-
+nia, Irvine (UCI) CTM and Oslo CTM3, −0.8 and −0.9 %,

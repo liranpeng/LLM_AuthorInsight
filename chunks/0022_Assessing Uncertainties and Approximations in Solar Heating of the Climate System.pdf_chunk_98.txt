@@ -1,0 +1,5 @@
+surface—is caused by the weaker forward and backward scattering peaks in the HG phase function. Al-
+though these mean errors are modest, there is no basis and no cost advantage to using an 8-term HG phase 
+functions. For a complete analysis on the radiative flux biases due to HG approximations on the clouds and 
+dust aerosols, see LBYY.
+The δ-scaling 2-stream models are optimized to give reasonable averages, but with large opposite-sign errors

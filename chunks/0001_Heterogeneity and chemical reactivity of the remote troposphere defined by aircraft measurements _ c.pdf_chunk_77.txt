@@ -1,0 +1,8 @@
+to average over synoptically varying cloud conditions. The
+standard deviation (σ) of the 5 d, as a percentage of the 5 d
+mean, is averaged over all parcels and shown in Table S9 for
+the ﬁve global models. Three central models (GC, GMI, and
+UCI) show 9 %–10 % σ (Js) values and similar σ (Rs) val-
+ues as expected if the variation in J values is driving the re-
+activities. Two models (GISS and NCAR) have 12 %–17 %
+σ (Js), which might be explained by more opaque clouds,

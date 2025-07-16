@@ -1,0 +1,19 @@
+Microstructure sonde
+Rockland Scientiﬁc MicroRider turbulence sensor
+Table B22. IFM12.
+Instrument
+Brief description
+CTD sensor
+Measuring temperature and salinity
+Oxygen sensor
+Optode measuring dissolved oxygen
+Fluorometer
+WET Labs ECO puck measuring chlorophyll ﬂuorescence and turbidity
+Nutrient analyzer
+Sea-Bird Submersible UV Nitrate Analyzer (SUNA)
+Optical sensor
+Measuring dissolved organic matter (CDOM)
+Table B23. Kraken.
+Instrument
+Brief description
+CTD sensor

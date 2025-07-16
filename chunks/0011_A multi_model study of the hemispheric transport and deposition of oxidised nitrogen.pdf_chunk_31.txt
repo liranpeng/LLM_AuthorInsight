@@ -1,0 +1,9 @@
+differences in the boundary layer and convection schemes
+used to mix and transport the NOy species, and the associ-
+ated wet removal processes. Overall, between 3 and 10% of
+NOx emitted in a HTAP region is deposited as NOy in the
+other three regions (assuming individual sensitivities com-
+bine linearly). Using the mean model results, between 51
+and 66% of the exported NOy (or between 8 and 15% of
+NOx emitted) is transported over 1000 km from the bound-
+aries of the source regions.

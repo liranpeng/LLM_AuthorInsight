@@ -1,0 +1,4 @@
+amplitude of this signal is different across the models (Figure 3), we rescale the models' surface variability 
+to match the root-mean-square deviation from the mean of the observed QBO signal (Figure 3) before 
+calculating the residuals. The NOAA-minus-model residuals are then correlated with the Niño 3.4 index 
+(calculated from the monthly Extended Reconstructed Sea Surface Temperature, Version 5 by NOAA's Cli-

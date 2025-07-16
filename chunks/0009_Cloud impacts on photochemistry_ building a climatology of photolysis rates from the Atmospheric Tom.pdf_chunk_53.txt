@@ -1,0 +1,9 @@
+terpolation). We expect GC and GMI to be alike since they
+both use MERRA-2 cloud ﬁelds and Fast-J with Briegleb
+averaging: indeed, they match well except for J-O1D in
+the tropical Paciﬁc, yet, they report similar tropical ozone
+columns.
+The ratio of J-cloudy to J-clear, shown in Fig. 3, cancels
+out many of the model differences in Figs. 1 and 2, and as ex-
+pected GC and GMI are nearly identical. The cloudy : clear
+ratio identiﬁes new patterns in model differences, whereby

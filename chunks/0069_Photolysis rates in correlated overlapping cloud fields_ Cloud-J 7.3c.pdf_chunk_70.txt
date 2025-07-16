@@ -1,0 +1,10 @@
+number of cross section tables per species in the new Fast-
+J (either T or P interpolation) can be 1, 2, or 3. Cloud-J,
+new with version 7.3, includes an updated version of Fast-J
+version 7.1, whose only change is in the formatting of the
+input ﬁles to allow for more ﬂexible numbering and labeling
+of species with their cross sections and of the cloud–aerosol
+scattering tables.
+5
+Discussion and recommendations
+We recommend use of the G6/.33 MAX-COR model for

@@ -1,0 +1,8 @@
+tends to increase ℓf for lower threshold values τ (except
+τ = 0.1 for which ℓf decreases) and decrease ℓf for higher
+values of τ (see Fig. 6a in LSPT2012). In other words, when
+the base of the cosine bells is diffused, more area is covered
+by lower values of φ and less area is covered with higher
+(near peak) values of φ.
+The ﬁlament diagnostic gives insight into how gradients
+are distorted in terms of the ability to preserve the area of the

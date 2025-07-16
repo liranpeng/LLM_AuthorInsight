@@ -1,0 +1,20 @@
+be used in estimating the lifetime. A high soil sink will be com-
+pensated for by a large estimate of hydrogen emissions, as is
+apparent in Fig. 1 for WACCM (73 Tg yr−1), which is outside the
+range of bottom-up estimates (53.5–60 Tg yr−1) (Table 1 in
+ref.
+17).
+The
+resulting
+estimated
+emissions
+in
+WACCM
+(68.1 Tg yr−1) are far outside the range in Paulot et al.17 of 32.3
+(29.9–37.1) Tg yr−1
+and
+other
+published
+estimates
+of
+28–48 Tg yr−1 (Table 1 in17). On the other hand, UKCA has a

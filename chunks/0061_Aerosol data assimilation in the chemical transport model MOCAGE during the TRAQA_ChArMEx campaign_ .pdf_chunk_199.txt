@@ -1,0 +1,9 @@
+2010, 2010.
+Seinfeld, J. H. and Pandis, S. N.: Atmospheric chemistry and
+physics: from air pollution to climate change, John Wiley &
+Sons, New York, USA, 1998.
+Sekiyama, T. T., Tanaka, T. Y., Shimizu, A., and Miyoshi, T.: Data
+assimilation of CALIPSO aerosol observations, Atmos. Chem.
+Phys., 10, 39–49, doi:10.5194/acp-10-39-2010, 2010.
+Shindell, D. T., Lamarque, J.-F., Schulz, M., Flanner, M., Jiao, C.,
+Chin, M., Young, P. J., Lee, Y. H., Rotstayn, L., Mahowald, N.,

@@ -1,0 +1,9 @@
+cloud-base height, and cloud fraction (O3 deck)
+Disdrometer
+Two Parsivel optical rain gauges (650 and 780 nm) measuring the size, fall speed and precipitation
+intensity, radar reﬂectivity, particle number, and cumulated precipitation for rain droplets with sizes
+between 0.2 and 8 mm (O3 deck)
+Camera
+StarDot NetCam XL camera pointed to starboard (ﬁeld of view of 15 m, image captured every 4 s, O3
+deck)
+Doppler lidar

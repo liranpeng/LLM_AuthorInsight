@@ -1,0 +1,8 @@
+extending out to 4 ppb/d. This result is consistent with the
+mean proﬁle errors (Fig. 3). The match for L-CH4 is very
+good in both basins, although the models have a greater oc-
+currence in the middle 0.5–1.5 ppb/d range and reduced oc-
+currence in the higher 1.5–2.5 ppb/d range. For L-O3, the
+match is very good and similar to L-CH4, although the At-
+lantic has a high frequency of L-O3 > 6 ppb/d that is not seen
+in the models (except GISS). The extreme eastern Paciﬁc re-

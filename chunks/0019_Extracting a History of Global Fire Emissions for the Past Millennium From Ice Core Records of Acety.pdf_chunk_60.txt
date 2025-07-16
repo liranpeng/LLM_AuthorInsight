@@ -1,0 +1,15 @@
+levels were compared to the ice core observations (Table S2). Emission scenarios were evaluated for two
+deﬁned time periods, the MP (1000–1500 CE) when acetylene and ethane levels were high and the Little
+Ice Age (LIA: 1650–1750 CE) when acetylene and ethane levels were low, using the following metrics, with
+acetylene as an example:
+Δacetylene; grn ¼ mgrn −ogrn
+
+
+ogrn
+(2)
+Δacetylene; ant ¼
+mant −oant
+j
+j
+oant
+(3)

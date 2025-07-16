@@ -1,0 +1,8 @@
+surface, photolysis rates, and photosynthetic activity. Cli-
+mate models are increasingly including short-lived gases and
+aerosols as radiative forcing components, and the accurate
+simulation of these under different climates requires some
+level of interactive chemistry and photolysis rates.
+The components of Solar-J are chosen and balanced to
+achieve the best possible overall accuracy for a module in-
+tended as a standard component of chemistry–climate sim-

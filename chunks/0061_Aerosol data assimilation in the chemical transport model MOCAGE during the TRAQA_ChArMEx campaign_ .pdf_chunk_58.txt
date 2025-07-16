@@ -1,0 +1,8 @@
+the vertical correlation, with the column-integrated observa-
+tions, there is no explicit need for vertical correlation ele-
+ments. However, in the matrix B preconditioned cost func-
+tion (Eq. 13) it is advantageous not to have null vertical cor-
+relation lengths. Therefore, we apply a vertical correlation of
+one model level. The type of the correlation ﬁeld inﬂuences
+the method by which the generalized diffusion-type equa-
+tion is solved. In the case of constant correlation lengths in

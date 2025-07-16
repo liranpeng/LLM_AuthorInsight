@@ -1,0 +1,5 @@
+as a metric to test a CTM's stratosphere-troposphere exchange (STE), we can constrain the larger annual 
+surface pattern that is also of stratospheric origin.
+CFCl3 (CFC-11), another ozone depleting substance, has a stratospheric photochemical loss region much 
+lower at ∼25 km altitude compared to the N2O loss region at ∼32 km, and thus the phasing and amplitude 
+of stratospherically depleted air at the surface could be different from that of N2O. Given the recent fugitive

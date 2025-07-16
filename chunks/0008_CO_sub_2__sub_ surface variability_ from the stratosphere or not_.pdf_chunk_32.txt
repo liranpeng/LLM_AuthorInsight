@@ -1,0 +1,8 @@
+Ushuaia, Argentina, at 55◦S, 68◦W; and PSA – Palmer Sta-
+tion, Antarctica, at 65◦S, 64◦W. All ﬁve sites have nearly
+identical N2O records, and I average them to get our SH IAV
+signal with the same processing as for CO2. The QBO cir-
+culation is known to reach throughout the stratosphere and
+into the troposphere (Tung and Yang, 1994; Hamilton and
+Fan, 2000), and multi-model studies have attributed the sur-
+face N2O IAV to the STE ﬂux (Ruiz et al., 2021). I can

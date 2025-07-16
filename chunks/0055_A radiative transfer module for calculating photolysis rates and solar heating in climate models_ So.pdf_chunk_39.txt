@@ -1,0 +1,8 @@
+piecewise linearly in re.
+For ice-water clouds, we have two T-matrix computations
+supplied by M. Mishchenko for Cloud-J (Mishchenko et al.,
+2004) for warm (irregular) and cold (hexagonal) ice clouds.
+These included Q and the scattering phase function (includ-
+ing A0:7) for the visible region (∼600 nm) and were used
+at all Solar-J wavelengths. When there is signiﬁcant absorp-
+tion, the values of SSA, and to some extent Q, are complex

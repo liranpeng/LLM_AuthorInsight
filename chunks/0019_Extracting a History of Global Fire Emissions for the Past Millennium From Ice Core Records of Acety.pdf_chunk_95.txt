@@ -1,0 +1,4 @@
+changes in the spatial distributions of biomes and burning. Relative changes in regional burning patterns
+have been inferred from the global charcoal database and changes in biomes have been inferred from pollen
+and land use records (Marlon et al., 2008; Pongratz et al., 2008; Power et al., 2012). Rather than try to repro-
+duce speciﬁc patterns of change implied by these records, we focused on a few extreme cases to test the limits

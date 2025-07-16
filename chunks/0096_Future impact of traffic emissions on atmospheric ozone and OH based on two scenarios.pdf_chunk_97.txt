@@ -1,0 +1,10 @@
+worth noting the net RF due to changes in O3 and CH4 from
+all three transport sectors combined, which is slightly nega-
+tive in 2000 (−0.44 ± 13 mW m−2), and strongly negative in
+2050 (−32 ± 18 mW m−2 for A1B and −32 ± 9.3 mW m−2
+for B1), partly due to the reduced impact of ROAD. In order
+to assess the total climate impact from the transport sectors,
+RF due to changes in e.g. CO2, SO2 and BC must be included
+and will yield very different net forcings (see e.g. Olivi´e et
+al., 2012).
+5

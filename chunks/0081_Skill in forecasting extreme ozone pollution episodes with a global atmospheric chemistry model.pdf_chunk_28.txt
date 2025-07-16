@@ -1,0 +1,9 @@
+to infer regions of O3 exceedance (e.g., Cooley et al., 2007;
+Padoan et al., 2010).
+Inverse distance weighting (IDW) and ordinary Kriging
+are the most common interpolation techniques, with gen-
+erally small or modest differences found between the two
+(Rojas-Avellaneda and Silvan-Cardenas, 2006). Both pro-
+duce estimates at unmeasured points using a weighted linear
+combination of the values at neighboring sites, determined
+by some function of the separation between the unmeasured

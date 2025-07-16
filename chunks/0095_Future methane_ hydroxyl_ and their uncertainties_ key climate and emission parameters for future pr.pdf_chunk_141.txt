@@ -1,0 +1,10 @@
+www.atmos-chem-phys.net/13/285/2013/
+Atmos. Chem. Phys., 13, 285–302, 2013
+298
+C. D. Holmes et al.: Future methane, hydroxyl, and their uncertainties
+global methyl chloroform observations, but correlate poorly
+with year-to-year changes inferred from the NOAA and
+AGAGE networks. However, while both networks provide
+strong and mutually consistent estimates of the long-term
+mean τCH4×OH, their year-to-year anomalies differ from each
+other by as much as they differ from the CTMs. These dif-

@@ -1,0 +1,13 @@
+26 %
+22 %
+27 %
+28 %
+28 %
+28 %
+28 %
+27 %
+28 %
+28 %
+Global includes all ATom-1 parcels, Paciﬁc considers all measurements over the Paciﬁc Ocean from 54◦S to 60◦N and Atlantic uses parcels from 54◦S to
+60◦N over the Atlantic basin. All parcels are weighted inversely by the number of parcels in each 10◦latitude by 100 hPa bin. Results from the different
+MDS versions (0, 1, 2) are shown. UCI2∗uses the revised RDS∗protocol that preprocesses the MDS-2 initializations with a 24 h decay of HNO4 and PAN

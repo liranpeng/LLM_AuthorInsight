@@ -1,0 +1,4 @@
+emi, these models have been scaled by 25, 4, and 1.65, respectively, to match the 10% perturbation in the hydrogen surface concentrations in the other
+models (see Methods).
+Fig. 3 Changes in the radiative forcing due to 1 Tg ﬂux of hydrogen. The main changes in the radiative forcing due to 1 Tg ﬂux of hydrogen; methane
+(green bars), ozone (yellow), stratospheric water vapor (purple), and aerosols (red). The values are presented in Supplementary Table 3.

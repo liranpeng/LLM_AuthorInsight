@@ -1,0 +1,8 @@
+clude incidences when the sky is effectively clear of clouds.
+We designate these all-sky J values as J-cloudy in both
+measurements and models to contrast them with the artiﬁ-
+cially cloud-cleared J values denoted J-clear. For J-clear,
+CAFS uses the Tropospheric Ultraviolet and Visible (TUV)
+radiative transfer model (Madronich and Flocke, 1999). The
+model is run with an eight-stream discrete ordinate radia-
+tive transfer method with a pseudo-spherical modiﬁcation

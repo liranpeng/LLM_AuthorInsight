@@ -1,0 +1,8 @@
+lapping networks, for which individual adjacent stations are
+not available. For the comparison, we calculate QP values
+for each data set and apply a mask using a cutoff of 0.33
+rather than 0.67 in order to examine a larger area. We de-
+ﬁne the bias as AirBase minus EMEP and present biases
+for the 25th, 50th, and 95th percentiles calculated with re-
+spect to years 2000–2009 (Fig. 5). Note that these compar-
+isons are not exact-day matches, and hence each percentile

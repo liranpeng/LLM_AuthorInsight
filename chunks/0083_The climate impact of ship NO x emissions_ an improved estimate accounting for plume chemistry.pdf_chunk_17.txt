@@ -1,0 +1,10 @@
+studies. We also identify major sources of uncertainty in ship
+NOx RF using similar methods to our earlier work on avia-
+tion NOx (Holmes et al., 2011): by decomposing the RF into
+factors that can be assessed individually and by reproducing
+the spread of past results in a single model.
+2
+Model description
+GEOS-Chem is a global tropospheric CTM driven by as-
+similated meteorological data from the NASA Goddard
+Earth Observing System (GEOS-5) (Rienecker et al., 2008).

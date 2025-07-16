@@ -1,0 +1,7 @@
+is accounted for in IDW, the advantages of using Kriging are
+slight. In addition, the covariance function required for Krig-
+ing can easily be modeled incorrectly, especially at short sep-
+aration distances (Diem, 2003), when many sites are close in
+geographic space but their reported values differ by a large
+amount, as in the case of air pollution. Many of the geograph-
+ically clustered sites in our data sets are located in urban ar-

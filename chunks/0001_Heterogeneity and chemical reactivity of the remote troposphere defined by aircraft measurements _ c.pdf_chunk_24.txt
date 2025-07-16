@@ -1,0 +1,8 @@
+not reﬂect that parcel’s overall contribution to the CH4 or O3
+budget; a full diel cycle is needed. The A run assumption that
+parcels do not mix with neighboring air masses is an approx-
+imation, and thus for each model we compared the A runs
+using the model’s restart data with a parallel standard 24 h
+simulation (including transport, scavenging, and emissions).
+Because the standard grid-cell air moves and mixes, we com-
+pared averages over a large region (e.g., tropical Paciﬁc). We

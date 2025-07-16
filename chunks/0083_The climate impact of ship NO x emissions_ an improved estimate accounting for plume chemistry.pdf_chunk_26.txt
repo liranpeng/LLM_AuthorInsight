@@ -1,0 +1,8 @@
+centrations consistent with ﬁeld observations over several
+hours of ship plume aging (Chen et al., 2005).
+In this work, we update the Gaussian plume model to
+calculate CH4 oxidation within the ship plume and verify
+that the updated model still reproduces ﬁeld observations of
+NOx, O3, and OH concentrations (Fig. S1 in the Supple-
+ment). We also add wind speed as a factor in the look-up
+table, since CH4 oxidation and O3 production can vary by

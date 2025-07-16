@@ -1,0 +1,9 @@
+changes in annual-mean CO-tracer mixing ratios at the sur-
+face and in the free troposphere are of similar magnitude to
+those reported by Fang et al. (2011) using the GFDL AM3
+model. Somewhat larger decreases in tropospheric-average
+idealised tracer mixing ratios of 25 % were reported in 2100
+by Holzer and Boer (2001) under a different climate change
+scenario.
+In addition, all four CCMs simulate a small region of in-
+crease in zonal-mean surface CO-tracer mixing ratios at ∼5–

@@ -1,0 +1,7 @@
+5 days of autoregressive inference, (bottom-left) RMSE of time-mean ps over 1-year simulation and
+(bottom-right) RMSE of USWRFtoa after 5 days of autoregressive inference.
+I.2
+Dataset size
+To show importance of dataset, here we compare training curves for two experiments which are
+similarly configured. The only difference is that the first uses a dataset with 10-years of training data
+(14607 samples; a single member of the 10-member ensemble of reference simulations) and trains

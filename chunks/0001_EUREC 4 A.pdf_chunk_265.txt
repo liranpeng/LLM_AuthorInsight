@@ -1,0 +1,13 @@
+1011 C Buck dew point hygrometer
+Humidity sensor
+Enviscope capacitive sensor measuring relative humidity
+Visible cameras
+High-resolution visible cameras (AV GT1920C) looking sideways and downward
+Particle sizer
+UHSAS, measuring aerosol particle sizes from 0.06 to 1 µm
+Scattering spectrometer
+FSSP 300, measuring particle sizes from 0.3 to 20 µm
+Cloud droplet probe
+CDP/FCDP, measuring particle sizes from 2 to 50 µm
+Particle imager
+2D-S Stereo probe measuring particle sizes from 10 µm to 2000 µm

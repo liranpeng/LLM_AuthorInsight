@@ -1,0 +1,8 @@
+fuel emissions have increased by a factor of 4 over the past
+half century, the ocean and biosphere have continued to take
+up about half of the emissions (Fig. A8, right-hand scale).
+This seemingly simple relation between emissions and at-
+mospheric CO2 growth is not predictive as it depends on the
+growth rate of emissions being maintained, which is not true
+in cases with major changes in the emission scenario, so we
+use a carbon cycle model in Sect. 7 to compute atmospheric

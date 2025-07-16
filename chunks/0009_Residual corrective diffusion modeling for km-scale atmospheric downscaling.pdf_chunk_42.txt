@@ -1,0 +1,7 @@
+high-resolution models or observations38. A useful downscaling
+model should simultaneously correct their size and intensity in
+addition to generating appropriate fine-scale structure.
+An example illustrating the benefits and limitations of CorrDiff for
+downscaling typhoon Haikui (2023) is shown in Fig. 5. Compared
+to the ground truth (Fig. 5d), the ERA5 reanalysis (Fig. 5a) poorly
+resolves the typhoon, depicting it as overly wide and with no closed

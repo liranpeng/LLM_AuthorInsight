@@ -1,0 +1,7 @@
+is likely due to different choices for interpolating cross sections and quantum yields. The J-O1D spread may be caused by the different ozone
+columns in the Tropics; see Fig. S3.
+UKCA has higher tropical columns, > 300 DU, which might
+explain why their J-O1D lies in the lower range of the mod-
+els. Some results, like MOCA’s J-NO2 and GISS’s J-O1D
+point to differences in the implementation of spectral data
+(e.g., wavelength integration, solar spectrum, temperature in-

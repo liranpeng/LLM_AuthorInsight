@@ -1,0 +1,5 @@
+(row 1), L-CH4 (row 2), L-O3 (row 3), and P-O3 (row 4). The domain being sampled in the models is the tropical Paciﬁc: 20◦S–20◦N,
+150–210◦E, 0.5–12 km. Units for the air weighting are petamoles per bin where the bins are set at 20 per decade (sizes marked by dashed
+lines in upper or lower panels) and Mmoles per bin per day for the reactivity-weighted plots (rows 2–4).
+Atmos. Chem. Phys., 17, 9081–9102, 2017
+www.atmos-chem-phys.net/17/9081/2017/

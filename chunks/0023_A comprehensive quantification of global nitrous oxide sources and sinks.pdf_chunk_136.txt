@@ -1,0 +1,7 @@
+(based on the ratio of anthropogenic to total nitrogen additions from 
+land) to calculate anthropogenic emissions. Seagrass, mangrove, salt-
+marsh and intertidal N2O emissions were undated and obtained from 
+ref. 68. Coastal waters with low disturbance generally either have low 
+N2O emissions or act as a sink for N2O69,70. Here, coastal zone emissions 
+were treated as anthropogenic emissions owing to intensive human 
+disturbances71.

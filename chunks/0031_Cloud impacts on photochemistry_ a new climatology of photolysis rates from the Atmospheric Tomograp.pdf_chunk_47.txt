@@ -1,0 +1,8 @@
+and J-clear (TUV) for the tropical Paciﬁc, the J-NO2 vari-
+ability is driven almost entirely by clouds as expected, while
+the J-O1D variability is driven ﬁrstly by O3 column and sun
+angle (both CAFS and TUV), while there are clearly cloud
+contributions (CAFS only) at lower altitudes (> 700 hPa).
+Figure 1 shows a full comparison of the CAFS J proﬁles
+with the 10 model results in four panels (2 Js × 2 geographic
+blocks). The CAFS Js ﬁt within the range of models; their

@@ -1,0 +1,8 @@
+Δδ13CH4 were both <0.1 and rejected if either ΔCH4 or Δδ13CH4 were
+>0.1.
+3.4. Chlorine Sink
+Chlorine atoms are estimated to account for roughly 1–5% of the total loss
+of methane (Allan et al., 2007; Prather et al., 2012; Wang et al., 2019). The
+reaction rate (kethane) for ethane with chlorine at 298 K is 5.69 × 10−11 cm3
+molecules−1 s−1 (Burkholder et al., 2015). The reaction rate (kmethane) for
+methane with chlorine at 298 K is 1.00 × 10−13 cm3 molecules−1 s−1

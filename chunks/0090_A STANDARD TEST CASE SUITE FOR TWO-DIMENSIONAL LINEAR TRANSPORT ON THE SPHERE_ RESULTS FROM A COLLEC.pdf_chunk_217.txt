@@ -1,0 +1,9 @@
+sion of the convex hull shape towards the upper left corner of
+the scatterplot. The FARSIGHT and CLAW schemes result
+in a much different shape that differs from an “extension” of
+the convex hull shape.
+As alluded to above, it is immediately visible in the scat-
+terplots if the “shape-preserving” versions of the schemes are
+strictly shape-preserving. For example, CAM-FV has slight
+overshooting mixing even though the dimensionally split
+application of one-dimensional operators is strictly shape-

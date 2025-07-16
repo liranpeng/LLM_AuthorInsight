@@ -1,0 +1,18 @@
+N2O + hv →N2 + O
+(R1)
+N2O + O(1D) →N2 + O2
+(R2)
+N2O + O(1D) →NO + NO
+(R3)
+The O(1D) is calculated from the O3–T proﬁles assuming
+production equals loss.
+O3 + hv →O(1D) + O2
+(R4)
+O(1D) + N2 →O(3P) + N2
+(R5)
+O(1D) + O2 →O(3P) + O2
+(R6)
+The radiative transfer calculation is the same as in Prather et
+al. (2015) and includes the solar declination for the middle of
+each month, the Sun–Earth distance, but not the solar cycle
+(a mean solar ﬂux is used).

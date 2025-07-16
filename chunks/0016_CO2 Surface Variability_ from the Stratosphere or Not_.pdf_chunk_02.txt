@@ -1,0 +1,4 @@
+of other sources of IAV. Given the recent success in demonstrating that the stratospheric inﬂux of N2O- and
+chloroﬂuorocarbon-depleted air is a dominant source of their surface IAV in the Southern Hemisphere, I apply
+the same model and measurement analysis here to CO2. Using chemistry-transport modeling or scaling of the
+observed N2O variability, I ﬁnd that the stratosphere-driven surface variability in CO2 is at most 10 % of the

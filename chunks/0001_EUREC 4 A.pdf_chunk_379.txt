@@ -1,0 +1,12 @@
+CT sensor
+Sea-Bird SBE-37 SI measuring sea surface temperature and conductivity/salinity at 1 Hz at a height
+of −0.2 m
+Acoustic Doppler current
+proﬁler
+Nortek Signature 1.2 GHz ADCP measuring vertical proﬁles of ocean current and horizontal and
+vertical velocities at 25 Hz from −0.3 to −17.3 m every 0.5 m of water
+Table B33. PICCOLO.
+Instrument
+Brief description
+Anemometers
+Five homemade cup anemometers measuring the horizontal wind speed close to the surface (at 0.40,

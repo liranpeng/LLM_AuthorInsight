@@ -1,0 +1,9 @@
+2018.
+Prather, M. J., Zhu, X., Strahan, S. E., Steenrod, S. D., and
+Rodriguez, J. M.: Quantifying errors in trace species trans-
+port modeling, P. Natl. Acad. Sci. USA, 105, 19617–19621,
+https://doi.org/10.1073/pnas.0806541106, 2008.
+Prather, M. J.: Photolysis rates in correlated overlapping cloud
+ﬁelds: Cloud-J 7.3c, Geosci. Model Dev., 8, 2587–2595,
+https://doi.org/10.5194/gmd-8-2587-2015, 2015.
+Prather, M. J., Zhu, X., Flynn, C. M., Strode, S. A., Ro-

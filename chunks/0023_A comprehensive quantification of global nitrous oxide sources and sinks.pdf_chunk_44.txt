@@ -1,0 +1,81 @@
+0.6
+0.8
+0.6
+0.6
+0.6
+0.6
+0.5
+0.8
+Subtotal
+1.8
+1.6
+2.1
+1.9
+1.7
+2.1
+1.8
+1.6
+2.1
+1.9
+1.6
+2.3
+Indirect emissions 
+from anthropogenic 
+nitrogen additions
+Inland waters, 
+estuaries, coastal 
+zones
+0.4
+0.2
+0.5
+0.4
+0.2
+0.5
+0.4
+0.2
+0.6
+0.5
+0.2
+0.7
+Atmospheric nitrogen 
+deposition on land
+0.6
+0.3
+1.2
+0.7
+0.4
+1.4
+0.7
+0.4
+1.3
+0.8
+0.4
+1.4
+Atmospheric nitrogen 
+deposition on ocean
+0.1
+0.1
+0.2
+0.1
+0.1
+0.2
+0.1
+0.1
+0.2
+0.1
+0.1
+0.2
+Subtotal
+1.1
+0.6
+1.9
+1.2
+0.7
+2.1
+1.2
+0.6
+2.1
+1.3
+0.7
+2.2
+Perturbed fluxes from

@@ -1,0 +1,9 @@
+5879–5895, doi:10.1016/j.jcp.2010.04.008, 2010.
+Taylor, M. A., St.Cyr, A., and Fournier, A.: A non-oscillatory advec-
+tion operator for the compatible spectral element method, Com-
+putational Science ICCS 2009 Part II, Lecture Notes Comput.
+Sci., 5545, 273–282, 2009.
+Temperton, C. and Staniforth, A.: An efﬁcient two-time-level semi-
+Lagrangian semi-implicit integration scheme, Q. J. Roy. Meteor.
+Soc., 113, 1025–1039, 1987.
+Thomas, S. J. and Loft, R. D.: The NCAR Spectral Element Cli-

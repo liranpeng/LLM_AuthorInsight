@@ -1,0 +1,8 @@
+Davidson, E. A.: Representative concentration pathways and miti-
+gation scenarios for nitrous oxide, Environ. Res. Lett., 7, 024005,
+https://doi.org/10.1088/1748-9326/7/2/024005, 2012.
+Dlugokencky, E.: Data from the NOAA web site, NOAA [data
+set], https://gml.noaa.gov/webdata/ccgg/trends/n2o/n2o_mm_gl.
+txt (last access: 26 July 2023), 2022.
+Forster, P., Storelvmo, T., Armour, K., Collins, W., Dufresne, J.-
+L., Frame, D., Lunt, D. J., Mauritsen, T., Palmer, M. D., Watan-

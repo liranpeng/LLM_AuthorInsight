@@ -1,0 +1,8 @@
+the ﬂux of mass through all cell walls in one time step. This
+term is also referred to as the ﬂux divergence. In one dimen-
+sion the ﬂux divergence is the difference between the ﬂux
+of mass through the left and right wall of the control vol-
+ume. Mass conservation is therefore achieved by evaluating
+the ﬂux through a cell wall shared by two control volumes
+in an identical way. In that case, the amount of mass ﬂow-
+ing into a control volume through a cell wall will be exactly

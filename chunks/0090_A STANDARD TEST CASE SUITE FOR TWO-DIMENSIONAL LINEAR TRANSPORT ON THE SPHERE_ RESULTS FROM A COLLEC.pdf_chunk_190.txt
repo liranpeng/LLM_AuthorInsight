@@ -1,0 +1,10 @@
+this deﬁciency.
+The ability of the scheme to preserve the “plateau” of
+the slotted cylinders seems to be closely related to “mini-
+mal” resolution in a qualitative sense except for the UCI-
+SOM and HEL scheme that perform better than would be
+expected from their 1λm ranking. Not surprisingly the more
+Geosci. Model Dev., 7, 105–145, 2014
+www.geosci-model-dev.net/7/105/2014/
+P. H. Lauritzen et al.: Results from standard test case suite
+123

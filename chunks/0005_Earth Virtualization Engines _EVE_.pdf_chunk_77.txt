@@ -1,0 +1,7 @@
+center would need to access approximately 50 MW of power. The
+computing resources need not be sourced from a dedicated site but
+must facilitate interoperability of software and data, maintaining
+computing co-proximate to the largest sources of data. By focusing
+on the development of just a few centers and concentrating the
+powered delivery to access renewables and favor circular
+economies, e.g., through productive use of “waste” heat, EVE will

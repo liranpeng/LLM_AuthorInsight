@@ -1,0 +1,18 @@
+press the majesty of the clouds in the trades less markedly.
+https://doi.org/10.5194/essd-13-4067-2021
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+4094
+B. Stevens et al.: EUREC4A
+Appendix A: Estimates of environmental impact
+With a speciﬁc density of 0.82 kg L−1 we can com-
+pute
+the
+total
+CO2
+emissions
+from
+aircraft
+opera-
+tions as 629 497 L ×3 kg CO2 kg-fuel×0.82 kg-fuel L−1 =
+1 548 562 kg of CO2 emissions, or roughly 1500 t.
+Estimates of the fuel consumption for the research ves-

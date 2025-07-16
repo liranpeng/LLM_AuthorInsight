@@ -1,0 +1,8 @@
+using the present-day emission scenarios provided in the EU-
+QUANTIFY project.
+3.2. Exceedence ratio for tropospheric O3
+To assess whether the distribution of near-surface (0e500 m) O3
+simulated by the model ensemble results in regional exceedences
+of air quality standards, we use a method where we normalize the
+monthly mean mixing ratios by the recommended 8-hourly limit
+provided by the EC of 60 ppb exposure for a period of 25 days in any

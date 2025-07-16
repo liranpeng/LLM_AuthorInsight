@@ -1,0 +1,4 @@
+the lifetime of UCI F11X during the MLS overlap period at 63 years, which is slightly longer than GMI's at 
+57 years. The timing of most F11X extrema matches well across the two models (cc = 0.47 for GMI vs. UCI 
+F11X) and is comparable with their N2OX counterparts, indicating transport variations in the lower strato-
+sphere are similar between MERRA-2 and ECMWF-IFS. The systematic difference in N2OX loss frequency

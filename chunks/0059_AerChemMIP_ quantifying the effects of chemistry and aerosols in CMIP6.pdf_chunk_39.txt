@@ -1,0 +1,10 @@
+and CCMI largely contributed to the design of AerChemMIP.
+2
+Science questions
+This section provides the scientiﬁc justiﬁcation for the four
+science questions that AerChemMIP will address. As a
+multi-model exercise, AerChemMIP will identify areas of
+consensus and disagreement in the answers. Owing to the
+strong connection between clouds and aerosols (Boucher et
+al., 2013), AerChemMIP will provide crucial information
+to support the World Climate Research Program (WCRP)

@@ -1,0 +1,8 @@
+ing how the observational statistics are compiled, what proto-
+col the models used, and how they included cloud ﬁelds. This
+section also documents the differences in mean J values,
+which can be as large as 30 % in either “cloudy” or clear
+conditions. Section 3 introduces the statistical distributions
+based on the ratio of full sky including clouds to clear sky.
+Section 4 examines modeling errors and improvements re-
+lated to this comparison. In the concluding section, Sect. 5,

@@ -1,0 +1,8 @@
+on the observing sites in the northeastern US. Note the var-
+iegated nature of O3 at individual sites within some 1◦× 1◦
+cells. The QP values for three sample cells are noted in the
+ﬁgure caption. Cell A has a large number of independent sites
+in surrounding cells; hence the QP is very high despite only
+a few stations within the cell. Cell B has lower quality be-
+cause the stations are more distant and located mostly in one
+www.atmos-chem-phys.net/14/7721/2014/

@@ -1,0 +1,9 @@
+Rienecker et al. (2008, 2011), and includes assimilation of
+ozone measurements from the Ozone Monitoring Instrument
+(OMI) and MLS, and aerosol optical depth as well as me-
+teorological variables. The forward processing system pro-
+duces output on 72 model levels or 42 pressure levels with
+5/16 × 1/4◦horizontal resolution. Our study uses the pres-
+sure level output.
+The GEOS-5 FP system (Lucchesi, 2017) simulates the
+transport of CO as well as tagged CO tracers from speciﬁc

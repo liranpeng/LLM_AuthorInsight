@@ -1,0 +1,8 @@
+on the chemical patterns and reactivity in the vast remote
+ocean basins, where most of the destruction of tropospheric
+ozone (O3) and methane (CH4) occurs. Reactivity is deﬁned
+here as in P2017 to include the production and loss of O3 (P-
+O3 and L-O3, ppb/d) and loss of CH4 (L-CH4, ppb/d). Here
+we report on this model-derived product that was proposed
+for ATom, the daily averaged reaction rates determining the
+production and loss of O3 and the loss of CH4 for 10 s aver-

@@ -1,0 +1,5 @@
+meteorology that inﬂuence air pollution. We review the implications of projected changes in
+methane (CH4), ozone precursors (O3), and aerosols for climate (expressed in terms of the
+radiative forcing metric or changes in global surface temperature) and hemispheric-to-continental
+scale air quality. Reducing the O3 precursor CH4 would slow near-term warming by decreasing
+both CH4 and tropospheric O3. Uncertainty remains as to the net climate forcing from

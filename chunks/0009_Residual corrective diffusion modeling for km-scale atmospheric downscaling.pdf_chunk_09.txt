@@ -1,0 +1,7 @@
+available as many national weather agencies couple km-scale
+numerical weather models in a limited domain to coarser resolution
+global models14 – a process called dynamical downscaling. Since
+these predictions are augmented by data assimilation from ground-
+based precipitation radar and other sensors, good estimate of
+regional km-scale atmospheric states exists15. Such dynamical
+downscaling is computationally expensive, which limits the number

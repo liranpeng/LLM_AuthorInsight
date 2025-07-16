@@ -1,0 +1,8 @@
+J.: Global simulation of tropospheric chemistry at 12.5 km res-
+olution: performance and evaluation of the GEOS-Chem chem-
+ical module (v10-1) within the NASA GEOS Earth system
+model (GEOS-5 ESM), Geosci. Model Dev., 11, 4603–4620,
+https://doi.org/10.5194/gmd-11-4603-2018, 2018.
+Isaksen, I. S. A., Granier, C., Myhre, G., Berntsen, T. K., Dal-
+søren, S. B., Gauss, M., Klimont, Z., Benestad, R., Bousquet, P.,
+Collins, W., Cox, T., Eyring, V., Fowler, D., Fuzzi, S., Jöckel,

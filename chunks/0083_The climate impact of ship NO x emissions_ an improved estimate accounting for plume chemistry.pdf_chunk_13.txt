@@ -1,0 +1,8 @@
+Song et al., 2003). While the non-linear nature of NOx–HOx–
+O3 chemistry in plumes is well known (e.g., Lin et al., 1988)
+and numerical techniques have been developed for modeling
+sub-grid-scale plumes from other sources (e.g., Paoli et al.,
+2011; Sillman et al., 1990), many global CTMs have contin-
+ued to use the instant dilution assumption for ship NOx while
+acknowledging its deﬁciency. As a result, these models over-
+estimate O3 and OH production by ships and generate biased

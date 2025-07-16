@@ -1,0 +1,7 @@
+from the NTS, integrating the contribution across all transport
+sectors shows that the total contribution approaches w50% of that
+from the NTS in 2025. As for the global emission trends shown in
+Hodnebrog et al. (2011), the contribution to regional NOx from RTE
+in the A1B_HIGH scenario dominates the other transport sectors in
+2025. This dominance of RTE is in spite of the rapid increase in air
+transport, which introduces a rather low regional NOx emission. For

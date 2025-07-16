@@ -1,0 +1,14 @@
+29840
+0.740
+0.050
+0.115
+0.883
+0.006
+0.070
+tain height will not match if the modelled proﬁle shape is
+far from the real one, although the AOD values could match
+well. A similar impact could arise if the modelled mixture of
+aerosol types and the size distribution are different from the
+real one. The difference in the sizes would be easily notice-
+able in the aerosol number concentration, even if the mod-
+elled and observed AOD values correspond well. The third

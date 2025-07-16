@@ -1,0 +1,8 @@
+that has included cloud scattering ﬁnds signiﬁcant changes
+in chemical rates and budgets. For example, the inclusion of
+cloud layers by Spivakovsky et al. (2000) caused a shift in
+peak OH abundance from the boundary layer to just above
+it, resulting in a shift to colder temperatures (and lower reac-
+tion rates) for the oxidation of CH4-like gases, even with the
+same average OH abundance. Other than single-column, ide-
+alized, off-line tests of radiative transfer methods, we have

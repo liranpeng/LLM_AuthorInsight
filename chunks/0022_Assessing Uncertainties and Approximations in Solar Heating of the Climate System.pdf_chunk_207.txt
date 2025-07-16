@@ -1,0 +1,4 @@
+Systems, 10, 2971–2982. https://doi.org/10.1029/2018MS001398
+Bailey, M., & Hallett, J. (2009). A comprehensive habit diagram for atmospheric ice crystals: Confirmation from the laboratory, AIRS II, and 
+other field studies. Journal of Atmospheric Science, 66(9), 2888–2899. https://doi.org/10.1175/2009JAS2883.1
+Bankert, R. L., & J. E. SolBrig (2015). Cluster Analysis of A-train data: Approximating the vertical cloud structure of oceanic cloud regimes.

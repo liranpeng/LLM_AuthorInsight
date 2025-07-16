@@ -1,0 +1,21 @@
+68
+1
+10
+UCI 
+P−O3 
+L−O3 
+L−CH4
+97
+22
+24
+2
+75
+0
+1
+Figure 6. Venn diagrams for each model showing the overlap (%) of the top 10 % parcels in each reactivity, using 5-day means for each
+parcel.
+caused by a systematic offset in all parcels, but rather by a
+selection of different parcels.
+As expected, the three models GSFC-GC-UCI that deﬁne
+the reference case all have about 90 % overlap for the top-
+10 % parcels, and so we do not learn much with this. In terms

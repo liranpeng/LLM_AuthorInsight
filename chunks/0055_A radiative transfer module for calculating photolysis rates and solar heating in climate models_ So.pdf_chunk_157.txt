@@ -1,0 +1,9 @@
+timized for the Xeon Phi on the Babbage test platform at
+DOE National Energy Research Scientiﬁc Computing Center
+(NERSC) and achieved ∼3 times faster speedups with only
+a subset of the cores.
+Great computational acceleration could be realized with
+GPU systems when a number of column atmospheres are be-
+ing simultaneously evaluated. For each grid cell, Solar-J cal-
+culates about 100 wavelength bins and an average of 2.75
+ICAs per grid square. Giving each CPU/GPU node a 3 × 3

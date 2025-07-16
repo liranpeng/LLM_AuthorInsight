@@ -1,0 +1,8 @@
+chemistry as well as air pollution (Kim et al., 2015). For
+the most part, these chemistry models are provided with the
+cloud properties and fractional coverage for each grid cell
+in a column, make some assumptions about the overlap of
+cloud layers, and then solve the 1-D plane-parallel radia-
+tive transfer equation at varying levels of accuracy. In a 3-D
+world, however, adjacent clouds can block the sun or scat-
+ter light even when there are clear skies overhead. Also in a

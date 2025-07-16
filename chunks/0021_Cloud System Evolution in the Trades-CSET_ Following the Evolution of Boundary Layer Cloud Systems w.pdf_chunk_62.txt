@@ -1,0 +1,7 @@
+that can help connect the observations to models and quantify the cloud albedo and rain 
+susceptibilities, or how much the cloud albedo and rain vary as a function of droplet number 
+and LWP (Terai et al., 2012; Painemal and Zuidema, 2013). Further, they can provide a 
+geophysical constraint on lidar and radar-specific retrievals, such as a combination with the 
+attenuation-corrected HCR reflectivity data to develop a simple Z-LWC relationship for 
+Albrecht et al.
+Page 9

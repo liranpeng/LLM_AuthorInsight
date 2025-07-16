@@ -1,0 +1,6 @@
+correlation is similar if we only count the downward O3 ﬂux north of 40◦latitude but is much poorer if the
+downward only ﬂux of air (w∗>0) is used as a proxy for the STE ﬂux. These correlations also do not improve
+if one allows for a time lag.
+It is surprising that the two diﬀerent versions of the IFS forecast system do not show more correlation
+for most of the calculated ﬂuxes given that both are forecasting the same assimilated ﬁelds. The cross
+HSU AND PRATHER

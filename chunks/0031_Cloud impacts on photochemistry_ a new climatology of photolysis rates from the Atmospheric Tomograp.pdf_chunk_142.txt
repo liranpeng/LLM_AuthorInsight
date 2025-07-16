@@ -1,0 +1,8 @@
+1058, https://doi.org/10.1002/qj.824, 2011.
+Berthou, S., Kendon, E. J., Chan, S. C., Ban, N., Leutwyler, D.,
+Schär, C., and Fosser, G.: Pan-European climate at convection-
+permitting scale: a model intercomparison study, Clim. Dynam.,
+5, 1–25, https://doi.org/10.1007/s00382-018-4114-6, 2018.
+Bian, H. and Prather, M. J.: Fast-J2: Accurate Simulation of Strato-
+spheric Photolysis in Global Chemical Models, J. Atmos. Chem.,
+41, 281–296, https://doi.org/10.1023/A:1014980619462, 2002.

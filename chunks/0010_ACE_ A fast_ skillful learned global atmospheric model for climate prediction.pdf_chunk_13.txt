@@ -1,0 +1,8 @@
+for a complete description of variables used for training. For compatibility with SFNO we regrid
+conservatively from the cubed-sphere geometry of FV3GFS to a 1° Gaussian grid [21], additionally
+filtering the data with a spherical harmonic transform round-trip to remove artifacts in the high
+latitudes. We coarsen the vertical coordinate to 8 layers while conserving moisture and energy
+(Appendix A).
+2.2
+Training
+Architecture

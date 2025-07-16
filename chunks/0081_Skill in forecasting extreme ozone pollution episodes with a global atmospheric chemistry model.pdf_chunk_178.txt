@@ -1,0 +1,9 @@
+HTAP: Hemispheric transport of air pollution 2010, Part A: Ozone
+and particulate matter, United Nations, Geneva, Switzerland,
+2010.
+Huang, H. and Hsu, N.: Modeling transport effects on ground-level
+ozone using a non-stationary space-time model, Environmetrics,
+15, 251–268, doi:10.1002/env.639, 2004.
+Hudman, R. C., Murray, L. T., Jacob, D. J., Turquety, S., Wu,
+S., Millet, D. B., Avery, M., Goldstein, A. H., and Hol-
+loway, J.: North American inﬂuence on tropospheric ozone

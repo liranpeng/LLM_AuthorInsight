@@ -1,0 +1,8 @@
+sels are larger as they operate around the clock and support
+the life of a community of scientists and their laboratories at
+sea. They are also more roughly estimated. We begin with
+numbers from the R/V Meteor, which burns sulfate-reduced
+diesel. Its burn rate is estimated as 5000 L d−1 when sta-
+tionary and as much as twice that much when under way.
+Given that the ships were generally steaming but with station
+work mixed in, we adopt a burn rate of 8000 L d−1. Diesel is

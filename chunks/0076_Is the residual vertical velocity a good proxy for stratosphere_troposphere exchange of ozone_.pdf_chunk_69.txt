@@ -1,0 +1,2 @@
+based on the changes in the O3 content in the LMS region between 100 hPa (upper surface) and the lower surface deﬁned by e90 or O3 abundances. The simulated ﬂux across the 100 hPa sur-
+face (wO3NH) is monthly average accumulated every model time step. The residual O3 ﬂux across 100 hPa is calculated based on the monthly mean vertical residual velocity (w∗) from the trans-

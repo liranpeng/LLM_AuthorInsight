@@ -1,0 +1,8 @@
+10, 11681–11705, doi:10.5194/acp-10-11681-2010, 2010.
+Kraabøl, A. G., Berntsen, T. K., Sundet, J. K., and Stordal,
+F.: Impacts of NOx emissions from subsonic aircraft in a
+global three-dimensional chemistry transport model includ-
+ing plume processes, J. Geophys. Res.-Atmos., 107, 4655,
+doi:10.1029/2001jd001019, 2002.
+Lee, D. S., Fahey, D. W., Forster, P. M., Newton, P. J., Wit, R. C.
+N., Lim, L. L., Owen, B., and Sausen, R.: Aviation and global

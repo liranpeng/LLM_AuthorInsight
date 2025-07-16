@@ -1,0 +1,8 @@
+NASA Author Manuscript
+NASA Author Manuscript
+flights (RF02-RF07) at the beginning of observational period, the low-level sampling time 
+was less than on the flights made after that. Thus, the two sampling areas are specified in 
+Table 2 for RF02-RF07 and three sampling areas are listed for RF08-RF 15 when more time 
+was used for low-level sampling.
+a. Lagrangian Evolution Sample
+A sample of the Lagrangian tracking of clouds and aerosols with the HCR and HSRL during

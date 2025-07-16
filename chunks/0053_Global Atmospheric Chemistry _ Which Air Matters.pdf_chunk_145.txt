@@ -1,0 +1,10 @@
+(F) and 63 % (C). The full-block ellipse from the other model
+is plotted in Fig. 8c, d (dashed lines) to show that the models
+can be distinguished from even single transects (overlap of
+60 %).
+5
+Discussion and preparation for the ATom dataset
+This paper is based on the underlying premise that high-
+frequency proﬁling of the key species controlling the daily
+average reactivity of individual air parcels throughout the re-
+mote ocean basins can provide a unique, objectively sampled

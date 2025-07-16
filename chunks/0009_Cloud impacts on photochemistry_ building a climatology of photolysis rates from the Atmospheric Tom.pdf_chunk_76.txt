@@ -1,0 +1,9 @@
+servations. Thus our model statistics over a large block may
+be a representative climatology of cloud effects on J values.
+Further sampling tests are recommended for follow-on work,
+especially to determine if the distinct east–west differences
+for the three MERRA cloud models are a standard feature.
+3.2
+Analyzing cloud effects
+With a graphical synopsis of the rlnJ probability distributions
+in Fig. 5a, b, some model features become more obvious. We

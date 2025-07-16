@@ -1,0 +1,38 @@
+11
+57
+6.1
+Southern
+6. Christchurch–Punta Arenas
+56
+6.4
+54
+4.7
+Ocean
+Atlantic
+7. Punta Arenas–Ascension Island
+69
+17
+71
+26
+8. Ascension Island–Azores
+101
+36
+103
+27
+9. Azores–Kangerlussuaq
+88
+32
+87
+19
+N. America
+10. Kangerlussuaq–Minneapolis
+90
+26
+91
+22
+11. Minneapolis–Palmdale
+84
+38
+107
+78
+Figure 1. Curtain plot of CO (ppb) from the GEOS-5 analysis as a function of time and pressure overplotted with the model tropopause

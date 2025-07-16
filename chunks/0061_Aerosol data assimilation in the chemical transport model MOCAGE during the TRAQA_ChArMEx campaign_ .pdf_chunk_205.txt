@@ -1,0 +1,10 @@
+and Tanré, D.: Remote sensing of aerosols over the oceans
+using MSG/SEVIRI imagery, Ann. Geophys., 23, 3561–3568,
+doi:10.5194/angeo-23-3561-2005, 2005b.
+Tombette, M., Mallet, V., and Sportisse, B.: PM10 data assimila-
+tion over Europe with the optimal interpolation method, Atmo-
+spheric Chemistry and Physics, 9, 57–70, doi:10.5194/acp-9-57-
+2009, 2009.
+Tréemolet, Y.: Accounting for an imperfect model in 4D-Var, Q.
+J. Roy. Meteor. Soc., 132, 2483–2504, doi:10.1256/qj.05.224,
+2006.

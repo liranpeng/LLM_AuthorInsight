@@ -1,0 +1,9 @@
+designed (using 3-D meteorology) to address the ﬁrst three
+needs (e.g., Nicely et al., 2016), it cannot address the last.
+More simply, all the necessary Earth system components are
+already built in to the CTMs–CCMs, and our approach of
+testing the modeled climatologies includes that of testing the
+Earth system components (e.g., emissions, transport, chem-
+istry, scavenging, air–sea exchange, and land–surface inter-
+actions).
+In a standard CTM or CCM simulation (deﬁned here as

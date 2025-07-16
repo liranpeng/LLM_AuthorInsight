@@ -1,0 +1,19 @@
+ratio. The HEL scheme is general in the sense that any shape-
+preserving and mass-conservative scheme can be used for the
+Eulerian forecast. The HEL scheme has also been tested suc-
+cessfully in a dynamic shallow water model with strongly
+varying surface topography (Kaas et al., 2013).
+2.3
+(Semi-)Lagrangian grid point
+Some
+schemes,
+such
+as
+traditional
+grid-point
+semi-
+Lagrangian schemes, are based on the advective form of the
+continuity equation for mixing ratio φ,
+Dφ
+Dt = 0.
+(10)

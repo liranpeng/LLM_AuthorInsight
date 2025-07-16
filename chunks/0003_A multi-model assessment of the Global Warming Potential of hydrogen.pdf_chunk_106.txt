@@ -1,0 +1,6 @@
+ﬁxed hemispheric hydrogen concentrations of 500 and 550 ppb in the Northern
+and Southern hemispheres. Hydrogen is deposited through dry-deposition only
+over land using a ﬁxed deposition velocity.
+UKCA. UKCA58 is a global chemistry-climate model which is the atmospheric
+component of the Met Ofﬁce Uniﬁed Model. The atmosphere-only version 11.1 of
+the model was used with 85 vertical levels and 1.250o x 1.875o horizontal resolution

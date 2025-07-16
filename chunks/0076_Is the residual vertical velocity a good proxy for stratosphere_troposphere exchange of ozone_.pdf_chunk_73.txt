@@ -1,0 +1,5 @@
+is close to the tropopause (e.g., e90-tropopause tracer, O3 levels of 120 or 250 ppb). They also agree with
+the hemispheric ﬂuxes inferred from the O3 budget of the LMS. The simulated NH ﬂux across the 100 hPa
+surface leads the NH O3 STE ﬂux in time by 2–3 months.
+Using the stratospheric overturning circulation as quantiﬁed by the transformed Eulerian mean vertical
+velocity w∗to calculate, or even act as a scalable proxy for, the STE O3 ﬂux, however, yields serious errors. For

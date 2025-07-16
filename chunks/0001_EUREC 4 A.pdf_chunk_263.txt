@@ -1,0 +1,12 @@
+Table B3. ATR.
+Instrument
+Brief description
+Backscatter lidar (ALIAS)
+A horizontally staring backscatter lidar operating at 355 nm and detecting polarization (Chazette et al.,
+2021)
+Cloud radar (BASTA)
+A horizontally staring bistatic FMCW 95 GHz Doppler cloud radar characterizing clouds, rain, and
+horizontal Doppler velocity (Delanoë et al., 2016)
+Cloud radar (RASTA)
+An upward-looking 95 GHz Doppler pulsed cloud radar characterizing clouds, rain, vertical Doppler
+velocity, and Doppler spectrum

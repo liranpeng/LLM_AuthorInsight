@@ -1,0 +1,4 @@
+Logan, J. A., Prather, M. J., Wofsy, S. C., & Mcelroy, M. B. (1978). Atmospheric chemistry - response to human influence. Philosophical 
+Transactions of the Royal Society A-Mathematical Physical and Engineering Sciences, 290(1367), 187–234.
+Lu, P., Zhang, H., & Li, J. (2011). Correlated k-distribution treatment of cloud optical properties and related radiative impact. Journal of the 
+Atmospheric Sciences, 68, 2671–2688. https://doi.org/10.1175/JAS-D-10-05001.1

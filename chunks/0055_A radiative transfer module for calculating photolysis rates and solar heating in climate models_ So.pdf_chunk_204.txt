@@ -1,0 +1,8 @@
+M. J.: Data-rate-aware FPGA-based Acceleration Framework for
+Streaming Applications, ReConFig, 2016.
+Rozanov, V., Rozanov, A., Kokhanovsky, A., and Burrows, J.: Ra-
+diative transfer through terrestrial atmosphere and ocean: Soft-
+ware package SCIATRAN, J. Quant. Spectrosc. Ra., 133, 13–71,
+https://doi.org/10.1016/j.jqsrt.2013.07.004, 2014.
+Sander, S., Friedl, R. R., Abbatt, J. P. D., Barker, J. R., Burkholder,
+J. B., Golden, D. M., Kolb, C. E., Kurylo, M. J., Moortgat, G.

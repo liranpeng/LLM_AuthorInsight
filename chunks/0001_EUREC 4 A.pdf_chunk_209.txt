@@ -1,0 +1,8 @@
+of development, be uploaded and archived on the AERIS data
+center. The AERIS data center is part of the French Data
+Terra research infrastructure, which has the objective to facil-
+itate and enhance the use of atmospheric data, whether from
+satellite, aircraft, balloon, or ground observations, or from
+laboratory experiments. It generates advanced products and
+provides services to facilitate data use, to prepare campaigns,
+and to interface with modeling activities.

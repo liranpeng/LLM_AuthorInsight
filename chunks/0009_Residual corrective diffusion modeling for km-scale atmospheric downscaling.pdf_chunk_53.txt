@@ -1,0 +1,7 @@
+Another important unsolved challenge is optimally calibrating
+CorrDiff’s generated uncertainty to better match its error levels.
+This is somewhat unexpected since diffusion models for image
+generation are known to be over-dispersive in the sense of
+producing low-quality samples and variance-reducing techniques
+are often used during the sampling to discourage such outliers40,41.
+The lack of grid-point-level spread here could owe to a number of

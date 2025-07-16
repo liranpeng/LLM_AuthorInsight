@@ -1,0 +1,8 @@
+Pierce et al., 2010). For the 16th percentile, the trend is less
+obvious. The 84th-percentile values show excellent agree-
+ment with the day-of-week AQX frequencies. As expected,
+we did not see signiﬁcant evidence of a weekly cycle in the
+CTM, as there is not a parameterization for the day of the
+week within the model. The mean skill of the CTM was gen-
+erally higher for months and days that had higher combined
+numbers of events. Although seemingly trivial, this result

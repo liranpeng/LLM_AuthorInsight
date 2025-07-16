@@ -1,0 +1,12 @@
+Fluorometer
+WET Labs ECO-FL-S G4 and Turner Cyclops measuring chlorophyll a (experimental) at 0.5 m depth
+Barometer
+Vaisala PTB210 measuring barometric pressure at 0.2 m above water line
+Inertial system
+VectorNav VN300 Dual GPS-aided inertial measurement unit deriving estimates of signiﬁcant wave
+height and dominant period from wave spectrum
+Thermistors
+Sea-Bird SBE-57s thermistors of seawater temperature (on keel at 0.3, 0.6, 0.9, 1.2, 1.4, and 1.7 m
+depths)
+Acoustic Doppler current
+proﬁler

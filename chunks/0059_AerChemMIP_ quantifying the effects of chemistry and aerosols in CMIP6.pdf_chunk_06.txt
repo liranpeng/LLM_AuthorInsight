@@ -1,0 +1,11 @@
+tributions from aerosols and/or chemistry to be quantiﬁed.
+Speciﬁc diagnostics are requested as part of the CMIP6 data
+request to highlight the chemical composition of the atmo-
+sphere, to evaluate the performance of the models, and to
+understand differences in behaviour between them.
+1
+Introduction
+1.1
+Motivation for AerChemMIP
+Aerosols and chemically reactive gases in the atmosphere
+can exert important inﬂuences on global and regional air

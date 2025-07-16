@@ -1,0 +1,8 @@
+Am. Samoa, at 14◦S, 171◦W; CGO – Cape Grim, Tasma-
+nia, Australia, at 41◦S, 144◦E; and SPO – South Pole at
+90◦S. Monthly average in situ observations are used, and
+gaps are ﬁlled by ﬂask data at the same site. CGO is ﬂask
+only. I have a continuous monthly record from 1985 through
+2020 (Fig. 1a). I convert these to a stationary series of resid-
+uals by ﬁtting polynomials, assuming the months are equally
+spaced. The second-, third-, fourth-, and ﬁfth-order poly-

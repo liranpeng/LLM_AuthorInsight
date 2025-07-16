@@ -1,0 +1,10 @@
+groups, or 1 call with the simplest cloud approximations.
+Another improvement in modeling J values, the treatment
+of volatile organic compounds with pressure-dependent cross
+sections, is also incorporated into Cloud-J.
+1
+Introduction
+Photolysis, the dissociation of molecules upon absorbing
+sunlight, drives atmospheric chemistry and controls the com-
+position of the air we breathe. Photolysis rates are governed
+by the intensity and spectral distribution of sunlight, which

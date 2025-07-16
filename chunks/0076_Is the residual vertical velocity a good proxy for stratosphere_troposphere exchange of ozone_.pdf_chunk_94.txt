@@ -1,0 +1,5 @@
+38, L03806, doi:10.1029/2010GL046039.
+Thompson, A. M. (1992), The oxidizing capacity of the Earth’s atmosphere: Probable past and future change, Science, 256(5060),
+1157–1165, doi:10.1126/science.256.5060.1157.
+Tie, X. X., and P. Hess (1997), Ozone mass exchange between the stratosphere and troposphere for background and volcanic sulfate
+aerosol conditions, J. Geophys. Res., 102(D21), 25,487–25,500.

@@ -1,0 +1,4 @@
+Model has updated their ice cloud treatment (Baek & Bae, 2018), as have also Zhao et al. (2018) for the 
+Community Atmosphere Model Version 5. The European Centre for Medium-Range Weather Forecasts 
+(ECMWF) now includes innovations such as horizontal and vertical cloud structures (R. J. Hogan & Boz-
+zo, 2018; J. K. P. Shonk et al., 2010) based on Hogan et al.'s (2016, hence H2016) solar RT code that combines

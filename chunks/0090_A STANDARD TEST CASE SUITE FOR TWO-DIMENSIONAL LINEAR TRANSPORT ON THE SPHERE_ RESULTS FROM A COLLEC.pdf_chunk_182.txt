@@ -1,0 +1,8 @@
+tion. The ℓf curves, in particular for FARSIGHT-CN10.4,
+are oscillatory and non-monotone. The SFF-CSLAM4 and
+CAM-FV0.2 schemes have a rather wide range of τ values
+(approximately τ ∈[0.6 : 0.8]) for which ℓf exceeds 100.0,
+which is likely due to steepening of gradients. In conclusion,
+there are indications that this metric is most useful for test-
+ing schemes employing “ad hoc” ﬁxers or schemes with anti-
+diffusive terms or other mechanisms that may steepen gradi-

@@ -1,0 +1,6 @@
+errors due to pitch variations on the GV (Vivekanandan et al. 2014). Operating at 95 GHz 
+frequency, the HCR suffers from signal attenuation due to absorption by water vapor and 
+oxygen. Corrections were made using dropsonde data obtained on CSET and applying a 
+method described by Ulaby (1981) when the radar is looking downward from above the 
+clouds.
+The HCR characterized the cloud and precipitation structures and provided a measure of

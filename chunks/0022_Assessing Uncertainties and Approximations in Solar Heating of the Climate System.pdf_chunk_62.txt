@@ -1,0 +1,4 @@
+with distinct wavelength shifts: the second deep SSA minimum for liquid occurs about 1.9 µm, while that 
+for ice occurs about 2.0 µm. The largest differences in the liquid versus ice curves here are caused by particle 
+size, with smaller particles having larger SSA. The 9 infrared bands (#19–#27 in Figure 3) are denoted with 
+the vertical dashed lines. The average cloud SSA in each bin is shown by the horizontal bar with a circle.

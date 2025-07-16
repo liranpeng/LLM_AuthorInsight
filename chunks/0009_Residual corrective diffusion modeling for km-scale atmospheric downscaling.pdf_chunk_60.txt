@@ -1,0 +1,11 @@
+capabilities.
+2. 2.
+Downscaling at different geographic locations: The primary
+obstacle here is the scarcity of reliable kilometer-scale
+weather data. Additionally, addressing the computational
+scalability of CorrDiff for regions significantly larger than
+Taiwan is crucial.
+3. 3.
+Downscaling future climate predictions: This introduces
+further complexities related to conditioning probabilistic
+predictions on various future anthropogenic emissions

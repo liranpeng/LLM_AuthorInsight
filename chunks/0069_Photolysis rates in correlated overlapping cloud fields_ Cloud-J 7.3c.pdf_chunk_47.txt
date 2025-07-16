@@ -1,0 +1,10 @@
+are large, indicating that 640 different FCAs produce cancel-
+ing errors in the mean. The rms errors for G0 and G3 are
+worrisome: more than 15 % in the boundary layer and 5 to
+11 % in the full troposphere. The G6 errors are almost linear
+with the cc value. The G6/.99 with highly correlated overlap
+is similar to G3 which has MAX overlap throughout most
+of the atmosphere. The G6/.00 with random overlap is the
+closest to the correlated model G6/0.33.
+3
+Approximating the exact sum over ICAs

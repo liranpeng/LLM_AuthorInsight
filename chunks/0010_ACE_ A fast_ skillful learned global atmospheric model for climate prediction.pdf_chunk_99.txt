@@ -1,0 +1,8 @@
+temperature in the stratosphere. This is also the case for other stratospheric variables T1, v0, u0, qT
+0
+and qT
+1 (not shown). Given that stratospheric dynamics are typically slower than variability in the
+troposphere, it is not a surprise that overfitting is a particular concern in the uppermost model layers.
+Interestingly, ML-based weather prediction systems have reported relatively poor performance in the
+stratosphere (e.g. Fig. 2 of [13]).
+18

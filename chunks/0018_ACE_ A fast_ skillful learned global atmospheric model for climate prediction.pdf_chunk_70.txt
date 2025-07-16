@@ -1,0 +1,5 @@
+of these parameters. The only modification to the architecture of SFNO made in this work is in
+the first spherical harmonic transform and the last inverse spherical harmonic transform, where
+Gauss-Legendre quadrature is used, as our data is on the Gaussian grid as opposed to the equiangular
+latitude-longitude grid used in [3] (see horizontal regridding section of Appendix A).
+Table 4 lists the hyperparameters used for optimization. Model parameters were averaged across

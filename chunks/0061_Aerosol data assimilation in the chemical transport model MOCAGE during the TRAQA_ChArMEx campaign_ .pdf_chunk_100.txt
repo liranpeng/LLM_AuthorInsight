@@ -1,0 +1,10 @@
+that the assimilation changes the model, but without a clear
+improvement, could be due to different factors. This could
+happen if the simulated shape of the aerosol vertical pro-
+ﬁle differs from the measured one. Since we assimilate the
+column-integrated quantity, which does not contain the pro-
+ﬁle shape information, the model and measurements at a cer-
+Atmos. Meas. Tech., 9, 5535–5554, 2016
+www.atmos-meas-tech.net/9/5535/2016/
+B. Siˇc et al.: Aerosol data assimilation in the CTM MOCAGE
+5545

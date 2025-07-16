@@ -1,0 +1,8 @@
+pliﬁed so that only the sub-grid-scale reconstruction imme-
+diately upstream of the cell edge is used even though the ﬂux
+area may overlap more than one Eulerian cell. As discussed
+in Lauritzen et al. (2011a), this simpliﬁcation may lead to
+some cancellation of errors for sufﬁciently small CNs. The
+integration of the ﬂux region in SFF-CSLAM is performed
+via fourth-order Gaussian quadrature of third- and fourth-
+order accurate reconstruction polynomial functions (Ullrich

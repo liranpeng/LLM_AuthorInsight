@@ -1,0 +1,5 @@
+concerning aerosol cloud interactions (e.g. Gerber et al. 2008); but the RICO aircraft 
+measurements did not benefit from good cloud radar observations. During the Barbados 
+Aerosol Cloud Experiment (BACEX, 2010) in-situ cloud observations in fair weather 
+cumulus clouds were made with the CIRPAS Twin Otter research aircraft (Jung et al., 2012) 
+and with an upward-pointing Frequency Modulated Continuous Wave (FMCW) cloud radar.

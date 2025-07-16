@@ -1,0 +1,8 @@
+GEOS-5, respectively. GEOS-5 gives a reasonable reproduc-
+tion of the background CO levels for most ﬂights despite
+the use of climatological fossil fuel and biofuel emissions,
+and it captures the global distribution of CO observed during
+ATom-1. Simulations with both forecast and analysis winds
+capture the timing of many of the enhanced CO plumes en-
+countered during the ﬂights, although the magnitude of the
+enhancements was often underestimated, which is not unex-

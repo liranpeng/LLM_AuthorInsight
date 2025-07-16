@@ -1,0 +1,9 @@
+tions for HOMME-p6 have a much shorter wavelength than
+those observed for ICON.
+This test, however, was speciﬁcally designed to assess
+whether shape-preserving ﬁlters truly eliminate undershoots
+and overshoots while still preserving extrema. Finite-volume
+scheme based on rigorous ﬂux computations and/or FCT lim-
+iters completely eliminate undershoots/overshoots (CSLAM,
+ICON, MPAS). For schemes based on simpliﬁed ﬂuxes and
+not using FCT limiters, small undershoots are visible (SFF-

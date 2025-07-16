@@ -1,0 +1,13 @@
+ﬂight was on 26 January and its last on 9 February 2020.
+The BOREAL has a 4.2 m wingspan and a maximum takeoff
+weight of 25 kg. The BOREAL can ﬂy up to 6 h, covering
+more than 600 km, with a 5 kg payload. During EUREC4A,
+the BOREAL ﬂew roughly 20 km radius circles between
+https://doi.org/10.5194/essd-13-4067-2021
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+4100
+B. Stevens et al.: EUREC4A
+Table B6. TO.
+Instrument
+Brief description
+Hygrometer

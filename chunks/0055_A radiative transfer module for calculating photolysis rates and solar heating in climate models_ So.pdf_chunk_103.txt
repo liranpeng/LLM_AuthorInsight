@@ -1,0 +1,28 @@
+SZA (o)
+J: O3 => O1D+O2 (/s)
+10-6
+10-5
+10-4
+10-3
+84          86         88          90           92          94
+SZA (o)
+Heating rate (K day-1)
+0
+1
+3
+5
+2
+4
+Solar-J
+40 km
+32 km
+24 km
+16 km
+Solar-J   RRTMG
+40 km
+32 km
+24 km
+16 km
+(a)
+(b)
+Figure 3. Ozone photolysis rates (JO3) from Solar-J (a) and the corresponding atmospheric heating rates under clear sky (b) from Solar-J

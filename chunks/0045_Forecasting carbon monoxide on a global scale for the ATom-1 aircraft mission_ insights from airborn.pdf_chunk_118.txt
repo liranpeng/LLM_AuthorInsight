@@ -1,0 +1,8 @@
+Giglio, L., Deeter, M. N., Yudin, V., Ziskin, D. C., Warner,
+J., Lamarque, J. F., Francis, G. L., Ho, S. P., Mao, D., Chen,
+J., Grechko, E. I., and Drummond, J. R.: Observations of car-
+bon monoxide and aerosols from the Terra satellite: Northern
+Hemisphere variability, J. Geophys. Res.-Atmos., 109, D24202,
+https://doi.org/10.1029/2004jd004727, 2004.
+Emmons, L., Pﬁster, G., Edwards, D., Gille, J., Sachse, G.,
+Blake, D., Wofsy, S., Gerbig, C., Matross, D., and Ned-

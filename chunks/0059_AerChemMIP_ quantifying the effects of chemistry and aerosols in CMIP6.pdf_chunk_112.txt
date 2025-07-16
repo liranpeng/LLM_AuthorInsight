@@ -1,0 +1,37 @@
+scenario should be used for the interactive natural emission schemes (and for the climate); anthropogenic emissions should follow the SSP3-
+7.0 scenario.
+Experiment ID
+Minimum model
+CH4
+Aerosol
+Ozone
+Tier
+conﬁguration
+precursors
+precursors
+ssp370SST
+AGCM AER
+Reference
+Reference
+Reference
+1
+ssp370SST-lowNTCF
+AGCM AER
+Reference
+Clean
+Clean
+1
+ssp370SST-lowAer
+AGCM AER
+Reference
+Clean
+Reference
+2
+ssp370SST-lowBC
+AGCM AER
+Reference
+Reference (non BC) Clean (BC)
+Reference
+2
+ssp370SST-lowO3
+AGCM CHEMT

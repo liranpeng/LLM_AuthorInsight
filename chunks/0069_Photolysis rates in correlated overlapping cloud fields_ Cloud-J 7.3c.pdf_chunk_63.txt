@@ -1,0 +1,30 @@
+complex, pressure-dependent quantum yields (e.g., Blitz et
+al., 2006) that follow the Stern–Volmer formulation, where
+Geosci. Model Dev., 8, 2587–2595, 2015
+www.geosci-model-dev.net/8/2587/2015/
+M. J. Prather: Photolysis rates in correlated overlapping cloud ﬁelds: Cloud-J 7.3c
+2593
+altitude  (km)
+0
+2
+4
+6
+16
+12
+14
+10
+8
+20
+10
+ 1
+0.1
+0.01
+photolysis loss frequency  (/day)
+PAN*   (<0.01/d)
+MeNO3*(<0.01/d)
+MeAcr  (5.8/d)
+Acetone* (0.03/d)
+H2O2*  (0.3/d)
+MeOOH (1.3/d)
+ActAld  (2.6/d)
+MeVK  (3.2/d)

@@ -1,0 +1,8 @@
+fraction cumulus below. Thus, a seventh MAX group is
+added if there was a cirrus shield (deﬁned from top down as
+adjacent ice-only clouds with f > 0.5). Because of the cloud-
+fraction binning into 10 % intervals, the number of ICAs is
+bounded by 5 × 106 (including the cirrus shield). This limit is
+resolution independent and was never reached in any FCAs
+examined here (highest number of ICAs for one FCA was
+3500). The major computational cost comes with the Fast-J

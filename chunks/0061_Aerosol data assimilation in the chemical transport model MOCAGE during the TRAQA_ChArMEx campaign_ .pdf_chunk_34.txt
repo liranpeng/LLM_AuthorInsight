@@ -1,0 +1,8 @@
+ground; Jo is a part of the cost function related to the obser-
+vations; δx = x −xb is the misﬁt between the background xb
+and the state of the system x; di = yi −Hixb(ti) is the inno-
+vation and represents the distance of the observation yi from
+the background xb at time ti; Hi is the non-linear observation
+operator; H is its linearized version (the tangent-linear); B is
+the background error covariance matrix; and Ri is the obser-
+vation error covariance matrix at time ti. The matrices B and

@@ -1,0 +1,5 @@
+codes, is inconsequential.
+7.	 δ-scaling of the cloud scattering phase function, no assessment. The errors caused by δ-Edding-
+ton and other scaling methods are significant, causing systematic errors at the 1–2 W m−2 level across 
+latitudes. Because of the large reduction (factors of 4–7) in liquid cloud optical depths, these scaling 
+methods project much greater solar flux impacting the surface at the SZA rather than as diffuse, scat-

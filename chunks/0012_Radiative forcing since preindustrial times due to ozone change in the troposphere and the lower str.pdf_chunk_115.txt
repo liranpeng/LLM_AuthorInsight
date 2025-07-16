@@ -1,0 +1,9 @@
+ary layer ventilation, deposition velocities, etc. These pro-
+cesses inﬂuence atmospheric chemistry and thus ozone and
+other chemically active greenhouse gases.
+From radiative transfer considerations, increases in well-
+mixed greenhouse gases and ozone are assumed to lead
+to tropospheric warming, while in the stratosphere, in-
+creases in well-mixed greenhouse gases and the reduc-
+tion of ozone both have a cooling effect, as the in-
+crease in greenhouse gases leads to increased emissivity

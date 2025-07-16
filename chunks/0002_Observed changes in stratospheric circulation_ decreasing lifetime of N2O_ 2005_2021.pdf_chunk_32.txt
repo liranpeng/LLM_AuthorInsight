@@ -1,0 +1,8 @@
+in N2O below 15 hPa. It is possible that N2O is increasing
+throughout the tropical stratosphere if the negative trend at
+32 hPa is due to instrumental drift. Parallel analysis of the
+MLS V4 N2O (not shown) shows a similar increase in the
+trend from small negative trends at 32 hPa to large positive
+ones at 3 hPa (not shown). At the upper end of our range
+(2.2–6.8 hPa), Froidevaux et al. (2022, their Fig. 12) ﬁnd sim-
+ilar trends in N2O to ours (∼13 %/decade) from MLS, ACE-

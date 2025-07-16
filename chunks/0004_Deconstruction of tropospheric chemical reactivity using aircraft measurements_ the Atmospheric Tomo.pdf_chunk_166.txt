@@ -1,0 +1,8 @@
+Figure 54. Altitude proﬁles of the mean L-CO (ppb d−1) over the
+Paciﬁc and Atlantic basins for ATom-1234. See Fig. 51. Compare
+with Fig. 32. Solid lines are MDS-3, and dashed lines are MDS-2b.
+cause these are critical species based on the sensitivities (Ta-
+ble 2). The NOx PDs are paired with v3 vs. v2b panels: they
+show large shifts in the eastern Paciﬁc, as expected from ear-
+lier comparisons. The tropical Atlantic NOx PDs also show
+large shifts with the versions. Thus, the NOx PDs should

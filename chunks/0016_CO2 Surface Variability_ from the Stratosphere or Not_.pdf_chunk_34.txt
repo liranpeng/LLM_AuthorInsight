@@ -1,0 +1,9 @@
+small fraction of the observed IAV. In addition, the modeled
+eCO2 IAV shows that tropospheric circulation changes pro-
+duce small IAV.
+I compare CO2 with well-known interannual cycles in the
+Earth system in Fig. 1d by plotting (i) the QBO phase change
+(from easterly to westerly zonal equatorial wind at 40 hPa,
+see Newman, 2021) as thick gray vertical bars and (ii) the
+times of moderate to extreme El Niños (red stars) and La
+Niñas (blue stars) (Trenberth, 2021). From this analysis, I ex-

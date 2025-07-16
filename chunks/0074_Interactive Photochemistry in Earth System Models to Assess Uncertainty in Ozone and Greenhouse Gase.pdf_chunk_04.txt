@@ -1,0 +1,14 @@
+packages in LLNL-CESM and for the first time demonstrated how
+change in O2 photolysis rate within its uncertainty range can
+significantly impact on the stratospheric climate and ozone
+abundances. From the UCI side, this proposal also helped LLNL
+develop a CAM-Superfast Chemistry model that was implemented
+for the IPCC AR5 and contributed chemical-climate simulations to
+CMIP5.
+ View Technical Report
+Cite 
+Citation Formats
+•  MLA
+•  APA
+•  Chicago
+•  BibTeX

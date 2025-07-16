@@ -1,0 +1,8 @@
+total reactivity for the top 5, 10, 25, and 50 % of the parcels
+(Table S4) is similar across models and across days within
+a model (Table S5). Focusing on the top 10 % of parcels for
+each reactivity, we plot their latitude-by-pressure distribution
+for each model in Fig. 5. Top P-O3 are in the upper tropo-
+sphere where NOx was highest in the speciﬁed data stream;
+and top L-O3 and L-CH4 are in the lower troposphere as-
+sociated with warmer temperatures and higher water vapor,

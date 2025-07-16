@@ -1,0 +1,15 @@
+Two-Dimensional Optical Array Probe (2D-C)
+cloud and drizzle droplet spectra (60-3200 μm)
+HOLODEC
+cloud and drizzle ((6 μm – 1 mm)
+Ultra-High Sensitivity Aerosol Spectrometer (UHSAS)
+aerosol spectra (60-1000 nm)
+Cloud Nuclei Counter (CN)
+aerosol concentrations (>11 nm)
+King probe
+cloud liquid water content
+Heinmann Infrared Radiation Pyrometer
+sea surface temperature
+Microwave Temperature Profiler (MTP)
+vertical temperature profile
+Broadband SW and LW Radiometers (Kipp & Zonnen)

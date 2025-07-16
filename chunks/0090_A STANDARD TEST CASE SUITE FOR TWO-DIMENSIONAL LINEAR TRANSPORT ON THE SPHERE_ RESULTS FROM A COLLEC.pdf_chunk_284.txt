@@ -1,0 +1,9 @@
+S = ∪N
+i=1Pi. We present results in which the panels are ei-
+ther the quadrilaterals of a cubed-sphere mesh, or the tri-
+angles of an icosahedral triangular mesh. The mesh corre-
+sponds to a discretization of the Lagrangian parameter. The
+scheme tracks two sets of particles, at the centers and vertices
+of the panels, indexed by j = 1,...,M + N, where N is the
+number of panels and M the number of vertices. Each par-
+ticle has a Lagrangian parameter value, αj, position, xj(t),

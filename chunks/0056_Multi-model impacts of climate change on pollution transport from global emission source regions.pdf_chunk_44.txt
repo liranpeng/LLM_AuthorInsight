@@ -1,0 +1,77 @@
+Pressure [hPa]
+Pressure [hPa]
+Pressure [hPa]
+Pressure [hPa]
+Pressure [hPa]
+Pressure [hPa]
+0
+60
+20
+40
+-8
+0
+8
+-8
+0
+8
+-8
+0
+8
+-8
+0
+8
+0
+60
+20
+40
+0
+60
+20
+40
+0
+60
+20
+40
+[ppb]
+[ppb]
+[ppb]
+[ppb]
+CO-tracer 2000s
+∆CO-tracer 2090s–2000s
+[ppb]
+[ppb]
+[ppb]
+[ppb]
+-4
+4
+-4
+4
+-4
+4
+-4
+4
+Pressure [hPa]
+∆CO-tracer 2090s–2000s
+∆CO-tracer 2090s–2000s
+∆CO-tracer 2090s–2000s
+CO-tracer 2000s
+CO-tracer 2000s
+CO-tracer 2000s
+DJF
+EQ 30 N
+60 N 90 N
+30 S
+60 S
+90 S
+EQ 30 N
+60 N 90 N
+30 S
+60 S
+90 S
+ 
+ 
+ 
+ 
+ 
+ 
+EQ 30 N

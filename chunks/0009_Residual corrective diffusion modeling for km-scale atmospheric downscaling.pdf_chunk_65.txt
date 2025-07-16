@@ -1,0 +1,8 @@
+Research and Forecasting (WRF) physical simulator47 provided by
+the Central Weather Administration of Taiwan (CWA)15 (i.e., WRF),
+which employs a dynamical downscaling approach. Though
+imperfect, WRF is a SOTA model for km-scale weather simulations
+and is used operationally by several national weather agencies.
+Generative downscaling: corrective diffusion models
+The goal of probabilistic downscaling is to mimic the conditional
+probability density p(x∣y). To learn p(x∣y) we employ a diffusion

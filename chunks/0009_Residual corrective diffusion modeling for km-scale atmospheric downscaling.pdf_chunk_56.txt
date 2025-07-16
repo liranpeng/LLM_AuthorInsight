@@ -1,0 +1,7 @@
+regional DA, which for CWA is of similar computational cost as
+running the operational numerical model (WRF) for 13 h.
+For such extensions, the two step approach in CorrDiff offers
+practical advantages to reduce the amount of variance that must be
+handled stochastically, and trade-off between the fast inference of
+the mean using the UNet, and the probabilistic inference of the
+CorrDiff. This is particularly useful given that some variables

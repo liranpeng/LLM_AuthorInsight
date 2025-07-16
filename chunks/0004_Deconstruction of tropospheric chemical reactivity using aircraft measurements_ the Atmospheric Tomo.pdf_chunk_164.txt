@@ -1,0 +1,8 @@
+with Fig. 31. Solid lines are MDS-3, and dashed lines are MDS-2b.
+Figures 61–64 show the PDs of CO (ppb), O3 (ppb), rela-
+tive humidity over water (RHw, %), and NOx (log(ppt)) for
+the tropical ocean regions (central Paciﬁc, eastern Paciﬁc,
+tropical Atlantic). The PDs are calculated for the lower tropo-
+sphere (0–6 km) and the full ATom-sampled troposphere (0–
+12 km). For the ﬁrst three quantities, the legend for each de-
+ployment lists the mean value, standard deviation, and skew-

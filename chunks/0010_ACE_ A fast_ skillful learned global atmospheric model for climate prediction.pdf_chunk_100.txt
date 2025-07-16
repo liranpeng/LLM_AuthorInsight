@@ -1,0 +1,7 @@
+stratosphere (e.g. Fig. 2 of [13]).
+18
+Figure 14: The (solid) train loss and (dashed) validation loss for training runs on (blue) a 10-year
+dataset and (olive) a 100-year dataset.
+Figure 15: The validation RMSE of (left) T0 and (right) T7 for models trained on (blue) a 10-year
+dataset and (olive) a 100-year dataset.
+19

@@ -1,0 +1,12 @@
+atmospheric water vapor content
+Spectrometer
+Marine Atmospheric Emitted Radiance Interferometer (M-AERI) spectrometer to infer skin sea sur-
+face temperature (O2 deck)
+Radiometer
+Remote Ocean Surface Radiometer (ROSR) measuring sea surface skin temperature (O2 deck)
+Thermistor (sea snake)
+Floating YSI 46040 Thermistor (deployed off port side with outrigger) measuring near-skin sea sur-
+face temperature
+Altimeter
+Riegl 1D laser altimeter measuring wave height (bow mast)
+CTD casts

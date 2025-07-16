@@ -1,0 +1,5 @@
+cloud, the clouds are sufficiently optically thin that aerosols below the cloud can be observed 
+with the HSRL. On the west side of the eastern cloud system two out-flow clouds at 
+different heights are present. Both are sufficiently optically thin that the lidar is able to 
+penetrate both layers in some areas. These types of mesoscale cloud systems were observed 
+on nearly all the CSET flights and clearly indicate that these systems are fundamental to the

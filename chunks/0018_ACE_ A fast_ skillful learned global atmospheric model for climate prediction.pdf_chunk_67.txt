@@ -1,0 +1,8 @@
+that exact vertical integrals of quantities such as mass, moisture and energy can be computed and
+expected to balance with fluxes into and out of the atmosphere.
+9
+Table 2: ACE vertical coordinate. Here k indicates the vertical layer interface ranging from the top of
+the model’s atmosphere k = 0 to the Earth surface k = 8. ak and bk define the vertical coordinate
+(Equation 2) while Ik indicates what the corresponding vertical index is in the 63-layer reference
+FV3GFS simulation. pref
+k

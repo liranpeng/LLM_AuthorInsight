@@ -1,0 +1,8 @@
+COD). The total COD is given (color coded) in each block.
+The proﬁles show very large variability that is hard to un-
+derstand. For example, GFDL and GISS show the largest
+COD, yet both are in Group 1 with the largest fraction of
+clear sky. Overall the total COD does not obviously corre-
+late with the two groups. Likewise, CF is not a predictor for
+the group. It is likely that model differences are driven by
+the treatment of fractional cloud cover. For example, GMI

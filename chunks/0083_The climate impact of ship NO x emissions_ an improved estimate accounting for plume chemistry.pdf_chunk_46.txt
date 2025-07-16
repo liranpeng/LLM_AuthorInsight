@@ -1,0 +1,9 @@
+our use of O3 radiative efﬁciencies that were derived in mod-
+els with instant dilution. O3 column enhancements in the
+ﬁxed OPE simulation are qualitatively different and concen-
+trated mainly in the high northern latitudes, because OPE is
+not suppressed in winter or by high NOx emissions in this
+scenario. As Table 2 reports, the global-mean O3 column
+change for a 1 Tg(N) yr−1 increase in ship NOx is 0.10 DU
+in the parametric plume model, compared to 0.16 DU under
+0.00 0.40 0.80 1.20 1.60 DU

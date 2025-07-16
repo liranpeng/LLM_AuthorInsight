@@ -1,0 +1,8 @@
+Beyer, K. D., Ravishankara, A. R., and Lovejoy, E. R.: Measure-
+ments of UV refractive indices and densities of H2SO4/H2O and
+H2SO4/HNO3/H2O solutions, J. Geophys. Res.-Atmos., 101,
+14519–14524, https://doi.org/10.1029/96JD00937, 1996.
+Bian, H. and Prather, M. J.: Fast-J2: Accurate Simulation of Strato-
+spheric Photolysis in Global Chemical Models, J. Atmos. Chem.,
+41, 281–296, https://doi.org/10.1023/A:1014980619462, 2002.
+Geosci. Model Dev., 10, 2525–2545, 2017

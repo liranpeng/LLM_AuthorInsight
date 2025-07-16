@@ -1,0 +1,8 @@
+of the models do not include stratospheric chemistry and thus
+could not integrate scenario 1c. For these models the differ-
+ence “2 minus 1b” is shown, which corresponds to “2 minus
+1c” without accounting for changes in stratospheric chem-
+istry. Ozone increases are seen throughout the troposphere,
+except at high southern latitudes, where some models cal-
+culate decreases in ozone in the upper troposphere. In low
+latitudes the ozone increase extends to very high altitudes,

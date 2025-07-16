@@ -1,0 +1,6 @@
+with chemical species belonging to the chlorine and bromine chemistry66. For
+aerosols, the INCA model simulates the distribution of aerosols with anthropogenic
+sources such as sulfates, nitrates, black carbon (BC), organic carbon (OC), as well
+as natural aerosols such as sea salt and dust. The heterogeneous reactions on both
+natural and anthropogenic tropospheric aerosols are included in the model60,61,67.
+Ammonia and nitrates aerosols are considered as described by Hauglustaine

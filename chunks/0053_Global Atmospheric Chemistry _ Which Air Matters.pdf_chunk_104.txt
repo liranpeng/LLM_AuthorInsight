@@ -1,0 +1,62 @@
+(c) P-O3 (Pacific basin)
+P (hPa)
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+5
+0
+1
+4
+2
+3
+P-O3   (ppb day -1)
+5
+0
+1
+4
+2
+3
+P-O3   (ppb day -1)
+5
+0
+1
+4
+2
+3
+P-O3   (ppb day -1)
+A = CAM4-Chem
+B = GEOS-Chem
+C = GFDL-AM3
+D = GISS-E2
+E = GMI-CTM
+F = UCI-CTM
+60o S–40o S
+40o S–20o S
+20o S–Equ
+Equ–20o N
+20o N–40 N
+40o N–60o N
+ATom-A   Std-C
+o
+60o S–40o S
+40o S–20o S
+20o S–Equ
+Equ–20o N
+20o N–40 N
+40o N 60o N
+ATom-A   Std-C
+o
+60o S–40o S
+40o S–20o S
+20o S–Equ
+Equ–20o N
+20o N–40 N
+40o N 60o N
+ATom-A   Std-C
+o

@@ -1,0 +1,28 @@
+Dennis et al. (2012)
+Gnomonic cubed-sphere
+4 and 7
+Modeling Environment
+Guba et al. (2013)
+(quadrature grid)
+ICON-FFSL
+ICOsahedral Non-hydrostatic model –
+Miura (2007)
+Icosahedral-triangular
+2
+Flux-Form semi-Lagrangian scheme
+LPM
+Lagrangian Particle Method
+Bosler (2013)
+Icosahedral-triangular
+2
+MPAS
+Model for Prediction Across Scales
+Skamarock and Gassmann (2011)
+Icosahedral-hexagonal
+3
+SBC
+Spectral Bicubic interpolation scheme
+Enomoto (2008)
+Gaussian latitude–longitude
+2
+SFF-CSLAM

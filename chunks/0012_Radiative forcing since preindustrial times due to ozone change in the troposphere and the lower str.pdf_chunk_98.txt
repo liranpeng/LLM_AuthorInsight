@@ -1,0 +1,9 @@
+posphere.
+These differences may be connected to differ-
+ent convective transport and will affect chemical ozone pro-
+duction as well. Tropospheric NOx increases are largest at
+the surface in mid-northern latitudes in all models, amount-
+ing to several hundred pptv, and then decreasing with
+height. The locations of the surface maxima agree very well
+among the models, while their magnitudes range from about
+300 pptv in the NCAR MACCM model to 900 pptv in the

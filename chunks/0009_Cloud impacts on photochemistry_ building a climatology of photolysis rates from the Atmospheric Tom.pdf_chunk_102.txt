@@ -1,0 +1,8 @@
+and non-random J values, most modeling solves the radia-
+tive transfer problem for a 1-D plane-parallel atmosphere that
+is horizontally homogeneous. Most chemistry models adopt
+a simple averaging procedure to create a single, horizontally
+homogeneous cloudy atmosphere in each grid cell and then
+solving for a single J value (see Table 1). The UCI model
+uses decorrelation lengths to determine cloud overlap, to gen-
+erate a set of independent column atmospheres (ICAs), to

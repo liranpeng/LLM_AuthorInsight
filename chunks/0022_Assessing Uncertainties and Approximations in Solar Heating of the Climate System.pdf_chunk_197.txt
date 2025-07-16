@@ -1,0 +1,5 @@
+software so as to be affordable. For example, the 8-stream Fast-J code is being implemented in E3SM for 
+chemistry-climate modeling. Based on B2015, any of these options would be a significant improvement 
+for climate modeling.
+9.	 Ice clouds, level 1. The range of approaches to parameterizing ice clouds in current solar RT codes 
+reflects both the lack of multi-stream capability to resolve the ice crystal scattering and the fundamen-

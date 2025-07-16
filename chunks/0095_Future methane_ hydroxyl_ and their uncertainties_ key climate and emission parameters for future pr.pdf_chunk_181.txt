@@ -1,0 +1,17 @@
+Meinshausen, M., Raper, S. C. B., and Wigley, T. M. L.: Emulating
+coupled atmosphere-ocean and carbon cycle models with a sim-
+pler model, MAGICC6-Part 1: Model description and calibra-
+tion, Atmos. Chem. Phys., 11, 1417–1456, doi:10.5194/acp-11-
+1417-2011, 2011a.
+Meinshausen, M., Smith, S. J., Calvin, K., Daniel, J. S.,
+Kainuma,
+M.
+L.
+T.,
+Lamarque,
+J.
+F.,
+Matsumoto,
+K.,
+Montzka, S. A., Raper, S. C. B., Riahi, K., Thomson, A., Velders,
+G. J. M., and van Vuuren, D. P. P.: The RCP greenhouse gas

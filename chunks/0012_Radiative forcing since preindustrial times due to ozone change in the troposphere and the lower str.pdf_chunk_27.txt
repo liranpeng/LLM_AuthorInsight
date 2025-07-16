@@ -1,0 +1,10 @@
+dustrial era (1850).
+The main features of these mod-
+els are summarized in Table 1.
+The horizontal resolu-
+tion is highly variable between the models, ranging from
+a Gaussian T42 grid (2.8◦×2.8◦) to a regular grid of 10◦
+latitude×22.5◦longitude. Also, the vertical resolutions vary
+among the models and with altitude, and the upper bound-
+aries range from 100 hPa (∼16 km) to 0.004 hPa (∼85 km).
+The CTMs use meteorological data either from their under-

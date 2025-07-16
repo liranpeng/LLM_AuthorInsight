@@ -1,0 +1,9 @@
+of the extreme eastern Paciﬁc reactivities is seen in the statis-
+tics generated from the central Paciﬁc values only (CPac;
+gray circles); e.g., the mean value for L-O3 drops from 1.42
+to 1.17 ppb d−1.
+The ability to test a model’s reactivity statistics with the
+ATom 10 s data is not obvious, but the PDs based on 1◦lat-
+itude by 200 m altitude cells (the black Xs) are remarkably
+close to the PDs based on 2 km (horizontal) by 80 m (vertical)
+https://doi.org/10.5194/acp-23-99-2023

@@ -1,0 +1,9 @@
+tionally constrained check on reactive species (Olson et al.,
+2004, 2012; Apel et al., 2012; Stone et al., 2012), and more
+recently these have extended the box model as a transfer stan-
+dard across CCMs–CTMs (Nicely et al., 2017) that can inte-
+grate reactive chemistry over 24 h. The problem remains that
+the 24 h integration requires a global model’s diagnostics for
+the diurnal cycle of cloud cover and ozone–aerosol inﬂuence
+on photolysis.
+We describe a new approach for developing chemical cli-

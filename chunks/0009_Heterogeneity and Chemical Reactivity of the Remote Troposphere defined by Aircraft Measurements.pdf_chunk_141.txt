@@ -1,0 +1,8 @@
+line at: https://doi.org/10.5194/acp-21-13729-2021-supplement.
+Author contributions. HG, CMF, SCW and MJP designed the re-
+search and performed the data analysis. SAS, SDS, LE, FL, JL,
+AMF, GC, LTM and GW contributed original atmospheric chem-
+istry model results. GW, MK, JC, GD, JD, BCD, RC, KM, JP, TBR,
+CT, TFH, DB, NJB, ECA, RSH, JE, EH and FM contributed origi-
+nal atmospheric observations. HG, CMF and MJP wrote the paper.
+Competing interests. The contact author has declared that neither

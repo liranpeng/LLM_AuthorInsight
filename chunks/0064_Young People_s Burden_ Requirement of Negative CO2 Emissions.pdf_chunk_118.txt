@@ -1,0 +1,16 @@
+CO2 extracted by 2100
+    
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+Figure 10. (a) Atmospheric CO2 for Fig. 9a emission scenarios. (b) Atmospheric CO2 including effect of CO2 extraction that increases
+linearly after 2020 (after 2015 in +2 % yr−1 case).
+7
+Future CO2 for assumed emission scenarios
+We must model Earth’s carbon cycle, including ocean uptake
+of carbon, deforestation, forest regrowth and carbon storage
+in the soil, for the purpose of simulating future atmospheric

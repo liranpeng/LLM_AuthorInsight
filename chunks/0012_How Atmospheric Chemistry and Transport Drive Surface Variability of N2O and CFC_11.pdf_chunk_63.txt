@@ -1,0 +1,6 @@
+has almost no trend but oscillates widely (20% min-to-max amplitude) 
+in the pre-MLS period. GMI is the only model to report an earlier dec-
+ade, which was proven to be unreliable prior to ∼2000 due to unrealistic 
+transport of air-parcels in the middle stratosphere (Douglass et al., 2017).
+Many studies find long-term shifts in the annual Brewer-Dobson circula-
+tion (BDC) which transports tropospheric air to the stratosphere (Butch-

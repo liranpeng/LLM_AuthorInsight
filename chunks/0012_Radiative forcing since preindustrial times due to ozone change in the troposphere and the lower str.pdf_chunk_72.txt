@@ -1,0 +1,8 @@
+Wong et al., 2004). CH4 and N2O were set to values of
+791.6 ppbv and 273.8 ppbv, respectively, while CO2 levels
+were chosen by the modelers (see Table 2). In all models that
+include chlorine and bromine chemistry, tropospheric mixing
+ratios of CFCs, HCFCs, and halons were taken from WMO
+(2003) for the 2000 simulations and set to zero in the prein-
+dustrial runs. CH3Cl and CH3Br were set to 550 and 6 pptv,
+respectively, in both the 2000 and 1850 simulations. An ex-

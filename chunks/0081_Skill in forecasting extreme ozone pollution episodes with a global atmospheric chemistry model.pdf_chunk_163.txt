@@ -1,0 +1,9 @@
+(AQS) and Clean Air Status and Trends Network (CASTNET),
+the European Monitoring and Evaluation Programme (EMEP), and
+the European Environment Agency’s (EEA) air quality database
+(AirBase) for providing the data sets used in this study.
+Edited by: A. Pozzer
+References
+Anderson, T. W. and Darling, D. A.: Asymptotic theory of certain
+goodness of ﬁt criteria based on stochastic processes, Ann. Math.
+Stat., 23, 193–212, doi:10.1214/aoms/1177729437, 1952.

@@ -1,0 +1,5 @@
+of V5 sought to address the persistent bias between the two N2O channels, but this is taken into account 
+in our analysis and does not affect our results (Livesey et al., 2020). Overall, these errors are much smaller 
+than the annual cycle or long-term variations, and their effect on the lifetime calculations is well below the 
+uncertainty estimated for the lifetime (below).
+Following the P2015 methodology, we use an offline photochemical column model to calculate photolysis

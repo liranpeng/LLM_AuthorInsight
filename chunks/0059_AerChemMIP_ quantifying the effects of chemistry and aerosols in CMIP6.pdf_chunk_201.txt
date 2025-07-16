@@ -1,0 +1,8 @@
+Collins, W. J., Bellouin, N., Doutriaux-Boucher, M., Gedney, N.,
+Halloran, P., Hinton, T., Hughes, J., Jones, C. D., Joshi, M., Lid-
+dicoat, S., Martin, G., O’Connor, F., Rae, J., Senior, C., Sitch,
+S., Totterdell, I., Wiltshire, A., and Woodward, S.: Develop-
+ment and evaluation of an Earth-System model – HadGEM2,
+Geosci. Model Dev., 4, 1051–1075, doi:10.5194/gmd-4-1051-
+2011, 2011.
+Collins, M. R., Knutti, R., Arblaster, J., Dufresne, J.-L., Fichefet,

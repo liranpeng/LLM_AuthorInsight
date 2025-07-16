@@ -1,0 +1,9 @@
+monthly varying sea surface temperature and sea ice fields
+to drive their meteorology (Table S1). Each simulation was
+1 year long, but all models were executed for a minimum of
+6 months beforehand to bring the concentrations of reactive
+species into balance with the particular meteorology, emis-
+sions and chemical mechanisms used.
+[9] The simulations consist of a control run, using the
+best estimate emissions for 2001, and a series of experi-
+ments where the anthropogenic emissions of NOx were

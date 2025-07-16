@@ -1,0 +1,8 @@
+ing high O3 concentrations are changing with climate, we
+must be able to characterize those AQX events observed to-
+day and demonstrate that global chemistry models can repro-
+duce them. As demonstrated for the UCI CTM above, sur-
+face O3 concentrations in global chemistry models are often
+biased high, with higher biases often occurring during peak
+pollution episodes, but there is skill in hindcasting pollution
+variability. These biases hinder the ability to predict AQX

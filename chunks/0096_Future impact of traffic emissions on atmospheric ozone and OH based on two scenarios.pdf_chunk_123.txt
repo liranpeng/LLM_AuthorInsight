@@ -1,0 +1,8 @@
+on global tropospheric ozone, Geophys. Res. Lett., 30, 1086,
+doi:10.1029/2002gl015972, 2003.
+Grewe, V. and Stenke, A.: AirClim: an efﬁcient tool for climate
+evaluation of aircraft technology, Atmos. Chem. Phys., 8, 4621–
+4639, doi:10.5194/acp-8-4621-2008, 2008.
+Grewe, V., Dameris, M., Hein, R., Kohler, I., and Sausen, R.: Impact
+of future subsonic aircraft NOx emissions on the atmospheric
+composition, Geophys. Res. Lett., 26, 47–50, 1999.

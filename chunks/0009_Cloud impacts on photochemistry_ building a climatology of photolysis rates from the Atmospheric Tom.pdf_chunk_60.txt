@@ -1,0 +1,8 @@
+but this is expected to be of order ±2 %, and so the over-
+all width (10 to 20 %) reﬂects cloud variability. The mod-
+eled and measured distributions are asymmetric and skewed
+toward rlnJ > 0 in the free troposphere (100–900 hPa), and
+toward rlnJ < 0 in the boundary layer. This pattern is ex-
+pected since Js are enhanced above clouds (100–900 hPa)
+and diminished below. There will also be some occurrences
+of rlnJ < 0 in the free troposphere when thick clouds are over-

@@ -1,0 +1,9 @@
+Geosci. Model Dev., 14, 1219–1236, 2021
+https://doi.org/10.5194/gmd-14-1219-2021
+© Author(s) 2021. This work is distributed under
+the Creative Commons Attribution 4.0 License.
+Evaluation of the interactive stratospheric ozone (O3v2) module in
+the E3SM version 1 Earth system model
+Qi Tang1, Michael J. Prather2, Juno Hsu2, Daniel J. Ruiz2, Philip J. Cameron-Smith1, Shaocheng Xie1, and
+Jean-Christophe Golaz1
+1Lawrence Livermore National Laboratory, Livermore, CA 94550, USA

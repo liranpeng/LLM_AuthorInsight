@@ -1,0 +1,7 @@
+the global-mean season cycle well and none have large drifts that persist throughout the 10-year
+simulation. Nevertheless, there are deviations from the expected global mean that are larger than
+interannual variability (specifically in ps, qT
+0 and a number of the northward wind vk variables).
+F
+100-year forecasts
+Since our forcing dataset is annually repeating, it is straightforward to repeat it in order to allow

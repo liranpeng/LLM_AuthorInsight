@@ -1,0 +1,8 @@
+this problem, a commonly used delta-scaling technique is
+applied by removing the large forward-scattering peak, thus
+reducing the optical depth (Joseph et al., 1976; Wiscombe,
+1977). In addition, the Henyey–Greenstein (HG) phase func-
+tion (Henyey and Greenstein, 1941) is often used to tune
+the two-stream scattering to better represent the scattering of
+large particles for speciﬁc sun angles. Unfortunately, the HG
+phase function lacks the realistic back-scattering peak found

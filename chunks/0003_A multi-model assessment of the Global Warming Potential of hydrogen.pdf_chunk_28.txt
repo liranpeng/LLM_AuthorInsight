@@ -1,0 +1,13 @@
+monthly three-dimensional kernel for ozone radiative forcing28 in
+the two perturbation experiments relative to the control run. This
+results in a total ozone ERF of 0.40 (0.28–0.48) mW m-2
+per Tg yr−1 of hydrogen ﬂux (yellow bars).
+In the stratosphere, hydrogen increases water vapor produc-
+tion. We have calculated the radiative forcing for stratospheric
+water vapor ofﬂine, using separate radiative transfer schemes for
+longwave
+and
+shortwave
+radiation,
+including
+stratospheric

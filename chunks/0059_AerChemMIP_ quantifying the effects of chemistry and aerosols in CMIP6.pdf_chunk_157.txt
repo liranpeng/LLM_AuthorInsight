@@ -1,0 +1,8 @@
+triggered. Thorough documentation of natural emissions and
+3-D ﬁelds of reactive gases and aerosols is needed.
+To relate natural emission changes to forcing, speciﬁc ex-
+periments are designed in AerChemMIP which resemble the
+ERF experiments (see Table 7). In these feedback experi-
+ments radiation ﬂux and cloud variables are requested as in
+the ERF forcing experiments. Other variables such as those
+characterising aerosol and cloud optical properties, and land–

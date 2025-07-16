@@ -1,0 +1,8 @@
+Tropospheric O3 has stratospheric sources and surface
+sinks, which average to about 0.2–0.3 ppb per day, and much
+larger in situ photochemical production and losses that aver-
+age about 1.1–1.5 ppb per day (Stevenson et al., 2006, 2013;
+Young et al., 2013; Hardacre et al., 2015). The O3 abundance
+varies greatly throughout the troposphere, by a factor of 10 or
+more, and its mean residence time is about a month (Steven-
+son et al., 2006; Wu et al., 2007; Hsu and Prather, 2009). O3

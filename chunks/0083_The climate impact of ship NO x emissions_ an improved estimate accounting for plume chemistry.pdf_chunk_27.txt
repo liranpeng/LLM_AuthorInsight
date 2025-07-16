@@ -1,0 +1,8 @@
+a factor of 2 between wind speeds of 2 and 18 m s−1. Our
+updated plume-in-grid parameterization depends on 8 mete-
+orological and chemical factors: ambient concentrations of
+NOx and O3, solar zenith angle at emission time and 5 h
+later, photolysis rates of NO2 and O3, temperature, and wind
+speed. Figure S2 in the Supplement shows how the parame-
+terization responds to each of these factors. Clouds affect the
+parameterized plume chemistry through photolysis rates, but

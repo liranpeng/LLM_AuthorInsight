@@ -1,0 +1,9 @@
+2006.
+Lauritzen, P. H., Nair, R. D., and Ullrich, P. A.: A conserva-
+tive semi-Lagrangian multi-tracer transport scheme (CSLAM)
+on the cubed-sphere grid, J. Comput. Phys., 229, 1401–1424,
+doi:10.1016/j.jcp.2010.11.001, 2010.
+Lauritzen, P. H., Erath, C., and Mittal, R.: On simplifying “incre-
+mental remap”-type transport schemes, J. Comput. Phys., 230,
+7957–7963, doi:10.1016/j.jcp.2011.06.030, 2011a.
+Lauritzen, P. H., Ullrich, P. A., and Nair, R. D.: Atmospheric trans-

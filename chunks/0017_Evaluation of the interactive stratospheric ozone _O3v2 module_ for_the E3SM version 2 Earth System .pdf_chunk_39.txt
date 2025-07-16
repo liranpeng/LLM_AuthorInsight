@@ -1,0 +1,10 @@
+mention that, alongside different ozone, the new O3v2 pa-
+rameterization causes unexpected changes to the dynamics
+over the southern polar region. We will discuss these dynam-
+ics changes in Sect. 4.
+3.1
+Stratospheric column ozone
+The SCO observations are limited to the range 60◦S to 60◦N
+where the best satellite observations relying on sunlight are
+year-round, and our performance metrics follow this limit.
+The multi-year average annual cycle of SCO (zonal means,

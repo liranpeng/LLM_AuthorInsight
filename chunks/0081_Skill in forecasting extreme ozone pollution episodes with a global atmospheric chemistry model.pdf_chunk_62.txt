@@ -1,0 +1,19 @@
+is about −540 m (i.e., EMEP stations are chosen to reﬂect
+Atmos. Chem. Phys., 14, 7721–7739, 2014
+www.atmos-chem-phys.net/14/7721/2014/
+J. L. Schnell et al.: Skill in forecasting extreme ozone pollution episodes
+7727
+     a)     µ = −3.9 ± 3.1 ppb
+     b)     µ = −2.7 ± 1.9 ppb
+ 
+ 
+     c)     
+µ = −1.7 ± 2.2 ppb
+−15
+−10
+−5
+0
+5
+10
+15
+Figure 5. Bias of the gridded MDA8 O3 concentration (ppb) created using only AirBase stations vs. using only EMEP stations for the years

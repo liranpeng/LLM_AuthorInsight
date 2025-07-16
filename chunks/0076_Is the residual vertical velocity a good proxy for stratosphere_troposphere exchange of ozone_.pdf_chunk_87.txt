@@ -1,0 +1,5 @@
+Hsu, J., M. J. Prather, and O. Wild (2005), Diagnosing the stratosphere-to-troposphere ﬂux of ozone in a chemistry transport model, J.
+Geophys. Res., 110, D19305, doi:10.1029/2005JD006045.
+Liang, Q., A. R. Douglass, B. N. Duncan, R. S. Stolarski, and J. C. Witte (2009), The governing processes and timescales of
+stratosphere-to-troposphere transport and its contribution to ozone in the Arctic troposphere, Atmos. Chem. Phys., 9, 3011–3025,
+doi:10.5194/acp-9-3011-2009.

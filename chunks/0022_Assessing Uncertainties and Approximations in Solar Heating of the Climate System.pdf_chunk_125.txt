@@ -1,0 +1,4 @@
+critical in calculating heating rates. With only a 55° zenith angle path, the 2-stream scattered light escapes 
+from liquid clouds more easily. Ice cloud errors, however, either reflection or absorption, are not driven 
+by δ-M scaling but by the more parameterized non-δ-Eddington scaling used in many 2-stream codes. Re-
+flection errors for liquid clouds are different and appear to result primarily from δ-Eddington scaling, and

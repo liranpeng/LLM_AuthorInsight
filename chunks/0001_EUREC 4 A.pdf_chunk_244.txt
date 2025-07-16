@@ -1,0 +1,10 @@
+able bathythermographs and remote sensing of ocean surface
+state. Flight-level data include aircraft navigation and orien-
+tation and standard meteorological variables.
+B6
+TO
+The Twin Otter (TO) was operated by the British Antarc-
+tic Survey (BAS). It ﬂew 25 missions on 15 d totaling 90
+ﬂight hours. The ﬁrst ﬂight was on 24 January and the last
+on 15 February 2020. All ﬂights were during daylight hours.
+The main objective of the TO ﬂights was to observe the sub-

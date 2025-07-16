@@ -1,0 +1,8 @@
+and 0.4 in log10(q), see Table S9. Both models have simi-
+lar scatter patterns for T and for q (Fig. S11) with a number
+of parcels having log10(q) more than a factor of 10 different
+from the stream. In this sensitivity test, UCI CTM ran with
+just T from GFDL and NCAR, and then with both T and q
+(4 cases in all). The results are shown in Tables S8 and Fig. 9.
+For T alone, the reactivity differences were at the lower limit
+of detectable model–model differences but, with both T and

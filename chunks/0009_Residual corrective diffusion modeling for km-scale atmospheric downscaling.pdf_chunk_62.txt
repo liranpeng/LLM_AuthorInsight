@@ -1,0 +1,9 @@
+exists. Our demonstrated ability to synthesize an observable
+as challenging as radar reflectivity from column water vapor
+should embolden such efforts.
+These extensions have significant potential benefits such as
+accelerated regional forecasts, increased ensemble sizes, improved
+climate downscaling, and the provision of high-resolution regional
+forecasts in data-scarce regions, leveraging training data from
+adjacent areas.
+Methods

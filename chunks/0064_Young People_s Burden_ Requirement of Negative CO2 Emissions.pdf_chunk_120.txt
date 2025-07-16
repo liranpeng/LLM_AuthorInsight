@@ -1,0 +1,8 @@
+of alternative fossil fuel use scenarios on the growth or de-
+cline of atmospheric CO2. Assumptions about emissions in
+the historical period are given in Appendix A9.
+Figure 10a shows the simulated atmospheric CO2 for the
+baseline emission cases (Fig. 9a). These cases do not in-
+clude active CO2 removal. Five additional cases including
+CO2 removal (Fig. 10b) achieve atmospheric CO2 targets
+of either 350 or 450 ppm in 2100, with cumulative removal

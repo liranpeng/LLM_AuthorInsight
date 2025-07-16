@@ -1,0 +1,10 @@
+https://doi.org/10.1029/2002jd003322, 2003.
+Geosci. Model Dev., 10, 2525–2545, 2017
+www.geosci-model-dev.net/10/2525/2017/
+J. Hsu et al.: A radiative transfer module
+2545
+Prather, M. J.: Photolysis rates in correlated overlapping cloud
+ﬁelds: Cloud-J 7.3c, Geosci. Model Dev., 8, 2587–2595,
+https://doi.org/10.5194/gmd-8-2587-2015, 2015.
+Rezaei, S., Hernandez-Calderon, C. A., Mirzamohammadi, S., Bo-
+zorgzadeh, E., Veidenbaum, A. V., Nicolau, A., and Prather,

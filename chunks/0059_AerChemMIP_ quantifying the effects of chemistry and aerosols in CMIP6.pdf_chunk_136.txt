@@ -1,0 +1,8 @@
+subjects mentioned above. Suggestions for the best prac-
+tice of diagnosing processes and outputting variables are
+given in some cases, in particular where previous model
+intercomparison projects failed to harmonise model output.
+The speciﬁc AerChemMIP request is grouped into eight ta-
+bles and these are to be found in the Excel ﬁle and the
+CMIP6 data request: aerﬁxed (grid and land information),
+aermonthly-3d (essential monthly tracer and budget ﬁelds

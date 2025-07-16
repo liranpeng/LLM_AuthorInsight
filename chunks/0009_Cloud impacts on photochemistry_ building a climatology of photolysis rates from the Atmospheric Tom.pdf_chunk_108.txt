@@ -1,0 +1,8 @@
+the occurrence of thick cumulus. When run at lower resolu-
+tion, both averages ﬁnd less clear sky, while the QCA statis-
+tics are not affected by resolution in the range 50–200 km.
+This averaging, of either J values or clouds, explains why
+most models do not produce a single, sharp peak at rlnJ = 0.
+At sufﬁciently high model resolution, where CF is either
+0 or 1, a new problem arises because the radiative transfer
+problem is now clearly 3-D. The 1-D radiative transfer used

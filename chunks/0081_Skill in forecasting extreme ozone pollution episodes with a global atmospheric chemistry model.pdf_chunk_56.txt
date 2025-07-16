@@ -1,0 +1,8 @@
+ferences (95th minus 25th, Fig. 4e–f). The percentiles here
+are calculated with respect to years 2005 and 2006, since
+these are to be compared with the CTM hindcast. The high-
+est 95th-percentile values (∼70 ppb) occur in California and
+then in a broad swath from Texas to New England. For EU
+they lie mostly around the Mediterranean. The lowest 95th
+percentiles occur in the northern latitudes for both the US
+and EU. The 25th percentile represents clean air, typically

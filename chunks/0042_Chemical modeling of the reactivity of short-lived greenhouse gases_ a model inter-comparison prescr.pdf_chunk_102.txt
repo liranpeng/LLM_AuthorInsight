@@ -1,0 +1,8 @@
+using the GFDL and NCAR parcel values for T alone (green) and for T and q (red) and compared with the UCI reference model for 16
+August 2016.
+count for the density and bias in sampling. Here, we focus
+on tropospheric production and loss of the greenhouse gases
+ozone and methane, but the protocol can be readily applied
+to other chemical transformations such as the formation and
+growth of secondary organic aerosols.
+In applying the protocol here to a synthetic data stream,

@@ -1,0 +1,9 @@
+weightings of each QCA and then picked the ICA that oc-
+curred at the mid-point in terms of fractional area (MdQCA).
+Thus, there can be up to four separate calls to Fast-J for each
+of the QCAs, but on average there are 2.8 QCAs per FCA be-
+www.geosci-model-dev.net/8/2587/2015/
+Geosci. Model Dev., 8, 2587–2595, 2015
+2592
+M. J. Prather: Photolysis rates in correlated overlapping cloud ﬁelds: Cloud-J 7.3c
+cause not all four of the QCA ranges of cloud optical depths

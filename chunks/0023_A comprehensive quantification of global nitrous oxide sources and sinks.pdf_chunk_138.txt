@@ -1,0 +1,6 @@
+with FAOSTAT giving the largest estimate. By contrast, the DLEM-based 
+estimate presented a divergent trend: first increasing from 1980–1998 
+and then slightly decreasing thereafter (Extended Data Fig. 6a). Emis-
+sions from atmospheric nitrogen deposition on oceans were relatively 
+constant with a value of 0.1 (0.1–0.2) Tg N yr−1, whereas a large increase 
+in emissions was found from atmospheric nitrogen deposition on land,

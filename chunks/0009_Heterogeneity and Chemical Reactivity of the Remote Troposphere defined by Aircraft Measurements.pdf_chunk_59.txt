@@ -1,0 +1,8 @@
+source of uncertainty: predicting the cloud-driven photolysis
+rates that a shearing air parcel will experience over 24 h is not
+possible here. The protocol uses 5 separated 24 h days to av-
+erage over synoptically varying cloud conditions. The stan-
+dard deviation (σ) of the 5 d, as a percentage of the 5 d mean,
+is averaged over all parcels and shown in Table S9 for the ﬁve
+global models. Three central models (GC, GMI, UCI) show
+9 %–10 % σ(Js) values and similar σ(Rs) values as expected

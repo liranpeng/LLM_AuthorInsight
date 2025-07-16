@@ -1,0 +1,10 @@
+www.geosci-model-dev.net/10/2525/2017/
+Geosci. Model Dev., 10, 2525–2545, 2017
+2542
+J. Hsu et al.: A radiative transfer module
+their importance in tropospheric heating rates. For our clear-
+sky case here (Table 4, Fig. 2), we ﬁnd an average tropo-
+spheric heating rate of 2.4 K day−1. The contribution of CH4
+to this total is 0.1 %; that of CO2 is complex because of the
+stratospheric self-shielding but is less than ±1 % in the tro-
+posphere, and that of O2 is about 3 % uniformly throughout

@@ -1,0 +1,9 @@
+and the macrophysical properties of clouds. On yet larger
+O(105 m) scales, the spatial organization and clustering of
+clouds and precipitation features are captured by satellite, by
+high-resolution radiometry from high-altitude aircraft, and
+by the C-band scanning radar, POLDIRAD (Schroth et al.,
+1988).
+An example of how the measurements upwind and down-
+wind of the EUREC4A-Circle helped constrain its aerosol en-
+vironment is shown in Fig. 12. Two periods with larger CCN

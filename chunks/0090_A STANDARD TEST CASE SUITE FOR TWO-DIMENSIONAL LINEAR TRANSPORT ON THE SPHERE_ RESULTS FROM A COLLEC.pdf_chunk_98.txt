@@ -1,0 +1,8 @@
+allows for long time steps as long as the trajectory algo-
+rithm converges (Lipschitz criterion). FARSIGHT performs
+best at Courant numbers of 10–20 and has large errors at
+low Courant numbers (White and Dongarra, 2011). Schemes
+based on Eq. (10) are usually not inherently mass conserva-
+tive, and it is common practice to apply global mass ﬁxers
+that “ad hoc” restore global mass conservation. FARSIGHT
+uses a global mass ﬁxer that also locally constrains the mix-

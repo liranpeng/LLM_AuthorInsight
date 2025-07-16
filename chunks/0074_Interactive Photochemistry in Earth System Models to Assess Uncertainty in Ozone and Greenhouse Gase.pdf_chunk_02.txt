@@ -1,0 +1,9 @@
+(United States)
++ Show Author Affiliations
+Atmospheric chemistry controls the abundances and hence climate
+forcing of important greenhouse gases including N2O, CH4, HFCs,
+CFCs, and O3. Attributing climate change to human activities
+requires, at a minimum, accurate models of the chemistry and
+circulation of the atmosphere that relate emissions to abundances.
+This DOE-funded research provided realistic, yet computationally
+optimized and affordable, photochemical modules to the Community

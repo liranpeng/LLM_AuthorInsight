@@ -1,0 +1,10 @@
+2006.
+Vignati, E., Karl, M., Krol, M., Wilson, J., Stier, P., and Cavalli, F.:
+Sources of uncertainties in modelling black carbon at the global
+scale, Atmos. Chem. Phys., 10, 2595–2611, doi:10.5194/acp-10-
+2595-2010, 2010.
+Weaver, A. and Courtier, P.: Correlation modelling on the sphere
+using a generalized diffusion equation, Q. J. Roy. Meteor. Soc.,
+127, 1815–1846, 2001.
+Williamson, D. L. and Rasch, P. J.: Two-dimensional semi-
+Lagrangian transport with shape-preserving interpolation, Mon.

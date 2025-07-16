@@ -1,0 +1,8 @@
+(variability relative to the mean) is smaller than for the other
+regions (Fig. 9b). Similarly, the IAV in the MOPITT CO col-
+umn and 700 hPa level over the tropical Atlantic is smaller
+than that of the North Atlantic and Alaska regions. Although
+the variability of CO over the tropical Atlantic is relatively
+small, the MOPITT CO column shows a statistically signiﬁ-
+cant anti-correlation between the MOPITT CO column over
+the tropical Atlantic and the MEI (r = −0.52). This relation-

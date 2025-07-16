@@ -1,0 +1,108 @@
+n
+n
+F
+I
+u w
+A u F
+
+
+
+
+(3)
+Substituting Idown
+n = 2 jn – Iup from Equation (1), we get
+
+
+up
+up
+solar
+up
+solar
+0
+0
+0 0
+2
+2
+¼
+4
+2
+¼
+n
+n
+up
+n
+n
+n
+n n
+n
+n n
+n
+I
+F
+A
+j
+I
+u w
+A u F
+j A u w
+I
+A u w
+A u F
+
+
+
+
+
+
+
+
+
+
+
+(4)
+If A is a constant, this reduces to Equation 19 of Wild et al. (2000).
+
+
+
+
+up
+solar
+0 0
+4
+/ 1
+/ 1
+n n
+n
+I
+A
+A
+j u w
+A
+A
+A u F
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(5)
+With An depending on un, we derive the new lower boundary condition for Iup.
+
+
+up
+solar
+0 0
+4 / 1
+2
+¼
+n n
+n

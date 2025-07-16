@@ -1,0 +1,9 @@
+is spherical geometry. With RRTMG-SW, 50 % of the grid
+cells are in sunlight and require RT solutions. With Solar-J,
+however, important photochemistry and solar heating occur
+in the atmosphere when the surface is past sunset (see Fig. 3)
+involving about 56 % of the grid cells, a 12 % increase in
+radiatively active grid cells. One could expect that RRTMG-
+SW will correct this error and end up with similar increases
+in coverage and cost.
+Most climate models, even at the highest resolutions, have

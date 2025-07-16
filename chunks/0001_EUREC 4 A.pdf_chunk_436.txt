@@ -1,0 +1,12 @@
+Ritschel, M., Sadoulet, P., Schirmacher, I., Stolla, M. K., Wright,
+E., Charpentier, B., Doerenbecher, A., Wilson, R., Jansen, F.,
+Kinne, S., Reverdin, G., Speich, S., Bony, S., and Stevens, B.:
+Ship- and island-based atmospheric soundings from the 2020
+EUREC4A ﬁeld campaign, Earth Syst. Sci. Data, 13, 491–514,
+https://doi.org/10.5194/essd-13-491-2021, 2021.
+Stevens,
+B.:
+EUREC4A
+Tracks,
+AERIS,
+https://doi.org/10.25326/165 [data set], 2021.

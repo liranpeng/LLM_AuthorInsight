@@ -1,0 +1,10 @@
+These patterns of skill are evident for both threshold choices
+with correlations (R2) between them of 0.86 for the US and
+0.87 for EU. The east–west gradient in EU, as well as the
+lack of pattern in the US, can partly be understood from the
+relationship between skill and QP. Low CTM skill is caused
+by model errors as well as errors in observations and interpo-
+lation. As shown in Fig. S5 in the Supplement, the CTM skill
+is largest in grid cells with large QP and small interpolation
+errors.
+4.3

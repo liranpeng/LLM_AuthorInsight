@@ -1,0 +1,7 @@
+complicated, helpfully revealing the limitations of CorrDiff for
+representing extreme events. Not only are typhoons extremely rare
+in our training data, but the average radius of maximum winds of a
+tropical cyclone is less than 100 km such that at the 25 km
+resolution of our input data tropical cyclones are only partially
+resolved. This leads to cyclonic structures that are too wide in
+horizontal extent and too weak in wind intensity compared with

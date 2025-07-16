@@ -1,0 +1,6 @@
+over the N2O emission from the nearby reference mature forest. In the 
+second function, x indicates secondary forest age and y indicates the 
+ratio of secondary forest N2O emission over that of a reference mature 
+forest. This form of the response functions can effectively reproduce 
+the short-lived increase in soil N2O emissions after initial forest clear-
+ing and the gradually declining emission rates of converted crops and/

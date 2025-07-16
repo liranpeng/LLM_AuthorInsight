@@ -1,0 +1,7 @@
+structure for High-Performance Computing and Data Storage in Norway, and the data
+was also uploaded and shared through their services through the project accounts
+NN9188K and NS9188K.
+Author contributions
+M.S. lead the study and the writing of the paper, R.B.S. ran the OsloCTM model and the GWP
+calculations, M.S. performed the uncertainty calculations, S.K. ran the UCI CTM model, H.B.
+ran the UKCA model, D.H. ran the INCA model, and F.P. ran the GFDL model. All the above-

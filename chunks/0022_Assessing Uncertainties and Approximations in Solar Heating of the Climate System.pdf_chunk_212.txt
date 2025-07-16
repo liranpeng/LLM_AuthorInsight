@@ -1,0 +1,5 @@
+absorption models for the remote sensing of ice clouds. Journal of Applied Meteorology and Climatology, 50, 1037–1056.
+Bergman, J. W., & Rasch, P. J. (2002). Parameterizing vertically coherent cloud distributions. Journal of the Atmospheric Sciences, 59, 
+2165–2182.
+Bian, H. S., & Prather, M. J. (2002). Fast-J2: Accurate simulation of stratospheric photolysis in global chemical models. Journal of Atmos-
+pheric Chemistry, 41(3), 281–296.

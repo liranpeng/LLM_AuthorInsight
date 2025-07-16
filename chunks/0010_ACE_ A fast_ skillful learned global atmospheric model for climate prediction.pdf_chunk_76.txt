@@ -1,0 +1,5 @@
+are low for all variables (e.g. radiative flux biases are at most 1.2 W/m2) but they are mostly larger
+compared to the baseline simulation. In particular the approximately -25 Pa ps bias is large compared
+to the near-zero bias in the baseline simulation which exactly conserves global dry air mass and
+moisture.
+Figure 9 shows the timeseries of the global mean for all output variables. Most variables track

@@ -1,0 +1,8 @@
+poral resolution exist. SEVIRI data with a temporal reso-
+lution of 15 min were used as independent data to evaluate
+the results. Assimilating such data could further improve the
+agreement between observations and the assimilation model
+run, but considering the moderate temporal variability of
+AOD ﬁelds, we would not expect a substantial improvement.
+In addition, the SEVIRI AOD products are less accurate com-
+pared to MODIS. The TRAQA period used in our experi-

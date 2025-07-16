@@ -1,0 +1,4 @@
+negative, and the factor ranges from 0.95 to 1.0 (Table S01). These
+feedbacks are also included in Fig. 3.
+Fig. 1 The hydrogen budget. The hydrogen budget terms for all the models; a total burden (in Tg), b total lifetime and atmospheric lifetime (in years),
+c atmospheric chemical loss and atmospheric chemical production (in Tg yr−1), and d soil sink and estimated emissions (soil sink + atm. loss - atm.

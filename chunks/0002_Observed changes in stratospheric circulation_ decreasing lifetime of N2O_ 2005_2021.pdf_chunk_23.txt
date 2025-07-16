@@ -1,0 +1,8 @@
+source of stratospheric odd-nitrogen species (e.g., NO, NO2,
+HNO3) is production of NO in Reaction (R3), and we calcu-
+late the production of NO (Figure 1d), which (like the N2O
+loss) also shows a positive trend of +3.9 ± 0.6 %/decade.
+The immediate cause of the lifetime trends (i.e., enhanced
+N2O loss) can be an increase in the photochemical loss fre-
+quency or in the abundance of N2O, or both. The critical
+zone for loss in the vertical is 3 to 30 hPa (80 % of to-

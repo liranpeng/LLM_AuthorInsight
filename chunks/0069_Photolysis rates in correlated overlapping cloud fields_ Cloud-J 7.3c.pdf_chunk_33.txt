@@ -1,0 +1,8 @@
+DelGenio, 2006; Kato et al., 2010; Oreopoulis et al., 2012),
+which shows cloud decorrelation lengths on the order of
+1.5 km in the lower atmosphere increasing to 3 km or more
+in the upper troposphere. Since a true COR model scales
+as 2NL and becomes rapidly impractical for high-resolution
+models, we deﬁne vertical groups of cloud layers globally ac-
+cording to the decorrelation lengths: 0–1.5 km altitude, 1.5–
+3.5, 3.5–6, 6–9, 9–13, and > 13 km. We assume that the

@@ -1,0 +1,4 @@
+conﬁdence interval) in addition to the 90% conﬁdence interval assuming a symmetric soil sink uncertainty. We also present the full absolute uncertainty and the source we used to estimate the
+uncertainty. Where the model ensemble is listed, we have used the standard deviation of the variable from our model ensemble, otherwise, the literature source for the uncertainty estimate is listed.
+Similar tables for GWP20 and GWP500 can be found in Supplementary Tables 9 and 10.
+ARTICLE

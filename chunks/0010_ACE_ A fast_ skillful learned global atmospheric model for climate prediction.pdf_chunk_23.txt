@@ -1,0 +1,9 @@
+variable). Hereafter, we report results for the model which performs best on the time-mean RMSE
+metric for T7 and total water path (TWP) computed over a single 10-year forecast (see Figure 6).
+3
+Results
+Long-term stability
+Initializing from the start of the validation dataset, ACE is able to maintain
+a stable simulation and an unbiased global mean evolution of temperature and total water path for
+3
+Figure 2: 10-year mean bias in surface precipitation rate. Titles show global and time-mean RMSE

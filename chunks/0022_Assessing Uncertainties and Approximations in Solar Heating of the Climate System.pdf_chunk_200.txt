@@ -1,0 +1,4 @@
+flux in our case) and was quickly dropped in favor of more realistic cloud overlap models such as MAX-
+RAN. The latest type of cloud schemes includes the successive decorrelation with altitude separation 
+and include EXP-RAN, EXP, and MAX-COR (used here). All of these decorrelation methods increase the 
+effective cloud cover and the reflected solar flux. In our case, MAX-COR has on average 1.4 W m−2 great-

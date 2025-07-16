@@ -1,0 +1,7 @@
+have a smaller range than in the Paciﬁc, Atlantic, and Arctic basin plots. Troposphere-only parcels. See Figs. 6 and 26.
+Figure 29. Mean altitude proﬁle of P-O3 (ppb d−1) over the Paciﬁc
+and Atlantic basins (53◦S–60◦N) for ATom-1234.
+Figure 30. Mean altitude proﬁle of L-O3 (ppb d−1) over the Paciﬁc
+and Atlantic basins (53◦S–60◦N) for ATom-1234.
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+https://doi.org/10.5194/essd-15-3299-2023

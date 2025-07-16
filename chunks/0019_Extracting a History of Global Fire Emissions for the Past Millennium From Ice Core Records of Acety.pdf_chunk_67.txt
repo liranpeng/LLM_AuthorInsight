@@ -1,0 +1,13 @@
+(Burkholder et al., 2015). The ratio of kethane/kmethane is roughly 569.
+Assuming the upper limit chlorine sink of 5% of total methane loss, the resulting methane lifetime due to
+chlorine loss is about 200 years (Prather et al., 2012). Using this lifetime, and the kethane/kmethane ratio, we
+calculated the impact on the ethane sink as follows:
+1
+τtotal
+¼
+1
+τOH
+þ 1
+τCl
+(6)
+where τOH is the lifetime of ethane due to OH oxidation (which we assumed is 2.5 months or roughly

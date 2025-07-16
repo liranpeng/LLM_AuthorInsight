@@ -1,0 +1,4 @@
+m−2 in the order δ-1 to δ-2 to δ-0, being caused by the successively greater reductions in τsca by the scaling 
+factors of 0.25, 0.20, and 0.14. Thus in δ-1 the reduction in reflected flux goes into atmospheric heating; 
+while in δ-2 and δ-0, it goes into surface heating. Global mean HG errors are (−0.05, 0.14, −0.09 W m−2) 
+for the three primary components (T1/R9). This pattern--less reflection and less forward scattering to the

@@ -1,0 +1,8 @@
+16. Warwick, N. J. et al. Atmospheric composition and climate impacts of a future
+hydrogen economy. Atmos. Chem. Phys. Discuss. https://doi.org/10.5194/acp-
+2023-29 (2023).
+17. Paulot, F. et al. Global modeling of hydrogen using GFDL-AM4.1: sensitivity
+of soil removal and radiative forcing. Int. J. Hydrog. Energy 46, 13446–13460
+(2021).
+18. Derwent, R. G. Global warming potential (GWP) for hydrogen: sensitivities,
+uncertainties and meta-analysis. Int. J. Hydrog. Energy https://doi.org/10.1016/

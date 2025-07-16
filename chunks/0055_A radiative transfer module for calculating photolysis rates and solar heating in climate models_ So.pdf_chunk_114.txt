@@ -1,0 +1,7 @@
+delta-scaled optical depth (τ, τ′) are shown in parentheses for the top ﬁve cloud layers. (b) Cloud heating proﬁles from Solar-J (solid lines)
+and RRTMG-SW (dashed lines) at four SZAs.
+in RRTMG-SW. Both models show enhanced heating only in
+the uppermost cloud layers above 1.7 km (Fig. 4b).
+We believe that the RRTMG-SW biases identiﬁed here
+are errors caused by the two-stream approximation. This is
+supported by the study of Li et al. (2015; see their Fig. 2),

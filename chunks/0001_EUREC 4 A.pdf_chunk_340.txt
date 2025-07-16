@@ -1,0 +1,11 @@
+perature, relative humidity, pressure, wind direction, and wind speed (every 4 h, main deck)
+Ozone analyzer
+Thermo Environmental Model 49C measuring ozone concentration (aerosol inlet)
+In situ aerosol instrumentation
+Collection with multi-jet cascade impactors and analysis by ion chromatography, thermal-optical,
+gravimetric, and XRF analysis to measure size-segregated concentrations of Cl−, NO−
+3 , SO−
+4 ,
+methanesulfonate (MSA), Na+, NH+
+4 , K+, Mg+
+2 , Ca+

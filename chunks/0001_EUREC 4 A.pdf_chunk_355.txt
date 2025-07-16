@@ -1,0 +1,15 @@
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+4110
+B. Stevens et al.: EUREC4A
+Table B15. Skywalker.
+Instrument
+Brief description
+Cloud sensor
+Cloud extinction measured at three wavelengths (1 Hz)
+Cloud active mapping system
+Adaptive sampling and real-time mapping of clouds
+Weather sensors
+Measurements of temperature and relative humidity
+Camera
+High-resolution visible camera looking forward and down to characterize clouds and the sea state
+Inertial system

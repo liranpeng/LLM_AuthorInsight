@@ -1,0 +1,15 @@
+interested in errors that are due to uncertainties in the soil sink and atmospheric
+loss, hence we take advantage of the fact that lifetime is burden divided by loss to
+rewrite:
+AGWPH2 ¼
+BurdenH2
+ΔBurdenH2
+
+ffH2
+LossH2soil sink þ LossH2dry dep
+rCH4  ffCH4  ΔCCH4 þ ΔERFO3 þ ΔERFH2O
+h
+i
+ð8Þ
+Where we have rewritten the lifetime as the hydrogen burden divided by the
+loss. Since the lifetime used is the perturbation lifetime, we also need to include the

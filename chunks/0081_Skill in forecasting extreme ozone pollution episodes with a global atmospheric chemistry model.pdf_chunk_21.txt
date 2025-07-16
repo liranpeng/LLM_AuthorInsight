@@ -1,0 +1,8 @@
+ies (Chan and Wu, 2005; Bell et al., 2006) and climate studies
+(e.g., Tagiris et al., 2007). We calculate the MDA8 by begin-
+ning the 8 h averaging period at 24:00 LT and calculating 17
+8 h averages for each day, picking the maximum of those 17
+(i.e., the averaging only considers windows that fully reside
+within 1 day). Thus the maximum can occur during different
+8 h intervals at adjacent sites or on consecutive days at the
+same station, although afternoon and early-evening maxima

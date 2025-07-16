@@ -1,0 +1,8 @@
+(Samset et al., 2014) and improved understanding of the im-
+portance of high-resolution modelling for reproducing sur-
+face BC measurements (Wang et al., 2014a) are likely to
+provide more constrained BC forcing estimates in the fu-
+ture. In a similar way, the aerosol–cloud interaction needs
+observational constraints for reduced model spread. The re-
+gional forcing of aerosol changes over the 1990–2015 period
+is large, with maximum values over Europe (+4.0 W m−2)

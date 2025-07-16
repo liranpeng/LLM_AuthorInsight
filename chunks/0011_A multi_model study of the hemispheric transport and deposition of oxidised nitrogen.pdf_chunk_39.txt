@@ -1,0 +1,11 @@
+lifetime, suggesting that modelled OH abundances (which
+control the methane lifetime) do not control the NOy life-
+times. Another factor could be the efficiency of uptake of
+NOy by aerosols; an efficient uptake will reduce the NOy
+lifetime and hence the amounts available for long range
+transport.
+4.
+Conclusions
+[17] Fifteen global chemistry-transport models have been
+used to assess the transport and deposition of NOy between
+four regions representing the major source areas. A source-

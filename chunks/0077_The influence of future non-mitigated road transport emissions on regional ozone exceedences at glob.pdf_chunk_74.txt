@@ -1,0 +1,17 @@
+near-surface (0e500 m) O3 with the recommended EC exposure
+limit to derive an exceedence ratio (ER), we show that ER values
+greater than 1.0 occur across a wide area in the Northern Hemi-
+sphere for boreal summer when adopting the 2000 emission
+Table 2
+The fractional area of exceedence above the EC air quality standards for tropospheric
+O3 during JJA. For a deﬁnition of the simulations the reader is referred to Table 1.
+Simulation
+Europe
+USA
+Middle East
+Asia
+PRESENT
+0.116
+0.160
+0.396
+0.086

@@ -1,0 +1,13 @@
+rived from adopted parameters in Table 2 and forcing variables in
+Table 3. Uncertainties (vertical bars) are standard deviations from
+105 monte carlo integrations. Changes are averaged over the 5 years
+at the beginning and end of the historical reconstruction due to in-
+terannual variability. Note the different vertical scales.
+Atmos. Chem. Phys., 13, 285–302, 2013
+www.atmos-chem-phys.net/13/285/2013/
+C. D. Holmes et al.: Future methane, hydroxyl, and their uncertainties
+295
+1500
+2000
+2500
+3000

@@ -1,0 +1,8 @@
+istry data, including some with a nearly complete package
+of key species needed to calculate reactivities (Jacob et al.,
+2003, 2017; Engel et al., 2006; Pan et al., 2017). Unfortu-
+nately, many of these produced a biased, non-climatological
+sampling, for example, by chasing pollution plumes (Hsu et
+al., 2004) or by measuring only in clear skies (Nicely et al.,
+2016). The Paciﬁc Exploratory Missions, PEM-Tropics and
+PEM-West, were notable in providing a mostly unbiased,

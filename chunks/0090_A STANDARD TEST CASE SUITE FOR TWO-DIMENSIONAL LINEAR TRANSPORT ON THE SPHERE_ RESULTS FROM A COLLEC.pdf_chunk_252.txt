@@ -1,0 +1,9 @@
+resolutions. The effect of shape-preserving ﬁlters on conver-
+gence rates was also examined. The convergence rates and
+effect of shape-preserving ﬁlters varied signiﬁcantly among
+the schemes that participated in this intercomparison. The
+greatest reductions in convergence rates were seen for for-
+mally high-order schemes for which rates dropped by several
+orders to about second-order.
+4.2
+“Minimal” resolution (cosine bell initial condition)

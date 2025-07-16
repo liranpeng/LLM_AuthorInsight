@@ -1,0 +1,10 @@
+https://doi.org/10.5194/esd-13-703-2022
+Earth Syst. Dynam., 13, 703–709, 2022
+706
+M. J. Prather: CO2 surface variability: from the stratosphere or not?
+and with help from the reviewers, I chose the MATLAB
+bandpass ﬁlter. This function is well documented (https://
+www.mathworks.com/help/signal/ref/bandpass.html, last ac-
+cess: 8 March 2022), and the bandpass is deﬁned by the
+lower and upper cut-off frequencies. After experimentation
+with the CO2 signal to reduce edge effects, I chose the

@@ -1,0 +1,9 @@
+matching the interannual ozone STE variation of TC-e90.
+HSU AND PRATHER
+©2014. American Geophysical Union. All Rights Reserved.
+5
+Geophysical Research Letters
+10.1002/2014GL061994
+Table 1 summarizes the climatologies of hemispheric O3 ﬂux for both meteorologies from C29 and C36.
+They include the mean ﬂux (Flux), the seasonal (S-rms) and interannual (IA-rms) amplitudes, all in the unit
+of Tg/yr. Also shown is the coeﬃcient obtained from correlating the interannual variation of each ﬂux with

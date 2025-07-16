@@ -1,0 +1,5 @@
+mean convective mass ﬂuxes. The thick solid and dashed lines represent the DJF zonally averaged thermal tropopause for the present day and
+the 2090s (RCP 8.5) climatologies. Grey shading indicates where results are not signiﬁcant at p < 0.05 as evaluated with a Student’s t test
+using 10 years of data for the 2090s (RCP 8.5) and present-day simulations. Note the different scales for (i) UM-CAM and STOC-HadAM3
+and (ii) CMAM and GISS-E2-R.
+of the troposphere in both winter and summer (up to 3–

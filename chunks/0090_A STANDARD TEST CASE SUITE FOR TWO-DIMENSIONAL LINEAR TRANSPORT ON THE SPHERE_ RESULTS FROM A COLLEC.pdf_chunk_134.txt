@@ -1,0 +1,8 @@
+MPAS-CN0.8
+SLFV-SL-CN0.8
+SLFV-ML-CN0.8
+TTS-CN
+Fig. 2. Same as Fig. 1 but for schemes deﬁned on a regular latitude–longitude grid (rows 1 and 2) and icosahedral/Voronoi meshes (rows 3
+and 4). Note that the LPM scheme was run with ﬁxed time step and not with ﬁxed Courant number; therefore no CN value is appended to
+the LPM label. For easier comparison the y axes are identical on all optimal convergence ﬁgures.
+converge asymptotically already at approximately 3◦resolu-

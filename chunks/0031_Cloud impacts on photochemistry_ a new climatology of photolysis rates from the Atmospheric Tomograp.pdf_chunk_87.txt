@@ -1,0 +1,8 @@
+the boundary layer. The modeled shifts in frequency of oc-
+currence from enhanced to reduced Js are dramatic, but still
+the Group 1 pattern of nearly 50 % clear-sky Js persists. This
+results in Group 2 having a much larger frequency of dimin-
+ished Js (60–80 %) as compared with Group 1 (20–40 %).
+Using CAFS data to deﬁne nearly cloud-free conditions
+is imperfect. Potential biases exist with TUV modeling of
+J-clear and are related to albedo as discussed in Sect. 4. In

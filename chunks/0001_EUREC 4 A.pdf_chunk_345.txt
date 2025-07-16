@@ -1,0 +1,8 @@
+CTD casts
+Sea-Bird 9+ CTD at station measuring conductivity (salinity), temperature, depth (pressure), PAR,
+ﬂuorescence, and dissolved oxygen (deployed off starboard side, main deck)
+Thermosalinograph
+Sea-Bird SBE-45 and SBE-38 thermosalinographs measuring seawater temperature and conductivity
+near the surface and 5 m below the surface
+CTD/uCTD
+ADCP measuring ocean currents to 600–750 nm using an RBRconcerto underway CTD and a Tuna

@@ -1,0 +1,9 @@
+e 15 % of CH4 direct RF, Myhre et al. (2007).
+f Boucher (2012), excluding CO2 production.
+upper troposphere. Stratospheric ozone increases twice as
+much as tropospheric ozone (10.4 DU ppm(CH4)−1), but the
+change is small compared to the total stratospheric column.
+We ﬁnd that stratospheric water vapor produced by oxi-
+dation of methane causes small decreases in stratospheric
+ozone (−4.3 DU ppm(CH4)−1). Although these stratospheric
+effects have greater uncertainty because they are assessed

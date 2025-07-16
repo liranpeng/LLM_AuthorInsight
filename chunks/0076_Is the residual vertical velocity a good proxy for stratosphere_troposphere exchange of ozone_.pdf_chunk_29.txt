@@ -1,0 +1,6 @@
+O3 below 100 hPa and above the tropopause is 57 Tg/yr for C36, and much less, 15 Tg/yr, for the vigorous
+circulation of C29.
+2.2. Diagnostics of Cross-Isosurface O3 Fluxes
+A state variable for each air mass is needed to map out 3-D surfaces separating the stratosphere from the
+troposphere for each grid cell in the CTM. Here we deﬁne these 3-D isosurfaces by chemical tracers, either
+the artiﬁcial tracer e90 or O3 itself. The e90 tracer is emitted uniformly from the surface and destroyed uni-

@@ -1,0 +1,5 @@
+region that covers the visible, UVA, and part of UVB (for convenience designated as UV-VIS here) we try to 
+understand these differences.
+This UV-VIS region has the most solar flux (721 W m−2) and for the most part is optically thin. The primary 
+attenuators (molecular Rayleigh, O3), solar flux, and wavelength bands used in RRTMG and SJ are shown 
+in Figure 2. For 298–320 nm (13 W m−2) the O3 total optical depth is greater than about 0.5 (0.05 in the

@@ -1,0 +1,6 @@
+the non-divergent ﬂow ﬁeld (for consistency with the other histograms); this test was run with the same time step as for the non-divergent
+ﬂow tests. However, the maximum velocities are smaller than for the non-divergent ﬂow, and hence the actual CNs are smaller.
+Geosci. Model Dev., 7, 105–145, 2014
+www.geosci-model-dev.net/7/105/2014/
+P. H. Lauritzen et al.: Results from standard test case suite
+135

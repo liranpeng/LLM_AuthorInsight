@@ -1,0 +1,8 @@
+When reactivity weighted, new features are found. Note that
+the area under the AIR-weighted curve is the same for all
+models, but the area in reactivity-weighted 1-D plots is each
+model’s total reactivity (moles day−1). Model D has lower
+values overall for L-CH4 compared with the other models,
+but it is similar or even slightly higher for L-O3 and P-
+O3. The high-O3 abundances in A remain equally impor-
+tant when weighted by any reactivity, but those in B be-

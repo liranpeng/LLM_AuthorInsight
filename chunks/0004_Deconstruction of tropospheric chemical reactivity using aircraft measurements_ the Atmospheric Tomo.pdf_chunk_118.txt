@@ -1,0 +1,8 @@
+models in the Thornhill study each seem aberrant in their
+own way.) From Table 4, a +1 K change increases L-CH4
+by 2.5 %, and the Clausius–Clapeyron-inferred 7 % increase
+in Q adds 3.4 % for a total of 5.9 % K−1, a reasonable ﬁrst-
+order result considering that other climate-driven changes,
+such as O3, are not included. For model evaluation, compar-
+ing T with mean proﬁles is straightforward, but H2O is more
+difﬁcult, even with proﬁles, because of the 3 orders of magni-

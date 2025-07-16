@@ -1,0 +1,5 @@
+White dotted line indicates great circle from Sacramento, CA to Kona, HI. a) Trajectory 
+swarm used on 26 June 2015 for RF-10 flight planning, with GOES visible imagery from 
+the morning of June 26; b) RF-10 flight path with dropsonde locations marked by closed 
+circles, GOES visible imagery from morning of June 27 (day of flight); c) RF10 flight path 
+and RF11 planning trajectories (return flight planned through squares at trajectory ends),

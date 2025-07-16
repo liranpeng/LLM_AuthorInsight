@@ -1,0 +1,9 @@
+ences. In particular, CMAM simulates slightly lower values
+in the tropical upper troposphere in winter compared to the
+other CCMs (Fig. 2c), while the GISS-E2-R simulation fea-
+tures larger values above 700 hPa over northern mid-latitudes
+during summer (Fig. 3d).
+The spatial pattern of the CO tracer averaged over the
+lower to mid-troposphere (400–800 hPa; Fig. 4) is zonally
+relatively uniform in winter and is similar across the four
+CCMs. This pattern also highlights the inﬂuence of strong

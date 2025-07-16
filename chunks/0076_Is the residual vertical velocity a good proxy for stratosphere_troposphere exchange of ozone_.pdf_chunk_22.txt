@@ -1,0 +1,4 @@
+each simulation, ﬂuxes from TC or LS methods are highly correlated. Further up in altitude at 100 hPa, the
+exact simulated ﬂux correlates best with the TC-e90 ﬂux with a 3 month time lead. However, the residual
+O3 ﬂux from the BD method, with a much larger variability, fails to match any calculated interannual varia-
+tion of STE, even when the time lead is varied. Across the two simulations, the interannual variations of STE

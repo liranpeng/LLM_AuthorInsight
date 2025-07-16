@@ -1,0 +1,8 @@
+COMMUNICATIONS EARTH & ENVIRONMENT | https://doi.org/10.1038/s43247-023-00857-8
+ARTICLE
+COMMUNICATIONS EARTH & ENVIRONMENT |  (2023) 4:203 | https://doi.org/10.1038/s43247-023-00857-8 | www.nature.com/commsenv
+7
+induced effects by hydrogen was estimated using sensitivities from PERT_CH4
+from the concentration-driven OsloCTM runs.
+Model setup. The CTRL simulation uses present-day hydrogen surface abun-
+dances. The hydrogen surface concentration ﬁeld used by all models is on monthly

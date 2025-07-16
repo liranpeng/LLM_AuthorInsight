@@ -1,0 +1,10 @@
+occurs in the upper 2000 m (Levitus et al., 2012), which
+has been well measured since 2005, when the distribution
+of Argo ﬂoats achieved good global coverage (von Schuck-
+mann and Le Traon, 2011). Here we update the von Schuck-
+mann and Le Traon (2011) analysis with data for 2005–2015
+(Fig. 5) ﬁnding a decade-average 0.7 W m−2 heat uptake in
+the upper 2000 m of the ocean. Addition of the smaller terms
+raises the imbalance to +0.75 ± 0.25 W m−2 averaged over
+the solar cycle (Appendix A7).
+4

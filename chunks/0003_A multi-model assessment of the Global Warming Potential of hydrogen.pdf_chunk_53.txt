@@ -1,0 +1,7 @@
+mean atmospheric chemical production and loss in Fig. 1c (in
+which there is a good model agreement), the mean soil sink
+would be 59 Tg yr−1. This is close to the model mean soil sink
+(57 Tg yr−1). Since the models employ different soil sink schemes,
+we have also estimated the GWP100 of hydrogen by using this
+harmonized soil sink value of 59 Tg yr−1 in all models. This leads
+to a GWP100 of hydrogen of 11.4 ± 2.8 (Supplementary Tables 7

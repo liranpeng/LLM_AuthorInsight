@@ -1,0 +1,8 @@
+Turnock, S. T., Wild, O., Young, P. J., and Zanis, P.: Tropospheric
+ozone in CMIP6 simulations, Atmos. Chem. Phys., 21, 4187–
+4218, https://doi.org/10.5194/acp-21-4187-2021, 2021.
+Guo, H.: Heterogeneity and chemical reactivity of the remote Tro-
+posphere deﬁned by aircraft measurements, Dryad [data set],
+https://doi.org/10.7280/D1Q699, 2022a.
+Guo, H.: Heterogeneity and chemical reactivity of the remote
+Troposphere deﬁned by aircraft measurements, Zenodo [code],

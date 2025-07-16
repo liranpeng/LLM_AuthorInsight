@@ -1,0 +1,8 @@
+as annual mean precipitation from input forcing variables like CO2. The disadvantage of such an
+approach is the limited physical interpretability: for example what sub-annual variability gives rise to
+the annual mean? Another study [15] trains on climate model output but makes forecasts with 14- or
+30-day lead times, leading to smooth predictions near the climatological mean (e.g. Fig. 20 of [15]).
+2
+Methods
+2.1
+Dataset

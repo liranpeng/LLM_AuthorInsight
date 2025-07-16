@@ -1,0 +1,8 @@
+K., Wine, P. H., and Orkin, R. E. H. V. L.: Chemical Kinetics
+and Photochemical Data for Use in Atmospheric Studies, NASA
+Panel for Data Evaluation, 2011.
+Søvde, O. A., Prather, M. J., Isaksen, I. S. A., Berntsen, T. K.,
+Stordal, F., Zhu, X., Holmes, C. D., and Hsu, J.: The chemical
+transport model Oslo CTM3, Geosci. Model Dev., 5, 1441–1469,
+https://doi.org/10.5194/gmd-5-1441-2012, 2012.
+Stamnes, K., Tsay, S. C., Wiscombe, W., and Jayaweera, K.:

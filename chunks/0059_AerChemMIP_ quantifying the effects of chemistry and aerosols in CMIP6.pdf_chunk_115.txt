@@ -1,0 +1,9 @@
+Time-slice historical ERF simulations (in support
+of science questions 2.1 and 2.3)
+The quantiﬁcation of pre-industrial to present-day ERFs due
+to different drivers (such as in Myhre et al., 2013a, Fig. 8.17)
+is used widely. The AerChemMIP time-slice experiments
+will provide the data to generate a consistent table of present-
+day ERFs for the reactive gases and aerosols. The ERFs
+Figure 2. Schematic of future prescribed SST simulations based on
+the SSP3-7.0 scenario.

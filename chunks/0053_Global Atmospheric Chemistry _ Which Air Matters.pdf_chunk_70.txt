@@ -1,0 +1,9 @@
+mean pressure of the grid cell. The model may need to main-
+tain separate storage for the hourly T and q used in the CCM
+dynamics because it is important to maintain the clouds as
+they would be done in the C-run, and thus the main-code val-
+ues of T and q cannot be overwritten with ATom values. The
+A-run treatment of stratospheric O3 (i.e., ﬁxed) is unlikely to
+be identical to the C-run, but it does not appear to drive ma-
+jor changes in the average photolysis rates over a region (see
+below).

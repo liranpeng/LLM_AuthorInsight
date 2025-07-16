@@ -1,0 +1,9 @@
+13745
+of chemical plumes, Atmos. Chem. Phys., 17, 2543–2553,
+https://doi.org/10.5194/acp-17-2543-2017, 2017.
+Grifﬁths, P. T., Murray, L. T., Zeng, G., Shin, Y. M., Abraham, N.
+L., Archibald, A. T., Deushi, M., Emmons, L. K., Galbally, I.
+E., Hassler, B., Horowitz, L. W., Keeble, J., Liu, J., Moeini, O.,
+Naik, V., O’Connor, F. M., Oshima, N., Tarasick, D., Tilmes, S.,
+Turnock, S. T., Wild, O., Young, P. J., and Zanis, P.: Tropospheric
+ozone in CMIP6 simulations, Atmos. Chem. Phys., 21, 4187–

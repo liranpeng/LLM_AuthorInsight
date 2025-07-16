@@ -1,0 +1,7 @@
+M. Dewey, E. Fons, J. Gonzalez, P. Harder, K. Jeggle, J. Lenhardt, P. Manshausen, M. Novi-
+tasari, L. Ricard, and C. Roesch.
+ClimateBench v1.0: A benchmark for data-driven cli-
+mate projections. Journal of Advances in Modeling Earth Systems, 14(10), October 2022.
+doi:10.1029/2021ms002954.
+[23] Jonathan A. Weyn, Dale R. Durran, and Rich Caruana. Improving data-driven global weather
+prediction using deep convolutional neural networks on a cubed sphere. Journal of Advances in

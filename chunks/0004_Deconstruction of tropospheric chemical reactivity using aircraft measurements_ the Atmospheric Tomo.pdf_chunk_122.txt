@@ -1,0 +1,8 @@
+NOx, for oceanic NOx values < 250 ppt gives A = 2.055.
+The unweighted mean value of NOx is 50 ppt, the 1 sigma
+range of errors (16th–84th percentiles) is ±22 ppt, and the
+https://doi.org/10.5194/essd-15-3299-2023
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+3322
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements
+Figure 28. Curtain plots of the four reactivities (P-O3, L-O3, L-CH4, L-CO, ppb d−1) over Antarctica on ATom-3. Note that the color bars

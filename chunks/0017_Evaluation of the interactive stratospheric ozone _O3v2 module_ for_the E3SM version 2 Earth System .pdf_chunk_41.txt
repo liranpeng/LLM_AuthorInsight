@@ -1,0 +1,8 @@
+stratosphere-only column ozone (SCO, in Dobson units). The SCO
+from (a) OMI+MLS observations are for the years 2005–2017; that
+from (b) UCI CTM are for the years 2005–2017; and those from
+E3SM (c) O3v1 and (d) O3v2 are for the years 1995–2014 as forced
+by observed SSTs. Comparison with observed SCO is limited to
+60◦S–60◦N by the better observational data. (e) The difference in
+SCO of O3v2 minus O3v1 for 90◦S–90◦N.
+magnitude in the tropics but too great magnitudes at high

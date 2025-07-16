@@ -1,0 +1,8 @@
+Charlton-Perez et al. (2009). ATom’s 10 s air parcels mea-
+sure 2 km (horizontal) by 80 m (vertical) during most pro-
+ﬁles. There are obviously some chemical structures below the
+10 s air parcels. Only some ATom measurements are archived
+at 1 Hz, and we examine a test case using 1 s data for O3
+and H2O for a mid-ocean descent between Anchorage and
+Kona in Fig. S2a. Some of the 1 s (200 m by 8 m) variability
+is clearly lost with 10 s averaging, but 10 s averaging pre-

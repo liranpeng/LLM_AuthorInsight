@@ -1,0 +1,9 @@
+both January and July, is much smaller than the variations
+between the models (≈20%). The latter can be explained
+by the different convection schemes and grid resolutions,
+which introduce large uncertainties to the distribution of
+the chemical species (Tost et al., 2006, 2007).
+However,
+the rather small interannual variability also indicates that
+year-to-year changes of meteorology lead to changes in
+the horizontal distribution of ozone perturbations and the

@@ -1,0 +1,5 @@
+reliable for future climates [1, 6]; and analysis increment terms (adjustments from observations) have
+no clear physical interpretation [19]. Therefore, we generate training data with an existing global at-
+mospheric model (FV3GFS, the atmospheric component of the United States weather model [20, 24]).
+The training data are an 11-member initial condition ensemble of 10-year simulations (hereafter
+the “reference” simulation; 10 years is length after discarding 3-month spinup time) performed on

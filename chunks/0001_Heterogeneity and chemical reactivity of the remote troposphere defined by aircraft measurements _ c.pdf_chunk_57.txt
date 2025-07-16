@@ -1,0 +1,30 @@
+to the MDS. It is introduced in the Prologue, and the details
+can be found in P2018. A model grid cell chosen to be close
+https://doi.org/10.5194/acp-23-99-2023
+Atmos. Chem. Phys., 23, 99–117, 2023
+104
+H. Guo et al.: Heterogeneity and chemical reactivity
+Table 1. Chemistry models.
+Used for
+ID
+Model name
+Model type
+Meteorology
+Model grid
+clim
+GFDL
+GFDL-AM3
+CCM
+NCEP (nudged)
+C180 × L48
+clim, MDS-0
+GISS
+GISS-E2.1
+CCM
+Daily SSTs, nudged to MERRA
+2◦× 2.5◦× 40L
+clim, MDS-0
+GMI
+GMI-CTM
+CTM
+MERRA

@@ -1,0 +1,8 @@
+prehensive evaluation of the ozone simulation, comparing it
+with satellite observations and with the UCI CTM running
+the same O3v2 chemistry. O3v2 also enables ready diagnos-
+tics of stratosphere–troposphere exchange ﬂux of ozone. Fur-
+thermore, we examine how the O3v2–O3v1 changes in both
+mean climate and climate sensitivity of E3SMv1.
+Section 2 describes the model, the simulations, and the ob-
+servations. The E3SMv1 model performance of stratospheric

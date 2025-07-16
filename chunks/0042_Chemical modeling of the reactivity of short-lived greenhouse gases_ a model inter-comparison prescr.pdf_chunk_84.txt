@@ -1,0 +1,8 @@
+L-O3 at the top-1 % and the much greater scatter in J-NO2.
+The year-to-year variability in the top-10 % parcels is shown
+(Fig. S7) for the UCI model with year 2016 as the reference
+case (solid line) and years 1997 and 2015 as separate mod-
+els. The patterns of scatter here are similar to but less than the
+day-to-day (Fig. S6), again showing the importance of 5-day
+averages, and identifying the lower limit of scatter at which
+this diagnostic can discern differences in model chemistry.

@@ -1,0 +1,10 @@
+Weather sensors
+Vaisala WXT-536 weather sensors measuring air temperature, humidity, pressure, rainfall, and wind
+(O2 deck)
+Isotope analyzer
+Picarro (L2130-i) cavity ring-down laser spectrometer measuring stable isotopologues in water vapor
+(including water vapor mixing ratio)
+Isotope sampler
+Sampling system for measuring stable isotopologues in rain and seawater
+Radiosondes
+Vaisala RS41-SGP radiosondes measuring atmospheric proﬁles (during ascent and descent) of tem-

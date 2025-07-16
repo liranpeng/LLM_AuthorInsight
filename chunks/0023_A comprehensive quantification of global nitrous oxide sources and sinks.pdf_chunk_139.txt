@@ -1,0 +1,7 @@
+with 0.06 ± 0.01 Tg N yr−1 per decade (P < 0.05) reported in the three 
+estimates (FAOSTAT/EDGAR v4.3.2, GAINS/EDGAR v4.3.2 and NMIP). 
+The FAOSTAT agricultural source—together with the EDGAR v4.3.2 
+industrial source—is consistent with NMIP estimates regarding the 
+magnitude of N2O emissions, with the latter estimating a slightly slower 
+increase from 2010 to 2016 (Extended Data Fig. 6b).
+(d) Perturbed fluxes from climate/CO2/land cover change. Perturbed

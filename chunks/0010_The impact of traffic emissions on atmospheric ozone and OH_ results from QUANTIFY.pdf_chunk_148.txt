@@ -1,0 +1,8 @@
+ozone and OH changes – the change in methane and the re-
+sulting change in ozone. These estimates are derived follow-
+ing the method given in Berntsen et al. (2005). First, the
+change in methane is calculated from the scaled percentage
+change in lifetime given in Table 7, multiplied by a feedback
+factor of 1.4 to account for the impact of methane changes on
+its own lifetime. The radiative forcing is then calculated as-
+suming a methane speciﬁc forcing of 0.37 mWm−2 ppbv−1,

@@ -1,0 +1,4 @@
+d Adopted values are the mean of CTMs, except for VOC, and aviation NOx, which come from literature. Uncertainties are 1-σ values based on CTM spread and
+expert assessment of literature. Terms marked N have negligible impact on interannual τCH4×OH variability and are not used in the parametric model.
+e Tropospheric perturbation only.
+f In Oslo CTM3 stratospheric chemistry and stratosphere-troposphere exchange respond to the perturbation, whereas UCI CTM and GEOS-Chem responses are due

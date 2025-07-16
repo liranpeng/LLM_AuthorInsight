@@ -1,0 +1,7 @@
+(1990–2004, beginning in 1995 for LMDz5). The full MLS record of 12-month averages runs from February 
+RUIZ ET AL.
+10.1029/2020JD033979
+6 of 16
+Figure 2.  (a) Absolute loss of N2O (TgN/yr; left axis) and global mean loss frequency (%/yr, right axis) for MLS 
+observations (2005–2018, thick black line, GMI [1990–2018, green]), LMDz5 (1995–2016, blue), UCI (1990–2017, 
+red). Absolute loss for the models with decaying tracer N2OX is scaled to a tropospheric mean of 320 ppb. MLS loss

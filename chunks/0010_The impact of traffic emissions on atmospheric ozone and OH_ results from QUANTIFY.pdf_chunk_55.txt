@@ -1,0 +1,8 @@
+Most anthropogenic emissions were taken from the
+EDGAR3.2FT2000 database. The effective injection height
+of biomass burning emissions into the atmosphere was taken
+into account with the emission heights calculated in the
+RETRO (REanalysis of the TROpospheric chemical compo-
+sition over the past 40 years) project. The lightning source
+was determined interactively in LMDz-INCA with a mod-
+iﬁed Price and Rind (1992) parameterization, and its total

@@ -1,0 +1,10 @@
+ble S9. GISS is clearly different from all the others (L-CH4
+MS > 100 %, while L-O3 rms < 66 %).
+4
+Results
+Our analysis of the reactivities uses the six-model RDS-0 re-
+sults to examine the consistency in calculating the Rs across
+models. Thereafter, we rely on the similar results from the
+three central models (GC, GMI, UCI) to justify use of UCI
+RDS∗-2 as our best estimate for ATom reactivities. The un-
+certainty in this estimate can be approximated by the inter-

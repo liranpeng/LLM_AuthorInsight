@@ -1,0 +1,8 @@
+sources). The A runs are relatively easy to code for most
+CTM/CCMs and allow each model’s chemistry module, in-
+cluding photolysis package, to run normally. The A runs do
+not distinguish between CTMs and CCMs, except that each
+model will generate/prescribe its own cloud ﬁelds and pho-
+tolysis rates. Our goal is to create a robust understanding of
+the chemical statistics including the reactivities with which to
+test and evaluate the free-running CCMs, and thus we do not

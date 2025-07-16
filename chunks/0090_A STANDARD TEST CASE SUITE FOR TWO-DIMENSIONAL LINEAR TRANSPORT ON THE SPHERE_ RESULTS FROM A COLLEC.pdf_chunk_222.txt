@@ -1,0 +1,24 @@
+ℓr
+ℓ(un)
+r
+(CSLAM)
++
+ℓu
+ℓ(un)
+u
+(CSLAM)
++
+ℓo
+ℓ(un)
+o
+(CSLAM)
+,
+(13)
+and the colors show the breakdown into the different cate-
+gories of mixing. For example, the histogram for CSLAM-
+CN5.5 (unlimited) is of exactly height three, and each col-
+ored section is height one.
+The speciﬁc choice of CSLAM for the normalization is
+motivated by the “minimal” resolution. That is, at 1λ ≈1.5◦
+the ﬁlaments are marginally resolved for CSLAM-CN5.5.
+The CSLAM scheme performs, in general, a little above av-

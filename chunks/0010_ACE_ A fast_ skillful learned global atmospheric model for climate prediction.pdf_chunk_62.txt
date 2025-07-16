@@ -1,0 +1,8 @@
+next time step
+Diagnostic
+variables
+ACE
+Figure 5: Diagram summarizing the flow of input and output variables. Prognostic variables are
+fed back into the model autoregressively. Forcing variables are read from an external dataset and
+appended to the prognostic variables at each step. The network outputs diagnostic variables, which
+contribute to the loss but are not passed back as inputs for the next step.

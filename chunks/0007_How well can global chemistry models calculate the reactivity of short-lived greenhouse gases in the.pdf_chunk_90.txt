@@ -1,0 +1,8 @@
+the photochemistry starts at local noon. A measurement data
+stream, such as from ATom (2017), will include measure-
+ments over a range of longitudes and taken with a wide range
+of local solar times. We need to ensure that the protocol here
+does not depend on when the 24 h integration of reactivity is
+initiated. The UCI model selected one day (16 August 2016)
+and shifted the local solar time by 12 h, thus initiating each
+parcel at local midnight. In addition, the cloud ﬁelds needed

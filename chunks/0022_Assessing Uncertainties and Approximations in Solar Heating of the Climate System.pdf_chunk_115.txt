@@ -1,0 +1,14 @@
+-50
++50
+0
+-50
++50
+0
+-50
++50
+0
+Latitude
+Latitude
+Latitude
+Figure 6.  Scattering phase function for ice particles (600 nm, Reff = 48 µm) used in Solar-J (T-matrix irregular/warm, T-matrix hexagonal/cold) is compared 
+(a) with Mie calculations for liquid and ice water spheres and (b) with ice crystal habits from the Yang library (droxtals, 8 columns, 10 plates, and solid bullet

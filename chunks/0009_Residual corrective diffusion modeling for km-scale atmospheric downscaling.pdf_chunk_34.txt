@@ -1,0 +1,9 @@
+show a frontal event on 2022-02-13 20:00:00 UTC. Left to right in
+all rows: sample mean, sample standard deviation, sample number
+32 and the target forecast, all in units of (dbz).
+Full size image
+Frontal system case study
+Frontal systems are an example of organized atmospheric systems.
+A cold front is a sharp change in temperature and winds associated
+with a mature, mid-latitude, cyclonic storm. As the front moves
+eastward, the cold air pushes the warm air to its east upward. This

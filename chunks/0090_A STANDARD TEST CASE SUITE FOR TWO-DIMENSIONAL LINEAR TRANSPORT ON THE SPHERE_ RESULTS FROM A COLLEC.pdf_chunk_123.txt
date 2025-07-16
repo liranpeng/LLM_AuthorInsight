@@ -1,0 +1,11 @@
+liberately been chosen to include a range [f
+1λ,3◦], where
+f
+1λ > 0.1◦. With the 3◦grid spacing, the mixing ratio dis-
+tributions may be marginally resolved. The main interest
+is not asymptotic convergence rates, which should be close
+to the theoretical convergence rate, but rather the effect of
+marginally resolved features in the convergence rate compu-
+tations.
+Convergence plots for ℓi, i = 2,∞, for the unlimited and
+shape-preserving versions of the schemes are given in Figs. 1

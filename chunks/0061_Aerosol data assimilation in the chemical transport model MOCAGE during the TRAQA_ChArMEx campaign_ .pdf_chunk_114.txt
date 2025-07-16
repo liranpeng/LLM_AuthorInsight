@@ -1,0 +1,8 @@
+simulates the shape of the vertical proﬁle well, but it underes-
+timates the aerosol concentration in the plume that the assim-
+ilation corrects. For the second ﬂight, although the concen-
+trations in the plume are clearly improved, near the surface,
+the increase of aerosols led to a larger overestimation in the
+model. Sometimes, the generalized multiplicative change of
+the aerosol proﬁle in the assimilation can produce unsatisfac-
+tory effects in some layers.

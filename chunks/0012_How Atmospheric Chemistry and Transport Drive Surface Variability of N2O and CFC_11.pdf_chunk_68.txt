@@ -1,0 +1,4 @@
+during the weak maximum of Cycle 24 in 2011–2015 (WMO 2018, Figures 3–7). This has a small impact, 
+but UV-flux driven increase in N2O loss is estimated to be a 4%–7% at full solar maximum (P2015's Table 2). 
+Since the recent Cycle 24 had less than half the amplitude of typical cycles, we estimate that N2O loss may 
+have increased by about 0.3 TgN/yr. This solar cycle was not included in LMDz5 and UCI but was in GMI.

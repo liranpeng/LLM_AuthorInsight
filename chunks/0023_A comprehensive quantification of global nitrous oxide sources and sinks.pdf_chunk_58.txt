@@ -1,0 +1,7 @@
+between the minimum and the maximum values. The centre map shows the 
+spatial distribution of 10-year average N2O emissions from land and ocean 
+based on the land and ocean models. Per capita N2O emission (kg N per capita 
+per year) during 2007–2016 is shown in Supplementary Fig. 2. The map was 
+created using ESRI ArcMap 10.4.1.
+Nature  |  Vol 586  |  8 October 2020  |  253
+The relative importance of each anthropogenic source to the total

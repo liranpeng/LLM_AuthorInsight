@@ -1,0 +1,11 @@
+the subtropics up to 200 hPa caused by convective uplift of
+NOx from maritime transport in the tropical and subtropical
+latitudes.
+5.2
+Methane lifetime
+As seen in the previous section ship emissions have the
+largest effect on OH leading to the largest reduction of
+methane lifetime (Table 7) among the three major modes
+of transport. Methane lifetimes were calculated ofﬂine us-
+ing the monthly mean CH4 and OH-ﬁelds from each model.
+Note that no feedback factor is applied here, which would

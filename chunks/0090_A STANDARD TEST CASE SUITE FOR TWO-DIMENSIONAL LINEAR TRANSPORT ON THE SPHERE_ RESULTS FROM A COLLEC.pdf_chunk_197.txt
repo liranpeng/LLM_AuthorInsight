@@ -1,0 +1,9 @@
+that is not the convex hull, the mixing that the scheme in-
+troduces is unphysical unmixing. Following Lauritzen and
+Thuburn (2012), this unmixing is categorized into two types
+(for graphical illustration see Fig. C1 in LSPT2012) – range-
+preserving unmixing that is unmixing within the range of the
+www.geosci-model-dev.net/7/105/2014/
+Geosci. Model Dev., 7, 105–145, 2014
+126
+P. H. Lauritzen et al.: Results from standard test case suite

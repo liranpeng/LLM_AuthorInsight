@@ -1,0 +1,8 @@
+ing circumnavigations of the troposphere capturing each of
+the seasons during 2016–2018. This work examines J values
+from the Paciﬁc Ocean ﬂights of the ﬁrst deployment, but
+publishes the complete Atom-1 data set (29 July to 23 August
+2016). We compare the observed J values (every 3 s along
+ﬂight track) with those calculated by nine global chemistry–
+climate/transport models (globally gridded, hourly, for a
+mid-August day). To compare these disparate data sets, we

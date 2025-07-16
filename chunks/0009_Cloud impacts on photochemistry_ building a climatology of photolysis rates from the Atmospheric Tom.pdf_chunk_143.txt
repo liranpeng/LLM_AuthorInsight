@@ -1,0 +1,9 @@
+Bian, H. S., Prather, M. J., and Takemura, T.: Tropospheric aerosol
+impacts on trace gas budgets through photolysis, J. Geophys.
+Res.-Atmos., 108, 4242, https://doi.org/10.1029/2002jd002743,
+2003.
+Brasseur, G. P., Hauglustaine, D. A., Walters, S., Rasch, P. J.,
+Müller, J.-F., Granier, C., and Tie, X. X.: MOZART, a global
+chemical transport model for ozone and related chemical trac-
+ers: 1. Model description, J. Geophys. Res., 103, 28265–28289,
+https://doi.org/10.1029/98JD02397, 1998.

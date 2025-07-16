@@ -1,0 +1,5 @@
+at least 10 years (Figure 1). While there is some year-to-year variability, the seasonal cycle of both
+of these fields is well represented by ACE. This result is dependent on choice of forcing variables,
+the normalization strategy (Appendix H) and using the SFNO architecture which has been shown
+to have favorable stability properties compared to Fourier Transform-based FourCastNet [3]. The
+two prognostic variables whose global means drift unrealistically are the surface pressure ps and

@@ -1,0 +1,8 @@
+to a larger radiative forcing amounting to 0.68 Wm−2.
+The comparison of the UiO-RTM results with the ULAQ-
+RTM and UoR-RTM results points to some disagreement,
+which is due to different assumptions on the meteorologi-
+cal conditions and, in the case of ULAQ-RTM the different
+height range considered in the stratosphere. The radiative
+forcing calculations made by the Harvard-GISS “standard”
+model agree rather well with those based on the modeled

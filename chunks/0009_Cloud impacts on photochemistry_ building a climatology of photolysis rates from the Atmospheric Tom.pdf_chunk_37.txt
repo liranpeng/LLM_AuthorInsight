@@ -1,0 +1,27 @@
+al. (2011)
+GMI
+GSFC GMI
+Cloud CF + OD from MERRA-
+2 (1.3◦× 1.0◦)
+16 Aug 2016
+Fast-J v6.5, liquid cloud C1
+(6 µm) and ice cloud hexagonal
+(50 µm), Briegleb averaging
+Strahan et al. (2013), Duncan et
+al. (2007)
+IFS
+ECMWF IFS
+Cloud data from IFS
+(0.7◦× 0.7◦)
+15 Aug 2016
+Williams et al. (2012). Liquid
+cloud (4–16 µm, using CCN),
+ice clouds, random overlap
+Flemming et al. (2015), Sun
+and Rikus (1999), Sun (2001)
+MOCA
+MOCAGE
+Cloud data from ARPEGE
+operational analysis, 3 h
+(1.0◦× 1.0◦)
+16 Aug 2017

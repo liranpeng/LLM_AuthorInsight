@@ -1,0 +1,4 @@
+J. Prather, 2015), which has become the core of Solar-J. Fast-J developed optimized wavelength binning 
+for the stratosphere (175–298 nm, bins #1–12, Bian & Prather, 2002) and the troposphere (298–800 nm, 
+bins #13–18, Wild et al., 2000), and builds upon 4 decades of RT development for atmospheric chemistry 
+(Logan et al., 1978; Olson et al., 1997; PhotoComp, 2010). The 8-stream Feautrier based scattering code

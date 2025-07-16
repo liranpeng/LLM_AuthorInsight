@@ -1,0 +1,13 @@
+state x, the tangent linear operator has to satisfy
+lim
+δx→0
+H(x + δx) −Hx
+Hδx
+= 1.
+(8)
+As long as the perturbation δx is small enough that the per-
+turbed state x + δx stays close to the model state x, the test
+will give a value close to 1.
+The adjoint operator (HT) is the transpose of the tangent-
+linear operator, and it satisﬁes
+⟨Hx,y⟩=

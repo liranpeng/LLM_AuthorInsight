@@ -1,0 +1,7 @@
+Systematic exploration of uncertainties and the role of atmospheric chemistry. 
+Geophys. Res. Lett., 39, L09803.
+Rogelj, J., et al., 2011: Emission pathways consistent with a 2°C global temperature 
+limit. Nature Clim. Change, 1, 413–418.
+Shindell, D.T., J.-F. Lamarque, M. Schulz, M. Flanner, et al., 2013: Radiative forcing in 
+the ACCMIP historical and future climate simulations. Atmos. Chem. Phys., 13, 
+2939–2974.

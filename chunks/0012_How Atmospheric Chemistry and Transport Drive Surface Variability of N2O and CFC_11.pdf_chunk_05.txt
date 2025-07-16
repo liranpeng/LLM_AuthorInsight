@@ -1,0 +1,4 @@
+observed pattern, highlighting the potential role of the QBO in tropospheric chemistry and composition, 
+as well as in model evaluation. The observed annual surface signal in the northern hemisphere matches 
+well with the models run without emissions, indicating the annual cycle is driven mostly by stratosphere-
+troposphere exchange (STE) flux of N2O-depleted air and not surface N2O emissions. In the southern

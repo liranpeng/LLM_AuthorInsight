@@ -1,0 +1,27 @@
+perform a behaviour,
+9.1 credible source
+†C: nil
+‡I:
+Splint, EWB
+†C:
+Plaster, DWB
+OMAS at 3 months
+‡I: 62 (SD 22),
+†C: 56 (SD 21). Effective: No
+Mean difference not reported
+Dogra 1999, UK, RCT​
+Operatively treated ankle 
+fractures. Participants: ‡I: 
+26, †C: 26
+Mean age: 42.7 years
+Ankle range of motion 
+exercises
+From 24 h postoperatively
+‡I: 1.1 goal setting (behav-
+iour),
+4.1 instruction on how to 
+perform a behaviour
+†C: nil
+‡I: Removable plaster
+†C: Plaster
+OMAS at 3 months

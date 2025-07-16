@@ -1,0 +1,8 @@
+at Oak Ridge National Laboratory (ORNL; https://daac.ornl.gov/
+ATOM/guides/ATom_merge.html, last access: 12 December 2022;
+https://doi.org/10.3334/ORNLDAAC/1581, Wofsy et al., 2018).
+The MATLAB scripts and data sets used in the analysis here are
+posted on Dryad (https://doi.org/10.7280/D1Q699; Guo, 2021).
+Supplement. The supplement related to this article is available
+online at: https://doi.org/10.5194/acp-23-99-2023-supplement.
+Author contributions. HG, CMF, SCW, and MJP designed the

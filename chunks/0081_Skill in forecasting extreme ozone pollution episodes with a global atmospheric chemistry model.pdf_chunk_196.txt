@@ -1,0 +1,8 @@
+D14312, doi:10.1029/2006JD008262, 2007.
+Tai, A. P. K., Mickley, L. J., and Jacob, D. J.: Correlations be-
+tween ﬁne particulate matter (PM2.5) and meteorological vari-
+ables in the United States: Implications for the sensitivity of
+PM2.5 to climate change, Atmos. Environ., 44, 3976–3984,
+doi:10.1016/j.atmosenv.2010.06.060, 2010.
+Tang, Q. and Prather, M. J.: Correlating tropospheric column ozone
+with tropopause folds: the Aura-OMI satellite data, Atmos.

@@ -1,0 +1,9 @@
+tive nitrogen through subsequent wet scavenging. Photolysis
+rates required in the chemistry mechanism are calculated on-
+line using the Fast-JX method (Neu et al., 2007), with cloud
+distributions from ECMWF meteorology and ozone concen-
+trations calculated in the CTM. Aerosol effects on photoly-
+sis are neglected except for a small contribution from black
+carbon (Søvde et al., 2012), which increases OH and biases
+Atmos. Chem. Phys., 13, 285–302, 2013
+www.atmos-chem-phys.net/13/285/2013/

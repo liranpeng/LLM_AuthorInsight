@@ -1,0 +1,10 @@
+Geosci. Model Dev., 7, 105–145, 2014
+www.geosci-model-dev.net/7/105/2014/
+P. H. Lauritzen et al.: Results from standard test case suite
+133
+to right in the two histograms shown in Fig. 15. While the
+relation between “minimal” resolution and ℓr is, in general,
+as expected (the higher 1λm the smaller ℓr), it is perhaps
+more interesting to focus on the schemes that do not fol-
+low this trend and potentially provide insights that 1λm
+does not. Perhaps the biggest outlier in this ensemble is

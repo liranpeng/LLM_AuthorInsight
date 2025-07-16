@@ -1,0 +1,30 @@
+Two-patch sphere grid
+2
+on mapped grids
+CSLAM
+Conservative Semi-Lagrangian
+Lauritzen et al. (2010)
+Gnomonic cubed-sphere
+3
+Multi-tracer scheme
+Erath et al. (2013)
+FARSIGHT
+Departure-point interpolation
+White and Dongarra (2011)
+Gnomonic cubed-sphere
+2
+scheme with a global mass ﬁxer
+HEL
+Hybrid Eulerian Lagrangian
+Kaas et al. (2013)
+Gnomonic cubed-sphere
+3
+HEL-ND
+HEL – Non-Diffusive
+Kaas et al. (2013)
+Gnomonic cubed-sphere
+3
+HOMME
+High-Order Methods
+Dennis et al. (2012)
+Gnomonic cubed-sphere

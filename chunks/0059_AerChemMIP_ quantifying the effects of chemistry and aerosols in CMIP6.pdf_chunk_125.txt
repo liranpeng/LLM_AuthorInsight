@@ -1,0 +1,10 @@
+mates are not broken down by their location (tropospheric
+or stratospheric), but whether they are driven by changes in
+ozone precursors or ODSs. Models without interactive chem-
+istry should only run the aerosol speciﬁc experiments, and
+use the same ozone climatology as piClim-control.
+The total simulation years requested are 120 for Tier 1,
+120 for Tier 2 and 150 for Tier 3.
+3.4
+Natural emissions simulations (in support of
+science question 2.4)

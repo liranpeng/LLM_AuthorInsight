@@ -1,0 +1,7 @@
+use vertical decorrelation lengths in its MAX-COR algorithm (M. J. Prather, 2015). Chemistry models need 
+the selection of ICAs for any overlap method to be deterministic because many critical applications require 
+perturbation-control pairs without stochastic noise (e.g., M. J. Prather & Hsu, 2010). Thus Solar-J cannot 
+HSU AND PRATHER
+10.1029/2020MS002131
+16 of 24
+Journal of Advances in Modeling Earth Systems

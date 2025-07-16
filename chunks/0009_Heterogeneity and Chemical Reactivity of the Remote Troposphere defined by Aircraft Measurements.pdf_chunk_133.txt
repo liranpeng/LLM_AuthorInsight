@@ -1,0 +1,8 @@
+have an opportunity to identify model “features” and identify
+errors. In the UCI model, an error in the lumped alkane for-
+mulation (averaging alkanes C3H8 and higher) did not show
+up in P2018, where UCI supplied all the species, but when
+the ATom data were used, the UCI model became an outlier.
+Once found, this problem was readily ﬁxed. The divergence
+of the NCAR RDS results is likely due to the implementation
+of the RDS protocol where CCM values overwrite the MDS

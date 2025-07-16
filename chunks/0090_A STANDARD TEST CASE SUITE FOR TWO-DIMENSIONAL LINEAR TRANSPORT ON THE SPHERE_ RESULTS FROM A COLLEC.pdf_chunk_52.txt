@@ -1,0 +1,8 @@
+of the cell faces is traced upstream; Ullrich et al., 2013) to
+deﬁne the swept area (aka ﬂux area). This area will by deﬁni-
+tion be swept through the cell wall in one time step and hence
+can be used to approximate the mass ﬂuxes in and out of con-
+trol volumes by integrating reconstruction functions of tracer
+mass over the swept areas. The “Simpliﬁed” in the SFF-
+CSLAM scheme acronym refers to the simpliﬁcation intro-
+duced by Hirt et al. (1974), in which the ﬂux integral is sim-

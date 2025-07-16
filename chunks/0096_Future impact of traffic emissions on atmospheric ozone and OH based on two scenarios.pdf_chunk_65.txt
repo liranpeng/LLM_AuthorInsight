@@ -1,0 +1,22 @@
+global annual averages given relative to the BASE simulation, and
+are scaled to 100 % by multiplying with 20. Both the mean of the
+six models and the standard deviations (indicating the spread of the
+models) are given. Note that this table does not include the feedback
+effect of methane changes on its own lifetime.
+AIR
+SHIP
+ROAD
+2000
+1.30 (± 0.30)
+3.68 (± 0.47)
+1.44 (± 0.81)
+2025A1B
+1.91 (± 0.46)
+4.44 (± 0.39)
+1.21 (± 0.61)
+2050A1B
+4.08 (± 0.83)
+5.32 (± 0.56)
+0.331 (± 0.11)
+3.3
+Methane lifetime

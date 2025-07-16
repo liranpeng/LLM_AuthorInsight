@@ -1,0 +1,8 @@
+perturbations produced in moist marine air, but these ef-
+fects should be evaluated in other CTMs. Averaged glob-
+ally, the sulfate burden falls by −6.3 µg m−2 for ship emis-
+sions of 1 Tg(N) yr−1, and the nitrate burden increases by
++7.9 µg m−2 to consume available ammonium. Applying
+radiative efﬁciencies (direct effect only) of these species
+(Myhre et al., 2013), the direct RF from these individual
+changes is ±1.2 mW m−2, with nearly perfect cancellation

@@ -1,0 +1,22 @@
+horizon. For use in the United Nations Framework Convention on Climate Change
+(UNFCCC) the GWP is integrated over time horizons of 20 (GWP20), 100
+(GWP100), and 500 (GWP500) years. In this study, we focus on GWP100 (values
+of GWP20 and GWP500 are found in Supplementary).
+The GWP100 of hydrogen (following 8.SM.6 from IPCC AR5 [Myhre et al.
+2013])47 is deﬁned as:
+GWPH2 100
+ð
+Þ ¼
+AGWPH2 100
+ð
+Þ
+AGWPCO2 100
+ð
+Þ ¼
+R 100
+0
+RFH2 tð Þdt
+R 100
+0
+RFCO2 tð Þdt
+ð2Þ

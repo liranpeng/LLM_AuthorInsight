@@ -1,0 +1,9 @@
+3137–3157, doi:10.5194/acp-11-3137-2011, 2011.
+Jaumouillé, E., Massart, S., Piacentini, A., Cariolle, D., and Peuch,
+V.-H.: Impact of a time-dependent background error covariance
+matrix on air quality analysis, Geosci. Model Dev., 5, 1075–
+1090, doi:10.5194/gmd-5-1075-2012, 2012.
+Josse, B., Simon, P., and Peuch, V.-H.: Radon global simulations
+with the multiscale chemistry and transport model MOCAGE,
+Tellus B, 56, 339–356, 2004.
+Kahnert, M.: Variational data analysis of aerosol species in a

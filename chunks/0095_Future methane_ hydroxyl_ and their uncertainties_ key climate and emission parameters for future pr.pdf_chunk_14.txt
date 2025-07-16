@@ -1,0 +1,8 @@
+can drive decadal trends in methane lifetime, but contribute
+little to interannual variability. Uncertainties in atmospheric
+chemistry are included in the parametric factors based on the
+range of perturbation responses across the CTMs. We evalu-
+ate the parametric model against 13-yr CTM simulations of
+methane lifetime, and against observed variability in tropo-
+spheric OH, as measured by the decay of methyl chloroform.
+Assuming that the same climate and emission processes will

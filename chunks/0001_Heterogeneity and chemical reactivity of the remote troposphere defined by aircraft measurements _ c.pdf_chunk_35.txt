@@ -1,0 +1,8 @@
+chemical composition and conditions at time intervals rang-
+ing from < 1 to about 100 s (Wofsy et al., 2018). ATom mea-
+sured hundreds of gases and aerosols, providing information
+on the chemical patterns and reactivity in the vast remote
+ocean basins, where most of the destruction of tropospheric
+ozone (O3) and methane (CH4) occurs. Reactivity is deﬁned
+here as in P2017 to include the production and loss of O3 (P-
+O3 and L-O3, ppb d−1) and loss of CH4 (L-CH4, ppb d−1).

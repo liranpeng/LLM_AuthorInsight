@@ -1,0 +1,15 @@
+Juno C. Hsu, Michael J. Prather 
+Department of Earth System Science, University of California, Irvine CA USA 
+ 
+ 
+Contents of this file  
+ 
+Methods 
+Figures S1 to S4 
+Tables S1 to S3 
+ 
+Methods 
+ 
+Solar-J is based on Cloud-J (Prather, 2015) and has a long history of modeling and testing 
+photolysis rates) for wavelengths 180-800 nm, which includes photolysis of O3 and NO3 
+in the 400-800 nm range (e.g., Olson et al, 1997; Photo Comp, 2010).  For Solar-J, we

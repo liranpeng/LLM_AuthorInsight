@@ -1,0 +1,5 @@
+correspond to the equivalent end points of the 48-52 hour trajectories. A blowup of the lidar 
+and the radar sampling made on the BC segments for RF10 and RF11 are shown in Fig. 8. 
+These segments clearly show a strong change in the cloud type and amount between the 
+beginning and the end of the trajectories. After two days there is substantially less low cloud 
+in the end of the trajectory sampling than in the beginning. There is also a notable deepening

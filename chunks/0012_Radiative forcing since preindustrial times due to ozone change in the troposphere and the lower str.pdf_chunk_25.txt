@@ -1,0 +1,9 @@
+tive transfer models developed at the Universities of Oslo,
+L’Aquila, and Reading, respectively, distinguishing between
+the LW and SW contributions.
+For comparison, we also
+present results from a similar study that has been made at
+Harvard University based on ozone changes calculated by the
+Harvard-GISS chemical transport model.
+In the following section we brieﬂy describe the participat-
+ing atmospheric composition models, evaluate their ability to

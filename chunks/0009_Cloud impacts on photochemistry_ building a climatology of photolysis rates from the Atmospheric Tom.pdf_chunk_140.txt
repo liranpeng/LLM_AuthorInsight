@@ -1,0 +1,37 @@
+Measurements
+and
+modeling
+results
+from
+the
+NASA
+Atmospheric
+Tomography
+Mission,
+available
+at:
+https://espoarchive.nasa.gov/archive/browse/atom (last access:
+23
+November
+2018),
+https://doi.org/10.5067/Aircraft/ATom/
+TraceGas_Aerosol_Global_Distribution, 2017.
+Barker,
+H.
+W.:
+Overlap
+of
+fractional
+cloud
+for
+radiation
+calculations
+in
+GCMs:
+A
+global
+analysis
+using
+Cloud-
+Sat and CALIPSO data, J. Geophys. Res., 113, D00A01,
+https://doi.org/10.1029/2007JD009677, 2008a.

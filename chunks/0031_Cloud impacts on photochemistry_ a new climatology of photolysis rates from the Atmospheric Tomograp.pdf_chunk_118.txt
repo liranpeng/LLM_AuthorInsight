@@ -1,0 +1,10 @@
+face. These errors will not directly affect the model results
+here since the cloudy–clear differences used a self-consistent
+albedo in each model. Overall, however, there is a need for
+chemistry models to implement a more physically realistic
+OSA.
+5
+Discussion
+The importance of clouds in altering photolysis rates (Js)
+and thence tropospheric chemistry is undisputed. On a case
+level it is readily observed, and on a global level, every model

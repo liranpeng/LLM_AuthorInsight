@@ -1,0 +1,5 @@
+The MLS loss, calculated with the offline UCI photochemistry box model, also did not include this direct 
+solar cycle effect although it would have included the ozone changes noted above (see P2015). It is possible 
+that the anomalous 2013 peak loss in GMI of magnitude 0.6 TgN/yr may be in part a solar cycle signal.
+2.5.  Chemistry-Transport Modeling of CFC-11 – Methods
+Using only GMI and UCI CTMs, we simulate a synthetic F11X tracer that has the loss frequency of CFCl3

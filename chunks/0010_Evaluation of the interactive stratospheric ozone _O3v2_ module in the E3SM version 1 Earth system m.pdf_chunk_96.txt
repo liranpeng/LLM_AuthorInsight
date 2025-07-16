@@ -1,0 +1,8 @@
+to compute the net climate feedback parameter (λ) to facili-
+tate the comparisons with the published sensitivities of vari-
+ous E3SM conﬁgurations (Caldwell et al., 2019). The net cli-
+mate feedback parameter is deﬁned as the change in the TOA
+radiative imbalance caused by 1 K change in the global mean
+surface air temperature. The Cess experiment consists of a 5-
+year AMIP-type control simulation and a 5-year AMIP-type
+test simulation that is identical to the control but with the

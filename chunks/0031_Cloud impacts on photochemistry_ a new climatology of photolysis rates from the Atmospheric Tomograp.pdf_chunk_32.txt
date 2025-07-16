@@ -1,0 +1,8 @@
+3-D tropospheric chemistry models appeared, the need for
+computationally efﬁcient J-value codes led to some models
+ignoring clouds and others estimating cloud layers and ap-
+plying correction factors to clear-sky Js. With the release of
+Fast-J (Wild et al., 2000), some 3-D models started using a
+J-value code that directly simulated cloud and aerosol scat-
+tering properties with few approximations. The next com-
+plexity, based on general circulation modeling, included frac-

@@ -1,0 +1,8 @@
+clouds and surface albedo (Myhre et al., 2013a; Stier et al.,
+2013). The IPCC AR5 estimate for direct aerosol effect of
+sulfate was close to zero for the whole 1990–2010 period,
+whereas the multi-model mean here is around +0.04 W m−2
+in the year 2010, with further increase to +0.05 W m−2
+in 2015. A main reason for this difference is that in the new
+ECLIPSE emission inventory, global sulfate precursor emis-
+sions show stronger reductions for this period than previ-

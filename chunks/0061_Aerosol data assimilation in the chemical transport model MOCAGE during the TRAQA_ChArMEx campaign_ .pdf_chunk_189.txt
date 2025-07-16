@@ -1,0 +1,8 @@
+102, 4387–4404, doi:10.1029/96JD02964, 1997.
+Massart, S., Piacentini, A., Cariolle, D., Amraoui, L. E., and Se-
+mane, N.: Assessment of the quality of the ozone measurements
+from the Odin/SMR instrument using data assimilation, Can. J.
+Phys., 85, 1209–1223, 2007.
+Massart, S., Clerbaux, C., Cariolle, D., Piacentini, A., Turquety, S.,
+and Hadji-Lazaro, J.: First steps towards the assimilation of IASI
+ozone data into the MOCAGE-PALM system, Atmos. Chem.

@@ -1,0 +1,5 @@
+evolution of the MBL aerosol, cloud, and thermodynamic structures along trajectories within 
+the north-Pacific trade-winds using the NSF/NCAR Gulfstream V (GV, formerly known as 
+HIAPER (High Performance Instrumented Airborne Platform for Environmental Research)) 
+on flights between California and Hawaii. The long range of the NSF GV allowed for the 
+sampling of air masses on low-level trajectories extending from California to Hawaii and

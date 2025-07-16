@@ -1,0 +1,8 @@
+HCHO, H2O2, CH3OOH, C2H6, higher alkanes, alkenes,
+aromatics, NOx, HNO3, HNO4, peroxyacetyl nitrate, other
+organic nitrates), consisting of 146 494 distinct air parcels
+from ATom deployments 1 through 4. Six models calculated
+the O3 and CH4 photochemical tendencies from this model-
+ing data stream for ATom 1. We ﬁnd that 80 %–90 % of the
+total reactivity lies in the top 50 % of the parcels and 25 %–
+35 % in the top 10 %, supporting previous model-only studies

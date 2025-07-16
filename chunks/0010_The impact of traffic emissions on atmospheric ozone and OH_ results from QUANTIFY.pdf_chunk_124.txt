@@ -1,0 +1,20 @@
+0.05
+4.12
+1.02
+AIR (%)
+0.041
+0.032
+0.053
+0.047
+0.09
+0.052
+0.02
+1.04
+0.40
+NMHCs in these regions act as a direct sink, since solar ra-
+diation is reduced.
+Comparing the impact of road and ship trafﬁc, both sur-
+face sources of air pollution, the effects on OH are very dif-
+ferent, although the annual amount of emitted NOx is similar
+(see Table 1). The zonal mean perturbation of road emis-
+sions peaks at about 0.2% during northern summer and 0.1%

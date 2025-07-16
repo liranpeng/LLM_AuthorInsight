@@ -1,0 +1,26 @@
+5861 (94.6%)
+334 (5.4%)
+–
+–
+Extracapsular
+4136 (92.7%)
+328 (7.3%)
+1.392 (1.189–1.629, p < 0.001)
+1.284 (1.081–1.525, p = 0.004)
+Delay From Fall12
+< 12 h
+665 (96.0%)
+28 (4.0%)
+–
+–
+> 12 h
+9332 (93.6%)
+634 (6.4%)
+1.614 (1.118–2.429, p = 0.015)
+1.550 (1.026–2.459, p = 0.048)
+Table 6   Odds ratios for differing delay to surgery time thresholds
+Delay to surgery from admission
+OR (univariable)
+OR (multivariable)
+After 12 h versus within 12 h
+1.351 (1.036–1.794, p = 0.032)

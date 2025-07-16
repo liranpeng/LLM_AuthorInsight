@@ -1,0 +1,8 @@
+the mean radiation ﬁeld in the presence of thick water clouds
+and found that eight streams were necessary to have errors
+of only a few percent relative to a 160-stream code that re-
+solved the scattering phase function. For Solar-J, we adopt
+the Wild et al. (2000) optimization for water clouds and use
+Mie (liquid) or Mishchenko (ice) (Mishchenko et al., 1996,
+2004) full phase functions for scattering, truncate the expan-
+sion in Legendre polynomials to order 8, and solve the scat-

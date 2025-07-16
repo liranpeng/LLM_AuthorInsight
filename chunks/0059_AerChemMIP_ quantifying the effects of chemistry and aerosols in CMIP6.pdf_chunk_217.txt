@@ -1,0 +1,8 @@
+doi:10.1029/2002JD002624, 2003.
+Gauss, M., Myhre, G., Isaksen, I. S. A., Grewe, V., Pitari, G., Wild,
+O., Collins, W. J., Dentener, F. J., Ellingsen, K., Gohar, L. K.,
+Hauglustaine, D. A., Iachetti, D., Lamarque, F., Mancini, E.,
+Mickley, L. J., Prather, M. J., Pyle, J. A., Sanderson, M. G.,
+Shine, K. P., Stevenson, D. S., Sudo, K., Szopa, S., and Zeng, G.:
+Radiative forcing since preindustrial times due to ozone change
+in the troposphere and the lower stratosphere, Atmos. Chem.

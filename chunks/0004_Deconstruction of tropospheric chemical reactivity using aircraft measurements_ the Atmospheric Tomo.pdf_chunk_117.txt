@@ -1,0 +1,9 @@
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+https://doi.org/10.5194/essd-15-3299-2023
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements
+3321
+Figure 27. Curtain plots of the four reactivities (P-O3, L-O3, L-CH4, L-CO ppb d−1) over the Arctic on ATom-4. Troposphere-only parcels.
+See Figs. 6 and 26.
+in T and H2O. For example, from Thornhill et al. (2021a),
+we estimate an increase in the CH4 loss frequency of about
+4.5 % K−1 for the two consistent models. (The other two

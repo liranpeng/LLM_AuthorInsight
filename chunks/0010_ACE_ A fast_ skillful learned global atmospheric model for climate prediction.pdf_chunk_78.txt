@@ -1,0 +1,72 @@
+arbitrarily long forecasts. We used this feature to do a 100-year long forecast. The forecast was stable
+11
+ACE
+baseline
+reference
+run
+ACE
+baseline
+reference
+run
+ACE
+baseline
+reference
+run
+ACE
+baseline
+reference
+run
+ACE
+baseline
+reference
+run
+0.0
+0.5
+1.0
+Tₛ [K]
+0
+500
+pₛ [Pa]
+0.0
+0.5
+1.0
+TWP [mm]
+0.0
+0.5
+1.0
+T₇ [K]
+0.0
+0.5
+T₆ [K]
+0.0
+0.5
+T₅ [K]
+0.0
+0.5
+T₄ [K]
+0.0
+0.5
+T₃ [K]
+0.0
+0.2
+0.4
+0.6
+T₂ [K]
+0.0
+0.2
+0.4
+T₁ [K]
+0.0
+0.2
+0.4
+T₀ [K]
+0.0
+0.2
+qᵀ₇ [g/kg]
+0.0
+0.1
+0.2
+qᵀ₆ [g/kg]
+0.0
+0.1
+0.2

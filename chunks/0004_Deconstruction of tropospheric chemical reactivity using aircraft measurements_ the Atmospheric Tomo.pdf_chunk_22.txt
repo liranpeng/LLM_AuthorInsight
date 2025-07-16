@@ -1,0 +1,8 @@
+Reactivity calculations here use the UC Irvine Zhu (UCIZ)
+model and the RDS* protocol described in G2023. UCIZ is
+the updated UCI chemistry-transport model (CTM version
+q7.4) by Xin Zhu that is adapted to calculating ATom air
+parcels. The RDS∗protocol allows the peroxyacetyl nitrate
+(PAN) and HNO4 species to thermally decay for 24 h before
+use. The overall ATom protocol for the CTM and CCMs av-
+erages 5 d, separated by 5 d centered on each deployment’s

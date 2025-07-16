@@ -1,0 +1,71 @@
+A
+M
+J
+J
+A
+S
+O
+N
+D
+J
+month
+318.5
+319.0
+319.5
+320.0
+320.5
+321.0
+N2OX (ppb)
+LMDz5 annual cycle
+NH
+SH
+J
+F
+M
+A
+M
+J
+J
+A
+S
+O
+N
+D
+J
+month
+318.5
+319.0
+319.5
+320.0
+320.5
+321.0
+N2OX (ppb)
+UCI annual cycle
+NH
+SH
+J
+F
+M
+A
+M
+J
+J
+A
+S
+O
+N
+D
+J
+month
+318.5
+319.0
+319.5
+320.0
+320.5
+321.0
+N2O (ppb)
+NOAA annual cycle
+NH
+SH
+Journal of Geophysical Research: Atmospheres
+and stratospheric chemistry, inclusion of them in a future study will provide unique information about their

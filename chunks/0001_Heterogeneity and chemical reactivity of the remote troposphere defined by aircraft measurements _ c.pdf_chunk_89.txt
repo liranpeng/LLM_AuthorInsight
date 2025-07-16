@@ -1,0 +1,8 @@
+(except for P-O3 in the Atlantic).
+The enhancement factor for the top 50 % L-CH4 parcels is
+2.0 (84 % of reactivity in 42 % of mass) given that our 53◦S–
+60◦N transects cover 83 % of the air mass below 200 hPa and
+assuming that L-CH4 is negligible poleward of these tran-
+sects. This enhancement factor is a large-scale feature be-
+cause the tropical lower troposphere, being warm and wet
+with high sun, dominates the budget. It is seen in previous

@@ -1,0 +1,5 @@
+4086
+B. Stevens et al.: EUREC4A
+Figure 17. Near-surface temperature (Tsea) from drifters and gliders in the three EUREC4A study regions. Panel (a) shows the tracks of
+the instruments colored by Tsea. The magniﬁcation (upper left) expands the domain of the Caravela (and underwater glider) measurements
+in Region A (near 57◦W). January and February SWIFT buoy (Tsea at −0.3 m) deployments in Region B. Saildrone (Tsea at −0.5 m)

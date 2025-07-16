@@ -1,0 +1,13 @@
+download data from a Meridional Overturning Variability
+Experiment (MOVE) subsurface mooring and related Pres-
+sure Inverted Echo Sounders (PIESs). MOVE is designed to
+monitor the integrated deep meridional ﬂow in the tropical
+North Atlantic. Additional information on shipboard sam-
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+https://doi.org/10.5194/essd-13-4067-2021
+B. Stevens et al.: EUREC4A
+4099
+Table B4. HALO.
+Instrument
+Brief description
+Cloud radar (HAMP)

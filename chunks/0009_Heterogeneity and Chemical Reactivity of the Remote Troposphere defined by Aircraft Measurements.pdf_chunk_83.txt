@@ -1,0 +1,13 @@
+(e) ATom_RDS.nc
+Derived here.
+(a) ATom-1: 32 383 records × 16 csv columns, 10 s in-
+tervals of ﬂight data, modeled reactivities & J values
+plus 5 d SD
+(b) ATom-2: 33 424 records × 16 csv columns
+(c) ATom-3: 40 176 records × 16 csv columns
+(d) ATom-4: 40 511 records × 16 csv columns
+(e) ATom RDS∗-2: all data in netcdf
+Results from UCI CTM only, using RDS∗pro-
+tocol and MDS-2; NaNs only for ﬂight 46; for
+use analyzing the reactivities from the ATom
+10 s data.

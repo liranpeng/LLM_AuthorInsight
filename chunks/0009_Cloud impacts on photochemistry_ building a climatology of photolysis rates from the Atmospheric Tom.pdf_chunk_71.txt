@@ -1,0 +1,4 @@
+not ﬁt within the ±0.3 range – on the high side for 100–900 hPa and low side for 900–surface hPa – the column of numbers, placed on the
+appropriate side and color coded to the legend, gives the fraction of occurrences outside the range. (b) Probability distribution of the natural
+log of the ratio of cloudy–clear J-NO2 values (rlnJ) from 10 models and from CAFS during ATom-1. In general, J-NO2 is more responsive
+to clouds than J-O1D is.

@@ -1,0 +1,5 @@
+Nevison et al. (2004) and Thompson, Chevallier, et al. (2014), with the notable exception of Trinidad Head, 
+which does not match other NH stations.
+First, it appears that the STE flux, both annual and QBO-related, creates only small N-S gradients, ranging 
+from +0.3 ppb (UCI) to −0.2 ppb (LMDz5), and thus the observed gradient (+1.3 ppb) is driven predomi-
+nantly by NH emissions. Second, the modeled NH annual amplitude looks much like the observations: the

@@ -1,0 +1,8 @@
+the cell along the transported direction), monotonic within a
+cell (L = 2, before transport, the moments in the transported
+dimension are adjusted to have a positive-deﬁnite, monotonic
+distribution), and the most rigorous shape preserving (L = 3,
+the moments in the daughter cell are adjusted after transport
+to ensure that the tracer distribution throughout the cell is
+limited by the minimum and maximum tracer values using
+the moments in the parent cell(s)). All calculations shown

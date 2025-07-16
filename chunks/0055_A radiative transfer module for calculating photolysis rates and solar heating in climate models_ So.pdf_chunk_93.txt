@@ -1,0 +1,8 @@
+RRTMG-SW spectral model. Solar-J minus RRTMG-SW
+differences are shown in the right two panels of Fig. 2. As
+shown in Fig. 2d, the consistent difference of < 0.1 K day−1
+near the surface come from Solar-J’s simpliﬁcation of comb-
+ing RRTMG’s 14 sub-bins with O2 and H2O absorption in
+bins B24–B25 into the ﬁve sub-bins of S18. In the tropo-
+sphere these are small, but in the stratosphere there is a
+clear bias with Solar-J producing more heating above 40–

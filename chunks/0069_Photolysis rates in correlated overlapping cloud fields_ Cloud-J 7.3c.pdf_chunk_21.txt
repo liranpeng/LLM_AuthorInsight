@@ -1,0 +1,14 @@
+from 0 (random) to 1 (maximal overlap), and gL1 is the inter-
+polating function linear in cc between random and maximal
+overlap.
+gL1 = 1 + cc(1/f L2 −1),
+subject to gL1 ≤1/f L1 and gL1 ≤1/f L2
+(10)
+Hence for cc > 0 we have an increased likelihood of the cloud
+in L1 falling underneath the cloud in L2. For the example in
+Fig. 1, cc = 0.5 and gL1 = 3.
+wL1(#1) = gL1f L1 = 3 × 0.15 = 45%
+(11)
+wL1(#2) = 1 −gL1f L1 = 1 −0.45 = 55%
+(12)
+The likelihood of clouds in L1 falling below the clear section

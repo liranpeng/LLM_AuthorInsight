@@ -1,0 +1,9 @@
+www.atmos-meas-tech.net/9/5535/2016/
+B. Siˇc et al.: Aerosol data assimilation in the CTM MOCAGE
+5551
+assimilate another type of observations. Lidar observations,
+ground- or space-based, are an obvious choice. The control
+variable deﬁned as the 3-D total concentration is also well
+adapted for the assimilation of lidar proﬁles. This facilitates
+the implementation of the lidar assimilation into the system,
+and in the longer term also makes feasible a simultaneous

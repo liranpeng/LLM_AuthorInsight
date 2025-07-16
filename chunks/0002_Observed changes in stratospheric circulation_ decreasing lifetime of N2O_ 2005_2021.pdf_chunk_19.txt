@@ -1,0 +1,8 @@
+(rms) difference of 0.6 % show that both calculations are es-
+sentially identical. Uncertainty in the absolute N2O lifetime
+is estimated at ±8 % (1-sigma), based primarily on the abso-
+lute calibration of MLS N2O and the chemical kinetics un-
+certainty; see Sect. 4 of P2015.
+Uncertainties in trends here are calculated from a linear
+regression of the 12-month running averages of the monthly
+means as reported or calculated here. We select the 68 % (1-

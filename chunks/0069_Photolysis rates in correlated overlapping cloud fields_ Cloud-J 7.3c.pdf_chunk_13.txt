@@ -1,0 +1,8 @@
+(Stamnes et al., 1988; Wild et al., 2000; Tie et al., 2003).
+Thus, the only workable method (other than 3-D radiative
+transfer) is to represent the FCA by a number of ICAs where
+each ICA is either 100 % cloudy or clear in each layer. The
+fractional cloud-overlap model determines the layer struc-
+ture, weighting, and number of ICAs. Other simple cloud
+models approximate overlap by (i) ignoring clouds entirely
+(clear sky); (ii) averaging the cloud fraction, f , over each

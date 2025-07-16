@@ -1,0 +1,15 @@
+https://doi.org/10.1029/2007JD009677, 2008a.
+Barker, H. W.: Representing cloud overlap with an effec-
+tive
+decorrelation
+length:
+An
+assessment
+using
+Cloud-
+Sat and CALIPSO data, J. Geophys. Res., 113, D24205,
+https://doi.org/10.1029/2008JD010391, 2008b.
+Barker, H. W., Jerg, M. P., Wehr, T., Kato, S., Donovan, D. P., and
+Hogan, R. J.: A 3D cloud-construction algorithm for the Earth-
+CARE satellite mission. Quart. J. Roy. Meteor. Soc., 137, 1042–
+1058, https://doi.org/10.1002/qj.824, 2011.

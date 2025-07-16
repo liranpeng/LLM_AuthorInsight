@@ -1,0 +1,5 @@
+(Equations 6 and 7) reported in the title. Here, the “reference” is the physics based model (FV3GFS)
+run for the same period and forced by the same SST pattern.
+to be useful as a climate model, ACE must be skillful when forced by a wider variety of more realistic
+SST patterns. In this section we show results of zero-shot generalization to a forcing dataset with
+historical SSTs from 1990 to 2020 (using CMIP forcing data [8]). ACE is stable over the full 30-year

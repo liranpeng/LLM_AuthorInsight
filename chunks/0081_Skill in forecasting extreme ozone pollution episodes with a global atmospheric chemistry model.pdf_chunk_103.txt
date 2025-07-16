@@ -1,0 +1,8 @@
+and also the largest in the CTM hindcast, at 1700 × 104 km2-
+days (104 km2 is our basic areal unit since our grid resolution
+is 1◦). The skill of the CTM on these 6 days was 75.4 %, with
+both data sets showing the episode’s structure and trajectory.
+These extreme events are connected in space–time and can
+be reproduced in a hindcast by a global model. These at-
+tributes provide an opportunity to develop a climatology of
+extreme ozone episodes (e.g., areal extent, duration, inten-

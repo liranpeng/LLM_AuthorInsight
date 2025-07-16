@@ -1,0 +1,8 @@
+noise in PAN and HNO4, which can be very short-lived. In
+Sect. 4, we examine the statistics of reactivity over the At-
+lantic and Paciﬁc oceans, focusing on air parcels with high
+reactivity; for example, 10 % of the parcels produce 25 %–
+35 % of total reactivity over the oceans. We compare these
+ATom-1 statistics, species, and reactivities with August cli-
+matologies from six global chemistry models. In one sur-
+prising result, ATom-1 shows a more reactive tropical tropo-

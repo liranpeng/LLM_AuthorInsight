@@ -1,0 +1,9 @@
+fairly small ≤15 km. Therefore, we will assume that LOAC
+measurements represent the aerosol vertical proﬁle above the
+launch place.
+The ﬁrst two ﬂights (Fig. 9a and b) are launched at two
+different times of the same day, in the morning and at noon,
+but they ﬂew through the same desert dust plume. In both
+cases, the assimilation model run matches the measurements
+very closely. It simulates both the shape of the proﬁle and
+the aerosol number concentration well. The direct model run

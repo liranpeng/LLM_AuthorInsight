@@ -1,0 +1,8 @@
+goal is to use all representative station data, recognizing the
+heterogeneity of surface O3 that must be averaged over to
+compare with gridded model simulations. The most com-
+monly used technique used to compare observations with
+a gridded model is to simply average all observing sites
+within the grid cells to be compared (e.g., Fiore et al., 2002).
+This results in an incomplete domain as well as the cal-
+culated averages disproportionately representing urban sta-

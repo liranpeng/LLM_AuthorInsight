@@ -1,0 +1,35 @@
+(1.0◦× 1.0◦)
+16 Aug 2017
+From Brasseur et al. (1998),
+using
+CF
+and
+liquid
+water
+(10 µm), Briegleb averaging
+Guth et al. (2016), Flemming et
+al. (2015)
+NCAR
+CESM
+Clouds from CAM5 physics
+on
+MERRA
+(u,v,T ,
+. . . )
+(0.6◦× 0.5◦)
+16 Aug 2008
+TUV lookup J tables, scaled
+using CF and liquid water con-
+tent, Briegleb averaging
+Tilmes et al. (2016),
+Madronich (1987)
+UCI
+UCI CTM
+Cloud
+data
+from
+IFS
+T159L60N160 forecasts
+made by U. Oslo (1.1◦× 1.1◦)
+16 Aug 2005
+Cloud-J v7.3, quadrature col-

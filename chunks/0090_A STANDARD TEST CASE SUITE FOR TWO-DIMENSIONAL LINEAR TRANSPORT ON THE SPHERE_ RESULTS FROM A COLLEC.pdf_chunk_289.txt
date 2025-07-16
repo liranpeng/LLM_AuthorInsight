@@ -1,0 +1,26 @@
+Target resolution [◦]
+Applied grid
+1λave [◦]
+nc
+1t for CN ≈0.4 [s]
+1.5
+R13B1
+1.54
+13 520
+720
+0.75
+R13B2
+0.77
+54 080
+360
+1λm
+R3B5
+0.416
+184 320
+192
+bxj = x(bαj,trm), and bφj = φ(bαj,0) the scalar value. To de-
+termine bαj, the panel of the distorted mesh containing bxj is
+located and bαj is computed from the data in that panel by lin-
+ear interpolation. Results reported here remesh every 20 time
+steps. The scheme is under development, and further details
+will be reported in Bosler (2013).

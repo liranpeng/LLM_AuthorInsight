@@ -1,0 +1,60 @@
+age in the fourth decimal place and have rms differences
+< 0.01 ppb day−1. For these choices, the protocol adopted
+here is adequate.
+Atmos. Meas. Tech., 11, 2653–2668, 2018
+www.atmos-meas-tech.net/11/2653/2018/
+M. J. Prather et al.: Reactivity of short-lived greenhouse gases
+2665
+0
+1
+2
+3
+0
+1
+2
+3
+UCI 2016
+P−O3  (ppb/day)
+0
+2
+4
+6
+0
+2
+4
+6
+UCI 2016
+L−O3  (ppb/day) 
+0
+1
+2
+3
+0
+1
+2
+3
+UCI 2016
+L−CH4  (ppb/day)
+0
+3
+6
+9
+0
+3
+6
+9
+x 10
+−3
+J−NO2  (/s)
+x 10
+−5
+J−O1D  (/s)
+ 
+ 
+UCI 2015
+UCI 1997
+0
+0
+1.5
+3.0
+4.5

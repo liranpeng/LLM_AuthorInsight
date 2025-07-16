@@ -1,0 +1,8 @@
+factors in the diffusion training process including the noise
+schedules used, the comparatively large resolution (448 × 488)
+compared to typical image generation (64 × 64), or the weighting
+in the loss function.
+To become useful for km-scale weather prediction, extensions of
+CorrDiff are encouraged that include temporal coherence, such as
+via video diffusion or learnt autoregressive km-scale dynamics; as
+with super-resolution these must be formulated as stochastic

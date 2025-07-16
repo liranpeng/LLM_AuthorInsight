@@ -1,0 +1,8 @@
+relative to the troposphere (2 ppmyr−1), yielding an appar-
+ent negative CO2 ﬂux of about 0.4 PgCyr−1 into each hemi-
+sphere. This forcing ﬂux is placed in the uppermost model
+layer (∼80 km altitude) and transported to the surface. In
+both of these cases, CO2 changes linearly with a known
+trend, and I subtract that trend to get the modeled anomalies.
+The eCO2 scenario effectively forces the stratosphere with a
+negative ﬂux of 2 ppmyr−1, but most of the SH signal comes

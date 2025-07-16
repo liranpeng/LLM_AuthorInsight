@@ -1,0 +1,32 @@
+incid.
+refl.
+atm.
+surf.
+R23
+-
+SJ: spherical v. flat
++1.55
++0.68
++0.46
++0.41
+-
+-
+R24
+-
+SJ: refraction v. flat
++1.94
++0.83
++0.53
++0.58
+-
+-
+R25
+-
+SJ: geometric v. flat
++2.50
++1.02
++0.86
++0.62
+-
+-
+Note. See methods section Table S2 for description of each of the pairs of simulations noted in column two. Global-mean area-weighted differences are averaged

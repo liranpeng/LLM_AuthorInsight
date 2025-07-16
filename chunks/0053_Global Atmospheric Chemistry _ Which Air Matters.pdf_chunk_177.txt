@@ -1,0 +1,12 @@
+of the GFDL Global Coupled Model CM3, J. Clim., 24, 3484–
+3519, https://doi.org/10.1175/2011jcli3955.1, 2011.
+Duncan, B. N., Strahan, S. E., Yoshida, Y., Steenrod, S. D., and
+Livesey, N.: Model study of the cross-tropopause transport of
+biomass burning pollution, Atmos. Chem. Phys., 7, 3713–3736,
+https://doi.org/10.5194/acp-7-3713-2007, 2007.
+Eastham, S. D., Weisenstein, D. K., and Barrett, S. R. H.:
+Development and evaluation of the uniﬁed tropospheric-
+stratospheric
+chemistry
+extension
+(UCX)

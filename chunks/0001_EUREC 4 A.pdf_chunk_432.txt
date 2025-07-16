@@ -1,0 +1,8 @@
+VAL) South Studies, IEEE J. Sel. Top. Appl., 10, 3114–3124,
+https://doi.org/10.1109/JSTARS.2017.2687943, 2017.
+Schroth, A. C., Chandra, M. S., and Meischner, P. F.: A C-Band
+Coherent Polarimetric Radar for Propagation and Cloud Physics
+Research, J. Atmos. Ocean. Tech., 5, 803–822, 1988.
+Seifert, A. and Heus, T.: Large-eddy simulation of organized pre-
+cipitating trade wind cumulus clouds, Atmos. Chem. Phys., 13,
+5631–5645, https://doi.org/10.5194/acp-13-5631-2013, 2013.

@@ -1,0 +1,8 @@
+dicated through the number of stages used in the scheme.
+The minimum number of communications needed to com-
+plete a simulation can, in general, be deduced from the stable
+time step limitations of the scheme. Here that is speciﬁed in
+terms of maximum Courant number. For schemes that are not
+Courant-number-limited but rather limited by the shear of the
+ﬂow, we list “Lipschitz”, which refers to the criterion for sta-
+bility for many trajectory algorithms in (semi-)Lagrangian

@@ -1,0 +1,11 @@
+we show how the ATom parcel reactivities and sensitivities
+can be used to derive chemical feedbacks, such as the life-
+time for O3 perturbations and the CH4 lifetime feedback fac-
+tor. Section 7 concludes this analysis.
+3
+Variation of photochemical reactivities across the
+four ATom deployments
+3.1
+Reactivity statistics – means and extremes
+We developed statistics that identify extremes (i.e., photo-
+chemical hotspots) and characterize the heterogeneous mix-

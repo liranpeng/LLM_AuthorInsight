@@ -1,0 +1,7 @@
+BCO. Dots show CU-RAAVEN measurements of the density po-
+tential temperature vs. altitude, as well as underwater glider mea-
+surements of the temperature below the surface. Values are normal-
+ized to compensate for differences associated with either synoptic
+variations or from variations in the depth of the sampled planetary
+boundary layers. Blue dots show proﬁle of cloud fraction from all
+MPCK proﬁles. The dashed (black) line marks the potential temper-

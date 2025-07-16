@@ -1,0 +1,5 @@
+pointing up and cloud top heights while pointing down, together with aerosol properties, 
+derived from profiles of backscatter cross-section, extinction cross-section and 
+depolarization ratio at 532 nm at a temporal resolution of ~0.5 sec. The range resolution of 
+the retrieved backscatter cross-section profiles is ~30 m while that of extinction profile is 
+−300 m (Morley et al., 2012). The circular depolarization ratio observed by the HSRL can

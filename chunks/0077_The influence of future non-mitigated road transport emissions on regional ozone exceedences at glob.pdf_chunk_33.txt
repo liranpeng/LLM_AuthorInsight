@@ -1,0 +1,8 @@
+levels at a T42 resolution for the analysis.
+The performance of the various members included in the model
+ensemble has been validated by comparing the present day global
+distribution and seasonality of tropospheric O3 against the clima-
+tology assembled from ozonesonde measurements for the 1990’s
+(Logan, 1999), as shown in Hodnebrog et al. (2011). This provides
+some conﬁdence that the ensemble captures both the seasonal and
+latitudinal variability in the distribution of tropospheric O3 when

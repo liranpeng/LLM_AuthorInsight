@@ -1,0 +1,8 @@
+(0–0.5, 0.5–5, 5–30, > 30) are present in each FCA. Here
+we extend that approach with three new methods for approx-
+imating the integral over ICAs: deﬁne each QCA from the
+average ICAs in its domain (AvQCA); use the averaged di-
+rect solar beam from all ICAs to derive an effective scattering
+optical depth from clouds in each layer (AvDir); and select-
+ing three random ICAs based on their weights (Ran-3; with
+comparable computational costs to either QCA).

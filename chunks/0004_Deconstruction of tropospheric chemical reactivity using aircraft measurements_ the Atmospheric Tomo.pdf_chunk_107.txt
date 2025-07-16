@@ -1,0 +1,9 @@
+has unusually low P-O3 values. Surprisingly, the initial val-
+ues of many species have a negligible or small impact on the
+reactivities. Species like alkanes and alkenes are unimportant
+because their average abundances are low over the oceans,
+and species like HCHO and HNO4 are unimportant because
+their abundances are reset by the chemistry during the 24 h
+integration.
+The lessons from Table 2 are quite interesting. (i) T , H2O
+(Q), and O3 are absolutely critical for all the chemical bud-

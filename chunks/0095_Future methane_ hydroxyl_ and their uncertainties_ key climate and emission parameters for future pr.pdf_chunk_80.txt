@@ -1,0 +1,8 @@
+production from ships (Chen et al., 2005), however. To com-
+pensate, GEOS-Chem instantaneously converts all ship NOx
+emissions to O3 and HNO3, following observed production
+ratios. As a result, GEOS-Chem underestimates the large-
+scale impact of shipping, since, in reality, 20–50 % of NOx
+remains after 5 h following emission (Vinken et al., 2011).
+Although previous estimates of ship NOx are close to the
+high values in this work (Hoor et al., 2009; Myhre et al.,

@@ -1,0 +1,9 @@
+ments are 684 for Tier 1 and 492 for Tier 2.
+3.1.2
+Transient historical prescribed SST simulations
+In order to calculate the transient ERFs that drive the above
+climate changes, a set of simulations repeats the above sen-
+sitivity runs in Sect. 3.1.1, but using atmosphere-only con-
+ﬁgurations with prescribed sea-surface temperatures (SSTs)
+and sea ice. The SSTs and sea ice should be speciﬁed as
+the monthly mean time-evolving values from one ensemble

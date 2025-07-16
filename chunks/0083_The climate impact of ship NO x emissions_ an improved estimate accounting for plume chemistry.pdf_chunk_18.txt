@@ -1,0 +1,8 @@
+The version used here (9-01-03, www.geos-chem.org) has
+2◦× 2.5◦horizontal resolution and 47 layers. The tropo-
+spheric chemical mechanism simulates HOx–NOx–VOC-O3
+reactions, including bromine (Parrella et al., 2012). Anthro-
+pogenic emissions are based on the EDGAR and RETRO
+global inventories (Olivier and Berdowski, 2001; van Aar-
+denne et al., 2005; van Donkelaar et al., 2008; van het
+Bolscher, 2008), which are replaced with regional invento-

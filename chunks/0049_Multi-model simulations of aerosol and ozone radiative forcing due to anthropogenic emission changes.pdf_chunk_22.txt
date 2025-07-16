@@ -1,0 +1,33 @@
+Atmos. Chem. Phys., 17, 2709–2720, 2017
+www.atmos-chem-phys.net/17/2709/2017/
+G. Myhre et al.: Multi-model simulations of aerosol due to anthropogenic emission changes
+2711
+Table 1. Model description.
+Models
+Resolution
+Fixed met or
+Rapid adjustment
+Anthropogenic
+References
+ﬁxed sea
+aerosol
+surface
+components
+temperature
+included
+(SST)
+CESM
+1.9◦× 2.5◦
+1982–2001
+No (direct effect
+Sulfate, BC,
+Liu et al.
+(CAM5,
+L30
+climatological
+only)
+POA, SOA
+(2012); Neale et
+MAM3,
+monthly
+al. (2010); Wang

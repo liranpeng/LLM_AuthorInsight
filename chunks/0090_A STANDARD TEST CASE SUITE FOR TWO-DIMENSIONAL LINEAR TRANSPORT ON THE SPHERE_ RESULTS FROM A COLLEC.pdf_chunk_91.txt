@@ -1,0 +1,9 @@
+for computing diagnostics (and tendencies from the physi-
+cal parameterizations). Coupling between tracer mass and air
+mass is trivial since the scheme retains Lagrangian volumes
+for tracer mass and air mass throughout the integration.
+2.2.4
+Hybrid Eulerian–Lagrangian
+An alternative approach is to retain both a fully Lagrangian
+and Eulerian representation of all prognostic variables as
+done in the hybrid Eulerian–Lagrangian (HEL) scheme

@@ -1,0 +1,20 @@
+tor is the lowest when comparing with SHIP and AIR (Ta-
+Table 2. Global annual average of the change in O3 molecules per
+NOx molecule emitted from the different transport sectors, given as
+ensemble means and standard deviations.
+AIR
+SHIP
+ROAD
+2000
+2.05 (± 0.51)
+0.509 (± 0.19)
+0.329 (± 0.11)
+2025A1B
+1.90 (± 0.44)
+0.465 (± 0.18)
+0.323 (± 0.10)
+2050A1B
+1.65 (± 0.27)
+0.460 (± 0.19)
+0.369 (± 0.13)
+ble 2). It is also the only trafﬁc sector which has a higher O3

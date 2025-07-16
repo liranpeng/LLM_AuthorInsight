@@ -1,0 +1,8 @@
+conﬁrm this assumption. This demonstrates that the contin-
+uous assimilation of good-quality AOD observations and/or
+model propagation of the increment can correct a shape of
+the aerosol vertical proﬁle, although a single AOD assimila-
+tion cycle can only expand or shrink the proﬁle shape (as the
+AOD observations do not contain the information on the ver-
+tical). For the proﬁle in Fig. 9c, by comparing the forecast
+and the analysis of the same assimilation window, we see

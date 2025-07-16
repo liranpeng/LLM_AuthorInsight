@@ -1,0 +1,9 @@
+1229
+Figure 8. The same as Fig. 7 but for total net heating.
+mate feedback when including the interactive stratospheric
+ozone chemistry in an Earth system model. The negative
+feedback reduces the climate sensitivity and is mainly caused
+by the changes in longwave radiation associated with the
+Brewer–Dobson circulation-driven reduction of ozone and
+water vapor at the tropical lower stratosphere and cirrus
+cloud changes. Since the tropospheric ozone is prescribed in

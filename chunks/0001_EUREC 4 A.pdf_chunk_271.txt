@@ -1,0 +1,13 @@
+Instrument
+Brief description
+Cloud radar (HAMP)
+A Downward-looking high-powered Ka-band polarized Doppler cloud radar
+Microwave
+radiometers
+(HAMP)
+An ensemble of microwave radiometers in K, V, W, F, and G bands to estimate cloud properties,
+precipitation, and integrated water vapor amount
+DIAL lidar (WALES)
+A differential absorption lidar near 935 nm, with additional channels at 532 and 1064 nm, to charac-
+terize aerosols, clouds, and water vapor proﬁles
+Hypersp. imager (specMACS)

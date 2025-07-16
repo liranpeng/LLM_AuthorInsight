@@ -1,0 +1,39 @@
+0.05
+7.1
+550
+2080
+4.7
+3.0
+0.15
+0.00
+1.90
+0.03
+7.1
+550
+2090
+2.9
+1.7
+0.08
+0.00
+1.66
+0.02
+7.1
+550
+2100
+1.7
+0.9
+0.05
+0.00
+1.44
+0.01
+7.1
+550
+Notes:
+Present day (2011*) is from Chapter 2; projections are from Scenario A1, WMO Ozone Assessment (WMO 2010).
+1428
+Annex II	
+Climate System Scenario Tables
+AII
+AII.5: Column Abundances, Burdens, and Lifetimes
+Table AII.5.1 |  Stratospheric O3 column changes (DU)
+Notes:

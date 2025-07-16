@@ -1,0 +1,4 @@
+without major volcanic eruptions or El Nĩno–Southern Oscillation events (based on Southern Oscillation
+Index from the Climate Prediction Center; www.esrl.noaa.gov/psd/data/climateindices/list/).
+For C29 the interannual variability of O3 ﬂuxes across all isosurfaces near the tropopause, obtained from
+either TC or LS methods are in near-perfect sync (r = 0.98–1.0), and for C36 they are highly correlated (r >

@@ -1,0 +1,74 @@
+−0.01
+0.00
+−0.3
+−0.01
+0.00
+−0.3
+−0.01
+0.00
+−0.3
+Natural total
+9.9
+8.5
+12.2
+9.8
+8.3
+12.1
+9.8
+8.2
+12.0
+9.7
+8.0
+12.0
+Bottom-up total source
+15.5
+12.1
+20.9
+15.9
+12.2
+21.7
+16.4
+12.3
+22.4
+17.0
+12.2
+23.5
+Top-down ocean
+5.1
+3.1
+7.2
+5.1
+3.4
+7.1
+Top-down land
+10.8
+9.3
+12.5
+11.8
+10.6
+13.8
+Top-down total source
+15.9
+15.1
+16.9
+16.9
+15.9
+17.7
+Top-down stratospheric sink
+12.1
+11.4
+13.1
+12.4
+11.7
+13.3
+Observed atmospheric chemical sinka
+13.3
+12.2
+14.4
+13.5
+12.4
+14.6
+Change in atmospheric abundanceb
+3.7
+3.2
+4.2

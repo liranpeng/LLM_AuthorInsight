@@ -1,0 +1,8 @@
+In Fig. 9 the vertical pressure velocity, ω, estimated from this
+divergence is averaged over a set of three circles for the two
+5 February circling periods. Also shown is the average over
+all circles over all days. The continuity of the divergence
+within a circle and across two circling periods – although
+on some ﬂights vertical motion can change more markedly
+across sets of circles – gives conﬁdence that the measure-
+ments are capturing a physical signal. It also shows, for the

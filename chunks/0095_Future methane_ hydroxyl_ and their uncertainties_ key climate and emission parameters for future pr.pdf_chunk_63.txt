@@ -1,0 +1,3 @@
+sensitivity for 1997–2009 (Fig. 4). Values for other models are calculated from 3-yr perturbation tests and scaled to 1997–2009 means, assuming the same
+interannual variability as the UCI CTM. Adopted uncertainty accounts for uncertainty in emission altitude and year-to-year variability.
+j Calculated with the RETRO altitude distribution, which injects 35 % of equatorial (45 % of boreal) biomass burning emissions above 2 km. Net sensitivity is lower

@@ -1,0 +1,10 @@
+the past and future climate–composition interactions (includ-
+ing unreactive greenhouse gases) in the CMIP6 chemistry–
+climate models, we recommend that as many as possible
+of the Tier 1 simulations of RFMIP (Pincus et al., 2016),
+DAMIP (Gillett et al., 2016), ScenarioMIP (O’Neill et al.,
+2016), C4MIP (Jones et al., 2016) and LUMIP (Lawrence et
+al., 2016) are run with the AER CHEM model conﬁguration
+and with AerChemMIP diagnostics.
+5.1
+Radiative Forcing MIP (RFMIP)

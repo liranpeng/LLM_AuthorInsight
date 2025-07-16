@@ -1,0 +1,8 @@
+assimilation could be expected in the case of other strong
+aerosol events, like biomass burning or a volcanic ash plume,
+where the model emission uncertainties are often even larger
+than in the case of desert dust plumes.
+By assimilating AOD observations at several wavelengths,
+we can get information on aerosol size. If aerosol absorp-
+tion can be measured, then we can discriminate between car-
+bonaceous and other aerosols. Then, with this information we

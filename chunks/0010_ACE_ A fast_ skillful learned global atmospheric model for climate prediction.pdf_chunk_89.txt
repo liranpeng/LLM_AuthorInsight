@@ -1,0 +1,6 @@
+Equation 1). Right: timeseries of global mean surface pressure due to dry air only (Equation 8).
+normalized timestep-to-timestep differences a′
+ff = aff(t + 1) −aff(t) (which is what we’d really
+like to get right for each prognostic variable) vary strongly between variables. It is cumbersome to
+change the loss function in FourCastNet to reflect this goal. As a pragmatic substitute, we modify the
+normalization strategy to give equal contributions from tendency errors in each variable to the loss

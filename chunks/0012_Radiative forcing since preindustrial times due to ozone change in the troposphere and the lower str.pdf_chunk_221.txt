@@ -1,0 +1,9 @@
+spheric NO2 compared with GOME retrievals for the year 2000,
+Atmos. Chem. Phys. Discuss., accepted, 2006.
+Volz, A. and Kley, D.: Evaluation of the Montsouris series of ozone
+measurements made in the 19th century, Nature, 332(6161),
+240–242, 1988.
+Wang, W.-C. and Sze, N. D.: Coupled effects of atmospheric N2O
+and O3 on the Earth’s atmosphere, Nature, 286, 589–590, 1980.
+Wang, Y. and Jacob, D. J.: Anthropogenic forcing on tropospheric
+ozone and OH since preindustrial times, J. Geophys. Res., 103,

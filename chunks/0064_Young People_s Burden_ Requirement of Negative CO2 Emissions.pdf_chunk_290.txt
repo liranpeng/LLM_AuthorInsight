@@ -1,0 +1,6 @@
+Year of experiment
+200
+500
+Figure A3. 1000-year temperature response in two versions of GISS modelE-R. (a) Version used for CMIP5 simulations (Schmidt et
+al., 2014), which has higher resolution (40-layer atmosphere at 2 ◦× 2.5◦, 32-layer ocean at 1 ◦× 1.25◦); (b) version used by Hansen et
+al. (2016), which has coarse resolution (20-layer atmosphere at 4 ◦× 5◦, 12-layer ocean at 4 ◦× 5◦) and includes two signiﬁcant improve-

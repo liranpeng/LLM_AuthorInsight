@@ -1,0 +1,4 @@
+in between LMDz5 and GMI with UCI still having the largest underestimate of loss rate at any given time.
+Comparing the QBO-like variability in N2O loss across the models with the MLS-derived loss, we find that 
+all have about the same peak-to-peak amplitude, ±0.04%/yr (Figure 2a). Unusually, the UCI model, with 
+the largest bias in total loss (see above), has the closest direct match to the MLS variations (correlation

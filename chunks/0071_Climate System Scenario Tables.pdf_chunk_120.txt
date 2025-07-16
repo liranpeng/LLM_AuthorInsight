@@ -1,0 +1,2 @@
+= average of 2095–2100) are given for RCP-based emissions, but single-year emissions are shown for other scenarios. RCPn.n = harmonized anthropogenic emissions as reported. SRES A2 and 
+B1 and IS92a are from TAR Appendix II. AR5 RCPn.n& emissions have ± 1-s (16 to 84% confidence) uncertainties and are based on the methodology of Prather et al. (2012) updated with CMIP5

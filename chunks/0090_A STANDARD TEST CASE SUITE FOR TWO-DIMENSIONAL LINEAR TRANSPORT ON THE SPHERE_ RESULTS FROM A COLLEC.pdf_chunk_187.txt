@@ -1,0 +1,8 @@
+sually. It is immediately apparent, most notably in the areas
+away from the slotted cylinders where the ﬁeld should be
+constant, whether a scheme is not strictly shape-preserving
+(light blue contour ﬁlling). Almost all unlimited schemes
+show “ripples” in this area. Similarly, overshoots over the
+slotted cylinders are immediately visible (dark red contour
+ﬁlling). The wavelength of the spurious oscillations is related
+to the formal order of the schemes. For example, the oscilla-

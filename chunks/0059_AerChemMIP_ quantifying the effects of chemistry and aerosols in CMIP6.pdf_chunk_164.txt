@@ -1,0 +1,10 @@
+ODSs and climate change on the stratospheric inﬂuence on
+tropospheric composition. Loss terms of CO, methane, ozone
+and nitrous oxide are suggested to help interpretation of their
+budget in a changing climate.
+4.5
+Air quality
+The simulations in AerChemMIP provide the opportunity to
+retrieve from historical and scenario runs air quality related
+parameters which relate the broadly used CMIP emissions to
+a transient description of climate to air quality metrics. An

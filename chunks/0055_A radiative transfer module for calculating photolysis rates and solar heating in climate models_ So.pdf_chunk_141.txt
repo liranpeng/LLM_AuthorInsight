@@ -1,0 +1,8 @@
+the UC Irvine chemistry-transport model (CTM). Cloud-J
+timings are estimated by comparing full cloud quadrature
+(2.75 calls per column atmosphere per time step; see be-
+low) versus an average-cloud approximation (1 call). We ﬁnd
+that 12 % of the CTM wall-clock time is spent in Cloud-J
+using average clouds and 28 % when using cloud quadra-
+ture. Because the UCI CTM runs a minimalist tropospheric
+chemistry and a linearized stratospheric chemistry (see Hsu

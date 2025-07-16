@@ -1,0 +1,4 @@
+solely to tropospheric photolysis rates. Oslo CTM3 results are rescaled to the same ozone column change as the other models.
+g Response to global ozone column perturbation.
+h Response to extra-tropical ozone column perturbation (poleward of 30◦).
+i Sensitivities assume ﬁre emissions are contained in the boundary layer, except where noted for Oslo CTM3. The UCI CTM value is the emission-weighted average

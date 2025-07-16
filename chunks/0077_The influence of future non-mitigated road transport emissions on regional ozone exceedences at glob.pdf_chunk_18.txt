@@ -1,0 +1,8 @@
+wards unmitigated RTE and assess the extent to which this affects
+exceedences above the deﬁned threshold that is deemed safe.
+2. Trends in regional NOx emission estimates between 2000
+and 2050
+By examining the global trends in NOx emissions from each of
+the different transport sectors deﬁned in the SRES A1B and
+A1B_HIGH scenarios (Nakicenovic et al., 2000; Hodnebrog et al.,
+2011) it has been shown that A1B_HIGH estimates that the road

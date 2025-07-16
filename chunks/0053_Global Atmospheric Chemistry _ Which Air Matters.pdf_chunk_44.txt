@@ -1,0 +1,5 @@
+1-day integration (16 January 2005) using the University of California, Irvine (UCI) chemistry-transport model (CTM) run at T319N80L57
+resolution (∼1◦horizontal) using forecast meteorology from the European Centre for Medium-Range Weather Forecasts, see Sovde et
+al. (2012). As expected, the northern winter shows very little CH4 loss above 40◦N.
+the integral of L-CH4 determines the atmospheric lifetime of
+CH4 and the buildup of its emissions in the atmosphere.

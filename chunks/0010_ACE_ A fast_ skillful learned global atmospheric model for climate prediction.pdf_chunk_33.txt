@@ -1,0 +1,6 @@
+the surface temperatures are not directly forced (Figure 4b) and it does not reproduce the interannual
+variability of the reference. The time-mean RMSE and bias of T7 (0.5K and -0.27K, respectively) are
+somewhat larger than those when comparing ACE to a reference run which uses the climatological
+SST dataset (0.35K and 0.12K; see Figures 7 and 8). Nevertheless, the stability and modest biases of
+ACE when using this previously unseen SST dataset as a forcing are reassuring.
+Computational expense

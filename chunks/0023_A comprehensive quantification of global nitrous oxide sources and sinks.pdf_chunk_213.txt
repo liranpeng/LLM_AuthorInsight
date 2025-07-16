@@ -1,0 +1,6 @@
+between average global annual land surface temperature and simulated N2O 
+emissions (that is, the result of SE6 experiment in NMIP16) considering annual 
+changes in climate but keeping all other factors (that is, nitrogen fertilizer, 
+manure, NDEP, increased CO2 and land cover change) at the level of 1860. b, The 
+correlation between average global annual land surface temperature and 
+simulated N2O emissions (that is, the result of SE1 experiment in NMIP16)

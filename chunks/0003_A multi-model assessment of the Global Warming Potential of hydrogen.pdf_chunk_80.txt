@@ -1,0 +1,7 @@
+The ozone radiative forcing is calculated from the changes in the monthly mean
+three-dimensional ozone ﬁelds in the perturbations compared to the control
+simulation multiplied by a monthly three-dimensional kernel for ozone radiative
+forcing28. As in IPCC AR6, we do not add any adjustments and use the radiative
+forcing values as ERF.
+For stratospheric water vapor, the radiative forcing is calculated ofﬂine
+consistently for all models using separate radiative transfer schemes for longwave

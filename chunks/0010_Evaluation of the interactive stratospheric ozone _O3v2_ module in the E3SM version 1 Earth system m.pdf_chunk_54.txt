@@ -1,0 +1,3 @@
+SD of the SCO monthly anomalies (as in Fig. 2 but for different periods: E3SM – 1995–2014; UCI CTM – 2005–2017) with the OMI+MLS
+observations as the reference point (1,0). (b) The area-weighted multi-year zonal mean stratospheric ozone abundances (Fig. 4) relative to
+the MLS observations. Results are shown only for annual and June means (other months are similar). (c) The area-weighted year-to-year

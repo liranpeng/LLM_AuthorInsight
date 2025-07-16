@@ -1,0 +1,8 @@
+ing IPCC 5th Assessment Report (AR5) the Representative
+Concentration Pathway (RCP) scenarios adopt methane tra-
+jectories calculated in the MAGICC model, which augments
+the TAR parametric formula with a temperature term (Mein-
+shausen et al., 2011a).
+On small spatial scales, OH concentrations and methane
+oxidation depend on temperature, pressure, sun elevation,
+clouds, surface albedo, UV attenuation by stratospheric

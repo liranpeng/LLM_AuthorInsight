@@ -1,0 +1,4 @@
+the University of California Irvine (UCI) CTM. The CTMs are similar in resolution (1°–3° horizontal) with 
+40–70 atmospheric layers. GMI uses Modern-Era Retrospective analysis for Research and Applications-2 
+(MERRA-2) wind fields and full stratosphere-troposphere chemistry (Strahan et al., 2016); LMDz5 uses 
+the European Center for Medium-Range Weather Forecasts Re-Analysis-Interim (ECMWF ERA-Interim)

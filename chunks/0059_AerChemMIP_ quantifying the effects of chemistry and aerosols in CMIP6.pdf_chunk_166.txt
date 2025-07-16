@@ -1,0 +1,11 @@
+Geosci. Model Dev., 10, 585–607, 2017
+www.geosci-model-dev.net/10/585/2017/
+W. J. Collins et al.: AerChemMIP: quantifying the effects of chemistry and aerosols in CMIP6
+599
+obtained, which do characterise the model also in terms of
+chemical reactivity but also with respect to boundary layer
+mixing. The output is required for the fully coupled histori-
+cal and the two coupled SSP3-7.0 scenarios.
+4.6
+Evaluation of model performance
+In addition to the above diagnostics focussed on the science

@@ -1,0 +1,8 @@
+build a commensurate statistical picture of the impact of
+clouds on J values using the ratio of J-cloudy (standard,
+sometimes cloudy conditions) to J-clear (artiﬁcially cleared
+of clouds). The range of modeled cloud effects is inconsis-
+tently large but they fall into two distinct classes: (1) models
+with large cloud effects showing mostly enhanced J values
+aloft and or diminished at the surface and (2) models with
+small effects having nearly clear-sky J values much of the

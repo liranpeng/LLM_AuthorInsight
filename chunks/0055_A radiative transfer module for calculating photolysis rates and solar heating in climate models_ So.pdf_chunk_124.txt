@@ -1,0 +1,9 @@
+different scales at different SZAs.
+A key cirrus CRE is the increase in albedo, the top-of-
+atmosphere reﬂected sunlight, as shown for all models and
+a range of SZAs in Fig. 6 (top row). The percent increase
+across RRTMG-SW models (13–131 %) scales in proportion
+to τ, with EC92 being the largest and Key02, the smallest.
+This relative order stays the same across all SZAs, but the
+range across RRTMG-SW models decreases and the relative
+percent increases for larger SZAs. The Solar-J model also

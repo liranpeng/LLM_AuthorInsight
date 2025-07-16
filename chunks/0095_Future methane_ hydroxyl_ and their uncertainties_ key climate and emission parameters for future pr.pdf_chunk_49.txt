@@ -1,0 +1,8 @@
+fraction of total MCF loss (Prather et al., 2012).
+Figure 2 compares the interannual variability of simu-
+lated τCH4×OH in the CTMs against the MCF decay rate.
+In all CTMs, simulated τCH4×OH variations (0.7–1.1 % for
+σ/mean) are smaller than the upper limit imposed by the
+MCF constraint (2.3 %, Montzka et al., 2011). Adding vari-
+able isoprene emissions to the GEOS-Chem simulation in-
+creases the simulated variability by only 0.1 % (not shown).

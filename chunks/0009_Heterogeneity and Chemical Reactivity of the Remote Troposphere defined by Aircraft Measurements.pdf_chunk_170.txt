@@ -1,0 +1,8 @@
+B., Wennberg, P. O., and Wisthaler, A.: Sensitivity to grid res-
+olution in the ability of a chemical transport model to simulate
+observed oxidant chemistry under high-isoprene conditions, At-
+mos. Chem. Phys., 16, 4369–4378, https://doi.org/10.5194/acp-
+16-4369-2016, 2016.
+Zhuang, J., Jacob, D. J., and Eastham, S. D.: The importance
+of vertical resolution in the free troposphere for modeling in-
+tercontinental plumes, Atmos. Chem. Phys., 18, 6039–6055,

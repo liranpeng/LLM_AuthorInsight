@@ -1,0 +1,5 @@
+2058–2082.
+Goody, R., West, R., Chen, L., & Crisp, D. (1989). The correlated-k method for radiation calculations in nonhomogeneous atmospheres. 
+Journal of Quantative Spectroscopy Radiative Transfer, 42(6), 539–550.
+Grant, K. E., & Grossman, A. S. (1998). Description of a solar radiative transfer model for use in LLNL. Climate and atmospheric chemistry 
+studies (pp. 17). UCRL-ID (129949).

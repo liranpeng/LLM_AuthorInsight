@@ -1,0 +1,8 @@
+Tables of effective climate forcings, 1850–2100
+CO2, CH4 and N2O forcings are calculated with analytic for-
+mulae of Hansen et al. (2000). CH4 forcing includes the fac-
+tor 1.4 to convert adjusted forcing to effective forcing, thus
+incorporating the estimated effect of a CH4 increase on tro-
+pospheric ozone and stratospheric water vapor. Our CH4 ad-
+17Wetlands compose a majority of natural CH4 emissions and
+are estimated to be equivalent to about 36 % of the anthropogenic

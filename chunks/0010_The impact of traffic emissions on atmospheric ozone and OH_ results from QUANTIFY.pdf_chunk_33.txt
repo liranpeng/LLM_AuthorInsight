@@ -1,0 +1,31 @@
+experiment
+emission
+road
+ship
+aircraft
+BASE
+100%
+100%
+100%
+ROAD
+95%
+100%
+100%
+SHIP
+100%
+95%
+100%
+AIR
+100%
+100%
+95%
+ALL
+95%
+95%
+95%
+emissions by Borken et al. (2007) are higher by 33% for
+NOx and about 50% for CO emissions than those used in
+this study. Nonetheless, low total CO emissions are a result
+of lowered average emission factors accounting for effective
+use of catalytic converters in light duty vehicles.
+The resulting source strengths of NOx from the differ-

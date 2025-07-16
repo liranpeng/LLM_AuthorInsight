@@ -1,0 +1,8 @@
+is −2.2 ± 1.8 % in our model, or −0.12 % yr−1 from a lin-
+ear ﬁt. Dentener et al. (2003), simulated a larger decrease,
+−0.2 % yr−1, in the 1980s that they attributed mainly to wa-
+ter vapor. Meteorological inputs may contribute to the dif-
+ference, since water vapor trends are known to vary amongst
+reanalysis products (Trenberth et al., 2011). In addition, the
+shift of anthropogenic emissions to SE Asia, which alters the
+sensitivity of τCH4×OH to emissions is not treated in the para-

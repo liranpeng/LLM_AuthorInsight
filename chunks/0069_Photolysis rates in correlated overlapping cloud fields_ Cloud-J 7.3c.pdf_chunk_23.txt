@@ -1,0 +1,19 @@
+and wL1(#3) positive. The wL2 weights do not include a g
+factor.
+wL2(#1) = wL2(#2) = f L2
+(15)
+wL2(#3) = wL2(#4) = (1 −f L2)
+(16)
+The combined ICA weights are
+W L1-L2(#1) = wL1(#1)wL2(#1) = gL1f L1f L2
+= 3 × 0.15 × 0.20 = 9%,
+(17)
+W L1-L2(#2) = wL1(#2)wL2(#2) = (1 −gL1f L1)f L2
+= 0.55 × 0.20 = 11%,
+(18)
+W L1-L2(#3) = wL1(#3)wL2(#3) = f L1(1 −gL1f L2)
+= 0.15 × 0.40 = 6%,
+(19)
+W L1-L2(#4) = wL1(#4)wL2(#4) = 1 −f L2 −f L1
++ gL1f L1f L2 = 1 −0.20 −0.06 = 74%.
+(20)

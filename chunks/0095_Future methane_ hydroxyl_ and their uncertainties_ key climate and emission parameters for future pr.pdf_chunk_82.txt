@@ -1,0 +1,9 @@
+NOx in the UCI CTM, higher temperatures increase both the
+production and loss of O3, with net excess production; OH
+rises in turn. In GEOS-Chem, by contrast, higher tempera-
+tures increase O3 destruction over the ocean with less op-
+portunity for enhanced production; OH thus decreases over
+oceans.
+The sensitivity of τCH4×OH to methane abundance is
+closely related to the methane feedback factor, f , which is
+the ratio of methane perturbation lifetime to total budget life-

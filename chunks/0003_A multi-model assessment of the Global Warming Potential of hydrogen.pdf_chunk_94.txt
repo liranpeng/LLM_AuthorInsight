@@ -1,0 +1,7 @@
+perturbations from the initial hydrogen pulse will have decayed, and the steady-
+state calculation will match the integrated transient. For AGWP20, however,
+perturbations tied to methane will still exist after 20 years, and the steady-state
+approximation is corrected using the time scale of the methane perturbation (see
+Supplementary Table 8).
+Uncertainty calculations. To estimate uncertainties in the GWP value, we use
+equation (7) and perform a standard error propagation. We are speciﬁcally

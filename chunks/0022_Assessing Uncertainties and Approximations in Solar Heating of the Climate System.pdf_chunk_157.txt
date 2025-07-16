@@ -1,0 +1,4 @@
+liver the correct mean when averaged enough times over the same cloud system, but it has hourly grid-cell 
+rms errors of 40 W m−2 (H. W. Barker et al., 2008; Pincus et al., 2003). A key underlying premise is that solar 
+heating errors propagate symmetrically and linearly in the climate system and average out, as was found 
+for simple forecast models. Assessing net bias errors caused by noisy heating rates would need to examine

@@ -1,0 +1,6 @@
+12572, 2013.
+Blossey PN, Bretherton CS, Zhang M, Cheng A, Endo S, Heus T, Liu Y, Lock A, de Roode SR, and 
+Xu KM (2013), Sensitivity of marine low clouds to an idealized climate change: The CGILS LES 
+intercomparison, J. Adv. Model. Earth Sys, doi:10.1002/jame.20025.
+Bony S and Dufresne JL, 2005: Marine boundary layer clouds at the heart of tropical cloud feedback 
+uncertainties in climate models. Geophys. Res. Lett 32, L20806.

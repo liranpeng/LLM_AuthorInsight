@@ -1,0 +1,15 @@
+5 
+ 
+ 
+ 
+ 
+Figure S4.  Ocean surface albedo (OSA, dimensionless) as a function of wavelength, shown for 
+different incident angles (colors) and different wind speeds (solid, dashed or dotted).  Four 
+different incident zenith angles used in Solar-J's 8-stream scattering code are identified by their 
+cosine values, mu:  0.931 (orange), 0.670 (green), 0.330 (red), 0.069 (blue).  Three different wind 
+speeds are shown: 0 m/s (solid), 10 m/s (dotted), 20 m/s (dashed). 
+ 
+ 
+ 
+ 
+6

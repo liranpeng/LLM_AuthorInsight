@@ -1,0 +1,8 @@
+For some species like HCHO, the daytime loss frequency in
+the tropics is about 1/2 h−1 (see for example loss photolysis
+rates for various oxygenated hydrocarbons in Prather, 2015),
+and thus one might expect it to vary greatly over the sunlight
+day or with cloud variations. The diurnal change in 1-D dis-
+tributions of the 6 key species is also shown in Fig. 2 for the
+C-runs at 18 h (local solar time, red dashed), 24 h (dark blue
+dashed), and 30 h (green dashed). The C-runs are in approxi-

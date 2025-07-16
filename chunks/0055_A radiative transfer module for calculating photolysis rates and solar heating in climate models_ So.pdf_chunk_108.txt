@@ -1,0 +1,8 @@
+change relative to clear sky) for Solar-J and RRTMG-SW for
+the four SZAs used here. At overhead sun (SZA = 0◦) with
+the solar input at 1360.8 W m−2, the effect of this low-level
+marine stratus cloud (per Solar-J) is to reﬂect an additional
+473 W m−2 back to space, absorb an additional 88 W m−2
+in the atmosphere primarily within the cloud, and thus re-
+duce the surface heating from 969 to 408 W m−2. As in
+the clear-sky comparison, both models look broadly simi-

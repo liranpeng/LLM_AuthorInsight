@@ -1,0 +1,8 @@
+wind speeds from NCEP. A greater perturbation is used (+40%) to reduce noise in
+the stratosphere, where nudging is weak.
+Data availability
+Data from the modeling runs described in this paper are available in form of netcdf ﬁles
+with https://doi.org/10.11582/2023.00024 in the NIRD research data archive: https://
+archive.sigma2.no/pages/public/datasetDetail.jsf?id=10.11582/2023.00024.
+Code availability
+Custom code for this paper is available in the form of jupyter notebooks as version v0.1.0

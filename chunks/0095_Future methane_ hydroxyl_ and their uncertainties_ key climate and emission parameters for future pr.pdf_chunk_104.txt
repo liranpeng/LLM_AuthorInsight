@@ -1,0 +1,9 @@
+ric approaches, which are shown in Fig. 5, that produce zero
+or positive trends over the same period (Prather et al., 2001;
+Meinshausen et al., 2011a).
+Figure 6 identiﬁes the contribution of each variable to the
+total change in τCH4×OH. Rising atmospheric methane has the
+largest inﬂuence on τCH4×OH, but the positive methane feed-
+back effect (3.5 %) is more than compensated by negative
+climate and emission terms. Temperature and water vapor,
+which have increased due to GHGs, decrease τCH4×OH by

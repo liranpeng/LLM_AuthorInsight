@@ -1,0 +1,8 @@
+constant effective emission factor obviously neglects diurnal,
+seasonal, and regional inﬂuences on plume chemistry. In ad-
+dition, using this method underestimates NOx concentrations
+in ship tracks, since some NOx survives oxidation until the
+plume has expanded to the global grid resolution. To redress
+these shortcomings, Vinken et al. (2011) used a Gaussian
+plume chemistry model to calculate the dilution and chem-
+ical evolution of the exhaust over 5 h, at which point the

@@ -1,0 +1,7 @@
+Approximating Rayleigh scattering as isotropic, required in all 2-stream codes, fortunately has inconse-
+quential errors: all three global mean error metrics (reflection, atmospheric absorption, surface heating) are 
+measurable but within ±0.01 W m−2 (T1/R17). There is little systematic geographic or zenith angle errors 
+since the root-mean-square (rms) errors are ≤0.1 W m−2. This test was done with the 8-stream code.
+HSU AND PRATHER
+10.1029/2020MS002131
+10 of 24

@@ -1,0 +1,8 @@
+tions 3.1 and 3.2 will present and discuss radiative forcing
+calculations made by the University of Oslo radiative transfer
+model based on tropospheric and stratospheric ozone change,
+respectively. In order to allow for an estimate of the uncer-
+tainty related to radiative transfer calculations, additional ra-
+diative transfer models were invited to do the calculation.
+Section 3.3 will deal with results from the University of
+Reading and University of L’Aquila radiative transfer models

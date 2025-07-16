@@ -1,0 +1,6 @@
+resolution and on a zonally averaged one-degree resolution. The ﬁeld was gener-
+ated using data from https://www.esrl.noaa.gov/ using data from 67 stations. The
+open data includes monthly averages between 1989 and 2005. The data availability
+varies from station to station, so to create the averaged ﬁeld we used average
+monthly values for each month for each station. For each month those averages
+were fed into a LOWESS smoothing function with fractional smoothing of 0.5 to

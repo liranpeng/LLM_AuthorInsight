@@ -1,0 +1,12 @@
+exist an unlimited version, the unlimited data are marked as
+“NO DATA” or “−1”.
+The tests are grouped into six categories assessing the fol-
+lowing:
+1. numerical order of convergence using smooth Gaus-
+sian hills initial conditions,
+2. “minimal” resolution using cosine bell initial condi-
+tions,
+3. ability of the transport scheme to preserve ﬁlaments
+using cosine bells,
+4. ability of the transport scheme to transport “rough”
+distributions using slotted cylinder initial conditions,

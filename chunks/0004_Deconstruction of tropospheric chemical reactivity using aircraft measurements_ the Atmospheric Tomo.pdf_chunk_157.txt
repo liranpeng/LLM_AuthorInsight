@@ -1,0 +1,85 @@
+Table 4. Reactivity change (%) from MDS v2b to v3.
+ATom-1
+ATom-2
+ATom-3
+ATom-4
+ATom-1
+ATom-2
+ATom-3
+ATom-4
+Paciﬁc mean
+Paciﬁc median
+P-O3
+−1 %
+−1 %
+−6 %
+−3 %
+0 %
+−2 %
+−13 %
+−4 %
+L-O3
+0 %
+0 %
+−1 %
+0 %
+0 %
+0 %
+−1 %
+0 %
+L-CH4
+0 %
+0 %
+−2 %
+−2 %
+0 %
+2 %
+0 %
+0 %
+L-CO
+0 %
+0 %
+−3 %
+−1 %
+0 %
+−2 %
+−4 %
+−1 %
+Atlantic mean
+Atlantic median
+P-O3
+−1 %
+−8 %
+−2 %
+0 %
+0 %
+−16 %
+−2 %
+0 %
+L-O3
+0 %
+−1 %
+−1 %
+0 %
+0 %
+−3 %
+0 %
+0 %
+L-CH4
+0 %
+−2 %
+−1 %
+0 %
+0 %
+0 %
+0 %
+0 %
+L-CO
+0 %
+−2 %
+−1 %
+0 %
+0 %
+−3 %
+−1 %
+0 %

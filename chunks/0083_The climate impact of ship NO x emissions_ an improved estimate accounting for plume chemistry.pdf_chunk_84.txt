@@ -1,0 +1,8 @@
+reduce background OH and NOx and make ozone produc-
+tion more NOx sensitive, which is consistent with the di-
+rection of RF changes in the simulations. Our earlier work
+on climate forcing from aviation NOx similarly identiﬁed
+background NOx levels as a driver of model uncertainty. Al-
+though emission inventories are routinely updated and im-
+proved, reasonable inventories continue to differ by 10 %
+for NOx and 20 % for CO at the global level; differences

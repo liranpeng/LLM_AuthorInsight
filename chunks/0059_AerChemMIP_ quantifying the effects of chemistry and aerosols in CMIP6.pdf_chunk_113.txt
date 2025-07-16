@@ -1,0 +1,24 @@
+Reference
+2
+ssp370SST-lowO3
+AGCM CHEMT
+Reference
+Reference
+Clean
+2
+ssp370SST-lowCH4
+AGCM CHEMT
+Low
+Reference
+Reference
+2
+ssp370SST-ssp126Lu
+AGCM AER
+Reference
+Reference (anthropogenic)
+2
+take for models that include interactive schemes for emission
+and deposition. Not all models will model all these processes
+interactively. The simulation will be parallel to ssp370SST
+using the same WMGHGs and anthropogenic NTCF emis-
+sions, but with land use speciﬁed according to the SSP1-

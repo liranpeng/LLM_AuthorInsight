@@ -1,0 +1,11 @@
+15 mm × 15 mm × 250 mm, to characterize 3D droplet size and spatial distribution
+Cloud droplet probe
+SPEC Fast CDP using forward scattering to measure droplet size and number concentration of 2 to
+50 µm particles up to 2000 cm−3
+Table B14. Mini-MPCK.
+Instrument
+Brief description
+Weather sensors
+Aosong relative humidity (2 % RH accuracy) and temperature (0.1–1 K accuracy) sensor (0.2 Hz).
+Anemometer
+1D static tube with PT100 measuring wind speed and temperature at 100 Hz, wind speed range 3–

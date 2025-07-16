@@ -1,0 +1,4 @@
+codes to show that 1D minus 3D RT errors in heating and reflection were as large as 2-stream minus exact 
+multi-stream errors. Recent comparison of chemistry models with aircraft measurements (Hall et al., 2018) 
+showed that scattered light from neighboring clouds alters photolysis rates in clear-sky ICAs.
+While 3D RT codes are beyond reach for climate models, R. J. Hogan et al. (2016) developed the Speedy

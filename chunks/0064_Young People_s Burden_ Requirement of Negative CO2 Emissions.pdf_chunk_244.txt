@@ -1,0 +1,11 @@
+two versions of GISS modelE-R (Schmidt et al., 2014;
+Hansen et al., 2016).
+A7
+Earth’s energy Imbalance
+Hansen et al. (2011) inferred an Earth energy imbalance
+with the solar cycle effect removed of +0.75 ± 0.25 W m−2,
+based on an imbalance of 0.58 W m−2 during the 2005–
+2010 solar minimum, based on the analysis of von Schuck-
+mann and Le Traon (2011) for heat gain in the up-
+per 2 km of the ocean and estimates of small heat gains
+by the deep ocean, continents, atmosphere, and net melt-

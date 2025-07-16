@@ -1,0 +1,36 @@
+Table 4. Changes (2100−2010) in climate, emissions, and
+τCH4×OH for RCP 8.5∗.
+Variable
+Variable change
+τCH4×OH
+change, %
+Air temperature
++3.6 ± 0.9 K
+−4.2 ± 1.5
+Water vapor
++43.2 ± 9.5 %
+−12.9 ± 3.1
+Ozone column, 40◦S–40◦N
++0.7 ± 3.0 %
++0.4 ± 1.7
+Lightning NOx emissions
++10 ± 20 %
+−1.2 ± 3.3
+Biomass burning emissions
+−34.8 %
++0.5 ± 0.3
+CH4 abundance
++78.2 ± 8.4 %
++28.9 ± 7.4
+Anthropogenic emissions
+Land NOx
+−75.3 %
++11.2 ± 2.5
+Ship NOx
+−7.2 %
++0.2 ± 0.1
+Aircraft NOx
++123 %
+−1.7 ± 0.4
+CO
+−44.0 %

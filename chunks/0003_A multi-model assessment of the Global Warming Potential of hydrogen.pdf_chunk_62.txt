@@ -1,0 +1,8 @@
+lations rather than direct measures. Hydrogen leakages will lead
+to global warming, and it will be important to keep these leakages
+at a minimum to accomplish the beneﬁts of switching to a
+hydrogen economy. Therefore, it will be important to develop
+instruments for leakage detection for monitoring, so we can get a
+better picture of how large these leakages are today.
+Methods
+Model simulations. For calculations of GWP from steady state and to investigate

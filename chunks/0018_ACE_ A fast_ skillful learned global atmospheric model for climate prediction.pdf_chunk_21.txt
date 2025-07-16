@@ -1,0 +1,6 @@
+but using both horizontal resolution and dynamics time step that are 2x coarser. This mimics the
+typical climate modeling strategy for faster simulation: use coarser resolution at the cost of accuracy.
+Three metrics are used for evaluation: the time-dependent area-weighted global mean and the
+area-weighted global mean bias and RMSE of time-mean fields. These are defined in Appendix C.
+2.4
+Random seed ensemble

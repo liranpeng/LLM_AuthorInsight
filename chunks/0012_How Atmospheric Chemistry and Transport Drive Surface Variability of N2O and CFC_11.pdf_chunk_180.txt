@@ -1,0 +1,19 @@
+3 
+ 
+ 
+Supplementary Figure S3.  Surface F11X change (ppb/yr) composites centered on the QBO phase 
+transition at 40 hPa, see Figure 3.  F11 is typically measured in mole fraction parts per trillion (ppt), but 
+to directly compare with the N2OX composites and highlight the larger magnitude, we rescale surface 
+F11X to a mean tropospheric abundance of 320 ppb.  Note, the scale of the F11X colorbar is twice that 
+of the N2O/N2OX composites in Figure 3.    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4

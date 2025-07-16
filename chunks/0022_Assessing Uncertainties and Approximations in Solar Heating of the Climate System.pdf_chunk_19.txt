@@ -1,0 +1,5 @@
+2.  Evolving Solar RT Codes
+Many of the case studies here follow the ongoing efforts of the scientific community to improve the solar 
+heating codes in current climate models. Most of this work is occurring within the major climate modeling 
+centers. For example, the U.S. Department of Energy's Energy Exascale Earth System Model (E3SM) is 
+implementing a new toolbox that seeks to balance accuracy, efficiency, and flexibility in the solar RT code

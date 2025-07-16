@@ -1,0 +1,9 @@
+Moreover, by bringing an operational culture to climate modeling
+and climate information provision, EVE helps compensate for well-
+known shortcomings (short-term focus in both career and idea
+development) of academic culture.
+(12) How would EVE ensure data quality
+and accessibility?
+EVE would address issues related to quality assurance,
+trustworthiness, etc., of data (model output and observations) in
+three important and novel ways. Foremost for data quality and

@@ -1,0 +1,7 @@
+https://doi.org/10.5194/acp-23-99-2023
+Atmos. Chem. Phys., 23, 99–117, 2023
+112
+H. Guo et al.: Heterogeneity and chemical reactivity
+Figure 4. Histograms of probability densities (PDs) of NOx (0–12 km, a), NOx (0–4 km, b), HOOH (0–12 km, c), and HCHO (0–12 km, d)
+for the three tropical regions (central Paciﬁc, eastern Paciﬁc, and Atlantic). The ATom-1 data are plotted on top of the six global chemistry
+models’ results for a day in mid-August and sampled as described in Fig. 3.

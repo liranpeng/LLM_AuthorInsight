@@ -1,0 +1,7 @@
+2CECI, CERFACS – CNRS, UMR5318, Toulouse, France
+3Department of Earth System Science, University of California, Irvine, USA
+4Laboratoire d’Aérologie, University of Toulouse – CNRS, UMR5560, Toulouse, France
+Correspondence to: Bojan Siˇc (bojanovmejl@gmail.com)
+Received: 26 February 2016 – Published in Atmos. Meas. Tech. Discuss.: 7 April 2016
+Revised: 20 September 2016 – Accepted: 22 September 2016 – Published: 22 November 2016
+Abstract. In this study, we describe the development of

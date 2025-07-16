@@ -1,0 +1,8 @@
+Schultz, M.: Current status of the ability of the GEMS/MACC
+models to reproduce the tropospheric CO vertical distribution
+as measured by MOZAIC, Geosci. Model Dev., 3, 501–518,
+https://doi.org/10.5194/gmd-3-501-2010, 2010.
+Engel, A., Bönisch, H., Brunner, D., Fischer, H., Franke, H., Gün-
+ther, G., Gurk, C., Hegglin, M., Hoor, P., Königstedt, R., Krebs-
+bach, M., Maser, R., Parchatka, U., Peter, T., Schell, D., Schiller,
+C., Schmidt, U., Spelten, N., Szabo, T., Weers, U., Wernli, H.,

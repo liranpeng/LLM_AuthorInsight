@@ -1,0 +1,11 @@
+istry to global change.
+7
+Code and data availability
+The full raw ATom data set was ﬁrst posted short-term
+on the NASA ESPO ATom website (https://espo.nasa.gov/
+atom/content/ATom, NASA ESPO, 2023). The ﬁnal archive
+for the ATom data and merged data sets will be at Oak
+Ridge National Laboratory (ORNL) (see https://daac.ornl.
+gov/ATOM/guides/ATom_merge.html, Wofsy et al., 2021).
+The MDS and RDS data sets together with the MAT-
+LAB codes and some intermediate data used in this anal-

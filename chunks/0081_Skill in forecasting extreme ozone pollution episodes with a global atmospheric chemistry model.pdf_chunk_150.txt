@@ -1,0 +1,10 @@
+test different decades from the ACCMIP climate simulations
+to detect a shift in such episodes that falls outside the ex-
+pected variations.
+6
+Conclusions
+In evaluating a future scenario for air quality, one can iden-
+tify four major contributing factors: (1) global emissions
+that alter atmospheric composition and thence baseline levels
+(lowest percentiles) of near-surface O3 and particulate matter
+(PM); (2) global changes in climate that also alter these base-

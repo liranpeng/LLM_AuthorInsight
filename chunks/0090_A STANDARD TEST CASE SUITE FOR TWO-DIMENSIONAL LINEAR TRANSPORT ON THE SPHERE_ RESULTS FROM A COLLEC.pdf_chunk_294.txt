@@ -1,0 +1,11 @@
+test-case integrations on the 1.5◦, 0.75◦and 0.67◦meshes;
+for reference this corresponds to time steps of 1350 s, 675 s
+and 576 s on the earth radius sphere. For the divergent ﬂow
+test case, second-order centered ﬂuxes are used for density.
+A12
+SBC
+The SBC scheme is implemented on a regular latitude–
+longitude grid where the number of zonal grid point is nx =
+www.geosci-model-dev.net/7/105/2014/
+Geosci. Model Dev., 7, 105–145, 2014
+140

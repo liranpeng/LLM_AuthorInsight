@@ -1,0 +1,10 @@
+by aerosols and clouds as uniform across the major bin (see
+Sect. 2.2). The ﬁdelity of the spectral extension of Solar-J to
+match RRTMG-SW is veriﬁed with the clear-sky case pre-
+sented in Sect. 3.1.
+2.2
+Clouds and aerosols
+Like the photolysis rates calculated in Cloud-J, the heat-
+ing rates in RRTMG-SW and Solar-J are highly sensitive to
+the scattering and absorption from tropospheric and strato-
+spheric aerosols, and from liquid-water and ice-water clouds.

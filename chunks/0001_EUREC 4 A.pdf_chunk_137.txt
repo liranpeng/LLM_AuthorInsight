@@ -1,0 +1,5 @@
+B. Stevens et al.: EUREC4A
+4083
+Figure 13. Lidar proﬁling of the lower atmosphere using the CORAL lidar at the Barbados Cloud Observatory. The upper panel (a) shows
+the relative humidity in the lower 5 km over the entirety of the campaign. The lower panel (b) shows (from left to right) show the speciﬁc
+humidity over a 4 h period marked by a large intrusion of cloud layer air on 2 February and the associated aerosol/cloud backscatter. Also

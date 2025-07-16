@@ -1,0 +1,10 @@
+negative net RF for ROAD in 2050 A1B, the relatively large
+standard deviation indicates that the magnitude and even the
+sign of the net forcing is uncertain.
+4
+Synthesis of RF in various scenarios
+We present here a synthesis of transport-induced RF in var-
+ious scenarios based on results from the same set of atmo-
+spheric chemistry models, each using the same setup and
+emissions data. The models and setup have been described in
+Myhre et al. (2011), H2011, and Sect. 2 in this paper, while

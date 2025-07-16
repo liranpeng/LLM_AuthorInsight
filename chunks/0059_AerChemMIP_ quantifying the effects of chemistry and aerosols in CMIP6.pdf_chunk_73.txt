@@ -1,0 +1,8 @@
+For aerosol and tropospheric ozone precursor emissions the
+model simulations will span 1850–2014, and for halocarbons
+the simulations will span 1950–2014, since halocarbons only
+signiﬁcantly increased after 1950. The latter experiments will
+Geosci. Model Dev., 10, 585–607, 2017
+www.geosci-model-dev.net/10/585/2017/
+W. J. Collins et al.: AerChemMIP: quantifying the effects of chemistry and aerosols in CMIP6
+591

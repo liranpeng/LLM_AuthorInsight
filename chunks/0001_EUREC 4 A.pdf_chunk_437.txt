@@ -1,0 +1,9 @@
+https://doi.org/10.25326/165 [data set], 2021.
+Stevens, B. and Schwartz, S. E.: Observing and Modeling Earth’s
+Energy Flows, Surv. Geophys., 33, 779–816, 2012.
+Stevens, B., Ackerman, A. S., and Albrecht, B. A.: Simulations of
+Trade Wind Cumuli under a Strong Inversion , J. Atmos. Sci., 58,
+1870–1891, 2001.
+Stevens, B., Lenschow, D. H., and Faloona, I.: On entrainment rates
+in nocturnal marine stratocumulus, Q. J. Roy. Meteorol. Soc.,
+129, 3469–3493, 2003.

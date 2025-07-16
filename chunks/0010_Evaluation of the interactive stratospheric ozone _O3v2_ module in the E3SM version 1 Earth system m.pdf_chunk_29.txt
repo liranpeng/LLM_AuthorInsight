@@ -1,0 +1,8 @@
+trol and run it through to the end of 2014. For the analysis
+here, we focus on the last 20 years of the EAM O3v2 run and
+skip the ﬁrst 5 years as spin-up. The UCI CTM hindcast sim-
+ulation covers the years 1990–2017. The UCI CTM is driven
+by 24 h forecasts that were initialized with observationally
+assimilated data and spun up for 12 h, and thus it is capable of
+simulating time-speciﬁc observations, and we compare these
+with ozone observations for those simulated years. One ad-

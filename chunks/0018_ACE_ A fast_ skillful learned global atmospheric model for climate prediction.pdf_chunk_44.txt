@@ -1,0 +1,6 @@
+NCAR Community Atmosphere Model (CAM 3.0). Technical report, UCAR/NCAR, 2004.
+[8] Veronika Eyring, Sandrine Bony, Gerald A. Meehl, Catherine A. Senior, Bjorn Stevens, Ronald J.
+Stouffer, and Karl E. Taylor. Overview of the coupled model intercomparison project phase
+6 (CMIP6) experimental design and organization. Geoscientific Model Development, 9(5):
+1937–1958, May 2016. doi:10.5194/gmd-9-1937-2016.
+[9] Yoo-Geun Ham, Jeong-Hwan Kim, and Jing-Jia Luo. Deep learning for multi-year ENSO

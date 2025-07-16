@@ -1,0 +1,8 @@
+November 2007.
+doi:10.1016/j.jcp.2007.07.022.
+[18] M. Raissi, P. Perdikaris, and G.E. Karniadakis. Physics-informed neural networks: A deep
+learning framework for solving forward and inverse problems involving nonlinear partial
+differential equations.
+Journal of Computational Physics, 378:686–707, February 2019.
+doi:10.1016/j.jcp.2018.10.045.
+[19] Kevin E. Trenberth, John T. Fasullo, and Jessica Mackaro. Atmospheric moisture transports

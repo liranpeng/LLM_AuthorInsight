@@ -1,0 +1,7 @@
+biogeochemical processes in soils (for example, biological nitrogen 
+fixation, nitrification/denitrification, mineralization/immobilization, 
+etc.)93, some missing processes such as freeze–thaw cycles and ecosys-
+tem disturbances should be included in terrestrial biosphere models 
+to reduce uncertainties. Second, the quality of input datasets—specifi-
+cally the amount and timing of nitrogen application, and spatial and 
+temporal changes in distribution of natural vegetation and agricultural

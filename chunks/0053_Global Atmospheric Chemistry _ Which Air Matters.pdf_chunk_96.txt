@@ -1,0 +1,5 @@
+observations below the cutoff at 0.1 ppt. Five different times are shown for the C-run: local noon (12 h), sunset (18 h), midnight (24 h), sunrise
+(30 h), and the following noon (36 h). Also shown is the A-run at noon (12 h, same as C-run) and the following noon (A 36 h). The numbers
+of moles of the species in the domain are given in the legend.
+tion, but in many cases a line ﬁt simply does not describe the
+heterogeneity (Köppe et al., 2009).

@@ -1,0 +1,85 @@
+GSFC
+0
+0.12
+0.24
+0.13
+0.15
+0.16
+GC
+0
+0.29
+0.17
+0.17
+0.18
+NCAR
+0
+0.24
+0.24
+0.24
+UCI
+0
+0.08
+0.08
+U2015
+0
+0.08
+U1997
+0
+GFDL
+GISS
+GSFC
+GC
+NCAR
+UCI
+U2015
+U1997
+www.atmos-meas-tech.net/11/2653/2018/
+Atmos. Meas. Tech., 11, 2653–2668, 2018
+2658
+M. J. Prather et al.: Reactivity of short-lived greenhouse gases
+0
+1
+2
+3
+4
+5
+200
+400
+600
+800
+1000
+P−O3  (ppb/day)
+Pressure (hPa)
+ 
+ 
+0
+1
+2
+3
+4
+5
+200
+400
+600
+800
+1000
+L−O3  (ppb/day)
+0
+0.5
+1.0
+1.5
+2.0
+200
+400
+600
+800
+1000
+L−CH4 (ppb/day)
+0
+2
+4
+6
+8
+x 10
+−3
+200

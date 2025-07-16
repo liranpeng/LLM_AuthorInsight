@@ -1,0 +1,8 @@
+G2023) calculated the reactivities for all 10 s air parcels from
+the ﬁrst deployment ATom-1 (29 July–23 August 2016) and
+compared their statistics with six global chemistry models’
+sample days in mid-August. Note that the ﬁrst published ver-
+sion (Guo et al., 2021) was withdrawn due to some errors in
+the reactivities and is corrected with G2023.
+Here we report reactivities for all four seasonal deploy-
+ments (ATom-1234; see Fig. 1) and examine how their sta-

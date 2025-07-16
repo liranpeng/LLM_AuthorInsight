@@ -1,0 +1,5 @@
+chlorine sink (noGEO‐noCl), no geologic emissions with a high chlorine sink (noGEO‐highCl), low geologic
+emissions with no chlorine sink (lowGEO‐noCl), and low geologic emissions with a high chlorine sink
+(lowGEO‐highCl) (Table 2).
+In the model simulations for acetylene and ethane, boreal (90–50°N) and non‐boreal (90°S to 50°N) biomass
+burning emissions can vary independently. Greenland exhibits very high sensitivity to emissions from boreal

@@ -1,0 +1,30 @@
+Sun,
+Z.
+and
+Rikus,
+L.:
+Parametrization
+of
+effective
+sizes
+of
+cirrus-cloud
+particles
+and
+its
+veriﬁcation
+against
+ob-
+servations,
+Q.
+J.
+Roy.
+Meteor.
+Soc.,
+125,
+3037–3055,
+https://doi.org/10.1002/qj.49712556012, 1999.
+Telford, P. J., Abraham, N. L., Archibald, A. T., Braesicke, P.,
+Dalvi, M., Morgenstern, O., O’Connor, F. M., Richards, N. A.
+D., and Pyle, J. A.: Implementation of the Fast-JX Photoly-
+sis scheme (v6.4) into the UKCA component of the MetUM

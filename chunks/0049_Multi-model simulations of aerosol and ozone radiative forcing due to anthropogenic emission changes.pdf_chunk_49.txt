@@ -1,0 +1,9 @@
+BC radiative forcing does not respond linearly to emissions.
+The forcing efﬁciency of BC is generally higher over regions
+of southern and eastern Asia (increasing emissions) than over
+Europe and the USA (decreasing emissions); see Haywood
+and Ramaswamy (1998).
+Figure 5a and b show the geographical distribution of the
+multi-model mean 1990–2015 radiative forcing of the direct
+Atmos. Chem. Phys., 17, 2709–2720, 2017
+www.atmos-chem-phys.net/17/2709/2017/

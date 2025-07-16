@@ -1,0 +1,10 @@
+fourth-order hyperviscosity coefﬁcients for climate simula-
+tion in CAM (see Appendix A2 for details).
+3
+Results
+In this section the results for the transport schemes that par-
+ticipated in this comparison are presented and discussed.
+Horizontal resolutions are speciﬁed in terms of average grid
+spacing at the Equator. The test case suite works with three
+resolutions 1λ : 1.5◦, 0.75◦, and 1λm (the latter is scheme
+dependent and deﬁned in Sect. 3.2), where λ denotes the lon-

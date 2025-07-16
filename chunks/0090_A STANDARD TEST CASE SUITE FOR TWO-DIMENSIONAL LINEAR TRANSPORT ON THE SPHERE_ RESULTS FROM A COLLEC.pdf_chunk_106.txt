@@ -1,0 +1,10 @@
+ND). Obviously, any set of parcels can be traced. LPM traces
+quadrilaterals of a cubed-sphere mesh or the triangles of an
+icosahedral triangular mesh by both tracing the centers and
+vertices of the control volumes. The parcel trajectories are
+computed using a fourth-order Runge–Kutta method.
+2.5
+Series-expansion methods
+Transport scheme algorithms in which the solution is pro-
+jected onto a set of basis functions through a minimization
+procedure are broadly referred to as series-expansion meth-

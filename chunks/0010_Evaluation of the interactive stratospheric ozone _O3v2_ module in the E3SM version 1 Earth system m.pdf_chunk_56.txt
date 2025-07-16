@@ -1,0 +1,8 @@
+nual mean, but only June and October plus the annual mean
+are included in Fig. 4. We avoid the lowermost stratosphere
+where zonal variability is large and restrict ourselves to a
+pressure range of 100 to 0.2 hPa (approximately 16 to 50 km
+altitude). The goal in terms of matching the ozone proﬁles
+(not usually quantiﬁed) was to get peak ozone above 10 ppm
+at 10 hPa in the tropics and the slightly upturned contours
+(i.e., at 5 hPa the 6 ppm contours extend over a wider latitude

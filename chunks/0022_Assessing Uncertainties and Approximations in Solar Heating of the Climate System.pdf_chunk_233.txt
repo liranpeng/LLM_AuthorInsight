@@ -1,0 +1,4 @@
+Li, J., & Ramaswamy, V. (1996). Four-stream spherical harmonic expansion approximation for solar radiative transfer. Journal of the At-
+mospheric Sciences, 53(8), 1174–1186.
+Li, J., Scinocca, J., Lazare, M., McFarlane, N., von Salzen, K., & Solheim, L. (2006). Ocean surface albedo and its impact on radiation bal-
+ance in climate models. Journal of Climate, 19(24), 6314–6333.

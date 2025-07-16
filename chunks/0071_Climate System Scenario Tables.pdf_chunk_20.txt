@@ -1,0 +1,23 @@
+NH3	
+ammonia
+CO	
+carbon monoxide
+NMVOC	 a class of compounds comprising all non-methane volatile 
+organic compounds (i.e., hydrocarbons that may also contain 
+oxygen, also known as biogenic VOC or NMHC)
+OH	
+hydroxyl radical
+PM2.5	
+any aerosols with diameter less than 2.5 μm
+BC	
+black carbon aerosol
+OC	
+organic carbon aerosol
+SO2	
+sulphur dioxide, a gas
+SOx	
+oxidized sulphur in gaseous form, including SO2
+SO4
+=	
+sulphate ion, usually as sulphuric acid or ammonium sul­
+phate in aerosol

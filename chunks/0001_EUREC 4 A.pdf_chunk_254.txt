@@ -1,0 +1,11 @@
+state
+Aerosol mass spectrometer
+Aerodyne AMS, bulk chemical composition of non-refractory aerosol (d < 1 µm)
+Bioaerosol sensor
+Wideband Integrated Bioaerosol Sensor (WIBS-4M) measuring aerosol size distribution, three-
+channel ﬂuorescence, and particle asymmetry
+Aerosol ﬁlter measurements
+Mass concentrations of dust and soluble ions collected daily using high volume sampling
+Aerosol composition
+Aerosol collection for ofﬂine analysis of mixing state and size-resolved composition
+Anemometer

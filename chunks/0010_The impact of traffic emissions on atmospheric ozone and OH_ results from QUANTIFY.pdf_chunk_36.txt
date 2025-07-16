@@ -1,0 +1,8 @@
+with 2002 as spin-up. Each participating model calculated
+the chemical state of the atmosphere for present day condi-
+tions using all emissions as described above. The perturba-
+tion simulations were performed by reducing the emission of
+each individual transport sector by 5% (see Table 3). This
+relatively small reduction was applied to avoid nonlinear re-
+sponses of the chemical system which would occur by set-
+ting the respective emissions to zero. To check for linearity a

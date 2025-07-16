@@ -1,0 +1,6 @@
+explicitly. The radiative forcing calculations are made by the UiO-RTM, and the tropopause level is based on the NCEP year 2000 reanalysis.
+1850 and 2000. In general, the net forcing from stratospheric
+ozone change is negative in middle to high latitudes, with
+magnitudes increasing with latitude. In low latitudes, how-
+ever, the net radiative forcing can be positive. This is where
+the ozone depletion is located at rather high altitudes result-

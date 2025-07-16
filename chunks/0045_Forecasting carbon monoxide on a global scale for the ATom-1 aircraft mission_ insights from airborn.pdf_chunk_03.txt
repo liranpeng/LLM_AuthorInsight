@@ -1,0 +1,8 @@
+Model simulations provide a valuable tool for interpreting
+these measurements and understanding the origin of the ob-
+served trace gases and aerosols, so it is important to quan-
+tify model performance. Goddard Earth Observing System
+Model version 5 (GEOS-5) forecasts and analyses show con-
+siderable skill in predicting and simulating the CO distribu-
+tion and the timing of CO enhancements observed during
+the ATom-1 aircraft mission. We use GEOS-5’s tagged trac-

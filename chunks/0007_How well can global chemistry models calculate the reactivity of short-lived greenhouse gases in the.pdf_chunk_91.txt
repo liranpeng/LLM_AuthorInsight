@@ -1,0 +1,8 @@
+to be rearranged so that the pairing of clouds and solar zenith
+angles were the same in both cases. The start-at-midnight
+version has larger reactivities by at most 1 % with no changes
+in the J-values as expected for the protocol (e.g., keeping the
+morning clouds in the morning for both calculations). The
+rms differences between the two cases are 2–10 times less
+than the year-to-year differences. We conclude that the initia-
+tion time produces discernible differences but not at the level

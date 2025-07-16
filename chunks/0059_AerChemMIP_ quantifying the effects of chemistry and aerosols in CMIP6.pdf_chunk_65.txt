@@ -1,0 +1,8 @@
+interactive tropospheric chemistry, the Tier 1 ...NTCF and
+Tier 2 . . . Aer simulations will be identical, and so only need
+to be run once. Models capable of running with both interac-
+tive chemistry and aerosols should do so for all experiments.
+To participate in AerChemMIP, climate models must be
+run for the CMIP DECK and CMIP6 historical (atmosphere–
+ocean simulation with forcings evolving over 1850–2014)
+experiments with the same setup as in AerChemMIP, i.e. with

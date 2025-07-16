@@ -1,0 +1,8 @@
+optimal value for the coefﬁcient scaling this diffusion term
+based on qualitative evaluation of results from other tests is
+used (see Skamarock and Gassmann, 2011).
+The time stepping is based on a three-stage Runge–Kutta
+method. Hence the ﬂux operators are evaluated at three inter-
+mediate time levels for a full tracer time step update. Shape
+preservation is obtained by applying the FCT limiter/ﬁlter
+during the ﬁnal Runge–Kutta stage within a given time step.

@@ -1,0 +1,35 @@
+RCP2.6
+(b)
+IPCC
+0
+5
+10
+Emissions (ppm yr   )
+20.0
+13.0
+10.9
+3.2
+-1
+-1
+-1
+-1
+-1
+Figure 9. Fossil fuel emission scenarios. (a) Scenarios with simple speciﬁed rates of emission increase or decrease. (b) IPCC (2013) RCP
+scenarios. Note: 1 ppm atmospheric CO2 is ∼2.12 GtC.
+1850
+1900
+1950
+2000
+2050
+2100
+ 300
+ 400
+ 500
+ 600
+ 700
+ 800
+2 % yr    increase (860 ppm)
+Constant               (547 ppm)
+3 % yr    decrease (416 ppm)
+6 % yr    decrease (386 ppm)
+Atmospheric CO2 without/with CO2 extraction

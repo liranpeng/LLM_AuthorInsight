@@ -1,0 +1,11 @@
+TRAQA
+data
+(doi:10.6096/MISTRALS-ChArMEx.998)
+(Piguet and Perrin, 2013) and the LOAC TRAQA data
+(doi:10.6096/MISTRALS-ChArMEx.833) (Renard, 2012).
+The user must register before having access to the data. The
+MODIS/Aqua and MODIS/Terra Atmosphere L2 Aerosol
+Products (MYD04-C51 and MOD04-C51) were acquired
+from the Level-1 & Atmosphere Archive and Distribu-
+tion System (LAADS) Distributed Active Archive Center
+(DAAC, http://ladsweb.nascom.nasa.gov) (Hsu et al., 2008).

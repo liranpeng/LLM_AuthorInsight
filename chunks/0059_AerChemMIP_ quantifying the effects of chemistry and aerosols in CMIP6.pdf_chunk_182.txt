@@ -1,0 +1,13 @@
+The
+future
+land-use
+ERF
+calculations
+(ssp370SST-
+ssp126Lu) in AerChemMIP (Sect. 3.2.2) parallel the full cli-
+mate land-use perturbation (ssp370-ssp126Lu) in LUMIP. If
+the same model conﬁgurations are used for both, this will al-
+low direct quantiﬁcation of the efﬁcacy of land-use changes.
+We recommend that the AER CHEM conﬁguration with
+AerChemMIP diagnostics be used for the C4MIP 1 % yr−1
+CO2 RAD and BGC experiment in order to explore fully

@@ -1,0 +1,8 @@
+comparisons. Note that both CCMI and AeroCom will con-
+tribute with their model evaluation experience and will feed
+selected observational data sources into the Earth System
+Model Evaluation Tool (ESMValTool; Eyring et al., 2016b;
+Righi et al., 2015). The ESMValTool will run – together with
+other evaluation tools such as the Program for Climate Model
+Diagnosis and Intercomparison (PCMDI) metrics package
+(PMP, Gleckler et al., 2016) – alongside the Earth System

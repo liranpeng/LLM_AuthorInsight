@@ -1,0 +1,6 @@
+www.atmos-chem-phys.net/17/9081/2017/
+M. J. Prather et al.: Global atmospheric chemistry – which air matters
+9093
+Table 2. Representativeness of reactivities (L-CH4, L-O3, and P-O3 – all in ppb day−1) averaged over three latitude and three pressure
+domains over the central Paciﬁc (155–233◦E). The ﬁrst standard deviation (ppb day−1) is over the different longitudinal transects on mid-
+August; and the second (%) is for the average across longitudes sampled over 31 days of August.

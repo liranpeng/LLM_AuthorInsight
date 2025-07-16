@@ -1,0 +1,8 @@
+alkyl nitrates), HOOH, ROOH (CH3OOH and smaller contri-
+bution from C2H5OOH), HCHO, CH3CHO (acetaldehyde),
+C3H6O (acetone), CO, CH4, C2H6, alkanes (all C3H8 and
+higher), alkenes (all C2H4 and higher), aromatics (benzene
++ toluene + xylene), and C5H8 (isoprene + terpenes).
+We also add p (hPa), T (K), q (g-H2O kg-air−1), and lat-
+itude and longitude to make up the 23 key variables in each
+air parcel. Some collectives like alkanes may be treated as

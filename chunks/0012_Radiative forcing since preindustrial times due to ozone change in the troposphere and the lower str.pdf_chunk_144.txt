@@ -1,0 +1,7 @@
+tive forcing due to changes in stratospheric ozone between
+www.atmos-chem-phys.net/6/575/2006/
+Atmos. Chem. Phys., 6, 575–599, 2006
+592
+M. Gauss et al.: Radiative forcing due to ozone changes between 1850 and 2000
+Fig. 7. Adjusted radiative forcing (Wm−2) between 1850 and 2000 due to stratospheric ozone change (between the tropopause and 30 km
+altitude), taking into account chemical change only (“2 minus 1c”). Results are shown only for models that calculate stratospheric chemistry

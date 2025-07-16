@@ -1,0 +1,5 @@
+codes in climate models, it would be useful to establish some standard, community-wide, satellite-based 
+cloud overlap models (H. W. Barker, 2008; Bankert et al., 2015; Ham et al., 2015; Kato et al., 2010; Tomp-
+kins & Giuseppe, 2015) along with a simple ICA generator (e.g., M. J. Prather, 2015) to provide a basis 
+for comparisons.
+11.	Monte Carlo or other ICA averaging, level 1. Using cloud quadrature QCAs to average over ICAs

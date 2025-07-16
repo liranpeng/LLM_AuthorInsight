@@ -1,0 +1,8 @@
+see Eq. 24 in LSPT2012), especially for schemes allow-
+ing for long time steps (CN > 1) such as (semi-)Lagrangian
+schemes. CSLAM, for example, was run with CN = 1.0 and
+CN = 5.5. It is observed that as the time step is reduced
+with CSLAM, the absolute errors increase since an increased
+number of remappings implies increased spatial errors until
+the distribution can be represented by the polynomial recon-
+struction functions (Fig. 1, row 1 and 2). Since the CSLAM

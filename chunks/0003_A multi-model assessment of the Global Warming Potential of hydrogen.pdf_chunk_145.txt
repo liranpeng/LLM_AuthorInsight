@@ -1,0 +1,7 @@
+AM4.1: model description and simulation characteristics. J. Adv. Model. Earth
+Syst. 12, https://doi.org/10.1029/2019MS002032 (2020).
+Acknowledgements
+We would like to thank Jean-François Lamarque for providing the WACCM results and
+for his valuable input to the study. This study was supported by the HYDROGEN project
+grants no. 320240 funded by Energix and the Norwegian Research Council. Parts of the
+simulations were performed on resources provided by Sigma2 - the National Infra-

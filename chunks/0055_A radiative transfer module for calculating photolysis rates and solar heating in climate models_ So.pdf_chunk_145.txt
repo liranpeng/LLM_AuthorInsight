@@ -1,0 +1,8 @@
+individual grid cells with fractional, overlapping cloud lay-
+ers. Although 3-D RT models can be used to solve for the
+average heating and photolysis rates, most climate mod-
+els decompose the cloud structures into ICAs, for example,
+through cloud-resolving models (Khairoutdinov et al., 2005)
+or from cloud fractional coverage and a decorrelation dis-
+tance for overlapping cloud layers (Prather, 2015). The ICAs
+are horizontally homogeneous and can be solved using the

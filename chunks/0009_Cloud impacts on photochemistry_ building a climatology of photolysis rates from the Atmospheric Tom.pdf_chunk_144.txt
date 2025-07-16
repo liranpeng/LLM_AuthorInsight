@@ -1,0 +1,8 @@
+https://doi.org/10.1029/98JD02397, 1998.
+Briegleb, B. P.: Delta-Eddington approximation for solar radiation
+in the NCAR community climate model, J. Geophys. Res., 97,
+7603–7612, 1992.
+Burkholder, J. B., Sander, S. P., Abbatt, J., Barker, J. R., Huie, R. E.,
+Kolb, C. E., Kurylo, M. J., Orkin, V. L., Wilmouth, D. M., and
+Wine, P. H.: Chemical kinetics and photochemical data for use in
+atmospheric studies, Evaluation No. 18, JPL Publication 15–10,

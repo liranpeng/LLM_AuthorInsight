@@ -1,0 +1,4 @@
+We implement the same calculation in two simulations driven by two multiyear sets of ECMWF-IFS data
+that have distinctly diﬀerent stratospheres in terms of the strength of the Brewer-Dobson circulation, lateral
+mixing, and consequently age-of-air and N2O lifetime. In each simulation, our geographically resolved O3
+STE derived from the tropospheric column budget agree well with one another as long as the STE boundary

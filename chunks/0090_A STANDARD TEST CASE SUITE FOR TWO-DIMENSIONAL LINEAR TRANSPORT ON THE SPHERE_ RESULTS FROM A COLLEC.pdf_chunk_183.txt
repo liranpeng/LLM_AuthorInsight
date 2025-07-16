@@ -1,0 +1,9 @@
+ents. Note that this metric will not capture if the location of
+the ﬁlaments is incorrect (phase errors).
+3.4
+Transport of “rough” distribution: slotted cylinder
+To assess how schemes perform with a rough (discontinu-
+ous) initial condition, we show contour plots of solutions at
+t = T /2 for slotted-cylinder initial conditions and the same
+non-divergent ﬂow as used in all tests above. The slotted
+cylinder has been used extensively in the solid-body ad-

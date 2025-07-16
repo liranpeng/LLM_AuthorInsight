@@ -1,0 +1,8 @@
+tion relative to its steady-state lifetime (Prather, 1994, 1996).
+A measure of this chemical feedback is the sensitivity calcu-
+lated here, dln[L-CH4]/dln[CH4] (percentage per percent-
+age). These sensitivities, for all ATom-1 10 s parcels includ-
+ing continental data, are plotted vs. L-CH4 as small black
+dots in Fig. 69. The basin-mean values are shown for the Pa-
+ciﬁc (large red dot, 0.76 % per percentage) and the Atlantic
+(large blue dot, 0.80 % per percentage). The number we want

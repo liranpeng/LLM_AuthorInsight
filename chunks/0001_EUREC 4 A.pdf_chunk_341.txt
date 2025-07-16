@@ -1,0 +1,11 @@
+4 , K+, Mg+
+2 , Ca+
+2 , organic carbon, elemental carbon, and trace
+elements (aerosol inlet)
+Particle sizer
+DMPS and TSI 3321APS measuring number and size distributions 0.02 to 10 µm (aerosol inlet)
+Particle sizer
+TSI 3025A, 3760A, and 3010 measuring number concentrations > 3, 13, and 13 nm (aerosol inlet)
+Nephelometer
+TSI 3563 nephelometer measuring aerosol light scattering and backscattering at 60 % relative humid-
+ity by splitting light into 450, 550, and 700 nm wavelengths (aerosol inlet)

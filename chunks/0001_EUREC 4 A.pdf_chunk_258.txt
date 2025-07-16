@@ -1,0 +1,10 @@
+Thermometer
+Sea-Bird SBE-56 fast-sampling temperature recorder measuring sea surface temperature every 1 min
+(in buoy hull)
+Thermometer
+Sea-Bird SBE-39 recording seawater temperature every 5 min (on mooring line at 5, 15, 20, 30, 35,
+45, 50, 60, 65, 75, 80, 90, 100, and 110 m)
+Thermometer
+Star-Oddi Starmon measuring seawater temperature every 10 min (on mooring line at 110–160 m,
+10 m intervals)
+Wave height sensor

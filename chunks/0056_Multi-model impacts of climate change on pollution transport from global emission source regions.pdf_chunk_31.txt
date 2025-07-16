@@ -1,0 +1,9 @@
+the same driving global climate model (GCM); however,
+their advection schemes differ substantially since STOC-
+HadAM3 is the only model to use a Lagrangian approach
+to simulate transport processes. Deep convection schemes
+used by the models are based on two main parameter-
+isations: Gregory and Rowntree (1990) for GISS-E2-R,
+UM-CAM, and STOC-HadAM3; and Zhang and McFar-
+lane (1995) for CMAM. In addition, STOC-HadAM3 uses
+Collins et al. (2002) to derive using convective mass ﬂuxes

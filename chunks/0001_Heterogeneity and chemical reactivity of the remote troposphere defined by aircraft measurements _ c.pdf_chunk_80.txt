@@ -1,0 +1,15 @@
+(a) 149 133 records × 675 csv columns, 10 s
+merges of ﬂight data plus chemistry &
+environmental measurements
+(b) 6991 records × 729 csv columns, 30–120 s
+intervals to ﬁll ﬂasks
+(c) 12 168 records × 727 csv columns, 35 s
+intervals of instrument
+Core source of ATom measurements.
+Irregular and difﬁcult formatting,
+extremely long asci records, large
+negative integers or “NA” for some
+non-data.
+Modeling data stream (MDS-2b)
+(a) ATom_MDS2b.nc
+(a) netCDF ﬁle containing regularly spaced

@@ -1,0 +1,10 @@
+tion to learn as much as possible from the EUREC4A mea-
+surements and that the importance of supporting such efforts
+is recognized by funding agencies. We also acknowledge the
+imperative this creates to make the hard-won data easy to ac-
+cess and use, e.g., through data papers, and to also commu-
+nicate what we learned from our efforts, as widely and freely
+as possible.
+5
+Data availability
+A standardized (CF-1.8 compliant) track data set provides

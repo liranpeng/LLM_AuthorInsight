@@ -1,0 +1,10 @@
+values. We identiﬁed this problem in P2018 and thought it
+was solved, but perhaps it is not. Inclusion of the F0AM
+model with its extensive hydrocarbon oxidation mechanism
+provided an interesting contrast with the simpler chemistry in
+the global CCM/CTMs. For a better comparison of the chem-
+ical mechanisms, we should have F0AM use 5 d of photoly-
+sis ﬁelds from one of the CTMs. The anomalous GISS re-
+https://doi.org/10.5194/acp-21-13729-2021
+Atmos. Chem. Phys., 21, 13729–13746, 2021
+13744

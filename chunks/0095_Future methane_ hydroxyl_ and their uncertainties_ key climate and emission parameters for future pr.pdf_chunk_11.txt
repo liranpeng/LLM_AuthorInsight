@@ -1,0 +1,8 @@
+Global climate model (GCM) simulations with atmo-
+spheric chemistry provide another method for predicting fu-
+ture methane and other chemically reactive GHGs. An en-
+semble of such models can provide a range of future methane
+abundances for a single scenario (e.g. Atmospheric Chem-
+istry and Climate Model Intercomparison Project (ACCMIP)
+Lamarque et al., 2012), spanning some, but likely not all, fu-
+ture uncertainties. This approach is computationally expen-

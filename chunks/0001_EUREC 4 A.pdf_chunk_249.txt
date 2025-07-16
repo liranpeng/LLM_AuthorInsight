@@ -1,0 +1,9 @@
+Doppler velocity, spectral width, differential reﬂectivity, copolar correlation coefﬁcient, and differen-
+tial propagation phase
+Rain radar
+Metek Micro Rain Radar operating at 24 GHz to measure rain rate, liquid water content, and drop
+velocity
+Raman lidar (CORAL)
+A vertically staring backscatter lidar with attenuated backscatter at 355, 387, 407, 532, and 1064 nm
+measuring particle backscatter at 355 nm, water vapor mixing ratio, temperature, and humidity
+Wind lidar

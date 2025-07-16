@@ -1,0 +1,5 @@
+ison Project Phase 5 (CMIP5) [Eyring et al., 2013]. Here we are able to diagnose accurate STE of O3 based on
+the TC and LS methods to verify if the BD approximation is valid.
+Here O3 STE is diagnosed in two separate simulations driven by two diﬀerent cycles (29r1 versus 36r1) of
+ECMWF-IFS data over similar time periods (see section 2.1). For each simulation, the O3 STE calculated by the
+TC method uses the tropopause deﬁned by the synthetic tracer e90 [Prather et al., 2011] and serves as the

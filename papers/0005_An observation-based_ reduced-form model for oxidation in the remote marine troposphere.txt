@@ -1,0 +1,4 @@
+Title: An observation-based, reduced-form model for oxidation in the remote marine troposphere
+
+Abstract:
+Significance The hydroxyl radical (OH) controls tropospheric methane loss rates. Global or hemispheric annual mean methane loss rates are currently inferred from observations of well-mixed gases, such as methyl chloroform. The short OH lifetime (1 to 2 s) and associated sharp spatiotemporal variations limit constraints on global models and understanding of “why” globally integrated OH fluctuates. From airborne measurements and steady-state chemistry, we develop a proxy to infer OH spatial variations and their sensitivity to individual photochemical drivers over 30 different regions in the remote marine troposphere. Two terms, water vapor and nitric oxide, contribute most of the within-region proxy variations, implying that a limited set of observations could serve as bellwethers of changing atmospheric oxidation patterns.

@@ -1,0 +1,8 @@
+than the frequency at which clouds form and air is processed
+through them (on the order of 24 day−1), the average J is the
+relevant quantity for chemistry modeling.
+A next step would be to model at high-enough resolution
+so that air parcels are either cloudy or clear. This could re-
+solve the 3-D correlation of clouds at scales of 1–4 km, which
+will in turn require a 3-D radiative transfer model (Norris et
+al., 2008; Davis and Marshak, 2010). A more interesting ap-

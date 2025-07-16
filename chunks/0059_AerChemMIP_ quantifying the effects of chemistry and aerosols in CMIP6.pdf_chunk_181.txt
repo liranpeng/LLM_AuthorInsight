@@ -1,0 +1,14 @@
+semble members as Tier 2. A total of three members (using
+the AerChemMIP model conﬁguration) are required as the
+baseline for the AerChemMIP future experiments. We rec-
+ommend that the AER CHEM conﬁguration with AerChem-
+MIP diagnostics be used for as many as possible of the other
+ScenarioMIP experiments in order to understand the range
+of possible future evolution of aerosols, reactive gases and
+surface air quality concentrations.
+The
+future
+land-use
+ERF
+calculations
+(ssp370SST-

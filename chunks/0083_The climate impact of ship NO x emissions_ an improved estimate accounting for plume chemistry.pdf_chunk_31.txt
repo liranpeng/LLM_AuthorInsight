@@ -1,0 +1,15 @@
+sists of a short-lived O3 component (FO3) that decays within
+months after emissions and long-lived CH4 and O3 compo-
+nents that persist for over a decade (FCH4 and Flong-O3, re-
+spectively):
+F = FO3 + FCH4 + Flong-O3.
+(1)
+We calculate these components in steady state from the CTM
+output using a similar decomposition as Holmes et al. (2011):
+FO3 = (d[O3]/dE)(dF/d[O3])1E,
+(2)
+FCH4 = (dlnτtotal/dE)f [CH4](dF/d[CH4])S1E,
+(3)
+and
+Flong-O3 = aFCH4/S,
+(4)

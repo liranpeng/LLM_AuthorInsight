@@ -1,0 +1,9 @@
+https://doi.org/10.5194/acp-11-5457-2011, 2011.
+Petropavlovskikh, I., Shetter, R., Hall, S., Ullmann, K., and Bhar-
+tia, P. K.: Algorithm for the charge-coupled-device scanning ac-
+tinic ﬂux spectroradiometer ozone retrieval in support of the
+Aura satellite validation, J. Appl. Remote Sens., 1, 013540,
+https://doi.org/10.1117/1.2802563, 2007.
+PhotoComp: Chapter 6 – Stratospheric Chemistry SPARC Report
+No. 5 on the Evaluation of Chemistry-Climate Models, 194–202,
+2010.

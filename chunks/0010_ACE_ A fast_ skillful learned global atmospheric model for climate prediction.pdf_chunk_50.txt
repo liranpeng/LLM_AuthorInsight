@@ -1,0 +1,11 @@
+Morteza Mardani, Thorsten Kurth, David Hall, Zongyi Li, Kamyar Azizzadenesheli, Pedram
+Hassanzadeh, Karthik Kashinath, and Animashree Anandkumar. Fourcastnet: A global data-
+driven high-resolution weather model using adaptive fourier neural operators. arXiv, 2022.
+doi:10.48550/ARXIV.2202.11214.
+[17] William M. Putman and Shian-Jiann Lin.
+Finite-volume transport on various cubed-
+sphere grids.
+Journal of Computational Physics,
+227(1):55–78,
+November 2007.
+doi:10.1016/j.jcp.2007.07.022.

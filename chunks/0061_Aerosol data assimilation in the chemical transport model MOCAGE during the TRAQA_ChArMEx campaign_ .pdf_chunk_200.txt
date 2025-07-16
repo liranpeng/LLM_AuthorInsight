@@ -1,0 +1,8 @@
+Milly, G., Faluvegi, G., Balkanski, Y., Collins, W. J., Conley,
+A. J., Dalsoren, S., Easter, R., Ghan, S., Horowitz, L., Liu, X.,
+Myhre, G., Nagashima, T., Naik, V., Rumbold, S. T., Skeie, R.,
+Sudo, K., Szopa, S., Takemura, T., Voulgarakis, A., Yoon, J.-H.,
+and Lo, F.: Radiative forcing in the ACCMIP historical and fu-
+ture climate simulations, Atmos. Chem. Phys., 13, 2939–2974,
+doi:10.5194/acp-13-2939-2013, 2013.
+Siˇc, B., El Amraoui, L., Marécal, V., Josse, B., Arteta, J., Guth, J.,

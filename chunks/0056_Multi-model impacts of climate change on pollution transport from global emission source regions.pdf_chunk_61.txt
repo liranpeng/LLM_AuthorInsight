@@ -1,0 +1,4 @@
+14225
+Figure 4. Top panels within subplots (a–d): present-day (1995–2006) DJF 10-year climatological mean CO-tracer distribution, averaged over
+400–800 hPa. Bottom panels: differences between 2090–2099 (RCP 8.5) and 1995–2006 (present day) DJF climatological mean CO-tracer
+distributions, wherein black contours denote the present-day climatology. Results are presented for (a) UM-CAM and (b) STOC-HadAM3

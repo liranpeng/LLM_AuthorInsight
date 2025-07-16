@@ -1,0 +1,11 @@
+to characterize the mesoscale cloud patterns from GOES-
+16, MODIS, or ASTER satellite observations (Stevens et al.,
+2019b; Mieslinger et al., 2019; Bony et al., 2020; Denby,
+2020; Rasp et al., 2021), will make it possible to test cloud-
+feedback mechanisms and advance understanding of the pro-
+cesses underlying the formation of the mesoscale cloud pat-
+terns, as well as whether they inﬂuence the hypothesized
+feedback mechanisms.
+3.2
+Quantifying processes inﬂuencing warm-rain
+formation

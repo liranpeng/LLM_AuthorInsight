@@ -1,0 +1,8 @@
+a non-divergent ﬂow ﬁeld, the area of the sphere for which
+the mixing ratio distribution is above a threshold value τ is
+invariant. Measure ℓf quantiﬁes how much of the initial con-
+dition area, for which the mixing ratio φ is larger than τ, is
+preserved. By plotting ℓf as a function of τ, one can examine
+how gradients are diffused or steepened and how uniform that
+damping of gradients is. This test was found particularly use-
+ful to identify how some ﬁlters, and limiters tend to perturb

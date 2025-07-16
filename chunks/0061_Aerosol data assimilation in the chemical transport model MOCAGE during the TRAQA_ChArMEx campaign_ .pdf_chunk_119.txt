@@ -1,0 +1,10 @@
+that the single AOD assimilation cycle expands the proﬁle
+but does not change its shape, something that multiple cy-
+cles and the model propagation of the increment do. Fig. 9d
+shows the back trajectories of air parcels at different heights
+at the location corresponding to Fig. 9c, and conﬁrms that
+the aerosols on different levels come from different direc-
+tions and regions where they have been already assimilated
+in previous cycles.
+6.6
+The proﬁle evolution

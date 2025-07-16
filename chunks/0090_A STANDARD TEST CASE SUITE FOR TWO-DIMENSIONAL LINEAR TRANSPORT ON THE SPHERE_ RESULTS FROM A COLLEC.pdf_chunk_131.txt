@@ -1,0 +1,27 @@
+CN1.0, HOMME, SFF-CSLAM4, SLFV-ML/SL, MPAS,
+ICON). Common for the schemes that converge asymptoti-
+cally throughout the resolution range is that they converge at
+rates equal to or less than two, K2 ≤2, except for the third-
+order CSLAM, SFF-CSLAM3, and CCSRG schemes that
+Geosci. Model Dev., 7, 105–145, 2014
+www.geosci-model-dev.net/7/105/2014/
+P. H. Lauritzen et al.: Results from standard test case suite
+117
+10-6
+10-5
+10-4
+10-3
+10-2
+10-1
+100
+101
+0.1875°
+0.375°
+0.75°
+1.5°
+3°
+l∞
+∆λ
+10-7
+10-6
+10-5

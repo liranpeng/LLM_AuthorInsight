@@ -1,0 +1,4 @@
+in these studies, the net stratospheric inﬂux is a small residual with a large uncertainty range as a result of
+balancing the three large terms that are inconsistently calculated among climate-chemistry models (CCMs;
+see Table 2 in Young et al. [2013]). The inferred STE calculated from the tropospheric ozone photochemistry
+budget is also found to be sensitive to the choice for the upper boundary of the troposphere (see Table 2

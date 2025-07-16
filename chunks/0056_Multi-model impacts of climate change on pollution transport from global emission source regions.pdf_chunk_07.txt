@@ -1,0 +1,10 @@
+CO-tracer mixing ratios over biomass burning regions and
+smaller mixing ratios downwind.
+1
+Introduction
+The transport of pollutants from the atmospheric bound-
+ary layer is governed by meteorological processes including
+deep convection, Hadley-cell-driven overturning in the trop-
+ics, and mid-latitude cyclones, as well as slow low-altitude
+airﬂow, small-scale turbulent mixing, and other motions (e.g.
+Cooper et al., 2011; TF-HTAP, 2010). Climate change may

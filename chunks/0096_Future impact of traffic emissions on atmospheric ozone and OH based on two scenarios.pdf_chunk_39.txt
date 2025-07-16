@@ -1,0 +1,4 @@
+each of these transport modes. In the right column, solid white contour lines show the percentage change relative to the BASE simulation
+while the dashed black line indicates the tropopause. Note that different scales have been used for each of the trafﬁc sectors and that the
+scales have been reversed in order to show O3 reductions, arising from a 5 % decrease in emissions, as positive numbers.
+large grid box (e.g., Meijer et al., 1997; Kraabøl et al., 2002;

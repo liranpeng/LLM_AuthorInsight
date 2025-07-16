@@ -1,0 +1,38 @@
+www.atmos-meas-tech.net/9/5535/2016/
+B. Siˇc et al.: Aerosol data assimilation in the CTM MOCAGE
+5537
+Table 1. Bin ranges of individual primary aerosol species present in MOCAGE.
+Bin 1
+Bin 2
+Bin 3
+Bin 4
+Bin 5
+Bin 6
+Desert dust (µm)
+0.1–1
+1–2.5
+2.5–5
+5–10
+10–30
+30–100
+Sea salt (µm)
+0.003–0.13
+0.13–0.3
+0.3–1
+1–2.5
+2.5–10
+10–20
+Black carbon (µm)
+0.0001–0.001
+0.001–0.003
+0.003–0.2
+0.2–1
+1–2.5
+2.5–10
+Organic carbon (µm)
+0.0005–0.003
+0.003–0.1
+0.1–0.3
+0.3–1
+1–2.5
+2.5–10

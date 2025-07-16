@@ -1,0 +1,10 @@
+use statistical measures of the three reactivities in the three
+tropical basins: mean proﬁles in Fig. 3 and PDs in Fig. 5.
+4.3.1
+Proﬁles
+For P-O3 proﬁles (top row, Fig. 3), the agreement between
+models and measurements is passable except for the 0–2 km
+region in both the central and eastern Paciﬁc, where the mod-
+els fail to predict the observed 2 ppb d−1 O3 production. In
+the central Paciﬁc at 3–12 km, ATom-1 results agree with
+models, showing ozone production of about 1 ppb d−1. In

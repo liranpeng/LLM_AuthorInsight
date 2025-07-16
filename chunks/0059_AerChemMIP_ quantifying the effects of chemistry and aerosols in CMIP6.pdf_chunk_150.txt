@@ -1,0 +1,8 @@
+models. If possible AOT should be output for sulfate, organic
+matter, dust, sea salt, black carbon, and nitrate at ambient rel-
+ative humidity. In the case of internal mixed aerosol modes,
+total AOT shall be distributed according to the volume of the
+dry aerosol species present in the mixed aerosol mode. The
+sum of speciated AOT from all species simulated should be
+equal to total AOT at any given point in time and space.
+Providing 3-D ﬁelds of mass mixing ratios and AOT con-

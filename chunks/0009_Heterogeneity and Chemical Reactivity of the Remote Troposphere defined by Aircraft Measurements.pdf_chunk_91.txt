@@ -1,0 +1,6 @@
+lightning-produced NOx in the upper troposphere. The ATom
+Atmos. Chem. Phys., 21, 13729–13746, 2021
+https://doi.org/10.5194/acp-21-13729-2021
+H. Guo et al.: Heterogeneity and chemical reactivity of the remote troposphere
+13737
+Figure 1. Sorted reactivities (P-O3, L-O3, L-CH4, ppb/d) for the Paciﬁc and Atlantic domains of ATom-1. Each parcel is weighted; see text.

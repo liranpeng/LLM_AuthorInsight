@@ -1,0 +1,16 @@
+the schemes discussed so far use, the SOM method carries
+ﬁve prognostic variables. The extra forecasted variables are
+moments of the tracer distribution. The UCISOM scheme
+has been implemented on a regular latitude–longitude grid
+and on an equiangular gnomonic cubed-sphere (referred to
+as UCISOM and UCISOM-CS, respectively).
+2.2
+(Semi-)Lagrangian ﬁnite volume
+A (semi-)Lagrangian ﬁnite-volume scheme is typically based
+on the form
+D
+Dt
+Z
+A(t)
+ρ φ dA = 0,
+(8)

@@ -1,0 +1,5 @@
+nonlinear processes in hydrology, cloud systems, ecosystem productivity, and air quality in Earth system 
+models (e.g., Pincus & Stevens, 2013).
+With a deterministic ICA generator, we can calculate an "exact" non-stochastic answer as was done for 
+limited test cases in M. J. Prather (2015), but we could not afford to do this for our January climate met-
+ric. Solar-J identifies and sorts all ICAs by cloud optical depth and then selects up to four representative

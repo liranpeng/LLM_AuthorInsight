@@ -1,0 +1,11 @@
+Figure 21. Curtain plots of L-CO (ppb d−1) in the tropical eastern Paciﬁc (0–30◦N) for ATom-1234. See Fig. 6.
+The sensitivity S of reactivity R to species X is calcu-
+lated from the fractional change in R per fractional change in
+X (dimensionless, e.g., percentage per percentage). We use
+1 = 10 %.
+S ≡d{ln(R)}
+d{ln(X)} = ln(R [X · (1 + 1)]/R[X])
+ln(1 + 1)
+(1)
+Results from 20 variables (19 chemical species plus T ) for
+the four reactivities over the Paciﬁc and Atlantic basins for

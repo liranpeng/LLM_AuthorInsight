@@ -1,0 +1,21 @@
+tropopause which is used to distinguish stratospheric and tro-
+pospheric air (Prather et al., 2011; Abalos et al., 2017). Con-
+vective mass ﬂux and zonal (u) wind data (available for three
+Atmos. Chem. Phys., 17, 14219–14237, 2017
+www.atmos-chem-phys.net/17/14219/2017/
+R. M. Doherty et al.: Multi-model impacts of climate change on pollution transport
+14223
+pressure [hPa]
+ pressure [hPa]
+pressure [hPa]
+pressure [hPa]
+pressure [hPa]
+ pressure [hPa]
+pressure [hPa]
+ pressure [hPa]
+0
+0.2
+0
+0.2
+0
+0.2

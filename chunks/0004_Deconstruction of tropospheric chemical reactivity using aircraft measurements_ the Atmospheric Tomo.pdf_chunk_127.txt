@@ -1,0 +1,18 @@
+−0.007
+–0.053
+−0.048
+–0.086
+−0.010
+−0.045
+−0.041
+/dlnMeNO3
+0.007
+0.001
+0.002
+0.001
+0.004
+0.000
+0.001
+0.001
+Sensitivities are calculated as S = dln[R]/dln[X] (percentage per percentage) with a 10 % perturbation being applied to all 10 s parcels.
+Q is H2O and was perturbed 10 % like all the chemical species. T is an exception, with a 1 % perturbation being used, and thus

@@ -1,0 +1,8 @@
+(OMPS) on NASA’s Suomi National Polar-orbiting Partner-
+ship (NPP) satellite (Flynn et al., 2018). The missing daily
+TCO data due to bad orbits and polar night are ﬁlled with the
+assimilated data from the Modern-Era Retrospective anal-
+ysis for Research and Applications (MERRA) (Rienecker
+et al., 2011). Based on these daily TCO data, the NASA
+Ozone Watch website (https://ozonewatch.gsfc.nasa.gov, last
+access: 29 May 2020) compiles the daily records of the

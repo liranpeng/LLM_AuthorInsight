@@ -1,0 +1,12 @@
+account chemical change only (“2 minus 1c”) and both chemical and climate change (“2 minus 1”). The results are based on ozone changes
+calculated by the ULAQ model in its native grid extending up to 71 km altitude. When comparing with Tables 4 and 5 it has to be noted that
+the results presented in Table 6 include the height range between 30 km and 71 km and that the tropopause used by ULAQ differs slightly
+from that used by the UiO-RTM.
+DU T
+DU S
+SW T
+SW S
+LW T
+LW S
+Net T
+Net S

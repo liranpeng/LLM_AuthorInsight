@@ -1,0 +1,9 @@
+An-
+other inquiry is to test some of the published, simpler models
+for water vapor absorption against RRTMG-SW. A larger
+project will be to put Solar-J into a climate model and eval-
+uate how errors in modeling solar radiation may affect the
+climate simulations.
+Code availability. The most recent version of Solar-J can be found
+at ftp://128.200.14.8/public/junoh/Solar-J/. A complete version of
+Solar-J code and data, along with some stand-alone test cases, is

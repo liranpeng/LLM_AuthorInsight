@@ -1,0 +1,8 @@
+of Fast-J can be found at ftp://128.200.14.8/public/prather/
+Fast-J/. Cloud-J 7.3c as described here is included as a zip ﬁle
+and includes new coding to correct failures in compilation or
+execution (v7.3b) as well as reducing the cloud correlation
+factor when there are decorrelation-length gaps between any
+of the MAX-COR groups (v7.3c). Although with v7.3c some
+J values changed in the third decimal place, changes in the
+GMDD ﬁgures and tables were undiscernible. Subscribe to

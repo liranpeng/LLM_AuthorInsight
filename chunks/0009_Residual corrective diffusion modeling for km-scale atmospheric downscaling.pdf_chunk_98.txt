@@ -1,0 +1,8 @@
+Learning Representations (ICLR) (2021).
+51. Batzolis, G., Stanczuk, J., Schönlieb, C.-B. & Etmann, C.
+Conditional image generation with score-based diffusion
+models. arXiv preprint arXiv:2111.13606 (2021).
+52. Rombach, R., Blattmann, A., Lorenz, D., Esser, P. & Ommer,
+B. High-resolution image synthesis with latent diffusion
+models. In Proceedings of the IEEE/CVF conference on computer
+vision and pattern recognition, 10684–10695 (2022).

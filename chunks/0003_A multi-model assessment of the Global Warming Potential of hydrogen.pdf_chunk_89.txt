@@ -1,0 +1,17 @@
+the lifetime of the emitted species50,51. This is because when a constant emission
+perturbation has reached steady state, it contains perturbations from pulses of all
+ages at one time. The pulse integration result is equal to a simple comparison
+between forcing changes per burden change in steady state runs with control and
+constant emission changes scaled with the emitted species lifetime.
+AGWPi H
+ð Þ ¼
+τH2
+ΔBurdenH2
+∑
+FC ERFssPerturbed
+iFC
+ ERFssControl
+iFC
+
+
+ð5Þ

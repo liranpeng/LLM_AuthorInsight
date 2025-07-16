@@ -1,0 +1,10 @@
+not worrisome, but the systematic shifts in HOOH and NOx
+are a concern. The P2017 experiments showed that, averaged
+over an ocean basin, the reactivities with all processes run-
+ning for 24 h vs. the ATom protocol were similar. A protocol
+that slowly removed HOOH and added NOx is tempting but
+would require some arbitrary parameterizations.
+2.3
+Outline
+Latitude-by-altitude curtain plots of the reactivities along
+ﬂight tracks are presented in Sect. 3 along with reactivity

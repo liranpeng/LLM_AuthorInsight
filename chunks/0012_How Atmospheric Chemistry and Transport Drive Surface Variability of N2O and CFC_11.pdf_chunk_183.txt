@@ -1,0 +1,32 @@
+ppb for direct comparison.  Note, the scale of the F11X colorbar is twice that of N2O/N2OX. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+ 
+ 
+Table S1.  Taylor statistics (Standard deviation, root-mean square error, correlation coefficient) for each of the 
+composites of the six standard QBOs and their domains (northern and hemispheres; Figures 3 and S3) compared 
+with NOAA N2O observations. 
+Dataset/Domain/Tracer 
+Std. dev. 
+RMSE w/ NOAA 
+Correlation w/ NOAA 
+NOAA N2O 
+0.038 
+- 
+- 
+NOAA NH N2O 
+0.016 
+- 
+-

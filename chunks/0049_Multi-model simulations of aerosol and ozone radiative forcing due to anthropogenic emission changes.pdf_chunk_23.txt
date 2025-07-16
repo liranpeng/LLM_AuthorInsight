@@ -1,0 +1,39 @@
+(2012); Neale et
+MAM3,
+monthly
+al. (2010); Wang
+MOZART)
+varying ﬁxed
+et al. (2013)
+SSTs and sea
+ice
+ECHAM6-
+T63
+Climatological
+Included for semi-
+Sulfate, BC,
+Stevens et al.
+HAM2
+(1.8 × 1.8),
+monthly varying
+direct effect, cloud–
+POA
+(2013); Zhang et
+L31
+ﬁxed SST and
+aerosol interactions
+al. (2012)
+sea ice extent
+on liquid water
+averaged for the
+clouds (no
+period 1979 to
+parameterised effects
+2008
+on ice clouds or
+convective clouds)
+EMEP
+0.5◦× 0.5◦
+2010 met
+Included for semi-
+Sulfate, nitrate,

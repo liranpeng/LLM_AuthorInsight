@@ -1,0 +1,7 @@
+8
+COMMUNICATIONS EARTH & ENVIRONMENT |  (2023) 4:203 | https://doi.org/10.1038/s43247-023-00857-8 | www.nature.com/commsenv
+Table 5 summarize the changes in atmospheric composition and effective radiative
+forcing due to hydrogen only (PERT_H2-CTRL), and methane only (PERT_CH4-
+CTRL), respectively.
+For total ozone, stratospheric water vapor, and aerosols, radiative forcing is
+calculated ofﬂine for the PERT_H2 and PERT_CH4 relative to CTRL.

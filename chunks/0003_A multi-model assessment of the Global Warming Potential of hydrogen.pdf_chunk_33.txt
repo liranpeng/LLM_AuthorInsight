@@ -1,0 +1,7 @@
+integrated radiative forcing to a 1 kg pulse emission of a gas over
+100 years. Since hydrogen perturbs many gases, we have summed
+all forcing contributions, assuming that all perturbations from the
+initial hydrogen pulse have decayed, so the steady-state calcula-
+tion will match the integrated transient (see Methods). Figure 4
+shows the hydrogen GWP100 values for all models, split into the
+contribution from methane, ozone, and stratospheric water

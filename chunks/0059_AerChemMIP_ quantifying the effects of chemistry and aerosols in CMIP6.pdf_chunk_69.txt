@@ -1,0 +1,9 @@
+els should use their own schemes for natural emissions. The
+WMGHGs (methane, nitrous oxide, halocarbons) will be
+speciﬁed as CMIP-speciﬁed concentrations, either through-
+out the troposphere or at the surface.
+We also realise that valuable contributions to answering
+the AerChemMIP scientiﬁc questions can be made by groups
+unable to participate in CMIP6, such as those running ofﬂine
+CTMs. Participation from these groups is welcomed and en-
+couraged in the wider Chemistry-Climate Model Initiative

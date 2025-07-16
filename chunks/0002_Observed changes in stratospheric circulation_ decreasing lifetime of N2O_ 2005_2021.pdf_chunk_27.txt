@@ -1,0 +1,9 @@
++0.4 % K−1, and combined with the observed temperature
+trend of about −0.5 K/decade (Maycock et al., 2018), we es-
+timate that the trend in J from temperature-dependent cross
+sections is −0.2 %/decade and thus a small contribution to
+the total. The overall trend in J of about −1 %/decade re-
+duces the N2O loss and makes the disagreement between the
+burden and loss trends even greater.
+Given that N2O loss is increasing faster than the global
+burden by +2.1 %/decade, we expect that the N2O abun-

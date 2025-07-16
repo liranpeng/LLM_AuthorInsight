@@ -1,0 +1,9 @@
+lesser extent for temperature on 10–50 km length scales.
+Temperature downscaling is an easier task that is expected to be
+mostly driven by sub-grid variations in topography that can be
+learned deterministically from the static grid embeddings.
+Evidently, synthesizing radar from only indirectly related inputs is
+the task that most benefits from the corrective diffusion component
+of CorrDiff.
+Fig. 1: Comparing power spectra and distributions.
+[image]

@@ -1,0 +1,8 @@
+(between 30 and 50%) was mostly caused by differences in
+NOy removal mechanisms between the models.
+[4] However, it is not clear from these previous studies
+how much NOy is exported from a given region, nor where
+regional emissions are ultimately deposited. The work
+described here is the first to use results from a series of
+multi-model experiments to quantify the impact of emis-
+sions of NOx from each of four regions on the others, and

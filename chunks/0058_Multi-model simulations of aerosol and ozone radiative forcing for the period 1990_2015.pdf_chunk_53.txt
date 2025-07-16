@@ -1,0 +1,8 @@
+forcing over the period (Fig. 4d). The model range in nitrate
+forcing is presently larger than for other aerosol compounds
+(Myhre et al., 2013a; Shindell et al., 2013a). The strong ni-
+trate forcing in the GISS model, which is likely too strong
+(Shindell et al., 2013a), explains the weak and negative total
+direct aerosol effect found here. Conversely, NorESM, show-
+ing the highest total direct aerosol forcing, is without nitrate
+aerosols. This model also shows the strongest BC forcing

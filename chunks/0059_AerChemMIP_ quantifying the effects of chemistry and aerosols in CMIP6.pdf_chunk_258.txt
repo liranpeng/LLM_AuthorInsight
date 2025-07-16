@@ -1,0 +1,8 @@
+aerosol forcing control historical global-mean surface tempera-
+ture change in CMIP5 models?, J. Climate, 28, 6608–6625, 2015.
+Schnell, J. L., Prather, M. J., Josse, B., Naik, V., Horowitz, L.
+W., Cameron-Smith, P., Bergmann, D., Zeng, G., Plummer, D.
+A., Sudo, K., Nagashima, T., Shindell, D. T., Faluvegi, G.,
+and Strode, S. A.: Use of North American and European air
+quality networks to evaluate global chemistry-climate model-
+ing of surface ozone, Atmos. Chem. Phys., 15, 10581–10596,

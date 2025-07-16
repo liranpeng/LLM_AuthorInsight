@@ -1,0 +1,8 @@
+to as HOMME (High-Order Methods Modeling Environ-
+ment). HOMME is a dynamical core framework that cur-
+rently accommodates spectral element (Thomas and Loft,
+2005; Dennis et al., 2005), discontinuous Galerkin meth-
+ods (Nair, 2005; Nair et al., 2009), and ﬁnite-volume meth-
+ods (Erath et al., 2012) on conforming quadrilateral grids
+on a sphere. A gnomonic cubed-sphere grid deﬁnes the el-
+ements, and each element is populated with Gauss–Lobatto–

@@ -1,0 +1,26 @@
+AGWPi H
+ð Þ ¼
+1
+mem
+i
+Z H
+0
+ERFi tð Þdt
+ð3Þ
+Hydrogen does not have a direct radiative forcing, but it has various indirect
+forcing effects (i.e., methane, ozone, and stratospheric water vapor). These forcing
+terms (i) are summed:49
+AGWPi H
+ð Þ ¼
+1
+mem
+i
+∑
+FC
+Z H
+0
+ERFiFC tð Þdt
+ð4Þ
+Where ERFiFC tð Þ is the effective radiative forcing for compound FC caused by the
+pulse of species i in the model.
+Following the transient decay of emissions in a CTM can be difﬁcult as one

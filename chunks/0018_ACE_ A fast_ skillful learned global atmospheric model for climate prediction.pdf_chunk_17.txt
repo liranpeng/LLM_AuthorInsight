@@ -1,0 +1,10 @@
+path computed as TWP = 1
+g
+P
+k qT
+k dpk. For clarity, the daily average is plotted.
+they are predicted by the same architecture that predicts the prognostic variables one can enforce
+physical constraints such as moisture conservation which affect prognostic model weights. This
+is different than some previous approaches which use a separate model to predict precipitation [16].
+Data Normalization
+Variables are normalized using a “residual scaling” approach such that

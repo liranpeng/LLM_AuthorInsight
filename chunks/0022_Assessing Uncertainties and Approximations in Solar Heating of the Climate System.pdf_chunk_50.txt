@@ -1,0 +1,4 @@
+troposphere) and much is absorbed in the stratosphere. SJ uses 3 narrow bands to resolve the rapid changes 
+in O3 optical depth and attenuation of sunlight as well as a fourth narrow band to 345 nm where transmis-
+sion is controlled by Rayleigh scattering. This level of resolution is necessary to calculate photolysis rates. 
+The Rayleigh optical depth (mostly tropospheric) drops rapidly from 1.0 at 300 nm to 0.04 at 700 nm. For

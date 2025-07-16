@@ -1,0 +1,10 @@
+Citation: Sanderson, M. G., et al. (2008), A multi-model study of
+the hemispheric transport and deposition of oxidised nitrogen,
+Geophys. Res. Lett., 35, L17815, doi:10.1029/2008GL035389.
+1.
+Introduction
+[2] Oxidised nitrogen compounds, collectively referred to
+as NOy (here, NOy is the sum of the concentrations of NO,
+NO2, NO3, HNO3, HO2NO2, NO3, 2  N2O5, organic
+nitrates and nitrate aerosols) play a central role in the
+chemistry of the atmosphere, particularly ozone formation

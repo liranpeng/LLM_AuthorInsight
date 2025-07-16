@@ -1,0 +1,8 @@
+tions for several Cloud-J species have been recalculated to
+account for this. Be aware that these rescaled cross sections
+apply to Cloud-J versions 7.4 and later. Cloud-J remains a
+key component of Solar-J, as it produces representative sam-
+ples of independent column atmospheres after considering
+the topology of cloud fractions (Prather, 2015). Solar-J has
+27 major bins, referred to here as S-bins, e.g., S1–S27 in
+Table 4. Bins S1–S17 are taken directly from Cloud-J and

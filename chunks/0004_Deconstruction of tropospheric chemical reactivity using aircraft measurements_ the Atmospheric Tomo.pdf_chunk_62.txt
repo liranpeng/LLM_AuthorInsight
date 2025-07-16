@@ -1,0 +1,77 @@
+2.14
+67 %
+16 %
+5 %
+S. Ocean
+J-O1D
+ATom-3
+0.79
+0.75
+1.04
+1.32
+1.43
+66 %
+17 %
+6 %
+S. Ocean
+J-O1D
+ATom-4
+0.03
+0.03
+0.05
+0.07
+0.08
+71 %
+22 %
+7 %
+Antarctic
+J-O1D
+ATom-3
+0.50
+0.43
+0.66
+0.90
+0.98
+66 %
+18 %
+6 %
+Antarctic
+J-O1D
+ATom-4
+0.00
+0.00
+0.01
+0.01
+0.01
+99 %
+45 %
+16 %
+J-NO2
+J value
+Deployment
+Avg J
+Median J
+Avg J (1 × 10−2 s−1) in
+Fraction of total J in
+1 × 10−2 s−1
+1 × 10−2 s−1
+top 50
+top 10
+top 3
+top 50
+top 10
+top 3
+Paciﬁc
+J-NO2
+ATom-1
+0.48
+0.52
+0.61
+0.71
+0.75
+64 %
+15 %
+5 %
+Paciﬁc
+J-NO2
+ATom-2

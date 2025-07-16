@@ -1,0 +1,10 @@
+and standard deviation (σ) are noted. The assimilated data corre-
+spond to the period of the TRAQA campaign from 25 June until 13
+July 2012, and cover the MEDI02 domain.
+ations of 200 is reached. The analysis increment is added at
+the beginning of each assimilation cycle.
+6.1
+Performance of the assimilation
+In Fig. 1 we evaluate the impact of the data assimilation
+on the modelled ﬁelds (the 1 h assimilation forecast for the
+each 1 h assimilation cycle and the corresponding assimila-

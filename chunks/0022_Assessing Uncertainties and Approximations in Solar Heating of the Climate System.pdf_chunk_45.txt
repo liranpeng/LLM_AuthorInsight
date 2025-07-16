@@ -1,0 +1,4 @@
+(Prather, 1974; Wild et al., 2000) calculates mean specific intensities for the photolysis rates as well as flux 
+divergence across each model layer. The cross sections used for atmospheric attenuation, photolysis rates, 
+and absorption in bins #1–18 are photon-weighted. Heating rates use a reference solar table (Watts m−2) for 
+each large bin. Atmospheric attenuation and absorption in IR bands #19–27 is calculated with the RRTMG

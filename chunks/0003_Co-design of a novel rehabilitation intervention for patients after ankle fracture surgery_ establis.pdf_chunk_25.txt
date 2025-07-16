@@ -1,0 +1,9 @@
+physiotherapists would not be comfortable making decisions for certain
+aspects of care (e.g. surgical decision-making). At the end of each
+section, a space for free-text comments was provided.
+Analysis
+Analysis was conducted in R, and figures were compiled using the
+package Likert [24, 25]. 75% was used as a threshold for consensus as it
+has been the most frequently employed threshold in published Delphi
+studies [26, 27], including those in orthopaedics [28, 29].
+Results

@@ -1,0 +1,9 @@
+Atmos. Meas. Tech., 11, 2653–2668, 2018
+https://doi.org/10.5194/amt-11-2653-2018
+© Author(s) 2018. This work is distributed under
+the Creative Commons Attribution 4.0 License.
+How well can global chemistry models calculate the reactivity of
+short-lived greenhouse gases in the remote troposphere, knowing the
+chemical composition
+Michael J. Prather1, Clare M. Flynn1, Xin Zhu1, Stephen D. Steenrod2,3, Sarah A. Strode2,3, Arlene M. Fiore4,
+Gustavo Correa4, Lee T. Murray5, and Jean-Francois Lamarque6

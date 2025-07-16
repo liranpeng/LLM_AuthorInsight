@@ -1,0 +1,8 @@
+sorption only, for the stratosphere; Fast-JX applied full scat-
+tering to all 18 bands. Fast-J is used here throughout, al-
+though some recent code versions use the JX notation.
+Clouds can increase photolysis rates through scattered
+sunlight, but they can greatly reduce them by shadowing.
+Modeling the scattering by cloud layers in a column atmo-
+sphere and resulting photolysis rates is practical, as in Fast-J,
+if the layers are horizontally uniform across the modeled air

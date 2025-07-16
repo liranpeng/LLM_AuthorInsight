@@ -1,0 +1,13 @@
+2 cells. The trapezoidal integration weights account for lat-
+itudinal variation of the points. Thus the weight w∗
+i of each
+point xi for i = 1 : 25 in the grid cell X is
+w∗
+i = Ti cosθi,
+(3)
+where θi is the latitude and Ti is the trapezoidal integration
+weight, which takes values of 0.25 for corner points, 0.5 for
+edge points, and 1.0 for the interior points. The calculation of
+the average ozone value at the grid cell X, (( ¯Z)(X)), is then
+the weighted sum of ozone at points xi, Zi:
+¯Z (X) =

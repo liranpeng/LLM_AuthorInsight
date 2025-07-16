@@ -1,0 +1,44 @@
+www.atmos-chem-phys.net/18/10955/2018/
+S. A. Strode et al.: Forecasting carbon monoxide on a global scale
+10963
+(a) Pacific upper and middle troposphere
+-60 -40 -20
+0
+20
+40
+60
+80
+Latitude
+0
+20
+40
+60
+80
+100
+120
+CO (ppb)
+(b) Pacific lower troposphere
+-60 -40 -20
+0
+20
+40
+60
+80
+Latitude
+0
+20
+40
+60
+80
+100
+120
+CO (ppb)
+bbOther
+bbEuras
+bbAfrica
+bbSAm
+bbNAm
+nbOther
+nbEuro
+nbNAm
+nbAsia

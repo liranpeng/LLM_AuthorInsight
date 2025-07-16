@@ -1,0 +1,8 @@
+then decreases rapidly to 1650 ppb in 2100, yielding a forc-
+ing change of −0.1 W m−2. However, the IPCC (Kirtman et
+al., 2013) uses a more modern chemical model projection
+for the RCP anthropogenic emissions and gives a less ben-
+eﬁcial view with a decrease to only 1734 ppb and a forcing
+change of −0.03 W m−2. RCP2.6 makes a more optimistic
+assumption: that CH4 will decline monotonically to 1250 ppb
+in 2100, yielding a forcing of −0.3 W m−2 (relative to to-

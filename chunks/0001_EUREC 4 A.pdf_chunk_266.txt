@@ -1,0 +1,11 @@
+Liquid water sensor
+LWC-300 hot-wire liquid water sensor to measure liquid water content
+Pyrgeometer
+Kipp and Zonen sensor measuring hemispheric broadband upwelling and downwelling longwave (4.5
+to 42 µm) radiation
+Pyranometer
+Kipp and Zonen sensor measuring hemispheric broadband upwelling and downwelling shortwave (0.2
+to 3.6 µm) radiation
+Infrared radiometer
+CLIMAT CE332, a downward-staring infrared radiometer measuring irradiance at 8.7, 10.8, and
+12.0 µm and used to infer SST

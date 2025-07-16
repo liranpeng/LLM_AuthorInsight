@@ -1,0 +1,13 @@
+events occurring within a large, slow-moving, stagnant, high-
+pressure system over several days. Locations and times of
+AQX events are provided to the clustering algorithm, which
+then groups them into clusters that we call AQX episodes.
+The linkage criteria that deﬁne the clusters are ﬂexible, and
+Atmos. Chem. Phys., 14, 7721–7739, 2014
+www.atmos-chem-phys.net/14/7721/2014/
+J. L. Schnell et al.: Skill in forecasting extreme ozone pollution episodes
+7731
+ 120 ° W 
+ 110 ° W 
+ 100 ° W 
+  90 ° W

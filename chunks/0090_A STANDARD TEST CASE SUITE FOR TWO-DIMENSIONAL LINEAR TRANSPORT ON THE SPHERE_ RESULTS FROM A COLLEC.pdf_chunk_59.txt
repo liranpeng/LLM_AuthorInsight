@@ -1,0 +1,23 @@
+simpliﬁed ﬂux
+simpliﬁed ﬂux
+TTS-I
+Lagrangian ﬁnite volume
+None needed
+Yes
+–
+UCISOM
+Flux-form ﬁnite volume
+Moment-limiting
+No
+Shape-preserving constraints
+relaxed
+UCISOM-CS
+Flux-form ﬁnite volume
+Moment-limiting
+No
+Shape-preserving constraints
+relaxed
+is only enforced within each Eulerian cell and not throughout
+the ﬂux area, SFF-CSLAM is not strictly shape-preserving
+but only approximately so. SFF-CSLAM could be rendered
+strictly shape-preserving by using FCT, possibly at the ex-

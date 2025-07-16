@@ -1,0 +1,14 @@
+UM CAM,
+LMDzINCA,
+STOCHEM HadAM3,
+and
+FRSGC UCI) and some a higher ozone mixing ratio typi-
+cally in the range of 20% to 40% (DLR E39C, CHASER,
+UIO CTM2).
+All models show a higher near-surface
+ozone concentration near the equator, which differently
+extends to higher altitudes.
+The Northern Hemisphere
+extra-tropical troposphere (45 N–90 N, 0–8 km) is simulated
+within ±30% (ULAQ and DLR) and ±10–20% (all other
+models), generally being in better agreement than in the

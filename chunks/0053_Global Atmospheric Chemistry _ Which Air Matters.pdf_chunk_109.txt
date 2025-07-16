@@ -1,0 +1,8 @@
+regions (surface to 500 hPa, 20◦S to 60◦N) it ranges from
+1–4 % for L-CH4 to 2–8 % for P-O3. A remaining question
+(not resolved with the datasets assembled here) is the year-
+to-year variance of basin-wide reactivities perhaps associated
+with the El Niño–Southern Oscillation.
+The six models’ 1-D probability distributions for O3, CO,
+NOx, and HCHO over the tropical mid-Paciﬁc basin are
+shown in Fig. 5, and simple statistics (mean ± SD) are pre-

@@ -1,0 +1,8 @@
+a 1/2◦-resolution model to generate the data stream. Section 3
+presents and compares the statistics of P -O3, L-O3, and L-
+CH4 and J-values from the 14 880 parcels, including ﬁve dif-
+ferent days in August to sample variability in cloud systems.
+Sorted distributions show the models’ agreement on the most
+highly reactive parcels. The ﬁnal discussion in Sect. 4 con-
+siders the role of inherent uncertainty in modeling parcel re-
+activity, of basic differences in the models, and whether the

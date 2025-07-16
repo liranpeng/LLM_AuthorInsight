@@ -1,0 +1,26 @@
+MAX-RAN)
+−2.10
+−2.36
++4.41
+18.5
+5.9
+20.5
+Ocean Surface Albedo (Solar-J with MAX-COR overlap and QCAs)
+R22
+O1−O0
+SJ:OSA constant v. angle 
+dependent
++0.68
++0.16
+−0.84
+4.7
+0.4
+5.1
+Spherical errors from M. J. Prather and Hsu (2019) include changes in incident flux, which was not included in the above comparisons that used the same 
+model (spherical or flat) in each comparison. Comparisons R23−R25 use Solar-J with all clouds, MAX-COR overlap and QCAs.
+incid.
+refl.
+atm.
+surf.
+R23
+-

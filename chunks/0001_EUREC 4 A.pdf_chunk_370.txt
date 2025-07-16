@@ -1,0 +1,15 @@
+Acoustic Doppler current
+proﬁler
+Nortek Signature 1 MHz ADCP used in pulse-coherent (HR) mode to measure ocean turbulence and
+current proﬁles with high resolution
+Camera
+Low-resolution sky cameras providing pictures every 4 s
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+https://doi.org/10.5194/essd-13-4067-2021
+B. Stevens et al.: EUREC4A
+4113
+Table B26. Wave Gliders.
+Instrument
+Brief description
+Inertial system
+MicroStrain GPS measuring vehicle speed from 5 Hz positions and velocities

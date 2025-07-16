@@ -1,0 +1,20 @@
+(3)
+and
+Flong-O3 = aFCH4/S,
+(4)
+where d[O3]/dE is the steady-state response to ship
+NOx emissions (E) while holding [CH4] constant and
+www.atmos-chem-phys.net/14/6801/2014/
+Atmos. Chem. Phys., 14, 6801–6812, 2014
+6804
+C. D. Holmes et al.: The climate impact of ship NOx emissions
+Table 1. Radiative efﬁciency of O3 generated from ship NOx.
+Source
+Value or range, mW m−2 DU−1
+Eyring et al. (2007)
+33.2–33.7a,b
+Fuglestvedt et al. (2008)
+27.8a
+Hoor et al. (2009)
+36.7 ± 3.0b,c
+Myhre et al. (2011)

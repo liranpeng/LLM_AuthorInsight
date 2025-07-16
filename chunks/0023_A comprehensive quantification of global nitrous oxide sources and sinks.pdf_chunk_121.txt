@@ -1,0 +1,7 @@
+natural; however, atmospheric production is affected to some extent 
+by anthropogenic activities through enhancing the concentrations of 
+the reactive species NH2 and NO2. This category is in any case very small 
+and the anthropogenic enhancement effect is uncertain. Lightning 
+produces NOx, the median estimate of which is 5 Tg N yr−1 (ref. 53). We 
+assumed an emission factor of 1% (ref. 54) and a global estimate of 0.05 
+(0.02–0.09) Tg N yr−1 from lightning. Atmospheric production of N2O

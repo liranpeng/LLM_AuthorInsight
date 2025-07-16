@@ -1,0 +1,8 @@
+https://doi.org/10.1002/2013MS000265, 2014.
+Schwartz, C. S.: Reproducing the September 2013 record-
+breaking rainfall over the Colorado front range with high-
+resolution WRF forecasts, Weather Forecast. 29, 393–402,
+https://doi.org/10.1175/WAF-D-13-00136.1, 2014.
+Séférian, R., Baek, S., Boucher, O., Dufresne, J.-L., Decharme,
+B., Saint-Martin, D., and Roehrig, R.: An interactive ocean
+surface albedo scheme (OSAv1.0): formulation and evaluation

@@ -1,0 +1,5 @@
+and bias in units of mm/day (Equations 6 and 7).
+Figure 3: Snapshot of the terms in the column moisture budget (Equation 1) one year into simulation
+for (top) reference data and (bottom) ACE simulation. Given chaotic nature of atmosphere, we do not
+expect details to match between the reference and ACE simulations. If column-integrated moisture is
+exactly conserved, the rightmost column should equal zero, as it is for the reference data.

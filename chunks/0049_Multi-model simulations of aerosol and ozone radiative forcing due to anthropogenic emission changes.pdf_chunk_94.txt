@@ -1,0 +1,7 @@
+A., Kahn, R. A., Loeb, N., Quinn, P., Remer, L., Schwarz, J. P.,
+and Yttri, K. E.: Modelled radiative forcing of the direct aerosol
+effect with multi-observation evaluation, Atmos. Chem. Phys., 9,
+1365–1392, doi:10.5194/acp-9-1365-2009, 2009.
+Myhre, G., Samset, B. H., Schulz, M., Balkanski, Y., Bauer, S.,
+Berntsen, T. K., Bian, H., Bellouin, N., Chin, M., Diehl, T.,
+Easter, R. C., Feichter, J., Ghan, S. J., Hauglustaine, D., Iversen,

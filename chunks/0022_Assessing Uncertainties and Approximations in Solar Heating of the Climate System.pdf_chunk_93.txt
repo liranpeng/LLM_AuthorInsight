@@ -1,0 +1,4 @@
+δ-1 has the least (1–f = 0.25), reducing τsca by only a factor of 4. SJ versions have been coded that rewrite the 
+cloud optical depth and scattering phase function in accord with δ scaling and are designated eponymously 
+as SJ/δ0, SJ/δ1, and SJ/δ2. In addition, version SJ/HG uses 8-stream scattering and an 8-term HG expansion 
+based only on the first term of the Mie phase function: PHG(Θ) = 1 + ΣL=1:7 (2L + 1) (g1)L PL (cos[Θ]). Ray-

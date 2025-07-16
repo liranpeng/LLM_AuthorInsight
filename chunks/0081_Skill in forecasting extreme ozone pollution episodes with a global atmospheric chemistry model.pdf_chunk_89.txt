@@ -1,0 +1,10 @@
+lated using independent sampling are 7 ± 3 ppb (5 ± 2 ppb)
+less than concurrent sampling for the US (EU); however for
+increasing percentiles the trend reverses, with biases for inde-
+pendent sampling at the 95th percentile 9 ± 5 ppb (8 ± 4 ppb)
+greater than concurrent sampling for the US (EU). We con-
+clude that O3 PDFs simply cannot be used in comparing ob-
+servations with climate models.
+4
+Identifying and characterizing extreme events
+To determine if air quality extreme (AQX) events involv-

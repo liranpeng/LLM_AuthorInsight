@@ -1,0 +1,9 @@
+we have a clear challenge for the cloud climatologies used in
+the chemistry models.
+More work on the CAFS / TUV data could help better dis-
+criminate among the model classes identiﬁed here. For one,
+we need to sample over different seasons and synoptic con-
+ditions to build a more robust climatology. Fortunately, the
+additional three deployments (ATom-2, -3, -4) will provide
+these. They occur in different seasons, which is a consid-
+eration, but the tropical oceanic data can probably be com-

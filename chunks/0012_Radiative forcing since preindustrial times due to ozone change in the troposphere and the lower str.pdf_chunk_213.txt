@@ -1,0 +1,9 @@
+1991.
+Stamnes, K., Tsay, S.-C., Wiscombe, W., and Jayweera, K.: Nu-
+merically stable algorithm for discrete-ordinate-method radia-
+tive transfer in multiple scattering and emitting layered media,
+J. Appl. Opt., 27, 2502–2509, 1998.
+Stenke, A. and Grewe, V.: Simulation of stratospheric water vapor
+trends: impact on stratospheric ozone chemistry, Atmos. Chem.
+Phys., 5, 1257–1272, 2005.
+Stevenson, D. S., Johnson, C. E., Collins, W. J., Derwent, R. G.,

@@ -1,0 +1,5 @@
+3.1.  Introduction and Methods
+The Brewer-Dobson overturning circulation transports air masses throughout the stratosphere (Butch-
+art, 2014), bringing air containing tropospheric levels of N2O and CFCl3 upward in the tropics to their 
+respective loss regions where they are photolyzed or destroyed by O(1D). Then, air that is photochemically 
+depleted in these gases is transported down to the lower stratosphere outside the tropics where STE carries

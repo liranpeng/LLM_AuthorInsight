@@ -1,0 +1,9 @@
+data with images at 10 m resolution in some visible–near-
+infrared bands and 20 m resolution in shortwave-infrared
+bands relevant for cloud microphysical retrievals.
+The intensity of remote sensing instrumentation in the
+vicinity of the EUREC4A-Circle will support efforts to, for
+the ﬁrst time, observationally close the column energy bud-
+get over the ocean, as well as efforts to test hypotheses that
+link precipitation to processes across very different time and
+space scales.

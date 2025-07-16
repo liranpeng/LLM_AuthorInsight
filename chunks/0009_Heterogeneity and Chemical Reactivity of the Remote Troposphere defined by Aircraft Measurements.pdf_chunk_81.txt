@@ -1,0 +1,15 @@
+Core source of ATom measurements. irregu-
+lar and difﬁcult formatting; extremely long asci
+records; large negative integers or “NA” for
+some non-data.
+Modeling data stream (MDS-2)
+(a) MDS_DC8_20160729_R3.ict
+(b) MDS_DC8_ 20170126_ R4.ict
+(c) MDS_DC8_20170928_R4.ict
+(d) MDS_DC8_ 20180424_R4.ict
+(e) ATom_MDS.nc
+Derived here.
+(a) ATom-1: 32 383 records × 87 csv columns, 10 s in-
+tervals of chemical & other data, plus ﬂags to indicate
+gap-ﬁlling
+(b) ATom-2: 33 424 records × 87 csv columns

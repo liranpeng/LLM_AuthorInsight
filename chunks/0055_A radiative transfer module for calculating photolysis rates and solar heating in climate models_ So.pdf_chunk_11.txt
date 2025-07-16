@@ -1,0 +1,8 @@
+proved cloud overlap algorithm based on observed decorre-
+lation lengths with the cloud quadrature scheme (Neu et al.,
+2007) for averaging over independent column atmospheres.
+It includes an eight-stream scattering photolysis code with
+semi-spherical geometry and wavelength integration over 18
+spectral bins from 177 to 850 nm. In the most recent version
+(v7.4), the spectrum was shortened to 778 nm (see Fig. 1).
+Prior released versions, known in the community as Fast-

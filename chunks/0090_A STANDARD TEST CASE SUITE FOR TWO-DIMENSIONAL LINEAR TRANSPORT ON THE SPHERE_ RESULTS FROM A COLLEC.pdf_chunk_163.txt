@@ -1,0 +1,8 @@
+half of the simulation (t ∈[T/2,T ]) does not resemble typ-
+ical observed ﬂow patterns, but it is very convenient for ob-
+taining an analytical solution under complex ﬂow conditions.
+Partly motivated by that, a series of diagnostics were devel-
+oped for which an analytical solution is not needed, and one
+can thereby assess accuracy at any point in time. For exam-
+ple, before the “unphysical” ﬂow reversal at t = T /2, one
+could expect the schemes to be most challenged at least for

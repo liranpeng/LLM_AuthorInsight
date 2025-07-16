@@ -1,0 +1,42 @@
+gaseous species containing C, H, O and sometimes N or S.
+They play a major role in the chemical reactivity of the tro-
+posphere, including production and loss of O3 and loss of
+0
+4
+8
+12
+16
+J-O1D
+J-NO3
+0.9
+1.0
+1.1
+1.2
+0.8
+altitude (km)
+J (approx) / J(all ICAs)
+0.9
+1.0
+1.1
+1.2
+0.8
+J (approx) / J(all ICAs)
+0
+4
+8
+12
+16
+altitude (km)
+ClSky
+AvCld
+CF^3/2
+AvDir
+MdQCA
+AvQCA
+ClSky
+AvCld
+CF^3/2
+AvDir
+MdQCA
+AvQCA
+Figure 3. Proﬁle of the average bias in J value approximations rel-

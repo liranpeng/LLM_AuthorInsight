@@ -1,0 +1,9 @@
+Oslo, Norway, 1997.
+Tiedtke, M.: A Comprehensive Mass Flux Scheme for Cumulus
+Parameterisation on Large Scale Models, Mon. Wea. Rev., 117,
+1779–1800, 1989.
+van Leer, B.: Towards the ultimate conservative difference scheme.
+III. Upstream-centered ﬁnite-difference schemes for ideal com-
+pressible ﬂow, J. Comput. Phys., 23(3), 263–275, 1977.
+van Noije, T. P. C., Eskes, H. J., Dentener, F. J., Stevenson, D. S.,
+Ellingsen, K., Schultz, M. G., Wild, O., Amann, M., Atherton,

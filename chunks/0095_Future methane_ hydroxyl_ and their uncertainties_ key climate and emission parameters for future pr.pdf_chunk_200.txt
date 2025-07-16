@@ -1,0 +1,8 @@
+doi:doi:10.5194/gmd-5-1441-2012, 2012.
+Spivakovsky, C., Logan, J., Montzka, S., Balkanski, Y., Foreman-
+Fowler, M., Jones, D., Horowitz, L., Fusco, A., Brenninkmeijer,
+C., Prather, M., Wofsy, S., and McElroy, M:Three-dimensional
+climatological distribution of tropospheric OH: Update and eval-
+uation, J. Geophys. Res.-Atmos., 105, 8931–8980, 2000.
+Tang, Q. and Prather, M. J.: Correlating tropospheric column ozone
+with tropopause folds: the Aura-OMI satellite data, Atmos.

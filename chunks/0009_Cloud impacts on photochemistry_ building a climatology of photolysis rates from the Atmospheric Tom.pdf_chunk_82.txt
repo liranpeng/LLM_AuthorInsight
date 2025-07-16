@@ -1,0 +1,3 @@
+ratio < 0.975), (ii) nearly cloud-free Js (thin central segment, 0.975 < ratio < 1.025), and (iii) cloud-enhanced Js (thick right segment, ra-
+tio > 1.025). Each line is plotted with its nearly cloud-free segment centered on 0. The mean magnitude of diminishment/enhancement
+corresponding to the thick line segments is plotted as an “X” on each line segment, using the x axis [−1, +1] as the natural log of the

@@ -1,0 +1,28 @@
+Loss of CH4 (L-CH4):
+CH4 + OH →CH3 + H2O.
+(R1)
+Production of O3 (P-O3):
+HO2 + NO →NO2 + OH,
+(R2a)
+RO2 + NO →NO2 + RO,
+(R2b)
+O2 + hv →O + O
+(x2).
+(R2c)
+Loss of O3 (L-O3):
+O3 + OH →O2 + HO2,
+(R3a)
+O3 + HO2 →OH + O2 + O2,
+(R3b)
+O(1D) + H2O →OH + OH.
+(R3c)
+Loss of CO (L-CO):
+CO + OH →CO2 + H.
+(R4)
+In addition, we include statistics on two key photolysis rates
+that drive the chemistry.
+Photolysis of O3 yielding O(1D) (J-O1D):
+O3 + hv →O(1D) + O2.
+(R5)
+Photolysis of NO2 (J-NO2):
+NO2 + hv →NO + O.

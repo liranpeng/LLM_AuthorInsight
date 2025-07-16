@@ -1,0 +1,9 @@
+torical ERF simulations.
+The control simulation for these experiments will use 1850
+concentrations of WMGHGs and emissions of NTCFs, run
+for 30 years in atmosphere-only mode with SSTs and sea ice
+prescribed as a (monthly varying) climatology taken from
+30 years of the pre-industrial control (experiment piClim-
+control; see Table 6) following the Radiative Forcing Model
+Intercomparison Project (RFMIP) speciﬁcation (Pincus et
+al., 2016). Provided this experiment is run with the same in-

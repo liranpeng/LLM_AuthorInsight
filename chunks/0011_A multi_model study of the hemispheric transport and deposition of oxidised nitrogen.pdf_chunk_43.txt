@@ -1,0 +1,9 @@
+same year being used. Some very recent work suggests that
+the formation of HNO3 from the reaction between HO2 and
+NO may have a significant impact on modelled NOy
+concentrations, and hence deposition fluxes [Cariolle et
+al., 2008].
+[19] The simulations used were only 1 year long, and so
+the influence of interannual variability on the derived
+source-receptor relationships via changes in the transport
+pathways cannot be assessed. Further experiments are

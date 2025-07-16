@@ -1,0 +1,48 @@
+2000) is masked for the models that do not calculate stratospheric chemistry explicitly.
+www.atmos-chem-phys.net/6/575/2006/
+Atmos. Chem. Phys., 6, 575–599, 2006
+586
+M. Gauss et al.: Radiative forcing due to ozone changes between 1850 and 2000
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+0
+2
+4
+6
+8
+10
+12
+14
+DU
+Model
+Tropospheric change
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+−30
+−25
+−20
+−15
+−10
+−5
+0
+5
+10
+DU
+Model
+Stratospheric change

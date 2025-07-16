@@ -1,0 +1,8 @@
+measurements to test such a wide variety of CTMs–CCMs.
+Here, we consider an idealized test case for representative-
+ness where we sample a model as objectively as possible and
+then compare with different sampling “paths”.
+One test of representativeness looks at the reactivities
+sampled along a single longitude and then integrated over
+latitude–pressure domains. For example, Fig. 1a clearly
+shows that the instantaneous column integrated L-CH4 varies

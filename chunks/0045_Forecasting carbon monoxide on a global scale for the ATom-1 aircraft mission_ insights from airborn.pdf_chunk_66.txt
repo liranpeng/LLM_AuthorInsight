@@ -1,0 +1,10 @@
+and pressure given in the observations. Both model forecast and
+ATom measurements are averaged into a sample rate of one per
+360 s. Data in the troposphere are plotted in a circle, while data
+in the stratosphere are plotted in a diamond, based on the GEOS-5
+tropopause.
+4.2
+CO source contributions
+We calculate the contribution of different CO sources to the
+total simulated CO using the GEOS-5 tagged CO tracers
+sampled along the ATom ﬂight tracks. This analysis pro-

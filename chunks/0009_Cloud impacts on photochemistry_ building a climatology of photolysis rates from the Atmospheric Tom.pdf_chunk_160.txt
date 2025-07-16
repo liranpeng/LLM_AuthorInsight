@@ -1,0 +1,8 @@
+A global survey of cloud overlap based on CALIPSO and
+CloudSat measurements, Atmos. Chem. Phys., 15, 519–536,
+https://doi.org/10.5194/acp-15-519-2015, 2015.
+Li, J., Mao, J., Fiore, A. M., Cohen, R. C., Crounse, J. D., Teng, A.
+P., Wennberg, P. O., Lee, B. H., Lopez-Hilﬁker, F. D., Thornton,
+J. A., Peischl, J., Pollack, I. B., Ryerson, T. B., Veres, P., Roberts,
+J. M., Neuman, J. A., Nowak, J. B., Wolfe, G. M., Hanisco, T.
+F., Fried, A., Singh, H. B., Dibb, J., Paulot, F., and Horowitz,

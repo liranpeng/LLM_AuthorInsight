@@ -1,0 +1,9 @@
+P-O3 and L-O3 in both basins. We conclude that accurate
+modeling of chemical composition of the 80th and greater
+percentiles is important but that modest errors in the lowest
+50th percentile are inconsequential; effectively, some parcels
+matter more than others (P2017).
+How well does this ATom analysis work as a model in-
+tercomparison project? Overall, we ﬁnd that most models
+give similar results when presented with the ATom-1 MDS.
+The broad agreement of the cumulative reactive PDs across a

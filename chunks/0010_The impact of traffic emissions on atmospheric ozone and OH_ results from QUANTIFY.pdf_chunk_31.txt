@@ -1,0 +1,8 @@
+EMAC model (ECHAM5/MESSy, atmospheric chemistry)
+(Ganzeveld et al., 2006; Kerkweg et al., 2006) for 1998–
+2005 as described in J¨ockel et al. (2006). The 5-hourly out-
+put ﬁelds were converted to monthly means and provided as
+ofﬂine ﬁelds to all partners. Thus, seasonal cycles are repre-
+sented in the biogenic ﬁelds as well as in the biomass burn-
+ing emissions and the aircraft emissions, but not for ship and
+road trafﬁc emissions or in the other EDGAR-based ﬁelds.

@@ -1,0 +1,7 @@
+track following the longitude, latitude, and pressure given in
+the observations. We average both model CO and ATom mea-
+surements into one point per 360 s for easier visualization.
+Figure 3. GEOS-5 simulated CO vs. QCLS CO observations for
+all ATom-1 ﬂights averaged into 5 min bins. CO is in units of ppb.
+Paciﬁc ﬂights are shown in red, Atlantic ﬂights in blue, N. Ameri-
+can ﬂights in green, and Southern Ocean ﬂights in yellow. Circles

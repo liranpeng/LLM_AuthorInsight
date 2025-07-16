@@ -1,0 +1,9 @@
+ters reduce convergence rates. The most striking reductions
+in K2 are for the higher order schemes such as HOMME-p6,
+HOMME-p3, and SFF-CSLAM4 for which the convergence
+rates are reduced by four, two, and two, respectively. The for-
+mally third-order schemes CSLAM, MPAS, SFF-CSLAM3
+see reduction of convergence rates of about 0.5. Schemes
+that are approximately second-order accurate are less af-
+fected (in an absolute sense) by shape-preserving ﬁlters. The
+www.geosci-model-dev.net/7/105/2014/

@@ -1,0 +1,4 @@
+N2OX matches the model's loss frequency (Table 1, −0.76% to −0.89%/yr) and is opposite in sign to that 
+for real N2O with its observed growth rate for this period of +0.25%/yr. In supplementary Figure S2, we 
+show the latitude-by-month interannual anomalies with the mean removed for the full period available. 
+The N2OX anomalies from the three models look remarkably like the observed N2O, although they may be

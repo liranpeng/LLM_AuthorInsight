@@ -1,0 +1,8 @@
+0.10), then bias errors of 2 % to 10 % appear, and the width
+of the distribution expands greatly. For SZA = 40–80◦, the
+optimum ﬁxed albedo starts showing bias and has a much
+broader range of errors under different circumstances (wind,
+chlorophyll, SZA). Thus J values calculated using unphysi-
+cal, simplistic ﬁxed ocean surface albedos can have errors of
+order ±10 % depending on ocean surface conditions and the
+angular distribution of direct and scattered light at the sur-

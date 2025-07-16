@@ -1,0 +1,10 @@
+sigma) range, because we are looking for “likely” connec-
+tions (68 % conﬁdence) rather than “extremely likely” ones
+(95 %). For example, the linear regression trend in N2O loss
+uses the running averages and has 198 monthly points. The
+uncertainty is scaled up assuming there are only 17 yearly
+data points. As a check we recalculate the regression ﬁt with
+the unsmoothed monthly data and get the same uncertainty.
+3
+Results
+The primary calculation here is the annual N2O loss

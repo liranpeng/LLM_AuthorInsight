@@ -1,0 +1,8 @@
+hibit ±20 % ranges in RF components (e.g., Eyring et al.,
+2007; Hoor et al., 2009; Myhre et al., 2011). Three sources
+of uncertainty, when combined in quadrature, are therefore
+sufﬁcient to explain the ±30 % range of ship RF components
+in the literature ensemble: non-linearity from the ship emis-
+sion perturbation magnitude (±10 to 20 %), emissions from
+other sources (±10 %), and other processes that control back-
+ground atmospheric composition (±10 to 20 %).

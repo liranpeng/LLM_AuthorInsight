@@ -1,0 +1,13 @@
+the capability of modern global models.
+4.3
+Testing model climatologies
+The ATom data set provides a unique opportunity to test
+CTMs and CCMs in a climatological sense. In this sec-
+tion, we compare ATom-1 data and the six models’ chemical
+Atmos. Chem. Phys., 23, 99–117, 2023
+https://doi.org/10.5194/acp-23-99-2023
+H. Guo et al.: Heterogeneity and chemical reactivity
+109
+Figure 2.
+statistics for mid-August used in P2017. The ATom proﬁles
+cannot be easily compared point by point with CCMs, and we

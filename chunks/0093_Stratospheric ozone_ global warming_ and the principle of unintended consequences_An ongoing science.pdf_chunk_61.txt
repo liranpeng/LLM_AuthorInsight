@@ -1,0 +1,8 @@
+trolling black carbon (BC) emissions from transportation
+sources depends on the ability to make ultra-low-sulfur fuels
+(ULSF) available (Pawelec et al., 2011). ULSFs are necessary so
+that diesel particulate filters (DPFs) can be applied to after-
+engine exhaust to effectively eliminate BC emissions. Ideally,
+the fuel content should be no more than 10 ppmw sulfur. Without
+ULSF, the catalyst in the DPF will be poisoned by the sulfur in
+the fuel (Hesterberg et al., 2011).

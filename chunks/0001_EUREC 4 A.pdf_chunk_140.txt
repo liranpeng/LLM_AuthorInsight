@@ -1,0 +1,9 @@
+budgets.
+Similar considerations also apply to the momentum bud-
+get of the trades. In Dixit et al. (2020) idealized large-eddy
+simulations are shown to underestimate the ﬂux of momen-
+tum in the sub-cloud layer, something they hypothesize to
+arise from an absence of mesoscale circulations in the simu-
+lations. As an example of efforts to quantify such processes
+Fig. 14 shows the total wind speed measured in the sub-
+cloud layer by the long-range wind lidar aboard the R/V Me-

@@ -1,0 +1,4 @@
+gov/data/datadocs.php
+Mahlman, J. D., Levy, H., & Moxim, W. J. (1986). Three-dimensional simulations of stratospheric N2O: Predictions for other trace constit-
+uents. Journal of Geophysical Research, 91(D2), 2687–2707. https://doi.org/10.1029/jd091id02p02687
+Manney, G. L., Hegglin, M. I., Lawrence, Z. D., Wargan, K., Millán, L. F., Schwartz, M. J., et al. (2017). Reanalysis comparisons of upper

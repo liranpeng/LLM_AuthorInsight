@@ -1,0 +1,8 @@
+usually not the same physical quantity. In the case of AOD
+observations, to deﬁne which variable will be minimized, dif-
+ferent choices are possible. A straightforward choice is to use
+a prognostic variable as a control variable, as implemented
+by Liu et al. (2011). Following this approach in our system,
+the control variable would correspond to a 4-D variable con-
+taining the 3-D ﬁelds of all 24 aerosol bins. The matrix B
+would have to include the variances and covariances of all

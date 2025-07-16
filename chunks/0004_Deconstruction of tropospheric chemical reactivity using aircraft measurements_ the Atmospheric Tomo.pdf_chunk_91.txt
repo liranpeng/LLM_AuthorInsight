@@ -1,0 +1,8 @@
+3313
+Figure 12. Curtain plots of L-CH4 (ppb d−1) in the Atlantic basin (53◦S–60◦N) for ATom-1234. See Fig. 6.
+Figure 13. Curtain plots of L-CO (ppb d−1) in the Atlantic basin (53◦S–60◦N) for ATom-1234. See Fig. 6.
+extensive highly reactive deep-convection layer (2–10 km)
+in ATom-1 (August). With this high level of variability, it
+will be important to re-examine the time period of the ATom
+ﬂights with a chemistry-transport model to assess the spa-
+tiotemporal scales and origins of these events.

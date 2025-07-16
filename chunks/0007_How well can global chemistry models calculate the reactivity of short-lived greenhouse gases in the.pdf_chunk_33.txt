@@ -1,0 +1,8 @@
+identiﬁed with the rms differences across all model pairs in
+Table 2). UCI ran 3 different model years to estimate the rms
+value caused by interannual variability (blue in Table 2), i.e.,
+when the cross-model differences approach this value, we
+can accept that the photochemical modules including clouds
+cannot be said to be different in this study. For the reactiv-
+ities (P -O3, L-O3, L-CH4), none of the cross-model pairs
+reached this lower limit, but certain groupings were consis-

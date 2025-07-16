@@ -1,0 +1,2 @@
+to ensure harmonization between total emissions, lifetimes and observed abundances. Natural emissions are kept constant but included as additional uncertainty. Independent emission estimates 
+are shown as follows: MFR/CLE are the maximum feasible reduction and current legislation scenarios from Dentener et al. (2005; 2006), while MFR*/CLE* are the similarly labeled scenarios from

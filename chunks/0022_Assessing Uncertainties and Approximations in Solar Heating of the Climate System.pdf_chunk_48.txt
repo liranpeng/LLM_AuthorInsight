@@ -1,0 +1,4 @@
+code. The difference RRTMG minus SJ under clear sky gave a surprisingly large difference: (+1.3, −0.5, 
+−0.8 W m−2) for the three primary globally averaged components (reflection, atmospheric absorption, and 
+surface absorption), respectively (T1/R4). For the UV region <298 nm, the solar flux (13.6 out of 1360.8 W 
+m−2) is absorbed in the stratosphere, and both SJ and RRTMG agree on this. So focusing on the 298–778 nm

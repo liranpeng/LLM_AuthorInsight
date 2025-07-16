@@ -1,0 +1,9 @@
+(2008). The time extrapolation is not used since the wind
+ﬁelds are known analytically at any time t. Time integration
+is conducted in spectral space with the unlimited scheme.
+In physical space, it is conducted with the shape-preserving
+scheme.
+This scheme does not formally conserve mass and is not
+inherently shape-preserving although the interpolation it-
+self is very accurate; overshoots and undershoots are much
+smaller compared to traditional quasi-cubic interpolation

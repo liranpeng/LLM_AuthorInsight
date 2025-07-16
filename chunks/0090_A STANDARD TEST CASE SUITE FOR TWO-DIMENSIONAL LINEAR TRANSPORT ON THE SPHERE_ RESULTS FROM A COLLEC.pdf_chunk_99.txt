@@ -1,0 +1,8 @@
+ing value to remain within a predeﬁned interval. Hence the
+scheme is not necessarily locally shape-preserving. The par-
+allel implementation uses dynamic communication to al-
+low arbitrarily ﬁne domain decomposition regardless of time
+step. However, it does incur the expense of a global synchro-
+nization at each time step, and the mass ﬁxer uses global re-
+ductions. For this class of schemes, free-stream preservation
+is trivial since a constant φ will remain constant through-

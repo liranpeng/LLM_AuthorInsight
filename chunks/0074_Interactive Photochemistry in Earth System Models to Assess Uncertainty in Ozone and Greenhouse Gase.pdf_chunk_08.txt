@@ -1,0 +1,10 @@
+requires, at a minimum, accurate models of the
+chemistry and circulation of the atmosphere that
+relate emissions to abundances. This DOE-funded
+research provided realistic, yet computationally
+optimized and affordable, photochemical modules to
+the Community Earth System Model (CESM) that
+augment the CESM capability to explore the
+uncertainty in future stratospheric-tropospheric
+ozone, stratospheric circulation, and thus the
+lifetimes of chemically controlled greenhouse

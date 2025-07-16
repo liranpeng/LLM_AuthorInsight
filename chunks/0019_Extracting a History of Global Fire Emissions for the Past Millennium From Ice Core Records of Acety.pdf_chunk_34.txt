@@ -1,0 +1,4 @@
+The major sink of atmospheric ethane is via oxidation with the hydroxyl radical (OH) resulting in a global
+mean lifetime of roughly 2 months (Burkholder et al., 2015; Poisson et al., 2000; Rudolph, 1995; Xiao
+et al., 2008). Ethane is also oxidized by chlorine atoms which are produced in the marine boundary layer
+by reactions involving marine aerosols and polluted air (Knipping & Dabdub, 2003; Lawler et al., 2009;

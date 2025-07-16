@@ -1,0 +1,7 @@
+global N2O monitoring dataset from NOAA/ESRL GMD. R.G.P. and R.F.W. provided a global N2O 
+monitoring dataset from AGAGE stations. P.B.K. provided a global N2O monitoring dataset from 
+CSIRO. All co-authors reviewed and commented on the manuscript.
+Competing interests The authors declare no competing interests.
+Additional information
+Supplementary information is available for this paper at https://doi.org/10.1038/s41586-020-
+2780-0.

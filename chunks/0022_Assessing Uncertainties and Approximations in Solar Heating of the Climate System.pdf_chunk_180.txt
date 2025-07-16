@@ -1,0 +1,6 @@
+interactive, can be adjusted to near zero by selecting the fixed OSA, but there remains a strong latitudinal 
+error of 3 W m−2 in ocean heating associated with high sun, see Figure 7. The zonal rms errors are large, 
+2–8 W m−2, because of the wide diurnal range of solar zenith angles over the day, but given the thermal 
+inertia of the upper ocean layers, this probably averages out. Overall, these results are similar to those found 
+in Séférian et al. (2018).
+8.  Findings and Recommendations

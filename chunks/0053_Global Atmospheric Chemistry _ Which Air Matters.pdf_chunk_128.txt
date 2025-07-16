@@ -1,0 +1,3 @@
+fraction, ppt for NOx, ppb for HOOH). The density value for each plot is scaled so that a uniform distribution over exactly 1 decade in both
+species would give the yellow-green color of 1.0. The domain being sampled in the models is the tropical Paciﬁc: 20◦S–20◦N, 150–210◦E,
+0.5–12 km. Model A = CAM4-Chem; B = GEOS-Chem; C = GFDL-AM3; D = GISS-E2; E = GMI-CTM; F = UCI-CTM. (b) Six modeled

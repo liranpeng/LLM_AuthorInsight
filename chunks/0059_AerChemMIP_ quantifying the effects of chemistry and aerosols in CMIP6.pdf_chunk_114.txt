@@ -1,0 +1,10 @@
+2.6 scenario. The transient ERFs calculated with respect to
+the ssp370SST control will include the effects of albedo
+changes as well as NTCFs. The pair ssp370SST–ssp370SST-
+ssp126Lu are the prescribed SST equivalents of the coupled-
+ocean Land Use Model Intercomparison Project (LUMIP)
+pair ssp370–ssp370-ssp126Lu (Lawrence et al., 2016).
+The total simulation years requested are 82 for Tier 1 and
+205 for Tier 2.
+3.3
+Time-slice historical ERF simulations (in support

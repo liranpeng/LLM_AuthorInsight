@@ -1,0 +1,44 @@
+Yes
+–
+(series expansion)
+based on minimization;
+hyperviscosity
+CCSRG
+Semi-Lagrangian ﬁnite volume
+–
+–
+–
+CLAW
+Wave propagation
+Wave limiter
+No
+1-D wave limiter
+CSLAM
+Semi-Lagrangian ﬁnite volume
+Slope-limited
+Yes
+–
+Rigorous ﬂux
+FARSIGHT
+Grid-point semi-Lagrangian
+Fixer
+Yes
+–
+HEL
+Semi-Lagrangian ﬁnite volume
+Lagrangian ﬁxer
+Yes
+–
+HEL-ND
+Semi-Lagrangian ﬁnite volume
+Lagrangian ﬁxer
+Yes
+–
+HOMME
+Spectral element
+Quasi-monotone limiter
+Yes
+–
+(series expansion)
+based on minimization;
+hyperviscosity

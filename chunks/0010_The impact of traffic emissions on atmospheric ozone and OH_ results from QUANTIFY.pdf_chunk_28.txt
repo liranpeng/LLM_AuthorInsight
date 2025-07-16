@@ -1,0 +1,10 @@
+2002) averaged activity data using Andreae and Merlet
+(2001) and Andreae (2004, personal communication) for
+NOx emission factors (BB-AVG-AM). Lightning NOx was
+speciﬁed at 5 TgN/year, representing the current best esti-
+mate (Schumann and Huntrieser, 2007).
+NMHCs were subdivided into individual organic and
+partly oxidized species.
+The partitioning of the NMHCs
+was performed according to von Kuhlmann et al. (2003a)
+and is shown in Table 2 for biomass burning and fos-

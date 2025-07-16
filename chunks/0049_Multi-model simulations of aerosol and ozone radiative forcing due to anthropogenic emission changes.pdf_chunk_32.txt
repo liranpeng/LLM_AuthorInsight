@@ -1,0 +1,8 @@
+Fig. S2 presents trends in the tropospheric column and sur-
+face ozone from the models, showing a much larger differ-
+ence between surface and column than for aerosols. Whereas
+the forcing efﬁciency of aerosols is strongly dependent on
+the surface reﬂectance and their position in relation to clouds
+(Haywood and Shine, 1997), the forcing efﬁciency for ozone
+is strongly dependent on altitude and is most efﬁcient around
+tropopause altitude (Forster and Shine, 1997; Lacis et al.,

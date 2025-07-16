@@ -1,0 +1,8 @@
+sion 8 (v8). In Cloud-J there are ﬁve incident angles on the
+lower surface: the direct solar beam and the four ﬁxed-angle
+downward streams of scattered light. The OSA modules are
+adapted from the codes of Séférian et al. (2018) based on
+Jin et al. (2011), but we do not use their approximation for
+a single “diffuse” radiation since all of Cloud-Js scattered
+light is resolved by zenith angle. The resulting albedo is a
+function of wavelength, wind speed, and chlorophyll; it is

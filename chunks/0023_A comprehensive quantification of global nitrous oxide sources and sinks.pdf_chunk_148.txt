@@ -1,0 +1,7 @@
+N2O and uncertainty is taken from the IPCC assessment report 5 (ref. 2). 
+There is an agreement between stratospheric loss from atmospheric 
+chemistry transport models (top-down modelled chemical sink18,81) 
+and satellite observations from a photolysis model (observed photo-
+chemical sink1), differing by only about 1 Tg N yr−1. The satellite-based 
+lifetime, 116 ± 9 yr, gives an overall uncertainty in the annual loss of ±8%. 
+The tropospheric loss of N2O from reaction with O(1D) is included in

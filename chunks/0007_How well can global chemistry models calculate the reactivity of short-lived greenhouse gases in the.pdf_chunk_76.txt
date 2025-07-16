@@ -1,0 +1,8 @@
+(blue, medium); L-CH4 (green, small).
+cent that also occur in the top-X % reference case. For a
+range of X, 5, 10, 25, and 50 %, the overlap increases suc-
+cessively with many models having 90 % overlap for the top-
+50 %. The exceptions are GFDL with lower than typical over-
+lap for L-O3 at all top-X % levels, and GISS, with lower
+overlap for L-CH4. This new diagnostic is helpful in under-
+standing these model differences because it implies that the

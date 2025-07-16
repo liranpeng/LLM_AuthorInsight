@@ -1,0 +1,4 @@
+Solar-J version (SJ/hrv), putting 18 bands in the UV-VIS region (black dots in Figure 2) to achieve resolution 
+comparable to RRTMG. The SJ/hrv minus SJ differences, (+0.3, −0.5, +0.1 W m−2) (T1/R5), can explain the 
+RRTMG v. SJ differences in atmospheric heating, but still leaves a large discrepancy in the reflected flux.
+Is this difference caused by Solar-J's use of photon-, not Watt-weighted averages for these UV-VIS bands? In

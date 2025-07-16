@@ -1,0 +1,9 @@
+Table AII.4.14: HFC-245fa abundance (ppt)
+Table AII.4.15: HFC-43-10mee abundance (ppt)
+Table AII.4.16: Montreal Protocol greenhouse gas abundances (ppt)
+AII.5: Column Abundances, Burdens, and Lifetimes
+Table AII.5.1: Stratospheric O3 column changes (DU)
+Table AII.5.2: Tropospheric O3 column changes (DU)
+Table AII.5.3: Total aerosol optical depth (AOD)
+Table AII.5.4: Absorbing aerosol optical depth (AAOD)
+Table AII.5.5: Sulphate aerosol atmospheric burden (TgS)

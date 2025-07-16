@@ -1,0 +1,8 @@
+Liu, Z., Liu, Q., Lin, H.-C., Schwartz, C. S., Lee, Y.-H., and
+Wang, T.: Three-dimensional variational assimilation of MODIS
+aerosol optical depth: Implementation and application to a dust
+storm over East Asia, J. Geophys. Res.-Atmos., 116, D23206,
+doi:10.1029/2011JD016159, 2011.
+Louis, J.-F.: A parametric model of vertical eddy ﬂuxes in the atmo-
+sphere, Bound.-Lay. Meteorol., 17, 187–202, 1979.
+Lurton, T., Renard, J.-B., Vignelles, D., Jeannot, M., Akiki,

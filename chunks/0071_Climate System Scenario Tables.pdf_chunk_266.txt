@@ -1,0 +1,6 @@
+1444
+Annex II	
+Climate System Scenario Tables
+AII
+Table AII.7.5 |  CMIP5 (RCP) and CMIP3 (SRES A1B) global mean surface temperature change (°C) relative to 1986–2005 reference period. Results here are a statistical sum­
+mary of the spread in the CMIP ensembles for each of the scenarios. They do not account for model biases and model dependencies, and the percentiles do not correspond to the

@@ -1,0 +1,6 @@
+km and then increases to about 2.5 km at 140°W. The cloudiness is substantially reduced 
+west of 140° W.
+The boundary layer is more distinctly defined by the lidar than the radar in some cases, since 
+the survey portions of the flight were flown at a height where the radar sensitivity is 
+insufficient to detect low non-precipitating thin clouds. But when flying below the cloud, the 
+lidar is facing upward and does not detect cloud top in optically thick clouds. On the RF11

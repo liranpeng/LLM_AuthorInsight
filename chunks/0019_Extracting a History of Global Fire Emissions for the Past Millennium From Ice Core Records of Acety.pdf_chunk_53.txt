@@ -1,0 +1,6 @@
+sate for the elevated reactivity of the model, the OH reaction coefﬁcients for acetylene and ethane were
+reduced by 25% (see supporting information, SI).
+Simulations were conducted for a 3‐year period using meteorological ﬁelds from 2005–2007 and the ﬁnal
+year (2007) was used to calculate annual average air mass weighted acetylene and ethane mole fractions.
+Sensitivities for acetylene and ethane over Greenland and Antarctica were calculated as follows:
+Sensitivity ¼ abundance over polar region

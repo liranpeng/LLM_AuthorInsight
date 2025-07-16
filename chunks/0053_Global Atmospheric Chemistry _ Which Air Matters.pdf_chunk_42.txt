@@ -1,0 +1,10 @@
+(Reaction 1). Other atmospheric losses in decreasing order of
+magnitude and certainty are reaction with stratospheric OH,
+surface uptake by biota, and reaction with Cl atoms (Prather
+et al., 2012; Ciais et al., 2013).
+CH4 + OH →CH3 + H2O
+(R1)
+The CH4 abundance varies little throughout the troposphere
+(∼10 %), and the destruction of CH4 occurs with a mean loss
+frequency of ∼0.1 yr−1 (see Fig. 1a). Here we focus on cal-
+culating the tropospheric loss of CH4 by OH over 24 h (Re-

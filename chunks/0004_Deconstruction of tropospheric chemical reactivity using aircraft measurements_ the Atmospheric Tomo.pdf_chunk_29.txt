@@ -1,0 +1,8 @@
+documented in Fig. 5. Species with no sources because emis-
+sions are shut off decrease over the 24 h (CO, C2H6, alkane,
+alkene). NOx systematically decreases because there are no
+direct emissions and HNO3 is a major sink. HOOH system-
+atically increases because wet scavenging is turned off. O3
+and PAN show plus–minus scatter. HNO3 increases at values
+less than 2 ppb but decreases at the highest values (∼3 ppb).
+In terms of the calculation of ATom reactivities, the scatter is

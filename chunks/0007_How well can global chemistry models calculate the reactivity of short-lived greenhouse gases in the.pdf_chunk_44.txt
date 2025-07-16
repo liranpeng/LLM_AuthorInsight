@@ -1,0 +1,8 @@
+ments of the lower troposphere. GFDL has the most compact
+distribution of parcels and GISS, the most scattered. Four
+models (GSFC, GC, NCAR, UCI) have remarkably similar
+patterns in terms of the percentiles and structure, e.g., for
+L-CH4 vs. L-O3 they show the lower tropics dominating the
+upper part of the distribution and the extra-tropics, the lower-
+most points. GFDL has similar percentiles for P -O3 and L-
+CH4, but a much smaller spread for L-O3 that explains their

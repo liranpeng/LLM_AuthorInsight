@@ -1,0 +1,8 @@
+607, https://doi.org/10.5194/gmd-10-585-2017, 2017.
+Crawford, J., Olson, J., Davis, D., Chen, G., Barrick, J., Shet-
+ter, R., Lefer, B., Jordan, C., Anderson, B., Clarke, A.,
+Sachse, G., Blake, D., Singh, H., Sandolm, S., Tan, D.,
+Kondo, Y., Avery, M., Flocke, F., Eisele, F., Mauldin, L.,
+Zondlo, M., Brune, W., Harder, H., Martinez, M., Talbot, R.,
+Bandy, A., and Thornton, D.: Clouds and trace gas distribu-
+tions during TRACE-P, J. Geophys. Res.-Atmos., 108, 8818,

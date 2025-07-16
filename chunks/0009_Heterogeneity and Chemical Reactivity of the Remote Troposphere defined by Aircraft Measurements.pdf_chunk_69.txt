@@ -1,0 +1,20 @@
+57 %
+30 %
+NCAR
+82 %
+60 %
+110 %
+57 %
+68 %
+UCI
+45 %
+27 %
+121 %
+30 %
+68 %
+(14 %)
+Matrices are symmetric. Calculated with the 31 376 MDS-0 unweighted parcels using the
+standard RDS protocol. F0AM lacks 5510 of these parcels because there are no reported
+J values. UCI shows RMSD between years 2016 (default) and 1997 as the value in
+parentheses on diagonal. The unweighted mean R values from three core models (GC,
+GMI, UCI) are P-O3 = 1.97, L-O3 = 1.50 and L-CH4 = 0.66; all are in units of ppb/d.

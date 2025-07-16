@@ -1,0 +1,8 @@
+dent in both the observations and model. Figure 3 also re-
+veals occasional model overestimates of CO on ﬂights over
+North America (green triangles), as well as underestimates of
+high-CO plumes over the North Paciﬁc and tropical Atlantic.
+An underestimate of Eurasian biomass burning contributes to
+the model underestimates in the North Paciﬁc and North At-
+lantic, and has implications for ozone production in aged BB
+plumes. Globally, the correlation of simulated and observed

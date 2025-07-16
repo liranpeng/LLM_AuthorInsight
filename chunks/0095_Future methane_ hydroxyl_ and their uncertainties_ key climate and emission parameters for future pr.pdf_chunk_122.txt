@@ -1,0 +1,9 @@
+Gaussian uncertainty of 20 %.
+Figure 7 shows future methane and its uncertainty. Pro-
+jected abundances reach 3990 ± 330 ppb in 2100, which is
+about 400 ppb lower than our previous work (Prather et al.,
+2012), which did not account for emissions and climate
+controls on τCH4×OH. MAGICC predicts lower concentra-
+tions, 3750 ppb, due mainly to the strong negative sensitiv-
+ity of τCH4×OH to temperature in that model, but the MAG-
+ICC values lie within our estimated uncertainties through-

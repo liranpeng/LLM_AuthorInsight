@@ -1,0 +1,9 @@
+veloped by Duncan et al. (2007) to account for the CO source
+from non-methane hydrocarbon oxidation.
+CO from methane oxidation is included in the non-BB
+tagged tracers for the regions in which oxidation occurred.
+For example, if methane is oxidized over North America,
+the resulting CO is included in the North American non-
+BB tracer. The monthly mean methane ﬁelds come from
+a GMI chemistry and transport model (CTM) simulation,
+which uses prescribed zonal mean surface concentrations.

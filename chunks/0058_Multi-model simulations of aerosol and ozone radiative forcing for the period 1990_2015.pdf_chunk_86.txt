@@ -1,0 +1,9 @@
+M., and Seierstad, I. A.: The Norwegian Earth System Model,
+NorESM1-M – Part 2: Climate response and scenario projec-
+tions, Geosci. Model Dev., 6, 389–415, doi:10.5194/gmd-6-389-
+2013, 2013.
+Karl, T. R., Arguez, A., Huang, B., Lawrimore, J. H., McMahon,
+J. R., Menne, M. J., Peterson, T. C., Vose, R. S., and Zhang, H.-
+M.: Possible artifacts of data biases in the recent global surface
+warming hiatus, Science, 348, 1469–1472, 2015.
+Kaufman, Y. J., Tanre, D., and Boucher, O.: A satellite view of

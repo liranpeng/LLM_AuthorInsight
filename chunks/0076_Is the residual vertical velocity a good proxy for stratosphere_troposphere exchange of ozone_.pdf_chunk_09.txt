@@ -1,0 +1,4 @@
+Here we implement three commonly used STE diagnostic methods in the 3-D University of California
+Irvine Chemistry-Transport Model (CTM) driven by European Centre for Medium-Range Weather Forecasts
+(ECMWF) Integrated Forecast System (IFS) data. These methods include the following: (1) The tropospheric
+column method (TC method hereafter [Hsu et al., 2005]), applied without invoking photochemistry in the

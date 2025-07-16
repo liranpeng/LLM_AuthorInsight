@@ -1,0 +1,4 @@
+many potential sources of error and published studies showing how to improve the solar heating codes 
+used in climate models. Here, we assemble a wide range of these errors, either numerical approximations 
+or uncertainties in defining atmospheric conditions, and put them through the same test: calculating 
+the atmospheric and surface heating over a month of simulated climate conditions. Combining the new

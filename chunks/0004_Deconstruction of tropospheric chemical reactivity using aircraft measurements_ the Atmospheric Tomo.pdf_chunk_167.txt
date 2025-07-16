@@ -1,0 +1,8 @@
+be used with caution, although the central Paciﬁc PDs look
+similar across the four deployments and should provide a ro-
+bust statistic on the NOx distributions in the 0–12 km altitude
+range. For CO, O3, and RHw, we ﬁnd that the central Paciﬁc
+and tropical Atlantic PDs are stable across deployments and
+should present an excellent observational climatology met-
+ric for the models. The eastern Paciﬁc PDs vary greatly with
+deployment and do not represent a stable climatology.

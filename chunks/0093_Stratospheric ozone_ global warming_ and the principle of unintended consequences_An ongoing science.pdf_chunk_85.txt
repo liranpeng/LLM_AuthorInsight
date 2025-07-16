@@ -1,0 +1,8 @@
+private standards and industry associations.
+ Considering that HFC-152a has higher potential for energy
+efficiency than either HFC-1234yf or CO2 in MACs, and that
+HFC-152a produces no TFA atmospheric by-products.
+Furthermore, recent scientific studies of atmospheric lifetime
+report a lower GWP for HFC-1234yf to <1, making it superior
+with respect to the GWP of CO2. However, the analysis will
+want to stay focused on LCCP because the energy embodied

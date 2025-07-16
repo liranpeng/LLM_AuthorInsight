@@ -1,0 +1,12 @@
+each model. Thus, all the plots show forcing starting at 0.0
+in 1990.
+3
+Results
+3.1
+Trends in aerosol and ozone
+Evaluation of aerosol and chemistry models is a huge topic,
+given the large spatial variability in aerosol and chemical
+species as well as the difﬁculties associated with sampling
+issues (Schutgens et al., 2016) and the availability of long-
+Figure 2. Multi-model mean linear change in surface PM2.5 (a) and
+aerosol optical depth (AOD) at 550 nm (b), over the 1990–2015 pe-

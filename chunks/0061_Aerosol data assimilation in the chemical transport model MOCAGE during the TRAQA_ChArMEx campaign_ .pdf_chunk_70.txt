@@ -1,0 +1,8 @@
+ing aerosol number concentration in 20 size classes within
+a diameter range from 2 to 100 µm in the version of the in-
+strument used in the TRAQA campaign. The uncertainty for
+total concentration measurements is ±20 % when concentra-
+tions are higher than 1 cm−3 and up to about ±60 % when
+concentrations are smaller than 10−2 cm−3. LOAC uses the
+technique of measuring aerosol at two scattering angles (Lur-
+ton et al., 2014; Renard et al., 2015). During TRAQA, LOAC

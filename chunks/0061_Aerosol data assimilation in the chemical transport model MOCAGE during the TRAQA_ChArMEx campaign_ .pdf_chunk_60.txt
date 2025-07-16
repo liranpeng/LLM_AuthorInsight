@@ -1,0 +1,8 @@
+cal solar time at the Equator in the ascending node. We use
+MODIS Aerosol Optical Depth Collection C051 retrievals at
+550 nm from Terra and Aqua, the ocean product retrieved
+with the “best solution” and the reﬂectance-corrected land
+product. Their predicted uncertainties are 1τ = ±(0.03 +
+0.05τ) over oceans and 1τ = ±(0.05+0.15τ) over land (Re-
+mer et al., 2005). Over bright desert areas, we use the “Deep
+Blue” MODIS product (Hsu et al., 2006). For the assimila-

@@ -1,0 +1,8 @@
+and Holmes, 2013). A similar chemical feedback with oppo-
+site sign occurs for CH4 whereby the lifetime of a CH4 ad-
+dition is longer than inferred from the linear relationship of
+Reaction (1) (Prather, 1996). We retain these deﬁnitions of
+P-O3, L-O3, and L-CH4 because they still represent the re-
+activity in remote regions and the reaction rates, rather than
+a linearization, are straightforward CTM–CCM diagnostics.
+We deﬁne the reactivity of an air parcel (Reactions 1–3) in

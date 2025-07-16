@@ -1,0 +1,8 @@
+olution for CN ≈1. The cases in this paper are equivalent to
+many revolutions in this test case, and results for UCISOM
+look like some of the worst cases in Fig. 5, with peak tracer
+< 0.8. After results were completed for this study, a variant
+of L = 3 was tested, whereby the minimum–maximum crite-
+rion for the daughter cell is relaxed: the tracer is allowed to
+overshoot the parent min–max by a percentage. For large al-
+lowances (i.e., 3 %) the L = 3 case begins to look like L = 2

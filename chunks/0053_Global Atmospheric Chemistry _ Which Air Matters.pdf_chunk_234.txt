@@ -1,0 +1,8 @@
+Atmos., 105, 8931–8980, 2000.
+Stevenson, D. S., Dentener, F. J., Schultz, M. G., Ellingsen, K.,
+van Noije, T. P. C., Wild, O., Zeng, G., Amann, M., Ather-
+ton, C. S., Bell, N., Bergmann, D. J., Bey, I., Butler, T., Co-
+fala, J., Collins, W. J., Derwent, R. G., Doherty, R. M., Drevet,
+J., Eskes, H. J., Fiore, A. M., Gauss, M., Hauglustaine, D. A.,
+Horowitz, L. W., Isaksen, I. S. A., Krol, M. C., Lamarque, J. F.,
+Lawrence, M. G., Montanaro, V., Muller, J. F., Pitari, G., Prather,

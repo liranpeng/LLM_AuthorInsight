@@ -1,0 +1,18 @@
+ner, J., Perliski, L., Sillman, S., Stordal, F., Thompson, A., and
+Wild, O.: Results from the Intergovernmental Panel on Climatic
+Change Photochemical Model Intercomparison (PhotoComp), J.
+Geophys. Res.-Atmos., 102, 5979–5991, 1997.
+Palancar,
+G.
+G.,
+Shetter,
+R.
+E.,
+Hall,
+S.
+R.,
+Toselli,
+B.
+M., and Madronich, S.: Ultraviolet actinic ﬂux in clear
+and cloudy atmospheres: model calculations and aircraft-
+based measurements, Atmos. Chem. Phys., 11, 5457–5469,

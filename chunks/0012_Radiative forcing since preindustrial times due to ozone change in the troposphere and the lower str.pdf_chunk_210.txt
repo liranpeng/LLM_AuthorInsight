@@ -1,0 +1,9 @@
+Randel, W. J. F. and Wu, A.: stratospheric ozone trends data set
+for global modeling studies, Geophys. Res. Lett., 26(20), 3089–
+3092, doi:10.1029/1999GL900615, 1999.
+www.atmos-chem-phys.net/6/575/2006/
+Atmos. Chem. Phys., 6, 575–599, 2006
+598
+M. Gauss et al.: Radiative forcing due to ozone changes between 1850 and 2000
+Rayner, N. A., Horton, E. B., Parker, D. E., Folland, C. K., and
+Hackett, R. B.: Version 2.2 of the global sea-ice and sea-surface

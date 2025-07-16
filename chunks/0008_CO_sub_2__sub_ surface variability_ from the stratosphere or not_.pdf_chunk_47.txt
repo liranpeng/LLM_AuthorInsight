@@ -1,0 +1,8 @@
+taining high-quality, readily accessible data. I also acknowledge the
+support and assistance of my research group at UC Irvine, partic-
+ularly Xin Zhu for the CTM simulations and Daniel Ruiz for the
+N2O simulations.
+Financial support. The research at UCI has been supported
+by grants from the National Aeronautics and Space Administra-
+tion’s Atmospheric Chemistry Modeling and Analysis Program
+(ACMAP; grant no. 80NSSC21K1454) and the National Science

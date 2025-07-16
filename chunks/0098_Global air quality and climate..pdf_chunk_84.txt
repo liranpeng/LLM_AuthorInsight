@@ -1,0 +1,9 @@
+of plant stomata.206
+To understand the processes by which O3 and PM in surface
+air are inﬂuenced by changes in climate, several approaches
+are used (as reviewed by Jacob and Winner7):
+(1) Sensitivity studies in which individual meteorological
+parameters are perturbed (e.g., ref. 207 and 208);
+(2) Statistical downscaling of future changes in meteoro-
+logical ﬁelds, using correlations between observed changes in
+air quality indices and meteorological variables from climate

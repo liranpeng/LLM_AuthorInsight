@@ -1,0 +1,10 @@
+statistical extremes of the ozone climatology and not as
+air quality exceedances. With the University of California,
+Irvine chemistry-transport model (UCI CTM) we ﬁnd there
+is skill in hindcasting these extreme episodes, and thus iden-
+tify a new diagnostic using global chemistry–climate models
+(CCMs) to identify changes in the characteristics of extreme
+pollution episodes in a warming climate.
+1
+Introduction
+Links between climate change, global atmospheric chem-

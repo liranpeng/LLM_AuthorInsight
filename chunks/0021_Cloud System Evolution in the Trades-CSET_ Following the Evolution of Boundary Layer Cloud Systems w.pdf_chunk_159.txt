@@ -1,0 +1,6 @@
+Resolution Lidar Designed for Unattended Operation in the Arctic, 21st International Laser Radar 
+Conference}, July 8-12, 2002, Quebec, Canada.
+Sandu I, and Stevens B, 2011: On the factors modulating the stratocumulus to cumulus transitions. J. 
+Atmos. Sci, in press, doi: 10.1175/2011JAS3614.1
+Schwartz MC, Ghate VP, Cadeddu M, Vivekanandan J, Ellis S, Tsai P, Eloranta E, Albrecht B, 
+Zuidema P, Wood R and Bretherton CS: Merged Cloud and Precipitation Dataset from the

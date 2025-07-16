@@ -1,0 +1,9 @@
+(McCulloch et al., 1999), MCF provides the best available
+constraint on global OH levels and methane lifetime. The
+analysis here uses observations since 1998, when anthro-
+pogenic MCF emissions became small compared to atmo-
+spheric oxidation of the residual atmospheric burden. Con-
+sequently, MCF atmospheric lifetimes can be inferred from
+observed decay rates without detailed accounting for emis-
+sions and transport (Montzka et al., 2011).
+Atmos. Chem. Phys., 13, 285–302, 2013

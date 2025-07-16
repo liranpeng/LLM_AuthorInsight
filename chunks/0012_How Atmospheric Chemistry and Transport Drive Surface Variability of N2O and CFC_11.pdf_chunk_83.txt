@@ -1,0 +1,5 @@
+N2O- and CFCl3-depleted air into the troposphere and down to the surface. The overturning circulation, 
+including the stratosphere-to-troposphere flux, has a large seasonal cycle driven by solar heating, but also 
+well-known interannual variability associated with dynamics like the tropical QBO and wintertime sudden 
+stratospheric warmings.
+The surface signal in these model calculations should be uniquely stratospheric since we included no trop-

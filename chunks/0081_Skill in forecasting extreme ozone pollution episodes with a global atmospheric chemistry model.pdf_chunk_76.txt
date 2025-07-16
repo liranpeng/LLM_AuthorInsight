@@ -1,0 +1,9 @@
+pattern gives a level of detail that helps us identify possible
+sources of model error.
+The winter domain model bias of the average O3
+(MB = CTM minus observation (OBS), Fig. 6a–b) is
++19 ± 6 ppb (standard deviation across the grid cells) for the
+US and +18 ± 5 ppb for EU. The high-latitude background
+air (northern EU, upper Midwest US) has only a small bias
+(5–15 ppb); but air coming in from the mid-latitude oceans
+(east and west coast US, southern EU) has a higher bias (20–

@@ -1,0 +1,8 @@
+diative transfer model (Myhre et al., 2011). A small perturba-
+tion is used to satisfy the linearity assumption in the methane
+feedback factor derivation. In addition, we test the effect of
+methane-induced water vapor on stratospheric ozone, with an
+additional Oslo CTM3 simulation in which stratospheric wa-
+ter vapor was increased to maintain equilibrium with the CH4
+perturbation. To our knowledge, this indirect, H2O-mediated
+effect on ozone has not been included in prior assessments of

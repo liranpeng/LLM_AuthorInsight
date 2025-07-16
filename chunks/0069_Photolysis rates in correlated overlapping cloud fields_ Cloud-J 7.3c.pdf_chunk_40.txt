@@ -1,0 +1,8 @@
+all the ICAs, using Fast-J to calculate J values, and comput-
+ing the weighted sum of J’s. This study focuses on two J val-
+ues that are critical in tropospheric chemistry and emphasize
+different wavelength ranges from near 300 nm, where O3 ab-
+sorption and molecular scattering are important, to 600 nm,
+where clouds are the predominant factor. J-O1D refers to
+the photolysis rate of O3 + hν →O2 + O(1D); and J-NO3
+includes both channels of the rate of NO3 + hν →NO + O2

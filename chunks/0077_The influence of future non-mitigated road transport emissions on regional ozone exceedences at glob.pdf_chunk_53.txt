@@ -1,0 +1,7 @@
+values for A1B_HIGH of 0.05e0.1 occurring over North Africa and
+around Paris and London, which exhibit high population density
+and high resident NOx emissions. Comparing absolute differences
+between A1B and A1B_HIGH (not shown) reveals that unmitigated
+RTE reduces the resident mixing ratios of near-surface O3 around
+Paris by w1% as a result of enhanced chemical titration of O3 by the
+additional NO released (Kurtenbach et al., 2012). The largest de-

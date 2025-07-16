@@ -1,0 +1,11 @@
+4108
+B. Stevens et al.: EUREC4A
+Table B10. Continued.
+Instrument
+Brief description
+Particle counter
+DMT cloud condensation nuclei counter (CCNC) measuring the number of particles which can acti-
+vate cloud droplets at a speciﬁc supersaturation (0.1 % to 0.6 % supersaturation)
+Sun photometer
+MICROTOPS sun photometer capturing at sun views the solar attenuation at 380, 440, 670, 870,
+and 940 nm to derive column properties of aerosol optical depth (AOD) at these wavelengths and the

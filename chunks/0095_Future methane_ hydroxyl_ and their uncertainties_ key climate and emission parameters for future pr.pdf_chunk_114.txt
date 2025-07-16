@@ -1,0 +1,8 @@
+carlo realizations of future methane abundance in RCP 8.5,
+sampling over the uncertainties in all parametric factors and
+forcing variables in Eq. (3), as well as uncertainties in the
+present-day methane budget.
+Table 4 summarizes the predicted changes in climate and
+emissions in RCP 8.5. In this scenario most anthropogenic
+emissions of ozone precursors decrease by 2100 (7–75 %),
+although aircraft NOx emissions rise 123 %. Biomass burn-

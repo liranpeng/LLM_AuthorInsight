@@ -1,0 +1,7 @@
+N2O fluxes represent the sum of the effects of climate, increased atmos-
+pheric CO2 and land cover change. The estimate of climate and CO2 
+effects on emissions was based on NMIP. The effect of land cover change 
+on N2O dynamics includes the reduction due to ‘Long-term effect of 
+reduced mature forest area’ and the emissions due to ‘Post-deforestation 
+pulse effect’. The two estimates were based on the book-keeping 
+approach and the DLEM model simulation. The book-keeping method

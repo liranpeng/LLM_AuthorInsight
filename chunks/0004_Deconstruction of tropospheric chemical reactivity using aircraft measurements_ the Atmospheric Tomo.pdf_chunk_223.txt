@@ -1,0 +1,10 @@
+composition to reactivity.
+Author contributions. MJP designed the analysis, developed the
+MDS, and wrote the manuscript. HG and XZ performed most of the
+RDS calculations. HG worked on the MDS design and co-wrote the
+manuscript.
+Competing interests. The contact author has declared that none
+of the authors has any competing interests.
+Disclaimer. Publisher’s note: Copernicus Publications remains
+neutral with regard to jurisdictional claims in published maps and
+institutional afﬁliations.

@@ -1,0 +1,8 @@
+ﬂux form that participated in this intercomparison is an im-
+proved version (Prather et al., 2008) of the original second-
+order moment (SOM) scheme (Prather, 1986), which is here
+referred to as UCISOM (UC Irvine Second-Order Moments
+scheme). It applies the same operators/algorithm in all co-
+ordinate directions (via dimensional splitting) and hence is
+trivially extensible to three dimensions. In addition to the
+one prognostic variable (cell-averaged tracer mass) that all

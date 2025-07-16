@@ -1,0 +1,4 @@
+quantities are colored with the NH values in black and the SH in cyan. (e) Same as in Figure 1d but for ozone ﬂuxes
+across e90-tropopause in black solid line, across 120 ppb-O3 surface in cyan dash-dotted line and across 250 ppb-O3
+surface in red dashed line. (f) Latitudinal distribution of seasonal ozone ﬂuxes in Tg/yr per latitudinal bin (∼2.8◦) across
+100 hPa estimated by w∗O3 with September-October-November (SON) plotted in black, June-July-August (JJA) in red,

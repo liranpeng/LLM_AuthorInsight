@@ -1,0 +1,13 @@
+perature at 0.3 m below surface
+Glider payload
+Sea-Bird GPCTD measuring conductivity, temperature, and depth to infer ocean salinity and temper-
+ature at 8 m below surface
+Acoustic Doppler current
+proﬁler
+300 kHz ADCP measuring ocean current proﬁles from 0 to 120 m depth
+Table B27. SVP-BSW drifters.
+Instrument
+Brief description
+Thermistor
+30 K thermistor measuring seawater temperature at a depth of 20 cm
+CT sensors

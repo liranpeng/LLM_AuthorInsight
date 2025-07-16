@@ -1,0 +1,35 @@
+Atmos. Chem. Phys., 13, 285–302, 2013
+www.atmos-chem-phys.net/13/285/2013/
+C. D. Holmes et al.: Future methane, hydroxyl, and their uncertainties
+289
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+–10
+–5
+0
+5
+10
+anomaly, %
+Oslo CTM3
+UCI CTM
+GEOS-Chem/GEOS-5
+GEOS-Chem/MERRA
+Models (left axis)
+MCF decay rate anomaly, %
+10
+5
+0
+–5
+–10
+NOAA
+AGAGE
+Observations (right axis)
+τCH    OH
+4
+Fig. 2. Interannual variability of τCH4×OH in CTMs and observed
+global-mean methyl chloroform (MCF) decay rate. Observations

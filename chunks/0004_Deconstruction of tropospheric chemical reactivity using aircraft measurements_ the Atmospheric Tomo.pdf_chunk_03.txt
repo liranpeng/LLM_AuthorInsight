@@ -1,0 +1,4 @@
+the Modeling Data Stream (MDS), a continuous gap-ﬁlled record of the 10 s parcels containing the chemical
+species needed to initialize a gas-phase chemistry model for the budgets of tropospheric ozone and methane.
+Global 3D models have been used to calculate the Reactivity Data Stream (RDS), which is comprised of the
+chemical reactivities (production and loss) for methane, ozone, and carbon monoxide, through 24 h integration

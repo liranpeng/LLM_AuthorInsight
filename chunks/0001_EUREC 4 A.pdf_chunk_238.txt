@@ -1,0 +1,15 @@
+the EUREC4A-Circle of 20 min in each direction. Most mis-
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+https://doi.org/10.5194/essd-13-4067-2021
+B. Stevens et al.: EUREC4A
+4095
+Table A1. Fuel consumption from EUREC4A crewed aircraft. Some fuel burn rates were reported in pounds (lb) and were converted to liters
+using a conversion of 1.76 lb L−1.
+Aircraft
+Total fuel/liters
+Notes
+ATR
+92 348
+Includes cross-Atlantic transit from Toulouse, France.
+HALO
+235 493

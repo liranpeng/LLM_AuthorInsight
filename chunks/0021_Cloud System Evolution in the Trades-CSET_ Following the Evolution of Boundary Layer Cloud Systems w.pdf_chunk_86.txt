@@ -1,0 +1,5 @@
+GV flight path is plotted on the high resolution visible GOES image. Any of the satellite 
+cloud products can be displayed in this same format and selected using a menu that appears 
+on the Field Catalog display. The images from the cameras onboard the G-V can also be 
+viewed at the same time through the web portal to the Field Catalog. The dropsonde points 
+can be plotted on the flight display. During the flight, these Field Catalog near-real time

@@ -1,0 +1,8 @@
+Solar-J in a climate model.
+Solar-J is a starting point. In assessing the ﬁdelity of Solar-
+J in terms of interaction with the many components of the
+climate system, we can focus on the three major sources of
+costs/error (spectral intervals, multi-stream radiative transfer,
+and complex cloud systems) and, in parallel, on the opportu-
+nities for accelerated performance with new computational
+architectures. Ideally, the community would optimize com-

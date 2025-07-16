@@ -1,0 +1,4 @@
+formly with a loss frequency of 1/(90 days) throughout the atmosphere. Emissions are scaled to achieve
+a global mean value of 100 ppb, and the tropopause deﬁned by the temperature lapse rate is accurately
+described by the 90 ppb e90-surface (see details in Prather et al. [2011]). Ozone isosurfaces have also been
+used to mark the tropopause, but as shown in Considine et al. [2008] the value of O3 at the northern midlat-

@@ -1,0 +1,8 @@
+annual means. When separating the heating proﬁle changes
+into shortwave and longwave (not shown), the cooling signal
+near the tropopause is a combination of the cooling in both
+https://doi.org/10.5194/gmd-14-1219-2021
+Geosci. Model Dev., 14, 1219–1236, 2021
+1228
+Q. Tang et al.: Interactive stratospheric ozone (O3v2) in E3SM
+Figure 7. Zonal mean ozone proﬁles from O3v1 (a, b, c) and O3v2 minus O3v1 (d, e, f) at the upper troposphere and lower stratosphere

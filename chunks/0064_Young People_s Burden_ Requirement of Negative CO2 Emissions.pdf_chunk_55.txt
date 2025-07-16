@@ -1,0 +1,8 @@
+1920. The response of surface air temperature (SAT) over
+land is twice as large as the SST response to climate forc-
+ings in 21st century simulations with models (Collins et
+al., 2013), in good agreement with observed warming in
+the industrial era (Appendix A3 this paper, Fig. A3a). The
+ratio of land SAT change to SST change is reduced only
+to ∼1.8 after 1000 years in climate models (Fig. A6, Ap-
+pendix A6). This implies that, because land covers ∼30 %

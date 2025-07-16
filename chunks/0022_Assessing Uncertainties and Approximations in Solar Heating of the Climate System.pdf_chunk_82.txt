@@ -1,0 +1,15 @@
+in many climate models. The Geophysical Fluid Dynamics Laboratory (AM3) and the Canadian Center for 
+HSU AND PRATHER
+10.1029/2020MS002131
+9 of 24
+P(Θ) = 1 + g1 × 3 P1 (cos[Θ]) + g2 x 5 P2 (cos[Θ]) + g3 × 7 P3 (cos[Θ]) + … + g7 x15 P7 (cos[Θ])
+PMie(Θ) = 1 + 0.865 × 3 P1 (cos[Θ]) + 0.795 × 5 P2 (cos[Θ]) + … + 0.507 × 15 P7 (cos[Θ])
+PHG(Θ) = 1 + 0.865 × 3 P1 (cos[Θ]) + 0.748 × 5 P2 (cos[Θ]) + … + 0.362 × 15 P7 (cos[Θ])
+Method
+f
+g* = (g1–f)/(1–f)
+τ*sca/τsca = 1–f
+Notes
+δ-0 (isotropic)
+g1 = 0.865
+0

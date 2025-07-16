@@ -1,0 +1,7 @@
+temperature dataset.
+1
+Introduction
+The last year has seen a revolution in the field of numerical weather prediction. Multiple groups
+have shown improvements in key metrics over the state of the art physics-based medium-range
+weather prediction system using deep learning methods [2, 5, 13]. However, the applicability of
+these methods to climate modeling is unclear. Nearly all machine learning based weather prediction

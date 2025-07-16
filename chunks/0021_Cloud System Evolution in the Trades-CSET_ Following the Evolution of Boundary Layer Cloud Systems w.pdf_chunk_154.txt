@@ -1,0 +1,6 @@
+Stratocumulus Interaction during ASTEX. J. Atmos. Sci, 52 (16), 2809–2826.
+Minnis P, et al. (2008), Near-real time cloud retrievals from operational and research meteorological 
+satellites, Proc. SPIE Int. Soc. Opt. Eng, 7107, 710703, doi:10.1117/12.800344.is.etal.SPIE.abs.
+08.pdf.
+Minor HA, Rauber RM, Göke S, Di Girolamo L, 2011: Trade wind cloud evolution observed by 
+polarization radar: Relationship to giant condensation nuclei concentrations and cloud

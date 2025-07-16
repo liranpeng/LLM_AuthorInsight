@@ -1,0 +1,9 @@
+N = 640 (λeff = 0.28125) for the shape preserving case
+and N = 960 (λeff = 0.1875) for the unﬁltered case. To
+generate the sphere grid, we map the computational domain
+[−3,1] × [−1,1] using a simple mapping T (ξ,η) described
+in Calhoun et al. (2008). The resulting ﬁnite volume mesh
+cells are nearly uniform in size. The computational mesh
+width for a given resolution is 1x = 1y = 2/N.
+Clawpack uses a variable time-stepping scheme and
+chooses time steps based on a maximum wave speed, cell

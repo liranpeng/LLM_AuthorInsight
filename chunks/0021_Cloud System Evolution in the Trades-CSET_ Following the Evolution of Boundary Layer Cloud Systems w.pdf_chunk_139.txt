@@ -1,0 +1,6 @@
+the ASTEX Lagrangian Experiments. Part II: Cloudiness, drizzle, surface fluxes and entrainment. 
+J. Atmos. Sci, 52, 2724–2735.
+Bretherton CS, and Wyant MC, 1997: Moisture transport, lower tropospheric stability and decoupling 
+of cloud-topped boundary layers. J. Atmos. Sci 54, 148–167.
+Bretherton CS, Krueger SK, Wyant MC, Bechtold P, Van Meijgaard E, Stevens B, and Teixeira J, 
+1999: A GCSS boundary-layer cloud model intercomparison study of the First ASTEX Lagrangian

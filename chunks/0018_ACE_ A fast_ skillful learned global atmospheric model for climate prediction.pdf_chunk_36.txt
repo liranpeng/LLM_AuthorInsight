@@ -1,0 +1,4 @@
+To reduce confounding factors, in this study we focused on a training dataset with simplified
+(annually-repeating) forcing. It may be necessary to expand the training and input variable set to be
+able to handle a changing climate. Our suggested approach is to train on a broad range of simulation
+data that covers the regimes of interest [6]. However, simulated data are not the real world and have

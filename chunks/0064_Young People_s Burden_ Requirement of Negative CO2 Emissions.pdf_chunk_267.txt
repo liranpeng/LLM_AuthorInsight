@@ -1,0 +1,8 @@
+other non-CO2 GHGs, especially N2O.
+Methane (CH4) is the largest climate forcing other than
+CO2 (Fig. 4). The CH4 atmospheric lifetime is only about
+10 years (Prather et al., 2012), so there is potential to reduce
+this climate forcing rapidly if CH4 sources are reduced. Our
+climate simulations, based on the RCP6.0 non-CO2 GHG
+scenarios, follow an optimistic path in which CH4 increases
+moderately in the next few decades to 1960 ppb in 2070 and

@@ -1,0 +1,11 @@
+the EUREC4A/ATOMIC intensive observation period until
+15 July 2020.
+B18
+SWIFTs and Wave Gliders
+A total of six SWIFT (Surface Wave Instrument Floats with
+Tracking) drifting platforms were deployed from the R/V
+Ron Brown during EUREC4A. There was an initial deploy-
+ment for 2 weeks in January 2020 and a second deployment
+for another 2 weeks in February 2020. SWIFTs are produced
+and operated by the Applied Physics Laboratory at the Uni-
+versity of Washington. Two of the SWIFTs were version 3

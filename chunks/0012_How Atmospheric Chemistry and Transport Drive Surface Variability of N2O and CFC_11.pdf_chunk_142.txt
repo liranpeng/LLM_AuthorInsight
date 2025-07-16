@@ -1,0 +1,13 @@
+modeling results were funded through 
+the Copernicus Atmosphere Monitoring 
+Service (https://atmosphere.copernicus.
+eu/), implemented by ECMWF on 
+behalf of the European Commission 
+and were generated using computing 
+resources from LSCE. The authors 
+also acknowledge Ed Dlugokencky for 
+providing the zonal surface N2O data 
+that was used here to produce an obser-
+vation-based reference with which to 
+compare our simulated results. The au-
+thors thank the anonymous reviewers

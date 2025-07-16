@@ -1,0 +1,14 @@
+Network problems
+We are sorry, but your search could not be completed due to
+network problems. Please try again later.
+Server timeout
+We are sorry, but your search could not be completed due to server
+timeouts. Please try again later.
+Empty search term
+You have applied the search with an empty search term. Please
+revisit and try again.
+Too many requests
+We are sorry, but we have received too many parallel search
+requests. Please try again later.
+Searching
+Articles | Volume 22, issue 3

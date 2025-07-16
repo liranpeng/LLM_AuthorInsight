@@ -1,0 +1,9 @@
+PAR sensor
+LICOR LI-192SA sensor measuring photosynthetically active radiation at 2.6 m above water line
+CT sensor
+SBE-37-SMP-ODO MicroCAT measuring seawater temperature, salinity, conductivity, and dissolved
+oxygen (pumped CTD at 0.5 m depth)
+CT sensor
+RBR Ltd C.T.ODO.chl-a logger measuring seawater temperature, salinity, conductivity, dissolved
+oxygen, and chlorophyll a (experimental); inductive CTD at 0.53 m depth
+Fluorometer

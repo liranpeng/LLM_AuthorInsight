@@ -1,0 +1,14 @@
+families of similar species or intermediate short-lived reac-
+https://doi.org/10.5194/acp-23-99-2023
+Atmos. Chem. Phys., 23, 99–117, 2023
+106
+H. Guo et al.: Heterogeneity and chemical reactivity
+Table 4. ATom data ﬁles used here.
+Primary aircraft data
+Formatting and content
+Comments
+(a) Mor.all.at1234.2020-05-27.tbl
+(b) Mor.WAS.all.at1234.2020-05-27.tbl
+(c) Mor.TOGA.all.at1234.2020-05-27.tbl
+All from Wofsy et al. (2018).
+(a) 149 133 records × 675 csv columns, 10 s

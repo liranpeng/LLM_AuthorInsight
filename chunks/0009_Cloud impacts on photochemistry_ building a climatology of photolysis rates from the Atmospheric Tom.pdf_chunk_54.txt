@@ -1,0 +1,8 @@
+some models have ratios close to 1 throughout the tropo-
+sphere (especially in the Tropics) while others have ratios
+> 1.1 at altitudes above 800 hPa and < 0.9 below 900 hPa. In a
+recent model intercomparison with speciﬁed chemical abun-
+dances (Prather et al., 2018), we found that the tropospheric
+photochemistry of O3 and CH4 responded almost linearly
+to cloudy–clear changes in J values (see Fig. S4; data not
+shown in Prather et al., 2018). Thus the differing impact of

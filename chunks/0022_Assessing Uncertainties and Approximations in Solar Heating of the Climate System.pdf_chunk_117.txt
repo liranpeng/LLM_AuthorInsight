@@ -1,0 +1,44 @@
+is similar to three of the four habits shown here, but they all differ from the "10 plates" habit (except for roughness 050). The 10 plates habit has the most 
+asymmetric shape with a maximum length to effective diameter ratio of 7.5 (vs. 1.0 for a sphere).
+0
+1
+2
+3
+4
+5
+6
+7
+8
+Legendre Polynomial 0:7
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+coefficient / (2L+1)
+(b)
+Tmat irr
+Tmat hex
+PY droxtal
+PY 8 colms
+PY 10 plates
+PY SBRoset
+0
+1
+2
+3
+4
+5
+6
+7
+8
+Legendre Polynomial 0:7
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1

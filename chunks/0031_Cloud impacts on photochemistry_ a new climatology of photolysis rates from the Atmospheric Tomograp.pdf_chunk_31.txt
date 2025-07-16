@@ -1,0 +1,8 @@
+form a more accurate calculation of generic cloud layers off-
+line and then apply correction factors to the clear-sky Js
+computed in-line: e.g., an increase above the cloud deck and
+a decrease below (Chang et al., 1987). Another approach
+used a climatology of overlapping cloud decks to deﬁne a set
+of opaque, fully reﬂecting surfaces at different levels; e.g.,
+the Js would be averaged over these sub-grid column atmo-
+spheres (Logan et al., 1981; Spivakovsky et al., 2000). As

@@ -1,0 +1,5 @@
+codes where much of the diffuse light is reported as direct beam. Thus, 2-stream methods have large 
+errors in the diffuse:direct ratio of PAR under clouds or aerosols. We estimate that PAR errors are level 2, 
+but a more thorough analysis would need to couple the direct and diffuse PAR to a land biosphere model 
+to evaluate the errors in primary productivity (equivalent of W m−2).
+Data Availability Statement

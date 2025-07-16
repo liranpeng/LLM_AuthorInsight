@@ -1,0 +1,61 @@
+used in Hoor et al. (2009).
+NOx emissions in Tg(N)
+CO emissions in Tg(C)
+NMHC emissions in Tg(C)
+Source
+2000
+2025A1B
+2050A1B
+2000
+2025A1B
+2050A1B
+2000
+2025A1B
+2050A1B
+References
+Aircraft
+0.85
+1.42
+3.33
+–
+–
+–
+–
+–
+–
+Owen et al. (2010)
+Ship
+4.56
+6.42
+8.64
+0.59
+1.19
+2.30
+0.36
+0.66
+1.20
+Eide et al., (2007);
+Endresen et al. (2007)
+Road
+8.89
+6.45
+1.71
+47.2
+27.7
+11.3
+11.4
+5.55
+1.70
+Borken et al. (2007);
+Uherek et al. (2010)
+Non-trafﬁc
+28.9
+35.7
+30.1
+365
+485
+459
+108
+135
+119
+van Aardenne et al. (2005);

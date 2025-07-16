@@ -1,0 +1,8 @@
+1994) and N2O (Nevison et al., 2007). Sometimes SMO is
+synchronous with the SH extratropics (CGO and SPO, which
+are almost always synchronous with each other) and at other
+times it links with MLO and the NH. Thus, to use SMO CO2
+as a metric for carbon cycle models, one must recognize that
+SMO is not simply representative of the SH tropics. When
+evaluating carbon cycle models, one should test tracer trans-
+port using the IAV for SMO versus SPO+CGO. As shown

@@ -1,0 +1,8 @@
+zero net RF line accounts for long-lived O3 changes that enhance
+the CH4 RF by approximately 34 % (Eq. 4). Literature values are
+from studies listed in Tables 2 and 3.
+occur over land, however, due to long-range transport of
+O3 and H2O2 perturbations from ship NOx. These oxi-
+dants mainly convert SO2 to sulfate in cloud water, which
+is quickly followed by wet deposition, so that ship NOx
+drives sulfate aerosol burdens down over anthropogenic SO2

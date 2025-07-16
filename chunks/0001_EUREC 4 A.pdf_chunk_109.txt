@@ -1,0 +1,8 @@
+the cloud patterns observed on 28 January), cloud droplets
+were too small to be detected by the radar, but the lidar
+could detect the presence of many successive clouds along a
+roughly 10 km line of sight, i.e., half of its box-pattern width
+(Fig. 10; Chazette et al., 2021). In the presence of larger
+cloud droplets, normally associated with larger or more-
+water-laden clouds, such as on 11 February, the radar de-
+tected larger droplets and rain drops over a range of 10 km

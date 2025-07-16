@@ -1,0 +1,8 @@
+terms for AIR nearly cancel out for the two most optimistic
+emission scenarios (B1 and B1 ACARE) in 2050, and even
+yield a slightly negative net impact for the mitigation sce-
+nario (Fig. 5, bottom). On the other hand, the highest emis-
+sion scenario (A1B) yields net RF due to AIR of 12 (± 11)
+mW m−2, almost twice the impact in 2000. For SHIP, the
+impact on net RF is negative in 2000, and its absolute impact
+will increase in the future for both the A1B and B1 scenar-

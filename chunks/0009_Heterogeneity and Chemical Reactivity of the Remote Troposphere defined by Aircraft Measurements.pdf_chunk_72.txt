@@ -1,0 +1,8 @@
+P-O3. These rms values appear to be about as close as any
+two models can get. The intra-model rms for different years
+(UCI 2016 versus 1997) is 10 %–13 % and shows that we are
+seeing basic differences in the chemical models across GC,
+GMI and UCI. F0AM is the closest to the central models, but
+it will inherently have a larger rms because it is a 1 d calcula-
+tion and not a 5 d average. NCAR’s rms is consistently higher
+and likely related to what is seen in the 5 d σ values in Ta-

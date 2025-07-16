@@ -1,0 +1,8 @@
+estimate the variability of the missing measurement over the
+gap. The science team then rejected PSS-NOx as a proxy,
+and we reverted to the observed NO + NO2 resulting in NOx
+values that are 25 % larger on average than in MDS-0 (un-
+weighted mean of 66 vs. 52 ppt). This change affected P-
+O3 most and L-CH4 least. We then estimated errors in the
+gap-ﬁlling and found that CO had little skill as a proxy for
+most other species. With MDS-2, we optimized and tested

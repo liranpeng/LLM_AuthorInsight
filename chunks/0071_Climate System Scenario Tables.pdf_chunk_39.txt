@@ -1,0 +1,7 @@
+application. Atmos. Chem. Phys., 10, 7017–7039.
+Lamarque, J. F., et al., 2013: The Atmospheric Chemistry and Climate Model 
+Intercomparison Project (ACCMIP): Overview and description of models, 
+simulations and climate diagnostics. Geosci. Model Dev., 6, 179–206.
+Meinshausen, M., T. M. L. Wigley, and S. C. B. Raper, 2011b: Emulating atmosphere-
+ocean and carbon cycle models with a simpler model, MAGICC6-Part 2: 
+Applications. Atmos. Chem. Phys., 11, 1457–1471.

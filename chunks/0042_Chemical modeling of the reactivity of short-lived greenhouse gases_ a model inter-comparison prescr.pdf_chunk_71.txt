@@ -1,0 +1,8 @@
+parcels are in the triple-overlap area (1–10 %); but when P -
+O3 parcels coincide with either L-O3 or L-CH4 parcels, they
+generally lie in this triple-overlap area. The only major ex-
+ception to this pattern is GISS. In terms of L-O3 and L-CH4
+overlap, 4 models are very consistent (76–80 %); but GISS
+is unusually low (49 %) and GFDL is unusually high (93 %).
+These patterns help identify distinctly different chemistries
+in these models that have been identiﬁed with other diagnos-

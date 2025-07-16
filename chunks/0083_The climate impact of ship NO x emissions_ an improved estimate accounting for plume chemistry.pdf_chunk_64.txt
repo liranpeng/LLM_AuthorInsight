@@ -1,0 +1,7 @@
+Observationsf
+11.2 ± 1.3
+11.2 ± 1.3
+11.2 ± 1.3
+a τ is the CH4 lifetime due to tropospheric OH, reported in years. (dlnτ)/dE is the derivative of τ with respect to ship NOx emissions, reported in % [Tg(N) yr−1]−1.
+dFCH4/dE is the derivative of CH4 RF with respect to ship NOx emissions, reported in mW m−2 [Tg(N) yr−1]−1. Both dτ/dE and dFCH4/dE are calculated from steady-state
+5 % perturbations to ship NOx emissions on top of the base emission inventory.

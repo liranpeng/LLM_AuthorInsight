@@ -1,0 +1,5 @@
+cloud properties, and aerosol distributions were sampled using the HCR and HSRL 
+operating in a downward facing mode to sample from the flight level to the surface. This leg 
+was typically flown at about 6 km (20 kft). Generally, in situ cloud and MBL observations 
+were made in three targeted areas along these transects on profiling flight legs flown in and 
+just above the BL over a distance of 1500 to 1800 km). For the return flights from Hawaii,

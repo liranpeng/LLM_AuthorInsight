@@ -1,0 +1,6 @@
+predicting outputs equal to input would result in each variable contributing equally to the loss
+function (similar to [11]). See Appendix H for details and Appendix I.1 for an ablation of this choice.
+This “residual scaling” approach has the largest impact on the surface pressure, which ends up having
+a normalized standard deviation about 20 times larger than otherwise (Figure 12).
+Loss Function
+Given xi representing the normalized target for the i’th sample of a batch for all

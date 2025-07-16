@@ -1,0 +1,55 @@
+clouds (all) 
+351.46 
+131.19 
+  78.49 
+141.77 
+MI 
+18 
+ 
+SJ/δ1ice 
+flat-atmosphere, QCA/MAX-
+COR overlap 
+351.43 
+111.57 
+76.88 
+162.98 
+D0 
+18,19 
+SJ 
+flat-atmosphere, QCA/MAX-
+COR cloud overlap  
+351.43 
+111.59 
+76.87 
+162.97 
+D1 
+19,21 
+SJ/RAN 
+flat-atmosphere, QCA/MAX-
+RAN overlap 
+351.43 
+110.24 
+76.81 
+164.38 
+O0 
+22 
+SJ/OSA 
+sphere, varied OSA 
+352.98 
+111.72 
+76.77 
+164.49 
+O1 
+22 
+SJ 
+sphere, fixed OSA at 0.06 
+352.98 
+112.40 
+76.93 
+163.65 
+ 
+RR0 
+4 
+AER4.0 
+clear sky 
+351.38

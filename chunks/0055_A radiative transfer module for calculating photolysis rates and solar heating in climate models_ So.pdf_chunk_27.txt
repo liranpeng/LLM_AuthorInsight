@@ -1,0 +1,8 @@
+change in wavelength. The O3 cross sections vary smoothly
+over bin 18 and are > 0.5 × 10−21 cm2 over the range 475–
+725 nm with a broad maximum of 5 × 10−21 cm2 about
+600 nm. Overhead opacity ranges from 0.4 to 4 % over this
+band. With optically thin absorption, one can use the ﬂux-
+weighted average cross section, 1.94×10−21 cm2, for the en-
+tire bin. Both the attenuation of sunlight and the absorption
+of photons to calculate the O3 photolysis rate use this aver-

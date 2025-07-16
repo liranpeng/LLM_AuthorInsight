@@ -1,0 +1,55 @@
+The variance of P-O3 is slightly larger, 8–17 %, in part be-
+www.atmos-chem-phys.net/17/9081/2017/
+Atmos. Chem. Phys., 17, 9081–9102, 2017
+9090
+M. J. Prather et al.: Global atmospheric chemistry – which air matters
+P (hPa)
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+C
+D
+E
+A
+B
+P (hPa)
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+2.5
+0
+0.5
+2.0
+1.0
+1.5
+L-CH4  (ppb day -1)
+2.5
+0
+0.5
+2.0
+1.0
+1.5
+L-CH4  (ppb day -1)
+2.5
+0
+0.5
+2.0
+1.0
+1.5
+L-CH4  (ppb day -1)
+A = CAM4-Chem
+B = GEOS-Chem
+C = GFDL-AM3
+D = GISS-E2

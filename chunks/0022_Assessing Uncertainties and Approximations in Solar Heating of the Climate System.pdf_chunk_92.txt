@@ -1,0 +1,4 @@
+tion's second term, f = g2 and the revised g* and τ*sca are calculated as for δ-1. For comparison, an isotrop-
+ic-equivalent method, designated δ-0 here, drops the asymmetry factor in the phase function and calculates 
+a reduced τ*sca using f = g1 and the above formulae. From the example in Table 2, δ-0 is the least forward 
+scattering with the largest reduction in τsca (1–f = 0.14); δ-2 has the next largest reduction (1–f = 0.20); while

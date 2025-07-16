@@ -1,0 +1,14 @@
+3.8 × 1015 m4 s−1, 3.8 × 1014 m4 s−1, and 1.8 × 1013 m4 s−1
+for resolutions NE = 10 (1λm = 3◦), NE = 20 (1λm ≈
+1.5◦), NE = 40 (1λm ≈0.75◦), and NE = 100 (1λm =
+0.3◦), respectively. The hyperviscosity coefﬁcients are com-
+puted so that at NE = 30 the coefﬁcient is 1.0 × 1015 m4 s−1
+and scales with resolution as
+ν(1λ) =
+1λ
+1◦
+η
+1015 m4 s−1,
+(A2)
+where η ≈3.2 was chosen to match CAM-SE default set-
+tings, which is similar to values used in the literature (e.g.,

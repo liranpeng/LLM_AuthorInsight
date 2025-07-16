@@ -1,0 +1,4 @@
+clouds, they are maximally overlapped; but when two cloudy layers, or two groups of contiguous (maximal-
+ly) overlapped clouds, are separated by a clear layer, they are randomly overlapped (e.g., see figures in Neu 
+et al., 2007). More realistic cloud-overlap algorithms have been developed based on observations showing 
+that cloud overlap has a vertical decorrelation length (H. W. Barker, 2008; Bergman & Rasch, 2002; Di

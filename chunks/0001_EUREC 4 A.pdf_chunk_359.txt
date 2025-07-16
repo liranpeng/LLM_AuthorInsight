@@ -1,0 +1,14 @@
+Fluorometer
+WET Labs ECO Triplet measuring chlorophyll ﬂuorescence, chromophoric dissolved organic matter
+(CDOM) ﬂuorescence, and optical backscatter at 650 nm
+Table B18. Omura (SG637).
+Instrument
+Brief description
+CT sail
+Sea-Bird unpumped CT sail measuring temperature and conductivity
+Acoustic Doppler current
+proﬁler
+Nortek Signature1000 1 MHz acoustic Doppler current proﬁler (ADCP) measuring vertical shear of
+horizontal current velocity
+Table B19. Melonhead (SG620).
+Instrument

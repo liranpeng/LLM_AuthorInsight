@@ -1,0 +1,51 @@
+351.37 
+49.91 
+70.72 
+230.74 
+C0 
+7-8 
+SJ/66b 
+sphere, QCA/MAX-COR 
+overlap, no IR gases 
+352.85 
+127.37 
+28.96 
+196.53 
+C1 
+7 
+SJ/CLIRAD 
+sphere, QCA/MAX-COR 
+overlap, no IR gases 
+352.86 
+125.23 
+32.80 
+194.83 
+C2 
+8 
+SJ 
+sphere, QCA/MAX-COR 
+overlap, no IR gases 
+352.89 
+126.23 
+30.64 
+196.02 
+Mh 
+9 
+SJ/HG 
+flat-atmosphere, averaged 
+clouds, no ice clouds 
+351.45 
+127.26 
+78.31 
+145.88 
+M0 
+9-14 
+SJ 
+flat-atmosphere, averaged 
+clouds, no ice clouds 
+351.45 
+127.31 
+78.17 
+145.97 
+M1 
+10

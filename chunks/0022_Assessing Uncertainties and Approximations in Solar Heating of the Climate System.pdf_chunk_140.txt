@@ -1,0 +1,5 @@
+Journal of Advances in Modeling Earth Systems
+in-cloud heating than RRTMG(Fu) (their Figures 2d−f). As shown in LBYY, this is a standing problem with 
+all 2-stream codes, and the new ice optics appear to have made this error worse.
+Baek and Bae (2018) updated the Korean Integrated Model (KIM) radiation code based on RRTMG using 
+the Yang et al (2013) ice optics library and tested with the KIM forecasting system. They show that use of

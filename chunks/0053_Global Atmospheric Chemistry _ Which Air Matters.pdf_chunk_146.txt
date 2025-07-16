@@ -1,0 +1,9 @@
+chemical climatology identifying those air parcels that mat-
+ter, i.e., are most important in controlling methane and tro-
+pospheric ozone. Such data will further provide the most rig-
+orous testing and diagnosis of the global chemistry models,
+in particular the chemistry–climate models, which require a
+climatology.
+Here we present a six model comparison using this new
+approach. We outline the model development (i.e., the A-
+www.atmos-chem-phys.net/17/9081/2017/

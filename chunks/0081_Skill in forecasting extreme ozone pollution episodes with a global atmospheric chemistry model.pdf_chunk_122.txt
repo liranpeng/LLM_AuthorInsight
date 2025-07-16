@@ -1,0 +1,8 @@
+weighted towards spring months. Similar patterns are seen
+in the 84th- and 50th-percentile values, while the highest
+values in the 16th percentile are slightly weighted towards
+the spring. These MDA8 values corresponding to these per-
+centiles show excellent agreement with the monthly AQX
+frequencies. For the 2005–2006 case (Table S2 in the Sup-
+plement), July dominates in the EU observations due to the
+2006 summer having 14 out of 20 of the events, while in

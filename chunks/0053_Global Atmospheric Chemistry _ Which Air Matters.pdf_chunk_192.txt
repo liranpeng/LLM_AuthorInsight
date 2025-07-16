@@ -1,0 +1,14 @@
+on
+air
+quality,
+Atmos.
+Environ.,
+43,
+51–63,
+https://doi.org/10.1016/j.atmosenv.2008.09.051, 2009.
+Jacob, D. J., Crawford, J. H., Kleb, M. M., Connors, V. S., Ben-
+dura, R. J., Raper, J. L., Sachse, G. W., Gille, J. C., Em-
+mons, L., and Heald, C. L.: Transport and Chemical Evolu-
+tion over the Paciﬁc (TRACE-P) aircraft mission: Design, ex-
+ecution, and ﬁrst results, J. Geophys. Res.-Atmos., 108, 1–19,
+https://doi.org/10.1029/2002jd003276, 2003.

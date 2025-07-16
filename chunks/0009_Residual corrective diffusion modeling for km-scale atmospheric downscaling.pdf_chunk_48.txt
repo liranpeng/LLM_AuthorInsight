@@ -1,0 +1,7 @@
+from 600 typhoon-containing time intervals in the years 1980–2020
+period. This extended analysis suggests that, while the main results
+emphasized for are case study above are qualitatively representative
+when typhoons are far from land, the diffusion component of
+CorrDiff frequently plays a stronger role in intensifying typhoon
+axisymmetric structure, and CorrDiff tends to lead to too much
+horizontal contraction of cyclone morphology, predicting a radius

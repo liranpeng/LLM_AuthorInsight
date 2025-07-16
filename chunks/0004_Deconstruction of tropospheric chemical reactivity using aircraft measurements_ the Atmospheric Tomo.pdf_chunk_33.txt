@@ -1,0 +1,8 @@
+ture of air parcels. Table 1 presents the means and medians of
+each of the four reactivities (P-O3, L-O3, L-CH4, L-CO) and
+two J values (J-O1D, J-NO2) for each of the eight regions
+(Paciﬁc, Atlantic, central tropical Paciﬁc, eastern tropical Pa-
+ciﬁc, tropical Atlantic, Southern Ocean, Arctic, Antarctic)
+and four deployments (ATom-1234 in August, February, Oc-
+tober, and May, respectively). Each 10 s parcel is weighted to
+give equal sampling by mass from 0 to 12 km for each 10◦

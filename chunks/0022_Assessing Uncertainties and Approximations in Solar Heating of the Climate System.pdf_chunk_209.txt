@@ -1,0 +1,4 @@
+equation for cloudy-sky conditions. Journal of the Atmospheric Sciences, 72, 4053–4074. https://doi.org/10.1175/JAS-D-15-0033.1
+Barker, H. W., Cole, J. N. S., Morcrette, J.-J., Pincus, R., Raisanen, P., von Salzen, K., et al. (2008). The Monte Carlo Independent Column 
+Approximation: An assessment using several global atmospheric models. Quarterly Journal of the Royal Meteorological Society, 134, 
+1463–1478.

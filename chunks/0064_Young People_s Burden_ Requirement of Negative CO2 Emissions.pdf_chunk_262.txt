@@ -1,0 +1,10 @@
+effects discussed by Myhre et al. (2013), so our net CH4 forc-
+ing agrees with Etminan et al. (2017) within uncertainties.
+A11
+Solar irradiance
+Solar irradiance has been measured from satellites since the
+late 1970s. Figure A11 is a composite of several satellite-
+measured time series. Data through 28 February 2003 are
+an update of Frohlich and Lean (1998) obtained from the
+Physikalisch Meteorologisches Observatorium Davos, World
+Radiation Center. Subsequent update is from University of

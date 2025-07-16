@@ -1,0 +1,12 @@
+Acoustic Doppler current
+proﬁler
+Nortek Signature1000 1 MHz acoustic Doppler current proﬁler (ADCP) with a ﬁve-beam setup for
+estimating velocity shear and biomass in the water column, range 30 m
+Table B17. Humpback (SG579).
+Instrument
+Brief description
+CT sail
+Sea-Bird unpumped CT sail measuring temperature and conductivity
+PAR sensor
+Biospherical Instruments QSP2150 measuring photosynthetically active radiation
+Fluorometer

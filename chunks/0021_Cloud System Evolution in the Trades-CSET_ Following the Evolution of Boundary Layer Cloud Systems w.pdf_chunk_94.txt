@@ -1,0 +1,5 @@
+about half of this time flown at the beginning and the end of each flight in survey mode at a 
+nominal height of 6 km. The middle of the flight was devoted to the level-leg sampling at 
+low levels and the profiling described previously. Rough estimates of the mean trajectories 
+flown during these 14 flights are shown in Fig. 5 and are overlaid on the mean SST and wind 
+vectors from NCEP reanalyzes. The mean trajectories go from higher lower to higher SSTs

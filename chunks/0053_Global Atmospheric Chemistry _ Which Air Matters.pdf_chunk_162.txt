@@ -1,0 +1,9 @@
+ing model data (https://doi.org/10.5067/Aircraft/ATom/TraceGas_
+Aerosol_Global_Distribution), and in time the data will be migrated
+to that DOI.
+The Supplement related to this article is available online
+at https://doi.org/10.5194/acp-17-9081-2017-supplement.
+Competing interests. The authors declare that they have no conﬂict
+of interest.
+Acknowledgements. This work was supported by NASA fund-
+ing of the EVS2 Atmospheric Tomography (ATom) mission

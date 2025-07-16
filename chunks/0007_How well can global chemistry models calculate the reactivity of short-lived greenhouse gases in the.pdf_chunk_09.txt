@@ -1,0 +1,8 @@
+six global chemistry models can agree on the reactivity of
+these parcels. To do this, we develop a new protocol and set
+of diagnostics for merging in situ measurements with 3-D
+model simulations of atmospheric chemistry. We focus here
+on tropospheric ozone production and loss (P -O3, L-O3)
+and methane loss (L-CH4), as these two gases are the most
+important GHGs controlled through tropospheric chemistry.
+Further, control of CH4 and O3 provides an important path-

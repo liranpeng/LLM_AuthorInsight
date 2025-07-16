@@ -1,0 +1,10 @@
+www.atmos-chem-phys.net/14/7721/2014/
+Atmos. Chem. Phys., 14, 7721–7739, 2014
+7736
+J. L. Schnell et al.: Skill in forecasting extreme ozone pollution episodes
+We also tested our interpolation algorithm by applying ran-
+dom noise to the raw station data and then recalculating the
+cell-average values. This analysis, although not shown, re-
+vealed the CTM’s skill did not signiﬁcantly degrade until the
+amplitude reached ±10 ppb.
+Our goal of providing observational validation of the air

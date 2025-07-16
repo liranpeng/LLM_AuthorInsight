@@ -1,0 +1,7 @@
+mate models. SPARC Report No. 5, WCRP-30/2010, WMO/TD – No. 40. https://www.spar-climate.org/publications/sparc-reports/
+Pincus, R., Barker, H. W., & Morcrette, J. J. (2003). A fast, flexible, approximate technique for computing radiative transfer in inhomogene-
+ous cloud fields. Journal of Geophysical Research, 108(D13), –. https://doi.org/10.1029/2002JD003322
+HSU AND PRATHER
+10.1029/2020MS002131
+23 of 24
+Journal of Advances in Modeling Earth Systems

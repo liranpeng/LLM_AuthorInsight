@@ -1,0 +1,4 @@
+tion 2); the use of bands to integrate over spectral features (Section 3); multiple-scattering approximations 
+that alter the scattering phase function for clouds, aerosols, and gases (Section 4); uncertainty in ice-cloud 
+optics (Section 5); treatment of fractional cloud cover including cloud overlap (Section 6); and approxima-
+tion of ocean surface albedo (Section 7). Each one of these sections has been the focus of major research

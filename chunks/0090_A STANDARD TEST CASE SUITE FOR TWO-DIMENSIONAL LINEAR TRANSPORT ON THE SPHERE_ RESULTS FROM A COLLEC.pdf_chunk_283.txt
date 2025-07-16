@@ -1,0 +1,18 @@
+A10
+LPM
+The Lagrangian particle method relies on the ﬂow map,
+x(α,t), giving the trajectory of ﬂuid particles, where α is
+a Lagrangian parameter, t time, and x position (Chorin and
+Marsden, 2000; Cottet and Koumoutsakos, 2000). The ﬂow
+map satisﬁes
+D
+Dt x(α,t) = u(x(α,t),t),
+x(α,0) = α,
+(A6)
+where u is the given ﬂuid velocity, and the scalar is advected
+along particle trajectories,
+D
+Dt φ(x(α,t),t) = 0.
+(A7)
+The sphere is represented as a union of disjoint panels,
+S = ∪N

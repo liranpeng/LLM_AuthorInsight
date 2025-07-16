@@ -1,0 +1,8 @@
+CWC are given, the corresponding wavelength-dependent
+properties are derived from tables or formulae. In Solar-
+J, the scattering phase function is truncated at eight terms,
+but in RRTMG-SW’s two-stream model only the ﬁrst term
+(A1/3 = g) is retained. For liquid water, RRTMG-SW adopts
+the parameterization scheme by Hu and Stamnes (1993). For
+ice clouds, three different parameterizations are available,
+and all are tested here (Ebert and Curry, 1992, henceforth

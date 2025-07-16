@@ -1,0 +1,4 @@
+from two decades of atmospheric inversion. Nature Climate Change, 9(12), 993–998. https://doi.org/10.1038/s41558-019-0613-7
+Thompson, R. L., Patra, P. K., Ishijima, K., Saikawa, E., Corazza, M., Karstens, U., et al. (2014). TransCom N2O model inter-comparison 
+– Part 1: Assessing the influence of transport and surface fluxes on tropospheric N2O variability. Atmospheric Chemistry and Physics, 
+14(8), 4349–4368. https://doi.org/10.5194/acp-14-4349-2014

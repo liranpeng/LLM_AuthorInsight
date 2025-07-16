@@ -1,0 +1,5 @@
+Giuseppe & Tompkins, 2015; R. J. Hogan & Illingworth, 2000; A. M. Tompkins & Di Giuseppe, 2015). This 
+EXP-RAN method assumes an exponential decorrelation length for connected cloud layers but random 
+overlap across clear layers (A. M. Tompkins & Di Giuseppe, 2007).
+In a manner similar to Hogan and Bozzo's (2018) deterministic cloud-cover generator that goes from MAX-
+RAN to EXP-RAN, Cloud-J developed a deterministic ICA generator for MAX-RAN and then adapted it to

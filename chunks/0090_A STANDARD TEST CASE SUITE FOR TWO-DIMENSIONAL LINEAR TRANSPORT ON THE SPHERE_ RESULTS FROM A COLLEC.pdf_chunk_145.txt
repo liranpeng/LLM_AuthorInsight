@@ -1,0 +1,8 @@
+modelers need to run their model to achieve a certain so-
+lution quality. The solution quality is quantiﬁed in terms of
+the ℓ2 error norm for solutions using the same non-divergent
+ﬂow ﬁeld as above but with less smooth (C1) initial condi-
+tions. A less smooth initial condition is chosen to challenge
+the schemes with a more realistic (in terms of smoothness)
+initial condition compared to the inﬁnitely smooth Gaussian
+hills. This is similar to the setup used in Williamson et al.

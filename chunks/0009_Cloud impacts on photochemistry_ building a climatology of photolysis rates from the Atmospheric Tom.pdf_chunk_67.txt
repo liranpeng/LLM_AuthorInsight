@@ -1,0 +1,8 @@
+troposphere; UKCA is consistently the most clear-sky model.
+These model differences are not simply related to the model
+cloud ﬁelds; see discussion of Fig. S6 below.
+Immediately above and below extensive thick cloud decks
+the dimming/brightening of Js exceeds the plotted range of
+rlnJ of ±0.3 (a factor of 1.35). Most such cloud decks occur
+around 900 hPa and so the largest brightening occurs in the
+100–900 hPa levels, and the greatest dimming at > 900 hPa.

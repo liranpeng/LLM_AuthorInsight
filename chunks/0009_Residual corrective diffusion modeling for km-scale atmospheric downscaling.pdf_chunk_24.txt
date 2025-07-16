@@ -1,0 +1,9 @@
+ERA5 dataset. We show the log-PDF to highlight the differences at
+the tails of the distributions. Here wavenumber is the inverse of a
+wavelength.
+Full size image
+This is corroborated by analysis of probability distributions
+(Fig. 1d–f) – for the radar reflectivity channel both the UNet and RF
+fail to produce realistic statistics, but CorrDiff is able to match the
+target distribution between 0 and 43 dbz while significantly
+improving on the UNet (Fig. 1f). In contrast to the radar channel,

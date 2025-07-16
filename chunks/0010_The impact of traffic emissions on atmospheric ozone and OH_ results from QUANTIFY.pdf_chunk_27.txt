@@ -1,0 +1,11 @@
+ozone precursors for the year 2000 with the exception of
+methane.
+Methane was prescribed as a surface boundary
+condition using time dependent surface mixing ratios as in
+J¨ockel et al. (2006) based on surface observations from the
+AGAGE database.
+For the initialization the three dimen-
+sional methane distribution from the same simulation was
+used.
+For biomass burning monthly means for the year 2000
+were used based on GFED estimates with multi-year (1997–

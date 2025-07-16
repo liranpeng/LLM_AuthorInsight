@@ -1,0 +1,8 @@
+prescribed ozone climatology data as described in Sect. 2.1.
+The positive O3v2–O3v1 change at the SH high latitudes is
+caused by more wave activity and meridional transportation
+from the middle latitudes to the polar region. The mecha-
+nism of this ozone increase is further investigated with the
+composite data from years when the O3v2 ozone holes are
+substantially weaker with the same PSC temperature thresh-
+old as O3v1 (Fig. A2). Strong ozone enhancement occurs at

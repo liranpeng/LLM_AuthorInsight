@@ -1,0 +1,9 @@
+across the models.
+This new protocol for multi-model evaluations helps iden-
+tify and provide insights into inter-model differences, as well
+as providing for a direct link with measurements made at a
+much ﬁner scale than the models.
+Data availability. The merged ATom data stream is now at
+the Oak Ridge National Laboratory DAAC (https://doi.org/10.
+3334/ORNLDAAC/1581) (Wofsy et al., 2018), and these model
+data and results are also available at Prather et al. (2018) at

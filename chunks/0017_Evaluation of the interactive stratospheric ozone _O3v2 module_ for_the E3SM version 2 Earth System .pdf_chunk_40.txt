@@ -1,0 +1,9 @@
+month by latitude) are shown in Fig. 1 for the observations
+(OMI+MLS) and models (UCI CTM and both EAM ver-
+sions O3v1 and O3v2). The multi-year averages include the
+speciﬁc years 2005–2017 for OMI+MLS and UCI CTM and
+SST-forced years 1995–2014 for both EAM versions. The
+model simulations are reasonable but with obvious biases:
+UCI CTM is systematically low everywhere but matches the
+pattern; EAM versions have excellent seasonal phase and
+Figure 1. Multi-year mean annual cycle of the zonal mean

@@ -1,0 +1,10 @@
+could also simply use a reconstruction function based on
+tracer mass ρφ instead of reconstructing ρ and φ separately.
+However, shape preservation should only be applied to φ as
+φ is conserved following parcel trajectories and not tracer
+mass ρφ. Hence the separation of ρ and φ in the reconstruc-
+tion step is preferable.
+2.2.2
+Flow-dependent dimensional splitting
+Instead of approximating the upstream area with a fully two-
+dimensional approach, it may be approximated using a di-

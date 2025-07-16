@@ -1,0 +1,9 @@
+GFDL model with various strengths of perturbations, and there is
+linearity in the perturbations. For both models, atmospheric
+changes and GWP of hydrogen are very similar between the
+hydrogen emission-driven and the hydrogen concentration-
+driven models. Future work should test for emission location
+dependency, especially NH vs. SH, aviation altitude, and ocean
+vs. land.
+We have calculated GWP100 by assuming that all perturba-
+tions from the initial hydrogen pulse have decayed, so the steady-

@@ -1,0 +1,11 @@
+DE-AC52-07NA27344.
+Edited by: Gerd A. Folberth
+Reviewed by: two anonymous referees
+References
+Artico, F., Prather, M. J., Veidenbaum, A. V., and Nicolau, A.: Fast
+Fast-J GPU Codes, CECS technical report, 15-03, 8 November
+2015.
+Barker, H. W., Cole, J. N. S., Li, J., Yi, B., and Yang, P.: Estimation
+of Errors in Two-Stream Approximations of the Solar Radiative
+Transfer Equation for Cloudy-Sky Conditions, J. Atmos. Sci., 72,
+4053–4074, https://doi.org/10.1175/JAS-D-15-0033.1, 2015.

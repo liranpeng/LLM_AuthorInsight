@@ -1,0 +1,8 @@
+layer, but much of the polluted lamina remains in the larger
+domain. As long as the domain retains a statistical mix of
+the key chemical species similar to the initialization, then the
+reactivity statistics of the C-run should represent the hypo-
+thetical reactivity of those initialized parcels.
+How can we design a calculation using the CTMs–CCMs
+that allows us to initialize a subset of grid cells with observed
+air parcels and then calculate a reactivity for those parcels?

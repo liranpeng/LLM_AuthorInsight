@@ -1,0 +1,4 @@
+latitude-by-month annual cycle composite (in ppb) for each time series (observed N2O, modeled N2OX and 
+F11X) using a global rescaling factor so that the annual mean value is 320 ppb. These annual cycles, aver-
+aged over the years 2001–2016, are shown for all latitudes in supplementary Figure S5. The annual cycle in 
+modeled F11X parallels that of N2OX (cc = 0.98 for GMI and 1.00 for UCI) but with twice the amplitude

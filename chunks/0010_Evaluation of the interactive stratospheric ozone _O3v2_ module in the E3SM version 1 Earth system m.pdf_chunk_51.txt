@@ -1,0 +1,8 @@
+perior representation of the high-latitude SCO. For [2], the
+root-mean-square errors (RMSEs) (represented by the radius
+of the arcs centered on the (1,0) point) are similar for UCI
+CTM and O3v1 (radius of 0.75 SD) and best for O3v2 (radius
+of 0.50). There is no clear explanation of this improvement in
+O3v2 except perhaps that the reduction in lower stratospheric
+O3 changed the wave propagation and variability seen in the
+southern latitudes. These two metrics are clearly independent

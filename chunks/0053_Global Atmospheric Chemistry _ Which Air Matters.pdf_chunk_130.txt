@@ -1,0 +1,10 @@
+L-CH4   0.84 ppb d-1
+L-O3   1.81 ppb d-1
+Figure 7. Model E (GMI CTM) 2-D probability distributions from
+A-run for NOx vs. HOOH as weighted by air mass, L-CH4, L-O3,
+and P-O3. The domain being sampled is 20◦S–20◦N, 150–210◦E,
+0.5–12 km, see Fig. 6a.
+The 2-D distributions simply weighted by AIR show re-
+markable structures that differ signiﬁcantly across the mod-
+els, as shown in Fig. 6, with summary statistics in Table S6.
+All 2-D plots use the same 20-per-decade log scale as in the

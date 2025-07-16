@@ -1,0 +1,8 @@
+an important test and can be used to identify bias in either
+hindcasts or climate simulations, it is the distribution of ex-
+tremes, both high and low, that we want our climate models
+to simulate accurately. The lows tell us about baseline (clean-
+air) O3, and the highs show the efﬁciency of O3 production
+from the local emissions. Here we examine the distribution
+of MDA8, combining the daily gridded US and EU values
+for a season over the 2 years 2005–2006 from both obser-

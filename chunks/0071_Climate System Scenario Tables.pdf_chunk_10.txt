@@ -1,0 +1,6 @@
+distribution) or 90% confidence interval (5 to 95%, ±1.645σ for a 
+normal distribution) or statistics (standard deviation, percentiles, or 
+minimum/maximum) of an ensemble of models. In some cases these 
+are a formal evaluation of uncertainty as assessed in the chapters, but 
+in other cases (specifically Tables AII.2.1, 3.1, 4.1, 5.1, 6.10, 7.1 to 7.5) 
+they just describe the statistical results from the available models, and

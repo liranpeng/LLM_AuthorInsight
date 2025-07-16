@@ -1,0 +1,10 @@
+5.1
+Radiative Forcing MIP (RFMIP)
+There are considerable synergies between AerChemMIP and
+RFMIP. RFMIP addresses the ERF due to all drivers for
+the historical and future periods. AerChemMIP speciﬁcally
+looks to quantify the ERFs for reactive species and aerosols,
+and to separate individual components of these. RFMIP
+also contains other components related to the assessment of
+model radiation code performance and simulations with pre-
+scribed aerosol distributions and aerosol optical properties

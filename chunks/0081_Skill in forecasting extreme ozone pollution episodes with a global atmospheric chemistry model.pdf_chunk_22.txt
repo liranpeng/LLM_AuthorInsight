@@ -1,0 +1,17 @@
+are most common (Bruntz et al., 1974). The location of the
+stations and their 10-year mean MDA8 surface O3 concen-
+trations are shown in Fig. 1.
+Atmos. Chem. Phys., 14, 7721–7739, 2014
+www.atmos-chem-phys.net/14/7721/2014/
+J. L. Schnell et al.: Skill in forecasting extreme ozone pollution episodes
+7723
+Table 1. Observational data sets.
+Surface ozone network
+Period
+No.
+URL or reference
+stations
+US EPA Air Quality System (AQS)
+2000–2009
+1608
+http://www.epa.gov/ttn/airs/aqsdatamart

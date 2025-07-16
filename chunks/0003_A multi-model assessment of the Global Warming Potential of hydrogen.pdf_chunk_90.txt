@@ -1,0 +1,12 @@
+iFC
+ ERFssControl
+iFC
+
+
+ð5Þ
+Where ΔBurdenH2 is the burden change between a perturbed and a control run
+that have both reached steady state, and τH2 is the lifetime in the control run
+multiplied by a feedback factor to account for the shift in hydrogen lifetime
+induced by hydrogen changes.
+In practice, we use a slightly different, but equivalent expression for the AGWP
+to calculate it from the experiments. Including the hydrogen feedback factor in the

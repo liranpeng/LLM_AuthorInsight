@@ -1,0 +1,7 @@
+is developed in ref. 72 for accounting for carbon flows due to land use. 
+In this study, an observation dataset consisting of 18 tropical sites was 
+collected to follow the book-keeping logic. The dataset covers N2O 
+emissions from a reference mature forest and their nearby converted 
+pastures aged between 1 and 60 years. The average tropical forest N2O 
+emission rate of 1.974 kg N2O-N ha-1 yr−1 was adopted as the baseline73. 
+Two logarithmic response curves of soil N2O emissions (normalized

@@ -1,0 +1,8 @@
+observed NO + NO2 for MDS-1, resulting in increased NOx
+and reactivities (RDS-1). MDS-1 NOx values are 25 % larger
+on average than MDS-0 values (unweighted mean of 66 vs.
+52 ppt), and this affects P-O3 most and L-CH4 least. We then
+estimated errors in the gap-ﬁlling and found that CO had lit-
+tle skill as a proxy for most other species. With MDS-2, we
+optimized and tested the treatments of gap-ﬁlling and lower
+limit of detection, along with other quality controls. MDS-2

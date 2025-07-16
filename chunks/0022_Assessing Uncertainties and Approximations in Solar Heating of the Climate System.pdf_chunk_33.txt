@@ -1,0 +1,38 @@
+R5
+B4–B0
+SJ/hrv v. SJ
++0.34
+−0.46
++0.12
+-
+-
+-
+R6
+B5−B0
+SJ/2S versus SJ
++0.31
+−0.53
++0.22
+0.4
+0.4
+0.2
+Wavelength resolution of cloud absorption (MAX-COR overlap and QCAs, no IR gas absorption)
+R7
+C1–C0
+SJ/CLIRAD v. SJ/66b
+−2.14
++3.85
+−1.70
+8.7
+10.4
+3.1
+R8
+C2–C0
+SJ/RRTM v. SJ/66b
+−1.14
++1.68
+−0.51
+2.2
+3.2
+1.1
+Scattering phase function errors for HG and δ-scaling using grid-cell averaged only liquid water clouds. Also differences between RRTMG-SW v4.0 and

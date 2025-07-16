@@ -1,0 +1,8 @@
+Administration, http://hdl.handle.net/2014/45510 (last access: 13
+September 2021), 2015.
+Charlton-Perez, C. L., Evans, M. J., Marsham, J. H., and Es-
+ler, J. G.: The impact of resolution on ship plume simula-
+tions with NOx chemistry, Atmos. Chem. Phys., 9, 7505–7518,
+https://doi.org/10.5194/acp-9-7505-2009, 2009.
+Douglass, A. R., Prather, M. J., Hall, T. M., Strahan, S. E., Rasch, P.
+J., Sparling, L. C., Coy, L., and Rodriguez, J. M.: Choosing me-

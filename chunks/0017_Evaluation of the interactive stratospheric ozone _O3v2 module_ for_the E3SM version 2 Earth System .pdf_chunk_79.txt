@@ -1,0 +1,10 @@
+we will examine the ozone changes between O3v1 and O3v2
+in greater details.
+4.1
+Changes in UT–LS
+Figure 7 shows the pressure-by-latitude O3v1 ozone, as well
+as O3v2-O3v1 differences in the annual mean and June and
+October in the upper troposphere–lower stratosphere (UT–
+LS) region (50–400 hPa). The tropopause pressure (green
+lines) from the O3v1 simulation is overlaid on the con-
+tours to facilitate comparisons. Figure 7a–c illustrate the typ-

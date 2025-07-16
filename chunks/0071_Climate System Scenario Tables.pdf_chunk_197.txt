@@ -1,0 +1,23 @@
+2060
+11.7
+0.0
+8.9
+2070
+13.2
+–0.9
+10.0
+2080
+15.3
+–1.9
+11.1
+2090
+18.0
+–2.8
+12.1
+2100
+20.8
+–3.9
+13.2
+Notes:
+RCP results from CMIP5 (Eyring et al., 2013) and ACCMIP (Young et al., 2013). For ACCMIP all models have interactive tropospheric ozone chemistry and are included, in contrast to the CMIP5 multi-
+model mean which includes only those models with predictive (interactive or semi-offline) stratospheric and tropospheric ozone chemistry. The absolute value is shown for year 2000. All other years

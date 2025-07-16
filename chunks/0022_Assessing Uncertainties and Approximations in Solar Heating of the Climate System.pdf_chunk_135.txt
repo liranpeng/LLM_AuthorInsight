@@ -1,0 +1,4 @@
+phase function matches the Mie out to L = 5 before becoming more isotropic. For ice clouds (T-matrix), the 
+HG diverges by L = 2 and this is why LBYY show a pronounced error in HG versus their 4-stream RT that 
+uses the L = 2 & three terms. The divergence of the ice-cloud phase function from any HG-like extrapola-
+tion becomes even greater for L = 4–7, which can be included in the 8-stream calculation here. We com-

@@ -1,0 +1,8 @@
+global-to-regional climate response from these changes.
+Improving our insight and understanding of the inner func-
+tioning of climate models and climate itself is a primary mo-
+tivation for AerChemMIP. To characterise the overall ERF
+from all species, including NTCFs, requires extra efforts and
+has not been properly done in earlier CMIP experiments
+(Forster et al., 2016). Climate feedback processes that in-
+volve changes to the atmospheric composition of reactive

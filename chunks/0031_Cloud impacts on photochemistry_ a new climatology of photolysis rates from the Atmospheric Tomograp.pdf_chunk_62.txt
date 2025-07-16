@@ -1,0 +1,8 @@
+rlnJ < 0) in the Tropics. Although all the models show this
+shift from rlnJ > 0 to rlnJ < 0 in the peak of their distributions,
+only a few (GISS, MOCA, NCAR, UCI) have broad wings
+of large cloud shielding (rlnJ < −0.1). These models calcu-
+late such broad wings for both the Tropics and North Paciﬁc,
+whereas CAFS only shows this in the Tropics.
+These diagnostics also identify some CAFS anomalies that
+have no physical basis in the current models. For example,

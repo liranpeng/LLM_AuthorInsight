@@ -1,0 +1,5 @@
+Journal of Advances in Modeling Earth Systems
+of 78 + 5 g-points (sub-bins) for gas absorption. A 'high-accuracy' SJ version in terms of infrared gas absorp-
+tion is derived from the benchmark code RRTM-SW with the same 9 IR broad bands, but 144 g-points, and 
+is denoted SJ/RRX. We made Solar-J variants using water vapor absorption as parameterized by older codes. 
+The oldest and least accurate LLNL code (Grant & Grossman, 1998) has three IR bands (0.69–3.85 μm) with

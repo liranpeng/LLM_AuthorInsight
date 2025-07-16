@@ -1,0 +1,15 @@
+Heating of the Climate System
+Juno C. Hsu1 
+  and Michael J. Prather1 
+1Department of Earth System Science, University of California, Irvine, CA, USA
+Key Points:
+•	 Known errors and uncertainties in 
+solar heating codes are evaluated 
+within a single framework providing 
+climate-relevant diagnostics
+•	 Spectral resolution of cloud 
+absorption, ice cloud optics, and 
+cloud overlap schemes have large 
+potential errors
+•	 Other significant error sources 
+from numerical or physical

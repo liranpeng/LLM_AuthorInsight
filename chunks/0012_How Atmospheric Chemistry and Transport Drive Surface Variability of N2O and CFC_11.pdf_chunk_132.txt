@@ -1,0 +1,4 @@
+of emissions. The annual cycle in stratospheric influx (hard to validate with observations) is modeled to be 
+only slightly larger than the QBO pattern. In the NH, the models without emissions can match much of the 
+observations. In the SH, the models have a much weaker annual cycle and differ in phasing when compared 
+to the observations, indicating possible influence of seasonal transport and SH sources. Thus, we have confi-

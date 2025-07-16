@@ -1,0 +1,8 @@
+involving hydrocarbons and NOx (Lin et al., 2008b; Pusede
+and Cohen, 2012; Rasmussen et al., 2012). Supporting this
+hypothesis, the model’s summertime bias for the US has a
+similar pattern to our measure of pollution buildup (95th mi-
+nus 25th percentile, Fig. 4e, the two maps have a correla-
+tion coefﬁcient, r = 0.66). For EU, this conclusion is less
+obvious (Fig. 4f, r = 0.20). In terms of MCC, the verisimil-
+itude of the model hindcast of daily summertime pollution

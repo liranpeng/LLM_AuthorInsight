@@ -1,0 +1,8 @@
+data. The formal 95 % conﬁdence bounds to Holocene tem-
+perature (Marcott et al., 2013) are ±0.25 ◦C (blue shading
+in Fig. 3b), but total uncertainty is larger. Speciﬁcally, Liu
+et al. (2014) points out a bias effect caused by seasonality in
+the proxy temperature reconstruction. Correction for this bias
+will tend to push early Holocene temperatures lower, increas-
+ing the gap between today’s temperature and early Holocene
+temperature (Marcott and Shakun, 2015).

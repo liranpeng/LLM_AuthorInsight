@@ -1,0 +1,8 @@
+Here the models were still nearly all ofﬂine chemistry trans-
+port models, and none of the climate models used in AR4
+(those participating in the CMIP3 project) included tropo-
+spheric ozone chemistry. The radiative forcing of ozone in all
+cases was calculated using ofﬂine radiative transfer models,
+usually for “pre-industrial”, “present” and one or two future
+time slices. It was not until the CMIP5 project that a few of
+the climate models included interactive tropospheric chem-

@@ -1,0 +1,8 @@
+on tropospheric and stratospheric ozone. Part I: Chemistry and
+2-D model results, Atmos. Environ., 32, 3173–3184, 1998.
+Hauglustaine, D. A., Hourdin, F., Jourdain, L., Filiberti, M. A.,
+Walters, S., Lamarque, J. F., and Holland, E. A.: Interactive
+chemistry in the Laboratoire de Meteorologie Dynamique gen-
+eral circulation model: Description and background tropospheric
+chemistry evaluation, J. Geophys. Res.-Atmos., 109, D04314,
+doi:10.1029/2003jd003957, 2004.

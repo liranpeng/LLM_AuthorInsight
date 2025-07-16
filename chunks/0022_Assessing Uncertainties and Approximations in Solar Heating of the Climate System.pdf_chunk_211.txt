@@ -1,0 +1,4 @@
+Royal Meteorological Society, 145, 2046–2069.
+Baum, B. A., Yang, P., Heymsfield, A. J., Platnick, S., King, M. D., Hu, Y. X., et al. (2005). Bulk scattering properties for the remote sensing 
+of ice clouds. 2: Narrowband models. Journal of Applied Meteorology, 44(12), 1896–1911.
+Baum, B. A., Yang, P., Heymsfield, A. J., Schmitt, C., Xie, Y., Bansemer, A., et al. (2011). Improvements to shortwave bulk scattering and

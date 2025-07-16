@@ -1,0 +1,5 @@
+Prather, M. J. (1986), Numerical advection by conservation of 2nd-order moments, J. Geophys. Res., 91(D6), 6671–6681.
+Prather, M. J., X. Zhu, S. E. Strahan, S. D. Steenrod, and J. M. Rodriguez (2008), Quantifying errors in trace species transport modeling,
+Proc. Nat. Acad. Sci. U.S.A., 105(50), 19,617–19,621.
+Prather, M. J., X. Zhu, Q. Tang, J. Hsu, and J. L. Neu (2011), An atmospheric chemist in search of the tropopause, J. Geophys. Res., 116,
+D04306, doi:10.1029/2010JD014939.

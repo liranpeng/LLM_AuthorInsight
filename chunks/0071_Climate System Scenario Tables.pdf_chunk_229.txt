@@ -1,0 +1,31 @@
+Year
+AR5
+RCP2.6
+RCP4.5
+RCP6.0
+RCP8.5
+1980
+0.31 ± 0.05
+0.31 ± 0.05
+0.31 ± 0.05
+0.31 ± 0.05
+2000
+0.36
+0.36
+0.36
+0.36
+  2011*
+0.40
+2030
+0.32
+0.38
+0.36
+0.44
+2100
+0.17
+0.27
+0.27
+0.60 ± 0.11
+Table AII.6.7b |  ERF from tropospheric O3 changes since 1850 (W m–2)
+Notes:
+AR5 results from Chapter 8; see also Sections 11.3.5.1.2, 11.3.6.1. Model mean results from ACCMIP (Stevenson et al., 2013) using a consistent model set (FGKN), which is similar to the all-model

@@ -1,0 +1,8 @@
+able in deterministic chemistry transport models. The Cloud-
+J approach (Prather, 2015) developed a scale-independent
+1-D method for cloud overlap based on vertical decorrela-
+tion lengths (Barker, 2008a, b). The chemistry models here
+use a variety of these methods, which range from lookup
+tables with correction factors, to Fast-J single column, to
+cloud overlap treatments with Cloud-J; see Table 1. Cur-
+rently these models do not attempt to deﬁne 3-D cloud struc-

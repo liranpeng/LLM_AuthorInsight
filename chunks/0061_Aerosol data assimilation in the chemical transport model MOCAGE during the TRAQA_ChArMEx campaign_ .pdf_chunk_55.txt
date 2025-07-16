@@ -1,0 +1,10 @@
+www.atmos-meas-tech.net/9/5535/2016/
+Atmos. Meas. Tech., 9, 5535–5554, 2016
+5540
+B. Siˇc et al.: Aerosol data assimilation in the CTM MOCAGE
+the errors is difﬁcult to do. Therefore, we carried out several
+test runs to determine optimal parameters for the matrices a
+posteriori. As the optimal parameters, we estimated that the
+percentage for the errors of the model should be twice as
+large as for the observations (24 and 12 % respectively).
+Missing secondary aerosols in MOCAGE are considered

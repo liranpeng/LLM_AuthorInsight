@@ -1,0 +1,8 @@
+gitude slice as in ATom, then will these be so clearly deﬁned?
+We examine this representativeness test by subsampling two
+models (C: GFDL-AM3 and F: UCI-CTM) at longitudes of
+150, 165, 180, 195, and 210◦E in Fig. 8 to compare with the
+average over the mid-Paciﬁc domain. The densities are renor-
+malized and show similar peaks and patterns, but of course
+there is more pixel-level noise and some differences. The
+transect at 150◦E is clearly less representative of the mid-

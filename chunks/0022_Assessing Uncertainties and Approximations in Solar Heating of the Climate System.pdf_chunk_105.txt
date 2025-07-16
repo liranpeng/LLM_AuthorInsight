@@ -1,0 +1,4 @@
+a 128-stream RT code (LBYY) and Monte Carlo simulations (B2015). Räisänen's (2002) work on tuning 
+2-stream approximations used comparisons similar to ours with a 16-stream discrete ordinate method. For 
+Solar-J, we coded a 2-stream RT solver based on the Feautrier method using δ-1 scaling, and this version is 
+designated SJ/2S. With this we have a clean, bias-free comparison of 2-stream versus 8-stream under clear

@@ -1,0 +1,6 @@
+scattering and hence has higher values in the in the lower troposphere of the North Pacific.  The standard deviations 
+show that J-O1D variance is driven by O3 and SZA, and not by clouds; while the J-NO2 shows the opposite.   
+ 
+ 
+Figure S3.  Total ozone columns (in DU) versus latitude in August for 9 models and 8 years of OMI observations 
+(2010-2017, Levelt et al., 2006; Veefkind et al., 2006).  Most curves are the monthly zonal means, but some data are

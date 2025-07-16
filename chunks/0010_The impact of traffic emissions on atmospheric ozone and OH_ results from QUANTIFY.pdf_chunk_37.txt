@@ -1,0 +1,9 @@
+ﬁnal simulation was carried out with all transport sectors si-
+multaneously reduced by 5%. Post processing conﬁrmed the
+linearity of the small scale perturbation approach allowing to
+integrate the effects of the individual transport sectors in this
+setup.
+Atmos. Chem. Phys., 9, 3113–3136, 2009
+www.atmos-chem-phys.net/9/3113/2009/
+P. Hoor et al.: Trafﬁc emissions: impact on ozone and OH
+3117

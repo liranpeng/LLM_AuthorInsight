@@ -1,0 +1,8 @@
+ilar to UCI MDS-2 and is not shown. The statistics try
+to achieve equal latitude-by-pressure sampling by weight-
+ing each ATom parcel inversely according to the number of
+parcels in each 10◦latitude by 100 hPa bin. We calculate the
+means and medians plus the percent of total reactivity in the
+top 10 % of the weighted parcels (Table 2) and also the mean
+reactivity of the top 10 %, percent of total reactivity in the
+top 50 %, 10 % and 3 % plus the mean J values (Table S8).

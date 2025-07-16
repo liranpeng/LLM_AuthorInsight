@@ -1,0 +1,4 @@
+dance of OH in the model. The use of tracer species for this purpose is appropriate, as acetylene and ethane
+are low‐level trace gases that do not signiﬁcantly impact tropospheric photochemistry (Prather, 1994). Based
+on observational constraints, the best estimate of methane lifetime due to OH oxidation is 11.2 years (Prather
+et al., 2012). The UCI‐CTM is slightly more reactive, with an OH methane lifetime of 8.9 years. To compen-

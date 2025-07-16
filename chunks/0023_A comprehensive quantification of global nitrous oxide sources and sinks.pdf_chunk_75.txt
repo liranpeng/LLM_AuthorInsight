@@ -1,0 +1,6 @@
+concentrations. a–d, Global anthropogenic N2O emissions (a, b) and 
+concentrations (c, d) compared to the four RCPs in the IPCC assessment report 
+5 (a, c; ref. 2) and the new marker scenarios based on the SSPs used in CMIP6  
+(b, d; ref. 48). The historical emissions data are represented as the mean of the 
+bottom-up and top-down estimates of anthropogenic N2O emissions, whereas 
+the historical atmospheric concentration data are from the three available

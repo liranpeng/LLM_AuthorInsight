@@ -1,0 +1,10 @@
+speed, relative wind direction, and relative wind speed
+Radiosondes
+Vaisala RS41-SGP radiosondes measuring atmospheric proﬁles (during ascent and descent) of tem-
+perature, relative humidity, pressure, wind direction, and wind speed
+Radiosondes
+Meteomodem M10 radiosondes measuring atmospheric proﬁles (during ascent only) of temperature,
+relative humidity, wind direction and wind speed
+Ceilometer
+Lufft CHM 8K ceilometer measuring proﬁles of attenuated backscatter at 905 nm
+Cloud cameras

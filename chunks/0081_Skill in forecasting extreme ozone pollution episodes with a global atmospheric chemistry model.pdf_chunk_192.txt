@@ -1,0 +1,8 @@
+M., Gong, S., Hess, P., Jonson, J. E., Keating, T., Lupu, A.,
+Marmer, E., Park, R., Schultz, M. G., Shindell, D. T., Szopa, S.,
+Vivanco, M. G., Wild, O., and Zuber, A.: The inﬂuence of foreign
+vs. North American emissions on surface ozone in the US, At-
+mos. Chem. Phys., 9, 5027–5042, doi:10.5194/acp-9-5027-2009,
+2009.
+Rojas-Avellaneda, D. and Silvan-Cardenas, J.: Performance of geo-
+statistical interpolation methods for modeling sampled data with

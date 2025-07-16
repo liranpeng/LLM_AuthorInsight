@@ -1,0 +1,8 @@
+scheme (CSLAM) on the cubed sphere grid, J. Comput. Phys.,
+230, 1215–1237, doi:10.1016/j.jcp.2010.11.001, 2010.
+Harten, A., Engquist, B., Osher, S., and Chakravarthy, S. R.:
+Uniformly High Order Accurate Essentially Non-oscillatory
+Schemes III, J. Comput. Phys., 71, 231–303, 1987.
+Hirt, C. W., Amsden, A. A., and Cook, J. L.: An arbitrary
+Lagrangian-Eulerian computing method for all ﬂow speeds, J.
+Comput. Phys., 14, 227–253, 1974.

@@ -1,0 +1,7 @@
+sorting, these curves must be monotonic and convex. The
+steeper the curve, the more important the top reactive parcels
+www.atmos-meas-tech.net/11/2653/2018/
+Atmos. Meas. Tech., 11, 2653–2668, 2018
+2660
+M. J. Prather et al.: Reactivity of short-lived greenhouse gases
+Figure 2. Parcel reactivities of (a) P -O3 and (b) L-CH4 vs. L-O3 for each of the models. Points are colored by location: 60–20◦S and

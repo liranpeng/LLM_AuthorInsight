@@ -1,0 +1,8 @@
+ing to compare with free-running chemistry–climate models.
+Using clustering algorithms, we deﬁne the size in space and
+time of the episodes and the fraction of all events that oc-
+cur within large clusters. In Sect. 6 we conclude and discuss
+how to use the current climate archive Coupled Model Inter-
+comparison Project Phase 5/Atmospheric Chemistry and Cli-
+mate Model Intercomparison Project (CMIP5/ACCMIP), or
+to design the next-generation chemistry–climate simulations,

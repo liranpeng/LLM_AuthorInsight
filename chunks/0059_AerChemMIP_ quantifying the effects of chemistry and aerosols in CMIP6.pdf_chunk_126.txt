@@ -1,0 +1,9 @@
+science question 2.4)
+Climate change will affect the natural emissions of NTCFs
+and reactive WMGHGs. These natural emissions will have a
+radiative effect and so feed back onto climate change. To sim-
+plify the experimental setup, the experiments detailed here
+simply double the natural emissions. The radiative effects
+of natural WMGHGs (e.g. methane from natural sources)
+are not calculated as these can be obtained from experi-
+ment piClim-CH4. The control simulation is the 30-year

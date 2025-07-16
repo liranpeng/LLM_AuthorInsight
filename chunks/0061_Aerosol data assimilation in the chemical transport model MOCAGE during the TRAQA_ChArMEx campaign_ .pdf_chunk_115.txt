@@ -1,0 +1,9 @@
+tory effects in some layers.
+LOAC measurements acquired during the balloon ﬂight
+(Fig. 9b) are co-located with the aircraft measurements
+(Fig. 8c). They match with the assimilation model run proﬁle
+well, which conﬁrms the interpretation already discussed: the
+aerosol concentration after an assimilation cycle at a certain
+height can only be correct if the proﬁle shape is well simu-
+lated in the direct model run.
+The third LOAC ﬂight (Fig. 9c) measured moderate

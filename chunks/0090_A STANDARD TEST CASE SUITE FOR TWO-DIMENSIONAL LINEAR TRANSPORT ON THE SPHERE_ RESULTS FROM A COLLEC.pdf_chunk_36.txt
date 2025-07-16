@@ -1,0 +1,8 @@
+balanced by the outﬂow through the face shared by the neigh-
+boring control volume. Hence any reasonable approximation
+to the ﬂux will trivially lead to conservation of tracer mass.
+There are several approaches to approximating the ﬂux di-
+vergence, and they are discussed in separate sub-sections be-
+low in the context of the schemes that participated in this in-
+tercomparison project. Before that, however, we brieﬂy dis-
+cuss the coupling between air and tracer mass that is inherent

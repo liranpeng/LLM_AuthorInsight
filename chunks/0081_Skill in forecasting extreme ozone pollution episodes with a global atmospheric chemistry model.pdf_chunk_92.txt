@@ -1,0 +1,8 @@
+Cincinnati, OH; New York, NY; and rural Virginia). The time
+series are highly correlated across these sites, but the peak
+magnitudes differ across sites. In Chicago, MDA8 values
+above 67 ppb exceed the local 97.3 percentile and frequently
+occur a few days before local maxima in New York and Vir-
+ginia, due to west-to-east motion of weather systems. If ex-
+tremes were identiﬁed based on an absolute threshold (e.g.,
+75 ppb), then the peak values in Chicago might not be labeled

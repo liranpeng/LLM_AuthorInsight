@@ -1,0 +1,10 @@
+is referred to as slope-limiting (e.g., van Leer, 1977). For an
+overview of shape-preserving ﬁlters used for the schemes in
+this intercomparison, see Table 2. The following subsections
+provide brief descriptions of the models that fall into the ﬂux-
+form ﬁnite-volume category.
+2.1.1
+Taylor series approach
+The scheme of Skamarock and Gassmann (2011), here re-
+ferred to as MPAS as it was implemented in the “Model
+for Prediction Across Scales” framework (Skamarock et al.,

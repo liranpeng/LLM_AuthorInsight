@@ -1,0 +1,9 @@
+dynamical attribution in tandem with tracer transport studies
+will enable better quantiﬁcation of the response of global air
+pollution transport to greenhouse gas warming.
+Data availability. The ACCMIP data used in this study can be ob-
+tained from the British Atmospheric Data Centre (BADC) upon re-
+quest.
+Author contributions. RD, CO, GZ, MP, DP, and ML contributed
+to conception and design. GZ, DP, DS, and IM performed ACCMIP
+simulations with the UM-CAM, CMAM, GISS-ER-2, and STOC-

@@ -1,0 +1,5 @@
+loss is mixed and forgotten by the time it reaches the lowermost stratosphere.
+3.3.  Anomalous QBOs and ENSO-Related Emissions
+Not all QBOs are alike and the composite smooths over these differences. During the 2005–2018 MLS peri-
+od, there were two notably anomalous QBOs. In 2010/11, the QBO pattern was disrupted with a weakening, 
+but not reversal of the zonal westerly winds, followed by a strengthening (Coy et al., 2017; Newman, 2020).

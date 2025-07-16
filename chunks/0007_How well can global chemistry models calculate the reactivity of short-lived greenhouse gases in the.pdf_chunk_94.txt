@@ -1,0 +1,23 @@
+J−O1D  (/s)
+ 
+ 
+UCI 2015
+UCI 1997
+0
+0
+1.5
+3.0
+4.5
+4.5
+3.0
+1.5
+x 10
+−3
+x 10
+−5
+Figure 8. Scatter plot of reactivities and J-values for 5d-mean air parcels for UCI alternate meteorological years (2015, 1997) against the
+standard year 2016.
+The GFDL and NCAR CCMs could not maintain the ﬁxed,
+data-stream T and q values over the 24 h integration, which
+leads to larger rms differences because reactivities depend
+on both T and q. This explains in part why the GFDL and

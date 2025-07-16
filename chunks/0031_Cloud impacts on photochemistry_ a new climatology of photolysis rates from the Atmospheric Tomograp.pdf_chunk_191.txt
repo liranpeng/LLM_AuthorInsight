@@ -1,0 +1,8 @@
+Land 6.0/6.1 conﬁgurations, Geosci. Model Dev., 10, 1487–
+1520, https://doi.org/10.5194/gmd-10-1487-2017, 2017.
+Wild, O., Zhu, X., and Prather, M. J.: Fast-J: Accurate simulation of
+in- and below-cloud photolysis in tropospheric chemical models,
+J. Atmos. Chem., 37, 245–282, 2000.
+Williams, J. E., Landgraf, J., Bregman, A., and Walter, H. H.:
+A modiﬁed band approach for the accurate calculation of
+online photolysis rates in stratospheric-tropospheric Chemi-

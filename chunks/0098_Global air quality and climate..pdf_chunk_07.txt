@@ -1,0 +1,7 @@
+l Geophysical Fluid Dynamics Laboratory, NOAA, Princeton, NJ, USA
+m GAME/CNRM, Me´te´o-France, CNRS – Centre National de Recherches Me´te´orologiques, Toulouse, France
+n National Center for Atmospheric Research, Boulder, CO, USA
+o School of GeoSciences, The University of Edinburgh, UK
+p National Institute for Environmental Studies, Tsukuba, Japan
+q Goddard Institute for Space Studies, NASA, New York, NY, USA
+r Nagoya University, Nagoya, Japan

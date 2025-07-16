@@ -1,0 +1,11 @@
+M.M. and supervised diffusion modeling. M.A.N. integrated
+Modulus, ensured open-sourcing of code and data, and helped run
+experiments. T.G. contributed to experiments and ablations. A.S.
+optimized diffusion training and scaling. K.K. managed the project,
+consulted on domain science. J.K. led efforts on diffusion and
+learning. M.P. led domain science efforts and contributed to the
+revision.
+Corresponding author
+Correspondence to Morteza Mardani.
+Ethics declarations
+Competing interests

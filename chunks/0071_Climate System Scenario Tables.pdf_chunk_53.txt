@@ -1,0 +1,2 @@
+average. Uncertainties (5 to 95% confidence intervals) are given for 2011 only when more than one laboratory reports global data. Pre-industrial (PI*, taken to be 1750 for GHG) and present day 
+(2011*) abundances are from Chapter 2, Tables 2.1 and 2.SM.1; see also Chapter 6 for Holocene variability (10 ppm CO2, 40 ppb CH4, 10 ppb N2O). Intermediate data for CO2, CH4 and N2O are from

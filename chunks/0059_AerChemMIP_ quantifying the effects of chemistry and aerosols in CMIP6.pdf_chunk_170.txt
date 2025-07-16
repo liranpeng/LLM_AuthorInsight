@@ -1,0 +1,8 @@
+will hence serve multiple purposes.
+Of particular importance are variables as assembled in the
+framework of the Global Atmospheric Watch (GAW) and
+observations for Model Intercomparison Projects (obs4MIP)
+(Teixeira et al., 2014; Ferraro et al., 2015). In addition, other
+datasets such as from the SPARC Data Initiative (Hegglin et
+al., 2017) for the stratosphere and from the ESA CCI (Holl-
+mann et al., 2013) for the troposphere will be valuable for

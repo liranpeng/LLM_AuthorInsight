@@ -1,0 +1,8 @@
+Kinnison, D. E., Lamarque, J.-F., Marsh, D. R., Saint-Martin, D.,
+Shindell, D. T., Sudo, K., Szopa, S., and Watanabe, S.: Long-
+term ozone changes and associated climate impacts in CMIP5
+simulations, J. Geophys. Res.-Atmos, 118, 5029–5060, 2013b.
+Eyring, V., Bony, S., Meehl, G. A., Senior, C. A., Stevens, B.,
+Stouffer, R. J., and Taylor, K. E.: Overview of the Coupled
+Model Intercomparison Project Phase 6 (CMIP6) experimen-
+tal design and organization, Geosci. Model Dev., 9, 1937–1958,

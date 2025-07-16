@@ -1,0 +1,7 @@
+biomass burning, both of which exhibit strong seasonal cycles. The
+blue (in web version)/green (in web version) regions represent
+tropospheric air with ER < 1.0, whereas the yellow (in web
+version)/red (in web version) regions represent areas with ER > 1.0.
+As shown in Fig. 3 above, there is a clear seasonal impact evident in
+the integrated area where exceedences occur. This results in
+exceedences over wide areas of Europe, the USA, Asia and the ME

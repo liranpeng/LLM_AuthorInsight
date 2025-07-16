@@ -1,0 +1,7 @@
+a function of AQX episode size (104 km2-days) they are clustered
+into for the (a) US and (b) EU. Results are shown for the 2 yr ob-
+servations at 1◦and 2◦, the CTM at 1◦, and the 10 yr observations
+at 1◦. Note: only latitudes <65◦N were used for the 10 yr EU OBS.
+of events. These tests, among others to be further developed,
+provide us with a measure of the interannual variability of
+meteorologically driven AQX episodes and thus allow us to

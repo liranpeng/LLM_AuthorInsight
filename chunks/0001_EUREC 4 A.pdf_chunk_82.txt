@@ -1,0 +1,9 @@
+out the sub-cloud layer.
+made on all four research vessels, and an automated system
+operated from Ragged Point, near the BCO, provided addi-
+tional constraints on estimates of aerosol loading (from li-
+dars) and column water vapor (from radiometers). Infrared
+radiometers for measuring the surface skin temperature were
+operated on the ATR, HALO, the R/V Ron Brown, the BO-
+REAL, and CU-RAAVEN UASs, as well as on the ﬁve Sail-
+drones. For estimating ﬂuxes of radiant energy, broadband

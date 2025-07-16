@@ -1,0 +1,10 @@
+ing the greater sensitivity of J-NO2 to clouds. Thus model
+Atmos. Chem. Phys., 18, 16809–16828, 2018
+www.atmos-chem-phys.net/18/16809/2018/
+S. R. Hall et al.: Cloud impacts on photochemistry
+16821
+average total COD (ranging from 0.8 to 11 in Fig. S6, assum-
+ing CF = 1) should produce large shifts in rlnJ. Marine stra-
+tus with typical COD ∼10 or more would produce rlnJ-O1D
+of +0.16 and rlnJ-NO2 of +0.30. Thus clear-sky J values
+(deﬁned here as ±0.025 in rlnJ) require COD < 1 for J-O1D

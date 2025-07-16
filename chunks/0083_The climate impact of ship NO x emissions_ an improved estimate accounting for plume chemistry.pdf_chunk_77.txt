@@ -1,0 +1,9 @@
+vals for CH4 and short-lived O3 RFs are 22 and 25 %, respec-
+tively.
+An alternative approach to uncertainty analysis is to probe
+the causes for spread among the past model studies. Much
+of this spread can be reproduced through several variants of
+the GEOS-Chem model, which are shown in Fig. 5. Given
+the non-linear nature of NOx-O3 chemistry, we recalculate
+the ship NOx RF against a reference simulation without any
+ship NOx. To this point, all results derived from 5 % emission

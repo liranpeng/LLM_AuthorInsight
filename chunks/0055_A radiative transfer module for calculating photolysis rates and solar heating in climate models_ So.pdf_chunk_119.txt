@@ -1,0 +1,8 @@
+absorbing optical depth, τabs, is a very important diagnostic
+because in an optically thin cloud the overall heating should
+be proportional to it. Table 6 shows that all four ice cloud
+models have similar τabs up to S22, and if we average S23
+and S24 (which appears to have been done in EC92), then
+all four models remain similar in terms of solar absorption.
+As noted for the stratus cloud, all models predict a large, fac-
+tor of 5, jump in τabs for S25–S27 (λ > 2.5 µm), which are

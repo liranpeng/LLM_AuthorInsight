@@ -1,0 +1,7 @@
+Intercomparison Project (ACCMIP) projects, are used to project future 
+composition and ERF separately from the RCP model (see Sections 
+6.4.3, 11.3.5 and 12.3). Thus, projected changes in greenhouse gases 
+(GHGs), aerosols and ERF evaluated in this report may differ from the 
+published RCPs and from what was used in the CMIP5 runs, and these 
+are denoted RCP&. The CMIP5 climate projections used for the most 
+part the RCP concentration pathways for well-mixed greenhouse gases

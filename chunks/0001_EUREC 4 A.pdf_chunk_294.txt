@@ -1,0 +1,12 @@
+high-frequency vertical proﬁles of seawater temperature and salinity within the upper ocean (0 to
+200 m)
+https://doi.org/10.5194/essd-13-4067-2021
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+4102
+B. Stevens et al.: EUREC4A
+Table B7. Continued.
+Instrument
+Brief description
+uCTD
+Teledyne underway CTD is a proﬁler device measuring vertical proﬁles within the upper ocean (0–
+400 m) of salinity (through conductivity), temperature (through a thermistor), and depth (through pres-

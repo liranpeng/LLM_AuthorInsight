@@ -1,0 +1,7 @@
+Appel, K. W., Chemel, C., Roselle, S. J., Francis, X. V., Hu, R. M.,
+Sokhi, R. S., Rao, S. T., and Galmarini, S.: Examination of the
+Community Multiscale Air Quality (CMAQ) model performance
+over the North American and European domains, Atmos. Envi-
+ron., 53, 142–155, doi:10.1016/j.atmosenv.2011.11.016, 2012.
+Barnes, E. A. and Fiore, A. M.: Surface ozone variability and the jet
+position: implications for projecting future air quality, Geophys.

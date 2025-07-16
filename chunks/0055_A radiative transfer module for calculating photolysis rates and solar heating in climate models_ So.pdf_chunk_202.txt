@@ -1,0 +1,9 @@
+based measurements, Atmos. Chem. Phys., 11, 5457–5469,
+https://doi.org/10.5194/acp-11-5457-2011, 2011.
+Palmer, K. F. and Williams, D.: Optical properties of wa-
+ter in the near infrared, J. Opt. Soc. Am., 64, 1107–1110,
+https://doi.org/10.1364/JOSA.64.001107, 1974.
+Pincus, R., Barker, H. W., and Morcrette, J. J.: A fast, ﬂexible,
+approximate technique for computing radiative transfer in inho-
+mogeneous cloud ﬁelds, J. Geophys. Res.-Atmos., 108, D4376,
+https://doi.org/10.1029/2002jd003322, 2003.

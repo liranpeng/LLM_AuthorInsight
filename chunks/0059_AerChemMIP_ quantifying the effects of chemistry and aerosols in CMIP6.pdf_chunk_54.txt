@@ -1,0 +1,8 @@
+that there is a range of emission estimates (as discussed in
+Granier et al., 2011; Smith et al., 2011; Bond et al., 2013)
+that needs to be considered. Time-slice ERFs (pre-industrial
+to present-day) for each NTCF or precursor species emitted
+are proposed in Sect. 3.3. These ERFs can be scaled with the
+uncertainty in emission to provide information on this con-
+tribution to the NTCF forcing uncertainty. Due to the non-
+linearities in the system, this is likely to provide an upper

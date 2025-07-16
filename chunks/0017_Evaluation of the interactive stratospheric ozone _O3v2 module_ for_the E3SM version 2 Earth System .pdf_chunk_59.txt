@@ -1,0 +1,6 @@
+Geosci. Model Dev., 14, 1219–1236, 2021
+https://doi.org/10.5194/gmd-14-1219-2021
+Q. Tang et al.: Interactive stratospheric ozone (O3v2) in E3SM
+1225
+Figure 4. Latitude by pressure plots of multi-year zonal mean stratospheric ozone abundances (in parts per million mole fraction, ppm). The
+three columns show the annual mean, June values, and October values (left to right). The rows show MLS (years 2005–2019) observations,

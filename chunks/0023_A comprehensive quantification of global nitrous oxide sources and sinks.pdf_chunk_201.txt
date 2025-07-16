@@ -1,0 +1,6 @@
+model30,60,61; five inland water modelling studies35,36,50,51,68; one statistical model 
+SRNM based on spatial extrapolation of field measurements17; and four 
+greenhouse-gas inventories: EDGAR v4.3.2100, FAOSTAT101, GAINS41, and 
+GFED4s102. In addition, previous studies regarding estimates of surface sink58,73, 
+lightning53,54, atmospheric production56,57,103, aquaculture31,62 and model-based 
+tropospheric sink81 and observed stratospheric sink1 are included in the

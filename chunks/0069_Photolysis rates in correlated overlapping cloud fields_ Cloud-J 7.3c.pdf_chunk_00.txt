@@ -1,0 +1,9 @@
+Geosci. Model Dev., 8, 2587–2595, 2015
+www.geosci-model-dev.net/8/2587/2015/
+doi:10.5194/gmd-8-2587-2015
+© Author(s) 2015. CC Attribution 3.0 License.
+Photolysis rates in correlated overlapping cloud ﬁelds: Cloud-J 7.3c
+M. J. Prather
+Earth System Science Department, University of California, Irvine, California, USA
+Correspondence to: M. J. Prather (mprather@uci.edu)
+Received: 29 April 2015 – Published in Geosci. Model Dev. Discuss.: 27 May 2015

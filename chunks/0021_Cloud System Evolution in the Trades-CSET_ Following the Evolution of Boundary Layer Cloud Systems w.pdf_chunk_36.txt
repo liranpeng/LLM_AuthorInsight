@@ -1,0 +1,5 @@
+NCAR GV supported by the NCAR Earth Observing Laboratory (EOL) served as the 
+principal source of the observations used in this study. The observational effort included 
+characterization of the cloud, precipitation and aerosol fields in the stratocumulus and the 
+fair-weather cumulus regimes within the subtropical easterlies over the northern Pacific. 
+These characterizations along trajectories were designed to aid in our understanding and

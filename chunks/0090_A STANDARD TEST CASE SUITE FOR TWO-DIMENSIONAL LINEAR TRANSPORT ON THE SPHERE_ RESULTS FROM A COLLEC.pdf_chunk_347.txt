@@ -1,0 +1,9 @@
+Mon. Weather Rev., 130, 649–667, 2002.
+Nair, R., Côté, J., and Staniforth, A.: Monotonic cascade interpola-
+tion for semi-Lagrangian advection, Q. J. Roy. Meteor. Soc., 125,
+197–212, 1999.
+Nair, R. D., Scroggs, J. S., and Semazzi, F. H. M.: Efﬁcient Conser-
+vative Global Transport Schemes for Climate and Atmospheric
+Chemistry Models, Mon. Weather Rev., 130, 2059–2073, 2002.
+Nair, R. D., Thomas, S. J., and Loft, R. D.: A Discontinuous
+Galerkin Global Shallow Water Model, Mon. Weather Rev., 133,

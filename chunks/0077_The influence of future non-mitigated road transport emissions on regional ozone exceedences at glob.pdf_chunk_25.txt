@@ -1,0 +1,9 @@
+For most of the world regions shown the additional NOx from RTE
+A1B_HIGH falls to w0.1 Tg N yr1 by 2050 when compared to A1B,
+thus being negligible in terms of total global N emissions.
+3. Methodology
+3.1. Multi-model ensemble
+The multi-model ensemble used here is similar to that used to
+assess the present-day and future impact of TE on tropospheric
+composition and oxidative capacity (Hoor et al., 2009; Hodnebrog
+et al., 2011, 2012). For the purpose of this study the ensemble in-

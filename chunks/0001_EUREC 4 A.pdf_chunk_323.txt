@@ -1,0 +1,9 @@
+4105
+Table B9. Meteor.
+Instrument
+Brief description
+Underway data
+Data acquired along the ship track: time, position (latitude, longitude), motion (heave, pitch, roll),
+atmospheric state (pressure, air temperature, water temperature, dew point, relative humidity), wind
+(wind direction, wind speed, relative wind direction, relative wind speed), downward broadband so-
+lar radiation (200–3600 nm), downward broadband infrared radiation (4.5–42 µm), ocean currents at

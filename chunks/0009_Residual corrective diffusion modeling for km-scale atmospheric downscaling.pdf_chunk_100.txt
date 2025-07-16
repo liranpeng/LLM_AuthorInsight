@@ -1,0 +1,9 @@
+Download references
+Acknowledgements
+We extend our profound appreciation to the Central Weather
+Administration (CWA) of Taiwan(https://www.cwa.gov.tw/eng/), a
+premier government meteorological research and forecasting
+institution, for granting us access to the invaluable operational
+Numerical Weather Prediction (NWP) model dataset and for their
+expert guidance on data consultation. Our gratitude also extends to
+the AI-Algo team at NVIDIA, especially Kamyar Azizzadenesheli,

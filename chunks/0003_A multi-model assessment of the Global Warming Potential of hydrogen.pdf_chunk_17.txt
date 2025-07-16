@@ -1,0 +1,8 @@
+in the atmosphere are shown in (c). There is a very good agree-
+ment between the models on the chemistry of hydrogen, despite
+the models being quite different. One exception is WACCM,
+which has lower formaldehyde levels in the troposphere com-
+pared to the other models. In our model set-up for prescribed
+surface concentrations, the amount of hydrogen in the atmo-
+sphere (a) is determined by the surface concentrations, the che-
+mical production, and loss, but does not get affected by the soil

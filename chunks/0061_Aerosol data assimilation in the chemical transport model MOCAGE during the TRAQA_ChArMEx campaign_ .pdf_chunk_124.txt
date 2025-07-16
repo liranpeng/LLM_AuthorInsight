@@ -1,0 +1,5 @@
+are presented (d) with the points of departure (D) and arrival (A) for each ﬂight, and the positions of the assimilated observations during the
+day of ﬂight (dark green). The colours of the tracks represent the altitude of the aircraft during the ﬂight, with values deﬁned in the colour
+bar. The aerosols are considered in the size range from 1 to 2.5 µm.
+model run (Fig. 10b), the most obvious assimilation impact is
+the change of the intensity of the plume in the ﬁrst part of the

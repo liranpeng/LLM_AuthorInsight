@@ -1,0 +1,23 @@
+(third column), whether the scheme is strictly shape-preserving in terms of not expanding the range of the initial data (fourth column), and
+the reason for non-shape-preservation (if applicable, ﬁfth column).
+Scheme
+“Category”
+Shape-preserving
+Strictly shape-
+Reason for “non-strict”
+acronym
+ﬁlter category
+preserving
+shape preservation
+CAM-FV
+Flux-form ﬁnite volume
+Dimensionally split
+No
+1-D limiter
+CAM-SE
+Spectral element
+Quasi-monotone limiter
+Yes
+–
+(series expansion)
+based on minimization;

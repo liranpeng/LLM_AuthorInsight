@@ -1,0 +1,7 @@
+wavelengths >345 nm, the optical depths of Rayleigh and ozone are relatively small, and accurate photol-
+ysis rates need at most two bands if individual species' absorption cross sections are photon-weighted. O3 
+HSU AND PRATHER
+10.1029/2020MS002131
+5 of 24
+Journal of Advances in Modeling Earth Systems
+absorption in the Chappuis bands (450–800 nm) is not important for the photochemistry, but it is an impor-

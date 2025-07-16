@@ -1,0 +1,11 @@
+model errors in global tropospheric chemistry.
+Published by Copernicus Publications.
+3300
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements
+1
+Introduction
+The environmental damage caused by chemically reactive
+greenhouse gases and most air pollutants is controlled by a
+balance between their sources and sinks, with atmospheric
+photochemistry as the major sink. The net chemical loss is
+comprised of a highly heterogeneous mixture of air parcels,

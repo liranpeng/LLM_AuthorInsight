@@ -1,0 +1,56 @@
+Solar irradiance
+Forcings with CO2 extraction
+(b)
+GHG forcing including CO2 change of:
+1850
+1900
+1950
+2000
+2050
+2100
+−2
+ 0
+ 2
+ 4
+ 6
++2 % yr
+Constant
+−3 % yr
+−6 % yr
+Net forcing without CO2 extraction
+Fe (W m  )
+(c)
+GHG forcing including CO2 change of:
+1850
+1900
+1950
+2000
+2050
+2100
+−2
+ 0
+ 2
+ 4
+ 6
++2 % yr
+Constant (339 PgC extracted)
+Constant (695 PgC extracted)
+−3 % yr
+−6 % yr
+Net forcing with CO2 extraction
+(d)
+GHG forcing including CO2 change of:
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-2
+-2

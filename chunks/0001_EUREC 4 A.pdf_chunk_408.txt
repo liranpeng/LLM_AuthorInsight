@@ -1,0 +1,11 @@
+Lett., 47, 1097–10, 2020.
+Dixit, V. V., Nuijens, L., and Helfer, K. C.: Counter-gradient
+momentum transport through subtropical shallow convection
+in ICON-LEM simulations, Earth and Space Science Open
+Archive, p. 23, 2020.
+Ewald, F., Kölling, T., Baumgartner, A., Zinner, T., and Mayer, B.:
+Design and characterization of specMACS, a multipurpose hy-
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+https://doi.org/10.5194/essd-13-4067-2021
+B. Stevens et al.: EUREC4A
+4117

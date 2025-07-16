@@ -1,0 +1,8 @@
+scattering. Here we propose a repeated “aerosol-free” call
+invoking this all-sky/clear-sky double call to radiation once
+more, by setting the aerosol scattering and absorption prop-
+erties to zero. Fluxes for this repeated call have to be stored
+separately (top-of-atmosphere radiative upwelling ﬂux com-
+ponents with aerosol scattering and absorption set to zero:
+shortwave in all sky and clear sky (rsutca, rsutcsca) and cor-
+responding longwave (rlutca, and rlutcsca)). To limit com-

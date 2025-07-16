@@ -1,0 +1,12 @@
+and 2015.
+A12
+Alternative scenario
+Simulated global temperature for the climate forcings of
+the “alternative scenario” discussed in Sect. 6 are shown in
+Fig. A12. The climate model, with sensitivity 3 ◦C for dou-
+bled CO2, is the same as used for Fig. 12.
+A13
+Non-CO2 GHGs
+CO2 is the dominant forcing in future climate scenarios.
+Growth of non-CO2 GHG climate forcing is likely to be
+even smaller, relative to CO2 forcing, than in recent decades

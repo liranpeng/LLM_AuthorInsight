@@ -1,0 +1,11 @@
+W m−2 per K in surface temperature.
+The total simulation years requested are 60 for Tier 2 and
+120 for Tier 3.
+4
+Diagnostics
+The AerChemMIP-speciﬁc diagnostics are designed to an-
+swer the following questions. How large are forcing, feed-
+back and response associated with reactive gases and
+aerosols in the models participating in CMIP6 historical
+and scenario simulations? Which processes and mechanisms
+need to be represented in the models for a credible descrip-

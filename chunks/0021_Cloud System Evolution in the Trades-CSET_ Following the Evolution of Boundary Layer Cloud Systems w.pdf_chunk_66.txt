@@ -1,0 +1,5 @@
+mission operations and serves as an archive reference for data collected during CSET. After 
+the mission the catalog is being used extensively in playback mode of all the aircraft 
+observations and ancillary products collected during each mission. The Field Catalog is 
+developed and maintained by EOL’s Data Management and Services Facility (DMS) and 
+catalogs for past field projects are available at: http://catalog.eol.ucar.edu/. (The field catalog

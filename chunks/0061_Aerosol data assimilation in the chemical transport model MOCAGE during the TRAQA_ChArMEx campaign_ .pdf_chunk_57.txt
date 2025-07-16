@@ -1,0 +1,8 @@
+ence the spread of the analysis to neighbouring grid boxes,
+are speciﬁed with constant correlation lengths in the horizon-
+tal and the vertical. The constant and homogeneous correla-
+tion lengths are modelled using a Gaussian function (Pan-
+nekoucke and Massart, 2008) in terms of distance in kilo-
+metres for the horizontal lengths, and in terms of number of
+model levels for the vertical lengths (Massart et al., 2009).
+The implemented horizontal correlation length is 45 km. For

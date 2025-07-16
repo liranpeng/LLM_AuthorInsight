@@ -1,0 +1,10 @@
+https://doi.org/10.5194/essd-13-4067-2021
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+4116
+B. Stevens et al.: EUREC4A
+Albrecht, B., Bretherton, C. S., Johnson, D., Schubert, W. S., and
+Frisch, A. S.: The Atlantic stratocumulus transition experiment –
+ASTEX, B. Am. Meteorol. Soc., 76, 889–904, 1995.
+Albrecht, B., Ghate, V., Mohrmann, J., Wood, R., Zuidema, P.,
+Bretherton, C., Schwartz, C., Eloranta, E., Glienke, S., Donaher,
+S., Sarkar, M., McGibbon, J., Nugent, A. D., Shaw, R. A., Fugal,

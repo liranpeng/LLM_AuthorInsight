@@ -1,0 +1,28 @@
+10
+10
+15
+85S
+60S
+30S
+EQ
+30N
+60N
+85N
+5
+10
+15
+20
+25
+−30
+−20
+−10
+0
+10
+20
+30
+40
+Fig. 5. Annually averaged zonal-mean ozone change (%) between 1850 and 2000 due to climate change only (“1c minus 1”). For UM CAM
+“1b minus 1d” is shown since the model did not run simulations “1c” and “1”. The stratosphere (taken as ozone >150 ppbv in year 2000) is
+masked for the models that do not calculate stratospheric chemistry explicitly.
+2.3.2
+The effect of changes in climate

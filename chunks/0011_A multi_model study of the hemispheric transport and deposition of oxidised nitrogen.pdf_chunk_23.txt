@@ -1,0 +1,8 @@
+cursor gases (SO2, CO, NMVOC and NOx) were reduced
+by 20% in each of the four source regions were also
+analysed. A comparison of these two series of experiments
+will illustrate the impact of any non-linearities in the
+chemistry of the different models. The ratio of the concen-
+trations of NOx to VOCs will clearly be different in the
+source region between the two sets of experiments, which in
+turn might impact on the proportions of the different NOy

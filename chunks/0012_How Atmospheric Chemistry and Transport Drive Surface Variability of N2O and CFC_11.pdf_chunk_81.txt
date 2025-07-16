@@ -1,0 +1,7 @@
+NOAA, National Oceanic and Atmospheric Administration; QBO, Quasi-Biennial Oscillation.
+Journal of Geophysical Research: Atmospheres
+loss rates, the low correlation between N2OX and F11X in the two models indicates that upwelling changes 
+phase with altitude. When including pre-MLS years (1990–2005), there are no obvious decadal shifts in 
+F11X loss rate, unlike N2OX.
+3.  Surface Impacts of Stratospheric QBO
+3.1.  Introduction and Methods

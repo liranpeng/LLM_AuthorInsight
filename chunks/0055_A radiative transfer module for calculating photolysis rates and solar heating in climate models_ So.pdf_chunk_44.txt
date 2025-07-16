@@ -1,0 +1,18 @@
+ing by tropospheric aerosols such as brown and black carbon
+Geosci. Model Dev., 10, 2525–2545, 2017
+www.geosci-model-dev.net/10/2525/2017/
+J. Hsu et al.: A radiative transfer module
+2529
+and dust is to be accurately modeled with Solar-J, then one
+must go to the speciﬁc models to acquire the physical and
+optical properties, e.g., NCAR’s CESM 1.2 (Tilmes et al.,
+2015).
+The Solar-J bins, solar ﬂuxes (Sphot in photons cm−2 s−1
+and
+SWatt
+in
+W m−2),
+and
+Rayleigh
+cross
+sections

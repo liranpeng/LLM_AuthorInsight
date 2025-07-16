@@ -1,0 +1,10 @@
+10 s data.
+shape of the cumulative PDs but are informative regarding
+the minimum structural uncertainty in estimating the 24 h re-
+activity of a well-measured air parcel.
+4.2
+Spatial heterogeneity of tropospheric chemistry
+A critical unknown for tropospheric chemistry modeling is
+what resolution is needed to correctly calculate the bud-
+gets of key gases. A similar question was addressed in Yu
+et al. (2016) for the isoprene oxidation pathways using a

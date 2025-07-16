@@ -1,0 +1,15 @@
+https://doi.org/10.5281/zenodo.1227336, 2018.
+E3SM-Project/E3SM:
+E3SM
+v1.0
+tangq/GMD_2020_O3v2,
+Version
+archive/tangq/GMD_2020_O3v2,
+Zenodo,
+https://doi.org/10.5281/zenodo.4252725, 2020.
+E3SM team: Energy Exascale Earth System Model, E3SM, avail-
+able at: https://e3sm.org/, last access: 29 August 2020.
+https://doi.org/10.5194/gmd-14-1219-2021
+Geosci. Model Dev., 14, 1219–1236, 2021
+1234
+Q. Tang et al.: Interactive stratospheric ozone (O3v2) in E3SM

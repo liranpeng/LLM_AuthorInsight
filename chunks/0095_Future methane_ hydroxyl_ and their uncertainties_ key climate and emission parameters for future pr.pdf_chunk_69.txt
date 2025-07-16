@@ -1,0 +1,50 @@
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+270
+280
+290
+300
+DU
+Ozone column, 40°S−40°N
+5.0
+5.5
+6.0
+6.5
+Tg(N)/a
+Lightning NOx emissions
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+200
+300
+400
+500
+600
+700
+Tg(CO)/a
+Biomass burning emissions
+Oslo CTM3
+UCI CTM
+GEOS-Chem/GEOS-5
+GEOS-Chem/MERRA
+All CTMs
+Temperature
+251.50
+251.75
+252.00
+252.25
+2.40
+2.42
+2.44
+2.46
+2.48
+Fig. 3. Climate and emission variables controlling the interannual variation of τCH4×OH in CTMs. Emissions are global totals and other

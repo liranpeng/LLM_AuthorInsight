@@ -1,0 +1,26 @@
+ﬂux,
+J.
+Geophys.
+Res.-Atmos.,
+105,
+14653–14665,
+https://doi.org/10.1029/2000JD900124, 2000.
+McPeters, R. D., Bhartia, P. K., Krueger, A. J., and Herman, J.
+R.: Nimbus-7 Total Ozone Mapping Spectrometer (TOMS) Data
+Products User’s Guide, NASA Ref. Publ., 1996.
+Murphy, D. M. and Fahey, D. W.: An estimate of the ﬂux
+of
+stratospheric
+reactive
+nitrogen
+and
+ozone
+into
+the
+troposphere,
+J.
+Geophys.
+Res.-Atmos.,
+99,
+5325–5332,
+https://doi.org/10.1029/93JD03558, 1994.

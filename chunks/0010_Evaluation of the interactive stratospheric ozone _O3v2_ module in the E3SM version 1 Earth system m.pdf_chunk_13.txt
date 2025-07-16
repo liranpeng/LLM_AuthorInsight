@@ -1,0 +1,8 @@
+tions about the tropopause; i.e., when the tropopause rose
+relative to the climatological tropopause, the ozone clima-
+tology overwrite would place large stratospheric abundances
+into tropospheric air masses and these errors were not sym-
+metrical. Similar problems occurred in the vicinity of sub-
+tropical and polar jets. Altogether, these errors have an un-
+certain climate impact, and thus we implement an improved
+O3v2 ozone module in E3SMv1 and perform a more com-

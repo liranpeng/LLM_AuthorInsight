@@ -1,0 +1,10 @@
+10956
+S. A. Strode et al.: Forecasting carbon monoxide on a global scale
+quantifying how anthropogenic emissions affect chemical re-
+activity globally, and identifying ways to improve the mod-
+eling of these processes.
+Chemical forecasts from the Goddard Earth Observing
+System Model version 5 (GEOS-5) model provided insight
+into the chemical environments and sources of pollution for
+the diverse regions sampled during the ATom-1 campaign.
+GEOS-5 forecasts help determine the source regions and

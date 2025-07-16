@@ -1,0 +1,8 @@
+tude, and that signiﬁcantly misrepresent the direct–diffuse ra-
+tio of solar radiation at the surface. The original Fast-J work
+(Wild et al., 2000) examined a range of multi-stream scatter-
+ing models and found that for typical clouds, an eight-stream
+solution was able to match within a few percent that of a
+100-stream code for the mean intensity above, within and be-
+low the cloud. A major advantage of the eight-stream system
+was that no delta scaling was needed and a simply truncated

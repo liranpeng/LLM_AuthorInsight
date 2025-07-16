@@ -1,0 +1,26 @@
+
+	
+þσ2
+AGWPτH2O þ σ2
+AGWPτO3
+8
+>
+<
+>
+:
+9
+>
+=
+>
+;
+2
+666664
+3
+777775
+ð9Þ
+where we have expanded the forcing of methane to include uncertainties in the
+radiative efﬁciency rCH4 and feedback factor ff CH4.
+We ﬁnd a total uncertainty of 2.8.
+For the terms that do not measure expanded uncertainty, we use the model
+mean value. For each of the sigma-terms, we use either the standard deviation of
+the model spread for the model ensemble, or values from literature. Details on the

@@ -1,0 +1,8 @@
+Cloud cameras
+Upward all-sky visible images and upward 30◦ﬁeld-of-view thermal images, both at 0.1 Hz
+Sun photometer
+MICROTOPS sun photometer capturing at sun views the solar attenuation at 380, 440, 670, 870,
+and 940 nm to derive column properties of aerosol optical depth (AOD) at these wavelengths and the
+atmospheric water vapor content
+Solar spectrometer
+MAX-DOAS (Multi-AXis Differential Optical Absorption Spectroscopy) measuring scattered sky so-

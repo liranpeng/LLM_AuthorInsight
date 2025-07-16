@@ -1,0 +1,8 @@
+nostics to a certain degree. It is natural to choose η = p+1 to
+recover the higher order method and demonstrate its proper-
+ties; to explore the scheme in applications, smaller values of
+η should be used. In addition, the use of the shape-preserving
+limiter leads to smaller orders of spatial convergence (Guba
+et al., 2013). Therefore, for the unlimited simulations we
+set η = p + 1 to maintain characteristics of the higher or-
+der method. For the limited simulations, we take η = 3.0 for

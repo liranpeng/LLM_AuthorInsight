@@ -1,0 +1,10 @@
+form 5 % increase in ship NOx emissions and another with
+zero ship NOx emissions. Results are derived from a simula-
+tion of year 2006 after spin-up from July 2005.
+2.1
+Plume chemistry and dispersion
+Previous versions of GEOS-Chem assumed that sub-grid
+chemistry in ship plumes convert each mole of NOx emis-
+sions into 10 mole of O3 and 1 moles of HNO3 – an ozone
+Atmos. Chem. Phys., 14, 6801–6812, 2014
+www.atmos-chem-phys.net/14/6801/2014/

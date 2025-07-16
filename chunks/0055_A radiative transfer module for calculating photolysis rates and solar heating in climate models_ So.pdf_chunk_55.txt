@@ -1,0 +1,8 @@
+delta-Eddington approximation (Huang, 1968; Joseph et al.,
+1976). The purpose is to remove the forward-scattering peak
+typical of large particles and have only isotropic-equivalent
+scattering. The absorption optical depth is not changed to en-
+sure correct absorption in the limit of optically thin clouds.
+The basic problem with these approximations is that the
+cloud optical depth is reduced by as much as a factor of 5,
+and thus substantially more sunlight is transmitted through

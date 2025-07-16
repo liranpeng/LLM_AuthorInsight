@@ -1,0 +1,80 @@
+ATom-4
+0.00
+0.00
+0.01
+0.02
+0.04
+99 %
+72 %
+38 %
+L-O3
+Reactivity
+Deployment
+Avg R
+Median R
+Avg R (ppb d−1) in
+Fraction of total R in
+(ppb d−1)
+(ppb d−1)
+top 50
+top 10
+top 3
+top 50
+top 10
+top 3
+Paciﬁc
+L-O3
+ATom-1
+1.42
+1.02
+2.42
+4.53
+6.44
+85 %
+32 %
+14 %
+Paciﬁc
+L-O3
+ATom-2
+1.05
+0.94
+1.65
+2.44
+2.84
+78 %
+23 %
+8 %
+Paciﬁc
+L-O3
+ATom-3
+1.42
+1.23
+2.20
+3.65
+5.20
+77 %
+26 %
+11 %
+Paciﬁc
+L-O3
+ATom-4
+1.43
+1.01
+2.41
+4.57
+5.59
+84 %
+32 %
+12 %
+Atlantic
+L-O3
+ATom-1
+2.12
+1.18
+3.73
+6.12
+7.37
+88 %
+29 %
+11 %
+Atlantic

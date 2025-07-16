@@ -1,0 +1,8 @@
+column is anomalously lower only in the 20◦S–20◦N region
+and likely explains their higher J-O1D noted above.
+Reactivity proﬁles for the ﬁve non-GISS models show ex-
+cellent agreement for P -O3 but noticeable differences for L-
+CH4 and even larger ones for L-O3 (Fig. 1). The altitude
+proﬁles are similar for the ﬁve models, indicating that the
+cause of the L-O3 spread is likely related to HOX. The GISS
+results are anomalous, with much higher P -O3 and an L-O3

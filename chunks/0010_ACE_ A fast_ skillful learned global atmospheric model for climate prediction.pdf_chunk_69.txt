@@ -1,0 +1,21 @@
+FourierNeuralOperatorNet class found here:
+https://github.com/ai2cm/modulus/blob/
+94f62e1ce2083640829ec12d80b00619c40a47f8/modulus/models/sfno/sfnonet.py#
+L292. All configuration options not listed here are set to the defaults at the linked code.
+Name
+Value
+embed_dim
+256
+filter_type
+linear
+num_layers
+8
+operator_type
+dhconv
+scale_factor
+1
+spectral_layers
+3
+B
+Hyperparameters
+Table 3 lists the SFNO hyperparameters used in this study. See [3] for details about the meaning

@@ -1,0 +1,4 @@
+lated from the pole to the intersect with the e90 surface near the tropics (denoted with the subscript LMS in
+Figure 1j), whereas the simulated hemispheric ﬂux (green solid line in Figure 1i) is calculated from the pole
+to the equator. The downward ﬂux entering the LMS across the 100 hPa surface correlates weakly with the
+TC-e90 ﬂux (r = 0.18). Adding the photochemical term reduces the correlation (to r = 0.10). However, further

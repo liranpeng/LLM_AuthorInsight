@@ -1,0 +1,8 @@
+selected sample days from 2000 to 2009 with different ran-
+domly selected k sites for each day. The primary optimization
+is for β, keeping D = 25 km and L = 500 km ﬁxed. All tested
+β values use the same days and prediction sites. Where there
+are many nearby sites, the RMSE is at a minimum of about
+6 ppb (see Fig. 2 and discussion of quality of prediction be-
+low) and does not change much for the range of 2.5 < β < 3.5.
+The use of large β values can lead to sharp gradients near

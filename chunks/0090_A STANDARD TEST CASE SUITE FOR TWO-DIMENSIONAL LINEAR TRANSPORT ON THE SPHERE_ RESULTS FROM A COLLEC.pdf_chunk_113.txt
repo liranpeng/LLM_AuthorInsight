@@ -1,0 +1,9 @@
+gitude. The identical grid spacing is also selected for the lat-
+itudinal direction. The native grid parameters corresponding
+to these three average grid spacings at the Equator can be
+found in the Appendix for the respective schemes. In addi-
+tion, we make extensive use of CNs, which are also speciﬁed
+in terms of 1λ, so local CNs may differ from the “global”
+Geosci. Model Dev., 7, 105–145, 2014
+www.geosci-model-dev.net/7/105/2014/
+P. H. Lauritzen et al.: Results from standard test case suite

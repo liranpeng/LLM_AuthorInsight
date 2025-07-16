@@ -1,0 +1,9 @@
+ATom reactivity studies (Prather et al., 2017) plus three ad-
+ditional European global chemistry models. They are de-
+scribed more fully in Table 1, and are brieﬂy designated as
+GEOS-Chem (GC), GFDL AM3 (GFDL), GISS Model 2E1
+(GISS), GSFC GMI (GMI), ECMWF IFS (IFS), MOCAGE
+(MOCA), CESM (NCAR), UCI CTM (UCI), and UM-
+UKCA (UKCA). Additional model information and contacts
+are given in the Supplement Table S1. All models submitted
+global 4-D ﬁelds (latitude by longitude by pressure for 24 h)

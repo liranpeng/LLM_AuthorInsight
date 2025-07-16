@@ -1,0 +1,8 @@
+(“UoR-RTM”) is a narrow band model (Shine, 1991), which
+resolves the thermal infrared spectrum in 10 cm−1 bands.
+For the solar spectrum, a four stream discrete-ordinate model
+(Stamnes et al., 1998) is used. The water vapor and tempera-
+ture vertical proﬁles are taken from the ECMWF Re-analysis
+dataset (ERA-40) and the cloud and surface albedo data is
+taken from ISCCP. The tropopause height is deﬁned as the
+height at which the lapse rate is 2 K/km in all the calcula-

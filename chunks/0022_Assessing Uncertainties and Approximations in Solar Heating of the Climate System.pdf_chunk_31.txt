@@ -1,0 +1,10 @@
+Averaged liquid-only clouds shown for a range of re-scalings of the Mie scattering phase function (HG, δ-0, δ-1, δ-2). These are all evaluated within the 8-stream 
+SJ code. Also shown is the difference RRTMG minus SJ/δ1, where much of the difference, especially in atmospheric heating, is due to the 2-stream minus 
+8-stream difference. See Table S1 for a complete description of code versions.
+(a)
+(b)
+(c)
+Journal of Advances in Modeling Earth Systems
+HSU AND PRATHER
+10.1029/2020MS002131
+4 of 24

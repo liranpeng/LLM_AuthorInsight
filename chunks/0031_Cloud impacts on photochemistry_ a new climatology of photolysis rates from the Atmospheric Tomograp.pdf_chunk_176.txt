@@ -1,0 +1,9 @@
+R., Robertson, F. R., Ruddick, A. G., Sienkiewicz, M., and
+Woollen, J.: MERRA: NASA’s Modern-Era Retrospective Anal-
+ysis for Research and Application, J. Climate, 24, 3624–3648.
+https://doi.org/10.1175/JCLI-D-11-00015.1, 2011.
+Ryu, Y.-H., Hodzic, A., Descombes, G., Hall, S., Minnis,
+P., Spangenberg, D., Ullmann, K., and Madronich, S.: Im-
+proved modeling of cloudy-sky actinic ﬂux using satel-
+lite cloud retrievals, Geophys. Res. Lett., 44, 1592–1600,
+https://doi.org/10.1002/2016GL071892, 2017.

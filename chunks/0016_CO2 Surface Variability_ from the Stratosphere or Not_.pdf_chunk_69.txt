@@ -1,0 +1,8 @@
+https://doi.org/10.5194/acp-11-3713-2011, 2011.
+Newman, P.: The quasi-biennial oscillation (QBO), NASA, God-
+dard Space Flight Center, https://acd-ext.gsfc.nasa.gov/Data_
+services/met/qbo/qbo.html, last access: 30 August 2021.
+Pandey, S., Houweling, S., Krol, M., Aben, I., Chevallier, F., Dlu-
+gokencky, E. J., Gatti, L. V., Gloor, E., Miller, J. B., Det-
+mers, R., Machida, T., and Röckmann, T.: Inverse model-
+ing of GOSAT-retrieved ratios of total column CH4 and CO2

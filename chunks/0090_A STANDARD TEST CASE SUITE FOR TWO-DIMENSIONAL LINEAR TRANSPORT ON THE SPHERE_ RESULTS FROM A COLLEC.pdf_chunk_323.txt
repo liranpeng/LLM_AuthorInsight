@@ -1,0 +1,9 @@
+with +4 % and −1 % ripples, no decay of the plateau val-
+ues, and no increase in ℓ2 error over successive rotations. For
+small overshoot allowance (0.2 %), however, we regain some
+of the desired properties (i.e., the ripples are smaller, +2.5 %
+and −1 %), but the plateau tracer does not decay. In general
+the ℓ2 errors are similar for L = 0,1,2, but increase for L = 3
+except for CN< 0.2.
+Supplementary material related to this article is
+available online at http://www.geosci-model-dev.net/7/

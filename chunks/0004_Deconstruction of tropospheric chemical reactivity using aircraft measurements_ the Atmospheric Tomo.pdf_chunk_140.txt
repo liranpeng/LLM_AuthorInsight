@@ -1,0 +1,6 @@
+Figure 47. Probability density of L-CO (ppb d−1) in the three tropical basins for ATom-1234. See Fig. 40.
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+https://doi.org/10.5194/essd-15-3299-2023
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements
+3329
+Figure 48. Sensitivity (percentage per percentage) plotted against reactivity (ppb d−1) for ATom-1: (a) dln[P-O3]/dln[NOx], (b) dln[P-

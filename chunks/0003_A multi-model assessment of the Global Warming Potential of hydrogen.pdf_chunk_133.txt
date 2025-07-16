@@ -1,0 +1,6 @@
+attribution to emissions in the Atmospheric Chemistry and Climate Model
+Intercomparison Project (ACCMIP). Atmos. Chem. Phys. 13, 3063–3085 (2013).
+44. Etminan, M. et al. Radiative forcing of carbon dioxide, methane, and nitrous
+oxide: a signiﬁcant revision of the methane radiative forcing. Geophys. Res.
+Lett. 43, https://doi.org/10.1002/2016gl071930 (2016).
+45. Myhre, G. et al. Radiative forcing due to stratospheric water vapour from CH4

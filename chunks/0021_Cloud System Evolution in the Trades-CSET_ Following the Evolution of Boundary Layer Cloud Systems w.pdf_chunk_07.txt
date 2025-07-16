@@ -1,0 +1,5 @@
+system were the newly developed HIAPER Cloud Radar (HCR) and the High Spectral Resolution 
+Lidar (HSRL). Together they provided unprecedented characterizations of aerosol, cloud and 
+precipitation structures that were combined with in situ measurements of aerosol, cloud, 
+precipitation, and turbulence properties. The cloud systems sampled included solid stratocumulus 
+infused with smoke from Canadian wildfires, mesoscale cloud-precipitation complexes, and

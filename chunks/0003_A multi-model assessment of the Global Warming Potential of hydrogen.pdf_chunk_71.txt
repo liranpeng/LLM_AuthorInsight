@@ -1,0 +1,6 @@
+lifetime of 240 years for loss in the stratosphere (excluding OH loss) and 160 years
+for soil sink43. The total lifetime of methane in CTRL and PERT_H2 can be
+calculated. The methane ﬂux (i.e. the emissions needed to sustain the concentra-
+tions) is calculated as the burden divided by the total methane lifetime in each
+simulation. The difference in the methane ﬂux between PERT_H2 and CTRL is the
+additional methane ﬂux for a 10% increase in the surface concentration of

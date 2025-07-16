@@ -1,0 +1,7 @@
+Figure 10. Curtain plots of P-O3 (ppb d−1) in the Atlantic basin (53◦S–60◦N) for ATom-1234. See Fig. 6.
+Figure 11. Curtain plots of L-O3 (ppb d−1) in the Atlantic basin (53◦S–60◦N) for ATom-1234. See Fig. 6.
+dominated by the higher altitudes, the mean proﬁle shows
+only a modest increase above 10 km. In the Atlantic, ATom-3
+has a much greater P-O3 below 6 km, but above 8 km, all the
+deployments show a wide range of mean values, with ATom-
+1 exceeding 2.5 ppb d−1 above 10 km. For L-O3 and L-CH4,

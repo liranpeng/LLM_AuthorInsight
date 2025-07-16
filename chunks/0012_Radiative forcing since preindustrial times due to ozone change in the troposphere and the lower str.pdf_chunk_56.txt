@@ -1,0 +1,35 @@
+Detailed stratospheric chem-
+istry, including aerosols
+4
+CHASER
+CCM
+Lin
+and
+Rood
+scheme (Lin and
+Rood, 1996)
+prognostic Arakawa-
+Schubert
+scheme
+(Emori et al., 2001)
+Detailed
+ozone-NOx-NMHC
+chemistry, 53 species, 140 re-
+actions, incl. on-line sulfate
+Ozone mixing ratio relaxed
+above 50 hPa to prescribed
+data
+5
+STOCHEM HadGEM1
+CCM
+Lagrangian
+(Collins
+et
+al.,
+1997)
+Described in Collins
+et al. (2002)
+Detailed
+ozone/NOx/hydrocarbon
+scheme including 70 species
+Relaxed towards SPARC cli-

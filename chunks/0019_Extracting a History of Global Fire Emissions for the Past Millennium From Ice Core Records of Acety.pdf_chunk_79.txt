@@ -1,0 +1,31 @@
+of emissions are negligible. As such, methane emissions are also reported as global totals (Table 5).
+Table 4
+Modeled Acetylene Emissions for the Scenarios of Geologic Emissions and Chlorine Sink Strength
+Scenario
+Acetylene emissions
+Change in total
+burning (%)
+MP
+LIA
+Non‐boreal
+Boreal
+Non‐boreal
+Boreal
+noGEO‐noCl
+5.03 ± 0.30
+0.62 ± 0.06
+2.28 ± 0.15
+0.60 ± 0.04
+−49
+noGEO‐highCl
+5.03 ± 0.30
+0.62 ± 0.06
+2.28 ± 0.15
+0.60 ± 0.04
+−49
+lowGEO‐noCl
+4.64 ± 0.30
+0.41 ± 0.06
+1.89 ± 0.15
+0.39 ± 0.05
+−55

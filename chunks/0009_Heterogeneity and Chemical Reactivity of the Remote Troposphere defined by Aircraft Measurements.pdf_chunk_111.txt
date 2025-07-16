@@ -1,0 +1,9 @@
+below 4 km.
+In Fig. 4, we also look at the histograms for the key HOx-
+related species HOOH (third row) and HCHO (fourth row).
+For these species, the ATom–model agreement is generally
+good. If anything, the models tend to have too much HOOH.
+ATom shows systematically large occurrences of low HOOH
+(50–200 ppt, especially central Paciﬁc), indicating, perhaps,
+that convective or cloud scavenging of HOOH is more effec-
+tive than is modeled. HCHO shows reasonable agreement in

@@ -1,0 +1,42 @@
+
+
+
+
+up
+down
+up
+down
+½
+½
+,
+n
+n
+n
+n
+n
+j
+I
+u
+I
+u
+I
+I
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(1)
+where un (n = 1:4) are the cosines of the zenith angles for the scattered intensity (I). The angles are Gauss 
+points with weights wn. We assume a Lambertian reflective surface, and hence Iup(+un) is isotropic and de-
+noted simply as Iup. The solution requires a linear equation relating Iup to the intensities at the four angles

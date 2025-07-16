@@ -1,0 +1,8 @@
+ity, and Evaluation of model performance. Considerable ex-
+perience has been gained in previous model intercompari-
+son exercises (namely CCMVal, CCMI, AeroCom, ACCMIP,
+and Hemispheric Transport of Air Pollution (HTAP)), but all
+too often model versions were different from those used in
+CMIP. AerChemMIP provides a unique opportunity to gener-
+ate a complete dataset, requested directly from those GCMs
+providing climate sensitivity and scenario information to

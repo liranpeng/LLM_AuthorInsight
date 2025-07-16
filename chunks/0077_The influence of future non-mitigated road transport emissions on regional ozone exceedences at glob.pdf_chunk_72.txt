@@ -1,0 +1,7 @@
+shows that differences of 0.2e0.3 Tg N yr1 occur in road transport
+emissions for most of the worlds regions in 2025, except for Asia
+(w1.4 Tg N yr1). For 2050, these differences fall to w0.1 Tg N yr1,
+with shipping emissions becoming as important for many of the
+chosen regions. Analysing the seasonality in the multi-model
+ensemble mixing ratios for near-surface O3 shows that for Western
+Europe and the Eastern US, the peak level monthly mean values

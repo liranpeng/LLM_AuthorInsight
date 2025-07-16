@@ -1,0 +1,10 @@
+ment, ATom-1), and these included all species relevant for
+tropospheric chemistry and the 24 h reactivities. We limited
+our study to three reactivities (Rs) controlling methane (CH4)
+and tropospheric ozone (O3) using speciﬁc reaction rates to
+deﬁne the loss of CH4 and the production and loss of O3 in
+Atmos. Chem. Phys., 23, 99–117, 2023
+https://doi.org/10.5194/acp-23-99-2023
+H. Guo et al.: Heterogeneity and chemical reactivity
+101
+parts per billion (ppb) per day. The critical photolysis rates

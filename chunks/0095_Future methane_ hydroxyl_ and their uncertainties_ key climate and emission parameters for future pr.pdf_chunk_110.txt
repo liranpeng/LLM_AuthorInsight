@@ -1,0 +1,38 @@
+295
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+CH4 abundance, ppb
+ 
+ 
+2020
+2020
+2040
+2060
+2080
+2100
+2020
+2040
+2060
+2080
+2100
+8
+9
+10
+11
+12
+ 
+ 
+this work
+MAGICC
+TAR
+, y
+τCH4
+this work
+MAGICC
+Fig. 7. Projected future methane abundance (left) and total lifetime (right) for RCP 8.5. Projected uncertainty (shaded) is the standard
+deviation from 105 monte carlo integrations, accounting for uncertainty in the present-day budget, emissions, and climate-chemistry effects

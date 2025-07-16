@@ -1,0 +1,2 @@
+are from the TAR OxComp studies diagnosed by Wild (Prather et al., 2001; 2003). CLE and MFR results (Dentener et al., 2005; 2006) include uncertainty (standard deviation of model results) in the 
+change since year 2000, and CLE alone includes climate effects. The CMIP5 and ACCMIP results are from V. Naik and A. Fiore based on Fiore et al. (2012) and include the standard deviation over

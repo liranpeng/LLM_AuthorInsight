@@ -1,0 +1,8 @@
+ing for approaches to merge all the disparate measurements
+and synthesize that knowledge (Boucher et al., 2013).
+Observations are crucial in identifying aerosol proper-
+ties and processes, which in turn help build more accu-
+rate models. Additionally, with data assimilation techniques,
+we are able to directly integrate observations in models in
+order to improve modelled ﬁelds (Fisher and Lary, 1995;
+Elbern et al., 1997). Up to now, several research groups

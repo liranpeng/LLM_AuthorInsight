@@ -1,0 +1,8 @@
+vides a picture of the dominant sources affecting the con-
+stituent concentrations observed during ATom-1 for different
+regions of the atmosphere. The tagging of CO sources in-
+cludes both BB and non-BB from four continental areas, with
+all other sources put into the “other” bin. Other BB sources
+are small, but other non-BB sources are quite large as they in-
+clude all natural sources as well as atmospheric photochem-
+ical sources such as methane oxidation.

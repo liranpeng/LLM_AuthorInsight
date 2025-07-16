@@ -1,0 +1,8 @@
+imal” resolutions. The histograms for Ki do not constitute a
+monotonically increasing quantity going from left to right in
+the histogram plots. In other words, high-order convergence
+rates do not necessarily result in coarser “minimal” resolu-
+tions or vice versa; in fact there seems to be no clear corre-
+lation between Ki and 1λm in the resolution range consid-
+ered here. This is perhaps even more apparent in the “scatter-
+like” plot in Fig. 4. In fact, some of the schemes that are

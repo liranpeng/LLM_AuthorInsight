@@ -1,0 +1,10 @@
+scribe the MOCAGE CTM and its aerosol module, in Sect. 3
+the data assimilation system and in Sect. 4 and Sect. 5, re-
+spectively, the assimilated and the independent observational
+data. Results from the assimilation model and its critical
+evaluation against the direct forecasts of the CTM with in-
+dependent data are presented in Sect. 6. In Sect. 7 we discuss
+the overall performance of our assimilation system, and in
+Sect. 8 our recommendations for future work.
+2
+Model description

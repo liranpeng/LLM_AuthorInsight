@@ -1,0 +1,9 @@
+for historical following a similar philosophy to the “Easy
+Aerosol” project.
+For the prescribed SST experiments to diagnose transient
+ERFs, RFMIP uses the pre-industrial conditions as the ref-
+erence and perturbs one group of species at a time to evolve
+following historical (e.g. in piClim-histaerO3); consequently
+RFMIP speciﬁes a pre-industrial SST and sea ice climatol-
+ogy. AerChemMIP uses the evolving conditions (historical)
+as the reference with one group of species perturbed back to

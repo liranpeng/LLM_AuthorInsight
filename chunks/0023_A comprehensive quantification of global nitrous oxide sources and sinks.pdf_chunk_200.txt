@@ -1,0 +1,6 @@
+budget. BU and TD represent bottom-up and top-down methods, respectively. 
+The colour codes are the same as that used in Table 1 and Figs. 1–3. We use both 
+approaches, including 22 bottom-up and five top-down estimates of N2O fluxes 
+from land and oceans. For sources estimated by the bottom-up approach, we 
+include six process-based terrestrial biosphere modelling studies16; five 
+process-based ocean biogeochemical models99; one nutrient budget

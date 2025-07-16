@@ -1,0 +1,10 @@
+tropical cyclones with cascaded diffusion models. arXiv
+preprint arXiv:2310.01690 (2023).
+37. Stock, J. et al. Diffobs: Generative diffusion for global
+forecasting of satellite observations. arXiv preprint
+arXiv:2404.06517 (2024).
+38. Bian, G.-F., Nie, G.-Z. & Qiu, X. How well is outer tropical
+cyclone size represented in the ERA5 reanalysis dataset?
+Atmospheric Research 249, 105339 (2021).
+Article  Google Scholar 
+39. Pope, S. B.Turbulent flows (Cambridge university press, 2000).

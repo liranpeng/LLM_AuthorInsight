@@ -1,0 +1,20 @@
+terms of total water path:
+∂TWP
+∂t
+= E −P + ∂TWP
+∂t
+
+adv
+(1)
+where TWP = 1
+g
+P
+k qT
+k dpk is the amount of water in an atmospheric column and
+∂T W P
+∂t
+
+adv
+is the tendency of the total water path due to advection. E and P are the surface evaporation
+(E = LHF/Lv) and precipitation rate respectively. The physical model exactly satisfies Equation 1
+by design but an ML emulator may not unless explicitly designed to do so. Nonetheless, ACE very

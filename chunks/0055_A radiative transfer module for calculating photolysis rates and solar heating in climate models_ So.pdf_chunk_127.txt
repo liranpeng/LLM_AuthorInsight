@@ -1,0 +1,8 @@
+the isotropic scattering used in RRTMG-SW. Solar-J captures
+the cirrus albedo curve similar to Fig. 2 of Mishchenko et
+al. (1996) for τ = 0.1 in which the slope increases rapidly
+as the cosine (SZA) approaches 0. While the RRTMG-SW
+two-stream models can be tuned to be correct at some SZAs,
+they will have errors of 15 W m−2 at others. The change
+in surface heating (ﬁfth row) looks like the reverse of the
+top-of-atmosphere bars with similar relative weighting of the

@@ -1,0 +1,5 @@
+water clouds are included.  The total heating rates (W m-2) for Solar-J with standard Mie phase 
+function, Solar-J using a Henyey-Greenstein (HG) phase function, and RRTMG (standard δ-1 
+scaling) are shown in the legend.  These values are averaged only over high sun.  (right) Profiles 
+of the errors in atmospheric absorption caused by δ-scaling (0, 1, 2) and HG phase function for 
+liquid-water clouds.  Same conditions as for left panel.  Total heating-rate and rms differences

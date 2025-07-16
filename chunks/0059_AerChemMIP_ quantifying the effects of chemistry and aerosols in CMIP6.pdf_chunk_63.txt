@@ -1,0 +1,8 @@
+to quantifying the climate effects of the aerosols. For mod-
+els with tropospheric chemistry, but lacking a stratospheric
+chemistry, we encourage participation in all experiments ex-
+cept those explicitly addressing the effects of halocarbons.
+For tropospheric-only chemistry, the CMIP6-speciﬁed strato-
+spheric ozone dataset should be used (Hegglin et al., 2017).
+Modelling groups with full chemistry and aerosol models are
+encouraged to perform all simulations they deem relevant

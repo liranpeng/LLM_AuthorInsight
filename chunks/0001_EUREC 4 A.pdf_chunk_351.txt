@@ -1,0 +1,8 @@
+Anemometer
+Five-hole static tube; 100 Hz, 4...15 ms−1, < 5 % wind speed accuracy, 1◦wind direction accuracy
+to measure 3D wind velocity
+Particle image velocimetry
+PIV at 15 Hz with a pulsed 532 nm laser and a high-speed camera, max. probing. vol.
+150 mm × 100 mm × 5 mm, to characterize droplet 2D velocity and spatial distribution
+Holography
+In-line holography at 75 Hz with a pulsed 355 nm laser and 25 Mpx camera, max. probing. vol.

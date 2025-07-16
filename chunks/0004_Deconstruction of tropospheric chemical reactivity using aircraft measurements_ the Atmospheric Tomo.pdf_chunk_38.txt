@@ -1,0 +1,25 @@
+alkane (C3+), alkene (C2H4), H2O2. Fourth row: CH3OOH (MeOOH), CH3CHO (MeCHO), HCHO.
+Earth Syst. Sci. Data, 15, 3299–3349, 2023
+https://doi.org/10.5194/essd-15-3299-2023
+M. J. Prather et al.: Tropospheric chemical reactivity from ATom measurements
+3305
+Table 1. Statistics on reactivities R and J values by basin and deployment.
+P-O3
+Reactivity
+Deployment
+Avg R
+Median R
+Avg R (ppb d−1) in
+Fraction of total R in
+(ppb d−1)
+(ppb d−1)
+top 50
+top 10
+top 3
+top 50
+top 10
+top 3
+Paciﬁc
+P-O3
+ATom-1
+1.11

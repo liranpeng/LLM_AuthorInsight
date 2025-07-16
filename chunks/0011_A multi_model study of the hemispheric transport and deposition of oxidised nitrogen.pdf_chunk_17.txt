@@ -1,0 +1,10 @@
+relationships are calculated using a particular background
+state of the atmosphere, and that the relationships may be
+sensitive to changes in atmospheric composition.
+[6] In this study, a 20% decrease in anthropogenic
+emissions was used, as it lies within the range of possible
+future regional emission reductions [Cofala et al., 2007].
+Previous results indicate that model responses to this size of
+emission change are close to linear [TF HTAP, 2007].
+2.
+Models and Simulations

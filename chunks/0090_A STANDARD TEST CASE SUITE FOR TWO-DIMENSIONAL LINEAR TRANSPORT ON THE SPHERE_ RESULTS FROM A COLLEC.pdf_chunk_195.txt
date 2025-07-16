@@ -1,0 +1,9 @@
+where parcels are traced throughout the simulation, any re-
+lation between tracers is maintained, and hence the scatter
+points are stationary in the correlation plots.
+The way in which scatter points deviate from the poly-
+nomial curve has consequences for the physical realizability
+of the mixing introduced by the scheme. When mixing oc-
+curs in the atmosphere, scatter points (for example, located in
+Geosci. Model Dev., 7, 105–145, 2014
+www.geosci-model-dev.net/7/105/2014/

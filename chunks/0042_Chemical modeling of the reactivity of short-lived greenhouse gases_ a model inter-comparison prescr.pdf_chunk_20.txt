@@ -1,0 +1,21 @@
+new statistics developed here identify and characterize dif-
+ferences in the photochemical modules. For insight on the
+most reactive air parcels of the remote troposphere, we await
+a repeat of this work with the ATom data stream.
+Atmos. Meas. Tech., 11, 2653–2668, 2018
+www.atmos-meas-tech.net/11/2653/2018/
+M. J. Prather et al.: Reactivity of short-lived greenhouse gases
+2655
+Table 1. Participating models
+Model
+Type
+Meteorology
+T and q
+POC
+Model grid
+GFDL
+AM3
+CCM
+NCEP (nudged)
+CCM
+Arlene Fiore

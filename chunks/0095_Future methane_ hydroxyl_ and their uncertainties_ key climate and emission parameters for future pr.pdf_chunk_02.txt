@@ -1,0 +1,8 @@
+rological factors, and chemistry-climate feedbacks. Uncer-
+tainty in any of these inﬂuences or the underlying processes
+implies uncertainty in future abundance and radiative forc-
+ing. We simulate methane lifetime in three chemical trans-
+port models (CTMs) – UCI CTM, GEOS-Chem, and Oslo
+CTM3 – over the period 1997–2009 and compare the mod-
+els’ year-to-year variability against constraints from global
+methyl chloroform observations. Using sensitivity tests, we

@@ -1,0 +1,7 @@
+www.atmos-chem-phys.net/17/2709/2017/
+G. Myhre et al.: Multi-model simulations of aerosol due to anthropogenic emission changes
+2715
+Figure 6. Radiative forcing (W m−2) over the period 1990–2015 of the aerosol–cloud interaction for a subset of the models (a) and total
+aerosol effect (b). The lower panel shows the geographical distribution of radiative forcing (W m−2) of the multi-model mean total aerosol
+effect.
+aerosol effect for sulfate and BC, respectively. Sulfate forc-

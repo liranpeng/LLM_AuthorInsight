@@ -1,0 +1,12 @@
+(plume plus grid chemistry, right panels). Values are shown from the
+CTM with parametric plume chemistry only where ship NOx emis-
+sions exceed 104 molec m−2 s−1. Inset numbers give global aver-
+ages.
+3
+Chemical response to ship-NOx emissions
+3.1
+Ozone production
+Figure 2 shows simulated, time-averaged OPE of ship NOx
+with parametric plume chemistry. OPE is deﬁned here as
+1P(Ox)/1L(NOx), where P(X) and L(X) are the time-
+integrated production and loss of species X, Ox is the odd

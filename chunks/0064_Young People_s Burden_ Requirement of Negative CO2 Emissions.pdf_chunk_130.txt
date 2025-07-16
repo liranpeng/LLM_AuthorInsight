@@ -1,0 +1,8 @@
+We use the “intermediate” response function in Fig. 5 of
+Hansen et al. (2011), which gives good agreement with
+Earth’s measured energy imbalance. The response function
+is 0.15, 0.55, 0.75 and 1 at years 1, 10, 100 and 2000 with
+these values connected linearly in log (year). This deﬁned re-
+sponse function allows our results to be exactly reproduced,
+or altered with alternative choices for climate forcings, cli-
+mate sensitivity and response function. Forcings that we use

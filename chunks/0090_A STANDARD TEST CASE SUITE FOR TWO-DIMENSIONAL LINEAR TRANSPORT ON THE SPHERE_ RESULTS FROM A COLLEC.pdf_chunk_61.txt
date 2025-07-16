@@ -1,0 +1,8 @@
+dral Nonhydrostatic Model (ICON); ICON is currently be-
+ing developed in a joint effort by the Max Planck Institute
+for Meteorology (MPI-M) and the German Weather Service
+(DWD). The scheme is referred to as ICON-FFSL (Flux-
+Form Semi-Lagrangian). The swept area approximation in
+ICON-FFSL is ﬁrst-order in space and second-order in time.
+The simpliﬁed ﬂux integration, as used in SFF-CSLAM, is
+also applied in ICON-FFSL. Hence the maximum stable CN

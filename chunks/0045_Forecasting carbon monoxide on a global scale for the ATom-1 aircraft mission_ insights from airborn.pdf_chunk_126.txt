@@ -1,0 +1,10 @@
+L03816, https://doi.org/10.1029/2007GL031698, 2008.
+Lucchesi, R: File Speciﬁcation for GEOS-5 FP, GMAO Ofﬁce
+Note No. 4 (Version 1.1), 61 pp., available at: https://gmao.gsfc.
+nasa.gov/pubs/docs/Lucchesi617.pdf (last access: 31 July 2018),
+2017.
+www.atmos-chem-phys.net/18/10955/2018/
+Atmos. Chem. Phys., 18, 10955–10971, 2018
+10970
+S. A. Strode et al.: Forecasting carbon monoxide on a global scale
+Molod, A., Takacs, L., Suarez, M., and Bacmeister, J.: Development

@@ -1,0 +1,9 @@
+quantitative understanding of controls on cloudiness.
+In addition to the global coupled modeling activities, co-
+ordinating modeling activities using much-higher-resolution
+5the DYnamics of the Atmospheric general circulation Modeled
+On Non-hydrostatic Domains
+(meters to tens of meters) simulations of the ocean, atmo-
+sphere, and the coupled system over a limited area are on-
+going. These include idealized simulations with doubly peri-
+odic boundary conditions, atmospheric simulations designed

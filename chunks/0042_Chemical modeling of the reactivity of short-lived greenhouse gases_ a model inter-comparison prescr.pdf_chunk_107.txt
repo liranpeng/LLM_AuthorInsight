@@ -1,0 +1,8 @@
+ter due to use of model-generated vs. parcel-speciﬁed wa-
+ter vapor; and large variability in J-values for NCAR and
+GISS. Models with effectively the same chemistry module
+will appear distinct if they use a different data stream for wa-
+ter vapor. It is impossible to tell if overall, among the six
+models, GISS has the most unique features, and GC the least.
+These anomalous features can really only be explained by the
+model developers who understand the coding, yet these diag-

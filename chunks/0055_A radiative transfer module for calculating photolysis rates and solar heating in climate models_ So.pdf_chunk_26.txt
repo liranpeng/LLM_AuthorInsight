@@ -1,0 +1,8 @@
+high-resolution spectral data for stratospheric ozone photol-
+ysis and continually updated with new cross sections (Sander
+et al., 2011), and tested against other codes (Palancar et al.,
+2011; PhotoComp, Eyring et al., 2010), we have conﬁdence
+in our stratospheric photolysis and heating rates.
+The large bin 18 (412–778 nm) that includes the O3 Chap-
+puis band is unusual for Cloud-J: it assumes a uniform ab-
+sorption cross section for O3, and it has a large, factor of 2

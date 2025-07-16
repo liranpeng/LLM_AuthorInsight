@@ -1,0 +1,8 @@
+targets \({\bf{x}}\in {{\mathbb{R}}}^{{c}_{{\rm{out}}}\times
+p\times q}\) come from corresponding data aligned in time cout but
+having higher resolution, i.e., p>m and q>n.
+In our proof of concept we use the ERA5 reanalysis as input, over a
+subregion surrounding Taiwan, with m=n=36, cin=12 and cout=4.
+See Supplementary Table S2 for details about the inputs and
+outputs. The target data are 12.5 times higher resolution
+(p=q=448) and were produced using a radar-assimilating Weather

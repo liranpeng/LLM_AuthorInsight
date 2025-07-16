@@ -1,0 +1,10 @@
+are used (Hoor et al., 2009) and for biomass burning emissions estimates for the year
+2000 are taken from the GFEDv1 inventory (Van der Werf et al., 2006) using multi-
+year averaged activity data from Andreae and Merlet (2001). The meteorological
+ﬁelds are ﬁxed at the year 2003 throughout. Lightning NOx emissions are con-
+strained at w5 Tg N yr1. The chemical species for which RTE contribute are NOx, CO,
+SO2 and Non-methane Hydrocarbons.
+Anthropogenic emission
+scenario
+Reference
+Simulation

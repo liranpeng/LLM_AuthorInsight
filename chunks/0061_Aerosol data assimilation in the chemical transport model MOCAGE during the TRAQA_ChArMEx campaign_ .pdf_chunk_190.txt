@@ -1,0 +1,9 @@
+Phys., 9, 5073–5091, doi:10.5194/acp-9-5073-2009, 2009.
+Massart, S., Pajot, B., Piacentini, A., and Pannekoucke, O.: On the
+merits of using a 3D-FGAT assimilation scheme with an outer
+loop for atmospheric situations governed by transport, Mon.
+Weather Rev., 138, 4509–4522, 2010.
+Massart, S., Piacentini, A., and Pannekoucke, O.: Importance of
+using ensemble estimated background error covariances for the
+quality of atmospheric ozone analyses, Q. J. Roy. Meteor. Soc.,
+138, 889–905, 2012.

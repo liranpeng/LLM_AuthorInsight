@@ -1,0 +1,5 @@
+A major difference between these methods is that Solar-J retains the correct direct flux at the surface while 
+δ-scaling methods can greatly exaggerate it.
+Studies to assess the biases of radiative fluxes using 2-stream approximations are historical and exten-
+sive (e.g., Chandrasekhar, 1950; Coakley & Chylek, 1975; Harshvardhan & King 1993; King & Harshvard-
+han, 1986; Liou, 1974; Meador & Weaver, 1980; Räisänen, 2002; W. J. Wiscombe and Grams, 1976). Two

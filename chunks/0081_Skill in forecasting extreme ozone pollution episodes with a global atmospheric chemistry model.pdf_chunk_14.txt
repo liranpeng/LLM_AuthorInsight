@@ -1,0 +1,9 @@
+Base) for both clean and polluted periods. This assessment
+uses a full decade of observations (2000–2009) from three
+networks (Environmental Protection Agency (EPA) over the
+US).
+In Sect. 3, we compare the maximum daily 8 h average
+(MDA8) grid-average observations over the US and Europe
+with the University of California, Irvine chemistry-transport
+model (UCI CTM)-simulated values for years 2005–2006.
+The model errors are diagnosed in terms of location, time of

@@ -1,0 +1,5 @@
+from the GOES observations were provided by the NASA Langley Satellite ClOoud and 
+Radiation Property retrieval System (SatCORPS; htpps:satcorps.larc.nasa.gov) estimated 
+using the methods outlined by Minnis et al. (2008) and Sun-Mack et al. (2014) and included 
+broadband albedo, cloud-top height, cloud droplet concentrations, cloud droplet effective 
+radius, liquid water path, and other cloud properties (see the Field Catalog Maps app for a

@@ -1,0 +1,10 @@
+within the plume. If satellite measurements are accurate, con-
+centrations at one height after an assimilation cycle can only
+closely correspond to measured ones if the shape of the ver-
+tical proﬁle is well simulated in the direct model run. To fur-
+ther explore this, in the following subsection we compare the
+modelled and the measured vertical proﬁles.
+www.atmos-meas-tech.net/9/5535/2016/
+Atmos. Meas. Tech., 9, 5535–5554, 2016
+5546
+B. Siˇc et al.: Aerosol data assimilation in the CTM MOCAGE

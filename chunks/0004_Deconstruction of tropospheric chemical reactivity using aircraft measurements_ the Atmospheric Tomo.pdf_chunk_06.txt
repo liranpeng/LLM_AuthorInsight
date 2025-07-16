@@ -1,0 +1,4 @@
+orologically variable and hence deployment-speciﬁc hotspots of photochemical activity. Added calculations of
+the sensitivities of the production and loss terms relative to each species emphasize the few dominant species
+that control the ozone and methane budgets and whose statistical patterns should be key model–measurement
+metrics. From the sensitivities, we also derive linearized lifetimes of ozone and methane on a parcel-by-parcel

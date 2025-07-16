@@ -1,0 +1,4 @@
+monthly mean values shows a large variability in the projected changes between different regions. For
+Western Europe and the Eastern US although the peak O3 mixing ratios decrease by w10% in 2050,
+there is an associated degradation during wintertime due to less direct titration from nitric oxide. For
+regions such as Eastern China, although total anthropogenic NOx emissions are reduced from 2025 to

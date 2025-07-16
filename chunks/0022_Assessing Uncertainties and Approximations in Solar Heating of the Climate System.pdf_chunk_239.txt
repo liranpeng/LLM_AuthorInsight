@@ -1,0 +1,4 @@
+Naud, C. M., Del Genio, A., Mace, G. G., Neu, S., J. L., & Prather, M. J. (2012). Toward a more physical representation of precipitation 
+scavenging in global chemistry models: Cloud overlap and ice physics and their impact on tropospheric ozone. Atmospheric Chemistry 
+and Physics, 12, 3289–3310. https://doi.org/10.5194/acp-12-3289-2012
+Neu, J. L., & Prather, M. J., & (2012). Toward a more physical representation of precipitation scavenging in global chemistry models: cloud

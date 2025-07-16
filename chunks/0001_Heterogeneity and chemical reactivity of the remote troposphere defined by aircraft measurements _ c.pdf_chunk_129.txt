@@ -1,0 +1,8 @@
+the air parcels and hopefully may become standard for tro-
+pospheric chemistry campaigns. We ﬁnd that the reactivity
+of the troposphere with respect to O3 and CH4 is dominated
+by a fraction of the air parcels but not by so small and infre-
+quent a fraction as to challenge the ability of current CTMs
+to simulate these observations and thus be used to study the
+oxidation budgets. In comparing ATom results with modeled
+climatologies, we ﬁnd a systematic ATom–model difference:

@@ -1,0 +1,4 @@
+Interannual variability is calculated from the normalized 12 month running mean of the hemispheric O3
+ﬂuxes and shown for all methods using C29 (Figure 1h) and C36 (Figure 1i). Note that the values plotted for
+1 July 2000 are the average of January through December 2000, and the multiyear means and correlations
+are given in Table 1. Correlation coeﬃcients (listed below under IA-r in Table 1 and the r values discussed

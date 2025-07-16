@@ -1,0 +1,4 @@
+the NOAA ESRL Carbon cycle cooperative global air sampling network. 1997–2018, Version: 2019-07. https://doi.org/10.15138/53g1-x417
+Douglass, A. R., Strahan, S. E., Oman, L. D., & Stolarski, R. S. (2017). Multi-decadal records of stratospheric composition and their re-
+lationship to stratospheric circulation change. Atmospheric Chemistry and Physics, 17(19), 12081–12096. https://doi.org/10.5194/
+acp-17-12081-2017

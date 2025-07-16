@@ -1,0 +1,9 @@
+cluded in the total aerosol effect for all the models, except
+NorESM. For two of the models (EMEP and OsloCTM2)
+www.atmos-chem-phys.net/17/2709/2017/
+Atmos. Chem. Phys., 17, 2709–2720, 2017
+2716
+G. Myhre et al.: Multi-model simulations of aerosol due to anthropogenic emission changes
+the semi-direct effect of BC is quantiﬁed to be −0.01 and
+−0.03 W m−2 in 2015 and slightly stronger in 2010. These
+estimates were derived by the same method as in Hodne-

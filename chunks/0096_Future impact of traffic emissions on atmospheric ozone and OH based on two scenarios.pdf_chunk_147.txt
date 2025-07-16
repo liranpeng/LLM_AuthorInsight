@@ -1,0 +1,9 @@
+chemical mode in a global three-dimensional model, J. Geophys.
+Res.-Atmos., 105, 24647–24660, doi:10.1029/2000jd900399,
+2000.
+Wild, O., Prather, M. J., and Akimoto, H.: Indirect long-term global
+radiative cooling from NOx emissions, Geophys. Res. Lett., 28,
+1719–1722, doi:10.1029/2000gl012573, 2001.
+Wild, O., Sundet, J. K., Prather, M. J., Isaksen, I. S. A., Akimoto,
+H., Browell, E. V., and Oltmans, S. J.: Chemical transport model
+ozone simulations for spring 2001 over the western Paciﬁc: Com-

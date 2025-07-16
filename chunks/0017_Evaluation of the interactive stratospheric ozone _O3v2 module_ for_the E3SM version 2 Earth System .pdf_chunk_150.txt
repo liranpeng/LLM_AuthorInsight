@@ -1,0 +1,8 @@
+https://doi.org/10.1029/2004EO180001, 2004.
+Schwartz, M., Froidevaux, L., Livesey, N., Read, W., and Fuller, R.:
+MLS/Aura Level 3 Monthly Binned Ozone (O3) Mixing Ratio
+on Assorted Grids V004, Greenbelt, MD, USA, Goddard Earth
+Sciences Data and Information Services Center (GES DISC),
+https://doi.org/10.5067/Aura/MLS/DATA/3217, 2020.
+Simpson, I. R., Blackburn, M., and Haigh, J. D.: The Role
+of Eddies in Driving the Tropospheric Response to Strato-

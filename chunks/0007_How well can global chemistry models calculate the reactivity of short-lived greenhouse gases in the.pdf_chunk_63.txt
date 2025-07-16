@@ -1,0 +1,9 @@
+3.4
+The “hot” air parcels
+Following the “which air matters” theme of P2017, we look
+at the more reactive air parcels to ﬁnd out if the models agree
+on these. For each reactivity, we sort the 5-day parcel means
+in increasing order and integrate the cumulative reactivity.
+The value at 100 % (all 14 880 parcels) is equal to the average
+reactivity of the sample (Table 3a), and this is renormalized
+to 1 for comparison across models (Fig. 4, Table S4). With

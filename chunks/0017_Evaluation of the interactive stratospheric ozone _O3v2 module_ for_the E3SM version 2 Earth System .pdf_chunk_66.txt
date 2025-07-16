@@ -1,0 +1,5 @@
+ozone (DU). Results are shown for the models E3SM O3v1 (a, b, c) and O3v2 (d, e, f). Results for UCI CTM are not shown because daily
+diagnostics were not saved. Observations from the NASA ozone watch data for 1990–2019 are also shown in the two right columns. The
+lines indicate the multi-year mean (observations in black and models in blue), and shaded area covers ±1 SD.
+range of ±1 SD about this average. We show results for the
+observations and O3v2 and O3v1. The 20-year time series of

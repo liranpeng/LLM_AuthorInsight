@@ -1,0 +1,24 @@
+GMˆx(t) =
+X
+ϕ,λ
+A(ϕ, λ)ˆx(t, ϕ, λ)
+(5)
+RMSE-TMˆx =
+sX
+ϕ,λ
+A(ϕ, λ)
+h
+mean
+t
+{ˆx(t, ϕ, λ) −x(t, ϕ, λ)}
+i2
+(6)
+GM-TM-BIASˆx = mean
+t
+[GMˆx(t) −GMx(t)]
+(7)
+D
+Random seed ensemble
+Figure 6 shows the time-mean RMSE across a 5-member random seed ensemble of models. Although
+all models are capable of stable 10-year inference runs, the magnitude of the time-mean RMSE metric
+can vary by up to a factor 4 (depending on output variable being considered). The results in the main

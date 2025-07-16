@@ -1,0 +1,8 @@
+results as expected occurred when the shape of the vertical
+proﬁle was correctly simulated by the direct (unassimilated)
+model. The shape of the aerosol vertical proﬁles does not
+change during one assimilation cycle because AOD observa-
+tions do not contain any vertical information, but the proﬁle
+shape can change and be improved by the AOD assimilation
+because different parts of the column can be carried by winds
+from different directions. The AOD assimilation can also im-

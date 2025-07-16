@@ -1,0 +1,10 @@
+rates 2.8 times per atmospheric column instead of once may
+add to the overall computational burden, but Fast-J is efﬁcient
+and the costs will be much less than the overall chemistry-
+solver and tracer-transport codes.
+www.geosci-model-dev.net/8/2587/2015/
+Geosci. Model Dev., 8, 2587–2595, 2015
+2594
+M. J. Prather: Photolysis rates in correlated overlapping cloud ﬁelds: Cloud-J 7.3c
+Code availability
+The most recent version of Cloud-J and earlier versions

@@ -1,0 +1,11 @@
+Dφ
+Dt = 0.
+(10)
+The FARSIGHT scheme (White and Dongarra, 2011)
+is based on Eq. (10) and discretized on an equiangu-
+lar gnomonic cubed-sphere grid. It is an upstream semi-
+Lagrangian scheme that computes departure points for each
+grid point using backward trajectories based on numerical
+derivatives of the wind ﬁeld at the later time. The scheme
+then sets φ at each grid point to the interpolated value (third-
+order for FARSIGHT) at its departure point. The scheme

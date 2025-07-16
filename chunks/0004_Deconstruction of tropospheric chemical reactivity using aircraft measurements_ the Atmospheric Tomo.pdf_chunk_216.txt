@@ -1,0 +1,8 @@
+col allows us to go further and derive the sensitivity fac-
+tors (S = dln(R)/dln(X)) relative to the chemical species (X).
+From these sensitivities, we can identify the critical species
+where model error in their atmospheric simulation will cause
+large errors in the budgets. This information is useful in di-
+recting model–measurement comparisons. From the sensitiv-
+ities, we have also derived correctly linearized lifetimes and
+even the CH4 chemical feedback. Admittedly these are only

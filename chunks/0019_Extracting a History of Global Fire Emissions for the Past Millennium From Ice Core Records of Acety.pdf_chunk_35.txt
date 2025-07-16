@@ -1,0 +1,4 @@
+Wang et al., 2019). The reaction rate constant with chlorine occurs at a rate roughly 230 times faster than
+the reaction rate constant with OH (Burkholder et al., 2015). This reaction has been omitted from most bud-
+get analyses of ethane (e.g., Pozzer et al., 2010; Tzompa‐Sosa et al., 2017; Xiao et al., 2008) because the dis-
+tribution and magnitude of chlorine atoms is not well known. Recent analysis by Wang et al. (2019) shows

@@ -1,0 +1,17 @@
+2050
+0.20 ± 0.01
+2060
+0.17 ± 0.02
+2070
+0.15 ± 0.02
+2080
+0.13 ± 0.02
+2090
+0.11 ± 0.02
+2100
+0.10 ± 0.02
+Notes:
+See Table 8.3, 8.A.1. ERF is calculated from AR5 radiative efficiency and projected abundances 
+in Scenario A1 of WMO/UNEP assessment (WMO 2010). The 68% confidence interval shown is 
+approximated by combining uncertainty in the radiative efficiency of each gas (±6.1%) and the 
+decay of each gas since 2010 from Table AII.4.16 (±15%). All sources of uncertainty are assumed

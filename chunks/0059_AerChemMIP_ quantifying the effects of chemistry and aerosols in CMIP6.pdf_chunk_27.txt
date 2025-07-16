@@ -1,0 +1,8 @@
+istry. The aim of ACCMIP (Lamarque et al., 2013) was to
+quantify the contribution of ozone and aerosols to the radia-
+tive forcing in the CMIP5 models that included these com-
+ponents. In practice, the model setups for CMIP5 and AC-
+CMIP were usually different (the ACCMIP models tended
+to have lower resolution but include greater complexity in
+chemistry and aerosols) so that ACCMIP was not able to
+fully characterise the forcings of most simulations submitted

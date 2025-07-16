@@ -1,0 +1,7 @@
+models in that all are driven by ECMWF operational meteorological
+data. The models used either include only tropospheric chemistry
+(TM4, p-TOMCAT, UCI) or both stratospheric and tropospheric
+chemistry (Oslo CTM-2, MOCAGE). For brevity, we refer the reader
+to the detailed model descriptions provided in Hodnebrog et al.
+(2011). One major beneﬁt of using a model ensemble is that any
+model biases and deﬁciencies are minimized by averaging the

@@ -1,0 +1,47 @@
+greater reﬂectance change, both models calculate less atmo-
+spheric heating within the cloud but more heating above it,
+and the surface heating in Solar-J is about 2 W m−2 less than
+Geosci. Model Dev., 10, 2525–2545, 2017
+www.geosci-model-dev.net/10/2525/2017/
+J. Hsu et al.: A radiative transfer module
+2537
+Liquid water path (g m )
+-2
+0
+5
+10
+15
+20
+25
+30
+Vertical height (km)
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+Re= 9.6 μm
+Stratus cloud profile
+K day
+-4 -3 -2 -1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+0.5
+1
+1.5
+2
+2.5
+3
+3.5

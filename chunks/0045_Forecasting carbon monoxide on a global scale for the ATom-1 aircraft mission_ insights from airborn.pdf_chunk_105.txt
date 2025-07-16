@@ -1,0 +1,15 @@
+Atmos. Chem. Phys., 18, 10955–10971, 2018
+10968
+S. A. Strode et al.: Forecasting carbon monoxide on a global scale
+Year
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+Figure 12. Time series of regionally averaged August MODIS
+550 nm AOT. Only values over oceans are included in the regional
+averages. The y-axis range for panel (a) differs from the other pan-
+els due to the higher AOT values in that region
+and North American ﬂights, while other regions dominate in

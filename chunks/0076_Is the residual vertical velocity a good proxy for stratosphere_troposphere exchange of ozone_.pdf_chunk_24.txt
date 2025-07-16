@@ -1,0 +1,10 @@
+trated here with two distinct meteorologies, we ﬁnd O3 STE is sensitive to quasi-horizontal mixing processes
+and the long term variation of the LMS mass.
+HSU AND PRATHER
+©2014. American Geophysical Union. All Rights Reserved.
+2
+Geophysical Research Letters
+10.1002/2014GL061994
+2. Method
+2.1. Model Setup and Meteorological Data
+In the UCI CTM, the stratospheric O3 chemistry (net P −L) is simulated using the linearized O3 scheme,

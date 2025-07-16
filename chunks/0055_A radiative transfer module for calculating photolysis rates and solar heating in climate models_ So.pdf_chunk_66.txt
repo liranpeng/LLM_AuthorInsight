@@ -1,0 +1,26 @@
+J. Hsu et al.: A radiative transfer module
+2531
+Table 2. Spectral properties of liquid-water and ice-water clouds and stratospheric sulfate aerosols: the real and imaginary refractive indices
+(nr and ni), ratio of optical to geometric cross section (Q), single scattering albedo (SSA), and the asymmetry factor (g).
+Bin
+Liquid-water cloud: re = 12 µm, ρ = 1.00 g cm−3
+Ice-water cloud: re = 48 µm, ρ = 0.917 g cm−3
+nr
+ni
+Q
+SSA
+g
+nr
+ni
+Q
+SSA
+g
+S12
+1.350
+1.8E−08
+2.054
+1.0000
+0.867
+1.336
+5.8E−09
+2.021

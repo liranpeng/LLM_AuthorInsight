@@ -1,0 +1,8 @@
+Chem. Phys. 17, 9081–9102 (2017).
+58. Archibald, A. T. et al. Description and evaluation of the UKCA
+stratosphere–troposphere chemistry scheme (StratTrop vn 1.0) implemented
+in UKESM1. Geosci. Model Dev. 13, 1223–1266 (2020).
+59. Hourdin, F. et al. LMDZ6A: the atmospheric component of the IPSL climate
+model with improved and better tuned physics. J. Adv. Model. Earth Syst. 12,
+https://doi.org/10.1029/2019MS001892 (2020).
+60. Hauglustaine, D. A. et al. Interactive chemistry in the Laboratoire de

@@ -1,0 +1,9 @@
+9097
+(Fig. 7), we can ﬁnd that this region is important for methane
+and ozone loss. Some work remains in establishing just how
+close is good enough in matching 2-D (and multi-D) proba-
+bility distributions of the key species, although the overlap of
+the 2-D ﬁtted ellipses begins to address this.
+There are other ATom measurements beyond just key
+species that might prove useful as climatological tests for the
+models. The OH loss frequency (L-OH, Sinha et al., 2008;

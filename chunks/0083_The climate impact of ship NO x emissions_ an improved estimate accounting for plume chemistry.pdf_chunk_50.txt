@@ -1,0 +1,8 @@
+istry (Fig. 2). MOE is low in the young plume because of
+rapid NOx loss, despite high OH concentrations in the plume
+that can be double the ambient values (Chen et al., 2005;
+Song et al., 2003). The NOx lifetime and MOE increase in
+the grid-scale chemistry, so that the total MOE is 3.1 with
+parametric plume chemistry. The instant dilution assumption
+raises the overall MOE to 4.4, while in the ﬁxed OPE simula-
+tion, the MOE is only 1.2 because the direct chemical effects

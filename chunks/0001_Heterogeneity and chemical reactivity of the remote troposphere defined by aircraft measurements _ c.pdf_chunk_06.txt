@@ -1,0 +1,5 @@
+Received: 7 September 2022 – Discussion started: 4 October 2022
+Revised: 20 November 2022 – Accepted: 9 December 2022 – Published: 4 January 2023
+Abstract. The NASA Atmospheric Tomography (ATom) mission built a photochemical climatology of air
+parcels based on in situ measurements with the NASA DC-8 aircraft along objectively planned proﬁling transects
+through the middle of the Paciﬁc and Atlantic oceans. In this paper we present and analyze a data set of 10 s

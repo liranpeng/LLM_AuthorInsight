@@ -1,0 +1,5 @@
+overall cost).
+4.	 Resolving UV-VIS absorption and scattering, level 1. The 300–700 nm sunlight that reaches the 
+surface interacts primarily with broad band features of O3 absorption (Hartley-Huggins and Chappuis 
+bands) and Rayleigh scattering that vary differently and widely across these wavelengths. The RRTM-
+based codes accurately resolve the O3 and Rayleigh features with g-points. Solar-J bands are optimized

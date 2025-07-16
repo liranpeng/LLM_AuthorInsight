@@ -1,0 +1,9 @@
+quent a fraction as to challenge the ability of current CTMs
+to simulate these observations and thus be used to study the
+oxidation budgets. In comparing ATom results with modeled
+climatologies, we ﬁnd a clear model error – missing O3 pro-
+duction over the tropical oceans’ lower troposphere – and
+traced it to the lack of NOx below 4 km. The occurrence of
+the same error over the central and eastern Paciﬁc as well as
+the Atlantic Ocean makes this a robust model–measurement
+discrepancy.

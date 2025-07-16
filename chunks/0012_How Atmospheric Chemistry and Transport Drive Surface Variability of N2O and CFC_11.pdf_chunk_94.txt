@@ -1,0 +1,5 @@
+3.2.  QBO Impact
+Composites of the six standard QBOs for surface N2O/N2OX in Figure 3 show a distinct pattern and gen-
+eral agreement among the models and the NOAA ESRL observations, indicating that this QBO-composite 
+is robust. Variability caused by emissions tied to wildfires or El Niño-Southern Oscillation (ENSO) events 
+would only degrade this NOAA composite. All four data sets look similar in terms of timing and latitudinal

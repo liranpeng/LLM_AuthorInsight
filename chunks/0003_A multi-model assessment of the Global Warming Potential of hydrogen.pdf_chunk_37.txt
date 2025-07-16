@@ -1,0 +1,3 @@
+column), and O3 (fourth column) due to a 10% increase in hydrogen for all models; GFDL (a–d), INCA (e–h), OsloCTM (i–l), UKCA (m–o), WACCM (p–s),
+GFDL-emi (t–w), and OsloCTM-emi (x–aa). This is done by comparing PERT_H2 (Supplementary Fig. 1) plus the contributions from the change in methane
+caused by hydrogen in PERT_CH4 (scaled to match the methane change in PERT_H2), to CTRL (Supplementary Fig. 2). In the GFDL-emi experiment this

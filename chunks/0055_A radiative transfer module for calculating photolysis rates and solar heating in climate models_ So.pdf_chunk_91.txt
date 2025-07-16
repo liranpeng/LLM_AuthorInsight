@@ -1,0 +1,8 @@
+scattering may contribute. The forward–backward enhance-
+ment in Rayleigh scattering is not represented in two-stream
+isotropic scattering. Thus, RRTMG – Solar-J differences will
+shift as the primary beam shifts from vertical to horizontal as
+a much greater fraction of the visible light is scattered. At
+low sun, the Rayleigh optical slant path along the solar beam
+is much greater than 1 for bin S17 and even ∼1 for S18.
+Figure 2 compares the vertical proﬁles of clear-sky heat-

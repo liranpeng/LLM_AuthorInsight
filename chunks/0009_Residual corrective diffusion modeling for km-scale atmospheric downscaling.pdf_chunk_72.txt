@@ -1,0 +1,10 @@
+as a result var(r∣y) = var(x∣y). Accordingly, based on the law of total
+variance54, one can decompose the variance as
+$${\rm{var}}({\bf{r}}) = \, {\mathbb{E}}\left[{\rm{var}}
+({\bf{r}}| {\bf{y}})\right]+
+\underbrace{{\rm{var}}\left({\mathbb{E}}[{\bf{r}}|
+{\bf{y}}]\right)}_{ = 0} \le {\mathbb{E}}\left[{\rm{var}}
+({\bf{x}}| {\bf{y}})\right] \\ +
+\underbrace{{\rm{var}}\left({\mathbb{E}}[{\bf{x}}|
+{\bf{y}}]\right)}_{\ge 0} = {\rm{var}}({\bf{x}}).$$
+(2)

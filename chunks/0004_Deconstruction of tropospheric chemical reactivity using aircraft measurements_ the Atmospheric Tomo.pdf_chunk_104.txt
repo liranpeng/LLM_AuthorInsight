@@ -1,0 +1,8 @@
+ATom-1 are given in Table 2. The mean sensitivities are cal-
+culated using basin-wide averages and have only been calcu-
+lated using one day’s cloud ﬁelds (day 223) instead of the ﬁve
+days of different cloud ﬁelds (e.g., days 213, 218, 223, 228,
+or 233) used for the reactivities in Sect. 3. Basin-mean dif-
+ferences between two separated days (days 213 and 223) due
+to cloud ﬁelds and ozone columns are evaluated and found
+to be small: < 1 % of the value of S or smaller than 0.002 in

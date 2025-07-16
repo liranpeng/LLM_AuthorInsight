@@ -1,0 +1,10 @@
+personal communication, 2012) that includes these trends
+and variability in emissions, uses identical meteorology
+and resolution, and has minor other changes (version 9-01-
+01). The two model conﬁgurations simulate very similar
+τCH4×OH (R2 = 0.98) over 1999–2009, meaning that year-to-
+year changes in biogenic and anthropogenic emissions con-
+tribute little additional τCH4×OH variability and do not alter
+the key parametric factors.
+4
+Historical (1980–2005) changes in CH4 lifetime

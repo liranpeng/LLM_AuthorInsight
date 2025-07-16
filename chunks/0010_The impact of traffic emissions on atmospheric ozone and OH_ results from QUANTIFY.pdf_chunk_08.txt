@@ -1,0 +1,9 @@
+Methane lifetime changes against OH are affected
+strongest by ship emissions up to 0.21 (± 0.05)%, followed
+by road (0.08 (±0.01)%) and air trafﬁc (0.05 (± 0.02)%).
+Based on the full scale ozone and methane perturbations pos-
+itive radiative forcings were calculated for road emissions
+(7.3±6.2 mWm−2) and for aviation (2.9±2.3 mWm−2).
+Ship induced methane lifetime changes dominate over the
+ozone forcing and therefore lead to a net negative forcing
+(−25.5±13.2 mWm−2).

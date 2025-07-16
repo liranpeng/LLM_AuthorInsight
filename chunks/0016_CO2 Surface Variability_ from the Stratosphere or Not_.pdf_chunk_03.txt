@@ -1,0 +1,8 @@
+observed IAV and is not an important source. Diagnosing the amplitude of the CO2 annual cycle and its in-
+crease from 1985 to 2021 through the annual variance gives rates similar to traditional methods in the Northern
+Hemisphere (BRW, MLO) but can identify the emergence of small trends (0.08 ppm per decade) in the Southern
+Hemisphere (SMO, CGO).
+1
+Introduction
+The surface abundance of CO2, also called the Keeling curve
+(Fig. 1a), is used as the prime example of the human-driven

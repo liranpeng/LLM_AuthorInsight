@@ -1,0 +1,8 @@
+is model dependent. All models begin with their own 3-D ini-
+tialization data set that is used to restart a model simulation
+beginning on 16 August. The speciﬁed air-parcel NOx, for
+example, will be initialized as separate NO and NO2 abun-
+dances by scaling the model’s restart values for NO and NO2
+to match the speciﬁed parcel NOx. Similarly, a single value
+for aromatics will be partitioned over benzene, toluene, and
+xylene by models that resolve these species in accord with

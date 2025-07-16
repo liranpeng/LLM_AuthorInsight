@@ -1,0 +1,46 @@
+589
+1850
+1900
+1950
+2000
+2050
+2100
+−2
+ 0
+ 2
+ 4
+ 6
+ 8
++2 % yr
+Constant
+−3 % yr
+−6 % yr
+Tropospheric aerosols + surface albedo
+Stratospheric aerosols
+Solar irradiance
+Forcings without CO2 extraction
+Fe (W m  ) 
+(a)
+GHG forcing including CO2 change of:
+1850
+1900
+1950
+2000
+2050
+2100
+−2
+ 0
+ 2
+ 4
+ 6
+ 8
++2 % yr
+Constant (339 PgC extracted)
+Constant (695 PgC extracted)
+−3 % yr
+−6 % yr
+Tropospheric aerosols + surface albedo
+Stratospheric aerosols
+Solar irradiance
+Forcings with CO2 extraction
+(b)

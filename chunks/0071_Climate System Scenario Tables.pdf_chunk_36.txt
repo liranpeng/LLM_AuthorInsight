@@ -1,0 +1,7 @@
+Phys., 11, 8515–8541.
+Forster, P. M., T. Andrews, P. Good, J. M. Gregory, L. S. Jackson, and M. Zelinka, 2013: 
+Evaluating adjusted forcing and model spread for historical and future scenarios 
+in the CMIP5 generation of climate models. J. Geophys. Res., 118, 1139–1150.
+Friedlingstein, P., et al., 2006: Climate-carbon cycle feedback analysis: Results from 
+the C4MIP model intercomparison. J. Clim., 19, 3337–3353.
+Holmes, C. D., M. J. Prather, A.O. Søvde, and G. Myhre, 2013: Future methane,

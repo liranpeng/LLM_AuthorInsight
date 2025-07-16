@@ -1,0 +1,9 @@
+tion (Smith et al., 2016).
+The popular concept of bioenergy with carbon capture and
+storage (BECCS) requires large areas and high fertilizer and
+water use, and may compete with other vital land use such as
+agriculture (Smith, 2016). Costs estimates are ∼USD 150–
+350 (tC)−1 for crop-based BECCS (Smith et al., 2016).
+Direct air capture has more limited area and water needs
+than BECCS and no fertilizer requirement, but it has high
+energy use, has not been demonstrated at scale, and cost esti-

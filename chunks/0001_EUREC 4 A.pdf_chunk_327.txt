@@ -1,0 +1,9 @@
+lar radiances at different elevation angles to infer NO2, SO2, SO2, H2O, and oxygen dimer (near the
+surface, vertical proﬁles, and column data)
+GNSS
+Global Navigational Satellite System (GNSS) antennas and receivers for measuring underway colum-
+nar water vapor content
+Particle sizer
+WRAS (GRIMM, EDM 180) measuring aerosol/CN size distribution (0.25 to 32 µm)
+Photoacoustic extinctiometer
+PAX photoacoustic nephelometer measuring the scattering of aerosol (size information) and the photo-

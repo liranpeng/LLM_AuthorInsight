@@ -1,0 +1,8 @@
+form cloud layers is still quite different across models, and
+fractional overlapping cloud ﬁelds are often ignored, (e.g.,
+Prather, 2015). Likewise, we do not attempt to control the
+proﬁles of O3 and aerosol above and below the air parcels
+insofar as they impact photolysis. Hence we diagnose pho-
+tolysis rates (J-values) in addition to reactivities.
+An inherent uncertainty is the day-to-day variability of
+clouds experienced by each parcel. Thus for the single data

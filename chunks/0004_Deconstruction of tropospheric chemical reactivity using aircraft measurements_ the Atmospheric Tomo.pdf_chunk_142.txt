@@ -1,0 +1,8 @@
+choose to redo all reactivity calculations with just the ﬁrst
+day in each deployment (i.e., days 32, 121, 213, and 274).
+Comparisons of reactivities must then be done with the same
+single-day calculation with version 2b. Given the range in
+reactivities for ATom-1 Paciﬁc and Atlantic, we also did not
+redo the sensitivities for MDS-3. Table 4 provides a sum-
+mary of the changes in Paciﬁc and Atlantic basin-mean and
+median reactivities for ATom-1234 calculated using only the

@@ -1,0 +1,8 @@
+Abstract. To estimate the impact of emissions by road, air-
+craft and ship trafﬁc on ozone and OH in the present-day
+atmosphere six different atmospheric chemistry models have
+been used. Based on newly developed global emission in-
+ventories for road, ship and aircraft emission data sets each
+model performed sensitivity simulations reducing the emis-
+sions of each transport sector by 5%.
+The model results indicate that on global annual average

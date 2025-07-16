@@ -1,0 +1,5 @@
+2.1.  The MLS Record of N2O Loss
+Since mid-2004, the MLS instrument aboard the Earth Observing System Aura satellite has provided relia-
+ble measurements of trace gases throughout the stratosphere and upper troposphere. Employing the meth-
+od established in Prather et al. (2015) (henceforth P2015), we adopt MLS profiles and expand the calculation 
+of N2O loss from 2005–2010 to 2005–2018. This work uses coincident monthly mean profiles of N2O, O3, and

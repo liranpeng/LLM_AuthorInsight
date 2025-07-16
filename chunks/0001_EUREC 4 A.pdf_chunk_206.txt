@@ -1,0 +1,9 @@
+the instrument groups and vice versa.
+Most of the data collected during EUREC4A are already
+available on the AERIS archive, much of them are described
+by data papers published, or being published, as part of this
+ESSD special issue.
+Examples of “bad practice” were also outlined – for exam-
+ple (i) in the ﬁrst years after the campaign using data for spe-
+ciﬁc analysis without asking the data provider whether/how
+this analysis overlaps with his/her current analysis efforts,

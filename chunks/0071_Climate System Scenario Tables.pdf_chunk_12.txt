@@ -1,0 +1,7 @@
+in Chapters 11 (Section 11.3.6.3) and 12 (Section 12.4.1); and statisti­
+cal spread across models cannot be interpreted in terms of calibrated 
+language (Section 12.2).
+The Representative Concentration Pathway (RCP) scenarios for emis­
+sions include only anthropogenic sources and use a single model to 
+project from emissions to abundances to radiative forcing to climate 
+change (Meinshausen et al., 2011a; 2011b). We include projected

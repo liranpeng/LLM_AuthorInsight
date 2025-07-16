@@ -1,0 +1,13 @@
+Broadband SW and LW Radiometers (Kipp & Zonnen)
+upward and downward irradiances
+HIAPER Airborne Radiation (HARP)
+downward spectral radiances
+Digital Cameras (on right and left Wing)
+forward looking images
+Airborne Vertical Atmospheric Profiling System (AVAPS)
+dropsonde signal processor
+HIAPER Cloud Radar (HCR; 95 GHz)
+reflectivity, spectral width, Doppler velocity, raw I and Q
+G-Band Microwave Radiometer (183 GHz)
+liquid water path
+High Spectral Resolution LIDAR (HSRL)

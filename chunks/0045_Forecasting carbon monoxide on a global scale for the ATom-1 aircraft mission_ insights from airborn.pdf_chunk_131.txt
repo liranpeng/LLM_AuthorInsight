@@ -1,0 +1,8 @@
+the chemical composition, Atmos. Meas. Tech., 11, 2653–2668,
+https://doi.org/10.5194/amt-11-2653-2018, 2018.
+Rienecker, M. M., Suarez, M. J., Todling, R., Bacmeister, J., Takacs,
+L., Liu, H.-C., Gu, W., Sienkiewicz, M., Koster, R. D., Gelaro,
+R., Stajner, I., and Nielsen, J. E.: The GEOS-5 Data Assimila-
+tion System – Documentation of Versions 5.0.1, 5.1.0, and 5.2.0,
+Technical Report Series on Global Modeling and Data Assimila-
+tion, edited by: Suarez, M. J., NASA/TM-2008-104606, Vol. 27,

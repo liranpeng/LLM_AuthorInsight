@@ -1,0 +1,8 @@
+transport sectors in 2000 (Myhre et al., 2011), but will in
+2050 shift from a net positive to a net negative forcing. The
+reason is the strong decline in ROAD emissions, which leads
+to a high factor to correct for the transient response (1.77 as
+noted above). As the short-term O3 RF is not inﬂuenced by
+the time-history of emissions, the cooling effect will com-
+pensate the warming effect and lead to a net negative RF.
+It should be noted here that although all six models yield a

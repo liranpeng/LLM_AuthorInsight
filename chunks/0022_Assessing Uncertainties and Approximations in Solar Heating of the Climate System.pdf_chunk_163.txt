@@ -1,0 +1,7 @@
+HSU AND PRATHER
+10.1029/2020MS002131
+17 of 24
+Journal of Advances in Modeling Earth Systems
++4 W m−2 more reflected sunlight than MAX-RAN, as expected because EXP-RAN has greater global cloud 
+cover. Similarly, our calculation (using binary clouds) shows MAX-COR has +1.4 W m−2 more reflection 
+and similar reduction in surface heating versus MAX-RAN (T1/R19). This reduced effect is understandable

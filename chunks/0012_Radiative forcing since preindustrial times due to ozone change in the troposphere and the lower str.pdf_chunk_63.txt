@@ -1,0 +1,36 @@
+Pitari et al. (2002)
+2
+DLR E39C
+CCM
+O3, H2O, CH4, N2O, CFCs
+Hein et al. (2001), Dameris et
+al. (2005)
+3
+NCAR MACCM
+CCM
+O3, H2O, CH4, N2O, CFCs
+Boville et al. (1995)
+4
+CHASER
+CCM
+O3, H2O, N2O, CH4, (CFCs)
+Sudo et al. (2002a, b, 2003)
+5
+STOCHEM HadGEM1
+CCM
+one way coupling dynamics→
+chemistry through NOx emissions
+from lightning
+Collins et al. (1997, 2003)
+6
+UM CAM
+CCM
+O3, N2O, CH4, H2O
+Zeng and Pyle (2003, 2005)
+7
+LMDzINCA
+CCM
+H2O
+Dufresne et al. (2002), Hauglus-
+taine et al. (2004)
+8

@@ -1,0 +1,8 @@
+are visible in satellite observations of CO (e.g., Edwards et
+al., 2004, 2006; Logan et al., 2008; Liu et al., 2013). Pﬁster
+et al. (2010) used a chemistry transport model (CTM) as well
+as satellite data to examine the CO sources and transport over
+the Paciﬁc during the INTEX-B mission compared to previ-
+ous years. They found biomass burning to be the largest con-
+tributor to interannual variability, despite its lower emissions
+compared to fossil fuel sources. Here we show how the time

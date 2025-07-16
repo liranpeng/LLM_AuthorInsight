@@ -1,0 +1,8 @@
+and air pollution by switching to a hydrogen economy.
+By using an ensemble of models with detailed forcing calcu-
+lations, taking all effects into account including the stratosphere,
+we have found that the GWP100 of hydrogen is twice as high as
+earlier estimates, and comparable to recent estimates13,16. Our
+estimated GWP100 of hydrogen is 39% of that to fossil fuel
+methane GWP100 in AR633. This emission metric can be used in
+various mitigation policy decisions, by comparing different GHG

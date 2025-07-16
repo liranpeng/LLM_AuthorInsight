@@ -1,0 +1,27 @@
+ozone precursors (which is not included in the difference “2
+minus 1a”). Qualitatively the results of the other three mod-
+els allow the same conclusions, although the magnitude of
+the effect varies. In the ULAQ model the stratospheric re-
+duction amounts to −18.3 DU for “2 minus 1a” and to only
+−17.5 DU for “2 minus 1c”, probably reﬂecting the inﬂu-
+ence of the ozone precursor increase, which is included in
+−5
+−4
+−3
+−2
+−1
+0
+1
+2
+3
+4
+5
+0
+5
+10
+15
+20
+25
+30
+Temperature Change [K]
+Altitude [km]

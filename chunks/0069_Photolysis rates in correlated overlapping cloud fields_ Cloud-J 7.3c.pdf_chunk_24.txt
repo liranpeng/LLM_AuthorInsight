@@ -1,0 +1,12 @@
++ gL1f L1f L2 = 1 −0.20 −0.06 = 74%.
+(20)
+As in RAN, ICAs #1 and #3 are tagged as cloudy in layer L1,
+ICAs #2 and #4 are tagged as clear in layer L1, and the sum
+of cloudy fractions is conserved (9 % + 6 % = 15 % = f L1 )
+but with different weightings. The COR model also has ICAs
+scaling as 2NL.
+2.3
+Maximal overlap
+For maximal overlap of clouds (MAX) as in Fig. 1, the two
+layers L1 and L2 form a MAX group G1 consisting of one
+clear-sky column (80 % fractional coverage) and 2 cloudy

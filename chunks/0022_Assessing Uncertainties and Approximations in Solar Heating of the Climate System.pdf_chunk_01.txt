@@ -1,0 +1,6 @@
+University of California
+1.  Introduction
+The heat from sunlight drives the weather and climate system, the energy in solar photons drives atmospheric 
+chemistry, and the photosynthetically active radiation drives life. For Earth system models (ESMs), one needs 
+to calculate the scattering, absorption, and reflection of solar radiation throughout the atmosphere, ocean, 
+cryosphere, and land surface. The idealized radiative transfer (RT) problem is well known and in many cases

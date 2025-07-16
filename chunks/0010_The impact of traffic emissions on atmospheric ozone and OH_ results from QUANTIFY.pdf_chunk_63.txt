@@ -1,0 +1,10 @@
+ECMWF Tiedtke convection diagnostics.
+3.6
+E39/C
+Impacts by road and ship trafﬁc were provided by DLR
+based on simulations with E39/C. The perturbation ﬁelds
+are derived as monthly mean values from a transient sim-
+ulation from 1990 to 1999 (Dameris et al., 2005; Grewe,
+2007). The meteorology is calculated by the climate model
+ECHAM4.L39(DLR) and therefore does not represent an in-
+dividual year. Nevertheless, it represents the late 20 cen-

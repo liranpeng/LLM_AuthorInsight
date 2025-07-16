@@ -1,0 +1,5 @@
+TC-e90 ﬂux (IA-r). Results listed downward in rows are from the TC method (TC-e90, TC-120 ppb, and TC-250
+ppb), the LS method (LS-e90, LS-120 ppb, and LS-250 ppb), the simulated hemispheric ﬂuxes across 100 hPa
+(wO3NH), and the residual ﬂuxes (w∗O3) across the 100 hPa surface including the net hemispheric values and
+the downward only ﬂuxes.
+These numbers show how the O3 ﬂux depends on the choice of “tropopause” isosurface (compare three

@@ -1,0 +1,8 @@
+reduced mean loss frequencies for N2OX (0.74%/yr) and F11X (1.60%/yr), 
+similar to UCI; but the stratospheric transport in GMI for that period is 
+discredited (Douglass et al., 2017).
+Abbreviations: GMI, Global Modeling Initiative; LMDz, Laboratoire de 
+Météorologie Dynamique; MLS, Microwave Limb Sounder; N2O, Nitrous 
+oxide; UCI, University of California Irvine.
+Table 2 
+Annual Mean Loss Frequency (%/yr) and Respective Lifetime (yr) of N2O,

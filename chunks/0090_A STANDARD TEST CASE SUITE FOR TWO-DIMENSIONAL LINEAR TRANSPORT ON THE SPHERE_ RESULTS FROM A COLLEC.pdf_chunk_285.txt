@@ -1,0 +1,12 @@
+and scalar value, φj. We employ Cartesian coordinates for
+the Lagrangian parameter and position. The particles are ad-
+vected in the ﬂow,
+d
+dt xj(t) = u(xj(t),t),
+(A8)
+using fourth-order Runge–Kutta, with initial condition
+xj(0) = αj. The total scalar is computed by I(φ) ≈
+PN
+i=1 φiAi, where φi is the scalar value at the center of panel
+Pi and Ai is its area. To maintain accuracy, a remeshing
+scheme is applied at regular intervals. At a remeshing step,

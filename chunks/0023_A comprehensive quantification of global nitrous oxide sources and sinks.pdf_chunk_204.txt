@@ -1,0 +1,6 @@
+from agricultural soils associated with mineral fertilizer, manure and crop 
+residue inputs, and cultivation of organic soils based on EDGAR v4.3.2, GAINS, 
+FAOSTAT, NMIP/DLEM and SRNM/DLEM estimates. NMIP/DLEM or SRNM/
+DLEM indicates the combination of N2O emission estimated by NMIP or SRNM 
+from croplands with N2O emission from intensively managed grassland 
+(pasture) by estimated by DLEM. b, Direct emission from the global total area

@@ -1,0 +1,8 @@
+port model study of ozone response to changes in chemical
+kinetics and biogenic volatile organic compounds emissions
+due to increasing temperatures: sensitivities to isoprene nitrate
+chemistry and grid resolution, J. Geophys. Res., 114, D09301,
+doi:10.1029/2008jd011254, 2009.
+Jacob, D. J., Logan, J. A., Yevich, R. M., Gardner, G. M., Spi-
+vakovsky, C. M., Wofsy, S. C., Munger, J. W., Sillman, S.,
+Prather, M. J., Rodgers, M. O., Westberg, H., and Zimmerman,

@@ -1,0 +1,8 @@
+heterogeneous reaction on sulphuric acid aerosol. The model
+chemistry uses the atmospheric chemistry integration pack-
+age ASAD (Carver et al., 1997) and is integrated with the
+IMPACT scheme of Carver and Scott (2000). The ozone and
+nitrogen oxide concentrations at the top model level are con-
+strained to zonal mean values calculated by the Cambridge
+2D model (Law and Nisbet, 1996). The chemical rate coef-
+ﬁcients used by p-TOMCAT have been recently updated to

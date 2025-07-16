@@ -1,0 +1,26 @@
+in this case expansion to 4-stream or above significantly improves the accuracy (Räisänen, 2002; LBYY) 
+because a more accurate scattering phase function can be used.
+HSU AND PRATHER
+10.1029/2020MS002131
+14 of 24
+Figure 7.  Zonal mean error (mean and rms in W m-2) for fixed ocean surface albedo (OSA) versus interactive OSA  
+that depends on wavelength, incident angle and wind.
+-90
+-60
+-30
+ 0 
+ 30
+ 60
+ 90
+sin (latitude)
+-4
+-2
+0
+2
+4
+6
+8
+10
+Surface absorption error (W m   )
+-2
+mean error (-0.84)

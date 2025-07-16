@@ -1,0 +1,6 @@
+Earth Syst. Sci. Data, 13, 4067–4119, 2021
+https://doi.org/10.5194/essd-13-4067-2021
+B. Stevens et al.: EUREC4A
+4073
+Figure 2. Heat map showing distribution of airborne-platform tracks, colored (with transparency) by platform. Sonde trajectories are shown
+by trail of dots, with the slower ascent of the radiosondes leading to greater horizontal displacements leading to tracks resembling gray

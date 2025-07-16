@@ -1,0 +1,9 @@
+FARSIGHT and SBC) reduced “optimal” convergence rates.
+The effect of shape-preserving ﬁlters on the “minimal” res-
+olution seems to go both ways (Fig. 3, top). That is, some
+schemes increase accuracy (1λm increases) when the shape-
+preserving ﬁlter is used (most notably with MPAS, ICON,
+SBC, CLAW), whereas other schemes experience a de-
+crease (HOMME-p3, HOMME-p6, CSLAM). It is noted that
+ICON/MPAS and CLAW use FCT and TVD-type ﬂux lim-
+iters, whereas CSLAM uses a slope limiter. Results that

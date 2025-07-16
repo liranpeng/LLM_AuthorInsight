@@ -1,0 +1,12 @@
+rection, and rain
+GNSS
+Dual Trimble NetR9 GNSS receivers with Zephyr Geodetic 2 antennas for columnar water vapor
+content
+Radiosondes
+Vaisala RS41-SGP radiosondes measuring atmospheric proﬁles (during ascent and descent) of tem-
+perature, relative humidity, pressure, wind direction, and wind speed
+Table B2. NTAS.
+Instrument
+Brief description
+ASIMET
+Air-Sea Interaction METeorology system measuring air temperature, relative humidity, barometric

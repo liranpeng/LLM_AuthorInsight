@@ -1,0 +1,26 @@
+its
+impact
+on
+photooxidant
+concentrations
+in
+southern
+Germany:
+simulations
+with
+a
+coupled
+regional
+climate-
+chemistry
+model,
+J.
+Geophys.
+Res.,
+111,
+D12302,
+https://doi.org/10.1029/2005JD006748, 2006.
+Gregory, D. and Rowntree, P. R.: A mass ﬂux scheme with represen-
+tation of cloud ensemble characteristics and stability-dependent
+closure, Mon. Weather Rev., 118, 1483–1506, 1990.
+Held, I. M. and Soden, B. J.: Robust response of the hydrological

@@ -1,0 +1,10 @@
+Underway data
+Data acquired at high temporal resolution along the ship track: latitude, longitude, motion,
+course/heading (multiple), water depth, solar global radiation, infrared radiation, PAR radiation, and
+rain (vertical/lateral)
+B17
+Saildrones
+Continuous measurements of air–sea interaction by ﬁve un-
+crewed surface vehicle (USV) Saildrones were led by Far-
+allon Institute, NOAA/PMEL, and CICOES/University of
+Washington during EUREC4A and ATOMIC from 12 Jan-

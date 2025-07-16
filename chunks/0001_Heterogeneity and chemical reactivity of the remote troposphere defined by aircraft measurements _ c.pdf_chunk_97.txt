@@ -1,0 +1,8 @@
+tremes of reactivity? While the sorted reactivity curves
+(Fig. 1, Tables 2 and S8) continue to steepen from the 90th to
+97th percentile, the slope does not change that much. Thus
+we can estimate the 99th + percentile contributes < 5 % of
+the total reactivity. Thus, if our model misses the top 1 % of
+reactive air parcels (e.g., due to the inability to simulate in-
+tensely reactive thin pollution layers) then we miss at most
+5 % of the total reactivity. This ﬁnding is new and encour-

@@ -1,0 +1,8 @@
+This would allow the ﬁrst ever evaluation of the ability of
+microphysical models, which depend on a variety of param-
+eterized processes, to quantitatively represent precipitation
+formation processes in realistically simulated cloud ﬁelds.
+Previous attempts (Ackerman et al., 2009; vanZanten et al.,
+2011) at making such an evaluation have highlighted large
+differences in models, but it remains unclear to what ex-
+tent these differences are due to the representation of cloud

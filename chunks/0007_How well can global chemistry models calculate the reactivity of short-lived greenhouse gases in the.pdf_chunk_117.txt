@@ -1,0 +1,8 @@
+https://doi.org/10.1098/rspa.1952.0130, 1952.
+Collins, W. J., Lamarque, J.-F., Schulz, M., Boucher, O., Eyring, V.,
+Hegglin, M. I., Maycock, A., Myhre, G., Prather, M., Shindell,
+D., and Smith, S. J.: AerChemMIP: quantifying the effects of
+chemistry and aerosols in CMIP6, Geosci. Model Dev., 10, 585–
+607, https://doi.org/10.5194/gmd-10-585-2017, 2017.
+Eyring, V., Butchart, N., Waugh, D. W., Akiyoshi, H., Austin, J.,
+Bekki, S., Bodeker, G. E., Boville, B. A., Brühl, C., Chipper-

@@ -1,0 +1,28 @@
+Atmos. Chem. Phys., 13, 285–302, 2013
+www.atmos-chem-phys.net/13/285/2013/
+C. D. Holmes et al.: Future methane, hydroxyl, and their uncertainties
+297
+Table 5. Present-day, steady-state methane impact on ozone and radiative forcinga.
+UCI CTM
+Oslo CTM3
+GEOS-Chem
+Literature
+Adopted
+Ozone chemistry, DU(O3) ppm(CH4)−1
+d[O3]/d[CH4]
+4.03(T)
+5.08(T)
+2.90(T)
+3.5±1.0(T)b
+10.39(S)
+3.0±0.8(T)c
+d[O3]/d[H2O] (from CH4)
+−0.41(T)
+−4.28(S)
+Radiative forcing, mW m−2 ppm(CH4)−1
+CH4
+367
+367
+367
+370 ± 27d
+370

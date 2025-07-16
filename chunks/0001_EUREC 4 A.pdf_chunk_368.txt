@@ -1,0 +1,12 @@
+NOAA-funded Saildrones, 0.8 m above water line)
+Table B25. SWIFTs.
+Instrument
+Brief description
+Inertial system
+SBG Ellipse GPS measuring drift speed from 5 Hz positions and velocities
+Inertial system
+SBG Ellipse IMU measuring surface waves from 5 Hz displacements (processed for hourly wave
+spectral parameters)
+Weather sensors
+Vaisala WXT-536 measuring air temperature, humidity, pressure, rainfall, and wind at 1 m
+Weather sensors

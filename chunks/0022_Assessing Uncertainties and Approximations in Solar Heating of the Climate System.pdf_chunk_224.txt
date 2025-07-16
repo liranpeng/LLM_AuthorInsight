@@ -1,0 +1,13 @@
+critique that helped us significantly 
+improve the paper. Dataset, Solar-J 
+source code, and scripts for generating 
+figures and tables are publicly available 
+at DRYAD University of California, 
+Irvine (DOI https://doi.org/10.7280/
+D1PQ3W). This work was developed 
+with support from the US Department 
+of Energy, Office of Science, Biological 
+and Environmental Research Program 
+(award DE-SC0012536); Lawrence 
+Livermore National Laboratory (sub-
+contract B628407) under the E3SM

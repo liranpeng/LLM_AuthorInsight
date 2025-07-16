@@ -1,0 +1,7 @@
+Modeling Earth Systems, 12(9), September 2020. doi:10.1029/2020ms002109.
+[24] Linjiong Zhou, Shian-Jiann Lin, Jan-Huey Chen, Lucas M. Harris, Xi Chen, and Shan-
+non L. Rees. Toward convective-scale prediction within the next generation global predic-
+tion system. Bulletin of the American Meteorological Society, 100(7):1225 – 1243, 2019.
+doi:https://doi.org/10.1175/BAMS-D-17-0246.1.
+7
+Table 1: Input and output variables for ACE. The k subscript refers to a vertical layer index, and

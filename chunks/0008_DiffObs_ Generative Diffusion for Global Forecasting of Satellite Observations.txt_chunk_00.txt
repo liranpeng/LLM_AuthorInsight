@@ -1,0 +1,1 @@
+Title: DiffObs: Generative Diffusion for Global Forecasting of Satellite Observations

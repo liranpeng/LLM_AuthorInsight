@@ -1,0 +1,14 @@
+Prather (1986)
+Regular latitude–longitude
+2
+UCISOM-CS
+UC Irvine Second-Order Moments scheme
+–
+Gnomonic cubed-sphere
+2
+In other words, it is up to the reader to extract information
+for speciﬁc applications as only uniform resolution or non-
+mesh-reﬁned grids are considered here.
+The paper is organized as follows. In Sect. 2 the schemes
+are brieﬂy introduced by discussing discretization cate-
+gories/methods and grouping the respective schemes into

@@ -1,0 +1,11 @@
+uplooking)
+Acoustic Doppler current
+proﬁler
+Teledyne RDI ADCP measuring horizontal velocity proﬁle every 60 min (on mooring line at 85 m,
+uplooking)
+CT sensor
+Sea-Bird SBE-37 measuring seawater temperature and conductivity/salinity every 10 min (on mooring
+line at 10, 25, 40, 55, and 70 m)
+CT sensor
+Sea-Bird SBE-37 measuring deep ocean temperature and salinity every 5 min (38 m above bottom).
+man Research Foundation (DFG) and the German Ministry

@@ -1,0 +1,8 @@
+thus scale the surface N2O IAV with the ratio of STE ﬂuxes
+(CO2 : N2O) to give an observational estimate of the STE-
+driven CO2 IAV in the SH extratropics (dashed blue line
+in Fig. 1d). The IAV in SH (40–90◦S) surface CO2 calcu-
+lated from the sCO2 model scenario is also shown (dashed
+red line in Fig. 1d). The modeled sCO2 and observed N2O-
+scaled IAVs are not always in phase, but they are in strong
+agreement in terms of amplitude: the STE IAV in CO2 is a

@@ -1,0 +1,10 @@
+models (e.g., ref. 209–211); and
+(3) The direct calculation of air quality by various global
+and regional modeling approaches that include:
+(i) Fully coupled global chemistry–climate models (CCMs;
+Table S1, ESIz).
+(ii) Fully coupled regional CCMs;215–217
+(iii) Global-to-urban CCMs (e.g., ref. 218);
+(iv) Oﬀ-line global or regional chemical transport models
+(CTMs) forced using projections of meteorological ﬁelds from
+separate atmosphere–ocean general circulation models (AOGCMs)

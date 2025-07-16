@@ -1,0 +1,11 @@
+simulation and the dashed line indicates the tropopause.
+However, both methods try to identify the individual con-
+tributions from sectors. Changes in the contributions are de-
+tected comparably by both approaches (Grewe, 2004), i.e.
+the standard deviation based on interannual variability is sim-
+ilar for both approaches.
+4
+Trafﬁc induced ozone changes
+4.1
+Total ozone perturbation
+The integrated effect of the emission reduction (ALL-case)

@@ -1,0 +1,5 @@
+HSU AND PRATHER
+10.1029/2020MS002131
+13 of 24
+Figure 5.  (a) Zonal mean heating rates (black contour lines, 0.5, 1.0, 1.5 K per day) as a function of latitude and height for January 2015 using Solar-J with 
+averaged clouds and no ice water clouds. Color fill (−0.5 to +0.5 K per day color bar, with ±0.025 as white) show the difference RRTMG-SW v4.0 minus Solar-J.

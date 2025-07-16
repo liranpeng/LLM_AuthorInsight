@@ -1,0 +1,9 @@
+license at: https://github.com/NVIDIA/modulus/tree/main/
+examples/generative/corrdiff. All dependencies and detailed
+instructions for running and reproducing the results are provided in
+the accompanying README file. Links to the trained model
+checkpoints and datasets used in this study are also included within
+the repository to ensure full reproducibility.
+References
+1. Ben-Bouallegue, Z. et al. The rise of data-driven weather
+forecasting (2023). 2307.10128.

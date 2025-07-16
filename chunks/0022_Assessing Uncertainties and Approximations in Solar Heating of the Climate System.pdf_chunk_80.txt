@@ -1,0 +1,5 @@
+ous absorption is an ongoing effort (Etminan et al., 2016; Mlawer et al., 2012; Paynter & Ramaswamy, 2014; 
+Pincus et al., 2015; Radel et al., 2015), but parallel efforts on cloud absorption are limited.
+4.  Scattering Phase Functions and Multiple Scattering
+Ideally, the sunlight scattered by clouds, aerosols and gases is resolved semi-continuously in all directions 
+within the atmosphere, but in practice, RT solutions for solar heating keep track of a limited number of

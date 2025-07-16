@@ -1,0 +1,4 @@
+tal uncertainty in prescribing the mix of crystal habits over the wide atmospheric range of ice clouds. 
+With the recent work by Yang and colleagues (e.g., 2013, 2018) quantifying the scattering, and the better 
+atmospheric data from Heymsfield and colleagues (e.g., 2017), we are in a position to remove ice-cloud 
+parameterizations and apply the ice-cloud physics directly to solar RT codes. Two recent efforts to do this

@@ -1,0 +1,8 @@
+usually based on Euler forward time differencing (two-time-
+level schemes). Several schemes in this intercomparison are
+based on that approach, and they differ in area approxima-
+tion, reconstruction method, and implementation grid (for a
+detailed discussion on area approximations and reconstruc-
+tion methods, see, for example, Lauritzen et al., 2011b). Un-
+less stated otherwise the schemes based on “swept areas” use
+the super-cycling technique for coupling tracer and air mass.

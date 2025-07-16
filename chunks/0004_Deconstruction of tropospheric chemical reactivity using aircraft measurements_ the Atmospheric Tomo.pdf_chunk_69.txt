@@ -1,0 +1,8 @@
+the average photolysis rates (J-O1D, J-NO2, Table 1) have
+little seasonality (variation across deployments) and further
+have a ﬂat distribution with the median greater than the mean.
+For P-O3 (Table 1) the Atlantic mean is slightly larger (10 %–
+20 %) than the Paciﬁc mean except for ATom-2. The medi-
+ans are always smaller than the mean. The reactivity of the
+top 10 % is about 2.5 times that of the mean, indicating that
+a distribution peaked in photochemical hotspots. For L-O3

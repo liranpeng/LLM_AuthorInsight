@@ -1,0 +1,9 @@
+Atmos. Chem. Phys., 17, 9081–9102, 2017
+9086
+M. J. Prather et al.: Global atmospheric chemistry – which air matters
+and Berresheim, 2006). This argument applies to similar rad-
+ical species such as CH3OO, but not to HOx sources like
+CH3OOH and HOOH whose initial values will control the
+abundance of OH and the reactivities over the day.
+A similar situation applies to NO and NO2 (collectively
+designated NOx), whereby total NOx changes over the day

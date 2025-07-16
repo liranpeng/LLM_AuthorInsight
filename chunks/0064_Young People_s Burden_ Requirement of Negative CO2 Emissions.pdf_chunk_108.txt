@@ -1,0 +1,9 @@
+into an array of potential futures driven by assumptions about
+energy demand, fossil fuel prices, and climate policy, cho-
+sen to be representative of an extensive literature on possible
+emissions trajectories (Moss et al., 2010; van Vuuren et al.,
+2011; Meinshausen et al., 2011a, b). Numbers on the RCP
+scenarios (8.5, 6.0, 4.5 and 2.6) refer to the GHG climate
+forcing (W m−2) in 2100.
+Scenario RCP2.6 has the world moving into negative
+growth (net contraction) of GHG forcing 25 years from now

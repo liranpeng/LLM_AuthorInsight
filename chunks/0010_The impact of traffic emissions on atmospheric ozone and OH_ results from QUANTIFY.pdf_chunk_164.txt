@@ -1,0 +1,9 @@
+ozone, Atmos. Chem. Phys., 8, 4061–4068, 2008,
+http://www.atmos-chem-phys.net/8/4061/2008/.
+Carver, G. and Scott, P.: IMPACT: an implicit time integration
+scheme for chemical species and families, Ann. Geophys., 18,
+337–346, 2000,
+http://www.ann-geophys.net/18/337/2000/.
+Carver, G., Brown, P., and Wild, O.: The ASAD atmospheric chem-
+istry integration package and chemical reaction database, Com-
+put. Phys. Commun., 105, 197–215, 1997.

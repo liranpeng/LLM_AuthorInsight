@@ -1,0 +1,8 @@
+properties, and approximation of the multitude of indepen-
+dent column atmospheres (ICAs) resulting from a complex
+overlapping cloud ﬁeld within a grid cell. What is a rea-
+sonable requirement for multi-stream scattering in a climate
+model? From this work as well as a history of publications
+noted above, the analytic two-stream approximation has er-
+rors that cannot simply be corrected or averaged over, that
+create large-scale biases in cloud radiative forcing with lati-

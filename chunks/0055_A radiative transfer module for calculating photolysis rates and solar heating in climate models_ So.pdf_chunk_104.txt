@@ -1,0 +1,6 @@
+(solid lines) and RRTMG-SW (dashed lines) for large solar zenith angles at four different altitudes. RRTMG-SW’s heating rates reduce to
+zeros at an SZA of 90◦due to the lack of sphericity correction in the plane-parallel approximation, whereas the impact of sphericity on the
+direct solar beam path is included in Solar-J.
+heating rates from both RRTMG-SW and Solar-J. The lack
+of sphericity in RRTMG leads to large systematic negative
+biases in the heating rates at low sun. Sphericity errors ex-

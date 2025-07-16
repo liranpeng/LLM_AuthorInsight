@@ -1,0 +1,4 @@
+For these regions the area of exceedence (ER > 1.0) for 2025 is w40% and w25% of the total area of each
+region, respectively. Comparing simulations employing the various scenarios shows that unmitigated
+RTE increases the area of exceedence in the Middle East by w6% and, for Asia, by w2% of the total
+regional areas. For the USA the area of exceedence approximately doubles in 2025 as a result of un-

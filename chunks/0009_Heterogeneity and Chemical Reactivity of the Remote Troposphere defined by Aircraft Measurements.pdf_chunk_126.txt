@@ -1,0 +1,3 @@
+in large latitude–pressure bins and also by cosine(latitude). The ATom statistics are from the UCI model, using MDS-2 and revised RDS∗
+protocol (HNO4 and PAN damping). The full Paciﬁc results (solid black) also show just the central Paciﬁc (dashed gray). The six models’
+values for a day in mid-August are averaged over longitude for the domains shown in Fig. S1 and then cosine(latitude)-weighted. Mean

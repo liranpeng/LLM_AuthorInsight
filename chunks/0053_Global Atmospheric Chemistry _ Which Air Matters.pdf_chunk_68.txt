@@ -1,0 +1,8 @@
+alistic, diurnal, regional, seasonal climatology for these and
+hence the photolysis rates. To better average the reactivity
+over synoptic variations in clouds, we expect to repeat the
+same initialization of the A-runs for a range of days over a
+month containing the observations.
+Each ATom parcel (2–8 km along the ﬂight path) will be
+assigned a unique model grid cell to best match the observa-
+tion: latitude and pressure grids containing the measurement,

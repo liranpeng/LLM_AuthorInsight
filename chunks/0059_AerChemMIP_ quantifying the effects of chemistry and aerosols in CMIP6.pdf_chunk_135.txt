@@ -1,0 +1,9 @@
+https://wiki.met.no/aerocom/aerchemmip/diagnostics),
+and
+the deﬁnitive and detailed request will be found in the
+CMIP6 data request (https://earthsystemcog.org/projects/
+wip/CMIP6DataRequest). Since the AerChemMIP model
+versions are requested to also perform the DECK experi-
+ments, the data request contains suggestions for output lim-
+itations for these experiments (see the ﬁnal data request
+for details). Here we provide an overview of the analysis

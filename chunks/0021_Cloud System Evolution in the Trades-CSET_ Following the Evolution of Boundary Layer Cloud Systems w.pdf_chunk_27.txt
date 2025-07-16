@@ -1,0 +1,5 @@
+trade cumulus transition. A recent study, DOE MAGIC (the Marine ARM GPCI 
+Investigation of Clouds), involved ship-borne measurements from a container ship that made 
+regular transects between Los Angeles and Hawaii from October 2012 to September 2013 
+using the ARM Mobile Facility (Zhou et al., 2015). In addition to in situ observations, the 
+clouds above the ship were sampled using lidar and radar observations in both the

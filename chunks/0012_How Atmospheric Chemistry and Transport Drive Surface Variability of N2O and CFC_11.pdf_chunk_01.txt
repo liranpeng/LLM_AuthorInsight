@@ -1,0 +1,6 @@
+University of California
+1.  Introduction
+Nitrous oxide (N2O) is a long-lived greenhouse gas that directly affects climate and participates in strato-
+spheric ozone depletion, further altering atmospheric composition and posing a threat to human health 
+and society. Agricultural practices and fossil fuel combustion have played important roles in increasing 
+the global burden of fixed nitrogen (Erisman et al., 2013), leading to a steady increase in atmospheric N2O

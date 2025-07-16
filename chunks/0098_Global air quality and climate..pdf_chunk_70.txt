@@ -1,0 +1,13 @@
+of NTCFs can depend on emission location and chemical
+interactions with co-emitted species, which can vary strongly
+by emission sector. Determining the net climate impact of the
+suite of emissions from an anthropogenic activity requires
+explicit three-dimensional model calculations that consider
+interactions
+and
+nonlinearities
+between
+the
+co-emitted
+chemical species, which may have oﬀsetting or additive climate
+impacts. Global chemistry–climate models are often employed

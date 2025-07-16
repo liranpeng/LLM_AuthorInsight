@@ -1,0 +1,8 @@
+increases in percent with SZA, but the pattern is different
+from that of RRTMG-SW models. At overhead sun, Solar-J
+has about the same CRE percent as EC92 even though it has
+a 1.7 times greater τ. This can be understood in that Solar-
+J cirrus is highly forward scattering and less of the scattered
+light is reﬂected backward and upward. As the SZA increases
+to 21–62◦, however, the peak in backscatter at 180◦becomes
+less important and Solar-J shifts lower relative to EC92 to

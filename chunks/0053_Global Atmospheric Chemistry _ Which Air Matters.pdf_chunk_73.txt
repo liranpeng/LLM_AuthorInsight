@@ -1,0 +1,8 @@
+solid) can be compared with that for 24 h later (36 h) for
+the C- (black dashed) and A-runs (cyan squares, only for
+four species). The number of moles at the beginning and end
+of the 24 h in the C-run (see legend) is a measure of the daily
+changes in the air parcels entering and leaving the domain.
+It varies from 0 to 4 %, which is well within the expected
+representativeness of a given day. With the A-run, however,
+we see large systematic shifts due to the lack of emissions

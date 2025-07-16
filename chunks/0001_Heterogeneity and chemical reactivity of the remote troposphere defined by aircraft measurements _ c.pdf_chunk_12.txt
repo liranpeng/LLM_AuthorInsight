@@ -1,0 +1,8 @@
+described in this preface and discussed at most brieﬂy in the
+paper. First, we found that measurement errors in PAN and
+HNO4 were large (∼100 ppt), and when this occurred in the
+lower troposphere, the rapid thermal decomposition released
+large amounts of NOx. There is no easy ﬁx for this, and we
+developed a new protocol (reactivity data stream, RDS*) for
+computing reactivities by allowing the species to thermally
+decompose before use in the model, as described below. This

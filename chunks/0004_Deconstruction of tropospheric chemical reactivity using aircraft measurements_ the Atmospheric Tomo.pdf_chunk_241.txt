@@ -1,0 +1,8 @@
+F., Blake, D., Blake, N. J., Apel, E. C., Hornbrook, R. S., Elkins,
+J. W., Hintsa, E. J., Moore, F. L., and Wofsy, S.: Heterogene-
+ity and chemical reactivity of the remote troposphere deﬁned by
+the NASA ATom Mission aircraft measurements – the Modeling
+and Reactivity Data Streams (MDS & RDS), Dryad [data set],
+https://doi.org/10.7280/D1B12H, 2023.
+Schill, G. P., Froyd, K. D., Bian, H., Kupc, A., Williamson, C.,
+Brock, C. A., Ray, E., Hornbrook, R. S., Hills, A. J., Apel, E.

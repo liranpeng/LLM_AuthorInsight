@@ -1,0 +1,11 @@
+2004.
+Lin, S. J. and Rood, R. B.: Multidimensional Flux-Form Semi-
+Lagrangian Transport Schemes, Mon. Weather Rev., 124, 2046–
+2070, 1996.
+Miura, H.: An Upwind-Biased Conservative Advection Scheme for
+Spherical Hexagonal-Pentagonal Grids, Mon. Weather Rev., 135,
+4038–4044, 2007.
+Nair, R.: Diffusion Experiments with a Global Discontinuous
+Galerkin Shallow Water Model, Mon. Weather Rev., 137, 339–
+3350, 2005.
+Nair, R. D. and Jablonowski, C.: Moving Vortices on the Sphere:

@@ -1,0 +1,8 @@
+show emission data over Europe and south-eastern Asia, re-
+spectively. Black carbon (BC) emissions are higher in the
+ECLIPSE data compared to the CMIP5 data, but with sim-
+ilar trends. For SO2 emission, the former has a somewhat
+larger reduction towards the end of the 1990–2015 period
+than in the CMIP5 data. For the Community Emissions Data
+System (CEDS) data for CMIP6, the largest change to the
+ECLIPSE data is the more pronounced increase in NOx and

@@ -1,0 +1,47 @@
+½
+ −o CH4
+½
+
+
+
+o CH4
+½
+
+(4)
+Δδ13CH4 ¼
+mδ13CH4 −oδ13CH4
+j
+j
+δ13CH4max −δ13CH4min
+j
+j
+(5)
+Table 1
+UCI‐CTM Sensitivities for Ethane and Acetylene With No Cl Sink for Greenland (GRN) and Antarctica (ANT) From Different Tracer Simulations
+Modeled sensitivities
+(pmol mol−1/Tg year−1)
+Fraction of total burning
+emissions in each region (%)
+Ethane
+Acetylene
+Source
+Geographic region
+Ethane
+Acetylene
+GRN
+ANT
+GRN
+ANT
+Fossil fuel
+Globe
+73.9
+14.2
+35.3
+2.8
+Biofuel
+Globe
+79.1
+16.7
+37.7
+3.1
+Geologic

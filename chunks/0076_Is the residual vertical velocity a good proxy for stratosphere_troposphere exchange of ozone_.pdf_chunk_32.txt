@@ -1,0 +1,4 @@
+bounded above by the 100 hPa isobaric surface and below by the e90-tropopause (LS-e90), the 120 ppb-O3
+surface (LS-120 ppb), or the 250 ppb-O3 surface (LS-250 ppb). If the top and bottom surfaces do not cross
+in the tropics, then the equator is used to separate the two hemispheres. The hemispheric LS O3 STE is
+calculated monthly as the residual of balancing (i) the net O3 inﬂux across the 100 hPa surface from the pole

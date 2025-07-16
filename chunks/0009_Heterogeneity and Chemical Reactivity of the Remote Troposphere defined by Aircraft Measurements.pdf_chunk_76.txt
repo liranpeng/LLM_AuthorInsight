@@ -1,0 +1,8 @@
+is why the median is less than mean (except for P-O3 in the
+Atlantic). Each R value and each ocean has a unique shape;
+for example L-O3 in the Atlantic is almost two straight lines
+breaking at the 50th percentile. In Fig. 1 the agreement across
+all models (except GISS) is clear, indicating that the con-
+clusion in P2018 (i.e., that most global chemistry models
+agree on the O3 and CH4 budgets if given the chemical com-
+position) also holds for the ATom-measured chemical com-

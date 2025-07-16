@@ -1,0 +1,5 @@
+emissions of CFC-11 (Montzka et al., 2018; Rigby et al., 2019), we also included some CFC-11 simula-
+tions in parallel with N2O. Since there are no equivalent MLS-like observations for CFC-11 to integrate loss 
+(and lifetimes), we rely solely on model results to investigate stratosphere-to-surface variability as in Ray 
+et al. (2020).
+In Section 2, we present the updated N2O lifetime based on the 2005–2018 MLS observations and three inde-

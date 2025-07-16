@@ -1,0 +1,24 @@
+or emissions should evolve following a version of SSP3-7.0 with cleaner air quality policies. CFC/HCFC concentrations should follow the
+SSP3-7.0 scenario in both cases. Three ensemble members are requested for each experiment.
+Experiment ID
+Minimum model
+CH4
+Aerosol
+Ozone
+Tier
+conﬁguration
+precursors
+precursors
+ssp370∗
+AOGCM AER
+Reference
+Reference
+Reference
+1
+ssp370-lowNTCF
+AOGCM AER
+Reference
+Clean
+Clean
+1
+∗ssp370 is also speciﬁed as Tier 1 in ScenarioMIP.

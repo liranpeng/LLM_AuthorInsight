@@ -1,0 +1,5 @@
+for 75 epochs while the second uses a 100-year dataset (146070 samples) and trains for 15 epochs.
+Note the latter training is not the same as the one described in the main text above. It does not use
+surface height or surface type fractions as inputs and it uses a 5x larger initial learning rate.
+Figure 14 shows the training and validation loss for the models trained on the two datasets. The
+validation loss here is computed on 80 samples from the independent validation dataset. The model

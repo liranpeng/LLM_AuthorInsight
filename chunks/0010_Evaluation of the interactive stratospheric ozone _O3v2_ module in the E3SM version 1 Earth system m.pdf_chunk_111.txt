@@ -1,0 +1,9 @@
+the ﬁdelity of the climate simulation, or the climate sensitiv-
+ity.
+https://doi.org/10.5194/gmd-14-1219-2021
+Geosci. Model Dev., 14, 1219–1236, 2021
+1232
+Q. Tang et al.: Interactive stratospheric ozone (O3v2) in E3SM
+Appendix A
+Figure A1. Relative changes in zonal mean ozone proﬁles (%) from O3v1 to O3v2 at the UT–LS region (50–400 hPa) for (a) annual, (b) June,
+and (c) October means.
