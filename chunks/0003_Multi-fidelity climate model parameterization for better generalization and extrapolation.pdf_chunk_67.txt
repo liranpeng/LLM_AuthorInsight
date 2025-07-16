@@ -1,0 +1,8 @@
+the training data regimes, we hope that thanks to the mul-
+tifidelity extrapolation capabilities, this work will pave the
+way to finally tackle climate change projection with Artificial
+Intelligence.
+6/27
+Figure 3. Longitude-latitude variation of coefficient of determination R2 for moisture tendency at vertical level
+P = 494 hPa for different surrogate models. R2 is evaluated on the test dataset and negative values are lumped to 0 for
+clarity purposes.

@@ -1,0 +1,10 @@
+(2018).
+21. Berner, J., Jung, T. & Palmer, T. N. Systematic model er-
+ror: The impact of increased horizontal resolution versus
+improved stochastic and deterministic parameterizations.
+J. Clim. 25, 4946 – 4962 (2012).
+22. Seiffert, R. & von Storch, J.-S. A stochastic analysis of
+the impact of small-scale fluctuations on the tropospheric
+temperature response to co2 doubling. J. Clim. 23, 2307 –
+2319 (2010).
+23. Ajayamohan, R. S., Khouider, B. & Majda, A. J. Realistic

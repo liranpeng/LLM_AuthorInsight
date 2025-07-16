@@ -1,0 +1,4 @@
+study provides a path toward evaluating future high-resolution simulation data more objectively.
+The Earth’s atmosphere is a complex system, with many different factors influencing its dynamics on scales rang-
+ing from microns to thousands of kilometers. Thanks to modern high-resolution global Earth system models, 
+much of this complexity can now be captured with unprecedented accuracy, down to the “storm-resolving”

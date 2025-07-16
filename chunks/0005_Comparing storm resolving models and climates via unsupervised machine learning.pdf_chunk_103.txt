@@ -1,0 +1,8 @@
+hotter atmosphere (d).
+11
+Vol.:(0123456789)
+Scientific Reports |        (2023) 13:22365  | 
+https://doi.org/10.1038/s41598-023-49455-w
+www.nature.com/scientificreports/
+us to save the cluster centroids at the end of the algorithm, which provides a basis for cluster assignments for 
+latent representations of out-of-sample test datasets when we use a common encoder as in “Latent space inquiry

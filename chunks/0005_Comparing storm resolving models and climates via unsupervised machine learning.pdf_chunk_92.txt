@@ -1,0 +1,22 @@
+(2)
+TLSi
+def
+= 2π√n
+ϕi
+ ϕh
+||k||
+
+,
+(3)
+L(θ; x) := Eqθ (z|x)
+
+log pθ(x|z)
+
+−βKL
+
+qθ(z|x)||pθ(z)
+
+.
+Figure 5.   Unsupervised storm-resolving model (GSRM) inter-comparison. The top panel (a) shows the ELBO 
+(Eq. 3) score distribution of data from different DYAMOND simulations. (The VAE encoder is trained on 
+UM data before all nine different test datasets are applied.) We see that three model types (ICON, SPCAM,

@@ -1,0 +1,3 @@
+the SF-HF-RPN and LF-RPN models for all vertical levels since the yellow regions stretch over larger areas indicating a wider
+increase of the uncertainty as the error grows (figures 12.d - 12.f). However, it is worth noting that the SF-HF-RPN’s uncertainty
+density plot shows wider red regions for vertical levels 494 and 761 hPa compared to the MF-RPN (figures 12.e and 12.f).

@@ -1,0 +1,7 @@
+Liran Peng , Pierre Gentine  & Stephan Mandt 
+Correction to: Scientific Reports https://​doi.​org/​10.​1038/​s41598-​023-​49455-w, published online 15 December 2023
+The original version of this Article omitted an affiliation for Mike Pritchard. The correct affiliations are listed 
+below.
+Department of Earth System Science, University of California at Irvine, Irvine, CA 92697, USA.
+NVIDIA, Santa Clara, CA 95050, USA.
+The original Article has been corrected.

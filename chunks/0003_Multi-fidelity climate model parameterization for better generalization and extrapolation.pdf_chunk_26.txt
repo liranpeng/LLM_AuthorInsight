@@ -1,0 +1,8 @@
+tion, with a prescribed sea surface temperature (SST) that has
+been augmented by 4 K and 8 K, referred to as +4K and +8K
+simulations respectively, were considered as LF data candi-
+dates for training. A comparison of their inputs and outputs’
+distributions with those of the SPCAM5 training data shows a
+more pronounced extrapolation regime for CAM5 +8K data,
+mainly due to the increased holding capacity of moisture in
+the atmosphere with climate change (Clausius-Clapeyron) at

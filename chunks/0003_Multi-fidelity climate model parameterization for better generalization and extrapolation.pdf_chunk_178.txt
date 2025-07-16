@@ -1,0 +1,4 @@
+Hence, the SF-HF-RPN’s uncertainty displays a more increasing behavior with the error for low error values. Nonetheless, the
+density plots yellow regions are larger for the MF-RPN model compared to the SF-HF-RPN, highlighting that the MF-RPN’s
+uncertainty is more accurate for moderate to high error values.
+Figures 13 shows the longitude-latitude structures of the MF-RPN’s uncertainty σM and the MAE metric evaluated on the

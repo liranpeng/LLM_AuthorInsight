@@ -1,0 +1,12 @@
+experiments, we anneal β linearly over 1600 training epochs. We use 4 layers in the encoder and decoder with 
+a stride of two) (Fig. 1). We use ReLUs as the activation function in both the encoder and the decoder. We pick 
+a relatively small kernel size of 3 to preserve the small-scale updrafts and downdrafts of our vertical velocity 
+fields. The dimension of our latent space is 1000. For more details on the VAE design choices, see the Methods 
+section ­of59.
+(2)
+TLSi
+def
+= 2π√n
+ϕi
+ ϕh
+||k||

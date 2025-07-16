@@ -1,0 +1,5 @@
+for future work.
+Our work suggests the need to further investigate the parameterization choices in these high-resolution 
+simulations. In the DYAMOND initiative, ICON was configured at an unusually high resolution (grid-cell 
+dimension of  2 km) so that typical sub-grid orography and convection parameterizations were ­deactivated45. 
+In the design of both SPCAM and SAM, there are approximations required for the anelastic formulations of

@@ -1,0 +1,4 @@
+SF-HF-RPN show that the latter resolves better the moisture convection stochasticity for vertical levels below 494 hPa, while it
+does not improve upon the deterministic NN. for higher levels (figure 6.b).
+The CRPS curves follow a similar trend as the MAE ones (see Results), showing that all RPN-based models have similar
+confidence in terms of variance prediction (figure 6). This behavior could be expected since all these models are based on the

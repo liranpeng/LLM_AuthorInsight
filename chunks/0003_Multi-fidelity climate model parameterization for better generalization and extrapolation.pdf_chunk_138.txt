@@ -1,0 +1,12 @@
+Author contributions statement
+M.A.B. and P.G. conceived the experiment(s), L.P. generated
+the training data with guidance by M.P., M.A.B. conducted the
+experiment(s), M.A.B. and P.G. analyzed the results, M.A.B.,
+P.G. and M.P. provided funding, M.A.B., P.G., L.P. and M.P.
+wrote the manuscript.
+Additional information
+Following paper publication, all code and data accom-
+panying this manuscript will be made publicly available
+at
+https://github.com/bhouri0412/MF_RPN_
+SPCAM_cv_param.

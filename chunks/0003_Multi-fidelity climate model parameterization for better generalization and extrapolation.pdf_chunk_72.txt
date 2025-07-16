@@ -1,0 +1,9 @@
+Datasets
+All CAM5 and SPCAM5 simulations considered commence
+using climatological input data derived from a 20-year mean
+span around the year 2000. This data includes relevant so-
+lar radiation, greenhouse gas levels, oxidant concentrations,
+and present-day aerosol emissions (denoted as F2000). The
+prescribed SST and sea ice data sets were constructed as a
+blended product, using the global HadISST OI data set82. The
+considered forcing consists of annually repeating climatolog-

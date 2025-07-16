@@ -1,0 +1,8 @@
+Peter Caldwell, Claire Monteleoni, David Rolnick, Imme Ebert-Uphoff, and Maike Sonnewald for helpful con-
+versations that advanced this work.
+Author contributions
+G.M., S.M., M.P., and T.B. designed the research. G.M., M.P., L.P., and T.B. performed numerical simulations. 
+G.M., S.M., M.P., T.B., P.G., L.P., P.S., and H.M. wrote the manuscript.
+Competing Interests 
+The authors declare no competing interests.
+Additional information

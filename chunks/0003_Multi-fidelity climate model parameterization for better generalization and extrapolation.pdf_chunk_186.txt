@@ -1,0 +1,5 @@
+at vertical levels 259, 494 and 761 hPa can be found in https://drive.google.com/drive/folders/1-RVxI_
+YpES0zNi6oa-0wIh8N1i6qL74Y?usp=drive_link. In addition to the instantaneous variations, the simulations
+include evolution of daily averaged predictions and uncertainties. All simulations show the ability of the MF-RPN to return
+uncertainties that nearly perfectly replicate the corresponding longitude-latitude error structure at all time instances and spatial
+points.

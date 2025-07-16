@@ -1,0 +1,5 @@
+494 hPa. These results are well coherent with the global errors and the longitude-latitude structures of R2, confirming that the
+18/27
+Figure 9. Pressure-latitude variation of coefficient of determination R2 for moisture tendency and different surrogate
+models. R2 is evaluated on the test dataset and negative values are lumped to 0 for clarity purposes. a, Moisture tendency
+results. b, Data distribution of moisture tendency for different datasets at lowest vertical level at 958 hPa.

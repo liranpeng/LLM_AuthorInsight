@@ -1,0 +1,4 @@
+proportions and identify the dominant convection types in each region (see Fig. S11).
+When we examine the latent space of SPCAM, we again three distinct regimes of convection. The first mode 
+corresponds to deep convection over the Pacific Warm pool, almost identical to the other GSRMs. A second 
+mode of shallow convection dominates over areas where air is descending, both over continents and the oceans.

@@ -1,0 +1,21 @@
+David and Hannah, Walter and Lee, Jungmin and
+Norman, Matt and others}, title = {Cloud-resolving
+Climate Modeling of the Earth?s Water Cycle.},
+annote = {Abstract not provided.}, doi =
+{10.2172/2003180}, url = {https://www.osti.gov/
+biblio/2003180}, place = {United States},
+organization = {Sandia National Lab. (SNL-NM),
+Albuquerque, NM (United States)}, year = {2022},
+month = {05}}
+🗎 Copy to clipboard
+Export 
+•  Endnote
+•  RIS
+•  CSV/Excel
+•  XML
+•  JSON
+Share 
+•  
+ Facebook
+•  
+ Twitter / X

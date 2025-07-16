@@ -1,0 +1,4 @@
+climates. We first encode our dataset into a latent space and cluster the encoded data using K-means. The fraction 
+of data assigned to each cluster represents the prevalence of each convective regime in the dataset. We can use 
+these “cluster assignment” vectors to identify the spatial pattern of each type of convection across the tropics. By 
+comparing these normalized probabilities between the control and warmed climates, we can objectively quantify

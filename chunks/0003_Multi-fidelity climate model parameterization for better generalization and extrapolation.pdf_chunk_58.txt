@@ -1,0 +1,8 @@
+LF-RPN model improves further compared to the SF-HF-
+RPN model for the tropics between the 400 and 600 hPa
+pressure levels, which is a smaller region compared to the
+improvement observed for the heat tendency. The LF-RPN
+model also shows higher R2 values for both polar regions. The
+MF-RPN model improves further upon the LF-RPN in the
+tropical region between the 200 and 900 hPa vertical levels,
+and also in the temperate zone between 250 and 700 hPa

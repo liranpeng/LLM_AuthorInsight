@@ -1,0 +1,5 @@
+17/27
+Figure 8. Longitude-latitude variation of MAE and R2 for heat tendency at different vertical levels. R2 is evaluated on
+the test dataset and negative values are lumped to 0 for clarity purposes. a, R2 at P = 259 hPa. b, R2 at P = 494 hPa. c, R2 at
+P = 761 hPa. d, MAE at P = 259 hPa. e, MAE at P = 494 hPa. f, MAE at P = 761 hPa.
+performance even in the period between February 1st 2003 and April 31st 2003 (figures 10.a and 10.d). Hence, the SF-HF-RPN

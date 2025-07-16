@@ -1,0 +1,5 @@
+latent space in Figs. 4, 6, S3, S8, S9, S12.
+The horizontal extent of convection
+To distinguish narrow from wide convective structures, it is necessary to separate convective updrafts based on 
+their width. To elucidate these differences, we measure the Turbulent Length Scale (TLS)56, which is a way to 
+derive the horizontal breadth of the updrafts. We calculate the TLS at each vertical level and then combine the

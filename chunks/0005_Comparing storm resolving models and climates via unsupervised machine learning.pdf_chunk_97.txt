@@ -1,0 +1,5 @@
+I = N
+i=1 ||zi −µmi||2 , measuring the intra-cluster variance of the data.
+In all experiments, we perform the clustering ten times, each with a different, random initialization and 
+finally select the result with the lowest inertia. This process enables us to derive the three data-driven convection 
+regimes within an GSRM, which we highlight in Fig. 3h. Notably, we never find the clusters to be strictly spatially

@@ -1,0 +1,12 @@
+Conference on Machine Learning - Volume 37, ICML’15,
+1613–1622 (JMLR.org, 2015).
+52. Lakshminarayanan, B., Pritzel, A. & Blundell, C. Sim-
+ple and scalable predictive uncertainty estimation using
+deep ensembles. In Proceedings of the 31st International
+Conference on Neural Information Processing Systems,
+NIPS’17, 6405–6416 (Curran Associates Inc., Red Hook,
+NY, USA, 2017).
+12/27
+53. Fort, S., Hu, H. & Lakshminarayanan, B.
+Deep en-
+sembles: A loss landscape perspective. arXiv preprint

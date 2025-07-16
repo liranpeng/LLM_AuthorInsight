@@ -1,0 +1,10 @@
+TLS across all layers to get a composite value for the vertical velocity field. We then calculate the power spectrum 
+of the weighted average length of all samples, using ϕ to represent the power spectra, ||k|| as the complex modulus, 
+n as the number of dimensions, and ⟨⟩ as the vertical integral:
+(1)
+
+w′w′ def
+=
+
+(w −w)2,
+Figure 2.   A selected vertical velocity field from each of the nine GSRMs used in this intercomparison.

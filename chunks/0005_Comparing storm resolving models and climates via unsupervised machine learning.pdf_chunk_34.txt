@@ -1,0 +1,5 @@
+group involving most GSRMs, and a “minority”/“outlier” group involving ICON, SPCAM, and SAM.
+Assessing GSRM distances using vector quantization
+In order to further quantify the distribution shifts between different GSRMs, we revisit our non-linear dimen-
+sionality reduction and clustering technique from before. But crucially, for a more quantitative comparison, we 
+partition the latent space into a large number of regions, essentially through k-means clustering with a large

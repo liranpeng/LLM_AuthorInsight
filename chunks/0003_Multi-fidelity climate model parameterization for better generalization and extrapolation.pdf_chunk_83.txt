@@ -1,0 +1,8 @@
+networks since a sequential training would put more weight
+and importance on the second network fθHF,j (blue network
+in figure 1.b) as it will be trained after the fit of network fθLF,j
+(red network in figure 1.a), which is then held fixed. We
+observed that a sequential training favors converging to a MF-
+RPN model that is nearly identical to the SF-HF-RPN model
+since the last learning step in fitting the MF-RPN model is
+nearly identical to the SF-HF-RPN model’s learning of the

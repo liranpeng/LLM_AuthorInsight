@@ -1,0 +1,4 @@
+mid-altitude levels (around 494 hPa).
+Since the highest error is observed within the tropical regions, the MAE longitude-latitude plots (figures 7.d - 7.f) give a clear
+representation of the performance improvement within these regions across different models. For all pressure levels considered,
+the LF-RPN systematically improves the moisture convection parameterization within the tropics compared to the deterministic

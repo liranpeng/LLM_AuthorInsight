@@ -1,0 +1,8 @@
+tion extremes73, and an unrealistic equatorial wave spectrum
+with a missing Madden–Julian oscillation (MJO)74. Therefore,
+providing a framework to improve convection paramterization
+within this region can help remedy these issues.
+In Supplementary Information, we provide all longitude-
+latitude variations of the MAE and R2 metrics for heat and
+moisture tendencies for pressure levels: 259, 494 and 761 hPa
+(figures 7 and 8). These results show a very similar behavior

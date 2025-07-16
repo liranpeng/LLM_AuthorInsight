@@ -1,0 +1,8 @@
+most of vertical levels from TOA to 494hPa, the deterministic
+NN. is outperforming the SF-HF-RPN, while the opposite is
+observed for all vertical levels from 581 to 958hPa. Hence, the
+SF-HF-RPN is only capable of better resolving the moisture
+convection stochasticity for vertical levels below the 494hPa
+one, while it struggles to do so at higher levels.
+The SF-HF-RPN model has higher R2 values for the mois-
+ture tendency than the deterministic NN in the temperate zone

@@ -1,0 +1,9 @@
+3/27
+Multi-fidelity Randomized Prior Networks
+The multi-fidelity model is also constructed using RPNs of
+size 128. Trainable and non-trainable surrogate models of
+each member of the multi-fidelity RPN (MF-RPN) are built
+with the architecture detailed in figure 1.b. The chosen archi-
+tecture consists of two fully connected deep neural networks.
+The first network (highlighted in red in figure 1) predicts the
+low-fidelity parameterization output from the parameteriza-

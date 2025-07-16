@@ -1,0 +1,10 @@
+resolution and stochastic physics parameterisations in the
+ec-earth global climate model. Geosci. Model. Dev. 10,
+1383–1402 (2017).
+19. Christensen, H. M., Berner, J., Coleman, D. R. B. &
+Palmer, T. N. Stochastic parameterization and el niño-
+southern oscillation. J. Clim. 30, 17 – 38 (2017).
+20. Strømmen, K., Christensen, H., Berner, J. & Palmer, T.
+The impact of stochastic parametrisations on the repre-
+sentation of the asian summer monsoon. Clim. Dyn. 50
+(2018).

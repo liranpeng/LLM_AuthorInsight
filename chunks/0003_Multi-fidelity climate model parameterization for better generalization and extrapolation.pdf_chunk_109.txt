@@ -1,0 +1,10 @@
+model. Chaos (Woodbury, N.Y.) 20, 043105 (2010).
+16. Palmer, T. N. Towards the probabilistic earth-system
+simulator: a vision for the future of climate and weather
+prediction. Q. J. Royal Meteorol. Soc. 138, 841–861
+(2012).
+17. Wang, Y., Zhang, G. J. & Craig, G. C. Stochastic convec-
+tive parameterization improving the simulation of tropical
+precipitation variability in the ncar cam5. Geophys. Res.
+Lett. 43, 6612–6619 (2016).
+18. Davini, P. et al. Climate sphinx: evaluating the impact of

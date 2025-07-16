@@ -1,0 +1,5 @@
+identified.
+When comparing different climates, convolutional variational autoencoders identify two distinct signatures 
+of global warming: (1) an expansion and (at the atmosphere’s boundary layer) an intensification of “Shallow 
+Cumulus” Convection and (2) an intensification and concentration of “Deep Convection” over warm waters. We 
+argue that the first signal contributes to distribution shifts in the enigmatic “Green Cumulus” mode of convection.

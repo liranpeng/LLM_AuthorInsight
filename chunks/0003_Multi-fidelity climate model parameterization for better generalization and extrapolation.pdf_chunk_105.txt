@@ -1,0 +1,11 @@
+Model. Earth Syst. 10, 2548–2563 (2018).
+5. Bolton, T. & Zanna, L. Applications of deep learning
+to ocean data inference and subgrid parameterization. J.
+Adv. Model. Earth Syst. 11, 376–399 (2019).
+6. Ross, A., Li, Z., Perezhogin, P., Fernandez-Granda, C. &
+Zanna, L. Benchmarking of machine learning ocean
+subgrid parameterizations in an idealized model.
+J.
+Adv. Model. Earth Syst. 15, e2022MS003258 (2023).
+E2022MS003258 2022MS003258.
+7. Partee, S. et al. Using machine learning at scale in numer-

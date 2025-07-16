@@ -1,0 +1,8 @@
+tional cost for building Bayesian surrogate models and over-
+come the uncertainty underestimation. RPNs take advan-
+tage of an explicit incorporation of prior knowledge in order
+to improve the model predictions in regions where limited
+or no training data is available58–60. There has been addi-
+tional theoretical studies proving the conservative uncertainty
+obtained with RPNs and their ability to reliably detect out-
+of-distribution samples61. RPNs have also been proven to

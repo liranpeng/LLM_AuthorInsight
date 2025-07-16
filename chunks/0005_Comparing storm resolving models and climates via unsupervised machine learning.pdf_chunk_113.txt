@@ -1,0 +1,19 @@
+≥KL
+
+πA||πB
+=
+K
+
+k=1
+πA
+k log πA
+k
+πB
+k
+.
+Figure 7.   Approximating the KL divergence using vector quantization (VQ) based on K-means clustering, 
+using a variable number of clusters. As discussed in the main paper, VQ lower-bounds the KL and becomes 
+asymptotically exact for large K. We considered the distributional divergence between ICON and the eight other 
+GSRMs. Empirically, the KL approximation seems to saturate at K = 50.
+12
+Vol:.(1234567890)

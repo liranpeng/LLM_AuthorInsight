@@ -1,0 +1,4 @@
+Multi-Model Framework (MMF) that embeds many miniature 2D GSRMs in a host global climate ­model18,19.
+We extract two-dimensional image-like snapshots of the original 3D vertical velocity data (pressure/altitude 
+vs. longitude), which are taken every three hours. We use 285,000 randomly selected samples from each model 
+(160,000 for training, 125,000 for testing), spanning the 15 S–15 N latitude belt and representing diverse tropical

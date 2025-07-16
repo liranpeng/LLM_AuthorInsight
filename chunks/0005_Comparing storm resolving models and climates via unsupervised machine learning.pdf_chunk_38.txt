@@ -1,0 +1,5 @@
+differences among storm-resolving models”, “Dynamic consistency between high-resolution climate models”), 
+we found a split between six similar GSRMs and three divergent GSRMs. Specifically, our analysis revealed that 
+ICON had a lower proportion of shallow convection compared to other GSRMs, SAM contained unusually 
+intense “Deep Convection”, and SPCAM exhibited small scale turbulence with distinct profiles of √
+w′w′ show-

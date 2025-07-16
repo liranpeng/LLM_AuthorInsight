@@ -1,0 +1,8 @@
+MF-RPN model detailed above without any further training.
+Indeed, the low-fidelity network within the MF-RPN model
+(red network in figure 1) already provides predictions for the
+convection parameterization outputs. Hence we can also test
+this LF-RPN model on high-fidelity data points by consider-
+ing the corresponding parameterization inputs. The LF-RPN
+can be seen as a control model whose performance allows
+assessing whether the MF-RPN model is capable of properly

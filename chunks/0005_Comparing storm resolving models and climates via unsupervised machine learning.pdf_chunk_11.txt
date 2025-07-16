@@ -1,0 +1,4 @@
+learning techniques, specifically variational autoencoders (VAEs) and vector quantization, to systematically ana-
+lyze and compare high-resolution climate models. This approach compliments traditional physically informed 
+analysis allowing for a detailed inter-comparison of nine diverse GSRMs informed by the small-scale convective 
+organization unique to these detailed simulations. (2) Our analysis uncovers inconsistencies in the representa-

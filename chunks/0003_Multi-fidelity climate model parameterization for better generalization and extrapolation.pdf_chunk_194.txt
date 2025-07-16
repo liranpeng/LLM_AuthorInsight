@@ -1,0 +1,5 @@
+P = 761 hPa.
+26/27
+Figure 16. Longitude-latitude variation of testing MAE and quantified uncertainty σM at given time instances for
+MF-RPN for heat tendency at vertical level P = 494 hPa. a, on Feb 1st 2003 at 14:00. b, on Feb 6th 2003 at 10:00.
+27/27

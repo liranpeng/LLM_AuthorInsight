@@ -1,0 +1,10 @@
+to represent subgrid processes in climate models. Proc.
+Natl. Acad. Sci. 115, 9684–9689 (2018).
+3. Gentine, P., Pritchard, M., Rasp, S., Reinaudi, G. & Ya-
+calis, G. Could machine learning break the convection
+parameterization deadlock? Geophys. Res. Lett. 45, 5742–
+5751 (2018).
+4. O’Gorman, P. A. & Dwyer, J. G. Using machine learning
+to parameterize moist convection: Potential for modeling
+of climate, climate change, and extreme events. J. Adv.
+Model. Earth Syst. 10, 2548–2563 (2018).

@@ -1,0 +1,4 @@
+making a synthesis of data across DYAMOND data generations ­challenging54.
+To preprocess the input, we follow these steps: we convert the 4D vertical velocity data from the DYAMOND 
+GSRMs into 2D input samples of horizontal width and vertical level. To do this, we extract the 2D instantaneous 
+subsets that are aligned in the pressure-longitude plane. This allows for a direct comparison with the MMF, which

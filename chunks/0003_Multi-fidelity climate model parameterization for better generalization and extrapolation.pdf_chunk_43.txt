@@ -1,0 +1,8 @@
+ics. For most of the vertical levels beyond the two extreme
+ones, MF-RPN is improving upon LF-RPN which in turn is
+outperforming deterministic NN and SF-HF-RPN models. In
+addition, for lowest and highest vertical levels, MF-RPN is im-
+proving upon the deterministic NN and SF-HF-RPN models
+which in turn are outperforming the LF-RPN model. Hence,
+the MF-RPN has the ability to get the best of the both worlds
+by aggregating both datasets of different fidelity levels as (1)

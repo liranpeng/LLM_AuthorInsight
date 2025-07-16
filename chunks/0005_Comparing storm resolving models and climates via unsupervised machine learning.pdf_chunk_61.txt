@@ -1,0 +1,5 @@
+Discussion
+We introduced new methods and metrics to compare high-resolution climate models (global storm-resolving 
+models—GSRMs) based on their very large output data by using unsupervised machine learning. Systemically 
+comparing models and providing an understanding of the effect of climate change in such high-fidelity high-
+resolution simulations has been challenged by their enormous dataset sizes and has limited progress. Our

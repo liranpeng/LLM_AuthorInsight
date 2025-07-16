@@ -1,0 +1,11 @@
+ton, C. S. Interpreting and stabilizing machine-learning
+parameterizations of convection. J. Atmos. Sci. 77, 4357–
+4375 (2020).
+11/27
+27. Han, Y., Zhang, G. J., Huang, X. & Wang, Y. A moist
+physics parameterization based on deep learning. J. Adv.
+Model. Earth Syst. 12, e2020MS002076 (2020).
+28. Ott, J. et al. A fortran-keras deep learning bridge for
+scientific computing. arXiv preprint arXiv:2004.10652
+(2020).
+29. Iglesias-Suarez, F. et al. Causally-informed deep learning

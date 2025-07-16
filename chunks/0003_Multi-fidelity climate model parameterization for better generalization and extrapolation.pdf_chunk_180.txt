@@ -1,0 +1,5 @@
+19/27
+order to be able to have a longitude-latitude visualization. Hence the standard deviation considered always corresponds to the
+inherent one returned by the model and is not estimated by accounting for the temporal variance.
+For the heat tendency, the longitude-latitude structure of the uncertainties returned by LF-RPN and MF-RPN follows
+relatively well the MAE variation in longitude-latitude directions with higher values around the tropics for both metrics and also

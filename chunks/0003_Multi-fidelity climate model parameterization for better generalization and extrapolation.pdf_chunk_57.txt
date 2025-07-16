@@ -1,0 +1,9 @@
+pronounced improvement in these regions within the strato-
+sphere (figure 4.a). Compared to the LF-RPN, the MF-RPN
+model improves the heat tendency parameterization results
+for the south pole across nearly all pressure levels, while it
+under-performs in the north pole for vertical levels below
+300 hPa.
+For the moisture tendency, the SF-HF-RPN still shows
+some improvement compared to the deterministic NN model,
+mostly within the southern temperate zone (figure 4.b). The

@@ -1,0 +1,10 @@
+Transactions Royal Soc. A: Math. Phys. Eng. Sci. 379,
+20200093 (2021).
+10. Zanna, L. & Bolton, T. Deep Learning of Unresolved
+Turbulent Ocean Processes in Climate Models, chap. 20,
+298–306 (John Wiley & Sons, Ltd, 2021).
+11. Sonnewald, M. et al. Bridging observations, theory and
+numerical simulation of the ocean using machine learning.
+Environ. Res. Lett. 16, 073008 (2021).
+12. Lorenz, E. Predictability: a problem partly solved. In
+Seminar on Predictability, 4-8 September 1995, vol. 1, 1–

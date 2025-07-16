@@ -1,0 +1,5 @@
+common encoder model, we visualize the PDF of each GSRM test dataset, providing valuable insights into the 
+intricacies of their respective data distributions.
+Figure 5a shows nine resulting PDFs, where the red lines corresponding to ICON, SPCAM, and SAM have 
+different distributions than the (blue lines denoting the) other six GSRMs. Specifically, the ELBO PDFs of ICON, 
+SPCAM, and SAM are more right-skewed and less symmetric, confirming our earlier findings of a “majority”

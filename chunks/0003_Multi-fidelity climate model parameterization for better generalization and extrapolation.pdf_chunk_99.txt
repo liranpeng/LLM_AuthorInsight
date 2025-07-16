@@ -1,0 +1,10 @@
+concatenated across time and longitude dimension. Hence,
+for these plots, each pressure level corresponds to a specific
+paramterization output variable, and each point in latitude has
+a single error metric evaluation for each pressure level. For the
+temporal error evaluation, D corresponds to the test dataset
+concatenated across longitude and latitude dimensions.
+Coefficient of Determination (R2):
+R2 = 1−∑i∈D(yi −ˆyi)2
+∑i∈D(yi −¯y)2
+(3)

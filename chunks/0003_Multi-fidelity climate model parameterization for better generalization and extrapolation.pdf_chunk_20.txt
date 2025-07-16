@@ -1,0 +1,8 @@
+latent heat flux and surface sensible heat flux (figure 1).
+The parameterization output is the subgrid-scale convec-
+tive tendency of temperature, or heat tendency for short, and
+the subgrid-scale convective tendency of specific humidity
+throughout the column, or moisture tendency for short (fig-
+ure 1). This tendency definition accounts for the sub-grid
+advection of temperature and moisture by convection and fine-
+scale turbulence, as well as for the effect of radiative heating

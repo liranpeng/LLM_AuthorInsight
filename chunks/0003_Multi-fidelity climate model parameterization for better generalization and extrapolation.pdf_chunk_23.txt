@@ -1,0 +1,9 @@
+convection, introducing more physical approximations com-
+pared to SPCAM5, which resolves deep convection. In addi-
+tion, radiation in CAM5 is estimated every 2 time-steps, while
+the radiation is estimated every 1 time-step for SPCAM5 by
+default. Therefore, CAM5 is a good candidate for a low-
+fidelity model of SPCAM5, as it is computationally cheaper
+but also less accurate. For all CAM5 and SPCAM5 simula-
+tions, the cosine of the solar zenith angle is estimated as a
+2/27

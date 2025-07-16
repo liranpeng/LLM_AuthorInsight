@@ -1,0 +1,9 @@
+as a stochasticity-aware surrogate model.
+For the moisture tendency, the overall performance of all
+models for almost all vertical levels is lower in terms of R2
+compared to the results obtained for the heat tendency (fig-
+ure 2). This result can be mainly attributed to the higher
+stochasticity of humidity and precipitation compared to the
+temperature. The MF-RPN model is the best performing
+model for all pressure levels except for the 188hPa vertical
+4/27

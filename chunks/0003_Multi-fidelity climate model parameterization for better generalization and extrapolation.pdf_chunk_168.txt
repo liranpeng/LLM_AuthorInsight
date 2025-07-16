@@ -1,0 +1,4 @@
+different vertical levels. In coherence with the global errors and spatial structures of different error metrics, the MF-RPN
+is the best performing model across all testing period and different vertical levels, followed by the LF-RPN model. The
+errors temporal variations show a better performance for the SF-HF-RPN model compared to the deterministic NN. only
+for the vertical level 761 hPa, while the deterministic NN. outperforms the SF-HF-RPN model for vertical levels 259 and

@@ -1,0 +1,3 @@
+accurate climate projections without requiring major increase in computational resources. Our multi-fidelity randomized prior
+networks (MF-RPNs) combine physical parameterization data as low-fidelity and storm-resolving historical run’s data as
+high-fidelity. To extrapolate beyond the training data, the MF-RPNs are tested on high-fidelity warming scenarios, +4K, data.

@@ -1,0 +1,4 @@
+as a superparameterization of physical processes. J. Atmos. Sci. 62(7), 2136–2154. https://​doi.​org/​10.​1175/​JAS34​53.1 (2005).
+	21.	 Kingma, D. P. & Welling, M. Auto-encoding variational bayes. arXiv:​abs/​1312.​6114 [CoRR] (2014).
+	22.	 Alemi, A. A., Poole, B., Fischer, I. S., Dillon, J. V., Saurous. R. A., & Murphy, K. Fixing a broken elbo. In ICML (2018).
+	23.	 Tulich, S. N., Randall, D. A. & Mapes, B. E. Vertical-mode and cloud decomposition of large-scale convectively coupled gravity

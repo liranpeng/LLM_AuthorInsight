@@ -1,0 +1,10 @@
+arXiv:1912.02757v2 (2019).
+54. Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I.
+& Salakhutdinov, R. Dropout: A simple way to prevent
+neural networks from overfitting. J. Mach. Learn. Res.
+15, 1929–1958 (2014).
+55. Gal, Y. & Ghahramani, Z. Dropout as a bayesian ap-
+proximation: Representing model uncertainty in deep
+learning. In Balcan, M. F. & Weinberger, K. Q. (eds.)
+Proceedings of The 33rd International Conference on
+Machine Learning, vol. 48 of Proceedings of Machine

@@ -1,0 +1,5 @@
+K and calculate its Pearson correlation ­coefficient67 with the table of KL divergences at K + 1 . This process yields 
+15 unique Pearson correlation coefficients, which are then averaged. The summarized outcomes are presented 
+in Fig. 8.
+The analysis reveals that the VAE approach exhibits the highest level of robustness for an approximation of 
+the true KL Divergence, showing a rapid convergence towards a correlation coefficient of nearly 1 as K increases.

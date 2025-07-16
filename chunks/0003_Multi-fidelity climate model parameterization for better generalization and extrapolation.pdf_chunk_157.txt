@@ -1,0 +1,6 @@
+moisture one.
+Pressure-latitude errors structure
+Based on the data distribution of moisture tendency for the lowest vertical level at 958 hPa (figure 9.b), it is quite obvious that
+for this particular level, the low-fidelity training data of CAM5 +8K simulation is not informative on the extrapolation scenario
+16/27
+Figure 7. Longitude-latitude variation of MAE and R2 for moisture tendency at different vertical levels. R2 is evaluated

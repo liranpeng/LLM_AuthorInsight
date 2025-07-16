@@ -1,0 +1,5 @@
+65.	 Kurihana, T., Moyer, E., Willett, R., Gilton, D., & Foster, I. Data-driven cloud clustering via a rotationally invariant autoencoder 
+(2021).
+	66.	 Duchi, J. Lecture notes for statistics 311/electrical engineering 377. Stanford 2, 23 (2016).
+	67.	 Student. Probable error of a correlation coefficient. Biometrika, 6(2/3):302–310 (1908). http://​www.​jstor.​org/​stable/​23314​74.
+	68.	 Van Rossum, G. & Drake, F. L. Python 3 Reference Manual (CreateSpace, 2009).

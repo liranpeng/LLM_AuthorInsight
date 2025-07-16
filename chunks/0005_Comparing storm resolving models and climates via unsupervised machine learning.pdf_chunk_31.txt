@@ -1,0 +1,6 @@
+learning ­literature25, such shifts occur in various contexts (e.g., changing lighting conditions in videos, medical 
+data from different hospitals, etc.) and are usually associated with a degradation of the trained classifier. In 
+contrast, we consider an unsupervised version of distribution shift assessment and use it to assess similarities 
+between simulation data sets.
+ELBO scores
+To initiate this comparison, we turn our attention to the VAE’s training objective, the Evidence Lower Bound

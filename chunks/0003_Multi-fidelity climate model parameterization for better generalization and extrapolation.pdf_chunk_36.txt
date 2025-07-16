@@ -1,0 +1,8 @@
+tion, the chosen architecture naturally accommodates outputs
+of different dimensions for different fidelity levels. In the
+case of inputs of different dimensions for different fidelity
+levels, an additional neural network can be added in order to
+infer the mapping between the different inputs. Besides, the
+chosen architecture naturally ensures uncertainty propagation
+between different fidelity levels since low-fidelity predictions
+are directly fed as inputs for the high-fidelity model within

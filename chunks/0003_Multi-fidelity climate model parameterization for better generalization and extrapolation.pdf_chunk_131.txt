@@ -1,0 +1,10 @@
+International Conference on Artificial Intelligence and
+Statistics, vol. 9 of Proceedings of Machine Learning Re-
+search, 249–256 (PMLR, Chia Laguna Resort, Sardinia,
+Italy, 2010).
+70. Kwa, A. et al. Machine-learned climate model corrections
+from a global storm-resolving model. arXiv preprint
+arXiv:2211.11820 (2022).
+71. Watt-Meyer, O. et al. Correcting weather and climate
+models by machine learning nudged historical simula-
+tions. Geophys. Res. Lett. 48, e2021GL092555 (2021).

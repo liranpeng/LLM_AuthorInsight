@@ -1,0 +1,5 @@
+In a nutshell, K-means clustering alternates between assigning the (dimensionality-reduced) data points zi 
+to K cluster centers µk based on euclidean distance, and updating the cluster locations µk (setting them to the 
+mean of the assigned data). To formalize the algorithm, one frequently defines the cluster assignment variables 
+mi ∈{1, . . . , K} , indicating which cluster data point zi belongs to. A measure of convergence is the inertia, 
+I = N

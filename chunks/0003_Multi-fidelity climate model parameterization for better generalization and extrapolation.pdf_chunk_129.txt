@@ -1,0 +1,9 @@
+65. Randall, D., Khairoutdinov, M., Arakawa, A. &
+Grabowski, W. Breaking the cloud parameterization dead-
+lock. Bull. Am. Meteorol. Soc. 84, 1547 – 1564, DOI:
+https://doi.org/10.1175/BAMS-84-11-1547 (2003).
+66. Iacono, M. J. et al. Radiative forcing by long-lived green-
+house gases: Calculations with the aer radiative transfer
+models. J. Geophys. Res. Atmospheres 113 (2008).
+67. Mlawer, E. J., Taubman, S. J., Brown, P. D., Iacono, M. J.
+& Clough, S. A. Radiative transfer for inhomogeneous

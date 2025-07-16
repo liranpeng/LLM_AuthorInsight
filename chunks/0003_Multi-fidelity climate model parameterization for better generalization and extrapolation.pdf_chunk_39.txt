@@ -1,0 +1,8 @@
+aggregating both datasets to well generalize beyond the train-
+ing data. If both models performance are similar, then the
+MF-RPN improvement would solely be due to being trained
+on the abundant low-fidelity data for a warmer climate and
+with a full seasonal cycle. However, if the MF-RPN results
+improves upon the LF-RPN ones, then it would justify that
+the MF-RPN model is well capable of merging both train-
+ing datasets, including the scarce but more physically sound

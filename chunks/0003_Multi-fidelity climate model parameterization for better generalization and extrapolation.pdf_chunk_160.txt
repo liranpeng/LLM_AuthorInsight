@@ -1,0 +1,5 @@
+vertical level 958 hPa (figure 9.a).
+Temporal errors structure
+Figure 10 shows the temporal variations of testing MAE and R2 for heat tendency and different surrogate models at different
+vertical levels. In coherence with the global errors and spatial structures of different error metrics, the MF-RPN is the best
+performing model across all testing period and different vertical levels, followed by the LF-RPN model. The errors temporal

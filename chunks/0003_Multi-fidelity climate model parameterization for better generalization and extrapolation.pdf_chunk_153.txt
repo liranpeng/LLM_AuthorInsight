@@ -1,0 +1,4 @@
+the South-East Pacific region, south Atlantic ocean and the African Sahara (figure 8.b). In these regions, the LF-RPN model
+returns overall positive R2 values, while the MF-RPN fails to do so. This result suggests that the LF-RPN model is better at
+approximating shallow convection, while the MF-RPN model does a better job at learning deep convection. The difference in
+behavior can be attributed to the different datasets on which these two models have been trained since the LF-RPN is only

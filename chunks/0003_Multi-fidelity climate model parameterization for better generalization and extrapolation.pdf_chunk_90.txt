@@ -1,0 +1,8 @@
+between the training and testing high-fidelity data, based only
+on information of the computationally cheaper but valuable
+(for extrapolation) low-fidelity training data. Distributions
+of the normalized test data using statistics from CAM5 +8K
+and SPCAM5 historical runs confirm the physically-based
+motivation of using the former dataset for MF-RPN normal-
+ization as detailed above (table 1). Indeed, the normalized
+test data based on the CAM5 +8K statistics shows variables

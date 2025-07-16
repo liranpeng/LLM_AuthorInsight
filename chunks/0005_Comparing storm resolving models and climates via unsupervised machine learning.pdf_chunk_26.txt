@@ -1,0 +1,5 @@
+convection (green) (Fig. 4).
+Qualitative model intercomparison
+Inspecting the dimensionality-reduced data along with the learned latent clustering and spatial visualization 
+(Fig. 4) gives unique qualitative insights into commonalities and differences across GSRMs. While most GSRMs 
+share similar distributions in the latent space, Fig. 3 reveals that the SPCAM and SAM models show systematic

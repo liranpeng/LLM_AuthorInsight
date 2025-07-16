@@ -1,0 +1,4 @@
+to a normalized range between 0 and 1. We do this consistently across all samples using the range measured 
+across the entire dataset. To ensure uniform structure across all samples, we interpolate the input images onto a 
+standardized vertical (pressure) and horizontal grid. This is necessary to account for differences in the GSRMs’ 
+respective grid structures when performing pairwise comparisons.

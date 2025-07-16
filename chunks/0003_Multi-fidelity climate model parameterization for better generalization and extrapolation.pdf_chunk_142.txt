@@ -1,0 +1,4 @@
+same numerical ensemble technique of RPN. Nonetheless, the uncertainty quantification returned by these different RPN-based
+models are quite different and do not vary similarly as a function of the actual error (see Uncertainty quantification).
+Figure 6. R2 and CRPS for different models across all test data points concatenated over space and time. Y-axes of R2
+plots are limited to [0,1] for clarity purposes. Negative R2 values are indicated below the plot with a 60◦clockwise rotation and

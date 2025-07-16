@@ -1,0 +1,5 @@
+(KL) divergence. See “Methods” for technical details. Using this approach, we present a matrix of pairwise simi-
+larities among the nine GSRMs (Fig. 5b–g).
+Figure 5g shows the results of the analysis, where a dark red indicates a high distance between models. We 
+make two observations: firstly, three GSRMs (SAM, SPCAM, and ICON) exhibit a significant dissimilarity with 
+respect to each other and with the rest of the models. Secondly, a group of “similar” models (GEM, UM, NICAM,

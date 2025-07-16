@@ -1,0 +1,18 @@
+zation for SPCAM530. In particular, individual Multi-Layer
+Perceptrons (MLPs) forming the RPN were considered as
+fully connected neural networks with 7 hidden layers, each
+9/27
+CAM5 +8K statistics
+SPCAM5 historical run statistics
+Mean of relative humidity
+-0.33
+1.96
+Std. dev. of relative humidity
+0.61
+2.79
+Mean of heat tendency
+0.01
+-0.006
+Std. dev. of heat tendency
+0.94
+1.21

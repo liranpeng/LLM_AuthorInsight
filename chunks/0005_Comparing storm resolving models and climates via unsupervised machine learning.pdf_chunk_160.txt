@@ -1,0 +1,4 @@
+opment program area. This work was also supported by gifts from Intel, Disney, and Qualcomm. We further 
+acknowledge funding from NSF Science and Technology Center LEAP (Learning the Earth with Artificial Intel-
+ligence and Physics) award 2019625. Computational resources were provided by the Extreme Science and Engi-
+neering Discovery Environment supported by NSF Division of Advanced Cyberinfrastructure Grant number

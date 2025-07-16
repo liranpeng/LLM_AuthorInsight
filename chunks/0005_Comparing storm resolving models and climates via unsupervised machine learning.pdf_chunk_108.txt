@@ -1,0 +1,9 @@
+computed.
+In more detail, we perform a K-means clustering on the union of both data sets. We then define the cluster 
+frequencies or cluster proportions as the fraction of the data claimed by each cluster k: πk = 1
+N
+N
+i=1 δ(mi, k) , 
+where δ denotes the Kronecker delta. By construction, K
+k=1 πk = 1 are normalized probabilities.
+By increasing the number of clusters (making enough bins), we can quantize continuous distributions into

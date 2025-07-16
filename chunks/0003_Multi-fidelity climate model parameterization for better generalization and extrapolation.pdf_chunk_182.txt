@@ -1,0 +1,4 @@
+uncertainty in the tropics and temperate zone for the vertical level 259 hPa (figure 15.a), while it underestimates the uncertainty
+in the same regions for the vertical level 761 hPa (figure 15.c).
+For the moisture tendency, there is also a good agreement between the longitude-latitude structures of the uncertainty and
+of the MAE returned by the MF-RPN and LF-RPN models for the vertical level at 259 hPa (figures 13.d and 14.d). For the

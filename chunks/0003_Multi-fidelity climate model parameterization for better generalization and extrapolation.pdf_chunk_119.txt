@@ -1,0 +1,10 @@
+rithms for data-efficient multi-fidelity modelling. Proc.
+Royal Soc. A: Math. Phys. Eng. Sci. 473, 20160751
+(2017).
+42. Meng, X., Babaee, H. & Karniadakis, G. E. Multi-fidelity
+bayesian neural networks: Algorithms and applications.
+J. Comput. Phys. 438, 110361 (2021).
+43. Chen, C., Zuo, Y., Ye, W., Li, X. & Ong, S. P. Learning
+properties of ordered and disordered materials from multi-
+fidelity data. Nat. Comput. Sci. 1, 46–53 (2021).
+44. Liu, D. & Wang, Y. Multi-Fidelity Physics-Constrained

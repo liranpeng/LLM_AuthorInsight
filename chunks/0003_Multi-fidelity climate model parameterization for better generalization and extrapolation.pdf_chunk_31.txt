@@ -1,0 +1,9 @@
+RPN trained only on the HF data and will be referred to as SF-
+HF-RPN. Hyperparameters of individual neural networks did
+not need to be tuned from scratch. They were instead chosen
+based on the hyperparameter optimization over ∼250 trials
+conducted in Mooers et al.’s study on fully-connected neural
+network convection superparameterization for SPCAM530
+(Methods). RPN ensembles of 128 networks were considered
+as justified in Yang et al.68.
+Deterministic neural network

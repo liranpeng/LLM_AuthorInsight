@@ -1,0 +1,9 @@
+datasets aggregation.
+The LF-RPN is outperforming the determinisitic NN. and
+SF-HF-RPN models except within the stratosphere (where
+convection is absent anyways) and for pressure levels close
+to the surface (figure 2.b). This result confirms that within
+the highest and lowest vertical levels, historical SPCAM5
+simulation dynamics are closer to those of SPCAM5 +4K run,
+while beyond them CAM5 +8K simulation provides a better
+approximate of SPCAM5 +4K run dynamics. Finally, for

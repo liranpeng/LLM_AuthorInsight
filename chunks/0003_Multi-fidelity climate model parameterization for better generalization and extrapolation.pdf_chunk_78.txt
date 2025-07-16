@@ -1,0 +1,8 @@
+for the CAM5 +8K specific humidity across all pressure lev-
+els considered compared to the CAM5 +4K dataset (figure 5).
+Hence CAM5 +8K provides a broader extrapolation regime
+due to the increased holding capacity of moisture in the at-
+mosphere with climate change (Clausius-Clapeyron). CAM5
++8K also provides a clearer extrapolation for the heating ten-
+dency than CAM5 +4K when compared to the high-fidelity
+SPCAM5 historical run simulation (figure 5). Based on the

@@ -1,0 +1,5 @@
+cloud-climate ­feedback4,11–13.
+One of the biggest challenges with understanding those simulations’ output is the massive amount of high-
+resolution data produced. This can quickly become overwhelming, as seen in the first inter-comparison study of 
+Global Storm-Resolving Models (GSRMs), the DYAMOND ­project4. For just 40 days of hourly simulation out-
+put, nearly two petabytes per GSRM were generated. This means that storing the data is a significant hurdle and

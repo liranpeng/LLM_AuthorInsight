@@ -1,0 +1,4 @@
+vertical velocity profiles, we can also identify geographic regions that are most affected by climate change.
+In order to investigate the geographic effects of global warming on convection and specific regions where 
+convection undergoes the most significant changes, we build on the methods described in “Latent space inquiry 
+uncovers differences among storm-resolving models” by first learning global convection clusters and initializing

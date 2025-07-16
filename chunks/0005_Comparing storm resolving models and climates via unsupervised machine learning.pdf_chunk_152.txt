@@ -1,0 +1,4 @@
+org/​10.​1002/​qj.​3468 (2019).
+	57.	 Higgins, I., Matthey, L., Pal, A., Burgess, C., Glorot, X., Botvinick, M. M, Mohamed, S., & Lerchner, A. beta-vae: Learning basic 
+visual concepts with a constrained variational framework. In ICLR (2017).
+	58.	 Alemi, A., Fischer, I., Dillon, J., & Murphy, K. Deep variational information bottleneck. In ICLR (2017). arXiv:​1612.​00410.

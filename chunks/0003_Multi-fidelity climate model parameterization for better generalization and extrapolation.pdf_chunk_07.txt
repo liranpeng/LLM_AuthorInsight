@@ -1,0 +1,8 @@
+tainty, as it can be important to correctly predict the prediction
+variability16–25.
+Along with the development of recent climate parameteriza-
+tion schemes, various climate simulation data have been made
+available. However, most of these were built with simple aqua-
+planets2,3,26–29 and those that considered real geography30,31
+did not include enough variables for a complete land-surface
+coupling. Hence, there is a wealth of relatively low-fidelity

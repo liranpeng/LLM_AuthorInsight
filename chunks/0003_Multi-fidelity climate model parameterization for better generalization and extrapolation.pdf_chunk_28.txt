@@ -1,0 +1,10 @@
+warming, the test dataset also extrapolates to unseen phases
+of the SPCAM5 seasonal cycle.
+Surrogat models
+We provide description of the four surrogate models that are
+built for the CAM5/SPCAM5 convection superparameteriza-
+tion.
+Single-fidelity Randomized Prior Networks
+In this work, Bayesian models are constructed using an en-
+semble method called Randomized Prior Networks (RPNs)58.
+Each member of the RPNs is built as the sum of a trainable

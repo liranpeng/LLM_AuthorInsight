@@ -1,0 +1,5 @@
+isolated; rather, our clustering can be thought of as a partitioning (or a Voronoi tessellation) of the latent space 
+into semantically similar regions.
+In order to identify the optimal number of cluster centroids in our analysis, we adopt a qualitative approach 
+that takes into account our domain knowledge. Instead of relying on conventional methods such as the Silhouette 
+­Coefficient62 or the Davies–Bouldin ­Index63, we define a “unique cluster” as a group of convection in the latent

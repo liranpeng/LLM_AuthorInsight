@@ -1,0 +1,5 @@
+Movie 1.
+Understanding convection via vertical structure
+To analyze the dominant vertical structure of convection, we calculate the horizontal variance of vertical velocity 
+within each image. For this, we compute the horizontal mean wi separately at each vertical level (Note this is 
+done over a 2D field at each grid cell, not globally, so wi is not equal to 0), and then subtract it to create the

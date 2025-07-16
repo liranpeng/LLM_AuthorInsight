@@ -1,0 +1,4 @@
+results, we calculate symmetrized KL divergence between models from three different approaches: VAE, PCA, 
+and pixel space (Pure K-means clustering on the full vertical velocity field) analysis. These tests involve compar-
+ing models generated from K = 2 to K = 50 , with 15 unique trials conducted at each K.
+To evaluate the variation in results for each K, we flatten the table of symmetrized KL divergences at a given

@@ -1,0 +1,8 @@
+outperform HMC methods, variational inference techniques
+and dropout as a Bayesian approximation in the context of
+complex sequential decision making tasks56,61. The RPNs
+improvement is mainly driven by their parallelizable imple-
+mentation resulting in a significantly lower computational cost
+and the possibility of building Bayesian surrogate models for
+complex and large neural network architectures.
+Extending on previous deterministic neural network param-

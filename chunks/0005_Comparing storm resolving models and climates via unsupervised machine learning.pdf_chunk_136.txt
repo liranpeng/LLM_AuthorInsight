@@ -1,0 +1,5 @@
+88-​Paper.​pdf.
+	26.	 Schonlau, M. The clustergram: A graph for visualizing hierarchical and nonhierarchical cluster analyses. Stand. Genom. Sci. 2(4), 
+391–402. https://​doi.​org/​10.​1177/​15368​67X02​00200​405 (2002).
+	27.	 Gray, R. Vector quantization. IEEE Assp Mag. 1(2), 4–29 (1984).
+	28.	 Yibo, Y., Stephan, M., & Lucas, T. An introduction to neural data compression. arxiv:​2202.​06533. (2022)

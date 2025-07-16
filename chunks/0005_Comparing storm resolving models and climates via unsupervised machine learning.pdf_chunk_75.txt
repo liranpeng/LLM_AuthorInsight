@@ -1,0 +1,4 @@
+uses 2D LRSMs aligned in the same way. We restrict our data sampling to the tropical latitudes between 15◦ S 
+and 15◦ N during boreal winter. This results in a dataset of 160,000 training sample images that is large enough 
+to capture the diverse spatial-temporal patterns of tropical weather, turbulence, and cloud regimes.
+We normalize the input values by scaling each pixel’s original velocity value in meters per second (m/s)

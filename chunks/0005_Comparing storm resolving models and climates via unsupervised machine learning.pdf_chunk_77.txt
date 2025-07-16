@@ -1,0 +1,4 @@
+Figure 1.   An overview of our machine learning based approach. We extract 2D vertical velocity fields from 
+GSRM’s across the tropics. We use a variational autoencoder to reduce these high dimensional vertical velocity 
+fields to low dimensional latent representations for analysis. Clustering of these latent representations reveals 
+three unique regimes of tropical convection. We can compare the “Distance” between these GSRMs by looking

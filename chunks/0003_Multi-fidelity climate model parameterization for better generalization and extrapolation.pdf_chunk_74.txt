@@ -1,0 +1,8 @@
+96 in latitude and 144 in longitude). The vertical resolution
+varies from ≈150 m to ≈5300 m. The ESM time step is 30
+min and a temporal sub-sampling by a factor of 2 is performed
+(to reduce the overly correlated training data), resulting in a
+final training dataset of roughly 29.5 M points.
+For the high-fidelity SPCAM5 testing data, the correspond-
+ing temporal and spatial resolutions, model spin-up and tem-
+poral sub-sampling are the same as detailed above for the

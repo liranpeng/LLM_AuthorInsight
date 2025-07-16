@@ -1,0 +1,5 @@
+our study, we utilize the KL divergence as a measure of distance between the distribution of convective features 
+within our model and a reference distribution (Fig. 1).
+The KL divergence is always non-negative and becomes zero only when two distributions 
+match. For any two continuous distributions pA(x) and pB(x) , the KL divergence is defined as 
+KL(pA||pB) = EpA(x)[log pA(x) −log pB(x)] . However, if both distributions are only available in the form of

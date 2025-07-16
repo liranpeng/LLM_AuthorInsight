@@ -1,0 +1,4 @@
+Investigating the instantaneous variations (at the hourly time-step defining the testing data) of the MAE and returned
+uncertainty by the MF-RPN model also shows a nearly perfect agreement (figure 16). For instance, on February 1st 2003
+at 14:00, all regions of high MAE values (south Atlantic ocean; south America; Pacific ocean; Australia and tropics within
+Africa and Indian ocean) are nearly perfectly replicated by the returned uncertainty σM by MF-RPN (figure 16.a). The same

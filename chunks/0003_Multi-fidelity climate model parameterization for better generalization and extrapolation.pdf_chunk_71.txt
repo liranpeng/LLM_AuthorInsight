@@ -1,0 +1,9 @@
+CRM columns and 25 CRM vertical levels.
+For SPCAM5 training and testing datasets considered, the
+first 4 vertical levels starting form Top Of the Atmosphere
+(TOA) show all zero values for the moisture tendency across
+all earth and for the whole simulations time periods. There-
+fore, the first 4 vertical levels starting form TOA have been
+discarded for the moisture tendency in the parameterization
+problem, and coherently for the specific humidity.
+Datasets

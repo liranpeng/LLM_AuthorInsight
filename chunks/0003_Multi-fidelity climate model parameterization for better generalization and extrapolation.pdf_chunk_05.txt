@@ -1,0 +1,9 @@
+Introduction
+Due to limited computational resources and the many scales
+required in climate or turbulent simulations, unresolved sub-
+grid processes are approximated through parameterization
+schemes, or closures in numerical models. Parameterizations
+serve as approximate representations of small-scale processes
+and are the most dominant source of uncertainty in models
+predictions. To reduce these structural closures errors and
+uncertainties, several recent pieces of work have proposed

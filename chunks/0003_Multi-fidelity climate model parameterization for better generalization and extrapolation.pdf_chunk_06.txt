@@ -1,0 +1,8 @@
+machine-learning based parameterizations, which have been
+shown to dramatically improve the representation of physical
+processes and strongly reduce structural errors compared to
+standard schemes1–11. Another source of uncertainty stems
+from the inherent stochastic nature of many physical sub-
+grid processes in nature, such as turbulence or cloud micro-
+physics12–15. Stochastic parameterization schemes have been
+proposed to better characterize this latter source of uncer-

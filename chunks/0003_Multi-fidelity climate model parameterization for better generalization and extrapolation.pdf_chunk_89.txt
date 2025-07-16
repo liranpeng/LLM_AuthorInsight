@@ -1,0 +1,8 @@
+mate is more critical than the data accuracy. In this work, all
+data are normalized to unit normal distribution. Hence, MF-
+RPN’s inputs and outputs are normalized with respect to the
+mean and standard deviation of the CAM5 +8K simulation
+dataset. This normalization applies to the high-fidelity train-
+ing data: SPCAM5 historical run, and also to the low-fidelity
+training data: CAM5 +8K run. The chosen normalization
+helps the MF-RPN model account for the distribution shift

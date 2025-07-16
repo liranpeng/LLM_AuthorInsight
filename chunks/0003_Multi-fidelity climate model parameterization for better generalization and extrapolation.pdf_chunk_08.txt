@@ -1,0 +1,8 @@
+climate simulation data that is available to build climate pa-
+rameterization schemes, while high-fidelity datasets based
+on high-resolution and/or multi-scale climate simulations are
+rare. Therefore, there is a clear need to investigate the possi-
+bility of building schemes that take advantage of the abundant
+low-fidelity data in order to improve high-fidelity parameteri-
+zations. In addition, although several machine learning-based
+methods have been successfully developed in order to pa-

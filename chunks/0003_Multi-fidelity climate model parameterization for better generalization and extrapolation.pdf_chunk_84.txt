@@ -1,0 +1,9 @@
+mapping between high-fidelity parameterization inputs and
+outputs.
+Another important aspect regarding the chosen architecture
+of the MF-RPN model is the uncertainty propagation across
+fidelity levels. Once properly trained, any uncertainty in the
+paramterization input is propagated to the corresponding low-
+fidelity parameterization output via the low-fidelity RPN (red
+network in figure 1). These low-fidelity predictions are di-
+rectly taken as inputs for the second ensemble (blue network in

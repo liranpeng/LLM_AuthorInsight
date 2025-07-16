@@ -1,0 +1,6 @@
+www.nature.com/scientificreports/
+We can use this information to colorize the vertical velocity samples in the latent space, as shown in Figs. 3 
+and S7.
+Variational autoencoders
+Variational autoencoders (VAEs) are widely-used latent-variable models for high-dimensional density estimation 
+and non-linear dimensionality ­reduction21. VAEs differ from regular autoencoders in that (1) both encoders

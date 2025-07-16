@@ -1,0 +1,9 @@
+model is intrinsically capable of estimating its predictions ac-
+curacy across different test data points. We also verify that the
+longitude-latitude structure of the uncertainty well matches
+with the longitude-latitude variation of the predictions error,
+with the highest values being observed around the tropics
+where the inherent stochasticity of convection is the highest
+compared to other regions (figure 13).
+Discussion
+Extrapolation beyond training datasets is a long-standing prob-

@@ -1,0 +1,5 @@
+are trained on an SPCAM5 historical run simulation from February 1st 2003 to April 31st 2003, while the LF-RPN is trained
+(jointly to the MF-RPN training) on a CAM5 +8K simulation from February 1st 2003 to January 31st 2004. The MF-RPN
+model is trained on both datasets. The test dataset corresponds to an SPCAM5 +4K run simulation from February 1st 2003
+to January 31st 2004. However, the temporal variations of the SF-HF-RPN and deterministic NN. testing errors show poor
+17/27

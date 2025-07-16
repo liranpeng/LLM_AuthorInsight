@@ -1,0 +1,10 @@
+distributions that are closer to the unit normal one which is
+the ideal distribution to train the ML-based MF-RPN model
+on.
+RPNs’ individual networks hyperparamters and train-
+ing
+Hyperparameters of individual neural networks forming differ-
+ent RPNs models did not need to be tuned from scratch, and
+were instead chosen based on the hyperparameter optimiza-
+tion over ∼250 trials conducted in Mooers et al.’s study on
+fully-connected neural network convection superparameteri-

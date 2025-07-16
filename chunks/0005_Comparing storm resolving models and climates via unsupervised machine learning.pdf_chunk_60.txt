@@ -1,0 +1,5 @@
+two trends as the climate changes: (1) “Green Cumuli” will become more frequent over larger swaths of semi-
+arid continents in the future and (2) when “Green Cumuli” occur, they will be even more intense. Unsupervised 
+machine learning models here proved capable of isolating rare-event “Green Cumuli” and capturing its climate 
+change signals, synthesizing dynamic analysis and allowing new discovery.
+Discussion

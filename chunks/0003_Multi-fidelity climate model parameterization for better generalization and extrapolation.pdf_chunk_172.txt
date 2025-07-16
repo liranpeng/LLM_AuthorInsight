@@ -1,0 +1,5 @@
+convection parameterization confirm that it is not straightforward to draw conclusions on the seasonality effect on these models
+performance.
+Uncertainty quantification
+In addition to the deterministic and statistical error metrics, we compare the performance of different Bayesian surrogate models
+with respect to the returned uncertainty quantification. For a given input x, each of the RPN-based models returns an ensemble

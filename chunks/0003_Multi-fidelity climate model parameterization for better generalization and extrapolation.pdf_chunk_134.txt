@@ -1,0 +1,10 @@
+’96. Chaos: An Interdiscip. J. Nonlinear Sci. 33, 073116
+(2023).
+78. Zhang, Y. & Chen, H. Comparing cam5 and superpa-
+rameterized cam5 simulations of summer precipitation
+13/27
+characteristics over continental east asia: Mean state,
+frequency-intensity relationship, diurnal cycle, and influ-
+encing factors. J. Clim. 29, 1067–1089 (2016).
+79. Morrison, H. & Gettelman, A. A new two-moment bulk
+stratiform cloud microphysics scheme in the community

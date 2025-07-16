@@ -1,0 +1,8 @@
+best model except for the the 137 and 160hPa vertical levels.
+Except for the lowest and highest vertical levels, LF-RPN is
+outperforming both deterministic NN and SF-HF-RPN models
+(figure 2.a). Hence, for these two levels, historical SPCAM5
+simulations are closer to those of SPCAM5 +4K run. How-
+ever, for any other vertical level except the first one at TOA
+and the closest one to sea surface, CAM5 +8K simulation
+provides a better approximate of SPCAM5 +4K run dynam-

@@ -1,0 +1,12 @@
+Syst. 14, e2022MS003130 (2022).
+63. Yu, S. et al.
+Climsim: An open large-scale dataset
+for training high-resolution physics emulators in hy-
+brid multi-scale climate simulators.
+arXiv preprint
+arXiv:2306.08754 (2023).
+64. Grabowski, W. W. Coupling cloud processes with the
+large-scale dynamics using the cloud-resolving convec-
+tion parameterization (crcp). J. Atmospheric Sci. 58, 978
+– 997 (2001).
+65. Randall, D., Khairoutdinov, M., Arakawa, A. &

@@ -1,0 +1,4 @@
+the error grows (figures 12.a - 12.c). For instance, for the vertical level P = 259 hPa, the LF-RPN and SF-HF-RPN density
+plots clearly show narrow red regions where the returned uncertainty does not vary much compared to the error, unlike the
+MF-RPN’s estimated uncertainty (figure 12.a).
+For the moisture tendency, the MF-RPN’s uncertainty still displays a more increasing behavior with the error compared to

@@ -1,0 +1,8 @@
+historical run. The testing dataset corresponds to a full year of
+the +4K simulation, covering the time period from February
+1st 2003 to January 31st 2004, resulting in a final test dataset
+of roughly 121.1 M points. The testing dataset is constructed
+with a full-year simulation in order to have a comprehensive
+analysis of the models performance when tested on unseen
+climate scenarios and extrapolated to other phases of the SP-
+CAM5 seasonal cycle.

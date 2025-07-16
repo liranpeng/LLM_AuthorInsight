@@ -1,0 +1,8 @@
+time. Negative R2 values are lumped to 0 for clarity purposes. a, Heat tendency results. b, Moisture tendency results
+zone in the southern hemisphere compared to the northern
+one.
+Finally, we verify that the MF-RPN’s uncertainty quantifi-
+cation estimated over the ensemble predictions is coherent
+as it increases with the predictions error (figure 12 in Sup-
+plementary Information). This means that without access-
+ing any information on the true target values, the MF-RPN

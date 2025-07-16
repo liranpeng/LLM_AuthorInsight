@@ -1,0 +1,5 @@
+layerwise anomaly w′ = w −w at a given vertical level. Then the final measure of the variance we are interested 
+in is calculated by
+The resulting 1D second-moment vector is widely analyzed in the study of atmospheric turbulence as it helps 
+characterize the altitudes of most vigorous ­convection55. We average it across a cluster to estimate the convective 
+structures present and use it as one metric to discriminate the average physical properties sorted by the VAE

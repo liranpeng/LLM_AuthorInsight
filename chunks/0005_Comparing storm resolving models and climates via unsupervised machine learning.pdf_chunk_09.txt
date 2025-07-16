@@ -1,0 +1,9 @@
+OPEN
+1Department of Earth System Science, University of California at Irvine, Irvine, CA  92697, USA. 2NVIDIA, 
+Santa Clara, CA  95050, USA. 3Institute of Earth Surface Dynamics, University of Lausanne, 1015  Lausanne, 
+Switzerland. 
+4Department of Computer Science, University of California at Irvine, Irvine, CA  92617, 
+USA. 5Department of Earth and Environmental Engineering, Columbia University, New York, NY  10027, 
+USA. *email: gmooers96@gmail.com
+2
+Vol:.(1234567890)

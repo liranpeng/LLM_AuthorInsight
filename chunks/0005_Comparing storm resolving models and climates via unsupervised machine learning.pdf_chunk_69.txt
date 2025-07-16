@@ -1,0 +1,4 @@
+could also be extended to alternative data sets, such as the High Resolution Model Inter-comparison Project 
+(HighResMIP)49,50 and observational satellite data sets. Besides variational autoencoders, future studies could 
+also focus on other methods such as hierarchical variants, normalizing flows, or diffusion probabilistic models. 
+Ultimately, we hope that our work will motivate future data-driven and/or unsupervised investigations in the

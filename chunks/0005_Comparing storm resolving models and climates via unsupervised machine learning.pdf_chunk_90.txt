@@ -1,0 +1,4 @@
+-parameter is usually set to 1 but can be tuned to larger or smaller values to trade off between data reconstruction 
+ability and disentanglement of the latent space (the rate-distortion trade off), ­see21,57,58 for details. To achieve a 
+better model fit, one typically anneals β from zero to one over training epochs.
+Our selected VAE architecture prioritizes representation learning over data reconstruction. For our

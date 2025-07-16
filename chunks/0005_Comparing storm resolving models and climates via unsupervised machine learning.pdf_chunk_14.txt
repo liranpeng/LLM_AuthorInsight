@@ -1,0 +1,4 @@
+Climate Model (ICON), the Integrated Forecasting System (IFS), the Nonhydrostatic ICosahedral Atmospheric 
+Model (NICAM), the Unified Model (UM), the System for High-resolution modeling for Earth-to-Local Domains 
+(SHIELD), the Global Environmental Multiscale Model (GEM), the System for Atmospheric Modeling (SAM), 
+and the Action de Recherche Petite Echelle Grande Echelle (ARPEGE). In addition, we include SPCAM, a

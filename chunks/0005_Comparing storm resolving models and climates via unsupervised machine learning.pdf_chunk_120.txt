@@ -1,0 +1,4 @@
+interpretable ( K = 3 ), approximately converged ( K = 50 ), and intermediate K values, only the VAE-based 
+approach shows consistent performance. In the bottom plot, examining K from 2 to 50, our VAE approach 
+exhibits increasing correlation coefficients close to one between symmetrized KL divergences at adjacent indices 
+(K and K + 1 ), indicating robustness to clustering hyper-parameter variations. (We consider 15 different trials

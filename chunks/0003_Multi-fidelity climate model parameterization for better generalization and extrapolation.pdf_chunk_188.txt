@@ -1,0 +1,5 @@
+provides more accurate uncertainty estimates. It is worth emphasizing again that the quantified uncertainty σM is estimated
+only based on the parameterization input without any knowledge of the true target value. Therefore, an accurate uncertainty
+quantification is a powerful tool, which can inform on how accurate the surrogate model is. This characteristic can be seen as
+similar to a-posteriori error estimates in model order reduction techniques.
+20/27

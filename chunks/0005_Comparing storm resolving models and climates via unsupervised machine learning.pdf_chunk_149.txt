@@ -1,0 +1,4 @@
+Geosci. Model Dev. 9(5), 1937–1958. https://​doi.​org/​10.​5194/​gmd-9-​1937-​2016 (2016).
+	50.	 Haarsma, R. J. et al. High resolution model intercomparison project (highresmip v1.0) for cmip6. Geosci. Model Dev. 9(11), 
+4185–4208. https://​doi.​org/​10.​5194/​gmd-9-​4185-​2016 (2016).
+	51.	 Norman, M. R. et al. Unprecedented cloud resolution in a gpu-enabled full-physics atmospheric climate simulation on olcf’s

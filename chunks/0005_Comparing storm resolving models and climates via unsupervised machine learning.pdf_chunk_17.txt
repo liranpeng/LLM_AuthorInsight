@@ -1,0 +1,4 @@
+model, but for different simulated climates. Here, we use SPCAM to simulate global warming by increasing 
+sea surface temperatures by four Kelvin. We treat this as a proxy for climate change, where we consider spatial 
+and intensity shifts between convective updrafts in two simulated climates. The use of the SPCAM model is a 
+pragmatic choice which facilitates exploration of climate change emulation, due to its computational efficiency

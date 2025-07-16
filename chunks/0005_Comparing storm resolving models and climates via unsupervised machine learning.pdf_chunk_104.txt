@@ -1,0 +1,5 @@
+uncovers differences among storm-resolving models” of our results section. By only using the cluster centroids 
+to get label assignments in other latent representations and not moving the cluster centroids themselves once 
+they have been optimized on the original test dataset, we can objectively contrast cluster differences through 
+the lens of the common latent space. Using this approach, we create interpretable regimes of convection across 
+nine different GSRMs, as shown in Fig. 3d–l.

@@ -1,0 +1,4 @@
+property is also observed at other time-steps, for instance on February 6th 2003 at 10:00, with the regions of high MAE
+values being different compared to the previous time-step, and the regions of high uncertainty σM shifting accordingly to
+well capture the regions of high MAE values (figure 16.b). Simulations of complete spatio-temporal evolution of MAEs
+and returned uncertainties for the heat and moisture tendencies by different models (MF-RPN, LF-RPN adn SF-HF-RPN)

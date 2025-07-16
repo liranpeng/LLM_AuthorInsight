@@ -1,0 +1,5 @@
+and decoders are conditional distributions (as opposed to deterministic functions), and (2) they combine the 
+learning goal of data reconstruction with simultaneously matching a pre-specified “prior” in the latent space, 
+enabling data generation.
+In more detail, VAEs model the data points x in terms of a latent variable z , i.e., a low-dimensional vector 
+representation, through a conditional likelihood p(x|z) and a prior p(z) . Integrating over the latent variables

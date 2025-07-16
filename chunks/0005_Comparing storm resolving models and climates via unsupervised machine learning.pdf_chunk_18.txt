@@ -1,0 +1,5 @@
+compared to ­GSRMs20 that allows sampling of multiple climates, and the known characteristics of its climate 
+change ­behavior10. The use of the SPCAM model is essential for climate change emulation as at this point no 
+climate change simulations exist from ­DYAMOND4.
+Unsupervised model intercomparison
+Our approach is based on variational autoencoders (VAEs)21, a deep learning approach to dimensionality reduc-

@@ -1,0 +1,3 @@
+occurring in the same regions (figures 13.a - 13.c and 14.a - 14.c). The corresponding uncertainty variations are nearly duplicates
+of the MAE longitude-latitude structures. However, we can clearly notice deviations in the uncertainty’s longitude-latitude
+structure compared to the MAE variations for the SF-HF-RPN (figures 15.a - 15.c). Indeed, the latter tends to overestimate the

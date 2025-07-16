@@ -1,0 +1,10 @@
+high-fidelity data even without the full seasonal cycle.
+Forecast skills
+All surrogate models are evaluated based on their performance
+on the high-fidelity test dataset corresponding to the SPCAM5
++4K simulation.
+Evaluation metrics
+Different evaluation metrics are considered and computed
+for each output variable. We report the mean absolute error
+(MAE) and the coefficient of determination (R2). The MAE
+is always positive and a lower value corresponds to a more

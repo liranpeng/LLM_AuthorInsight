@@ -1,0 +1,5 @@
+The expected geographic and structural effects of climate change become apparent by inspecting the latent 
+space’s leading three clusters, showing that VAEs can quantify distribution shifts due to global warming in a 
+meaningful and interpretable way.
+Global warming impacts on rare “Green Cumulus” convection
+Finally, we hone in on the unique ways in which “Green Cumulus” Convection changes with a warming climate

@@ -1,0 +1,4 @@
+( K = 50 ) number of clusters. As before, we then attribute each data by their nearest cluster centroid. This tech-
+nique is called vector quantization and is commonly used in the context of data ­compression27,28. This discrete 
+representation has the advantage of making certain computations tractable. In particular, it allows computing 
+statistical distance measures between (discrete) data distributions, such as the symmetrized Kullback–Leibler

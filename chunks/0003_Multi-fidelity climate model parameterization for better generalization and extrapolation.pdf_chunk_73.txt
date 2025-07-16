@@ -1,0 +1,9 @@
+ical SSTs with full seasonality. In the simulations labeled
++4K and +8K, the standard SST is elevated by 4K and 8K
+respectively.
+The high-fidelity SPCAM5 training data is constructed by
+considering a historical run simulation while allowing for a
+model spin-up of a month. The training data corresponds to
+the time period from February 1st 2003 to April 31st 2003.
+The horizontal grid resolution of the ESM consists of a 1.9◦×
+2.5◦finite-volume dynamical core (i.e., 13824 grid cells with

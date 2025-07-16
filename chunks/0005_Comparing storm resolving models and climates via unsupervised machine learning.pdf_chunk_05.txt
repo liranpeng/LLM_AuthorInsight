@@ -1,0 +1,5 @@
+climate ­predictions4. While attempts have been made to validate and compare ensembles of these models, this 
+has traditionally been done using coarsened statistics, such as annual averages, guided by physically informed 
+approaches. A community goal is to directly compare models at the scale of storm formation, which could 
+improve understanding of the consequences of different design decisions and help narrow the uncertainty of 
+cloud-climate ­feedback4,11–13.

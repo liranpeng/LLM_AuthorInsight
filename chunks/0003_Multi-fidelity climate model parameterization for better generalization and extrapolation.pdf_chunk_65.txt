@@ -1,0 +1,8 @@
+provide the best of both worlds: the capacity to extrapolate
+based on low-fidelity data exploring many regimes of con-
+vection and the higher accuracy based on high-fidelity data
+covering more limited regimes because of its computational
+cost. Hence, the MF-based parameterization narrows further
+the gap between the climate science and machine-learning
+communities by (1) building trust in the capacity of ML-based
+parameterization to extrapolate to unknown scenarios thanks

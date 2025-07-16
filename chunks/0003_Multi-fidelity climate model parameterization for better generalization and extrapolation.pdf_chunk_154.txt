@@ -1,0 +1,4 @@
+trained on the 1-year CAM5 +8K simulation, while the MF-RPN model has to aggregate both the latter dataset with the
+3-month SPCAM5 historical run. Nonetheless, at the vertical level of 494 hPa, the MF-RPN clearly outperforms the LF-RPN
+model in all other tropical regions except the three ones listed above showing again the overall better generalization and
+extrapolation achieved by the MF model.

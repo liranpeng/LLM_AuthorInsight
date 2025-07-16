@@ -1,0 +1,5 @@
+Our approach automatically learns physically meaningful notions of similarity from low-dimensional 
+latent data representations that the different models produce. This enables an intercomparison of 
+nine GSRMs based on their high-dimensional simulation data (2D vertical velocity snapshots) and 
+reveals that only six are similar in their representation of atmospheric dynamics. Furthermore, we 
+uncover signatures of the convective response to global warming in a fully unsupervised way. Our

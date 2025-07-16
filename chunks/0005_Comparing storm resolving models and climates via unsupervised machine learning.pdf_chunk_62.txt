@@ -1,0 +1,5 @@
+new unsupervised approach relied on a combination of non-linear dimensionality reduction using variational 
+autoencoders (VAEs) and vector quantization for an unsupervised inter-comparison of these storm resolving 
+models. Beyond inter-model comparisons, we also compared global climates at different temperatures and 
+developed new insights into the changes in convection regimes.
+Our data-driven method provides a complementary viewpoint to physics-based climate model comparisons,

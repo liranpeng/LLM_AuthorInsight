@@ -1,0 +1,9 @@
+nearest cluster, where each cluster has a unique color. We find that the VAE organizes convection in the way an 
+atmospheric scientist ­might23,24. By analyzing each cluster in the latent space’s vertical velocity kinetic energy 
+√
+w′w′ profiles (which can be thought of as a measure of the variance in vertical velocity at each vertical level of 
+3
+Vol.:(0123456789)
+Scientific Reports |        (2023) 13:22365  | 
+https://doi.org/10.1038/s41598-023-49455-w
+www.nature.com/scientificreports/

@@ -1,0 +1,4 @@
+2/27
+Figure 1. Multi-fidelity problem setting for ESM parameterization. Ti, i = 1,...,26 refer to atmospheric temperature [K]
+at different vertical levels. qi, i = 1,...,22 refer to specific humidity [kg/kg] at different vertical levels. Ps, SOLIN, HCs and
+λETs refer to surface pressure [Pa], TOA solar insulation [W/m2], sensible heat flux [W/m2] and latent heat flux [W/m2]

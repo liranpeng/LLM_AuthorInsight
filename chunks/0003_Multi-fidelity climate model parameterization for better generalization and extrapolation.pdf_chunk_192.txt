@@ -1,0 +1,6 @@
+tendency at P = 761 hPa. d, Moisture tendency at P = 259 hPa. e, Moisture tendency at P = 494 hPa. f, Moisture tendency at
+P = 761 hPa.
+24/27
+Figure 14. Longitude-latitude variation of testing MAE and quantified uncertainty σM for LF-RPN for heat and
+moisture tendencies at different vertical levels. a, Heat tendency at P = 259 hPa. b, Heat tendency at P = 494 hPa. c, Heat
+tendency at P = 761 hPa. d, Moisture tendency at P = 259 hPa. e, Moisture tendency at P = 494 hPa. f, Moisture tendency at

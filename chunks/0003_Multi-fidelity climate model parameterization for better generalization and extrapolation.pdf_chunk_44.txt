@@ -1,0 +1,8 @@
+it learns from a high-fidelity parameterization that resolves
+convection based on the high-fidelity dataset and (2) general-
+izes beyond the high-fidelity training data regime thanks to
+the informative low-fidelity simulations covering regimes at
+higher sea surface temperatures. It is worth noting that the
+SF-HF-RPN is capable of improving upon the deterministic
+NN for nearly all vertical levels and even for determinstic
+error metrics (figure 2.a), showing the benefits of using RPNs

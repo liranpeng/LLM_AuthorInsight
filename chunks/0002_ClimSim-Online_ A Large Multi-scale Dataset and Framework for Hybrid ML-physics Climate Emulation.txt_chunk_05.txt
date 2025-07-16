@@ -1,0 +1,1 @@
+and code (https://leap-stc.github.io/ClimSim and https://github.com/leap-stc/climsim-online) are publicly released to support the development of hybrid ML-physics and high-fidelity climate simulations.

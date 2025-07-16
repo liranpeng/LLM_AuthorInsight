@@ -1,0 +1,9 @@
+atmosphere model, version 3 (cam3). part i: Description
+and numerical tests. J. Clim. 21, 3642 – 3659 (2008).
+80. Park, S. & Bretherton, C. S. The university of washington
+shallow convection and moist turbulence schemes and
+their impact on climate simulations with the community
+atmosphere model. J. Clim. 22, 3449 – 3469 (2009).
+81. Bretherton, C. S. & Park, S. A new moist turbulence
+parameterization in the community atmosphere model. J.
+Clim. 22, 3422 – 3448 (2009).

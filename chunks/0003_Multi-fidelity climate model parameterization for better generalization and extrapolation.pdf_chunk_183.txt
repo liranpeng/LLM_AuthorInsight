@@ -1,0 +1,4 @@
+moisture tendency at vertical levels 494 and 761 hPa, we still have some good agreement between the uncertainty and the MAE
+variations while more significant discrepancies are observed mostly within the tropics and temperate zone (figures 13.e - 13.f
+and 14.e - 14.f). The SF-HF-RPN’s uncertainty also shows more important mismatches for the moisture tendency compared to
+the model’s MAE for the vertical levels 494 and 761 hPa compared to the 259 hPa level (figures 15.d - 15.f).

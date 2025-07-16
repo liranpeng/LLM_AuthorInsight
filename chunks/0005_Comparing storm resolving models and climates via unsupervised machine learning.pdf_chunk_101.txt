@@ -1,0 +1,4 @@
+Figure 6.   Convection type change induced by +4K of simulated global warming (see main text) in the SPCAM 
+model. Results are from a VAE trained on this SPCAM control ( +0K ) data. Panels (a–c) show differences in 
+convection type proportion (see main text), where we stratified and plotted the data by latitude/longitude grid 
+cell. Each panel displays probability shifts in the three convection types found through clustering with K = 3 ,

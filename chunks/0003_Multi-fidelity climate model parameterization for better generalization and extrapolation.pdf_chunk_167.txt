@@ -1,0 +1,4 @@
+training datasets, it is always challenging to disentangle the different extrapolations contribution on the models errors. Given
+the heterogeneous temporal variations of the SF-HF-RPN and deterministic NN. errors for different seasons across different
+vertical levels, it is not straightforward to draw conclusions on the seasonality effect on these models performance.
+Figure 11 shows the temporal variations of testing MAE and R2 for moisture tendency and different surrogate models at

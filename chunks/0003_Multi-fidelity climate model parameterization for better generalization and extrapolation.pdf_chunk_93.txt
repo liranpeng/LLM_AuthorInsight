@@ -1,0 +1,11 @@
+0.01
+-0.006
+Std. dev. of heat tendency
+0.94
+1.21
+Table 1. Mean and standard deviation of relative humidity and heat tendency for the normalized test data using statistics from
+CAM5 +8K and SPCAM5 historical runs. Results are averaged across all vertical levels.
+containing 512 neurons. We utilized a batch size of 2048 and
+ReLU activation (with a negative slope of 0.15) for all layers
+except for the output one, where the linear activation function
+was used.

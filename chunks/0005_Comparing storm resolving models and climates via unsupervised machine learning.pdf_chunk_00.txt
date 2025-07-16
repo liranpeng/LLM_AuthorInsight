@@ -1,0 +1,11 @@
+1
+Vol.:(0123456789)
+Scientific Reports |        (2023) 13:22365  
+| https://doi.org/10.1038/s41598-023-49455-w
+www.nature.com/scientificreports
+Comparing storm resolving models 
+and climates via unsupervised 
+machine learning
+Griffin Mooers 1*, Mike Pritchard 1,2, Tom Beucler 3, Prakhar Srivastava 4, Harshini Mangipudi 4, 
+Liran Peng 1, Pierre Gentine 5 & Stephan Mandt 4
+Global storm-resolving models (GSRMs) have gained widespread interest because of the

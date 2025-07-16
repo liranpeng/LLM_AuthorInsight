@@ -1,0 +1,22 @@
+GSRM. Briefly, to compare Models A and B, we (1) save the K-means cluster centers from the latent vector of the 
+VAE trained on Model A, (2) feed both models’ outputs into Model A’s encoder as test data, (3) obtain discrete 
+distributions of cluster proportions for Model A and Model B, and (4) compute symmetrized KL divergences 
+based on the discrete distributions using the right-hand side of Eq. (4).
+(4)
+KL
+
+pA(x)||pB(x)
+
+≥KL
+
+πA||πB
+=
+K
+
+k=1
+πA
+k log πA
+k
+πB
+k
+.

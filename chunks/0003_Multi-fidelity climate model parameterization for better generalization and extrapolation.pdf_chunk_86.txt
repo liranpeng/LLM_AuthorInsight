@@ -1,0 +1,8 @@
+Since the MF model aggregates two datasets of different fi-
+delity levels and therefore with different distribution supports,
+a choice regarding the data normalization for the MF model
+has to be made. On one hand, the MF model is designed
+to tackle the task of extrapolation beyond the high-fidelity
+training data. If the latter is chosen for data normalization,
+then the MF model would be required to make predictions
+for high-fidelity testing data points, while mapping them with

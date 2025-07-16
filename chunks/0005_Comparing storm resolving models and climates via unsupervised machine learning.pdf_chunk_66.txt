@@ -1,0 +1,5 @@
+­buoyancy46,47. When these formulations are ultimately used to calculate vertical velocity, they could be causing 
+the deviations between models in the intensity of updraft speeds. We believe there is a high chance these specific 
+distinctions between parameterizations could be causing the split in the dynamics of the GSRMs. However, 
+further investigation is needed to confirm the true root causes of the differences between GSRMs we have 
+identified.

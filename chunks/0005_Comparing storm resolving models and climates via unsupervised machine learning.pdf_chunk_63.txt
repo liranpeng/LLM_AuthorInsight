@@ -1,0 +1,4 @@
+potentially less susceptible to human biases. For example, we could independently reproduce known types of 
+tropical convection verified through examination of the geographic domain and vertical structure. At the same 
+time, our machine learning methods facilitate an intuitive understanding of simulation differences.
+Our distributional comparisons identify consistency in only six of the nine considered storm resolving

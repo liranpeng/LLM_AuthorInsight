@@ -1,0 +1,4 @@
+quantization (see “Methods” for details), in particular if the number of clusters is large. We find that VAEs are 
+essential to our dimensionality reduction task. Directly attempting the clustering in the raw data space does not 
+result in stable and reproducible clusters. Likewise, a simpler dimensionality reduction technique such as PCA 
+also fails to create robust results (Fig. 8). Furthermore, we find that the VAE-based clusters are interpretable and

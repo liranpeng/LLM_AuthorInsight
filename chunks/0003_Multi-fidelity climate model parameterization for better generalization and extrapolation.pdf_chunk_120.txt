@@ -1,0 +1,9 @@
+Neural Network and Its Application in Materials Model-
+ing. J. Mech. Des. 141, 121403 (2019).
+45. Zhang, X., Xie, F., Ji, T., Zhu, Z. & Zheng, Y. Multi-
+fidelity deep neural network surrogate model for aerody-
+namic shape optimization. Comput. Methods Appl. Mech.
+Eng. 373, 113485 (2021).
+46. Wu, D., Chinazzi, M., Vespignani, A., Ma, Y.-A. & Yu, R.
+Multi-fidelity hierarchical neural processes. In Proceed-
+ings of the 28th ACM SIGKDD Conference on Knowledge

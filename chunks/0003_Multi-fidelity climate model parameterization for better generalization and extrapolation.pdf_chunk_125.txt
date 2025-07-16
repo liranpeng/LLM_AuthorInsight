@@ -1,0 +1,10 @@
+Learning Research, 1050–1059 (PMLR, New York, New
+York, USA, 2016).
+56. Osband, I. et al. Evaluating predictive distributions: Does
+bayesian deep learning work? (2022).
+57. Riquelme, C., Tucker, G. & Snoek, J. Deep bayesian
+bandits showdown: An empirical comparison of bayesian
+deep networks for thompson sampling. In International
+Conference on Learning Representations (2018).
+58. Osband, I., Aslanides, J. & Cassirer, A. Randomized
+prior functions for deep reinforcement learning. In Pro-

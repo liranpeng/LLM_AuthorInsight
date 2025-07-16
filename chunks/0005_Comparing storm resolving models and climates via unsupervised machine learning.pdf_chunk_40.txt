@@ -1,0 +1,4 @@
+SHIELD, and ARPEGE models is another key finding of our approach. This conformity mirrors what we found 
+by inspecting the latent representations (Figs.  3, S5–7), the vertical structure of the leading three convection 
+regimes (Fig. S9), and the proportion of each type of convection in the simulation (Fig. S10). It would be worth 
+elucidating the degree to which the similarity between these GSRMs is a reflection of DYAMOND GSRMs better

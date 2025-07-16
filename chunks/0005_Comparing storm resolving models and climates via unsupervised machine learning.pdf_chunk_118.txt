@@ -1,0 +1,5 @@
+in Fig. 8). Taken as a whole, these results suggest that for robustness of the measurement of model distance, a 
+higher value of K is most appropriate.
+However, it is important to note that we do not care solely about the approximation of the KL divergence when 
+we consider the cluster count. We also desire for interpretability for our cluster’s and for purposes of visualization 
+we want each cluster to correspond to a unique regime of convection. Therefor, we still show results for lower

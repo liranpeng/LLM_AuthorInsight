@@ -1,0 +1,5 @@
+Computing pairwise GSRM distances
+To quantify the similarities and dissimilarities among the data produced by different GSRMs (and hence measures 
+of distance between models), we employ the vector quantization approach to compute KL divergences. Since the 
+KL divergence is not symmetric, we explicitly symmetrize it as KL(q||p) + KL(p||q) (termed Jeffreys divergence). 
+Since we adopt vector quantization in the latent space, this amounts to training nine different VAEs, one for each

@@ -1,0 +1,4 @@
+DYAMOND III GSRM data when it is publically released as the next phase could cover the entire year), we 
+generate six separate realizations of boreal winter for the MMF by introducing perturbed initial conditions to 
+gather more data points. Although there is DYAMOND I data modeling the boreal summer, it is not with the 
+exact same set of models and many models in common between DYAMOND I and II were configured differently

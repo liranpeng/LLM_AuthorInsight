@@ -1,0 +1,9 @@
+Atmospheric pressure is denoted on the y axis and the number of embedded columns in a given snapshot 
+is shown on the x axis. We see a rich mix of turbulent updrafts (red) of various scales and types. For more 
+examples, see Movie S1.
+8
+Vol:.(1234567890)
+Scientific Reports |        (2023) 13:22365  | 
+https://doi.org/10.1038/s41598-023-49455-w
+www.nature.com/scientificreports/
+Figure 3.   Two-dimensional principal component analysis (PCA) projection plots of DYAMOND data

@@ -1,0 +1,8 @@
+figure 1). Hence, their corresponding uncertainty is naturally
+propagated to the corresponding high-fidelity parameteriza-
+tion output predictions, ensuring a continuous uncertainty
+propagation from the low- to high-fidelity variables.
+Machine learning models usually need to be trained on nor-
+malized data. In this work, standardization (or Z-score) is used
+as normalization so that inputs and outputs have the properties
+of a Gaussian distribution with a zero mean and unit variance.

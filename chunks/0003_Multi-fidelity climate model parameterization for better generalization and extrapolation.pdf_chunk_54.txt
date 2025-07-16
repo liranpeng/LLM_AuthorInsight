@@ -1,0 +1,8 @@
+as observed above for the moisture tendency at level 494 hPa.
+For other levels and for heat tendency, the MF-RPN model
+shows even higher R2 values in the south Atlantic ocean and
+African Sahara. We also provide the temporal variation of the
+MAE and R2 metrics in Supplementary Information.
+For both tendencies and nearly all vertical levels, the MF-
+RPN model shows improved results compared to all other
+surrogate models including for the tropics across all vertical

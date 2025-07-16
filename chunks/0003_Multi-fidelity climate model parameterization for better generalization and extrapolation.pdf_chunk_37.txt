@@ -1,0 +1,9 @@
+the MF-RPN (Methods). Finally, since the low-fidelity train-
+ing data was built such that it provides the MF model with
+useful information regarding the high-fidelity extrapolation
+scenarios, the MF-RPN model is trained on normalized data
+with respect to the statistics of the CAM5 +8K run data in
+order to take into account the data distribution shift between
+different fidelity levels (Methods).
+Low-fidelity Randomized Prior Networks
+A low-fidelity RPN model can be considered based on the

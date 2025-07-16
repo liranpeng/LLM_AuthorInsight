@@ -1,0 +1,10 @@
+was used.
+The MLPs were trained for a total of 236520 stochastic
+gradient descent (SGD) steps using the Adam optimizer. The
+learning rate was initialized at 10-4 with an exponential de-
+cay at a rate of 0.99 per 1000 steps. For data bootstrapping,
+each network in the RPN ensembles is trained on a randomly
+sampled subset with a size equal to 80% of the whole training
+dataset size as justified in Yang et al.68.
+Error metrics
+In this section, we define the different error metrics that were

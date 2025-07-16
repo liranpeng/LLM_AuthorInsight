@@ -1,0 +1,4 @@
+variations show a better performance overall for the SF-HF-RPN model compared to the deterministic NN. mostly for the
+vertical level 494 hPa, while the improvement for the two other vertical levels is mainly limited to the second half of the testing
+period of a year.
+The seasonality effect on the models performance is not quite trivial. We remind that the SF-HF-RPN and deterministic NN.

@@ -1,0 +1,4 @@
+plots in figures 8.a-8.c). Hence, the MF-RPN model is capable of better extrapolating at relatively low and high altitude levels
+within the troposphere (259 and 761 hPa) compared to mid altitude levels (around 494 hPa) as observed for the moisture
+tendency.
+It is worth noting that at vertical level 494 hPa, the LF-RPN model shows better results compared to the MF-RPN model in

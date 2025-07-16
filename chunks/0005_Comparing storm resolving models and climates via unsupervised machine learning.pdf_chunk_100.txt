@@ -1,0 +1,4 @@
+geography. Therefore, for our purposes, we do not consider K > 3 to be physically meaningful.
+Our method offers a significant advantage in creating directly comparable clusters of convection between 
+different GSRMs. In recent works, clustering compressed representations of clouds from machine learning models 
+often employs Agglomerative (hierarchical) ­clustering64,65. In contrast, our use of the K-means approach allows

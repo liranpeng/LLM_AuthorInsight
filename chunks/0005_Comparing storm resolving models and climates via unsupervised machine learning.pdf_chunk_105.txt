@@ -1,0 +1,5 @@
+nine different GSRMs, as shown in Fig. 3d–l.
+Vector quantization
+We seek to approximate differences between data distributions by directly estimating their Kullback–Leibler (KL) 
+divergence. The KL divergence is a measure of how one probability distribution differs or diverges from another. 
+It quantifies the additional information needed to represent one distribution using another. In the context of

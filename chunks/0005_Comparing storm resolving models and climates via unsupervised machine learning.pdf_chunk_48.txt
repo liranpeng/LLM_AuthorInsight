@@ -1,0 +1,16 @@
+the change in the atmosphere’s structure with warming, which we refer to as a distribution shift. Specifically, let 
+(π0K
+1 , π0K
+2 , π0K
+3 ) denote the cluster proprotions at present temperatures, and (π+4K
+1
+, π+4K
+2
+, π+4K
+3
+) the correspond-
+ing quantities in a climate globally warmed by four Kelvin. Then, the probability shifts πk = (π+4K
+k
+−π0K
+k ) for 
+K ∈{1, 2, 3} reveal the effects of climate change on convection patterns.

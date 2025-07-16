@@ -1,0 +1,6 @@
+20/27
+Figure 10. Temporal variation of MAE and R2 for heat tendency at different vertical levels and evaluated on test
+dataset. a, R2 at P = 259 hPa. b, R2 at P = 494 hPa. c, R2 at P = 761 hPa. d, MAE at P = 259 hPa. e, MAE at P = 494 hPa.
+f, MAE at P = 761 hPa.
+21/27
+Figure 11. Temporal variation of MAE and R2 for moisture tendency at different vertical levels and evaluated on test

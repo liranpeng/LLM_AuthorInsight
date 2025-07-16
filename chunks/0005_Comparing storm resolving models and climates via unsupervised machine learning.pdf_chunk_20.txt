@@ -1,0 +1,5 @@
+structure so that the latent representation can be used to discover patterns in high-dimensional data. The tradeoff 
+between both tasks is a manifestation of the rate-distortion tradeoff from information ­theory22 and forms the 
+basis for deciding on an architecture.
+In order to facilitate the discovery of hidden structure in the latent space, we additionally cluster the embed-
+ded data using k-means clustering. In machine learning terminology, such an approach is also called vector

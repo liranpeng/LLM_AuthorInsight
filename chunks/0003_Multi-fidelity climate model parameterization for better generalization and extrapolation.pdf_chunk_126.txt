@@ -1,0 +1,9 @@
+ceedings of the 32nd International Conference on Neural
+Information Processing Systems, NIPS’18, 8626–8638
+(Curran Associates Inc., Red Hook, NY, USA, 2018).
+59. Yang, Y., Bhouri, M. A. & Perdikaris, P. Bayesian dif-
+ferential programming for robust systems identification
+under uncertainty. Proc. Royal Soc. A: Math. Phys. Eng.
+Sci. 476, 20200290 (2020).
+60. Bhouri, M. A., Joly, M., Yu, R., Sarkar, S. & Perdikaris,
+P. Scalable bayesian optimization with high-dimensional

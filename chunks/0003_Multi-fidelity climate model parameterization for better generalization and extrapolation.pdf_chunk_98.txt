@@ -1,0 +1,8 @@
+corresponding model prediction.
+For global error evaluation, D corresponds to the whole
+test dataset (points concatenated across space and time). For
+the longitude-latitude plots, D corresponds to the test dataset
+concatenated across time, providing a single error metric eval-
+uation for each parameterization output variable and for each
+point in longitude-latitude cross-section.
+For pressure-latitude plots, D corresponds to the test dataset

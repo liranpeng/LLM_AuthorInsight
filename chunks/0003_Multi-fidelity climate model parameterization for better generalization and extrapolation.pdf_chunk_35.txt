@@ -1,0 +1,8 @@
+parameterization outputs at different fidelity levels (low to
+high-fidelity, blue network in figure 1.b). The proposed ar-
+chitecture directly learns the non-linear mapping between the
+low-to-high fidelity outputs instead of inferring the difference
+between them as an error bias correction37,38,70,71. The bias
+correction approach was only shown to improve coarse-grid
+climate models using higher resolution simulations and not
+vice versa despite the abundant low-fidelity data. In addi-

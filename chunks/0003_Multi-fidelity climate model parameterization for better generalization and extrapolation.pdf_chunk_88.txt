@@ -1,0 +1,8 @@
+while mapping testing inputs and outputs with respect to the
+distribution of the low-fidelity training data corresponding to
+the CAM5 +8K simulation. This latter scenario of a warmer
+climate is closer to the high-fidelity extrapolation scenario of
+interest. As such, the MF-RPN model is trained on data that
+is normalized with a standardization based on the mean and
+standard deviation of the low-fidelity data corresponding to
+the CAM5 +8K run since the extrapolation to a warmer cli-

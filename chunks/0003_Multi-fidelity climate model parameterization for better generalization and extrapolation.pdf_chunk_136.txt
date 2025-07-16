@@ -1,0 +1,11 @@
+Clim. 22, 3422 – 3448 (2009).
+82. Hurrell, J. W., Hack, J. J., Shea, D., Caron, J. M. &
+Rosinski, J. A new sea surface temperature and sea ice
+boundary dataset for the community atmosphere model.
+J. Clim. 21, 5145 – 5153 (2008).
+83. Matheson, J. E. & Winkler, R. L. Scoring rules for con-
+tinuous probability distributions. Manag. Sci. 22, 1087–
+1096 (1976).
+84. Gneiting, T. & Raftery, A. E. Strictly proper scoring
+rules, prediction, and estimation. J. Am. Stat. Assoc. 102,
+359–378 (2007).

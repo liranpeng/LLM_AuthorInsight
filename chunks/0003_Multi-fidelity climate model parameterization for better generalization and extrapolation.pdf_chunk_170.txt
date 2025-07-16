@@ -1,0 +1,4 @@
+SF-HF-RPN is more capable of resolving the heat convection stochasticity and is only able of better resolving the moisture
+convection stochasticity for vertical levels below the 494hPa one, while it struggles to do so for higher levels.
+As observed for the heat convection parameterization, the seasonality effect on the models performance is not quite trivial.
+Indeed, for the vertical level 259 hPa the temporal variations of the SF-HF-RPN and deterministic NN. testing errors show

@@ -1,0 +1,6 @@
+(i.e., summing over all possible configurations) yields the data log-likelihood as log p(x) = log
+
+p(x|z)p(z)dz . 
+This integral is intractable, but can be lower-bounded by a quantity termed evidence lower bound (ELBO),
+This involves a so-called variational distribution qθ(z|x) , also called “encoder”, and pθ(x|z) which is commonly 
+referred to as the “decoder”. Both the encoder and decoder are parameterized by neural ­network21. The β

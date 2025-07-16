@@ -1,0 +1,4 @@
+This suggests that, regardless of the selected K (when K > 20 ) value, the results remain consistent. Empirically 
+we see this for the VAE approach in Fig. 8, where panels d, e, f show consistency in GRSM similarity but there are 
+slight differences (particularly in ARPAGE) at lower K counts prior to convergence (a,b,c). In sharp contrast, the 
+other approaches exhibit lower correlation coefficients and do not converge even at greater K counts (as shown

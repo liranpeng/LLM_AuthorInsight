@@ -1,0 +1,12 @@
+for atmospheric moist physics and radiation processes.
+Geosci. Model. Dev. 15, 3923–3940 (2022).
+32. Frezat, H., Le Sommer, J., Fablet, R., Balarac, G. &
+Lguensat, R. A posteriori learning for quasi-geostrophic
+turbulence parametrization.
+J. Adv. Model. Earth
+Syst. 14, e2022MS003124 (2022).
+E2022MS003124
+2022MS003124.
+33. Krasnopolsky, V. M., Fox-Rabinovitz, M. S. & Chalikov,
+D. V. New approach to calculation of atmospheric model
+physics: Accurate and fast neural network emulation of

@@ -1,0 +1,6 @@
+the color corresponding to the one used to plot the specific model’s results. a, Heat tendency results. b, Moisture tendency
+results
+15/27
+Longitude-latitude errors structure
+Figure 7 shows the longitude-latitude structure of the R2 and MAE metrics for moisture tendency at vertical levels 259, 494
+and 761 hPa for all surrogate models and evaluated on the test dataset. For the R2 metric, the moisture tendency results for all

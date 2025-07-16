@@ -1,0 +1,8 @@
+used to evaluate the performance of the different surrogate
+models. We keep the formulation as generic as possible with
+respect to all paramterization output variables. We also keep
+the definition general so that it can accommodate the eval-
+uation either on the whole test dataset (points concatenated
+across space and time) or on a subset of the test dataset (with
+concatenation along time and/or some specific space dimen-
+sions). Global error metrics will be evaluated across all test

@@ -1,0 +1,9 @@
+Multi-fidelity climate model parameterization for
+better generalization and extrapolation
+Mohamed Aziz Bhouri1,*, Liran Peng2, Michael S. Pritchard2,3, and Pierre Gentine1,4
+1Columbia University, Earth and Environmental Engineering, New York City, 10027, USA
+2University of California, Irvine, Center for Complex Biological Systems, Irvine, 92697, USA
+3NVIDIA, Santa Clara, CA, 95051, USA
+4Columbia University, Climate School, New York City, 10027, USA
+*mb4957@columbia.edu
+ABSTRACT

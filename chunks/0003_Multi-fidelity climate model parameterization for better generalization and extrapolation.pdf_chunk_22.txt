@@ -1,0 +1,9 @@
+package (CAM-RT)66,67. The HF training data, of size 29.5
+M points (pixels x times), is constructed by considering the
+SPCAM5 historical run simulation (i.e. non-global warming)
+of three months (Methods).
+The proposed multi-fidelity model aggregates high-fidelity
+SPCAM5 historical dataset and low-fidelity (historical and fu-
+ture) CAM5 data. SPCAM5 has a much higher computational
+cost and better capability to resolve convection compared to
+CAM5. CAM5 uses a physically-based parameterization of

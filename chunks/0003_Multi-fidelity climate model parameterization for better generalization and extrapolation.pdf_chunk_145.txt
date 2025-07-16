@@ -1,0 +1,4 @@
+while still showing a few negative R2 values for this extrapolation task like all other models. For the pressure level 494 hPa,
+the negative R2 regions for the MF-RPN model include part of the South-East Pacific region, of the south Atlantic ocean and
+of the African Sahara. However, all these regions are significantly smaller for the pressure level 259 hPa compared to the
+regions observed for 494 hPa (white regions in MF-RPN plots in figures 7.a and 7.b). Similarly the negative R2 regions for

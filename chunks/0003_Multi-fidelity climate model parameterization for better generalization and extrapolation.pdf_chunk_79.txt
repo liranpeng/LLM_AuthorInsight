@@ -1,0 +1,9 @@
+data distribution comparison, the CAM5 +8K is chosen as
+low-fidelity model since it provides a significantly more pro-
+nounced extrapolation beyond the regimes spanned by the
+SPCAM5 training dataset compared to CAM5 +4K. This
+property proves being crucial in obtaining skillful extrapo-
+lation predictions when the multi-fidelity model is tested on
+unseen SPCAM5 +4K data.
+Multi-fidelity Randomized Prior Networks
+The trainable surrogate model of each member j of the MF-

@@ -1,0 +1,5 @@
+Data: storm‑resolving models and preprocessing
+This paper examines high-resolution atmospheric model data (5 kilometers or less horizontally) provided by 
+the DYAMOND ­project4. To simplify modeling, we focus our new unsupervised method on the vertical velocity 
+variable, giving us information about updraft and gravity wave dynamics across different scales and phenom-
+ena. Specifically, we consider eight different DYAMOND GSRMs: the Icosahedral Nonhydrostatic Weather and

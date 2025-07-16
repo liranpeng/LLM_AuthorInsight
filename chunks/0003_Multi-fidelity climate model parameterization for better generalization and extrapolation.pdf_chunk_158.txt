@@ -1,0 +1,3 @@
+on the test dataset and negative values are lumped to 0 for clarity purposes. a, R2 at P = 259 hPa. b, R2 at P = 494 hPa. c, R2 at
+P = 761 hPa. d, MAE at P = 259 hPa. e, MAE at P = 494 hPa. f, MAE at P = 761 hPa. It is an encouraging sign of successful
+stochastic learning that RPN predictions are most uncertain in the same tropical locations where determinstic errors are highest.

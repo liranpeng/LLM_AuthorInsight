@@ -1,0 +1,4 @@
+5.	 Randall, D., Khairoutdinov, M., Arakawa, A. & Grabowski, W. Breaking the cloud parameterization deadlock. Bull. Am. Meteorol. 
+Soc. 84(11), 1547–1564. https://​doi.​org/​10.​1175/​BAMS-​84-​11-​1547 (2003).
+	 6.	 Christensen, H. M., Moroz, I. M. & Palmer, T. N. Simulating weather regimes: Impact of stochastic and perturbed parameter 
+schemes in a simple atmospheric model. Clim. Dyn. 44(7), 2195–2214. https://​doi.​org/​10.​1007/​s00382-​014-​2239-9 (2015).

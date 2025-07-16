@@ -1,0 +1,9 @@
+accurate model. The coefficient of determination is upper-
+bounded by 1 and values closer to 1 correspond to more
+accurate models (Methods).
+Forecast skills results
+For the heat tendency, the MF-RPN is the only model with
+positive global R2 values for all vertical levels, with an av-
+erage R2 of 0.62 across all levels (figure 2.a and figure 6.a
+in Supplementary Information showing the negative values
+for R2 where appropriate). Besides, MF-RPN is always the

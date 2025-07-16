@@ -1,0 +1,9 @@
+4/27
+level where the LF-RPN is the best one, and for the closest
+level to the surface (958hPa) where MF-RPN is outperformed
+by the deterministic NN and SF-HF-RPN (figure 2.b). It is
+worth noting that for this level, MF-RPN is still performing
+well with an R2 = 0.71, unlike LF-RPN showing a negative
+R2 = −0.6 (figure 6.b). For all pressure levels where moisture
+tendency is the most significant and critical for cloud forma-
+tion (typically between 250 and 750hPa), the MF-RPN model

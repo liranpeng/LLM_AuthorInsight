@@ -1,0 +1,9 @@
+physics scheme79. CAM5 macro-physics draws from Park
+and Bretherton’s shallow convection and moist turbulence
+schemes80, and its planetary boundary layer (PBL) packages
+are based on Bretherton and Park’ moist turbulence parame-
+terization81. SPCAM5 uses idealized cloud resolving models
+(CRM) in order to nearly explicitly resolve atmospheric moist
+convection. In particular, SPCAM5 uses the one-moment
+cloud micro-physics. The SPCAM5 runs considered use 32
+CRM columns and 25 CRM vertical levels.

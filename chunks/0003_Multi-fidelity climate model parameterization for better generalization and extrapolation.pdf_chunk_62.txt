@@ -1,0 +1,8 @@
+lem of importance for machine-learning-based models, and
+for the emulation of physical models in particular. In this
+work, we showed how the proposed multifidelity (here with
+an RPN) approach can tackle this problem by considering the
+high-fidelity convection data on historical observations and
+optimally merging it with a prior coming from a physically
+based parameterization exploring more diverse regimes as it
+is computationally cheaper. We showed that the proposed

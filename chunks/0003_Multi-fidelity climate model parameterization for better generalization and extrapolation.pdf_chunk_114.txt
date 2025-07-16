@@ -1,0 +1,10 @@
+to improve climate models and projections. arXiv preprint
+arXiv:2304.12952 (2023).
+30. Mooers, G. et al. Assessing the potential of deep learn-
+ing for emulating cloud superparameterization in cli-
+mate models with real-geography boundary conditions.
+J. Adv. Model. Earth Syst. 13, e2020MS002385 (2021).
+E2020MS002385 2020MS002385.
+31. Wang, X., Han, Y., Xue, W., Yang, G. & Zhang, G. J.
+Stable climate simulations using a realistic general cir-
+culation model with neural network parameterizations

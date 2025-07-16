@@ -1,0 +1,8 @@
+12
+Vol:.(1234567890)
+Scientific Reports |        (2023) 13:22365  | 
+https://doi.org/10.1038/s41598-023-49455-w
+www.nature.com/scientificreports/
+Robustness of results
+Our unsupervised framework utilizes K-means clustering as part of the vector quantization process. However, 
+the choice of the number of clusters (K) introduces variability in the results. To assess the generalizability of the

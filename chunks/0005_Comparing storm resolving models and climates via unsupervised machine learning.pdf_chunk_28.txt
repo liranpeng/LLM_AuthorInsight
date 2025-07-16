@@ -1,0 +1,6 @@
+For SAM, the 
+√
+w′w′ profile of deep convection is much more intense than that of other GSRMs, especially in the 
+upper atmosphere (Fig. S9b; blue line). These differences in intensity statistics and vertical structure help explain 
+the unusually wide extent of the deep convection cluster on the latent space projection (Fig. 3j, red cluster vs. all).
+A further inspection of the GSRMs’ relative cluster proportions (Fig. S10) confirms this perspective. SPCAM

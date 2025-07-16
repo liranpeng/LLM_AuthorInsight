@@ -1,0 +1,8 @@
+model improves upon the deterministic NN. mostly within the
+tropics thanks to a better stochasticity representation (figure
+4.a). However, the improvement is only noticeable between
+the 250 hPa and 750 hPa pressure levels, which are the criti-
+cal levels for cloud formation. The LF-RPN model improves
+further compared to the SF-HF-RPN model for the tropics
+between the 250 hPa and 750 hPa pressure levels, and also
+shows higher R2 values for both polar regions, including a very

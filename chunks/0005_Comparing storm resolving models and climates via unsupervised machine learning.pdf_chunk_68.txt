@@ -1,0 +1,4 @@
+The present study has focused on vertical velocity fields in high-resolution climate models as one of the 
+most challenging data to analyze. Improved performance could be obtained by jointly modeling multiple 
+“channels” (i.e. variables) of spatially-resolved data such as temperature and humidity. While we have performed 
+preliminary analysis of these results ­here48, we leave more detailed conclusions for further studies. Our study

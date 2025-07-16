@@ -1,0 +1,8 @@
+thanks to its capacity of better resolving the moisture con-
+vection stochasticity within this region (figure 3 and figure
+in Supplementary Information). However, the SF-HF-RPN
+model fails to provide more accurate predictions within the
+tropics and polar regions. The LF-RPN model improves fur-
+ther upon the SF-HF-RPN model within the temperate zone
+and even within the tropics and polar regions. These results
+confirm the informative capacity of the low-fidelity data for

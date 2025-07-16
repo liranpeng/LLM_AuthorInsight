@@ -1,0 +1,8 @@
+higher resolution simulations while the opposite would of
+greater use given the abundant low-fidelity data.
+Multi-fidelity (MF) models have recently been successful
+in several computational science and engineering applica-
+tions40–46. These models are suitable for problems where
+multiple datasets or computational models are available for a
+given system of interest. MF models aggregate data and infor-
+mation with different fidelity, i.e. level of accuracy and details

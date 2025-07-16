@@ -1,0 +1,3 @@
+10.b and 10.e). Therefore, the testing error for the vertical level 494 hPa is affected not only by the extrapolation to a different
+climate but also to a different seasonality. The SF-HF-RPN and deterministic NN.’s error temporal variations for the vertical
+level 761 hPa show lower performance around the period between June and August, but the values observed for the second half

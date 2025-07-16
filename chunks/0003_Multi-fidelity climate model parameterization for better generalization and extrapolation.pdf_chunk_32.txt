@@ -1,0 +1,10 @@
+Deterministic neural network
+In addition to the SF-HF model, we also considered, for refer-
+ence, a deterministic model defined as a single fully-connected
+neural network with the same hyperparameters as the SF-HF
+model’s individual neural networks. Both deterministic and
+SF-HF-RPN models were trained on the SPCAM5 HF his-
+torical run data providing a baseline for high-fidelity models
+trained only on historical data.
+3/27
+Multi-fidelity Randomized Prior Networks

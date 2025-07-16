@@ -1,0 +1,4 @@
+scale of several ­kilometers1–4. By explicitly resolving fundamental nonlinear and high-resolution processes like 
+deep convection (precipitating clouds) formation, these models can address longstanding issues with cloud and 
+precipitation patterns in conventional climate ­simulations5–10. However, despite these advances, there remain 
+substantial differences in how these models are designed, which contribute to uncertainty in their weather and

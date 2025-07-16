@@ -1,0 +1,8 @@
+of the true multi-modal posterior distribution when applied to
+deep learning frameworks56. In addition, it has been shown
+that dropout and standard deep ensemble methods often pro-
+vide minimal uncertainty estimates which prevents their use
+in applications requiring sufficiently accurate approximation
+of posterior distributions56,57.
+Randomized Prior Networks (RPNs)58 were developed in
+order to provide a compromise between acceptable computa-

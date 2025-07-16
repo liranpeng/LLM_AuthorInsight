@@ -1,0 +1,10 @@
+(2021). E2020MS002268 2020MS002268.
+36. Bretherton, C. S. et al. Correcting coarse-grid weather
+and climate models by machine learning from global
+storm-resolving simulations. J. Adv. Model. Earth Syst.
+14, e2021MS002794 (2022).
+37. Clark, S. K. et al. Correcting a 200 km resolution climate
+model in multiple climates by machine learning from 25
+km resolution simulations. J. Adv. Model. Earth Syst. 14,
+e2022MS003219 (2022).
+38. Kwa, A. et al. Machine-learned climate model correc-

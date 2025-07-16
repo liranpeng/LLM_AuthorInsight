@@ -1,0 +1,5 @@
+qualitative findings, we will quantify distributional differences across GSRMs next.
+Dynamic consistency between high‑resolution climate models
+In our analysis, we delve into a comprehensive inter-comparison of various GSRMs on a distributional level, 
+aiming to uncover both commonalities and disparities across their entire simulated datasets. The idea behind 
+the following approach is to consider model dissimilarities or distances as distribution shifts. In the machine

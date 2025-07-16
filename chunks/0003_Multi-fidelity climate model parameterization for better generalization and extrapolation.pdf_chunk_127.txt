@@ -1,0 +1,11 @@
+outputs using randomized prior networks. arXiv preprint
+arXiv:2302.07260v4 (2023).
+61. Ciosek, K., Fortuin, V., Tomioka, R., Hofmann, K. &
+Turner, R. Conservative uncertainty estimation by fitting
+prior networks. In International Conference on Learning
+Representations (2020).
+62. Behrens, G. et al. Non-linear dimensionality reduction
+with a variational encoder decoder to understand convec-
+tive processes in climate models. J. Adv. Model. Earth
+Syst. 14, e2022MS003130 (2022).
+63. Yu, S. et al.

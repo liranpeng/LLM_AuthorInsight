@@ -1,0 +1,5 @@
+analyzing it is even more challenging. To get around these barriers to understanding those simulations’ results 
+simpler dimensionality reduction methods such as clustering and projections are traditionally used. However, 
+these methods may not fully capture the non-linear relationships embedded in small-scale physical processes, 
+which are what make these simulations so ­valuable14–16.
+To gain more insight and confidence in these climate predictions, we need objective ways to quantify changes

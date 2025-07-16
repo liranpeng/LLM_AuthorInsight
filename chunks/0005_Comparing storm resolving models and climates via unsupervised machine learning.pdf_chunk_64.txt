@@ -1,0 +1,5 @@
+models. The other three (SAM, SPCAM, ICON) deviate from the larger group in their representations of the 
+intensity, type, and proportions of tropical convection. These divergences temper the confidence with which we 
+can trust GSRM simulation outputs. Note we cannot rule out the possibility that one of the divergent GSRMs may 
+still be reflecting observational reality better than the majority group. We leave this comparison to observations 
+for future work.

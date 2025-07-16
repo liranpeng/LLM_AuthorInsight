@@ -1,0 +1,9 @@
+longwave radiation in a climate model. Mon. Weather.
+Rev. 133, 1370 – 1383 (2005).
+34. Schneider, T., Lan, S., Stuart, A. & Teixeira, J. a. Earth
+system modeling 2.0: A blueprint for models that learn
+from observations and targeted high-resolution simula-
+tions. Geophys. Res. Lett. 44, 12,396–12,417 (2017).
+35. Gettelman, A. et al. Machine learning the warm rain
+process. J. Adv. Model. Earth Syst. 13, e2020MS002268
+(2021). E2020MS002268 2020MS002268.

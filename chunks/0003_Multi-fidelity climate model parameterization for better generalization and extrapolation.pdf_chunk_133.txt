@@ -1,0 +1,10 @@
+rial waves simulated by cmip5 climate models. J. Clim.
+26, 6185 – 6214 (2013).
+75. Beucler, T. et al. Enforcing analytic constraints in neural
+networks emulating physical systems. Phys. Rev. Lett.
+126, 098302 (2021).
+76. Reed, C. J. et al. Scale-mae: A scale-aware masked au-
+toencoder for multiscale geospatial representation learn-
+ing. arXiv preprint arXiv:2212.14532 (2023).
+77. Bhouri, M. A. & Gentine, P. Memory-based parameter-
+ization with differentiable solver: Application to lorenz

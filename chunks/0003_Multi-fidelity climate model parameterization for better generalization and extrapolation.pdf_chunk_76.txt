@@ -1,0 +1,9 @@
+CAM5 seasonal cycle.
+Given the testing dataset defined above, a straightforward
+choice for the low-fidelity CAM5 training dataset would be
+to consider a +4K simulation as defined for SPCAM5 for
+testing. However, low-fidelity data should not be defined with
+the assumption of prior knowledge of the testing data, but
+rather on the exploration of scenarios and regimes it provides
+beyond those observed within the high-fidelity training data.
+Hence, both CAM5 +4K and +8K are considered as potential

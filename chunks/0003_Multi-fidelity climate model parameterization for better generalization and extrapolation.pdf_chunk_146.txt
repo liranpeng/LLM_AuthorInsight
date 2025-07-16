@@ -1,0 +1,4 @@
+the MF-RPN model within the South-East Pacific region and south Atlantic ocean are clearly smaller at the pressure level
+761 hPa compared to level 494 hPa (white regions in MF-RPN plots in figures 7.b and 7.c). Hence, the MF-RPN model is
+capable of better extrapolating at relatively low- and high-altitude levels within the troposphere (259 and 761 hPa) compared to
+mid-altitude levels (around 494 hPa).

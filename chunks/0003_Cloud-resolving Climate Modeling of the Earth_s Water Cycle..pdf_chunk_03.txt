@@ -1,0 +1,13 @@
+(2022). Cloud-resolving Climate Modeling of the
+Earth?s Water Cycle.. https://
+doi.org/10.2172/2003180
+🗎 Copy to clipboard
+Taylor, Mark, Krishna, Jayesh, Wu, Danqing, et
+al., "Cloud-resolving Climate Modeling of the
+Earth?s Water Cycle.," (2022), https://
+doi.org/10.2172/2003180
+🗎 Copy to clipboard
+@conference{osti_2003180, author = {Taylor, Mark
+and Krishna, Jayesh and Wu, Danqing and Jones,
+Phil and Aulwes, Rob and Robey, Bob and Bader,
+David and Hannah, Walter and Lee, Jungmin and

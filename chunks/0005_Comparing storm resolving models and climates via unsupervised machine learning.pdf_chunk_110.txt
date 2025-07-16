@@ -1,0 +1,5 @@
+space of a VAE and cluster the latent representations of the data instead (i.e., we replace x by z in Eq. (4)). Our 
+VAE’s latent space still has sufficiently high dimensionality (typically 1000) to allow for a reliable KL assessment. 
+In the Supplementary Information provided, we investigate the required cluster size to get convergent results 
+and find that K = 50 gives reasonable results (Fig. 7).
+Computing pairwise GSRM distances

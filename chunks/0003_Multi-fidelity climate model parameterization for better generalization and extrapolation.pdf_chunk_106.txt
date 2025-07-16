@@ -1,0 +1,10 @@
+ical simulations with smartsim: An application to ocean
+climate modeling. J. Comput. Sci. 62, 101707 (2022).
+8. Couvreux, F. et al. Process-based climate model develop-
+ment harnessing machine learning: I. a calibration tool
+for parameterization improvement. J. Adv. Model. Earth
+Syst. 13, e2020MS002217 (2021).
+E2020MS002217
+2020MS002217.
+9. Kashinath, K. et al. Physics-informed machine learning:
+case studies for weather and climate modelling. Philos.

@@ -1,0 +1,4 @@
+and SAM) have qualitatively different ELBO score distributions than the remaining models. Panels (b–g) 
+show symmetrized KL divergences between DYAMOND models obtained through nonlinear dimensionality 
+reduction and vector quantization (see main text). Panel (b) shows results obtained from K = 3 physically 
+interpretable clusters while panel (g) shows the results from K = 50 in order to better approximate the true

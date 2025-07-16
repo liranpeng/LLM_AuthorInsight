@@ -1,0 +1,8 @@
+RPN is fitted using a joint training strategy of both networks.
+Hence the corresponding loss function that is minimized by
+stochastic gradient descent contains two terms. One term
+ensures that the first network learns the low-fidelity parameter-
+ization (red network in figure 1.a). The second term ensures
+that the pipeline through both networks learns the high-fidelity
+parameterization (red and blue networks in figure 1.b). Let
+fθLF,j denote the red network learning the LF paramterization,

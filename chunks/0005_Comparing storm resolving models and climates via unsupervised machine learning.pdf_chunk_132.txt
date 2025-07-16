@@ -1,0 +1,4 @@
+19.	 Khairoutdinov, M. F. & Kogan, Y. L. A large eddy simulation model with explicit microphysics: Validation against aircraft observa-
+tions of a stratocumulus-topped boundary layer. J. Atmos. Sci. 56(13), 2115–2131. https://​doi.​org/​10.​1175/​1520-​0469(1999)​056<​
+2115:​ALESM​W>2.​0.​CO;2 (1999).
+	20.	 Khairoutdinov, M., Randall, D. & DeMott, C. Simulations of the atmospheric general circulation using a cloud-resolving model

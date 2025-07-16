@@ -1,0 +1,10 @@
+tions from a global storm-resolving model: Performance
+across the annual cycle. J. Adv. Model. Earth Syst. 15,
+e2022MS003400 (2023).
+39. Sanford, C. H. et al. Improving the reliability of ml-
+corrected climate models with novelty detection. Au-
+thorea Prepr. (2023).
+40. Fernandez-Godino, M. G. Review of multi-fidelity mod-
+els. arXiv preprint arXiv:1609.07196v4 (2023).
+41. Perdikaris, P., Raissi, M., Damianou, A., Lawrence, N. D.
+& Karniadakis, G. E. Nonlinear information fusion algo-

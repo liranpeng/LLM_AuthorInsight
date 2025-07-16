@@ -1,0 +1,5 @@
+tions of tropical convection among GSRMs, highlighting the need for further investigation into parameteriza-
+tion choices. (3) Our study provides insights into the impact of climate change on high-resolution simulations. 
+In a fully data-driven fashion, we identify distinct signatures of global warming, including the expansion and 
+intensification of arid, dry zones over the continents and the concentration of deep convection over warm waters.
+Data: storm‑resolving models and preprocessing

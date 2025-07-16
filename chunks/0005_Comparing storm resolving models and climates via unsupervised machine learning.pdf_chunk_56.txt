@@ -1,0 +1,4 @@
+the analysis of tropical ­convection23,24,39. This is due both to its rarity and the fact that previous efforts to “rigidly” 
+classify it fail to identify statistically significant differences in physical properties between “Green Cumuli” and 
+other existing convection ­types40. However, the clustering of the latent space of SPCAM immediately separates 
+“Green Cumulus” out into its own unique mode distinct from the rest of the continental convection.

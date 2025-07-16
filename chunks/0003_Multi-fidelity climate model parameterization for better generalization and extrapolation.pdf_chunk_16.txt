@@ -1,0 +1,8 @@
+eterization studies of atmospheric ESM parameterization30,
+here we propose a multi-fidelity RPN model (MF-RPN) as a
+parameterization scheme for atmospheric convection (deep
+clouds), which is the first of its kind to the best of our knowl-
+edge. The MF-RPN surrogate model is designed to take into
+account the distribution shift across regimes leveraging the
+rich LF training data regimes while refining it with higher
+accuracy but more limited HF regimes. This proves crucial to

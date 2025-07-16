@@ -1,0 +1,8 @@
+2.1.3 (CESM2.1.3) Community Atmospheric Model version
+5 (CAM5) parameterization and is taken as coarse-grid at-
+mospheric thermodynamics components consisting of: atmo-
+spheric temperature for each of the 26 vertical levels spanning
+the column and specific humidity for each of the 22 vertical
+levels spanning the column except the first four levels from
+top of atmosphere (TOA) (Methods). The input vector also
+contains the surface pressure, TOA solar insulation, surface

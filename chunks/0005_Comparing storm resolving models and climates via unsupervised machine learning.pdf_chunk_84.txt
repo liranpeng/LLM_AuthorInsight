@@ -1,0 +1,4 @@
+encoded with a shared VAE (trained on UM data). The left column (panels a–c; see also S5–S7) shows data 
+points colorized by physical convection properties, including convection intensity (a), land fraction (b), and 
+turbulent length scale (c). The VAE visibly disentangles all three properties. The right columns (panels d–i) 
+show data points from different DYAMOND data sets, colorized by convection type (as found by clustering).

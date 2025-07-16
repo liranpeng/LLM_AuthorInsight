@@ -1,0 +1,9 @@
+18. ECMWF (ECMWF, Shinfield Park, Reading, 1995).
+13. Palmer, T. N. A nonlinear dynamical perspective on
+model error: A proposal for non-local stochastic-dynamic
+parametrization in weather and climate prediction models.
+Q. J. Royal Meteorol. Soc. 127, 279–304 (2001).
+14. Tribbia, J. J. & Baumhefner, D. P. Scale interactions and
+atmospheric predictability: An updated perspective. Mon.
+Weather. Rev. 132, 703 – 713 (2004).
+15. Karimi, A. & Paul, M. Extensive chaos in the lorenz-96

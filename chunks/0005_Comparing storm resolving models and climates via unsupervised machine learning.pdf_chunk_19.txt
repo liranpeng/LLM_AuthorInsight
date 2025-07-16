@@ -1,0 +1,4 @@
+tion and density estimation. (For more details, see “Methods”.) VAEs are probabilistic autoencoders that use 
+neural networks to embed data in a low-dimensional “latent” bottleneck representation termed the “latent space”. 
+From there, the VAE attempts to reconstruct the original data with minimal information loss. At the same time, 
+VAEs impose a regularization on the latent space that encourages the latent representation to have a simple

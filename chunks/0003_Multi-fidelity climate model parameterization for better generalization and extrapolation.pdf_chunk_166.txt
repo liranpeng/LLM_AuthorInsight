@@ -1,0 +1,3 @@
+of the testing year are similar to those obtained for the period between February and May (figures 10.c and 10.f). Hence, the
+temporal extrapolation for the vertical level 761 hPa seems to affect the error differently based on the unseen season among the
+training dataset. Note that since the testing dataset corresponds to a climate simulation that was not considered in any of the

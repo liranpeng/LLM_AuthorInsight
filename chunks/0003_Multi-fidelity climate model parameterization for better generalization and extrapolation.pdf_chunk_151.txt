@@ -1,0 +1,3 @@
+the negative R2 regions for the MF-RPN model include part of the South-East Pacific region, of the south Atlantic ocean and
+of the African Sahara as observed for the moisture tendency. However, all these regions are significantly smaller and nearly
+non-existent for the pressure levels 259 and 761 hPa compared to the regions observed for 494 hPa (white regions in MF-RPN

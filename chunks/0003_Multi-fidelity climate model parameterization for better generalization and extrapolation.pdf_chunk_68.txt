@@ -1,0 +1,10 @@
+clarity purposes.
+Figure 4. Pressure-latitude variation of coefficient of determination R2 for different surrogate models. R2 is evaluated
+on the test dataset and negative values are lumped to 0 for clarity purposes. a, Heat tendency results. b, Moisture tendency
+results.
+7/27
+Methods
+Earth system model convection superparameteriza-
+tion
+Our base model is the CESM2.1.3 CAM5 model with real-
+geography boundary conditions. CAM5 uses a physically-

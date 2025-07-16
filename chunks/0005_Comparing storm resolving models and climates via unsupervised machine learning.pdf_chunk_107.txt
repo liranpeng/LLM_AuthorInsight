@@ -1,0 +1,5 @@
+samples, the KL divergence is intractable since the probability densities are unavailable.
+In theory, the KL divergence between data distributions can be well approximated by using a technique 
+called vector ­quantization27. This technique involves coarse-graining an empirical distribution into a discrete 
+one obtained from clustering, allowing us to work in a tractable discrete space where the KL divergence can be 
+computed.

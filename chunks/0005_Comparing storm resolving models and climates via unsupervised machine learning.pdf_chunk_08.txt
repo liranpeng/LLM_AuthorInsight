@@ -1,0 +1,5 @@
+in convective organization, identify models that are outliers, and more comprehensively analyze modern 
+­GSRMs4,17. As intercomparisons of multiple GSRMs across multiple climates were not available at the time of 
+this work, this paper proposes a novel kind of comparison: we compare models based on their high-resolution 
+simulation data of the present climate. In machine learning terminology, we quantify differences between GSRMs 
+OPEN

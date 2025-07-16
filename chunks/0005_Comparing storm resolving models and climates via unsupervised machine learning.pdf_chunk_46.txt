@@ -1,0 +1,5 @@
+In contrast to the other GSRMs, which treat continental connection as a single regime, we have identified a third 
+unique mode that we call “Green Cumulus,” which is exclusively found over specific sub-regions of semi-arid 
+tropical land areas (see Fig. S11a).
+Changing probabilities of convective modes in response to global warming
+We again use technical notation to measure the shift in convection patterns between the control and warmed

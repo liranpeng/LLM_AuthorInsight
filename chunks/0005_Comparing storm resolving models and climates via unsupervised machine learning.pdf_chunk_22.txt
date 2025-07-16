@@ -1,0 +1,5 @@
+correspond to different convective and geographical phenomena, which will be discussed next. Finally, we show 
+that working with a large number of clusters gives rise to natural similarity metrics across GSRMs (Fig. 3). See 
+the Supplementary Information for more details.
+Latent space inquiry uncovers differences among storm‑resolving models
+As follows, we will provide evidence that the learned low-dimensional representations are semantically mean-

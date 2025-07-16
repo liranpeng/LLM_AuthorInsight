@@ -1,0 +1,4 @@
+and 7.e).
+Figure 8 shows the longitude-latitude structure of the R2 and MAE metrics for heat tendency at vertical levels 259, 494
+and 761 hPa for all surrogate models and evaluated on the test dataset. For the R2 variation, the heat tendency results for all
+pressure levels are quite similar to the results obtained for the moisture tendency, with the SF-HF-RPN model improving upon

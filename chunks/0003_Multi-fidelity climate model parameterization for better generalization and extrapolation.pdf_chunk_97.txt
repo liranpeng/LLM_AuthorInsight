@@ -1,0 +1,14 @@
+heat capacity of air at a constant pressure (1004.6J.kg−1.K−1)
+and latent heat of vaporization at standard atmospheric condi-
+tions (2.26×106J.kg−1), respectively30. In the next section y
+denotes the true target value and ˆy the corresponding predic-
+tion. D will denote the test dataset and |D| its size.
+Mean Absolute Error (MAE):
+MAE =
+1
+|D| ∑
+i∈D
+|yi −ˆyi| ,
+(2)
+where D denotes the test dataset, yi the true target and ˆyi the
+corresponding model prediction.

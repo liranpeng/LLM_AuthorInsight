@@ -1,0 +1,4 @@
+three cluster centers ( K = 3 ) for physical interpretability. We then stratify the SPCAM data by their latitude/
+longitude gridcell and calculate location-specific cluster proportions based on the fixed cluster centers. These 
+proportions (π1, π2, π3) with π1 + π2 + π3 = 1 indicate the fraction of the data being assigned to each cluster 
+K ∈{1, 2, 3} ; see “Methods” for details. We can now visualize the geographic distribution of these cluster

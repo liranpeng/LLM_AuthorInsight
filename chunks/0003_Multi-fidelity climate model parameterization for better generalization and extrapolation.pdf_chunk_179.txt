@@ -1,0 +1,4 @@
+testing dataset. It includes the results for heat and moisture tendencies at vertical levels 259, 494 and 761 hPa. Figures 14 and
+15 provide the same results for the LF-RPN and SF-HF-RPN models respectively. Unlike the density plots and as conducted for
+the MAE estimates to obtain the longitude-latitude structures, the model’s uncertainty σM is only averaged over time here in
+19/27

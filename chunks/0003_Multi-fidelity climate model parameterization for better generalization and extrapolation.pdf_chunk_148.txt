@@ -1,0 +1,4 @@
+NN. and SF-HF-RPN models, while the MF-RPN improves even further upon the LF-RPN model. Comparing the deterministic
+NN. and SF-HF-RPN results, the latter is capable of better resolving the moisture convection stochasticity within the tropics for
+low vertical levels (761 hPa as seen in figure 7.f), while it fails to do so for higher levels (259 and 494 hPa as seen in figures 7.d
+and 7.e).

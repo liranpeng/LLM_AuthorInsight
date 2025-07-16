@@ -1,0 +1,4 @@
+17.	 Palmer, T. N. A personal perspective on modelling the climate system. Proc. Math. Phys. Eng. Sci. 472(2188), 20150772. https://​
+doi.​org/​10.​1098/​rspa.​2015.​0772 (2016).
+	18.	 Marat, K. & David, R. Cloud resolving modeling of the arm summer 1997 iop: Model formulation, results, uncertainties, and 
+sensitivities. J. Atmos. Sci. 60, 607–625. https://​doi.​org/​10.​1175/​1520-​0469(2003)​060<​0607:​CRMOT​A>2.​0.​CO;2 (2003).

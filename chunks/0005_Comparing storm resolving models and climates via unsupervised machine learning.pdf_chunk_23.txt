@@ -1,0 +1,6 @@
+ingful and can be well-described using only three learned latent clusters that correspond to distinct convective 
+organizations.
+Cluster characterization
+As a first qualitative analysis, we can learn a shared clustering across the dimensionality-reduced data of all 
+nine GSRMs (Fig. 3). Since the latent space is 1000-dimensional, we plot the dominant two (or three) principal 
+components for visualization purposes. Each data point is colorized according to its cluster assignment, i.e., its

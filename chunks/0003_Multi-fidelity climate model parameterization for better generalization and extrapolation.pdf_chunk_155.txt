@@ -1,0 +1,4 @@
+extrapolation achieved by the MF model.
+The MAE longitude-latitude plots (figures 8.d - 8.f) clearly show the improvement obtained for the heat convection
+parameterization with the MF-RPN compared to the LF-RPN for all pressure levels considered. The LF-RPN model also
+improves upon the deterministic NN. and SF-HF-RPN models. However, unlike the moisture tendency results, the SF-HF-RPN

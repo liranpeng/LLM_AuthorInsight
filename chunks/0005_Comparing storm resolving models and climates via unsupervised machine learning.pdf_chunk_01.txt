@@ -1,0 +1,5 @@
+unprecedented detail with which they resolve the global climate. However, it remains difficult to 
+quantify objective differences in how GSRMs resolve complex atmospheric formations. This lack 
+of comprehensive tools for comparing model similarities is a problem in many disparate fields that 
+involve simulation tools for complex data. To address this challenge we develop methods to estimate 
+distributional distances based on both nonlinear dimensionality reduction and vector quantization.

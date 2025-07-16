@@ -1,0 +1,4 @@
+By geographically conditioning the latent space cluster associated with “Green Cumuli” we can not only 
+confirm the regional patterns of the mode, but we can begin to uncover unique physical properties behind its 
+formation and growth. Looking at the condition of the atmosphere in these geographic regions during the times 
+when “Green Cumuli” dominate, we identify consistent signatures of very high sensible heat flux, relatively low

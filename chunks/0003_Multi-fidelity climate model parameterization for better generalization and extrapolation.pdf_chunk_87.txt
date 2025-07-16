@@ -1,0 +1,7 @@
+respect to the distribution of the high-fidelity training data cor-
+responding to the SPCAM5 historical run. On the other hand,
+the low-fidelity training data was built such that it provides
+the MF model with useful information regarding the extrapo-
+lation scenarios. If the MF-RPN model is built based on data
+normalization using the low-fidelity training data, then its pre-
+dictions for high-fidelity testing data points will be estimated

@@ -1,0 +1,3 @@
+of predictions from which we infer the mean ˆy(x) for each of the output variables. The mean is used to estimate the different
+error metrics discussed above. We can also estimate the corresponding standard deviation σM(x) which serves as an uncertainty
+quantification. We use the subscript M to emphasize that we consider the model’s inherent uncertainty that is estimated for each

@@ -1,0 +1,4 @@
+individual input point. Standard deterministic machine learning-based parameterizations do not provide the inherent uncertainty
+and can only return uncertainties by averaging over several input points (e.g. different input points across space and/or time
+which gives uncertainties that are “contaminated" with spatial and/or temporal physical variations).
+Figure 12 shows the density plots of the uncertainty σM as a function of the prediction error evaluated on the test dataset for

@@ -1,0 +1,9 @@
+smaller predictive variances and vanishes completely for point
+estimates. The CRPS definition is naturally extended to the
+ensemble models by taking each ensemble member prediction
+as a sample of an implicit predictive distribution.
+References
+1. Brenowitz, N. D. & Bretherton, C. S. Prognostic valida-
+tion of a neural network unified physics parameterization.
+Geophys. Res. Lett. 45, 6289–6298 (2018).
+2. Rasp, S., Pritchard, M. S. & Gentine, P. Deep learning

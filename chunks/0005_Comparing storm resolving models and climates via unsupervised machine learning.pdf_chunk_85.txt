@@ -1,0 +1,6 @@
+The top panels (g,j) show clear differences in their latent organization compared to the remaining models; see 
+“Dynamic consistency between high-resolution climate models” for a discussion. Movies S2–S6 show additional 
+animations of the latent space.
+Figure 4.   The results from the VAE trained on DYAMOND UM data. Unsupervised clustering ( k = 3 ) 
+obtained from UM test data reveals three distinct regimes of convection. Panel (a) shows each cluster’s median 
+vertical structure, calculated by

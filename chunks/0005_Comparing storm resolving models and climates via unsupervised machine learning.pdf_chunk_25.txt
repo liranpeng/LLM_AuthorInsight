@@ -1,0 +1,5 @@
+www.nature.com/scientificreports/
+the atmosphere), we find a clear distinction between top-heavy (deep) and bottom-heavy (shallow) convection 
+types. Furthermore, plotting the proportion of each of the three clusters for every spatial coordinate separately 
+reveals a distinction of one cluster dominating over land, and two over oceans. We thus find that the three 
+dominant clusters represent marine shallow convection (blue), deep convection (red), and continental shallow

@@ -1,0 +1,4 @@
+(GSRMs) from the DYAMOND archive, and a multi-scale modeling framework (MMF)51,52. GSRMs are 
+numerical simulators that provide uniform high-resolution simulations of the entire atmosphere. On the other 
+hand, MMFs are a specialized type of coarse-resolution global climate model that incorporate small, periodic 
+2D subdomains of local storm resolving dynamics (LSRMs)5,53. In our study, we utilize the Super Parameterized

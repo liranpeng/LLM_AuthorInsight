@@ -1,0 +1,10 @@
+initiation and dynamics of the madden-julian oscillation
+in a coarse resolution aquaplanet gcm. Geophys. Res. Lett.
+40, 6252–6257 (2013).
+24. Dawson, A. & Palmer, T. N. Simulating weather regimes:
+impact of model resolution and stochastic parameteriza-
+tion. Clim. Dyn. 44, 2177–2193 (2015).
+25. Berner, J. et al. Stochastic parameterization: Toward
+a new view of weather and climate models. Bull. Am.
+Meteorol. Soc. 98, 565 – 588 (2017).
+26. Brenowitz, N. D., Beucler, T., Pritchard, M. & Brether-

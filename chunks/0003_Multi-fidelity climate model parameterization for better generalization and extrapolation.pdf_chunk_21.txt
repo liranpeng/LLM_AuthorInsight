@@ -1,0 +1,9 @@
+throughout the column on temperature tendency.
+Datasets
+Our evaluation consists of the CESM (high-fidelity) Super-
+parameterized Community Atmospheric Model version 5 (SP-
+CAM5) in a real geography setup (Methods). Unlike CAM5,
+SPCAM5 nearly explicitly resolves atmospheric moist con-
+vection (including deep convection) by using idealized em-
+bedded cloud resolving models64,65, introducing less physical
+approximations. Both models incorporate the CAM radiation

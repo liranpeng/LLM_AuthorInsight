@@ -1,0 +1,5 @@
+59.	 Mooers, G., Tuyls, J., Mandt, S., Pritchard, M., & Beucler, T. G. Generative modeling of atmospheric convection. In Proceedings 
+of the 10th International Conference on Climate Informatics, CI2020, New York, NY, USA, 98–105 (Association for Computing 
+Machinery, 2020). ISBN 9781450388481. https://​doi.​org/​10.​1145/​34293​09.​34293​24.
+	60.	 Lloyd, S. Least squares quantization in pcm. IEEE Trans. Inf. Theory 28(2), 129–137. https://​doi.​org/​10.​1109/​TIT.​1982.​10564​89 
+(1982).

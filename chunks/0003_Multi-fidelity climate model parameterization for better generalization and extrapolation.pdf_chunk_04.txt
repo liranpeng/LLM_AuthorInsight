@@ -1,0 +1,5 @@
+We show the MF-RPN’s capacity to return much more skillful predictions compared to either low- or high-fidelity (historical data)
+simulations trained only on one regime while providing trustworthy uncertainty quantification across a wide range of scenarios.
+Our approach paves the way for the use of machine-learning based methods that can optimally leverage historical observations
+or high-fidelity simulations and extrapolate to unseen regimes such as climate change.
+Introduction

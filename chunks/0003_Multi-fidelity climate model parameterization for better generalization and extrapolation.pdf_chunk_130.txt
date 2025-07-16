@@ -1,0 +1,10 @@
+atmospheres: Rrtm, a validated correlated-k model for
+the longwave. J. Geophys. Res. Atmospheres 102, 16663–
+16682 (1997).
+68. Yang, Y., Kissas, G. & Perdikaris, P. Scalable uncertainty
+quantification for deep operator networks using random-
+ized priors. Comput. Methods Appl. Mech. Eng. 399,
+115399 (2022).
+69. Glorot, X. & Bengio, Y. Understanding the difficulty of
+training deep feedforward neural networks. In Teh, Y. W.
+& Titterington, M. (eds.) Proceedings of the Thirteenth

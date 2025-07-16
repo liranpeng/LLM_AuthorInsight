@@ -1,0 +1,8 @@
+defines the probability distributions from which the fixed non-
+trainable parameters are sampled. RPNs also resort to data
+bootstrapping in order to mitigate a potential uncertainty col-
+lapse of the ensemble method when tested beyond the training
+data points60. Data bootstrapping consists of sub-sampling
+and randomization of the data on which each network in the
+ensemble is trained.
+The Single High Fidelity model corresponds to a standard

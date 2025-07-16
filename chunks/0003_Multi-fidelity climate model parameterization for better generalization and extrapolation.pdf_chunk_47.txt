@@ -1,0 +1,8 @@
+clearly outperforms all other models with an average R2 equal
+to 0.73 across different vertical levels (figure 2.b). In addition,
+for all levels where the deterministic NN, SF-HF-RPN and LF-
+RPN all fail (e.g. all levels below 160hPa, 897 and 937hPa),
+the MF-RPN is still capable of providing significantly better
+results than all these models showing even positive R2 values
+(e.g. 0.36 and 0.32 for levels 897 and 937hPa) thanks to both
+datasets aggregation.

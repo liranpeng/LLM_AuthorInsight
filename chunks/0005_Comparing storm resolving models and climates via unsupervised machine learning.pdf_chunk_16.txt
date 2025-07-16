@@ -1,0 +1,4 @@
+convective regimes. The GSRMs’ varying horizontal and vertical resolutions and other sub-grid parameterization 
+choices are detailed in Tables 1 and 2 ­of4. Figure 2 and Movie S1 provide example data. These selected datasets 
+provide us with a comprehensive testbed of vertical velocity imagery.
+Besides comparing different GSRMs on the present climate, we also consider data produced by a single

@@ -1,0 +1,9 @@
+SPCAM_cv_param.
+Authors declare that they have no known competing fi-
+nancial interests or personal relationships that could have
+appeared to influence the work reported in this paper.
+14/27
+Supplementary Information
+Global errors
+For the heat tendency and the vertical levels where the deterministic NN shows significantly negative R2 values, the SF-HF-RPN
+R2 values are also negative but very similar to those of the deterministic NN (between 3.5 and 305 hPa, figure 6.a). However,

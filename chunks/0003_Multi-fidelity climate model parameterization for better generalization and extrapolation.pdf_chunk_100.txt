@@ -1,0 +1,11 @@
+R2 = 1−∑i∈D(yi −ˆyi)2
+∑i∈D(yi −¯y)2
+(3)
+where ¯y represents the true target value averaged over the
+test dataset D. The definition of the different choices for the
+test dataset D is the same as detailed above for MAE.
+Stochastic Metric (CRPS):
+The Continuous Ranked Probability Score (CRPS)83,84 is
+a generalization of the MAE for distributional predictions.
+CRPS penalizes over-confidence in addition to inaccuracy in
+ensemble predictions. A lower CRPS value corresponds to

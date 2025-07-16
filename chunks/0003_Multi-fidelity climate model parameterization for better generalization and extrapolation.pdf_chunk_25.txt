@@ -1,0 +1,7 @@
+respectively. Parameterization input and output are of dimension 52 and 48 respectively. a, Low-fidelity problem setting for
+multi-fidelity RPN-based CAM5/SPCAM5 convection superparameterization. b, High-fidelity problem setting for
+multi-fidelity RPN-based CAM5/SPCAM5 convection superparameterization
+function of Julian calendar day, latitude, longitude and Solar
+declination.
+Since we are interested in warmer climate scenarios, the
+CAM5 simulation corresponding to a global warming situa-

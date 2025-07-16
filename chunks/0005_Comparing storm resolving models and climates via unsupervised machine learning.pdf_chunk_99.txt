@@ -1,0 +1,4 @@
+space that exhibits physical properties (vertical structure, intensity, and geographic domain) that are distinct from 
+those of other groups. By identifying the maximum number of unique clusters, we are able to create three distinct 
+regimes of convection, as shown in Fig. 4. We have observed that increasing K above three usually results in sub-
+groups of “Deep Convection” that do not exhibit any discernible differences in either vertical mode, intensity, or

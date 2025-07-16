@@ -1,0 +1,8 @@
+levels between around 250 and 800 hPa, where lies the double
+ITCZ region (figures 4.a and 4.b). The MF-RPN shows sig-
+nificant improvement for the heat tendency parameterization
+in the stratosphere, mostly within the polar region and the
+temperate zone. It also displays a better parameterization for
+the heat tendency within the first vertical level close to sea
+surface, showing a better parameterization for boundary layer
+regions (figure 4.a). For the heat tendency, the SF-HF-RPN

@@ -1,0 +1,8 @@
+to its low-fidelity component, (2) while also harnessing more
+physically-consistent and higher accuracy high-fidelity data.
+There is still room for improving the proposed multifi-
+delity parameterization scheme by enforcing physical con-
+straints75,76, aggregating observational data and extending it
+to an online setting within differentiable solvers when avail-
+able32,77. Nonetheless, whereas existing machine learning-
+based climate parameterizations struggle to generalize beyond

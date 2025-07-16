@@ -1,0 +1,5 @@
+model does not show higher errors compared to the deterministic NN. model at pressure level 259 hPa (figure 8.d), and does
+improve the heat convection parameterization at pressure levels 494 and 761 hPa (figures 8.e and 8.f). Hence, the SF-HF-RPN
+is capable of better resolving the convection stochasticity across different vertical levels for the heat tendency compared to the
+moisture one.
+Pressure-latitude errors structure

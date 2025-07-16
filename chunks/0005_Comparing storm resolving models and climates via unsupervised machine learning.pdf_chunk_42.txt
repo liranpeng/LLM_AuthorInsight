@@ -1,0 +1,4 @@
+The assessment of the distribution shift is a powerful tool for comparing different climate models, but also for 
+investigating the impact of global warming on atmospheric convection. In this section, we apply our approach 
+to the SPCAM model, which provides simulation data for two different global temperature levels: present-day 
+conditions and a scenario with +4 K of sea surface temperature warming. Besides predicting changes to the

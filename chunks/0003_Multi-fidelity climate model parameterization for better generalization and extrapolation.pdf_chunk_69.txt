@@ -1,0 +1,8 @@
+based parameterization of convection and is hence taken as
+low-fidelity model. The high-fidelity model is taken as the
+super-parameterized CAM version 5 model (SPCAM5). No-
+tably, while CAM5 employs certain standard packages, SP-
+CAM5 distinguishes itself by its capability to explicitly re-
+solve sub-grid scale physical processes, making it computa-
+tionally broader in scope78. Within CAM5, the micro-physics
+is driven by the two-moment bulk strati-form cloud micro-

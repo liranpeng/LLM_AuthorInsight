@@ -1,0 +1,7 @@
+corresponding to marine shallow convection (a), deep convection (b), and “Green Cumulus” convection (c). 
+Panel (d) shows the shift in the mean vertical structure of each convection type with warming (solid vs. dashed 
+lines). This unsupervised approach captures key signals of global warming, including geographic sorting of 
+convection (a,b), expansion of arid zones over the continents (c), and anticipated changes to turbulence in a 
+hotter atmosphere (d).
+11
+Vol.:(0123456789)

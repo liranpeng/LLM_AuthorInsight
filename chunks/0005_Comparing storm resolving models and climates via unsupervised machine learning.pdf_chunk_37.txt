@@ -1,0 +1,4 @@
+IFS, SHIELD, ARPEGE) shows a relatively high degree of mutual similarity. It is worth noting that Fig. 5b shows 
+similar results; here we use a lower but physically interpretable cluster count (K = 3).
+Our results obtained from vector quantization align well with our earlier investigations in “Latent space 
+inquiry uncovers differences among storm-resolving models”. In both approaches (“Latent space inquiry uncovers

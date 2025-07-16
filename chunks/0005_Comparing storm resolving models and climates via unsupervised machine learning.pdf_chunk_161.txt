@@ -1,0 +1,4 @@
+ACI-1548562 (charge number TG-ATM190002). DYAMOND data management was provided by the German 
+Climate Computing Center (DKRZ) and supported through the projects ESiWACE and ESiWACE2. The projects 
+ESiWACE and ESiWACE2 have received funding from the European Union’s Horizon 2020 research and inno-
+vation programme under Grant agreements No 675191 and 823988. This work used resources of the German

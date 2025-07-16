@@ -1,0 +1,3 @@
+poor performance even in the period between February 1st 2003 and April 31st 2003 (figures 11.a and 11.d). On the other
+hand, their error temporal variations for the vertical levels 494 and 761 hPa do show a significantly lower performance when
+extrapolating beyond the training period (figures 11.b, 11.c, 11.e and 11.f). These results along with those obtained for the heat

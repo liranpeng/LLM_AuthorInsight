@@ -1,0 +1,4 @@
+beyond the training data, which is however critical to projecting climate change or unobserved regimes of turbulence. Here we
+show that a multi-fidelity approach, which integrates datasets of different accuracy and abundance, can provide the best of
+both worlds: the capacity to extrapolate leveraging the physically-based parameterization and a higher accuracy using the
+machine-learning-based parameterizations. In an application to climate modeling, the multi-fidelity framework yields more

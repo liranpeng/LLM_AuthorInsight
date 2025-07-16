@@ -1,0 +1,16 @@
+Cite 
+Citation Formats
+•  MLA
+•  APA
+•  Chicago
+•  BibTeX
+Taylor, Mark, et al. "Cloud-resolving Climate
+Modeling of the Earth?s Water Cycle.." , May.
+2022. https://doi.org/10.2172/2003180
+🗎 Copy to clipboard
+Taylor, Mark, Krishna, Jayesh, Wu, Danqing, Jones,
+Phil, Aulwes, Rob, Robey, Bob, Bader, David,
+Hannah, Walter, Lee, Jungmin, Norman, Matt,
+Sreepathi, Sarat, Lyngass, Isaac, Branstetter,
+Marcia, Meena, Murali, Leung, Ruby, Ovchinnikov,
+Mikhail, Pressel, Kyle, Yang, Qiu, ... Peng, Liran

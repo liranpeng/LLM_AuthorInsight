@@ -1,0 +1,4 @@
+and SAM differ significantly from the other models (Fig. S10, second and third rows vs. bottom six). These two 
+divergent GSRMs contain high proportions of stronger convection types, consistent with our previous analysis 
+(Fig. 3 and Figs.  S5–7, S9). For ICON, we find similarly pronounced differences in cluster proportions, showing 
+a higher proportion of strong convection types (continental shallow and deep). While these were primarily

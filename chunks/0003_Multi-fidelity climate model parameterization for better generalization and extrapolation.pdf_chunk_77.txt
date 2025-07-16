@@ -1,0 +1,8 @@
+candidates. The corresponding temporal and spatial resolu-
+tions, model spin-up and temporal sub-sampling are the same
+as detailed above for SPCAM5 simulations. In the context
+of multi-fidelity modelling and given the lower CAM5 com-
+putational cost, the simulation time period was taken from
+February 1st 2003 to January 31st 2004 in each simulation.
+An analysis of the inputs and outputs’ distributions for CAM5
++4K and +8K training datasets shows a broader distribution

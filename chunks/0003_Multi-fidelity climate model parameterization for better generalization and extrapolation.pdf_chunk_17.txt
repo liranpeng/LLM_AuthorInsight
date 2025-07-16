@@ -1,0 +1,10 @@
+obtain skillful extrapolation predictions for unseen HF testing
+data. We show that the proposed MF-RPN can provide the
+best of both worlds: the higher accuracy of the HF data and
+the generalization capability thanks to the LF one. The im-
+proved MF-RPN skillful predictions are tested across various
+error metrics on HF data of unseen warmer climate scenarios
+and against three other surrogate models.
+Results
+Problem setup
+We define the convection superparameterization problem con-

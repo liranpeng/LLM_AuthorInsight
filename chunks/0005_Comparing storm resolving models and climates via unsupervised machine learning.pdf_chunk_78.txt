@@ -1,0 +1,9 @@
+at the symmetrized KL divergence between the normalized PDF of convection type probabilities. The image of 
+earth’s surface was taken from https://​explo​rer1.​jpl.​nasa.​gov/​galle​ries/​earth-​from-​space/.
+7
+Vol.:(0123456789)
+Scientific Reports |        (2023) 13:22365  | 
+https://doi.org/10.1038/s41598-023-49455-w
+www.nature.com/scientificreports/
+Figure 2 provides vertical velocity snapshots for various models used in this paper. For more examples, see 
+Movie 1.

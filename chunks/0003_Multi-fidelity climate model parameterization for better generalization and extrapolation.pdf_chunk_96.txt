@@ -1,0 +1,8 @@
+data points concatenated over space and time. For longitude-
+latitude structure, the error metrics are evaluated on points
+concatenated across time. For pressure-latitude structure, the
+error metrics are evaluated on points concatenated over time
+and longitude. Models errors are evaluated on daily averages
+as performed in Mooers et al.30 in order to have a compre-
+hensive assessment of the models performance. For the MAE
+metric, heat and moisture tendencies are scaled by the specific

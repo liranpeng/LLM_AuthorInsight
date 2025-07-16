@@ -1,0 +1,6 @@
+values of K, in particular K = 3.
+Data availability
+Instructions for acquiring DYAMOND simulation data used to train our models can be found here. Compressed 
+data used for main text and SI figures is publically available at 10.​5281/​zenodo.​80240​93.
+Figure 8.   Comparing the robustness of our VAE-based approach with two baseline methods (clustering in PCA 
+space and in pixel space), we assess symmetrized KL divergences across DYAMOND models. Across physically

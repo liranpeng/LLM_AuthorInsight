@@ -1,0 +1,4 @@
+of interest when compared to data distributions of HF training and testing data. Similarly, the CAM5 +4K is not informative
+neither as the corresponding data spans a similar interval to the CAM5 +8K dataset. For other vertical levels, the CAM5 +8K
+simulation dataset does extrapolate beyond the HF training data (see Methods). These datasets distributions explain the overall
+lower performance observed for LF-RPN and MF-RPN models when it comes to infer the moisture tendency at the lowest

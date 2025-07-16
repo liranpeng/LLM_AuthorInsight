@@ -1,0 +1,4 @@
+(ELBO) (Eq. 3). As detailed in “Methods”, this metric serves as a reflection of the model’s likelihood estimate for 
+each observation, indicating the probability of a particular sample’s occurrence. Examining the probability density 
+function (PDF) of ELBO scores offers a distinct and unique fingerprint for each GSRM. The ELBO also aids in 
+measuring disparities between different data distributions, making it a pivotal tool in our analysis. Utilizing a

@@ -1,0 +1,5 @@
+dataset. a, R2 at P = 259 hPa. b, R2 at P = 494 hPa. c, R2 at P = 761 hPa. d, MAE at P = 259 hPa. e, MAE at P = 494 hPa.
+f, MAE at P = 761 hPa.
+22/27
+Figure 12. Density plot of uncertainty σM as a function of error for testing points concatenated over space and time for
+MF-RPN, LF-RPN and SF-HF-RPN, heat and moisture tendencies and at different vertical levels. a, Heat tendency at

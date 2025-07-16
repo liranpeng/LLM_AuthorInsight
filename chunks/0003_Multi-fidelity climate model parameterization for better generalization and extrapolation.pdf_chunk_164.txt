@@ -1,0 +1,3 @@
+and deterministic NN.’s error temporal variations for the vertical level 259 hPa are mostly governed by extrapolating to a
+different climate scenario rather than extrapolating to a different seasonality. On the other hand, their error temporal variations
+for the vertical level 494 hPa do show a significantly lower performance when extrapolating beyond the training period (figures

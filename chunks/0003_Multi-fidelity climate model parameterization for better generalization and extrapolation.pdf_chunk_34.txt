@@ -1,0 +1,8 @@
+tion input, while the second network (highlighted in blue in
+figure 1) predicts the high-fidelity parameterization output as
+a function of the low-fidelity parameterization output. The
+trainable surrogate model of each member of the MF-RPN is
+trained using a joint training of both networks (Methods).
+Our MF-RPN learns the mappings between related physical
+variables: emulating the parameterization (inputs to outputs)
+at low-fidelity (red network in figure 1), and mapping the

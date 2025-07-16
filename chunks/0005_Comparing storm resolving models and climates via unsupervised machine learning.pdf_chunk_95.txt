@@ -1,0 +1,9 @@
+10
+Vol:.(1234567890)
+Scientific Reports |        (2023) 13:22365  | 
+https://doi.org/10.1038/s41598-023-49455-w
+www.nature.com/scientificreports/
+K‑means clustering
+A central element of our analysis pipeline is analyzing the distribution of the dimensionality-reduced, embedded 
+data zi using K-means ­clustering60,61. We use this algorithm both for small K (yielding interpretable convection 
+types) and large K (for vector quantization, see below).

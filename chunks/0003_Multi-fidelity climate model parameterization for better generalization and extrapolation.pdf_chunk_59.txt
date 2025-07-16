@@ -1,0 +1,7 @@
+levels for the south hemisphere (figure 4.b). The temperate
+zone improvement applies to a smaller region mostly located
+between 250 and 550 hPa levels for the north hemisphere.
+This observation is coherent with the heat tendency results
+showing a higher MF-RPN’s performance for the temperate
+5/27
+Figure 2. R2 and MAE metrics evaluation for different models across all test data points concatenated over space and

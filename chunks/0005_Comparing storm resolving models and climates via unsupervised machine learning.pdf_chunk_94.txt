@@ -1,0 +1,7 @@
+lower bound of the KL Divergence. Panels (c–f) are intermediate K values. To better highlight the structure, we 
+apply agglomerative clustering to the ­columns26 and symmetrize the rows. Regardless of the selected K value, 
+the ultimate results are similar, particuarly for K > 20. We find dynamical consistency between six of the nine 
+GSRMs we examine (6 × 6 light red sub-region corresponding to NICAM, IFS, GEM, SHIELD, ARPEGE, UM), 
+which is in agreement with panel (a).
+10
+Vol:.(1234567890)

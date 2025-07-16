@@ -1,0 +1,4 @@
+the deterministic NN. one in the temperate zone, and the LF-RPN model improving further upon the SF-HF-RPN model within
+the temperate zone and even within the tropics and polar regions.
+For all vertical levels considered, the MF-RPN model improves even further compared to all other models across all regions,
+while still showing some negative R2 values for this extrapolation task like all other models. For the pressure level 494 hPa,

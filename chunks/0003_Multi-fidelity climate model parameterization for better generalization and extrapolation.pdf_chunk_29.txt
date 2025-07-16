@@ -1,0 +1,8 @@
+and a non-trainable (so-called “prior”) surrogate model; we
+used fully-connected neural network for simplicity. Multiple
+replicas of the networks are constructed by independent and
+random sampling of both trainable and non-trainable param-
+eters60,68. The non-trainable parameters are initialized but
+then kept fixed during the fitting process which only optimizes
+over the trainable parameters. In our case of fully-connected
+neural networks, we resort to Glorot initialization69, which

@@ -1,0 +1,4 @@
+discrete ones with increasing confidence. The two data distributions pA(x) and pB(x) result in two distinct cluster 
+proportions πA and πB for which we can estimate the KL as
+The inequality comes from the fact that any such discrete KL estimate lower-bounds the true KL ­divergence66.
+Vector quantization suffers from the curse of dimensionality. To mitigate this issue, we work in the latent

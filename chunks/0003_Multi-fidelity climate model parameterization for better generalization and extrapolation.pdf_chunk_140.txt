@@ -1,0 +1,4 @@
+for the vertical levels where the deterministic NN shows nearly zero to slightly negative R2 values (from 494 to 897 hPa), the
+SF-HF-RPN does significantly improve upon the deterministic NN, showing the ability of the RPN surrogate model to resolve
+part of the convection stochasticity.
+For the moisture tendency and as mentioned in the Results section, the negative R2 values for the deterministic NN. and

@@ -1,0 +1,4 @@
+Community Atmosphere Model (SPCAM) v5 as our MMF. It is consistent with the code base of ­REF33 but 
+configured at a coarser exterior resolution, consisting of 13,824 local 2D (vertical level—longitude cross sections) 
+GSRMs, with each spanning 512 km and composed of 128 grid columns spaced 4 km apart. Since we are 
+only using the DYAMOND II GSRMs data covering the boreal winter (though future work could include the

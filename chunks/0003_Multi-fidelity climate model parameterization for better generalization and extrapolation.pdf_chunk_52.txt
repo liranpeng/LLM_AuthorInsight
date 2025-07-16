@@ -1,0 +1,8 @@
+warmer climates and hence the tropics (the warmest region
+of the world) provide test data-points that are well outside
+the training datasets distributions. In addition, the tropics is a
+challenging region to model in terms of convection and ESMs
+exhibit many typical problems within this region that are re-
+lated to sub-grid convection parameterizations. Among these
+problems we can mention the double inter-tropical conver-
+gence zone (ITCZ)72, too much drizzle and missing precipita-
